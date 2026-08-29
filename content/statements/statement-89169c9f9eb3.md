@@ -30,7 +30,7 @@ type: "accusation"
 **Timestamp:** [00:45:56](/episodes/ep-es7PWdFGoFI.md#t-00-45-54) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2756);return false;">Play</a>
 
-> Tim Poole has now gone out and extraordinarily claimed that I have the same security as Charlie and that I have a fraud and that actually I have the exact same security. You will recall that Tim just said a week ago that I have no security, okay?
+> but further to sort of them just creating and making things up, Tim Poole has now gone out and extraordinarily claimed that I have the same security as Charlie (Charlie Kirk) (Charlie Kirk) and that I have a fraud and that actually I have the exact same security. You will recall that Tim just said a week ago that I have no security, okay?
 
 ## Verification
 

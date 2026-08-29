@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:51:29](/episodes/ep-q1NRQQAYS_Q.md#t-00-51-08) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3089);return false;">Play</a>
 
-> oh actually no mikey did not call you within seconds mikey called his wife ... and then he three-waged you minutes later
+> oh actually no mikey (Michael McCoy) did not call you within seconds mikey (Michael McCoy) called his wife ... and then he three-waged you minutes later
 
 ## Verification
 

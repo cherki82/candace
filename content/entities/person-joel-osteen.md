@@ -3,9 +3,17 @@ title: "Joel Osteen"
 description: "Joel Osteen (People) - 5 mentions"
 id: "person-joel-osteen"
 type: "PERSON"
+categories:
+  - "religious leader"
 ---
 
 _Type: People_
+
+**Categories:** religious leader
+
+**Entity verification:** verified
+> Canonical name and identity for Joel Osteen confirmed by the cited direct external source.
+Source: [Joel Osteen](https://en.wikipedia.org/wiki/Joel_Osteen)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-joel-osteen-t-00-28-55">2025-10-31 · 00:28:55</a></strong></div>

@@ -3,9 +3,17 @@ title: "Project Veritas"
 description: "Project Veritas (Organizations) - 3 mentions"
 id: "org-project-veritas"
 type: "ORG"
+categories:
+  - "media organization"
 ---
 
 _Type: Organizations_
+
+**Categories:** media organization
+
+**Entity verification:** verified
+> Canonical name and identity for Project Veritas confirmed by the cited direct external source.
+Source: [Project Veritas](https://en.wikipedia.org/wiki/Project_Veritas)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-project-veritas-t-00-08-56">2025-10-31 · 00:09:07</a></strong></div>

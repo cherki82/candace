@@ -31,7 +31,7 @@ type: "factual_claim"
 **Timestamp:** [00:04:28](/episodes/ep-UYkXV9mYbT4.md#t-00-03-58) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(268);return false;">Play</a>
 
-> I wanted to secure the footage for Erica so that she wouldn't have to see the footage of Charlie being shot in 4K.
+> I wanted to secure the footage for Erika (Erika Kirk) so that she wouldn't have to see the footage of Charlie (Charlie Kirk) being shot in 4K.
 
 ## Verification
 

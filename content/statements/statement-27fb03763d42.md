@@ -31,7 +31,7 @@ veracity: "false"
 **Timestamp:** [00:32:19](/episodes/ep-CMcktj3Egfo.md#t-00-31-49) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1939);return false;">Play</a>
 
-> It’s almost as if the Mossad and the CIA,
+> It's almost as if the Mossad and the CIA,
 
 ## Verification
 

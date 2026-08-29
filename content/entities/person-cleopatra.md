@@ -3,9 +3,17 @@ title: "Cleopatra"
 description: "Cleopatra (People) - 1 mention"
 id: "person-cleopatra"
 type: "PERSON"
+categories:
+  - "historical political figure"
 ---
 
 _Type: People_
+
+**Categories:** historical political figure
+
+**Entity verification:** verified
+> Canonical name and identity for Cleopatra confirmed by the cited direct external source.
+Source: [Cleopatra](https://en.wikipedia.org/wiki/Cleopatra)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-person-cleopatra-t-00-02-17">2025-11-21 · 00:02:22</a></strong></div>

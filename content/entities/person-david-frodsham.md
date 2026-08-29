@@ -16,7 +16,7 @@ _Type: People_
 Source: [CBS News — David Frodsham investigation](https://www.cbsnews.com/news/david-frodsham-civilian-army-leader-child-porn-ring-risked-us-security/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-david-frodsham-t-00-35-55">2026-01-06 · 00:36:25</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-david-frodsham-t-00-36-08">2026-01-06 · 00:36:25</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-david-frodsham-t-00-14-55">2026-01-09 · 00:15:24</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
@@ -28,16 +28,16 @@ Source: [CBS News — David Frodsham investigation](https://www.cbsnews.com/news
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-david-frodsham-t-00-35-55">BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-david-frodsham-t-00-36-08">BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-david-frodsham-t-00-35-55" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-david-frodsham-t-00-36-08" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-david-frodsham-t-00-14-55" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-david-frodsham-t-00-35-55) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-david-frodsham-t-00-36-08) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-david-frodsham-t-00-14-55) | 1 |
 
 </details>
@@ -59,7 +59,7 @@ Source: [CBS News — David Frodsham investigation](https://www.cbsnews.com/news
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
 
-**[00:36:25](/episodes/ep-HYn0P-P1wUw.md#ent-person-david-frodsham-t-00-35-55)**
+**[00:36:25](/episodes/ep-HYn0P-P1wUw.md#ent-person-david-frodsham-t-00-36-08)**
 > "That person's name was David Frodsham. He was a top civilian commander at a U.S. air ba..."
 
 </details>
@@ -87,8 +87,8 @@ _No relationships extracted yet._
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1)</summary>
 
-- [00:36:12](/episodes/ep-HYn0P-P1wUw.md#t-00-35-55) (Accusation) **CBS News** (via quoted article): ["The U.S. Army missed warning signs that civilian commander David Frods..."](/statements/statement-72052cf2c4f3.md)
-  - Also about: [United States Army](/entities/org-united-states-army.md), [CBS News](/entities/org-cbs-news.md)
+- [00:36:12](/episodes/ep-HYn0P-P1wUw.md#t-00-36-08) (Accusation) **CBS News** (via quoted article): ["The U.S. Army missed warning signs that civilian commander David Frods..."](/statements/statement-72052cf2c4f3.md)
+  - Also about: [United States Army](/entities/org-united-states-army.md)
 
 </details>
 

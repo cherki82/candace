@@ -33,7 +33,7 @@ veracity: "true"
 **Timestamp:** [00:14:16](/episodes/ep-q1NRQQAYS_Q.md#t-00-14-16) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(856);return false;">Play</a>
 
-> The reason Erica is front and centre at turning point is because when Charlie was alive, people repeatedly asked, Charlie we're worried something will happen to you. People always speculated that something could happen to Charlie. ... he would just say like oh, it'll be fine, Erica will take over for me. That is what he said ... over and over.
+> The reason Erica (Erika Kirk) is front and centre at turning point is because when Charlie (Charlie Kirk) was alive, people repeatedly asked, Charlie (Charlie Kirk) we're worried something will happen to you. People always speculated that something could happen to Charlie (Charlie Kirk). And when he was asked he would he would first of ... he would just say, like, 'Oh, it'll be fine. Erica (Erika Kirk) will take over for me.' That is what he said over and over.
 
 ## Verification
 

@@ -11,7 +11,7 @@ object: "person-charlie-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) worked with [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (11 mentions)
+### Evidence (12 mentions)
 
 **[Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY)**
 
@@ -40,6 +40,10 @@ object: "person-charlie-kirk"
 **[I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8)**
 
 - [00:55:29](/episodes/ep-VMNWMXX1vO8#t-00-55-29): _when I toured with Charlie (Charlie Kirk) for five years_
+
+**[EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs)**
+
+- [00:48:42](/episodes/ep-Vu6Y24pqhZs#t-00-48-42): _I did tours. I had a contract with Charlie (Charlie Kirk). You understand how this impacts to see somebody build something and to be so trusting and to then realize that so many elements of his life were a lie and then to realize elements of my life and my beginning in politics was a lie as well._
 
 **[The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c)**
 

@@ -15,7 +15,7 @@ object: "org-bilt-incorporated"
 
 **[Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU)**
 
-- [00:10:25](/episodes/ep-rupRLXmSndU#t-00-10-25): _Okay, let's check this out. It lists Ahmed first and foremost, as you can see here, as the president and COO of Built Incorporated, which is based in Dallas-Fort Worth, Texas._
+- [00:10:25](/episodes/ep-rupRLXmSndU#t-00-10-25): _Okay, let's check this out. It lists Ahmed (Ahmed Qureshi) first and foremost, as you can see here, as the president and COO of Built Incorporated, which is based in Dallas-Fort Worth, Texas._
 
 ### Related
 

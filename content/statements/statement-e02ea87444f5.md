@@ -24,7 +24,7 @@ type: "factual_claim"
 **Timestamp:** [00:12:58](/episodes/ep-9k2xrAC0H88.md#t-00-12-27) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(778);return false;">Play</a>
 
-> Over 9 billion has been spent on research and development of technology that can detect explosives...no man created technology comes close to conquering the scent of a dog
+> Over $19 billion has been spent on research and development of technology that can detect explosives. Over $19 billion. And yet, no man created technology comes close to conquering the scent of a dog.
 
 ## Verification
 

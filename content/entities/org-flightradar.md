@@ -5,11 +5,19 @@ id: "org-flightradar"
 type: "ORG"
 aliases:
   - "Flightradar24"
+categories:
+  - "flight tracking company"
 ---
 
 _Type: Organizations_
 
 **Also known as:** Flightradar24
+
+**Categories:** flight tracking company
+
+**Entity verification:** verified
+> Canonical name and identity for FlightRadar confirmed by the cited direct external source.
+Source: [About Flightradar24](https://www.flightradar24.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-org-flightradar-t-00-02-07">2025-10-30 · 00:02:17</a></strong></div>

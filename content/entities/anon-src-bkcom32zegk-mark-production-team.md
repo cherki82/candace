@@ -1,6 +1,6 @@
 ---
 title: "Mark from Candace's production team (surname unidentified)"
-description: "Mark from Candace's production team (surname unidentified) (Anonymous Sources) - 1 mention"
+description: "Mark from Candace's production team (surname unidentified) (Anonymous Sources) - 2 mentions"
 id: "anon-src-bkcom32zegk-mark-production-team"
 type: "ANONYMOUS_SOURCE"
 categories:
@@ -17,7 +17,7 @@ _Type: Anonymous Sources_
 
 <div class="entity-summary-grid">
 <div><span>Episodes</span><strong>0</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -27,7 +27,7 @@ _Type: Anonymous Sources_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
 
 </details>
 

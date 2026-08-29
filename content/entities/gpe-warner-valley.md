@@ -3,9 +3,18 @@ title: "Warner Valley"
 description: "Warner Valley (Places) - 7 mentions"
 id: "gpe-warner-valley"
 type: "GPE"
+categories:
+  - "Washington County, Utah geography"
+  - "valley"
 ---
 
 _Type: Places_
+
+**Categories:** Washington County, Utah geography, valley
+
+**Entity verification:** verified
+> The U.S. Bureau of Land Management identifies Warner Valley near St. George, Utah; source context independently places it about 12 miles from St. George.
+Source: [Warner Valley Dinosaur Track Site - Bureau of Land Management](https://www.blm.gov/visit/warner-valley-dinosaur-track-site)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-gpe-warner-valley-t-00-22-59">2025-09-17 · 00:23:20</a></strong></div>

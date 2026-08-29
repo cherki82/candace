@@ -71,7 +71,7 @@ Source: [Joint Forces Training Base - Los Alamitos | Cal Guard](https://calguard
 - **[Los Alamitos, California](/entities/gpe-los-alamitos-california.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:51:46](/episodes/ep-UYkXV9mYbT4.md#t-00-51-24): “She wrote, FYI, the Long Beach Airport is a quick 10 to 15 minute drive to a small military base in Los Alamitos. ... It is the Joint Forces Air Base. Oh, JTF, Fort Wachuka.”
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:51:46](/episodes/ep-UYkXV9mYbT4.md#t-00-51-24): “She wrote, FYI, the Long Beach Airport is a quick 10 to 15 minute drive to a small military base in Los Alamitos. ... It is the Joint Forces Air Base. Oh, JTF, Fort Huachuca.”
 
 </details>
 
@@ -83,7 +83,7 @@ Source: [Joint Forces Training Base - Los Alamitos | Cal Guard](https://calguard
 - **[Los Alamitos, California](/entities/gpe-los-alamitos-california.md)** location of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:51:46](/episodes/ep-UYkXV9mYbT4.md#t-00-51-24): “She wrote, FYI, the Long Beach Airport is a quick 10 to 15 minute drive to a small military base in Los Alamitos. ... It is the Joint Forces Air Base. Oh, JTF, Fort Wachuka.”
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:51:46](/episodes/ep-UYkXV9mYbT4.md#t-00-51-24): “She wrote, FYI, the Long Beach Airport is a quick 10 to 15 minute drive to a small military base in Los Alamitos. ... It is the Joint Forces Air Base. Oh, JTF, Fort Huachuca.”
 
 </details>
 

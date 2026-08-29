@@ -15,7 +15,7 @@ object: "person-megyn-kelly"
 
 **[An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg)**
 
-- [00:28:20](/episodes/ep-ZIH5-V6UPkg#t-00-28-20): _We decided to write this after Trump published a true social post attacking our company, Meghan Kelly, Candace Owens, and Alex Jones, each of whom supported him for years._
+- [00:28:20](/episodes/ep-ZIH5-V6UPkg#t-00-28-20): _We decided to write this after Trump published a true social post attacking our company, Megyn Kelly, Candace Owens, and Alex Jones, each of whom supported him for years._
 
 ### Related
 

@@ -3,9 +3,17 @@ title: "Al Sharpton"
 description: "Al Sharpton (People) - 2 mentions"
 id: "person-al-sharpton"
 type: "PERSON"
+categories:
+  - "civil rights activist"
 ---
 
 _Type: People_
+
+**Categories:** civil rights activist
+
+**Entity verification:** verified
+> The organization's official site confirms the canonical name, founder role, and civil-rights leadership.
+Source: [Rev Al Sharpton — National Action Network](https://www.nationalaction.network/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-r1PS67aRmcA.md#ent-person-al-sharpton-t-00-07-09">2025-11-08 · 00:07:21</a></strong></div>

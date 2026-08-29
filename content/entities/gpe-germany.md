@@ -1,6 +1,6 @@
 ---
 title: "Germany"
-description: "Germany (Places) - 27 mentions"
+description: "Germany (Places) - 33 mentions"
 id: "gpe-germany"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [The Federal Government of Germany](https://www.bundesregierung.de/breg-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-germany-t-00-24-03">2025-10-02 · 00:24:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-germany-t-00-36-48">2026-06-24 · 00:36:59</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>27</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-germany-t-00-35-05">2026-08-21 · 00:35:31</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>33</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,23 +33,25 @@ Source: [The Federal Government of Germany](https://www.bundesregierung.de/breg-
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-germany-t-00-18-20">Charlie Ripped A Hole In Reality | Candace Ep 253</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-germany-t-00-33-28">Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-germany-t-00-24-03" style="--pulse-height:75%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 3 mentions" title="2025-10-02 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-germany-t-00-18-20" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 4 mentions" title="2025-10-28 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-germany-t-00-23-18" style="--pulse-height:50%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 2 mentions" title="2026-01-20 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-germany-t-00-30-08" style="--pulse-height:100%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 4 mentions" title="2026-01-27 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-germany-t-00-39-45" style="--pulse-height:25%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-germany-t-00-13-33" style="--pulse-height:25%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1IY2oD-_xVA.md#ent-gpe-germany-t-00-05-15" style="--pulse-height:50%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-germany-t-00-04-42" style="--pulse-height:25%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-germany-t-00-31-13" style="--pulse-height:25%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-germany-t-00-25-51" style="--pulse-height:25%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-germany-t-00-09-39" style="--pulse-height:25%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-eMtjzXkQrsU.md#ent-gpe-germany-t-00-39-30" style="--pulse-height:25%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-germany-t-00-33-55" style="--pulse-height:25%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-germany-t-00-22-44" style="--pulse-height:25%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-germany-t-00-36-48" style="--pulse-height:25%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-gpe-germany-t-00-24-03" style="--pulse-height:60%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 3 mentions" title="2025-10-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-germany-t-00-18-20" style="--pulse-height:80%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 4 mentions" title="2025-10-28 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-germany-t-00-23-18" style="--pulse-height:40%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 2 mentions" title="2026-01-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-germany-t-00-30-08" style="--pulse-height:80%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 4 mentions" title="2026-01-27 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-germany-t-00-39-45" style="--pulse-height:20%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-germany-t-00-13-33" style="--pulse-height:20%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-gpe-germany-t-00-05-15" style="--pulse-height:40%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-germany-t-00-04-42" style="--pulse-height:20%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-germany-t-00-31-13" style="--pulse-height:20%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-germany-t-00-25-51" style="--pulse-height:20%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-germany-t-00-09-39" style="--pulse-height:20%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-gpe-germany-t-00-39-30" style="--pulse-height:20%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-germany-t-00-33-55" style="--pulse-height:20%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-germany-t-00-22-44" style="--pulse-height:20%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-germany-t-00-36-48" style="--pulse-height:20%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-germany-t-00-57-26" style="--pulse-height:20%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-germany-t-00-33-28" style="--pulse-height:100%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 5 mentions" title="2026-08-21 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -70,6 +72,8 @@ Source: [The Federal Government of Germany](https://www.bundesregierung.de/breg-
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-germany-t-00-33-55) | 1 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-gpe-germany-t-00-22-44) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-germany-t-00-36-48) | 1 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-germany-t-00-57-26) | 1 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-gpe-germany-t-00-33-28) | 5 |
 
 </details>
 </section>
@@ -77,7 +81,35 @@ Source: [The Federal Government of Germany](https://www.bundesregierung.de/breg-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (5 mentions)</summary>
+
+**[00:33:28](/episodes/ep-_cNtgris8Ik.md#ent-gpe-germany-t-00-33-28)**
+> "...h late german state in stayed Germany"
+
+**[00:33:30](/episodes/ep-_cNtgris8Ik.md#ent-gpe-germany-t-00-33-30)**
+> "in germany which you know there's a lot"
+
+**[00:34:29](/episodes/ep-_cNtgris8Ik.md#ent-gpe-germany-t-00-34-29)**
+> "...she just meant, oh, he wanted Germany's economy to grow. He wanted to undo Versailles. Sh..."
+
+**[00:35:21](/episodes/ep-_cNtgris8Ik.md#ent-gpe-germany-t-00-35-05)**
+> "...he had just wanted to stay in Germany and make Germany great, we wouldn't have an issue..."
+
+**[00:35:31](/episodes/ep-_cNtgris8Ik.md#ent-gpe-germany-t-00-35-05)**
+> ".... He had ambitions outside of Germany. That's what I said."
+
+</details>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
+
+**[00:57:26](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-germany-t-00-57-26)**
+> "to get to Germany"
+
+</details>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Paleovalley"
-description: "Paleovalley (Organizations) - 84 mentions"
+description: "Paleovalley (Organizations) - 100 mentions"
 id: "org-paleovalley"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Paleovalley](https://paleovalley.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-paleovalley-t-00-39-02">2025-09-16 · 00:39:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-org-paleovalley-t-00-41-50">2026-07-16 · 00:42:20</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>84</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-org-paleovalley-t-00-43-58">2026-08-18 · 00:44:08</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>100</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -53,6 +53,10 @@ Source: [Paleovalley](https://paleovalley.com/)
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-org-paleovalley-t-00-50-16" style="--pulse-height:78%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 7 mentions" title="2026-06-09 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-paleovalley-t-00-42-30" style="--pulse-height:56%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 5 mentions" title="2026-06-16 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-org-paleovalley-t-00-41-07" style="--pulse-height:56%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 5 mentions" title="2026-07-16 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-org-paleovalley-t-00-29-44" style="--pulse-height:56%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 5 mentions" title="2026-07-30 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-paleovalley-t-00-52-32" style="--pulse-height:44%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 4 mentions" title="2026-08-07 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#ent-org-paleovalley-t-00-23-54" style="--pulse-height:44%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 4 mentions" title="2026-08-10 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-org-paleovalley-t-00-43-17" style="--pulse-height:33%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 3 mentions" title="2026-08-18 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -75,6 +79,10 @@ Source: [Paleovalley](https://paleovalley.com/)
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-org-paleovalley-t-00-50-16) | 7 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-org-paleovalley-t-00-42-30) | 5 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-paleovalley-t-00-41-07) | 5 |
+| 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-org-paleovalley-t-00-29-44) | 5 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-org-paleovalley-t-00-52-32) | 4 |
+| 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-org-paleovalley-t-00-23-54) | 4 |
+| 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-org-paleovalley-t-00-43-17) | 3 |
 
 </details>
 </section>
@@ -82,7 +90,75 @@ Source: [Paleovalley](https://paleovalley.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (84)</strong></summary>
+<summary><strong class="section-title">Raw mentions (100)</strong></summary>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (3 mentions)</summary>
+
+**[00:43:28](/episodes/ep-4JxgOclKzqg.md#ent-org-paleovalley-t-00-43-17)**
+> "Yes, Paleo Valley uses 100% grass-fed and grass-finished beef sourc..."
+
+**[00:43:58](/episodes/ep-4JxgOclKzqg.md#ent-org-paleovalley-t-00-43-58)**
+> "...t 20% off your first order at paleovalley.com. Be sure to use code CANDACE at checkout."
+
+**[00:44:08](/episodes/ep-4JxgOclKzqg.md#ent-org-paleovalley-t-00-43-58)**
+> "That's paleovalley.com using promo code CANDACE at checkout. I also ..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (4 mentions)</summary>
+
+**[00:24:12](/episodes/ep-5zgkrOaCCj4.md#ent-org-paleovalley-t-00-23-54)**
+> "...o want to tell you guys about Paleo Valley because my husband recently got back from his Cat..."
+
+**[00:24:39](/episodes/ep-5zgkrOaCCj4.md#ent-org-paleovalley-t-00-24-39)**
+> "Paleo Valley uses 100% grass-fed and grass-finished beef sourc..."
+
+**[00:25:00](/episodes/ep-5zgkrOaCCj4.md#ent-org-paleovalley-t-00-24-39)**
+> "... good as it sounds, check out Paleo Valley Beef Sticks. Once you try them, you'll probably s..."
+
+**[00:25:13](/episodes/ep-5zgkrOaCCj4.md#ent-org-paleovalley-t-00-24-39)**
+> "...t 20% off your first order at paleovalley.com and use code Candace at checkout. That's pale..."
+
+</details>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (4 mentions)</summary>
+
+**[00:52:38](/episodes/ep-d7VsbEIWkP8.md#ent-org-paleovalley-t-00-52-32)**
+> "Paleo Valley"
+
+**[00:53:05](/episodes/ep-d7VsbEIWkP8.md#ent-org-paleovalley-t-00-52-32)**
+> "Paleo Valley uses 100% grass fed and grass finished. finished ..."
+
+**[00:53:34](/episodes/ep-d7VsbEIWkP8.md#ent-org-paleovalley-t-00-53-13)**
+> "... good as it sounds, check out Paleo Valley Beef Sticks. Once you try them, you will probably..."
+
+**[00:53:40](/episodes/ep-d7VsbEIWkP8.md#ent-org-paleovalley-t-00-53-13)**
+> "...t 20% off your first order at paleovalley.com and use code CANDACE at checkout. That's pale..."
+
+</details>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (5 mentions)</summary>
+
+**[00:29:44](/episodes/ep-AoYZel7_cGQ.md#ent-org-paleovalley-t-00-29-44)**
+> "...e in spain and apparently the paleo valley beef sticks became the unofficial snack of the tr..."
+
+**[00:30:08](/episodes/ep-AoYZel7_cGQ.md#ent-org-paleovalley-t-00-29-44)**
+> "...etween healthy and delicious. Paleo Valley uses 100% grass-fed and grass-finished beef sourc..."
+
+**[00:30:33](/episodes/ep-AoYZel7_cGQ.md#ent-org-paleovalley-t-00-30-26)**
+> "... good as it sounds, check out Paleo Valley Beef Sticks. Once you try them, you'll probably s..."
+
+**[00:30:45](/episodes/ep-AoYZel7_cGQ.md#ent-org-paleovalley-t-00-30-26)**
+> "...t 20% off your first order at paleovalley.com and use code Candace at checkout."
+
+**[00:30:52](/episodes/ep-AoYZel7_cGQ.md#ent-org-paleovalley-t-00-30-26)**
+> "Again, that's paleovalley.com, a promo code Candace at checkout."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (5 mentions)</summary>
@@ -430,12 +506,13 @@ Source: [Paleovalley](https://paleovalley.com/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:37:56](/episodes/ep-7FS1tUeSfdE.md#t-00-37-14): “That's why I've been loving the 100% grass-fed organ complex from Paleo Valley.”
 - [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 01:24:53](/episodes/ep-Dkxa9OUA9K8.md#t-01-24-39): “Moms are usually the last ones taking care of themselves. That's why I have been loving the 100% grass-fed organ complex from Paleo Valley.”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 01:09:43](/episodes/ep-YeEtS7nix3o.md#t-01-09-14): “Paleo Valley is still with us. It is the one snack that you'll always find in my bag.”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:41:27](/episodes/ep-puuMVxEu5NU.md#t-00-41-07): “All right, you guys, one snack that you will always find in my bag is Paleo Valley beef sticks”
+- [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:30:33](/episodes/ep-AoYZel7_cGQ.md#t-00-30-26): “So if you are looking for a clean, convenient protein snack that tastes as good as it sounds, check out Paleo Valley Beef Sticks.”
 
 </details>
 
@@ -445,12 +522,13 @@ Source: [Paleovalley](https://paleovalley.com/)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:37:56](/episodes/ep-7FS1tUeSfdE.md#t-00-37-14): “That's why I've been loving the 100% grass-fed organ complex from Paleo Valley.”
 - [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 01:24:53](/episodes/ep-Dkxa9OUA9K8.md#t-01-24-39): “Moms are usually the last ones taking care of themselves. That's why I have been loving the 100% grass-fed organ complex from Paleo Valley.”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 01:09:43](/episodes/ep-YeEtS7nix3o.md#t-01-09-14): “Paleo Valley is still with us. It is the one snack that you'll always find in my bag.”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:41:27](/episodes/ep-puuMVxEu5NU.md#t-00-41-07): “All right, you guys, one snack that you will always find in my bag is Paleo Valley beef sticks”
+- [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:30:33](/episodes/ep-AoYZel7_cGQ.md#t-00-30-26): “So if you are looking for a clean, convenient protein snack that tastes as good as it sounds, check out Paleo Valley Beef Sticks.”
 
 </details>
 

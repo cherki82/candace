@@ -1,6 +1,6 @@
 ---
 title: "Sigmund Freud"
-description: "Sigmund Freud (People) - 67 mentions"
+description: "Sigmund Freud (People) - 69 mentions"
 id: "person-sigmund-freud"
 type: "PERSON"
 categories:
@@ -17,11 +17,11 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-sigmund-freud-t-01-01-30">2025-09-15 · 01:01:55</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-person-sigmund-freud-t-00-21-42">2026-07-23 · 00:24:29</a></strong></div>
-<div><span>Episodes</span><strong>32</strong></div>
-<div><span>Mentions</span><strong>67</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-person-sigmund-freud-t-00-40-03">2026-08-06 · 00:40:26</a></strong></div>
+<div><span>Episodes</span><strong>34</strong></div>
+<div><span>Mentions</span><strong>69</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -46,7 +46,7 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 <a href="/episodes/ep-sImMM04XdWY.md#ent-person-sigmund-freud-t-00-47-10" style="--pulse-height:11%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-sigmund-freud-t-00-37-26" style="--pulse-height:11%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-sigmund-freud-t-00-54-16" style="--pulse-height:11%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#t-01-01-41" style="--pulse-height:11%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#t-01-01-31" style="--pulse-height:11%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-sigmund-freud-t-00-30-06" style="--pulse-height:11%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-sigmund-freud-t-01-02-12" style="--pulse-height:11%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-sigmund-freud-t-00-02-09" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 9 mentions" title="2026-02-02 · 9 mentions"><span></span></a>
@@ -62,6 +62,8 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-sigmund-freud-t-00-32-10" style="--pulse-height:11%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-sigmund-freud-t-00-59-06" style="--pulse-height:33%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-person-sigmund-freud-t-00-21-42" style="--pulse-height:33%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 3 mentions" title="2026-07-23 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-person-sigmund-freud-t-00-50-40" style="--pulse-height:11%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-person-sigmund-freud-t-00-40-03" style="--pulse-height:11%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -83,7 +85,7 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 | 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-sigmund-freud-t-00-47-10) | 1 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-sigmund-freud-t-00-37-26) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-person-sigmund-freud-t-00-54-16) | 1 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#t-01-01-41) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#t-01-01-31) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-sigmund-freud-t-00-30-06) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-sigmund-freud-t-01-02-12) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-sigmund-freud-t-00-02-09) | 9 |
@@ -99,6 +101,8 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-sigmund-freud-t-00-32-10) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-sigmund-freud-t-00-59-06) | 3 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-sigmund-freud-t-00-21-42) | 3 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-person-sigmund-freud-t-00-50-40) | 1 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-sigmund-freud-t-00-40-03) | 1 |
 
 </details>
 </section>
@@ -106,7 +110,23 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (67)</strong></summary>
+<summary><strong class="section-title">Raw mentions (69)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:40:26](/episodes/ep-ChuWo-n49B8.md#ent-person-sigmund-freud-t-00-40-03)**
+> "when you get into Sigmund Freud and you get into PR and propaganda"
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>
+
+**[00:50:55](/episodes/ep-1CFDtD0IgEg.md#ent-person-sigmund-freud-t-00-50-40)**
+> "...ys have been reading too much sigmund freud that's the problem spiritual discernment is on th..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (3 mentions)</summary>
@@ -291,7 +311,7 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
 
-**[01:01:41](/episodes/ep-HYn0P-P1wUw.md#t-01-01-41)**
+**[01:01:41](/episodes/ep-HYn0P-P1wUw.md#t-01-01-31)**
 > "Sigmund Freud and the Jewish Mystical Tradition."
 
 </details>
@@ -539,7 +559,15 @@ Source: [Library of Congress — Sigmund Freud authority record](https://www.loc
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Sigmund Freud (10)</strong></summary>
+<summary><strong class="section-title">Statements about Sigmund Freud (11)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
+
+- [00:40:26](/episodes/ep-ChuWo-n49B8.md#t-00-40-03) (Opinion) **Candace Owens**: ["Owens said Hollywood was created to control what people think and was ..."](/statements/statement-625105161905.md)
+  - Also about: [Hollywood](/entities/gpe-hollywood.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (1)</summary>

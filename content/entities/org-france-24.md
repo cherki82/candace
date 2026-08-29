@@ -3,9 +3,17 @@ title: "France 24"
 description: "France 24 (Organizations) - 1 mention"
 id: "org-france-24"
 type: "ORG"
+categories:
+  - "news organization"
 ---
 
 _Type: Organizations_
+
+**Categories:** news organization
+
+**Entity verification:** verified
+> Canonical name and identity for France 24 confirmed by the cited direct external source.
+Source: [About France 24](https://www.france24.com/en/about-us)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-france-24-t-00-19-45">2025-12-01 · 00:20:07</a></strong></div>

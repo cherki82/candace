@@ -30,7 +30,7 @@ veracity: "mixed"
 **Timestamp:** [00:18:41](/episodes/ep-rupRLXmSndU.md#t-00-18-41) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1121);return false;">Play</a>
 
-> Connor had been working as an emergency room department scribe. I can confirm. ... Tippinogos emergency room. ... that was Conner's job from 2024
+> Connor (Connor Henderson) had been working as an emergency room department scribe. ... Timpanogos emergency room. ... That was Connor Henderson's job from 2024
 
 ## Verification
 

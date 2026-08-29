@@ -30,7 +30,7 @@ type: "opinion"
 **Timestamp:** [00:15:58](/episodes/ep-ewBzjVe3LNQ.md#t-00-15-19) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(958);return false;">Play</a>
 
-> This young woman described Bruce as, quote, the most evil man that she had ever met.
+> This young woman described Bruce (Bruce Bevins) as, quote, the most evil man that she had ever met.
 
 ## Verification
 

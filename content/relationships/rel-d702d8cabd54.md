@@ -11,7 +11,7 @@ object: "person-tucker-carlson"
 
 ## [Ben Shapiro](/entities/person-ben-shapiro) criticized [Tucker Carlson](/entities/person-tucker-carlson)
 
-### Evidence (3 mentions)
+### Evidence (2 mentions)
 
 **[BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE)**
 
@@ -20,10 +20,6 @@ object: "person-tucker-carlson"
 **[Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA)**
 
 - [00:03:42](/episodes/ep-r1PS67aRmcA#t-00-03-42): _You should know Ben (Ben Shapiro) has a real thing for Tucker (Tucker Carlson)._
-
-**[DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw)**
-
-- [00:06:11](/episodes/ep-zSKrxIUMNqw#t-00-06-11): _He attacked Carlson (Tucker Carlson),_
 
 ### Related
 

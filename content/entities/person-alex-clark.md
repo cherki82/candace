@@ -1,6 +1,6 @@
 ---
 title: "Alex Clark"
-description: "Alex Clark (People) - 63 mentions"
+description: "Alex Clark (People) - 64 mentions"
 id: "person-alex-clark"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-alex-clark-t-00-57-12">2025-09-22 · 00:57:40</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-alex-clark-t-00-56-24">2026-06-17 · 00:56:46</a></strong></div>
-<div><span>Episodes</span><strong>26</strong></div>
-<div><span>Mentions</span><strong>63</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-alex-clark-t-00-18-40">2026-07-30 · 00:18:40</a></strong></div>
+<div><span>Episodes</span><strong>27</strong></div>
+<div><span>Mentions</span><strong>64</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
 <div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>20</strong></div>
@@ -43,7 +43,7 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-alex-clark-t-00-11-07" style="--pulse-height:30%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 3 mentions" title="2025-11-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-alex-clark-t-00-11-13" style="--pulse-height:30%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 3 mentions" title="2025-12-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-es7PWdFGoFI.md#ent-person-alex-clark-t-00-04-10" style="--pulse-height:40%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 4 mentions" title="2025-12-16 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-clark-t-00-52-31" style="--pulse-height:10%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-clark-t-00-52-45" style="--pulse-height:10%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-person-alex-clark-t-00-15-10" style="--pulse-height:20%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 2 mentions" title="2026-01-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-person-alex-clark-t-00-17-21" style="--pulse-height:10%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-person-alex-clark-t-00-48-20" style="--pulse-height:10%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
@@ -57,6 +57,7 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-alex-clark-t-00-30-16" style="--pulse-height:10%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-alex-clark-t-00-33-34" style="--pulse-height:10%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-alex-clark-t-00-56-24" style="--pulse-height:10%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-alex-clark-t-00-18-40" style="--pulse-height:10%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 1 mentions" title="2026-07-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -74,7 +75,7 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-person-alex-clark-t-00-11-07) | 3 |
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-person-alex-clark-t-00-11-13) | 3 |
 | 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-alex-clark-t-00-04-10) | 4 |
-| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-clark-t-00-52-31) | 1 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-clark-t-00-52-45) | 1 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-alex-clark-t-00-15-10) | 2 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-alex-clark-t-00-17-21) | 1 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-alex-clark-t-00-48-20) | 1 |
@@ -88,6 +89,7 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-alex-clark-t-00-30-16) | 1 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-alex-clark-t-00-33-34) | 1 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-alex-clark-t-00-56-24) | 1 |
+| 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-person-alex-clark-t-00-18-40) | 1 |
 
 </details>
 </section>
@@ -95,7 +97,15 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (63)</strong></summary>
+<summary><strong class="section-title">Raw mentions (64)</strong></summary>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (1 mentions)</summary>
+
+**[00:18:40](/episodes/ep-AoYZel7_cGQ.md#ent-person-alex-clark-t-00-18-40)**
+> "...person, Andrew Kolvet, joined Alex Clark's show and took down that insinuation. And I want y..."
+
+</details>
 
 <details>
 <summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1 mentions)</summary>
@@ -243,8 +253,8 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
 
-**[00:52:47](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-clark-t-00-52-31)**
-> "Andrew (Andrew Kolvet) is allowing these attacks to happen, sitting there across from Alex Clark like her cup like no he never he just liked the architecture and I no longer accept."
+**[00:52:45](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-clark-t-00-52-45)**
+> "Andrew (Andrew Kolvet) is being told to lie on my name. Andrew (Andrew Kolvet) is allowing these attacks to happen, sitting there across from Alex Clark, like, her cup, like, no, he never—he just liked the architecture. And I no longer accept..."
 
 </details>
 
@@ -489,11 +499,12 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 <summary>Interviewed (2)</summary>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:00:48](/episodes/ep-UBkFkg4UNY8.md#t-00-00-32): “Andrew Kolvet, the PR agent, close friend of Charlie (Charlie Kirk), who sat down with Alex Clark to answer questions pertaining to whether or not Charlie (Charlie Kirk) was converting to Catholicism and whether or not he was offered $150 million from Israel.”
 - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:30:26](/episodes/ep-UBkFkg4UNY8.md#t-00-30-03): “He went onto the Alex Clark podcast”
 - [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254 @ 00:29:42](/episodes/ep-Qt0VHV-POCg.md#t-00-29-08): “I reflect on that moment, and I think it was right after memorial service—a couple of days after the memorial service—where Alex Clark released that interview with her and Andrew Kolvet”
+- [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:18:40](/episodes/ep-AoYZel7_cGQ.md#t-00-18-40): “their spokesperson, Andrew Kolvet, joined Alex Clark's show and took down that insinuation.”
 
 </details>
 
@@ -603,9 +614,10 @@ Source: [Alex Clark - Turning Point USA](https://tpusa.com/contributor/alexclark
 </details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 @ 00:00:48](/episodes/ep-UBkFkg4UNY8.md#t-00-00-32): “Andrew Kolvet, the PR agent, close friend of Charlie (Charlie Kirk), who sat down with Alex Clark to answer questions pertaining to whether or not Charlie (Charlie Kirk) was converting to Catholicism and whether or not he was offered $150 million from Israel.”
+- [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:18:40](/episodes/ep-AoYZel7_cGQ.md#t-00-18-40): “their spokesperson, Andrew Kolvet, joined Alex Clark's show and took down that insinuation.”
 
 </details>
 

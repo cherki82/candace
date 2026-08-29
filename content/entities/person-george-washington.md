@@ -3,9 +3,17 @@ title: "George Washington"
 description: "George Washington (People) - 1 mention"
 id: "person-george-washington"
 type: "PERSON"
+categories:
+  - "historical political figure"
 ---
 
 _Type: People_
+
+**Categories:** historical political figure
+
+**Entity verification:** verified
+> Canonical name and identity for George Washington confirmed by the cited direct external source.
+Source: [George Washington](https://en.wikipedia.org/wiki/George_Washington)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-person-george-washington-t-00-01-47">2025-11-21 · 00:01:54</a></strong></div>

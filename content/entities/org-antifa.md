@@ -3,11 +3,19 @@ title: "Antifa"
 description: "Antifa (Organizations) - 10 mentions"
 id: "org-antifa"
 type: "ORG"
+categories:
+  - "political movement"
 ---
 
 _Type: Organizations_
 
+**Categories:** political movement
+
 > **Possibly overlapping entity records:** [Antifa](/entities/concept-antifa). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> Canonical name and identity for Antifa confirmed by the cited direct external source.
+Source: [Antifa (United States)](https://en.wikipedia.org/wiki/Antifa_(United_States))
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-antifa-t-00-14-52">2025-09-11 · 00:15:22</a></strong></div>

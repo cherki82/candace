@@ -3,9 +3,17 @@ title: "The Game"
 description: "The Game (People) - 12 mentions"
 id: "person-the-game"
 type: "PERSON"
+categories:
+  - "musician"
 ---
 
 _Type: People_
+
+**Categories:** musician
+
+**Entity verification:** verified
+> Canonical name and identity for The Game confirmed by the cited direct external source.
+Source: [The Game (rapper)](https://en.wikipedia.org/wiki/The_Game_(rapper))
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-his-JBjlkh8.md#ent-person-the-game-t-00-00-44">2025-12-03 · 00:01:00</a></strong></div>

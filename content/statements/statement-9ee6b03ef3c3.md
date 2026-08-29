@@ -27,7 +27,7 @@ veracity: "true"
 ## Source
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
-**Timestamp:** [00:55:03](/episodes/ep-HYn0P-P1wUw.md#t-00-54-39) 
+**Timestamp:** [00:55:03](/episodes/ep-HYn0P-P1wUw.md#t-00-54-23) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3303);return false;">Play</a>
 
 > And they have to collectively pay Brigitte Macron what's known as moral damages. around $12,000, moral damages.

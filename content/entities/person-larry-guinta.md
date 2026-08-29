@@ -18,7 +18,7 @@ _Type: People_
 Source: [Arizona House Public Safety, Military and Regulatory Affairs minutes — March 19, 2014](https://www.azleg.gov/legtext/51leg/2r/comm_min/house/031914%20psmra.doc.htm)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-larry-guinta-t-00-33-05">2026-01-06 · 00:33:28</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-larry-guinta-t-00-33-01">2026-01-06 · 00:33:28</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-larry-guinta-t-00-07-39">2026-06-22 · 00:07:39</a></strong></div>
 <div><span>Episodes</span><strong>7</strong></div>
 <div><span>Mentions</span><strong>18</strong></div>
@@ -32,7 +32,7 @@ Source: [Arizona House Public Safety, Military and Regulatory Affairs minutes �
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-larry-guinta-t-00-11-22">Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-larry-guinta-t-00-33-05" style="--pulse-height:29%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-larry-guinta-t-00-33-01" style="--pulse-height:29%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-larry-guinta-t-00-11-22" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 7 mentions" title="2026-01-22 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-larry-guinta-t-00-19-36" style="--pulse-height:57%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 4 mentions" title="2026-02-25 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#t-00-11-41" style="--pulse-height:14%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
@@ -44,7 +44,7 @@ Source: [Arizona House Public Safety, Military and Regulatory Affairs minutes �
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-larry-guinta-t-00-33-05) | 2 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-larry-guinta-t-00-33-01) | 2 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-larry-guinta-t-00-11-22) | 7 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-larry-guinta-t-00-19-36) | 4 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#t-00-11-41) | 1 |
@@ -141,10 +141,10 @@ Source: [Arizona House Public Safety, Military and Regulatory Affairs minutes �
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (2 mentions)</summary>
 
-**[00:33:28](/episodes/ep-HYn0P-P1wUw.md#ent-person-larry-guinta-t-00-33-05)**
+**[00:33:28](/episodes/ep-HYn0P-P1wUw.md#ent-person-larry-guinta-t-00-33-01)**
 > "...n tells us that he introduced Larry Guinta,"
 
-**[00:33:39](/episodes/ep-HYn0P-P1wUw.md#ent-person-larry-guinta-t-00-33-05)**
+**[00:33:39](/episodes/ep-HYn0P-P1wUw.md#ent-person-larry-guinta-t-00-33-38)**
 > "Larry Guinta, by the way, or Guinta, I don't know if I'm sayin..."
 
 </details>
@@ -195,12 +195,13 @@ Source: [Arizona House Public Safety, Military and Regulatory Affairs minutes �
 <summary>Stepparent Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:12:06](/episodes/ep-gG4ZoYUjUc8.md#t-00-11-22): “Guinta is Erika (Erika Kirk)'s stepfather,”
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:19:36](/episodes/ep-ZAsV0fHGBiM.md#t-00-19-36): “Erica (Erika Kirk) was raised with her stepfather in her home, a man named Larry Guinta.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:16:24](/episodes/ep-xi8SYJTUXPM.md#t-00-16-24): “So Lori and Erika's stepfather, Larry, who we have not done really any research on Larry Guinta, I probably should have included that in my Erika series, but what they were doing at that time is they were trying to get in on a gun company.”
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:07:39](/episodes/ep-VMNWMXX1vO8.md#t-00-07-39): “Larry Guinta ... Erika (Erika Kirk)'s stepfather.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:33:38](/episodes/ep-HYn0P-P1wUw.md#t-00-33-38): “of GTEC Industries, Larry Guinta, by the way, or Guinta, I don't know if I'm saying that right, is Erika (Erika Kirk)'s stepfather.”
 
 </details>
 
@@ -259,12 +260,13 @@ Source: [Arizona House Public Safety, Military and Regulatory Affairs minutes �
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** stepchild of this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:12:06](/episodes/ep-gG4ZoYUjUc8.md#t-00-11-22): “Guinta is Erika (Erika Kirk)'s stepfather,”
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:19:36](/episodes/ep-ZAsV0fHGBiM.md#t-00-19-36): “Erica (Erika Kirk) was raised with her stepfather in her home, a man named Larry Guinta.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:16:24](/episodes/ep-xi8SYJTUXPM.md#t-00-16-24): “So Lori and Erika's stepfather, Larry, who we have not done really any research on Larry Guinta, I probably should have included that in my Erika series, but what they were doing at that time is they were trying to get in on a gun company.”
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:07:39](/episodes/ep-VMNWMXX1vO8.md#t-00-07-39): “Larry Guinta ... Erika (Erika Kirk)'s stepfather.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:33:38](/episodes/ep-HYn0P-P1wUw.md#t-00-33-38): “of GTEC Industries, Larry Guinta, by the way, or Guinta, I don't know if I'm saying that right, is Erika (Erika Kirk)'s stepfather.”
 
 </details>
 

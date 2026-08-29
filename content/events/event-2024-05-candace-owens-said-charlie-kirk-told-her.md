@@ -14,7 +14,7 @@ date: "2024-05"
 ## Mentioned In
 
 **Episode:** [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md)
-**Timestamp:** [00:29:58](/episodes/ep-ZIH5-V6UPkg.md#event-event-2024-05-candace-owens-said-charlie-kirk-told-her-t-00-29-38) 
+**Timestamp:** [00:29:58](/episodes/ep-ZIH5-V6UPkg.md#t-00-29-38) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1798);return false;">▶️ Play</a>
 
-> I was told by Charlie that he and Andrew Colvette were present for that meeting with Donald Trump.
+> I was told by Charlie that he and Andrew Kolvet were present for that meeting with

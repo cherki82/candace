@@ -34,7 +34,7 @@ veracity: "true"
 **Timestamp:** [00:25:46](/episodes/ep-es7PWdFGoFI.md#t-00-25-11) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1546);return false;">Play</a>
 
-> I see Mikey... he was profoundly freaked out what i'll always remember is the ways his lip was quivering... I need to call Erika and then he takes his phone and he begins calling Erika
+> I've got to go. And I remember that call. And around the time I put that phone away, and then he immediately calls his dad. He calls Robin McCoy.
 
 ### 2. Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From...
 

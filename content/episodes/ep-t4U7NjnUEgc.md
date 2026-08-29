@@ -1,14 +1,14 @@
 ---
 id: "t4U7NjnUEgc"
 title: "Charlie Kirk’s Last Trip To Asia… | Candace Ep 277"
-description: "Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 - 94 entities, 16 events, 24 factual claims"
+description: "Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 - 94 entities, 16 events, 23 factual claims"
 published: "2025-12-09"
 youtube_url: "https://www.youtube.com/watch?v=t4U7NjnUEgc"
 ---
 
 **Published:** 2025-12-09 | [Watch on YouTube](https://www.youtube.com/watch?v=t4U7NjnUEgc)
 
-**Stats:** 94 entities | 16 events | 24 factual claims
+**Stats:** 94 entities | 16 events | 23 factual claims
 
 ---
 
@@ -236,6 +236,8 @@ youtube_url: "https://www.youtube.com/watch?v=t4U7NjnUEgc"
 <details>
 <summary><strong>Entities Mentioned (94)</strong></summary>
 
+**Anonymous Sources:** [Fegliano (online commenter; identity unverified)](/entities/anon-src-tB5SXXmd9vU-004.md), [Melissa / Village Crazy Lady (online handle; identity unverified)](/entities/anon-src-YFmRH8p5lt0-002.md)
+
 **Concepts:** [God](/entities/concept-god.md), [Zionism](/entities/concept-zionism.md)
 
 **Dates:** [2025](/entities/date-2025.md), [September 4th](/entities/date-september-4th.md)
@@ -244,16 +246,16 @@ youtube_url: "https://www.youtube.com/watch?v=t4U7NjnUEgc"
 
 **Places:** [Agua Prieta](/entities/gpe-agua-prieta.md), [Angola](/entities/gpe-angola.md), [Arizona](/entities/gpe-arizona.md), [Brentwood](/entities/gpe-brentwood.md), [California](/entities/gpe-california.md), [Douglas, Arizona](/entities/gpe-douglas-arizona.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md), [France](/entities/gpe-france.md), [Iran](/entities/gpe-iran.md), [Israel](/entities/gpe-israel.md), [Japan](/entities/gpe-japan.md), [Mexico](/entities/gpe-mexico.md), [Montana](/entities/gpe-montana.md), [Naco, Arizona](/entities/gpe-naco-arizona.md), [Nashville](/entities/gpe-nashville.md), [Russia](/entities/gpe-russia.md), [Salt Lake City](/entities/gpe-salt-lake-city.md), [Scottsdale, Arizona](/entities/gpe-scottsdale.md), [Sierra Vista](/entities/gpe-sierra-vista.md), [South America](/entities/gpe-south-america.md), [South Korea](/entities/gpe-south-korea.md), [Tel Aviv](/entities/gpe-tel-aviv.md), [Tennessee](/entities/gpe-tennessee.md), [Tucson](/entities/gpe-tucson.md), [Ukraine](/entities/gpe-ukraine.md), [United States](/entities/gpe-united-states.md), [Washington](/entities/gpe-washington-state.md)
 
-**Organizations:** [10th Mountain Division](/entities/org-10th-mountain-division.md), [Amazon](/entities/org-amazon.md), [American Financing](/entities/org-american-financing.md), [Army Criminal Investigation Division](/entities/org-army-criminal-investigation-division.md), [Border Patrol](/entities/org-border-patrol.md), [CNN](/entities/org-cnn.md), [Candlewood Suites](/entities/org-candlewood-suites.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Club Candace](/entities/org-club-candace.md), [FBI](/entities/org-fbi.md), [Fox News](/entities/org-fox-news.md), [French intelligence](/entities/org-french-intelligence.md), [Immigration and Customs Enforcement](/entities/org-immigration-and-customs-enforcement.md), [Joint Task Force Six](/entities/org-joint-task-force-six.md), [Joint Task Force–Southern Border](/entities/org-joint-task-force-southern-border.md), [Mossad](/entities/org-mossad.md), [Neemee Skincare](/entities/org-neemee-skincare.md), [Nimi Skincare](/entities/org-nimi-skincare.md), [PreBorn!](/entities/org-preborn.md), [Riverbend Ranch](/entities/org-riverbend-ranch.md), [Root Brands](/entities/org-root-brands.md), [Sinaloa Cartel](/entities/org-sinaloa-cartel.md), [Turning Point USA](/entities/org-turning-point-usa.md), [USDA](/entities/org-usda.md), [United States Armed Forces](/entities/org-united-states-armed-forces.md), [United States Pentagon](/entities/org-united-states-pentagon.md), [Vice](/entities/org-vice.md), [White House](/entities/org-white-house.md)
+**Organizations:** [10th Mountain Division](/entities/org-10th-mountain-division.md), [Amazon](/entities/org-amazon.md), [American Financing](/entities/org-american-financing.md), [Army Criminal Investigation Division](/entities/org-army-criminal-investigation-division.md), [Border Patrol](/entities/org-border-patrol.md), [CNN](/entities/org-cnn.md), [Candlewood Suites](/entities/org-candlewood-suites.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Club Candace](/entities/org-club-candace.md), [FBI](/entities/org-fbi.md), [Fox News](/entities/org-fox-news.md), [French intelligence](/entities/org-french-intelligence.md), [Immigration and Customs Enforcement](/entities/org-immigration-and-customs-enforcement.md), [Joint Task Force Six](/entities/org-joint-task-force-six.md), [Joint Task Force–Southern Border](/entities/org-joint-task-force-southern-border.md), [Mossad](/entities/org-mossad.md), [Neemee Skincare](/entities/org-neemee-skincare.md), [Nimi Skincare](/entities/org-nimi-skincare.md), [PreBorn!](/entities/org-preborn.md), [Riverbend Ranch](/entities/org-riverbend-ranch.md), [Root Brands](/entities/org-root-brands.md), [Sinaloa Cartel](/entities/org-sinaloa-cartel.md), [Turning Point USA](/entities/org-turning-point-usa.md), [United States Armed Forces](/entities/org-united-states-armed-forces.md), [United States Department of Agriculture](/entities/org-united-states-department-agriculture.md), [United States Pentagon](/entities/org-united-states-pentagon.md), [Vice](/entities/org-vice.md), [White House](/entities/org-white-house.md)
 
-**People:** [Blake Neff](/entities/person-blake-neff.md), [Brian Harpole](/entities/person-brian-harpole.md), [Candace Owens](/entities/person-candace-owens.md), [Captain Adam Neff](/entities/person-captain-adam-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Colin Powell](/entities/person-colin-powell.md), [Dan Flood](/entities/person-dan-flood.md), [Donald J. Trump](/entities/person-donald-trump.md), [El Chapo](/entities/person-el-chapo.md), [Fegliano](/entities/person-fegliano.md), [George H.W. Bush](/entities/person-george-hw-bush.md), [Harry](/entities/person-harry.md), [Harry Myers](/entities/person-harry-myers.md), [Ian Carroll](/entities/person-ian-carroll.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Jonathan Schmidt](/entities/person-jonathan-schmidt.md), [Kanye West](/entities/person-kanye-west.md), [Kash Patel](/entities/person-kash-patel.md), [Melissa](/entities/person-melissa.md), [Melissa (Village Crazy Lady)](/entities/person-melissa-village-crazy-lady.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md), [Pierre Falcone](/entities/person-pierre-falcone.md), [Ronald Reagan](/entities/person-ronald-reagan.md), [Ryan Matta](/entities/person-ryan-matta.md), [Schuyler Pryor](/entities/person-schuyler-pryor.md), [Tim Pool](/entities/person-tim-pool.md), [Tulsi Gabbard](/entities/person-tulsi-gabbard.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+**People:** [Blake Neff](/entities/person-blake-neff.md), [Brian Harpole](/entities/person-brian-harpole.md), [Candace Owens](/entities/person-candace-owens.md), [Captain Adam Neff](/entities/person-captain-adam-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Colin Powell](/entities/person-colin-powell.md), [Dan Flood](/entities/person-dan-flood.md), [Donald J. Trump](/entities/person-donald-trump.md), [El Chapo](/entities/person-el-chapo.md), [George H.W. Bush](/entities/person-george-hw-bush.md), [Harry](/entities/person-harry.md), [Harry Myers](/entities/person-harry-myers.md), [Ian Carroll](/entities/person-ian-carroll.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Jonathan Schmidt](/entities/person-jonathan-schmidt.md), [Kanye West](/entities/person-kanye-west.md), [Kash Patel](/entities/person-kash-patel.md), [Melissa](/entities/person-melissa.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md), [Pierre Falcone](/entities/person-pierre-falcone.md), [Ronald Reagan](/entities/person-ronald-reagan.md), [Ryan Matta](/entities/person-ryan-matta.md), [Schuyler Pryor](/entities/person-schuyler-pryor.md), [Tim Pool](/entities/person-tim-pool.md), [Tulsi Gabbard](/entities/person-tulsi-gabbard.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 **Works & Media:** [Make Him a Sandwich](/entities/work-make-him-a-sandwich.md), [The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)
 
 </details>
 
 <details>
-<summary><strong>Statements (33)</strong></summary>
+<summary><strong>Statements (32)</strong></summary>
 
 - [00:05:00](#t-00-04-35) [◐] (Claim) **Candace Owens**: ["Owens said Joint Task Force Six was a brand-new command created at the border ar..."](/statements/statement-7a3c360b229e.md)
   - About: [Colin Powell](/entities/person-colin-powell.md), [George H.W. Bush](/entities/person-george-hw-bush.md)
@@ -281,8 +283,6 @@ youtube_url: "https://www.youtube.com/watch?v=t4U7NjnUEgc"
   - About: [Harry Myers](/entities/person-harry-myers.md)
 - [00:17:41](#t-00-17-13) [○] (Claim) **Harry Myers**: ["Harry Myers claimed he saw Brian Harpole at Joint Task Force Southern Border hea..."](/statements/statement-e1f3b3a8c4ff.md)
   - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Brian Harpole](/entities/person-brian-harpole.md), [Harry Myers](/entities/person-harry-myers.md)
-- [00:19:45](#t-00-19-18) [○] (Claim) **Candace Owens**: ["Harry Myers encountered Brian Harpole at the Joint Task Force Southern Border he..."](/statements/statement-8ad2cb0f95b9.md)
-  - About: [Harry Myers](/entities/person-harry-myers.md), [Brian Harpole](/entities/person-brian-harpole.md)
 - [00:22:00](#t-00-21-28) [○] (Claim) **Harry Myers**: ["Harry Myers said Fort Huachuca personnel interrogated him for about seven hours ..."](/statements/statement-9e9c07274601.md)
   - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Harry Myers](/entities/person-harry-myers.md)
 - [00:22:01](#t-00-21-28) [○] (Claim) **Candace Owens**: ["Harry Myers was interrogated for seven hours by military personnel who suspected..."](/statements/statement-1276c9b8f3eb.md)

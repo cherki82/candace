@@ -31,7 +31,7 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 <div><span>Episodes</span><strong>42</strong></div>
 <div><span>Mentions</span><strong>237</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>147</strong></div>
+<div><span>Statements about</span><strong>151</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -161,7 +161,7 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
 
 **[00:33:25](/episodes/ep-q1NRQQAYS_Q.md#t-00-33-25)**
-> "After Carly's assassination"
+> "After Charlie (Charlie Kirk)'s assassination"
 
 </details>
 
@@ -858,10 +858,10 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 > "... it was globally traumatizing to everybody. I think everybody was moved by Charlie (Charlie Kirk)'s assassination. The people that held that space were willing to oblige it. So that tracks with me. That seems accu..."
 
 **[00:05:19](/episodes/ep-adJ4LNGp84I.md#t-00-05-01)**
-> "...ls a person that has a long tenure in DC, Robert Bowles. His first case is Charlie (Charlie Kirk)'s assassination. Why would he wanna uproot and move his family to Utah after having roots in Virginia for so long? ..."
+> "a long tenure in DC, Robert Bohls. His first case is Charlie (Charlie Kirk)'s assassination."
 
 **[00:26:44](/episodes/ep-adJ4LNGp84I.md#t-00-26-38)**
-> "...ling the truth? So Deborah Lee asked Benjamin Netanyahu specifically about Charlie (Charlie Kirk)'s assassination and the potential loss of evangelical support for the state of Israel because of it, which, by the ..."
+> "So Debra Lea asked Benjamin Netanyahu specifically about Charlie (Charlie Kirk)'s assassination and the potential loss of evangelical support for the state of Israel because of it, which, by the way, is going to be the consequence of this."
 
 **[00:27:19](/episodes/ep-adJ4LNGp84I.md#t-00-27-09)**
 > "And so specifically with Charlie (Charlie Kirk)'s assassination, who was a big mentor of mine,"
@@ -1135,7 +1135,24 @@ Source: [Utah Valley Shooting Updates | FBI](https://www.fbi.gov/news/press-rele
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Charlie Kirk assassination (147)</strong></summary>
+<summary><strong class="section-title">Statements about Charlie Kirk assassination (151)</strong></summary>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (4)</summary>
+
+- [00:02:09](/episodes/ep-4JxgOclKzqg.md#t-00-02-09) (Claim) **Candace Owens**: ["Owens said Terrell Farnsworth was seen taking down the camera behind C..."](/statements/statement-474145d5c4ac.md)
+  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:32:04](/episodes/ep-4JxgOclKzqg.md#t-00-32-04) (Claim) **John Kiriakou** (via quoted speech): ["Kiriakou said that because a kid from Utah allegedly shot Charlie Kirk..."](/statements/statement-c34029d141ff.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+
+- [00:33:26](/episodes/ep-4JxgOclKzqg.md#t-00-33-14) (Accusation) **Candace Owens**: ["Owens said it was very strange that Kash Patel apparently shut down Jo..."](/statements/statement-b00f742e4138.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [Joe Kent](/entities/person-joe-kent.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+
+- [00:34:32](/episodes/ep-4JxgOclKzqg.md#t-00-34-32) (Accusation) **Candace Owens**: ["Owens accused Turning Point USA of becoming increasingly vicious towar..."](/statements/statement-bb4432381ad8.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (8)</summary>

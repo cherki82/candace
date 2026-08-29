@@ -4,9 +4,10 @@ description: "\"Candace Owens said Allison Holker published a book alleging Step
 statement_id: "statement-b6e08c1e7e47"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -34,7 +35,21 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Current coverage confirms Holker published the memoir with claims about hidden drug use and childhood sexual abuse, that Boss's family said they were surprised or appalled, and that the children's book Keep Dancing Through was presented as coauthored with Boss. The statement accurately summarizes these reported facts.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Stephen 'tWitch' Boss' family opens up about his life, private details in his widow's memoir and healing](https://www.cbsnews.com/amp/news/stephen-twitch-boss-family-allison-holkers-memoir/)
+- [Allison Holker Announces New Children's Book Written With Her Late Husband tWitch](https://mom.com/entertainment/allison-holker-childrens-book-twitch)
+
+*Verified: 2026-08-27T19:42:39.589258*
 
 ---
 

@@ -11,8 +11,6 @@ _Type: People_
 
 **Also known as:** Mia
 
-> **Possibly overlapping entity records:** [Anonymous Source #1 (Ep zSKrxIUMNqw)](/entities/anon-src-zSKrxIUMNqw-001). These records share a name or alias; compare their histories before treating either count as complete.
-
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-person-mia-grant-t-00-19-52">2025-09-18 · 00:20:04</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-mia-grant-t-00-54-11">2026-06-24 · 00:54:29</a></strong></div>

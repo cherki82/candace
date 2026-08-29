@@ -1,6 +1,6 @@
 ---
 title: "transgenderism"
-description: "transgenderism (Concepts) - 14 mentions"
+description: "transgenderism (Concepts) - 18 mentions"
 id: "concept-transgenderism"
 type: "CONCEPT"
 aliases:
@@ -17,9 +17,9 @@ _Type: Concepts_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-concept-transgenderism-t-00-55-46">2025-10-28 · 00:56:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-transgenderism-t-00-26-46">2026-06-26 · 00:27:16</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-concept-transgenderism-t-00-23-29">2026-08-11 · 00:23:44</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,7 @@ _Type: Concepts_
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-concept-transgenderism-t-00-23-41" style="--pulse-height:25%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-concept-transgenderism-t-00-42-32" style="--pulse-height:75%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 3 mentions" title="2026-06-22 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-transgenderism-t-00-26-46" style="--pulse-height:25%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-concept-transgenderism-t-00-21-16" style="--pulse-height:100%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 4 mentions" title="2026-08-11 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +50,7 @@ _Type: Concepts_
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-concept-transgenderism-t-00-23-41) | 1 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-concept-transgenderism-t-00-42-32) | 3 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-concept-transgenderism-t-00-26-46) | 1 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-concept-transgenderism-t-00-21-16) | 4 |
 
 </details>
 </section>
@@ -56,7 +58,24 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (4 mentions)</summary>
+
+**[00:21:25](/episodes/ep-HGtMfbePDKk.md#ent-concept-transgenderism-t-00-21-16)**
+> "... of the biggest supporters of transgenderism. This is a real tweet from Brandy regarding trans..."
+
+**[00:21:53](/episodes/ep-HGtMfbePDKk.md#ent-concept-transgenderism-t-00-21-16)**
+> "...en amongst people who support transgenderism, the majority of them draw the line at transition..."
+
+**[00:22:21](/episodes/ep-HGtMfbePDKk.md#ent-concept-transgenderism-t-00-22-00)**
+> ".... on the topic of support for transgenderism."
+
+**[00:23:44](/episodes/ep-HGtMfbePDKk.md#ent-concept-transgenderism-t-00-23-29)**
+> "...n't they be like, you support transgenderism and Charlie Kirk just got killed by a trans furry..."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>

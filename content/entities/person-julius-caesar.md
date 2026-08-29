@@ -3,9 +3,17 @@ title: "Julius Caesar"
 description: "Julius Caesar (People) - 6 mentions"
 id: "person-julius-caesar"
 type: "PERSON"
+categories:
+  - "historical political figure"
 ---
 
 _Type: People_
+
+**Categories:** historical political figure
+
+**Entity verification:** verified
+> Canonical name and identity for Julius Caesar confirmed by the cited direct external source.
+Source: [Julius Caesar](https://en.wikipedia.org/wiki/Julius_Caesar)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-person-julius-caesar-t-00-01-47">2025-11-21 · 00:01:54</a></strong></div>

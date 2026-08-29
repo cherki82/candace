@@ -1,6 +1,6 @@
 ---
 title: "Europe"
-description: "Europe (Places) - 45 mentions"
+description: "Europe (Places) - 48 mentions"
 id: "gpe-europe"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-europe-t-00-02-55">2025-12-02 · 00:02:55</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-europe-t-00-37-18">2026-06-26 · 00:37:27</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>45</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-europe-t-00-49-31">2026-08-03 · 00:49:31</a></strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>48</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -47,6 +47,8 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-europe-t-00-52-00" style="--pulse-height:12%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-europe-t-00-08-58" style="--pulse-height:25%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-europe-t-00-37-18" style="--pulse-height:12%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-gpe-europe-t-00-30-57" style="--pulse-height:12%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 1 mentions" title="2026-07-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-europe-t-00-40-38" style="--pulse-height:25%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 2 mentions" title="2026-08-03 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -69,6 +71,8 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-europe-t-00-52-00) | 1 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-gpe-europe-t-00-08-58) | 2 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-europe-t-00-37-18) | 1 |
+| 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-gpe-europe-t-00-30-57) | 1 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-gpe-europe-t-00-40-38) | 2 |
 
 </details>
 </section>
@@ -76,7 +80,26 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (45)</strong></summary>
+<summary><strong class="section-title">Raw mentions (48)</strong></summary>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (2 mentions)</summary>
+
+**[00:40:50](/episodes/ep-AH1KVKkweUE.md#ent-gpe-europe-t-00-40-38)**
+> "...to still be a white person in Europe not realizing they've been eradicating your race ..."
+
+**[00:49:31](/episodes/ep-AH1KVKkweUE.md#ent-gpe-europe-t-00-49-31)**
+> "...ming for other territories in Europe. Mark my words. And Trump (Donald J. Trump) is go..."
+
+</details>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (1 mentions)</summary>
+
+**[00:30:57](/episodes/ep-AoYZel7_cGQ.md#ent-gpe-europe-t-00-30-57)**
+> "...into another set of donors in Europe and relayed the same."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>

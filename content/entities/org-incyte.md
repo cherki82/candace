@@ -3,9 +3,17 @@ title: "Incyte"
 description: "Incyte (Organizations) - 4 mentions"
 id: "org-incyte"
 type: "ORG"
+categories:
+  - "biopharmaceutical company"
 ---
 
 _Type: Organizations_
+
+**Categories:** biopharmaceutical company
+
+**Entity verification:** verified
+> Canonical name and identity for Incyte confirmed by the cited direct external source.
+Source: [Who We Are - Incyte](https://www.incyte.com/who-we-are)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-incyte-t-00-32-32">2025-12-01 · 00:32:55</a></strong></div>

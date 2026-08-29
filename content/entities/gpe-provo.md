@@ -1,6 +1,6 @@
 ---
 title: "Provo"
-description: "Provo (Places) - 133 mentions"
+description: "Provo (Places) - 135 mentions"
 id: "gpe-provo"
 type: "GPE"
 aliases:
@@ -24,12 +24,12 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-gpe-provo-t-00-18-15">2025-09-19 · 00:18:48</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-gpe-provo-t-00-12-03">2026-07-21 · 00:12:07</a></strong></div>
-<div><span>Episodes</span><strong>29</strong></div>
-<div><span>Mentions</span><strong>133</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-provo-t-00-13-24">2026-08-03 · 00:13:40</a></strong></div>
+<div><span>Episodes</span><strong>31</strong></div>
+<div><span>Mentions</span><strong>135</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>29</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>30</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -66,6 +66,8 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-provo-t-00-11-36" style="--pulse-height:17%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-provo-t-00-37-31" style="--pulse-height:11%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-gpe-provo-t-00-12-03" style="--pulse-height:8%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-provo-t-00-03-59" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-provo-t-00-13-24" style="--pulse-height:8%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -100,6 +102,8 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-provo-t-00-11-36) | 3 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-gpe-provo-t-00-37-31) | 2 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-gpe-provo-t-00-12-03) | 1 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-provo-t-00-03-59) | 1 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-gpe-provo-t-00-13-24) | 1 |
 
 </details>
 </section>
@@ -107,7 +111,23 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (133)</strong></summary>
+<summary><strong class="section-title">Raw mentions (135)</strong></summary>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
+
+**[00:13:40](/episodes/ep-AH1KVKkweUE.md#ent-gpe-provo-t-00-13-24)**
+> "...ittle office in a building in Provo nearby that has apparently four agents. So I'm st..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
+
+**[00:03:59](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-provo-t-00-03-59)**
+> "decided to go to Zachariah Qureshi's apartment in Provo, whereupon he was then brought in and interrogated by the feds and then released."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>
@@ -559,7 +579,7 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 > "...ur blue plane—which trails—is going to leave through Canada, as it always does. It's going to leave Provo. That's going to go through Canada, through Paris, and back home to Cairo— three days following Cha..."
 
 **[00:41:12](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-provo-t-00-41-01)**
-> "...I mean, Charlie—goodness. The notes from me, Skylar. It says two jets that landed from Arizona into Provo because we started tracking those jets. I think the planes are going to tell us a story. If you cou..."
+> "It says two jets that landed from Arizona into Provo because we started tracking those jets."
 
 **[00:43:00](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-provo-t-00-42-28)**
 > "...ne." But then like, why would Charlie (Charlie Kirk) fly into Salt Lake City? No, he would fly into Provo, obviously, because Salt Lake City is like 60 miles away. You don't fly private so that you can the..."
@@ -669,7 +689,19 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Residence Of (1)</summary>
+
+- **[Zachariah Qureshi](/entities/person-zachariah-qureshi.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:03:59](/episodes/ep-Vu6Y24pqhZs.md#t-00-03-59): “decided to go to Zachariah Qureshi's apartment in Provo, whereupon he was then brought in and interrogated by the feds and then released.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
 
 - **[Caldera Engineering](/entities/org-caldera-engineering.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -680,12 +712,27 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 
 </details>
 
+- **[Zachariah Qureshi](/entities/person-zachariah-qureshi.md)** lives in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:03:59](/episodes/ep-Vu6Y24pqhZs.md#t-00-03-59): “decided to go to Zachariah Qureshi's apartment in Provo, whereupon he was then brought in and interrogated by the feds and then released.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Provo (29)</strong></summary>
+<summary><strong class="section-title">Statements about Provo (30)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1)</summary>
+
+- [00:03:59](/episodes/ep-Vu6Y24pqhZs.md#t-00-03-59) (Claim) **Candace Owens**: ["Owens said local police went to Zachariah Qureshi's Provo apartment, a..."](/statements/statement-14bb29c3a4a6.md)
+  - Also about: [Zachariah Qureshi](/entities/person-zachariah-qureshi.md), [FBI](/entities/org-fbi.md)
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1)</summary>
@@ -779,14 +826,14 @@ Source: [Provo, UT | Official Website](https://www.provo.gov/)
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (3)</summary>
 
-- [00:03:22](/episodes/ep-ZAuuSq_j2_w.md#t-00-03-07) (Claim) **Candace Owens**: ["Walid Mahmood came to Provo on May 27th, 2024 aboard Egyptian military..."](/statements/statement-9a21f286b0b6.md)
-  - Also about: [Walid Mahmood](/entities/person-walid-mahmood.md)
-
 - [00:13:44](/episodes/ep-ZAuuSq_j2_w.md#t-00-13-44) (Claim) **Candace Owens**: ["The Egyptian plane that flew from Provo to Delaware on the morning of ..."](/statements/statement-433bf618ec0f.md)
   - Also about: [Wilmington](/entities/gpe-wilmington.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:14:06](/episodes/ep-ZAuuSq_j2_w.md#t-00-13-44) (Claim) **Candace Owens**: ["Walid Mahmood was one of four people aboard the Egyptian plane that fl..."](/statements/statement-4e84712d393b.md)
   - Also about: [Wilmington](/entities/gpe-wilmington.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Walid Mahmood](/entities/person-walid-mahmood.md)
+
+- [00:15:12](/episodes/ep-ZAuuSq_j2_w.md#t-00-15-09) (Claim) **Candace Owens**: ["Walid Mahmood came to Provo on May 27 aboard Egyptian military plane S..."](/statements/statement-9a21f286b0b6.md)
+  - Also about: [Walid Mahmood](/entities/person-walid-mahmood.md)
 
 </details>
 

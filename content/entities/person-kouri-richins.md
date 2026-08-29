@@ -1,6 +1,6 @@
 ---
 title: "Kouri Richins"
-description: "Kouri Richins (People) - 13 mentions"
+description: "Kouri Richins (People) - 14 mentions"
 id: "person-kouri-richins"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [A mom wrote a book to help her kids process their dad's death. Now she'
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-kouri-richins-t-00-33-13">2026-03-18 · 00:33:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-cPidFQDJLbo.md#ent-person-kouri-richins-t-00-25-32">2026-05-20 · 00:25:32</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HZvwbfePe7o.md#ent-person-kouri-richins-t-00-41-47">2026-07-27 · 00:41:47</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -33,6 +33,7 @@ Source: [A mom wrote a book to help her kids process their dad's death. Now she'
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-kouri-richins-t-00-33-13" style="--pulse-height:100%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 10 mentions" title="2026-03-18 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-person-kouri-richins-t-00-25-06" style="--pulse-height:30%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 3 mentions" title="2026-05-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-person-kouri-richins-t-00-41-47" style="--pulse-height:10%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +41,7 @@ Source: [A mom wrote a book to help her kids process their dad's death. Now she'
 |---|---|---:|
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-kouri-richins-t-00-33-13) | 10 |
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-person-kouri-richins-t-00-25-06) | 3 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-person-kouri-richins-t-00-41-47) | 1 |
 
 </details>
 </section>
@@ -47,7 +49,15 @@ Source: [A mom wrote a book to help her kids process their dad's death. Now she'
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (1 mentions)</summary>
+
+**[00:41:47](/episodes/ep-HZvwbfePe7o.md#ent-person-kouri-richins-t-00-41-47)**
+> "So many people were saying, “Candace, please go down that rabbit hole. There is something there.” I am just saying that there are a lot of stories about Utah wives. I don't know if I would swipe right on a Utah wife right now. That's all I'm saying. I'm sure many of you are amazing and lovely, and many of you have actually helped me so much in this investigation. But it is like, what is going on in Utah? We had that Kouri Richins girl who killed her husband."
+
+</details>
 
 <details>
 <summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (3 mentions)</summary>
@@ -102,6 +112,18 @@ Source: [A mom wrote a book to help her kids process their dad's death. Now she'
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
+
+<details>
+<summary>Accused By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:41:47](/episodes/ep-HZvwbfePe7o.md#t-00-41-47): “So many people were saying, “Candace, please go down that rabbit hole. There is something there.” I am just saying that there are a lot of stories about Utah wives. I don't know if I would swipe right on a Utah wife right now. That's all I'm saying. I'm sure many of you are amazing and lovely, and many of you have actually helped me so much in this investigation. But it is like, what is going on in Utah? We had that Kouri Richins girl who killed her husband.”
+
+</details>
+
+</details>
 
 <details>
 <summary>Attacked (1)</summary>
@@ -173,7 +195,14 @@ Source: [A mom wrote a book to help her kids process their dad's death. Now she'
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (7)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:41:47](/episodes/ep-HZvwbfePe7o.md#t-00-41-47): “So many people were saying, “Candace, please go down that rabbit hole. There is something there.” I am just saying that there are a lot of stories about Utah wives. I don't know if I would swipe right on a Utah wife right now. That's all I'm saying. I'm sure many of you are amazing and lovely, and many of you have actually helped me so much in this investigation. But it is like, what is going on in Utah? We had that Kouri Richins girl who killed her husband.”
+
+</details>
 
 - **[Eric Richins](/entities/person-eric-richins.md)** attacked by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>

@@ -23,7 +23,7 @@ Source: [Gilbert High School official website](https://gilberthigh.gilbertschool
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -60,6 +60,42 @@ Source: [Gilbert High School official website](https://gilberthigh.gilbertschool
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Attended By (2)</summary>
+
+- **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:30:28](/episodes/ep-HYn0P-P1wUw.md#t-00-30-15): “And then Tyler Bowyer and Terryl Farnsworth went to high school together. They graduated, it looks like two years apart, from Gilbert High School.”
+
+</details>
+
+- **[Terryl Farnsworth](/entities/person-terryl-farnsworth.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:30:28](/episodes/ep-HYn0P-P1wUw.md#t-00-30-15): “And then Tyler Bowyer and Terryl Farnsworth went to high school together. They graduated, it looks like two years apart, from Gilbert High School.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
+
+- **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** attended this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:30:28](/episodes/ep-HYn0P-P1wUw.md#t-00-30-15): “And then Tyler Bowyer and Terryl Farnsworth went to high school together. They graduated, it looks like two years apart, from Gilbert High School.”
+
+</details>
+
+- **[Terryl Farnsworth](/entities/person-terryl-farnsworth.md)** attended this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:30:28](/episodes/ep-HYn0P-P1wUw.md#t-00-30-15): “And then Tyler Bowyer and Terryl Farnsworth went to high school together. They graduated, it looks like two years apart, from Gilbert High School.”
+
+</details>
+
+</details>
 
 </details>

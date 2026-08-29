@@ -1,6 +1,6 @@
 ---
 title: "Anonymous Losee Center Eyewitness"
-description: "Anonymous Losee Center Eyewitness (Anonymous Sources) - 1 mention"
+description: "Anonymous Losee Center Eyewitness (Anonymous Sources) - 3 mentions"
 id: "anon-src-puuMVxEu5NU-eyewitness"
 type: "ANONYMOUS_SOURCE"
 aliases:
@@ -22,18 +22,43 @@ _Type: Anonymous Sources_
 Source: [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](https://www.youtube.com/watch?v=puuMVxEu5NU)
 
 <div class="entity-summary-grid">
-<div><span>Episodes</span><strong>0</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
-<div><span>Statements by</span><strong>7</strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#t-00-04-43">2026-07-29 · 00:04:48</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#t-00-04-43">2026-07-29 · 00:04:48</a></strong></div>
+<div><span>Episodes</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Statements by</span><strong>10</strong></div>
 <div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-Vu6Y24pqhZs.md#t-00-04-43">EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367</a> (1 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-Vu6Y24pqhZs.md#t-00-04-43" style="--pulse-height:100%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#t-00-04-43) | 1 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
+
+**[00:04:48](/episodes/ep-Vu6Y24pqhZs.md#t-00-04-43)**
+> "Anyway, speaking of military men, last week we played for you an exclusive audio from the only person who managed to capture footage of the alleged gunman on Losee Center rooftop before the sound of the shot goes off, right?"
+
+</details>
 
 </details>
 
@@ -67,7 +92,26 @@ Source: [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. |
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Anonymous Losee Center Eyewitness (7)</strong></summary>
+<summary><strong class="section-title">Statements by Anonymous Losee Center Eyewitness (10)</strong></summary>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (1)</summary>
+
+- [00:41:37](/episodes/ep-iB-YtO3UZOg.md#t-00-41-35) [✓] (Claim) ["An unidentified eyewitness said a person had run across the Losee Center roof an..."](/statements/statement-9af1a6181380.md)
+  - About: [Losee Center for Student Success](/entities/org-losee-center-for-student-success.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (2)</summary>
+
+- [00:05:03](/episodes/ep-Vu6Y24pqhZs.md#t-00-04-43) [○] (Opinion) ["The anonymous Losee Center eyewitness said the rooftop person looked like a prof..."](/statements/statement-cac5f0fc9efa.md)
+  - About: [Losee Center](/entities/org-losee-center.md)
+
+- [00:12:52](/episodes/ep-Vu6Y24pqhZs.md#t-00-12-52) [○] (Claim) ["The anonymous Losee Center eyewitness said he saw no recoil before the rooftop p..."](/statements/statement-f4e8e2b579dc.md)
+  - About: [Losee Center](/entities/org-losee-center.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (7)</summary>

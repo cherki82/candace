@@ -32,7 +32,7 @@ type: "factual_claim"
 **Timestamp:** [00:15:33](/episodes/ep-eLgD5yUVbko.md#t-00-15-12) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(933);return false;">Play</a>
 
-> There was even a smaller dinner that took place later with just about 12 people in attendance that took place after the presentation. ... They asked him about his future plans for turning point, and Erica was never mentioned.
+> There was even a smaller dinner that took place later with just about 12 people in attendance that took place after the presentation. ... They asked him about his future plans for turning point, and Erika was never mentioned.
 
 ## Verification
 

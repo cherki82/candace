@@ -1,6 +1,6 @@
 ---
-title: "Donald Trump claimed that Pope Leo XIV was chosen because he..."
-description: "\"Donald Trump claimed that Pope Leo XIV was chosen because he was American and the Church wanted the best way to deal with Trump, adding that Leo would...\" — Donald J. Trump"
+title: "Donald Trump claimed that Pope Leo XIV was \"only put there b..."
+description: "\"Donald Trump claimed that Pope Leo XIV was \"only put there by the Church because he wasn't American\" and because the Church thought that would be the ...\" — Donald J. Trump"
 statement_id: "statement-4b315897c442"
 speaker: "Donald J. Trump"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> Donald Trump claimed that Pope Leo XIV was chosen because he was American and the Church wanted the best way to deal with Trump, adding that Leo would not be in the Vatican if Trump were not in the White House.
+> Donald Trump claimed that Pope Leo XIV was "only put there by the Church because he wasn't American" and because the Church thought that would be the best way to deal with Trump, adding that Leo would not be in the Vatican if Trump were not in the White House.
 
 ## Attribution
 

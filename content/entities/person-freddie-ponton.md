@@ -3,9 +3,17 @@ title: "Freddie Ponton"
 description: "Freddie Ponton (People) - 1 mention"
 id: "person-freddie-ponton"
 type: "PERSON"
+categories:
+  - "author"
 ---
 
 _Type: People_
+
+**Categories:** author
+
+**Entity verification:** verified
+> The episode transcript names Freddie Ponton as the article's author. This verifies attribution only.
+Source: [Charlie Kirk And Brigitte's Legionnaires — source episode](https://www.youtube.com/watch?v=tB5SXXmd9vU)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-freddie-ponton-t-00-11-17">2025-12-01 · 00:11:17</a></strong></div>

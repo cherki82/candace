@@ -80,7 +80,7 @@ Source: [The Secret Founding of America by Nicholas Hagger](https://www.penguin.
 <summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1 mentions)</summary>
 
 **[01:03:49](/episodes/ep-UYkXV9mYbT4.md#ent-work-the-secret-founding-of-america-t-01-03-14)**
-> "...f right now as we are reading The Secret Founding of America by Nicholas Hager."
+> "Otherwise, yeah, there's tons of stuff. You can also join the book club where we're getting a lot deeper on this Freemasonry stuff right now as we are reading The Secret Founding of America by Nicholas Hagger."
 
 </details>
 
@@ -128,7 +128,7 @@ Source: [The Secret Founding of America by Nicholas Hagger](https://www.penguin.
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:01:59](/episodes/ep-DdPjoy5W-wY.md#t-01-01-59): “The Secret Founding of America by Nicholas Hagger”
-- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 01:03:49](/episodes/ep-UYkXV9mYbT4.md#t-01-03-14): “Otherwise, yeah, there's tons of stuff. You can also join the book club where we're getting a lot deeper on this Freemasonry stuff right now as we are reading The Secret Founding of America by Nicholas Hager.”
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 01:03:49](/episodes/ep-UYkXV9mYbT4.md#t-01-03-14): “Otherwise, yeah, there's tons of stuff. You can also join the book club where we're getting a lot deeper on this Freemasonry stuff right now as we are reading The Secret Founding of America by Nicholas Hagger.”
 
 </details>
 
@@ -141,7 +141,7 @@ Source: [The Secret Founding of America by Nicholas Hagger](https://www.penguin.
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:01:59](/episodes/ep-DdPjoy5W-wY.md#t-01-01-59): “The Secret Founding of America by Nicholas Hagger”
-- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 01:03:49](/episodes/ep-UYkXV9mYbT4.md#t-01-03-14): “Otherwise, yeah, there's tons of stuff. You can also join the book club where we're getting a lot deeper on this Freemasonry stuff right now as we are reading The Secret Founding of America by Nicholas Hager.”
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 01:03:49](/episodes/ep-UYkXV9mYbT4.md#t-01-03-14): “Otherwise, yeah, there's tons of stuff. You can also join the book club where we're getting a lot deeper on this Freemasonry stuff right now as we are reading The Secret Founding of America by Nicholas Hagger.”
 
 </details>
 

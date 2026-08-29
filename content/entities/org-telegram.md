@@ -1,6 +1,6 @@
 ---
 title: "Telegram"
-description: "Telegram (Organizations) - 10 mentions"
+description: "Telegram (Organizations) - 13 mentions"
 id: "org-telegram"
 type: "ORG"
 categories:
@@ -17,9 +17,9 @@ Source: [Telegram FAQ](https://telegram.org/faq)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#ent-org-telegram-t-00-07-35">2025-10-07 · 00:07:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-telegram-t-03-39-45">2026-08-14 · 03:39:45</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-org-telegram-t-00-41-23">2026-08-18 · 00:41:43</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -36,6 +36,8 @@ Source: [Telegram FAQ](https://telegram.org/faq)
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-org-telegram-t-00-14-24" style="--pulse-height:33%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-org-telegram-t-01-06-06" style="--pulse-height:33%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-telegram-t-03-39-42" style="--pulse-height:67%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-telegram-t-02-49-36" style="--pulse-height:67%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-org-telegram-t-00-41-23" style="--pulse-height:33%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +49,8 @@ Source: [Telegram FAQ](https://telegram.org/faq)
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-telegram-t-00-14-24) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-telegram-t-01-06-06) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-telegram-t-03-39-42) | 2 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-telegram-t-02-49-36) | 2 |
+| 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-org-telegram-t-00-41-23) | 1 |
 
 </details>
 </section>
@@ -54,7 +58,15 @@ Source: [Telegram FAQ](https://telegram.org/faq)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1 mentions)</summary>
+
+**[00:41:43](/episodes/ep-4JxgOclKzqg.md#ent-org-telegram-t-00-41-23)**
+> "...hem through signal or through telegram. What did I do? At first thing I said, here's my ..."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -64,6 +76,17 @@ Source: [Telegram FAQ](https://telegram.org/faq)
 
 **[03:39:45](/episodes/ep-nPhCKwJ6ye8.md#ent-org-telegram-t-03-39-45)**
 > "...that too. I only have signal. Telegram I used in Russia."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (2 mentions)</summary>
+
+**[02:49:36](/episodes/ep-aPOyk1i2LOc.md#ent-org-telegram-t-02-49-36)**
+> "... other texts. Could have been Telegram, could"
+
+**[02:49:39](/episodes/ep-aPOyk1i2LOc.md#ent-org-telegram-t-02-49-39)**
+> "...that too. I only have signal. Telegram I used in Russia and that was a download"
 
 </details>
 

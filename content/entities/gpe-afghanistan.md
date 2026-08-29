@@ -1,6 +1,6 @@
 ---
 title: "Afghanistan"
-description: "Afghanistan (Places) - 21 mentions"
+description: "Afghanistan (Places) - 25 mentions"
 id: "gpe-afghanistan"
 type: "GPE"
 categories:
@@ -18,11 +18,11 @@ Source: [CIA World Factbook — Afghanistan](https://www.cia.gov/the-world-factb
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-afghanistan-t-00-50-50">2025-11-12 · 00:50:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-afghanistan-t-00-51-25">2026-05-19 · 00:51:45</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-afghanistan-t-00-39-19">2026-08-03 · 00:39:36</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -32,24 +32,30 @@ Source: [CIA World Factbook — Afghanistan](https://www.cia.gov/the-world-factb
 <p>Highest activity: <a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-afghanistan-t-00-16-37">Bride Of Charlie: What Happened In Romania? | Episode 6</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-afghanistan-t-00-50-50" style="--pulse-height:10%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-afghanistan-t-01-04-58" style="--pulse-height:10%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-afghanistan-t-00-36-08" style="--pulse-height:10%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-afghanistan-t-00-18-12" style="--pulse-height:10%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-afghanistan-t-00-04-53" style="--pulse-height:10%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-afghanistan-t-00-00-01" style="--pulse-height:60%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 6 mentions" title="2026-03-03 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-afghanistan-t-00-16-37" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 10 mentions" title="2026-03-04 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-afghanistan-t-00-08-22" style="--pulse-height:10%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-afghanistan-t-00-51-25" style="--pulse-height:10%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-afghanistan-t-00-20-04" style="--pulse-height:20%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 2 mentions" title="2026-08-03 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-afghanistan-t-00-50-50) | 1 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-afghanistan-t-01-04-58) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-afghanistan-t-00-36-08) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-afghanistan-t-00-18-12) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-afghanistan-t-00-04-53) | 1 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-gpe-afghanistan-t-00-00-01) | 6 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-afghanistan-t-00-16-37) | 10 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-afghanistan-t-00-08-22) | 1 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-afghanistan-t-00-51-25) | 1 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-gpe-afghanistan-t-00-20-04) | 2 |
 
 </details>
 </section>
@@ -57,7 +63,18 @@ Source: [CIA World Factbook — Afghanistan](https://www.cia.gov/the-world-factb
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (2 mentions)</summary>
+
+**[00:20:15](/episodes/ep-AH1KVKkweUE.md#ent-gpe-afghanistan-t-00-20-04)**
+> "...'s been deployed in combat in Afghanistan. He was also deployed in humanitarian work in Jap..."
+
+**[00:39:36](/episodes/ep-AH1KVKkweUE.md#ent-gpe-afghanistan-t-00-39-19)**
+> "... Syria, they were wrong about Afghanistan, they were wrong about the Taliban, they were wro..."
+
+</details>
 
 <details>
 <summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (1 mentions)</summary>
@@ -150,6 +167,22 @@ Source: [CIA World Factbook — Afghanistan](https://www.cia.gov/the-world-factb
 </details>
 
 <details>
+<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
+
+**[00:36:25](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-afghanistan-t-00-36-08)**
+> "...mmander at a U.S. air base in Afghanistan."
+
+</details>
+
+<details>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
+
+**[01:05:26](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-afghanistan-t-01-04-58)**
+> "Iraq, Syria, Afghanistan. No, really, this time we're toppling evil. Oh, m..."
+
+</details>
+
+<details>
 <summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (1 mentions)</summary>
 
 **[00:50:54](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-afghanistan-t-00-50-50)**
@@ -167,7 +200,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Afghanistan (6)</strong></summary>
+<summary><strong class="section-title">Statements about Afghanistan (7)</strong></summary>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1)</summary>
+
+- [00:19:57](/episodes/ep-AH1KVKkweUE.md#t-00-19-22) (Citation) **Candace Owens**: ["Owens said Robertson's LinkedIn listed him as a Marine Corps marksmans..."](/statements/statement-b0e6dd9b87ec.md)
+  - Also about: [Alan Edward Robertson](/entities/person-alan-edward-robertson.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md), [Japan](/entities/gpe-japan.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: What Happened In Romania? | Episode 6 (4)</summary>

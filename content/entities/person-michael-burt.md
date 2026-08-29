@@ -3,9 +3,17 @@ title: "Michael Burt"
 description: "Michael Burt (People) - 1 mention"
 id: "person-michael-burt"
 type: "PERSON"
+categories:
+  - "attorney"
 ---
 
 _Type: People_
+
+**Categories:** attorney
+
+**Entity verification:** verified
+> KSL identifies attorney Michael Burt in the relevant case context.
+Source: [Attorneys assigned to represent Tyler Robinson — KSL](https://www.ksl.com/article/51381487/heres-the-lowdown-on-the-attorneys-assigned-to-represent-tyler-robinson)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-michael-burt-t-00-46-07">2025-10-01 · 00:46:37</a></strong></div>

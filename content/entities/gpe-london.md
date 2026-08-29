@@ -1,6 +1,6 @@
 ---
 title: "London"
-description: "London (Places) - 28 mentions"
+description: "London (Places) - 32 mentions"
 id: "gpe-london"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [London City Hall official website](https://www.london.gov.uk/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-gpe-london-t-00-08-46">2025-09-24 · 00:09:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-london-t-00-51-12">2026-06-18 · 00:51:23</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>28</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-london-t-00-55-45">2026-08-06 · 00:56:13</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>32</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -48,6 +48,9 @@ Source: [London City Hall official website](https://www.london.gov.uk/)
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-gpe-london-t-00-37-31" style="--pulse-height:33%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-gpe-london-t-00-28-22" style="--pulse-height:67%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 2 mentions" title="2026-05-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-london-t-00-51-12" style="--pulse-height:33%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-london-t-00-30-19" style="--pulse-height:67%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 2 mentions" title="2026-07-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-gpe-london-t-00-07-46" style="--pulse-height:33%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 1 mentions" title="2026-07-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-london-t-00-55-45" style="--pulse-height:33%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -70,6 +73,9 @@ Source: [London City Hall official website](https://www.london.gov.uk/)
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-london-t-00-37-31) | 1 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-gpe-london-t-00-28-22) | 2 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-london-t-00-51-12) | 1 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-london-t-00-30-19) | 2 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-gpe-london-t-00-07-46) | 1 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-gpe-london-t-00-55-45) | 1 |
 
 </details>
 </section>
@@ -77,7 +83,34 @@ Source: [London City Hall official website](https://www.london.gov.uk/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:56:13](/episodes/ep-ChuWo-n49B8.md#ent-gpe-london-t-00-55-45)**
+> "a free ride to Paris or London"
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (1 mentions)</summary>
+
+**[00:08:12](/episodes/ep-iB-YtO3UZOg.md#ent-gpe-london-t-00-07-46)**
+> "She has access to preschool kids. What we learned from her bio is that, quote, previously, Dr. Guajardo was faculty at Brunel University in London and then the University of Utah. Been there for almost 10 years, last 10 years."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (2 mentions)</summary>
+
+**[00:30:19](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-london-t-00-30-19)**
+> "The first flight took place on September, on February 27th, 2006 from New York's JFK International Airport to London's Luton Airport."
+
+**[00:30:27](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-london-t-00-30-19)**
+> "...st for the second flight from London to New York on March 3, 2006 indicates that Phela..."
+
+</details>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1 mentions)</summary>

@@ -3,9 +3,17 @@ title: "Milton Friedman"
 description: "Milton Friedman (People) - 1 mention"
 id: "person-milton-friedman"
 type: "PERSON"
+categories:
+  - "economist"
 ---
 
 _Type: People_
+
+**Categories:** economist
+
+**Entity verification:** verified
+> The Nobel Prize biography confirms the canonical name and economist identity.
+Source: [Milton Friedman — Nobel Prize biographical](https://www.nobelprize.org/prizes/economic-sciences/1976/friedman/biographical/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-person-milton-friedman-t-00-01-28">2025-11-21 · 00:01:29</a></strong></div>

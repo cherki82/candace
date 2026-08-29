@@ -1,11 +1,16 @@
 ---
 title: "Rick Cutler"
-description: "Rick Cutler (People) - 22 mentions"
+description: "Rick Cutler (People) - 33 mentions"
 id: "person-rick-cutler"
 type: "PERSON"
+categories:
+  - "security"
+  - "Charlie Kirk security team"
 ---
 
 _Type: People_
+
+**Categories:** security, Charlie Kirk security team
 
 **Entity verification:** verified
 > Published reporting identifies Rick Cutler among Charlie Kirk's security detail, matching the transcript context.
@@ -13,11 +18,11 @@ Source: [KSL — Charlie Kirk security detail account](https://www.ksl.com/artic
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-rick-cutler-t-01-17-26">2026-01-09 · 01:17:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-rick-cutler-t-00-08-11">2026-07-21 · 00:08:22</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>22</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#t-00-08-04">2026-08-04 · 00:08:31</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>33</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -32,6 +37,10 @@ Source: [KSL — Charlie Kirk security detail account](https://www.ksl.com/artic
 <a href="/episodes/ep-a2bZf4fic10.md#ent-person-rick-cutler-t-00-13-44" style="--pulse-height:23%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-rick-cutler-t-01-02-36" style="--pulse-height:15%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-rick-cutler-t-00-06-19" style="--pulse-height:15%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 2 mentions" title="2026-07-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-person-rick-cutler-t-00-15-57" style="--pulse-height:15%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 2 mentions" title="2026-07-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-person-rick-cutler-t-00-15-12" style="--pulse-height:15%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 2 mentions" title="2026-07-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-person-rick-cutler-t-00-05-03" style="--pulse-height:46%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 6 mentions" title="2026-08-03 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#t-00-08-04" style="--pulse-height:8%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -43,6 +52,10 @@ Source: [KSL — Charlie Kirk security detail account](https://www.ksl.com/artic
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-rick-cutler-t-00-13-44) | 3 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-rick-cutler-t-01-02-36) | 2 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-rick-cutler-t-00-06-19) | 2 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-person-rick-cutler-t-00-15-57) | 2 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-person-rick-cutler-t-00-15-12) | 2 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-person-rick-cutler-t-00-05-03) | 6 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#t-00-08-04) | 1 |
 
 </details>
 </section>
@@ -50,7 +63,60 @@ Source: [KSL — Charlie Kirk security detail account](https://www.ksl.com/artic
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>
+
+**[00:08:31](/episodes/ep-1CFDtD0IgEg.md#t-00-08-04)**
+> "Who would have used them? Rick's busy. Why isn't this? Is it in his compartment?"
+
+</details>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (6 mentions)</summary>
+
+**[00:05:03](/episodes/ep-AH1KVKkweUE.md#ent-person-rick-cutler-t-00-05-03)**
+> "...es and then stuck him over in Rick Cutler's door as they arrived at the hospital. If you put ..."
+
+**[00:05:21](/episodes/ep-AH1KVKkweUE.md#ent-person-rick-cutler-t-00-05-03)**
+> "...n doesn't make sense. It's in Rick Cutler's door."
+
+**[00:05:31](/episodes/ep-AH1KVKkweUE.md#ent-person-rick-cutler-t-00-05-03)**
+> "And we were told that Rick Cutler didn't do nothing but hold Brian Harpole with a t..."
+
+**[00:05:49](/episodes/ep-AH1KVKkweUE.md#ent-person-rick-cutler-t-00-05-49)**
+> "Do we think that Rick Cutler had to put on nitrile gloves or leather gloves to..."
+
+**[00:06:00](/episodes/ep-AH1KVKkweUE.md#ent-person-rick-cutler-t-00-05-49)**
+> "..., we also told you that Rick (Rick Cutler) was among those who allegedly stripped down his ..."
+
+**[00:08:13](/episodes/ep-AH1KVKkweUE.md#ent-person-rick-cutler-t-00-08-01)**
+> "...ou, I don't feel like you and Rick Cutler would let Brian Harpole run the show."
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (2 mentions)</summary>
+
+**[00:15:12](/episodes/ep-iB-YtO3UZOg.md#ent-person-rick-cutler-t-00-15-12)**
+> "Still, by the way, nobody knows why or how he got that blood on him because if Brian Harpole is to be believed, he was doing all of the work while Rick Cutler was holding him."
+
+**[00:17:28](/episodes/ep-iB-YtO3UZOg.md#ent-person-rick-cutler-t-00-17-28)**
+> "Brian Harpole's or Rick Cutler's boxers for evidence. In my mind, they likely took..."
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (2 mentions)</summary>
+
+**[00:16:07](/episodes/ep-HZvwbfePe7o.md#ent-person-rick-cutler-t-00-15-57)**
+> "And what always stood out to me was that despite providing this near play by play of what everyone was doing during that short ride, this is what Rick (Rick Cutler) was doing, is it no one wants to take credit for dialing out to emergency services."
+
+**[00:19:43](/episodes/ep-HZvwbfePe7o.md#ent-person-rick-cutler-t-00-19-43)**
+> "... doing a medical, as he says, Rick Cutler with the tattoo, the mean tattoo, Justin Davis do..."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (2 mentions)</summary>
@@ -158,7 +224,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Rick Cutler (4)</strong></summary>
+<summary><strong class="section-title">Statements about Rick Cutler (5)</strong></summary>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1)</summary>
+
+- [00:06:00](/episodes/ep-AH1KVKkweUE.md#t-00-05-49) (Accusation) **Candace Owens** (via paraphrase): ["Owens said she had been told that Rick Cutler was among those who alle..."](/statements/statement-e911fbdffe93.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1)</summary>

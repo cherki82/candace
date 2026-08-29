@@ -1,6 +1,6 @@
 ---
 title: "Justin Streiff"
-description: "Justin Streiff (People) - 96 mentions"
+description: "Justin Streiff (People) - 98 mentions"
 id: "person-justin-streiff"
 type: "PERSON"
 aliases:
@@ -25,10 +25,10 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-person-justin-streiff-t-00-21-13">2025-09-25 · 00:06:45</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-justin-streiff-t-02-46-50">2026-08-14 · 02:46:56</a></strong></div>
-<div><span>Episodes</span><strong>37</strong></div>
-<div><span>Mentions</span><strong>96</strong></div>
+<div><span>Episodes</span><strong>39</strong></div>
+<div><span>Mentions</span><strong>98</strong></div>
 <div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>29</strong></div>
+<div><span>Statements about</span><strong>30</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -42,8 +42,8 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-justin-streiff-t-00-31-02" style="--pulse-height:8%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-justin-streiff-t-00-24-50" style="--pulse-height:21%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 3 mentions" title="2025-12-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-es7PWdFGoFI.md#ent-person-justin-streiff-t-00-02-04" style="--pulse-height:57%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 8 mentions" title="2025-12-16 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-justin-streiff-t-00-56-45" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-justin-streiff-t-00-23-32" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-justin-streiff-t-00-56-12" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-justin-streiff-t-00-23-20" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-justin-streiff-t-00-17-53" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-justin-streiff-t-01-09-21" style="--pulse-height:14%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 2 mentions" title="2026-01-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-justin-streiff-t-00-08-34" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
@@ -73,7 +73,9 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-justin-streiff-t-00-14-39" style="--pulse-height:14%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 2 mentions" title="2026-06-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-justin-streiff-t-00-40-02" style="--pulse-height:8%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-justin-streiff-t-00-17-22" style="--pulse-height:8%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-person-justin-streiff-t-00-00-37" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-justin-streiff-t-02-46-50" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-justin-streiff-t-02-05-48" style="--pulse-height:8%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -84,8 +86,8 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-justin-streiff-t-00-31-02) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-person-justin-streiff-t-00-24-50) | 3 |
 | 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-justin-streiff-t-00-02-04) | 8 |
-| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-justin-streiff-t-00-56-45) | 1 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-justin-streiff-t-00-23-32) | 1 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-justin-streiff-t-00-56-12) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-justin-streiff-t-00-23-20) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-justin-streiff-t-00-17-53) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-justin-streiff-t-01-09-21) | 2 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-justin-streiff-t-00-08-34) | 1 |
@@ -115,7 +117,9 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-justin-streiff-t-00-14-39) | 2 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-justin-streiff-t-00-40-02) | 1 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-justin-streiff-t-00-17-22) | 1 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-person-justin-streiff-t-00-00-37) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-justin-streiff-t-02-46-50) | 1 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-justin-streiff-t-02-05-48) | 1 |
 
 </details>
 </section>
@@ -123,13 +127,29 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (96)</strong></summary>
+<summary><strong class="section-title">Raw mentions (98)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[02:46:56](/episodes/ep-nPhCKwJ6ye8.md#ent-person-justin-streiff-t-02-46-50)**
 > "her and Justin Strife."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (1 mentions)</summary>
+
+**[02:05:54](/episodes/ep-aPOyk1i2LOc.md#ent-person-justin-streiff-t-02-05-48)**
+> "And it's me, her and Justin Strife. And I'm like, okay, great. What do you gu..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
+
+**[00:00:37](/episodes/ep-Vu6Y24pqhZs.md#ent-person-justin-streiff-t-00-00-37)**
+> "Also, I have learned, and this is quite unusual because he does not often travel. Chief Operating Officer Justin Streiff was scheduled to be there and their in-house legal counsel, Frank (Turning Point USA in-house legal counsel; surname unverified). Ladies and gentlemen, why does Andrew (Andrew Kolvet) lie so easily?"
 
 </details>
 
@@ -284,7 +304,7 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
 
 **[00:06:15](/episodes/ep-q1NRQQAYS_Q.md#ent-person-justin-streiff-t-00-05-43)**
-> "Justin Strife"
+> "... more kind of be the icon and Justin Streiff is probably going to be running things behind the..."
 
 </details>
 
@@ -292,16 +312,16 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 <summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (4 mentions)</summary>
 
 **[00:07:25](/episodes/ep-UYkXV9mYbT4.md#ent-person-justin-streiff-t-00-07-25)**
-> "...y next day on September 20th, Justin Strife was contacting my husband several times wh..."
+> "Do you want to know how I know that it caused panic? Because the very next day on September 20th, Justin Streiff was contacting my husband several times while asking him if I had recorded that FaceTime call with Terrell (Terrell Farnsworth)."
 
 **[00:07:37](/episodes/ep-UYkXV9mYbT4.md#ent-person-justin-streiff-t-00-07-25)**
-> "...now what's going on, but like Justin Strife is hitting me up. He's asking me if he rec..."
+> "It came across like an urgent matter. I was sitting in my living room. George (George Farmer) came to me and said, hey, I don't know what's going on, but like Justin Streiff is hitting me up. He's asking me if he recorded, what was he talking about?"
 
 **[00:08:03](/episodes/ep-UYkXV9mYbT4.md#ent-person-justin-streiff-t-00-08-03)**
-> "... that was placing pressure on Justin Streif and Frank Carney to determine whether or n..."
+> "And guess what? I found out why I found out you want to know why? They were feeling a bit of pressure who it was in particular that was placing pressure on Justin Streiff and Frank Carni to determine whether or not I had recorded that back footage."
 
 **[00:08:17](/episodes/ep-UYkXV9mYbT4.md#ent-person-justin-streiff-t-00-08-03)**
-> "...The FBI was on the phone with Justin Streif, Frank Carney, and they were apparently sp..."
+> "The feds were. The FBI. The FBI was on the phone with Justin Streiff, Frank Carni, and they were apparently speaking to the feds that day about whether or not I had recorded the footage."
 
 </details>
 
@@ -500,7 +520,7 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
 
-**[00:23:32](/episodes/ep-HYn0P-P1wUw.md#ent-person-justin-streiff-t-00-23-32)**
+**[00:23:32](/episodes/ep-HYn0P-P1wUw.md#ent-person-justin-streiff-t-00-23-20)**
 > "...hat to Erika (Erika Kirk) and Justin Streiff when we were sitting in the meeting."
 
 </details>
@@ -508,7 +528,7 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
 
-**[00:56:45](/episodes/ep-OEAHy3SsIiI.md#ent-person-justin-streiff-t-00-56-45)**
+**[00:56:41](/episodes/ep-OEAHy3SsIiI.md#ent-person-justin-streiff-t-00-56-12)**
 > "And I was, I had a phone call, not with Andrew Kolvet, a good, good phone call. I do think thus far, Justin Streiff has maybe been the only person that has been well intended."
 
 </details>
@@ -770,7 +790,15 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Justin Streiff (29)</strong></summary>
+<summary><strong class="section-title">Statements about Justin Streiff (30)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1)</summary>
+
+- [00:00:23](/episodes/ep-Vu6Y24pqhZs.md#t-00-00-01) (Claim) **Candace Owens**: ["Owens said she confirmed that Andrew Kolvet, Marina Minas, Justin Stre..."](/statements/statement-beaace42dd6b.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Marina Minas](/entities/person-marina-minas.md), [Frank Carni](/entities/person-frank-carni.md)
+
+</details>
 
 <details>
 <summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1)</summary>
@@ -811,7 +839,7 @@ Source: [Team - Turning Point USA](https://tpusa.com/team/)
 <details>
 <summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1)</summary>
 
-- [00:08:17](/episodes/ep-UYkXV9mYbT4.md#t-00-08-03) (Claim) **Candace Owens**: ["The FBI was on the phone with Justin Streiff and Frank Carni about whe..."](/statements/statement-53b46473615f.md)
+- [00:08:17](/episodes/ep-UYkXV9mYbT4.md#t-00-08-03) (Claim) **Candace Owens**: ["The FBI was apparently on the phone with Justin Streiff and Frank Carn..."](/statements/statement-53b46473615f.md)
   - Also about: [FBI](/entities/org-fbi.md), [Frank Carni](/entities/person-frank-carni.md)
 
 </details>

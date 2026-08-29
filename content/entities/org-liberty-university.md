@@ -625,7 +625,7 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 - [00:50:02](/episodes/ep-wcD2khO3rOA.md#t-00-49-36) (Claim) **Candace Owens** (via read message): ["Sun Myung Moon’s network provided roughly $20–40 million that rescued ..."](/statements/statement-b2b204dd2376.md)
   - Also about: [Sun Myung Moon](/entities/person-sun-myung-moon.md)
 
-- [00:55:40](/episodes/ep-wcD2khO3rOA.md#t-00-54-55) (Claim) **The Washington Post** (via quoted article): ["Moon-affiliated entities helped bail out Liberty University, including..."](/statements/statement-bc6dd4b8b537.md)
+- [01:06:06](/episodes/ep-wcD2khO3rOA.md#t-01-05-32) (Claim) **The Washington Post** (via quoted article): ["Moon-affiliated entities helped bail out Liberty University, including..."](/statements/statement-bc6dd4b8b537.md)
   - Also about: [Christian Heritage Foundation](/entities/org-christian-heritage-foundation.md), [News World Communications](/entities/org-news-world-communications.md)
 
 </details>

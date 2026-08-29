@@ -28,7 +28,7 @@ type: "opinion"
 **Timestamp:** [00:11:10](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(670);return false;">Play</a>
 
-> Well, that makes sense. But it's not a reason for why he took it down immediately. It makes sense that as you're investigating, you're going to say, who's got the footage? You know, let's lock it down. But it didn't make sense to me that Tyler Boyer Lied about it and I don't trust Tyler Boyer and that does not that is never going to change
+> Well, that makes sense. But it's not a reason for why he took it down immediately. It makes sense that as you're investigating, you're going to say, who's got the footage? You know, let's lock it down. But it didn't make sense to me that Tyler (Tyler (Tyler Robinson)) Boyer Lied about it and I don't trust Tyler (Tyler (Tyler Robinson)) Boyer and that does not that is never going to change Similarly with Rob McCoy.
 
 ## Verification
 

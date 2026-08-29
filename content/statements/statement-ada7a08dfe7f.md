@@ -1,6 +1,6 @@
 ---
-title: "Satis was publicly announced on December 10th, seven days af..."
-description: "\"Satis was publicly announced on December 10th, seven days after the cease-and-desist letter\" — Candace Owens"
+title: "Satys was publicly announced on December 10th, seven days af..."
+description: "\"Satys was publicly announced on December 10th, seven days after the cease-and-desist letter\" — Candace Owens"
 statement_id: "statement-ada7a08dfe7f"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Satis was publicly announced on December 10th, seven days after the cease-and-desist letter
+> Satys was publicly announced on December 10th, seven days after the cease-and-desist letter
 
 ## Attribution
 
@@ -20,7 +20,7 @@ type: "factual_claim"
 
 ## About
 
-- [Satis](/entities/org-satis.md) (org)
+- [Satys](/entities/org-satys.md) (org)
 
 ## Source
 

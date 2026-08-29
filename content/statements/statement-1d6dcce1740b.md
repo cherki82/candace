@@ -32,7 +32,7 @@ type: "accusation"
 **Timestamp:** [00:50:51](/episodes/ep-OEAHy3SsIiI.md#t-00-50-20) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3051);return false;">Play</a>
 
-> But Andrew Kolvet went rogue.
+> I was left under the impression after my meeting with Erika (Erika Kirk) that Andrew Kolvet had gone rogue, right? ... Their excuse was like, okay, no, you were telling the truth. But Andrew Kolvet went rogue. ... But I'm very clear that that's what I was told, right?
 
 ### 2. Candace x Baron Coleman LIVE!! | Candace Ep 293
 

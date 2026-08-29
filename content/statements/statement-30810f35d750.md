@@ -24,7 +24,6 @@ veracity: "true"
 ## About
 
 - [Erika Kirk](/entities/person-erika-kirk.md) (person)
-- [Donald J. Trump](/entities/person-donald-trump.md) (person)
 - [Tyler Bowyer](/entities/person-tyler-bowyer.md) (person)
 
 ## Appearances (3)

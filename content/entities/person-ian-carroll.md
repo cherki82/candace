@@ -1,6 +1,6 @@
 ---
 title: "Ian Carroll"
-description: "Ian Carroll (People) - 43 mentions"
+description: "Ian Carroll (People) - 47 mentions"
 id: "person-ian-carroll"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-ian-carroll-t-00-40-46">2025-09-29 · 00:40:49</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-ian-carroll-t-00-28-12">2026-08-14 · 00:28:29</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>43</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-person-ian-carroll-t-00-46-29">2026-08-18 · 00:46:29</a></strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
+<div><span>Mentions</span><strong>47</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -43,7 +43,7 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 <a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-ian-carroll-t-01-04-11" style="--pulse-height:29%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 2 mentions" title="2025-11-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-ian-carroll-t-00-45-44" style="--pulse-height:14%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-ian-carroll-t-00-31-18" style="--pulse-height:29%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 2 mentions" title="2025-12-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-ian-carroll-t-00-42-22" style="--pulse-height:43%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 3 mentions" title="2026-01-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-ian-carroll-t-00-42-22" style="--pulse-height:29%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-ian-carroll-t-00-41-07" style="--pulse-height:14%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-ian-carroll-t-00-54-45" style="--pulse-height:29%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-ian-carroll-t-01-00-47" style="--pulse-height:14%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
@@ -54,7 +54,10 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-ian-carroll-t-00-17-35" style="--pulse-height:14%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-ian-carroll-t-00-55-34" style="--pulse-height:14%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-person-ian-carroll-t-00-57-44" style="--pulse-height:14%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-person-ian-carroll-t-00-46-13" style="--pulse-height:14%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-ian-carroll-t-00-28-12" style="--pulse-height:14%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-ian-carroll-t-00-03-34" style="--pulse-height:14%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-person-ian-carroll-t-00-40-45" style="--pulse-height:43%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 3 mentions" title="2026-08-18 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,7 +71,7 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-ian-carroll-t-01-04-11) | 2 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-ian-carroll-t-00-45-44) | 1 |
 | 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-person-ian-carroll-t-00-31-18) | 2 |
-| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-ian-carroll-t-00-42-22) | 3 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-ian-carroll-t-00-42-22) | 2 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-ian-carroll-t-00-41-07) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-ian-carroll-t-00-54-45) | 2 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-ian-carroll-t-01-00-47) | 1 |
@@ -79,7 +82,10 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-ian-carroll-t-00-17-35) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-ian-carroll-t-00-55-34) | 1 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-ian-carroll-t-00-57-44) | 1 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-person-ian-carroll-t-00-46-13) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-ian-carroll-t-00-28-12) | 1 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-ian-carroll-t-00-03-34) | 1 |
+| 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-ian-carroll-t-00-40-45) | 3 |
 
 </details>
 </section>
@@ -87,13 +93,43 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (43)</strong></summary>
+<summary><strong class="section-title">Raw mentions (47)</strong></summary>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (3 mentions)</summary>
+
+**[00:41:16](/episodes/ep-4JxgOclKzqg.md#ent-person-ian-carroll-t-00-40-45)**
+> "I mean, Nissy, Baron Coleman, Ian Carroll, you know, Coach Collins."
+
+**[00:46:18](/episodes/ep-4JxgOclKzqg.md#ent-person-ian-carroll-t-00-46-03)**
+> "Alicia Switzer writes, Ian Carroll did a great reaction video, six hours, and it was..."
+
+**[00:46:29](/episodes/ep-4JxgOclKzqg.md#ent-person-ian-carroll-t-00-46-29)**
+> "...utely amazing so shout out to Ian Carroll for that and yes you can support us we do have th..."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:28:29](/episodes/ep-nPhCKwJ6ye8.md#ent-person-ian-carroll-t-00-28-12)**
 > "Day or two of Kirk's death, Ian Carroll claimed that Israel killed Charlie Kirk."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (1 mentions)</summary>
+
+**[00:03:51](/episodes/ep-aPOyk1i2LOc.md#ent-person-ian-carroll-t-00-03-34)**
+> "...a day or two of Kirk's death, Ian Carroll claimed that Israel killed Charlie Kirk, and the ..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
+
+**[00:46:36](/episodes/ep-Vu6Y24pqhZs.md#ent-person-ian-carroll-t-00-46-13)**
+> "Ian Carroll put together an entire website. I mean, there are so many things. You can look at and say that it has been a positive and the greatest thing is no one would have thought least of all Charlie (Charlie Kirk) that."
 
 </details>
 
@@ -202,16 +238,13 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 </details>
 
 <details>
-<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (3 mentions)</summary>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (2 mentions)</summary>
 
 **[00:42:22](/episodes/ep-OEAHy3SsIiI.md#ent-person-ian-carroll-t-00-42-22)**
-> "and pretended to be a brother like a brother in arms yeah brother yeah we're trying to help you we think you know kid is could be potentially funded this is you know paramount tactical potentially uh working with foreign agents and like you're one of us at the exact same time they had ian carroll calling me and ian carroll was being a friend and he's like hey you should get on the phone with them and you should come out against mitch because mitch is a fraud and"
+> "and pretended to be a brother, like a brother in arms. Yeah, brother. Yeah, we're trying to help you. We think, you know, kid is—could be potentially funded. This is, you know, Paramount Tactical potentially working with foreign agents, and, like, you're one of us. At the exact same time, they had Ian Carroll calling me, and Ian Carroll was being a friend, and he's like, hey, you should get on the phone with them, and you should come out against Mitch, because Mitch is a fraud, and..."
 
-**[00:43:07](/episodes/ep-OEAHy3SsIiI.md#ent-person-ian-carroll-t-00-43-07)**
+**[00:43:04](/episodes/ep-OEAHy3SsIiI.md#ent-person-ian-carroll-t-00-43-04)**
 > "...ts coming. And I explained to Ian Carroll,"
-
-**[00:43:22](/episodes/ep-OEAHy3SsIiI.md#ent-person-ian-carroll-t-00-43-07)**
-> "I was like, Ian (Ian Carroll),"
 
 </details>
 
@@ -389,13 +422,21 @@ Source: [About Ian Carroll](https://iancarroll.org/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Ian Carroll (2)</strong></summary>
+<summary><strong class="section-title">Statements about Ian Carroll (3)</strong></summary>
 
 <details>
 <summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1)</summary>
 
 - [00:02:12](/episodes/ep-k1b1NDCrNFs.md#t-00-01-51) (Claim) **Candace Owens**: ["Brian Harpole's lawyers emailed Candace Owens's team asking for Ian Ca..."](/statements/statement-678922ad6034.md)
   - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+
+</details>
+
+<details>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1)</summary>
+
+- [00:42:14](/episodes/ep-OEAHy3SsIiI.md#t-00-41-37) (Accusation) **Candace Owens**: ["Candace Owens alleged that Paramount Tactical Solutions and Valhalla V..."](/statements/statement-376f124fdf15.md)
+  - Also about: [Paramount Tactical Solutions](/entities/org-paramount-tactical-solutions.md), [Valhalla VFT](/entities/org-valhalla-vft.md), [Mitch Snow](/entities/person-mitch-snow.md)
 
 </details>
 

@@ -11,7 +11,7 @@ date: "2017-11-21"
 
 > Candace Owens meets Charlie Kirk at Florida conference and hired for Turning Point USA
 
-## Mentioned In (214 times)
+## Mentioned In (215 times)
 
 ### 1. To My Friend, Charlie Kirk.
 
@@ -1724,3 +1724,11 @@ date: "2017-11-21"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(281);return false;">▶️ Play</a>
 
 > we had just kind of gotten together the November before
+
+### 215. Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We R...
+
+**Episode:** [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md)
+**Timestamp:** [00:18:48](/episodes/ep-HGtMfbePDKk.md#event-event-2017-01-01-candace-owens-meets-charlie-kirk-at-florida-confer-t-00-18-48) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1128);return false;">▶️ Play</a>
+
+> Met Candace back in November, hired her five minutes after I met her

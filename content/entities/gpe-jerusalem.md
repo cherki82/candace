@@ -1,6 +1,6 @@
 ---
 title: "Jerusalem"
-description: "Jerusalem (Places) - 37 mentions"
+description: "Jerusalem (Places) - 38 mentions"
 id: "gpe-jerusalem"
 type: "GPE"
 categories:
@@ -19,8 +19,8 @@ Source: [Jerusalem Municipality](https://www.jerusalem.muni.il/en/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-jerusalem-t-00-04-50">2025-10-08 · 00:05:02</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-jerusalem-t-01-16-34">2026-08-14 · 01:16:34</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>37</strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>38</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -46,6 +46,7 @@ Source: [Jerusalem Municipality](https://www.jerusalem.muni.il/en/)
 <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-jerusalem-t-00-38-24" style="--pulse-height:12%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-jerusalem-t-00-03-28" style="--pulse-height:12%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-jerusalem-t-01-16-34" style="--pulse-height:12%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-gpe-jerusalem-t-00-51-56" style="--pulse-height:12%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -66,6 +67,7 @@ Source: [Jerusalem Municipality](https://www.jerusalem.muni.il/en/)
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-jerusalem-t-00-38-24) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-gpe-jerusalem-t-00-03-28) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-jerusalem-t-01-16-34) | 1 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-jerusalem-t-00-51-56) | 1 |
 
 </details>
 </section>
@@ -73,13 +75,21 @@ Source: [Jerusalem Municipality](https://www.jerusalem.muni.il/en/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+<summary><strong class="section-title">Raw mentions (38)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[01:16:34](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-jerusalem-t-01-16-34)**
 > "...ends just outside comfort, of Jerusalem called"
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (1 mentions)</summary>
+
+**[00:51:56](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-jerusalem-t-00-51-56)**
+> "...small village just outside of Jerusalem called Taibeh."
 
 </details>
 
@@ -118,7 +128,7 @@ Source: [Jerusalem Municipality](https://www.jerusalem.muni.il/en/)
 > "...oached to work for the CIA in Jerusalem by Israelis?"
 
 **[00:27:57](/episodes/ep-rupRLXmSndU.md#ent-gpe-jerusalem-t-00-27-50)**
-> "...s like his? roommates over in Jerusalem recruited to work contractually for the CIA."
+> "Is it a fair question to ask if Andrew Zenger was, like his roommates over in Jerusalem, recruited to work contractually for the CIA?"
 
 **[00:31:15](/episodes/ep-rupRLXmSndU.md#ent-gpe-jerusalem-t-00-30-59)**
 > "...these people are stationed in Jerusalem."
@@ -330,7 +340,7 @@ Source: [Jerusalem Municipality](https://www.jerusalem.muni.il/en/)
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1)</summary>
 
-- [00:38:41](/episodes/ep-581dILVcEE4.md#t-00-38-23) (Claim) **Candace Owens**: ["Rob McCoy was in Jerusalem on November 16th at an event billed as a ce..."](/statements/statement-33885f09bdfa.md)
+- [00:38:41](/episodes/ep-581dILVcEE4.md#t-00-38-23) (Claim) **Candace Owens**: ["Rob McCoy was apparently in Jerusalem on November 16 at an event bille..."](/statements/statement-33885f09bdfa.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Rob McCoy](/entities/person-rob-mccoy.md)
 
 </details>

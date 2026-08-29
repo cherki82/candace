@@ -1,6 +1,6 @@
 ---
 title: "Michigan"
-description: "Michigan (Places) - 8 mentions"
+description: "Michigan (Places) - 9 mentions"
 id: "gpe-michigan"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [State of Michigan](https://www.michigan.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-michigan-t-00-35-23">2026-01-29 · 00:35:53</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-gpe-michigan-t-00-47-33">2026-07-16 · 00:47:43</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-aPOyk1i2LOc.md#ent-gpe-michigan-t-00-53-21">2026-08-14 · 00:53:45</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,6 +35,7 @@ Source: [State of Michigan](https://www.michigan.gov/)
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-michigan-t-00-02-36" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 3 mentions" title="2026-02-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-gpe-michigan-t-00-00-01" style="--pulse-height:67%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-gpe-michigan-t-00-47-33" style="--pulse-height:33%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-gpe-michigan-t-00-53-21" style="--pulse-height:33%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [State of Michigan](https://www.michigan.gov/)
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-michigan-t-00-02-36) | 3 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-michigan-t-00-00-01) | 2 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-gpe-michigan-t-00-47-33) | 1 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-michigan-t-00-53-21) | 1 |
 
 </details>
 </section>
@@ -52,7 +54,15 @@ Source: [State of Michigan](https://www.michigan.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (1 mentions)</summary>
+
+**[00:53:45](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-michigan-t-00-53-21)**
+> "... have now been nationwide and Michigan health officials have confirmed the first two."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1 mentions)</summary>

@@ -15,7 +15,7 @@ object: "person-laura-loomer"
 
 **[An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg)**
 
-- [00:33:08](/episodes/ep-ZIH5-V6UPkg#t-00-33-08): _one of them being Laura Loomer. ... she yesterday proudly promoted the fact that she was behind his tweet last night to me and Tucker and Megan, but to Tucker Carlson in particular, take a listen to her being braggadocious. ... I don't know who Tucker Carlson thinks he is. He thinks he's so popular._
+- [00:35:20](/episodes/ep-ZIH5-V6UPkg#t-00-35-20): _I don't know who Tucker Carlson thinks he is. He thinks he's so popular. Even President Trump today called him out and said he's like a third rate podcaster._
 
 ### Related
 

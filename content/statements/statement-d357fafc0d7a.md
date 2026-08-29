@@ -1,6 +1,6 @@
 ---
-title: "Candace Owens promised to identify who asked Charlie Kirk wh..."
-description: "\"Candace Owens promised to identify who asked Charlie Kirk whom he wanted to replace him if something happened.\" — Candace Owens"
+title: "Candace Owens promised to get to the bottom of who asked Cha..."
+description: "\"Candace Owens promised to get to the bottom of who asked Charlie Kirk whom he wanted to replace him if something happened.\" — Candace Owens"
 statement_id: "statement-d357fafc0d7a"
 speaker: "Candace Owens"
 type: "promise"
@@ -10,7 +10,7 @@ type: "promise"
 
 ## Statement
 
-> Candace Owens promised to identify who asked Charlie Kirk whom he wanted to replace him if something happened.
+> Candace Owens promised to get to the bottom of who asked Charlie Kirk whom he wanted to replace him if something happened.
 
 ## Attribution
 

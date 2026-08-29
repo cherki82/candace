@@ -1,6 +1,6 @@
 ---
 title: "Christianity"
-description: "Christianity (Concepts) - 248 mentions"
+description: "Christianity (Concepts) - 247 mentions"
 id: "concept-christianity"
 type: "CONCEPT"
 aliases:
@@ -21,12 +21,12 @@ _Type: Concepts_
 Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & Facts](https://www.britannica.com/topic/Christianity)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-christianity-t-00-07-28">2026-01-07 · 00:04:48</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-concept-christianity-t-00-22-55">2026-01-09 · 00:23:24</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10">2026-08-14 · 02:57:10</a></strong></div>
-<div><span>Episodes</span><strong>64</strong></div>
-<div><span>Mentions</span><strong>248</strong></div>
+<div><span>Episodes</span><strong>65</strong></div>
+<div><span>Mentions</span><strong>247</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>24</strong></div>
+<div><span>Statements about</span><strong>23</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -35,7 +35,6 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-wcD2khO3rOA.md#ent-concept-christianity-t-00-22-55">The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</a> (35 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-christianity-t-00-07-28" style="--pulse-height:11%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 4 mentions" title="2026-01-07 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-concept-christianity-t-00-22-55" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 35 mentions" title="2026-01-09 · 35 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-christianity-t-00-22-23" style="--pulse-height:9%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-christianity-t-00-18-50" style="--pulse-height:17%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 6 mentions" title="2026-01-13 · 6 mentions"><span></span></a>
@@ -67,7 +66,7 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-concept-christianity-t-00-27-14" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-concept-christianity-t-00-51-40" style="--pulse-height:8%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-concept-christianity-t-00-46-16" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-christianity-t-00-38-28" style="--pulse-height:14%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 5 mentions" title="2026-04-10 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-christianity-t-00-39-02" style="--pulse-height:11%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 4 mentions" title="2026-04-10 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-christianity-t-00-56-25" style="--pulse-height:14%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 5 mentions" title="2026-04-13 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-concept-christianity-t-00-28-51" style="--pulse-height:8%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 2 mentions" title="2026-04-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-concept-christianity-t-00-53-06" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
@@ -98,13 +97,14 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-christianity-t-00-31-01" style="--pulse-height:31%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 11 mentions" title="2026-07-16 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-concept-christianity-t-00-21-55" style="--pulse-height:8%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-concept-christianity-t-00-24-29" style="--pulse-height:8%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-concept-christianity-t-00-45-48" style="--pulse-height:8%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 1 mentions" title="2026-07-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-concept-christianity-t-00-01-27" style="--pulse-height:8%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 2 mentions" title="2026-08-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-concept-christianity-t-00-07-28) | 4 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-concept-christianity-t-00-22-55) | 35 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-christianity-t-00-22-23) | 3 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-christianity-t-00-18-50) | 6 |
@@ -136,7 +136,7 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-concept-christianity-t-00-27-14) | 2 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-concept-christianity-t-00-51-40) | 1 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-concept-christianity-t-00-46-16) | 1 |
-| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-christianity-t-00-38-28) | 5 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-christianity-t-00-39-02) | 4 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-concept-christianity-t-00-56-25) | 5 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-concept-christianity-t-00-28-51) | 2 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-concept-christianity-t-00-53-06) | 1 |
@@ -167,6 +167,8 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-concept-christianity-t-00-31-01) | 11 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-concept-christianity-t-00-21-55) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-concept-christianity-t-00-24-29) | 2 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-concept-christianity-t-00-45-48) | 1 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-concept-christianity-t-00-01-27) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10) | 1 |
 
 </details>
@@ -175,13 +177,32 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (248)</strong></summary>
+<summary><strong class="section-title">Raw mentions (247)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[02:57:10](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-christianity-t-02-57-10)**
 > "lot of the actual. So I'm a Christian ethicist. and I then always"
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (2 mentions)</summary>
+
+**[00:01:34](/episodes/ep-1CFDtD0IgEg.md#ent-concept-christianity-t-00-01-27)**
+> "...rective has been let them eat Christian slop, right? Let them eat Christian slop is how w..."
+
+**[00:02:57](/episodes/ep-1CFDtD0IgEg.md#ent-concept-christianity-t-00-02-39)**
+> "...ied when you get on this like Christian grift. So he's been trending for the last 48 hour..."
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (1 mentions)</summary>
+
+**[00:46:11](/episodes/ep-iB-YtO3UZOg.md#ent-concept-christianity-t-00-45-48)**
+> "Sold to us, and which many of us, myself included, believed was this demonstration of the deepest and truest kind of Christianity, because she said, 'I forgive him.'"
 
 </details>
 
@@ -567,7 +588,7 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 **[00:53:07](/episodes/ep-eLgD5yUVbko.md#ent-concept-christianity-t-00-53-07)**
 > "...Catholic church and all other Christian organizations had during COVID."
 
-**[00:57:11](/episodes/ep-eLgD5yUVbko.md#ent-concept-christianity-t-00-57-00)**
+**[00:57:11](/episodes/ep-eLgD5yUVbko.md#ent-concept-christianity-t-00-57-11)**
 > "what it means to be a Christian into reality TV, frankly, you can wear the cleric..."
 
 **[01:03:27](/episodes/ep-eLgD5yUVbko.md#ent-concept-christianity-t-01-03-27)**
@@ -576,9 +597,9 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 </details>
 
 <details>
-<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (5 mentions)</summary>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (4 mentions)</summary>
 
-**[00:38:36](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-christianity-t-00-38-28)**
+**[00:38:36](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-christianity-t-00-39-02)**
 > "...is uh we need to make america christian again that is the vibe that is why i sense rising..."
 
 **[00:39:02](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-christianity-t-00-39-02)**
@@ -587,11 +608,8 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 **[00:43:20](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-christianity-t-00-42-47)**
 > "...arge that beyond anything I'm Christian first. I am Christian first."
 
-**[00:47:20](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-christianity-t-00-46-58)**
-> "...y love these new make america christian again hats because they look like they say maga b..."
-
-**[00:47:30](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-christianity-t-00-47-30)**
-> "...y love these new make america christian again hats because they look like they say maga b..."
+**[00:47:30](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-christianity-t-00-42-47)**
+> "Further to that point, reminding you: we really love these new Make America Christian Again hats because they look like they say MAGA, but they don't. Um, and so, yeah, we have that new merch up on the website, and that is always the best way to support the show, which is, you can buy merch. And if you can't do that, that's okay. Um, I get it. Gas prices are high. It's not because of me, but I totally get that as well. You know, you guys showing up every day is the best support. That's the best vote that we can get, and it is..."
 
 </details>
 
@@ -1221,23 +1239,6 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 
 </details>
 
-<details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (4 mentions)</summary>
-
-**[00:04:48](/episodes/ep-zSKrxIUMNqw.md#ent-concept-christianity-t-00-07-28)**
-> "And his strategy is to find Christians and to pressure them usually through financial me..."
-
-**[00:07:35](/episodes/ep-zSKrxIUMNqw.md#ent-concept-christianity-t-00-07-28)**
-> "...ommentators. I said that as a Christian, I wanted to be honest about what I believe and b..."
-
-**[00:55:40](/episodes/ep-zSKrxIUMNqw.md#ent-concept-christianity-t-00-55-24)**
-> "her, her Christian heart there,"
-
-**[00:55:55](/episodes/ep-zSKrxIUMNqw.md#ent-concept-christianity-t-00-55-24)**
-> "I want Christianity to win. I want goodness and truth to win,"
-
-</details>
-
 </details>
 
 <details open>
@@ -1248,7 +1249,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Christianity (24)</strong></summary>
+<summary><strong class="section-title">Statements about Christianity (23)</strong></summary>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (2)</summary>
@@ -1314,7 +1315,7 @@ _No relationships extracted yet._
 - [00:56:41](/episodes/ep-eLgD5yUVbko.md#t-00-56-25) (Opinion) **Candace Owens**: ["Candace Owens said Donald Trump is not a Christian and that the Cathol..."](/statements/statement-ecb6b851885c.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Jesus Christ](/entities/person-jesus-christ.md), [Catholic Church](/entities/org-catholic-church.md)
 
-- [00:57:53](/episodes/ep-eLgD5yUVbko.md#t-00-57-35) (Opinion) **Pope Leo XIV** (via quoted speech): ["Pope Leo XIV said the Gospel's message is "blessed are the peacemakers..."](/statements/statement-e7a6e05acf90.md)
+- [00:57:53](/episodes/ep-eLgD5yUVbko.md#t-00-57-11) (Opinion) **Pope Leo XIV** (via quoted speech): ["Pope Leo XIV said the Gospel's message is "blessed are the peacemakers..."](/statements/statement-e7a6e05acf90.md)
   - Also about: [Catholic Church](/entities/org-catholic-church.md)
 
 </details>
@@ -1393,14 +1394,6 @@ _No relationships extracted yet._
   - Also about: [Israel](/entities/gpe-israel.md), [Gaza](/entities/gpe-gaza.md)
 
 - [01:15:50](/episodes/ep-wcD2khO3rOA.md#t-01-15-07) (Accusation) **Candace Owens**: ["Christian organizations were infiltrated through a psychological opera..."](/statements/statement-5a051a7a4870.md)
-
-</details>
-
-<details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1)</summary>
-
-- [00:04:48](/episodes/ep-zSKrxIUMNqw.md#t-00-04-22) (Accusation) **Candace Owens**: ["Ben Shapiro's strategy is to find Christians and pressure them financi..."](/statements/statement-390b6882796b.md)
-  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Christians](/entities/concept-christians.md)
 
 </details>
 

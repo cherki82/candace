@@ -11,7 +11,11 @@ object: "org-fbi"
 
 ## [Amanda Bakker](/entities/person-amanda-bakker) works for [FBI](/entities/org-fbi)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc)**
+
+- [01:29:01](/episodes/ep-aPOyk1i2LOc#t-01-29-01): _this was the testimony of Amanda Baker, I believe her last name is, but you might want to fact check that because I think I'm blending last names. So she was the forensics for the FBI._
 
 **[COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY)**
 

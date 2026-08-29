@@ -3,9 +3,17 @@ title: "Vivek Ramaswamy"
 description: "Vivek Ramaswamy (People) - 4 mentions"
 id: "person-vivek-ramaswamy"
 type: "PERSON"
+categories:
+  - "politician and entrepreneur"
 ---
 
 _Type: People_
+
+**Categories:** politician and entrepreneur
+
+**Entity verification:** verified
+> Canonical name and identity for Vivek Ramaswamy confirmed by the cited direct external source.
+Source: [Vivek Ramaswamy](https://en.wikipedia.org/wiki/Vivek_Ramaswamy)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-person-vivek-ramaswamy-t-00-19-45">2025-09-25 · 00:20:21</a></strong></div>

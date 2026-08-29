@@ -4,9 +4,10 @@ description: "\"Ben Shapiro said he was at a breakfast-or-lunch meeting in Los A
 statement_id: "statement-232ac1ff7122"
 speaker: "Ben Shapiro"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -36,7 +37,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The source context contains a clip of Shapiro stating that he was at a breakfast-or-lunch meeting in Los Angeles and that his security spoke with Kirk's security while Kirk was in the car. This verifies Shapiro's own statement, not the independently unconfirmed identity of his dining companions.
+
+**Confidence:** High
+
+**Sources:**
+
+- [EXCLUSIVE: Ben Shapiro's 9/10 Lunch Date — Candace Ep. 365 transcript](https://podcasts.happyscribe.com/candace/10-lunch-date-more-text-messages-from-charlie-kirk)
+
+*Verified: 2026-08-27T19:42:39.589209*
 
 ---
 

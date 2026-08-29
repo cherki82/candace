@@ -1,6 +1,6 @@
 ---
 title: "Brett Cooper"
-description: "Brett Cooper (People) - 39 mentions"
+description: "Brett Cooper (People) - 40 mentions"
 id: "person-brett-cooper"
 type: "PERSON"
 categories:
@@ -18,8 +18,8 @@ Source: [The Daily Wire — Brett Cooper author page](https://www.dailywire.com/
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#ent-person-brett-cooper-t-00-58-31">2025-10-07 · 00:58:31</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-brett-cooper-t-00-43-58">2026-06-24 · 00:44:20</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>39</strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>40</strong></div>
 <div><span>Statements by</span><strong>24</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -34,6 +34,7 @@ Source: [The Daily Wire — Brett Cooper author page](https://www.dailywire.com/
 <a href="/episodes/ep-LATnak75Si0.md#ent-person-brett-cooper-t-00-00-38" style="--pulse-height:100%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 17 mentions" title="2025-11-05 · 17 mentions"><span></span></a>
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-brett-cooper-t-00-05-39" style="--pulse-height:29%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 5 mentions" title="2025-11-15 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-brett-cooper-t-00-36-46" style="--pulse-height:12%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 2 mentions" title="2025-12-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#t-00-33-44" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-brett-cooper-t-00-43-45" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-brett-cooper-t-00-56-58" style="--pulse-height:12%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-brett-cooper-t-00-53-11" style="--pulse-height:24%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 4 mentions" title="2026-01-28 · 4 mentions"><span></span></a>
@@ -50,6 +51,7 @@ Source: [The Daily Wire — Brett Cooper author page](https://www.dailywire.com/
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-brett-cooper-t-00-00-38) | 17 |
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-brett-cooper-t-00-05-39) | 5 |
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-person-brett-cooper-t-00-36-46) | 2 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#t-00-33-44) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-brett-cooper-t-00-43-45) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-brett-cooper-t-00-56-58) | 2 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-brett-cooper-t-00-53-11) | 4 |
@@ -64,7 +66,7 @@ Source: [The Daily Wire — Brett Cooper author page](https://www.dailywire.com/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+<summary><strong class="section-title">Raw mentions (40)</strong></summary>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
@@ -140,6 +142,14 @@ Source: [The Daily Wire — Brett Cooper author page](https://www.dailywire.com/
 
 **[00:44:05](/episodes/ep-HYn0P-P1wUw.md#ent-person-brett-cooper-t-00-43-45)**
 > "...ng rut trying to find the new Brett Cooper."
+
+</details>
+
+<details>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
+
+**[00:34:09](/episodes/ep-OEAHy3SsIiI.md#t-00-33-44)**
+> "It's basically like they tried to find someone that's similar to Brett, but it's not at all, because it's not mature and she's just going to make fun of this show."
 
 </details>
 

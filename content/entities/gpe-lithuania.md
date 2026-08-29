@@ -1,6 +1,6 @@
 ---
 title: "Lithuania"
-description: "Lithuania (Places) - 2 mentions"
+description: "Lithuania (Places) - 3 mentions"
 id: "gpe-lithuania"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [CIA World Factbook archive — Lithuania](https://www.cia.gov/the-world
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-lithuania-t-00-30-39">2026-03-02 · 00:30:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-lithuania-t-00-49-44">2026-06-18 · 00:50:02</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-AoYZel7_cGQ.md#ent-gpe-lithuania-t-00-53-17">2026-07-30 · 00:53:17</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,6 +33,7 @@ Source: [CIA World Factbook archive — Lithuania](https://www.cia.gov/the-world
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-lithuania-t-00-30-39" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-lithuania-t-00-49-44" style="--pulse-height:100%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-gpe-lithuania-t-00-53-17" style="--pulse-height:100%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 1 mentions" title="2026-07-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +41,7 @@ Source: [CIA World Factbook archive — Lithuania](https://www.cia.gov/the-world
 |---|---|---:|
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-lithuania-t-00-30-39) | 1 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-lithuania-t-00-49-44) | 1 |
+| 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-gpe-lithuania-t-00-53-17) | 1 |
 
 </details>
 </section>
@@ -47,7 +49,15 @@ Source: [CIA World Factbook archive — Lithuania](https://www.cia.gov/the-world
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (1 mentions)</summary>
+
+**[00:53:17](/episodes/ep-AoYZel7_cGQ.md#ent-gpe-lithuania-t-00-53-17)**
+> "...ttlement, modern-day Ukraine, Lithuania. Make Him a Sandwich—order it. If you don't want ..."
+
+</details>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1 mentions)</summary>

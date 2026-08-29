@@ -1,6 +1,6 @@
 ---
 title: "Donald J. Trump"
-description: "Donald J. Trump (People) - 922 mentions"
+description: "Donald J. Trump (People) - 959 mentions"
 id: "person-donald-trump"
 type: "PERSON"
 aliases:
@@ -28,12 +28,12 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-t-00-19-31">2025-09-11 · 00:08:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-donald-trump-t-02-34-47">2026-08-14 · 02:34:47</a></strong></div>
-<div><span>Episodes</span><strong>120</strong></div>
-<div><span>Mentions</span><strong>922</strong></div>
-<div><span>Statements by</span><strong>35</strong></div>
-<div><span>Statements about</span><strong>220</strong></div>
-<div><span>Relationships</span><strong>137</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-donald-trump-t-00-37-05">2026-08-19 · 00:37:05</a></strong></div>
+<div><span>Episodes</span><strong>129</strong></div>
+<div><span>Mentions</span><strong>959</strong></div>
+<div><span>Statements by</span><strong>37</strong></div>
+<div><span>Statements about</span><strong>226</strong></div>
+<div><span>Relationships</span><strong>150</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -78,9 +78,8 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-donald-trump-t-00-25-04" style="--pulse-height:15%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 7 mentions" title="2025-12-08 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-person-donald-trump-t-00-25-03" style="--pulse-height:12%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 6 mentions" title="2025-12-17 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-donald-trump-t-01-12-11" style="--pulse-height:8%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 2 mentions" title="2025-12-18 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-donald-trump-t-00-08-05" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 3 mentions" title="2026-01-05 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-donald-trump-t-00-25-35" style="--pulse-height:15%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 7 mentions" title="2026-01-06 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-donald-trump-t-00-22-44" style="--pulse-height:19%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 9 mentions" title="2026-01-07 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-donald-trump-t-00-08-03" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 3 mentions" title="2026-01-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-donald-trump-t-00-25-56" style="--pulse-height:15%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 7 mentions" title="2026-01-06 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-donald-trump-t-00-21-28" style="--pulse-height:15%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 7 mentions" title="2026-01-09 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-donald-trump-t-00-42-32" style="--pulse-height:8%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-donald-trump-t-00-03-48" style="--pulse-height:15%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 7 mentions" title="2026-01-13 · 7 mentions"><span></span></a>
@@ -116,7 +115,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-donald-trump-t-00-28-01" style="--pulse-height:17%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 8 mentions" title="2026-03-25 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-donald-trump-t-00-13-58" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 3 mentions" title="2026-03-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-donald-trump-t-00-25-03" style="--pulse-height:8%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-rupRLXmSndU.md#ent-person-donald-trump-t-00-18-41" style="--pulse-height:10%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 5 mentions" title="2026-04-01 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-person-donald-trump-t-00-38-57" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 4 mentions" title="2026-04-01 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-donald-trump-t-00-44-43" style="--pulse-height:27%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 13 mentions" title="2026-04-02 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-donald-trump-t-00-00-01" style="--pulse-height:100%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 48 mentions" title="2026-04-10 · 48 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-donald-trump-t-00-00-01" style="--pulse-height:35%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 17 mentions" title="2026-04-13 · 17 mentions"><span></span></a>
@@ -160,7 +159,17 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-donald-trump-t-00-18-35" style="--pulse-height:10%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 5 mentions" title="2026-07-21 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-person-donald-trump-t-00-51-40" style="--pulse-height:8%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-person-donald-trump-t-00-25-09" style="--pulse-height:8%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-person-donald-trump-t-00-08-25" style="--pulse-height:8%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 3 mentions" title="2026-07-27 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-person-donald-trump-t-00-27-58" style="--pulse-height:31%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 15 mentions" title="2026-07-29 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-person-donald-trump-t-00-49-36" style="--pulse-height:8%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 1 mentions" title="2026-07-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-person-donald-trump-t-00-34-40" style="--pulse-height:19%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 9 mentions" title="2026-08-03 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-person-donald-trump-t-00-36-17" style="--pulse-height:8%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 2 mentions" title="2026-08-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-person-donald-trump-t-00-22-05" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-donald-trump-t-00-39-34" style="--pulse-height:8%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 2 mentions" title="2026-08-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-person-donald-trump-t-00-17-50" style="--pulse-height:10%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 5 mentions" title="2026-08-11 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-donald-trump-t-02-21-59" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-donald-trump-t-01-40-57" style="--pulse-height:8%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-person-donald-trump-t-00-31-36" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 4 mentions" title="2026-08-19 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -203,9 +212,8 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-donald-trump-t-00-25-04) | 7 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-donald-trump-t-00-25-03) | 6 |
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-person-donald-trump-t-01-12-11) | 2 |
-| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-donald-trump-t-00-08-05) | 3 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-donald-trump-t-00-25-35) | 7 |
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-donald-trump-t-00-22-44) | 9 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-donald-trump-t-00-08-03) | 3 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-donald-trump-t-00-25-56) | 7 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-donald-trump-t-00-21-28) | 7 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-donald-trump-t-00-42-32) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-donald-trump-t-00-03-48) | 7 |
@@ -241,7 +249,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-donald-trump-t-00-28-01) | 8 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-donald-trump-t-00-13-58) | 3 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-donald-trump-t-00-25-03) | 1 |
-| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-donald-trump-t-00-18-41) | 5 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-donald-trump-t-00-38-57) | 4 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-donald-trump-t-00-44-43) | 13 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-donald-trump-t-00-00-01) | 48 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-donald-trump-t-00-00-01) | 17 |
@@ -285,7 +293,17 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-donald-trump-t-00-18-35) | 5 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-donald-trump-t-00-51-40) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-donald-trump-t-00-25-09) | 1 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-person-donald-trump-t-00-08-25) | 3 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-person-donald-trump-t-00-27-58) | 15 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-person-donald-trump-t-00-49-36) | 1 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-person-donald-trump-t-00-34-40) | 9 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-person-donald-trump-t-00-36-17) | 2 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-donald-trump-t-00-22-05) | 1 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-person-donald-trump-t-00-39-34) | 2 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-person-donald-trump-t-00-17-50) | 5 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-donald-trump-t-02-21-59) | 4 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-donald-trump-t-01-40-57) | 4 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-donald-trump-t-00-31-36) | 4 |
 
 </details>
 </section>
@@ -293,7 +311,24 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (922)</strong></summary>
+<summary><strong class="section-title">Raw mentions (959)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (4 mentions)</summary>
+
+**[00:31:36](/episodes/ep-9hRcfSrri70.md#ent-person-donald-trump-t-00-31-36)**
+> "... me on X that actually Trump (Donald J. Trump) told the truth. Trump (Donald J. Trump) went on ..."
+
+**[00:32:29](/episodes/ep-9hRcfSrri70.md#ent-person-donald-trump-t-00-32-20)**
+> "...how you on rewind what Trump (Donald J. Trump) said."
+
+**[00:33:58](/episodes/ep-9hRcfSrri70.md#ent-person-donald-trump-t-00-33-42)**
+> "...Are we to believe that Trump (Donald J. Trump) didn't have solid information when he presented ..."
+
+**[00:37:05](/episodes/ep-9hRcfSrri70.md#ent-person-donald-trump-t-00-37-05)**
+> "... see ourselves as just Trump (Donald J. Trump) supporters who should be supporting him no matte..."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -309,6 +344,177 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 **[02:34:47](/episodes/ep-nPhCKwJ6ye8.md#ent-person-donald-trump-t-02-34-47)**
 > "Trump's office,"
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (4 mentions)</summary>
+
+**[01:41:04](/episodes/ep-aPOyk1i2LOc.md#ent-person-donald-trump-t-01-40-57)**
+> "I also passed it off to Trump's office, Donald Trump's office."
+
+**[01:52:26](/episodes/ep-aPOyk1i2LOc.md#ent-person-donald-trump-t-01-52-26)**
+> "...wn that message to a Tulsi or Trump,"
+
+**[01:52:40](/episodes/ep-aPOyk1i2LOc.md#ent-person-donald-trump-t-01-52-40)**
+> "...ght was quite mysterious that Trump's office never got back to us. It was kind of weird..."
+
+**[01:53:45](/episodes/ep-aPOyk1i2LOc.md#ent-person-donald-trump-t-01-53-45)**
+> "Trump's office, his like Margo (Trump's office staffer; s..."
+
+</details>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (5 mentions)</summary>
+
+**[00:16:53](/episodes/ep-HGtMfbePDKk.md#ent-person-donald-trump-t-00-17-50)**
+> "I have text messages with Don Trump Jr. regarding a different piece that Brandy was w..."
+
+**[00:17:56](/episodes/ep-HGtMfbePDKk.md#ent-person-donald-trump-t-00-17-50)**
+> "He'd worked social media on Trump's 2016 campaign and was back to building Turning Po..."
+
+**[00:25:00](/episodes/ep-HGtMfbePDKk.md#ent-person-donald-trump-t-00-24-42)**
+> "...ut Kirk's death or Antifa the Trump administration had blamed for Kirk's murder."
+
+**[00:25:35](/episodes/ep-HGtMfbePDKk.md#ent-person-donald-trump-t-00-25-16)**
+> "...the files made people dislike Trump."
+
+**[00:46:44](/episodes/ep-HGtMfbePDKk.md#ent-person-donald-trump-t-00-46-32)**
+> "Because I feel like President Trump was done talking about him. As soon as he gave hi..."
+
+</details>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (2 mentions)</summary>
+
+**[00:39:56](/episodes/ep-d7VsbEIWkP8.md#ent-person-donald-trump-t-00-39-34)**
+> "Trump promised"
+
+**[00:40:32](/episodes/ep-d7VsbEIWkP8.md#ent-person-donald-trump-t-00-40-32)**
+> "... focused on the future donald trump is focused on the past we are not going back joe ..."
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:22:32](/episodes/ep-ChuWo-n49B8.md#ent-person-donald-trump-t-00-22-05)**
+> "I mean, deep down, we all have a sense that the state murdered Charlie Kirk, that clearly it must have had Trump's (Donald Trump) permission because he's doing nothing to try to get to the bottom of what happened to his dear friend who helped to get him elected twice."
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (2 mentions)</summary>
+
+**[00:36:17](/episodes/ep-1CFDtD0IgEg.md#ent-person-donald-trump-t-00-36-17)**
+> "... you bombed a school at first trump actually came out and he said no we didn't do it ..."
+
+**[00:41:43](/episodes/ep-1CFDtD0IgEg.md#ent-person-donald-trump-t-00-41-31)**
+> "they're telling Trump (Donald J. Trump) who's already done this to arm protesters in Ira..."
+
+</details>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (9 mentions)</summary>
+
+**[00:34:40](/episodes/ep-AH1KVKkweUE.md#ent-person-donald-trump-t-00-34-40)**
+> "...ng your communities obviously trump does not care about you your life and if you give..."
+
+**[00:35:20](/episodes/ep-AH1KVKkweUE.md#ent-person-donald-trump-t-00-35-20)**
+> "...g out President Donald Trump (Donald J. Trump)'s war with Iran came in an email that they are l..."
+
+**[00:36:00](/episodes/ep-AH1KVKkweUE.md#ent-person-donald-trump-t-00-36-00)**
+> "...d we're losing because Trump (Donald J. Trump) is stupid, because Trump (Donald J. Trump) is li..."
+
+**[00:36:16](/episodes/ep-AH1KVKkweUE.md#ent-person-donald-trump-t-00-36-00)**
+> "...e pedophile class. And Trump (Donald J. Trump) said, that sounds like a good idea."
+
+**[00:36:33](/episodes/ep-AH1KVKkweUE.md#ent-person-donald-trump-t-00-36-00)**
+> "...s real doing that? And Trump (Donald J. Trump) is now going, wow, we really can't do that. We c..."
+
+**[00:36:38](/episodes/ep-AH1KVKkweUE.md#ent-person-donald-trump-t-00-36-38)**
+> "...55 times, according to Trump (Donald J. Trump)'s tweets. And yet we haven't beat Iran. And now ..."
+
+**[00:37:17](/episodes/ep-AH1KVKkweUE.md#ent-person-donald-trump-t-00-37-17)**
+> "...e less what happens to Trump (Donald J. Trump). I think he's an absolute moron."
+
+**[00:37:43](/episodes/ep-AH1KVKkweUE.md#ent-person-donald-trump-t-00-37-43)**
+> "...ie Kirk) would support Trump (Donald J. Trump) with the Iran war; he would support him. Okay. E..."
+
+**[00:49:31](/episodes/ep-AH1KVKkweUE.md#ent-person-donald-trump-t-00-49-31)**
+> "...pe. Mark my words. And Trump (Donald J. Trump) is going to allow it because, well, there's some..."
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (1 mentions)</summary>
+
+**[00:50:02](/episodes/ep-iB-YtO3UZOg.md#ent-person-donald-trump-t-00-49-36)**
+> "Then, you know, the President of the United States, like, tweets my face, like the most vile person of the year. For no reason. We were not talking about Trump on the show."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (15 mentions)</summary>
+
+**[00:28:15](/episodes/ep-Vu6Y24pqhZs.md#ent-person-donald-trump-t-00-27-58)**
+> "So I was wondering in 2025 when this was going on, who was the secretary of the Navy? And it turns out that Trump appointed a guy with literally zero military experience into that position, crucial position. The secretary of the Navy having zero military background or experience is just odd. It's face wild."
+
+**[00:20:28](/episodes/ep-Vu6Y24pqhZs.md#ent-person-donald-trump-t-00-20-28)**
+> "... said i had a bad sniffer and trump will root the lawsuit on on truth social i hope f..."
+
+**[00:28:46](/episodes/ep-Vu6Y24pqhZs.md#ent-person-donald-trump-t-00-28-38)**
+> "...ust confused. Like, why would Trump do this? What qualifies him? Well, it's Trump. He..."
+
+**[00:30:41](/episodes/ep-Vu6Y24pqhZs.md#ent-person-donald-trump-t-00-30-19)**
+> "...House Committee, the one that Trump fought not to have released."
+
+**[00:32:12](/episodes/ep-Vu6Y24pqhZs.md#ent-person-donald-trump-t-00-31-42)**
+> "...thing that went sideways with Trump went sideways after he looked us in the eye and p..."
+
+**[00:33:31](/episodes/ep-Vu6Y24pqhZs.md#ent-person-donald-trump-t-00-33-31)**
+> "so that Trump can protect the elites. Particularly Israel, part..."
+
+**[00:34:00](/episodes/ep-Vu6Y24pqhZs.md#ent-person-donald-trump-t-00-33-31)**
+> "...es, the reason why people put Trump into office, the reason why I backed Trump."
+
+**[00:34:26](/episodes/ep-Vu6Y24pqhZs.md#ent-person-donald-trump-t-00-34-10)**
+> "Who is Trump now? What is Trump now?"
+
+**[00:34:29](/episodes/ep-Vu6Y24pqhZs.md#ent-person-donald-trump-t-00-34-10)**
+> "What is the Trump family now?"
+
+**[00:34:43](/episodes/ep-Vu6Y24pqhZs.md#ent-person-donald-trump-t-00-34-10)**
+> "I'd like a cop. Don (Donald Trump Jr.) actually has been heading into the courthous..."
+
+**[00:34:58](/episodes/ep-Vu6Y24pqhZs.md#ent-person-donald-trump-t-00-34-51)**
+> "...back. What do you think, Don (Donald Trump Jr.)?"
+
+**[00:35:13](/episodes/ep-Vu6Y24pqhZs.md#ent-person-donald-trump-t-00-34-51)**
+> "...is how we've been betrayed by Trump."
+
+**[00:39:54](/episodes/ep-Vu6Y24pqhZs.md#ent-person-donald-trump-t-00-39-22)**
+> "...ting poisoned. Don't you love Trump? You, oh, you're betraying Trump."
+
+**[00:45:31](/episodes/ep-Vu6Y24pqhZs.md#ent-person-donald-trump-t-00-44-59)**
+> "...the private conversation with Trump asking me to stop speaking about Brigitte. That's..."
+
+**[00:53:34](/episodes/ep-Vu6Y24pqhZs.md#ent-person-donald-trump-t-00-53-16)**
+> "...ctually ironic because it was Trump that initially fractured our trust in the mainstr..."
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (3 mentions)</summary>
+
+**[00:08:33](/episodes/ep-HZvwbfePe7o.md#ent-person-donald-trump-t-00-08-25)**
+> "phone call with Trump (Donald Trump), and he says Charlie (Charlie Kirk) was particularly upset in July when Candace (Candace Owens) violated Trump (Donald Trump)’s confidentiality—when he called me about Brigitte (Brigitte Macron)’s penis—and said, you know, Charlie (Charlie Kirk) did not like this."
+
+**[00:35:19](/episodes/ep-HZvwbfePe7o.md#ent-person-donald-trump-t-00-35-08)**
+> "...e situation where I'm telling Trump (Donald Trump) who else has to die for the empire..."
+
+**[00:47:12](/episodes/ep-HZvwbfePe7o.md#ent-person-donald-trump-t-00-47-07)**
+> "...ld about your phone call with Trump (Donald Trump). Totally believe that. I just tota..."
 
 </details>
 
@@ -1666,7 +1872,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 **[00:14:13](/episodes/ep-SubDoZWHARo.md#ent-person-donald-trump-t-00-14-13)**
 > "Trump (Donald Trump)"
 
-**[00:17:12](/episodes/ep-SubDoZWHARo.md#ent-person-donald-trump-t-00-16-56)**
+**[00:17:12](/episodes/ep-SubDoZWHARo.md#ent-person-donald-trump-t-00-14-13)**
 > "...o, the one who's marrying Don Trump Jr."
 
 **[00:26:21](/episodes/ep-SubDoZWHARo.md#ent-person-donald-trump-t-00-25-52)**
@@ -1724,22 +1930,22 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 **[00:48:58](/episodes/ep-eLgD5yUVbko.md#ent-person-donald-trump-t-00-48-33)**
 > "...me, and I did not even get to Trump going after the Pope."
 
-**[00:51:10](/episodes/ep-eLgD5yUVbko.md#ent-person-donald-trump-t-00-50-35)**
+**[00:51:10](/episodes/ep-eLgD5yUVbko.md#ent-person-donald-trump-t-00-50-43)**
 > "...bviously know my perspective. Trump is very clearly under demonic influence. I think ..."
 
 **[00:53:07](/episodes/ep-eLgD5yUVbko.md#ent-person-donald-trump-t-00-53-07)**
 > "He talks about fear of the Trump administration, but doesn't mention the fear that..."
 
-**[00:54:14](/episodes/ep-eLgD5yUVbko.md#ent-person-donald-trump-t-00-53-57)**
+**[00:54:14](/episodes/ep-eLgD5yUVbko.md#ent-person-donald-trump-t-00-53-40)**
 > "...st way to deal with President Donald J."
 
-**[00:54:23](/episodes/ep-eLgD5yUVbko.md#ent-person-donald-trump-t-00-53-57)**
+**[00:54:23](/episodes/ep-eLgD5yUVbko.md#ent-person-donald-trump-t-00-54-23)**
 > "Trump. Trump, if I wasn't in the White House, Leo would..."
 
-**[00:54:40](/episodes/ep-eLgD5yUVbko.md#ent-person-donald-trump-t-00-54-40)**
+**[00:54:40](/episodes/ep-eLgD5yUVbko.md#ent-person-donald-trump-t-00-54-23)**
 > "...t like what really matters is Trump's president."
 
-**[00:54:50](/episodes/ep-eLgD5yUVbko.md#ent-person-donald-trump-t-00-54-40)**
+**[00:54:50](/episodes/ep-eLgD5yUVbko.md#ent-person-donald-trump-t-00-54-23)**
 > "...ke sure that we can deal with Trump. So we're just going to make somebody from Chicag..."
 
 **[00:56:41](/episodes/ep-eLgD5yUVbko.md#ent-person-donald-trump-t-00-56-25)**
@@ -1748,7 +1954,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 **[00:56:48](/episodes/ep-eLgD5yUVbko.md#ent-person-donald-trump-t-00-56-25)**
 > "...g like Jesus Christ. In fact, Trump is not even a Christian. And so there is a role h..."
 
-**[00:57:35](/episodes/ep-eLgD5yUVbko.md#ent-person-donald-trump-t-00-57-35)**
+**[00:57:35](/episodes/ep-eLgD5yUVbko.md#ent-person-donald-trump-t-00-57-11)**
 > "We can't support Trump. You cannot support Trump in this moment. And I h..."
 
 **[00:58:37](/episodes/ep-eLgD5yUVbko.md#ent-person-donald-trump-t-00-58-37)**
@@ -1772,7 +1978,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (48 mentions)</summary>
 
 **[00:00:08](/episodes/ep-ZIH5-V6UPkg.md#ent-person-donald-trump-t-00-00-01)**
-> "President Donald Trump. He is obviously arrived at a moment and I just w..."
+> "President Donald Trump. He has obviously arrived at a moment and I just wanted to hopefully, hopefully these words will get to him. So I'll just, I'll just say that. Dear Mr."
 
 **[00:00:18](/episodes/ep-ZIH5-V6UPkg.md#ent-person-donald-trump-t-00-00-01)**
 > "President Trump, I've always been a fan of gladiator movies. I ha..."
@@ -1853,13 +2059,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 > "... for that meeting with Donald Trump."
 
 **[00:30:22](/episodes/ep-ZIH5-V6UPkg.md#ent-person-donald-trump-t-00-30-22)**
-> "...at she wanted in exchange for Trump to allow them to annex not Gaza, but the West Ban..."
+> "What Charlie (Charlie Kirk) and Andrew Kolvet told me was that she said that she wanted, in exchange, for Trump to allow them to annex not Gaza, but the West Bank."
 
 **[00:30:40](/episodes/ep-ZIH5-V6UPkg.md#ent-person-donald-trump-t-00-30-22)**
-> "...hange. After she said this to Trump, Trump went, it was wherever Charlie was, Trump w..."
+> "Hamas is not in the West Bank, and that is what she wanted in exchange. After she said this to Trump, Trump went, it was wherever Charlie (Charlie Kirk) was, Trump was adjusting his tie and looking in the mirror and he said, I'm going to take her money and then I'll F her over."
 
 **[00:31:04](/episodes/ep-ZIH5-V6UPkg.md#ent-person-donald-trump-t-00-31-04)**
-> "...e but Andrew and Charlie when Trump said this."
+> "Okay, I am hearing this from Charlie (Charlie Kirk), who was there first-person, and Andrew (Andrew Kolvet), who confirmed this. Andrew (Andrew Kolvet) was also there. Nobody else was there but Andrew (Andrew Kolvet) and Charlie (Charlie Kirk) when Trump said this."
 
 **[00:31:16](/episodes/ep-ZIH5-V6UPkg.md#ent-person-donald-trump-t-00-31-04)**
 > "...d it very strange that Donald Trump is not interested or has appeared to be."
@@ -1921,57 +2127,54 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (13 mentions)</summary>
 
 **[00:45:03](/episodes/ep-q1NRQQAYS_Q.md#ent-person-donald-trump-t-00-44-43)**
-> "Trump"
+> "Trump (Donald J. Trump) made the announcement on social media saying Pam..."
 
-**[00:45:32](/episodes/ep-q1NRQQAYS_Q.md#ent-person-donald-trump-t-00-45-32)**
+**[00:45:19](/episodes/ep-q1NRQQAYS_Q.md#ent-person-donald-trump-t-00-45-19)**
 > "...ion to this matter, President Donald J. Trump."
 
-**[00:45:38](/episodes/ep-q1NRQQAYS_Q.md#ent-person-donald-trump-t-00-45-32)**
-> "...in files so hard. No, her and Trump are on the same team when it comes to the Epstein..."
+**[00:45:38](/episodes/ep-q1NRQQAYS_Q.md#ent-person-donald-trump-t-00-45-19)**
+> "...s so hard. No, her and Trump (Donald J. Trump) are on the same team when it comes to the Epstei..."
 
-**[00:45:46](/episodes/ep-q1NRQQAYS_Q.md#ent-person-donald-trump-t-00-45-32)**
-> "...s she was instructed to do by Trump, by Trump's orbit of friends who are all in the E..."
+**[00:45:46](/episodes/ep-q1NRQQAYS_Q.md#ent-person-donald-trump-t-00-45-19)**
+> "...as instructed to do by Trump (Donald J. Trump), by Trump (Donald J. Trump)'s orbit of friends w..."
 
-**[00:46:57](/episodes/ep-q1NRQQAYS_Q.md#ent-person-donald-trump-t-00-46-50)**
-> "...actually that the reason that Trump fired her is because he's upset with her because ..."
+**[00:46:57](/episodes/ep-q1NRQQAYS_Q.md#ent-person-donald-trump-t-00-46-37)**
+> "...y that the reason that Trump (Donald J. Trump) fired her is because he's upset with her because..."
 
-**[00:47:25](/episodes/ep-q1NRQQAYS_Q.md#ent-person-donald-trump-t-00-46-50)**
-> "...p with Christine Fang and she Trump believes that she intervened and tipped him off a..."
+**[00:47:25](/episodes/ep-q1NRQQAYS_Q.md#ent-person-donald-trump-t-00-47-16)**
+> "...Christine Fang and she Trump (Donald J. Trump) believes that she intervened and tipped him off ..."
 
-**[00:47:30](/episodes/ep-q1NRQQAYS_Q.md#ent-person-donald-trump-t-00-47-30)**
-> "...frey epstein but you know how trump is you're in or you're out and if you don't worsh..."
+**[00:47:30](/episodes/ep-q1NRQQAYS_Q.md#ent-person-donald-trump-t-00-47-16)**
+> "...stein but you know how trump (Donald J. Trump) is you're in or you're out and if you don't wors..."
 
 **[00:47:56](/episodes/ep-q1NRQQAYS_Q.md#ent-person-donald-trump-t-00-47-56)**
-> "...t certainly is not related to trump doing the right thing don't be confused and think..."
+> "...inly is not related to trump (Donald J. Trump) doing the right thing don't be confused and thin..."
 
 **[00:52:08](/episodes/ep-q1NRQQAYS_Q.md#ent-person-donald-trump-t-00-51-52)**
-> "...e most liked comment he wrote trump is implying someone is jealous of erica because t..."
+> "...liked comment he wrote trump (Donald J. Trump) is implying someone is jealous of erica (Erika K..."
 
 **[00:52:36](/episodes/ep-q1NRQQAYS_Q.md#ent-person-donald-trump-t-00-52-36)**
-> "... he always was had an in with trump's uh speechwriters who tell them please save a sent..."
+> "...ays was had an in with trump (Donald J. Trump)'s uh speechwriters who tell them please save a s..."
 
 **[00:53:01](/episodes/ep-q1NRQQAYS_Q.md#ent-person-donald-trump-t-00-53-01)**
-> "trump did not write that obviously the speechwriter did..."
+> "trump (Donald J. Trump) did not write that obviously the speechwriter di..."
 
 **[00:53:28](/episodes/ep-q1NRQQAYS_Q.md#ent-person-donald-trump-t-00-53-01)**
-> "... it. That's not like you want Trump to mention your company."
+> "...at's not like you want Trump (Donald J. Trump) to mention your company."
 
 **[00:53:38](/episodes/ep-q1NRQQAYS_Q.md#ent-person-donald-trump-t-00-53-01)**
-> "You don't want Trump. You shouldn't need Trump to say that your husban..."
+> "You don't want Trump (Donald J. Trump). You shouldn't need Trump (Donald J. Trump) to s..."
 
 </details>
 
 <details>
-<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (5 mentions)</summary>
-
-**[00:19:00](/episodes/ep-rupRLXmSndU.md#ent-person-donald-trump-t-00-18-41)**
-> "Trump's personal assistant in charge of taking notes and handling the charting and clerical work for the doctors in that emergency setting, that was Conner's job from 2024 until, and that's only because LinkedIn is to be believed, just before Charlie's assassination or maybe even just after Charlie's assassination."
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (4 mentions)</summary>
 
 **[00:38:57](/episodes/ep-rupRLXmSndU.md#ent-person-donald-trump-t-00-38-57)**
-> "Special shout out goes to President Donald Trump, who today had their little Easter celebration. Erica Kirk was in attendance and he suggested, no, he didn't suggest, he told her he should sue people that are making fun of her because they're jealous of her. It's like how far they fall, you know, how far they fall."
+> "Special shout out goes to President Donald Trump, who today had their little Easter celebration. Erika Kirk was in attendance and he suggested, no, he didn't suggest, he told her he should sue people that are making fun of her because they're jealous of her. It's like how far they fall, you know, how far they fall."
 
 **[00:35:28](/episodes/ep-rupRLXmSndU.md#ent-person-donald-trump-t-00-35-28)**
-> "...put his foot down and said to Trump, do not go to war with Iran, how many players wer..."
+> "It really makes you wonder what, you know, when I said that war is a massive industry and that Charlie (Charlie Kirk) stepped on people's toes who trade on war, who do real estate deals before the wars even start, when Charlie (Charlie Kirk) put his foot down and said to Trump (Donald Trump), do not go to war with Iran, how many players were involved?"
 
 **[00:39:18](/episodes/ep-rupRLXmSndU.md#ent-person-donald-trump-t-00-38-57)**
 > "...isten watch that clip of what trump said take a listen"
@@ -2850,53 +3053,21 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (9 mentions)</summary>
-
-**[00:22:44](/episodes/ep-zSKrxIUMNqw.md#ent-person-donald-trump-t-00-22-44)**
-> "The story goes that Donald Trump was running for president against Hillary Clinton..."
-
-**[00:22:54](/episodes/ep-zSKrxIUMNqw.md#ent-person-donald-trump-t-00-22-44)**
-> "And whole media was against Donald Trump, except for Breitbart."
-
-**[00:23:35](/episodes/ep-zSKrxIUMNqw.md#ent-person-donald-trump-t-00-23-26)**
-> "that's it. Think about how Trump treats women and yeah,"
-
-**[00:23:44](/episodes/ep-zSKrxIUMNqw.md#ent-person-donald-trump-t-00-23-26)**
-> "That's standing behind Donald Trump. Are you still going to stand behind him, Breitba..."
-
-**[00:24:02](/episodes/ep-zSKrxIUMNqw.md#ent-person-donald-trump-t-00-23-26)**
-> "He didn't like Trump and now he had the scandal and because they didn'..."
-
-**[00:25:44](/episodes/ep-zSKrxIUMNqw.md#ent-person-donald-trump-t-00-25-33)**
-> "Donald Trump."
-
-**[00:25:45](/episodes/ep-zSKrxIUMNqw.md#ent-person-donald-trump-t-00-25-33)**
-> "...e has shaped the company into Trump's personal Pravda."
-
-**[00:25:56](/episodes/ep-zSKrxIUMNqw.md#ent-person-donald-trump-t-00-25-33)**
-> "In order to protect Trump's bully campaign manager,"
-
-**[00:26:10](/episodes/ep-zSKrxIUMNqw.md#ent-person-donald-trump-t-00-26-10)**
-> "...deotape. Both Lewandowski and Trump maligned Michelle (Michelle Fields) in the most r..."
-
-</details>
-
-<details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (7 mentions)</summary>
 
-**[00:25:56](/episodes/ep-HYn0P-P1wUw.md#ent-person-donald-trump-t-00-25-35)**
+**[00:25:56](/episodes/ep-HYn0P-P1wUw.md#ent-person-donald-trump-t-00-25-56)**
 > "...ecently pardoned by President Donald Trump."
 
-**[00:27:44](/episodes/ep-HYn0P-P1wUw.md#ent-person-donald-trump-t-00-27-36)**
+**[00:27:44](/episodes/ep-HYn0P-P1wUw.md#ent-person-donald-trump-t-00-27-17)**
 > "particularly citing Trump (Donald Trump)'s 2015 presidential rally as an event where the ..."
 
-**[00:27:53](/episodes/ep-HYn0P-P1wUw.md#ent-person-donald-trump-t-00-27-36)**
+**[00:27:53](/episodes/ep-HYn0P-P1wUw.md#ent-person-donald-trump-t-00-27-53)**
 > "Standing behind Donald Trump in Arizona at his 2015 July rally,"
 
-**[00:28:12](/episodes/ep-HYn0P-P1wUw.md#ent-person-donald-trump-t-00-27-36)**
+**[00:28:12](/episodes/ep-HYn0P-P1wUw.md#ent-person-donald-trump-t-00-27-53)**
 > "...e both standing behind Trump (Donald Trump)."
 
-**[00:28:35](/episodes/ep-HYn0P-P1wUw.md#ent-person-donald-trump-t-00-28-21)**
+**[00:28:35](/episodes/ep-HYn0P-P1wUw.md#ent-person-donald-trump-t-00-28-35)**
 > "... a decision to put her behind Donald Trump. Here is Tyler (Tyler Bowyer) making that stateme..."
 
 **[00:29:08](/episodes/ep-HYn0P-P1wUw.md#ent-person-donald-trump-t-00-28-51)**
@@ -2910,11 +3081,11 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (3 mentions)</summary>
 
-**[00:08:05](/episodes/ep-OEAHy3SsIiI.md#ent-person-donald-trump-t-00-08-05)**
+**[00:08:03](/episodes/ep-OEAHy3SsIiI.md#ent-person-donald-trump-t-00-08-03)**
 > "This is that's the truest take right there on the Internet about how people felt when they watched it. It felt like everything that all of us on our platforms said that gave us the ick about Hollywood when they got up on stage and they mocked people that lived between L.A. and New York City when they mocked the farmers and the ranchers and people that supported Trump in 2015."
 
 **[00:36:43](/episodes/ep-OEAHy3SsIiI.md#ent-person-donald-trump-t-00-36-43)**
-> "...country this is why they hate trump because trump was the first candidate since jfk"
+> "people don't run the country. The executive branches run the country. This is why they hate Trump, because Trump was the first candidate since JFK to actually want to declare war on the intel agencies and bring the power back to the sovereign. And both him and Kennedy got shot."
 
 **[00:37:12](/episodes/ep-OEAHy3SsIiI.md#ent-person-donald-trump-t-00-37-02)**
 > "...uld just pain him to see what Trump has become."
@@ -3667,9 +3838,10 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <summary>Accused (1)</summary>
 
 - **[Iran](/entities/gpe-iran.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:08:37](/episodes/ep-I0OaY6Gryqk.md#t-00-08-17): “Iran was a threat. Every country realized what a threat Iran was. The question is whether or not they wanted to do something about it.”
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:37:42](/episodes/ep-1CFDtD0IgEg.md#t-00-37-42): “I have no opinion. Based on what I've seen, that was done by Iran.”
 
 </details>
 
@@ -3688,7 +3860,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Advised By (2)</summary>
+<summary>Advised By (3)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -3702,17 +3874,24 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:33:08](/episodes/ep-ZIH5-V6UPkg.md#t-00-32-54): “one of them being Laura Loomer. ... Trump's closest advisor.”
-- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:51:25](/episodes/ep-eLgD5yUVbko.md#t-00-51-17): “We're calling for peace. And he's like, these people are nut jobs. And then he has people like Laura Loomer who have. has been forcibly placed on site 5150 holds as his number one advisor she's like i'm advising him you got paula white who's telling him he's akin to jesus christ which is absolutely blasphemous and he thinks these people are totally sane again very scary to be that far in the cave he is so in the cave he is so convinced of his own invincibility it is completely unhinged that he was deeply upset by the pope Telling him the truth,”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:51:25](/episodes/ep-eLgD5yUVbko.md#t-00-50-43): “We're calling for peace. And he's like, these people are nut jobs. And then he has people like Laura Loomer who have. has been forcibly placed on site 5150 holds as his number one advisor she's like i'm advising him you got paula white who's telling him he's akin to jesus christ which is absolutely blasphemous and he thinks these people are totally sane again very scary to be that far in the cave he is so in the cave he is so convinced of his own invincibility it is completely unhinged that he was deeply upset by the pope Telling him the truth,”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:36:34](/episodes/ep-kaWtDuoY_ns.md#t-00-36-08): “Who even are Trump (Donald Trump)'s advisors anymore? ... Laura Loomer claims she is his number one advisor. And she speaks to him almost daily.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:39:58](/episodes/ep-xi8SYJTUXPM.md#t-00-39-37): “So forget Laura Loomer. The question you should be asking yourself is, is Donald Trump mentally fit to be president if he makes a conscious decision to tweet out that Tucker Carlson and Megyn Kelly and Candace Owens are mentally ill while he invites into his inner circle advice about what he should do to Iran, a person like Laura Loomer?”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:17:55](/episodes/ep-qZ8RWfyuewQ.md#t-00-17-39): “And I want people to know that the real driver of the entire random attack on me from the president and the reason why it was tinged a little bit with some race was actually his top advisor, Laura Loomer.”
 
 </details>
 
+- **[Mark Levin](/entities/person-mark-levin.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:44:18](/episodes/ep-1CFDtD0IgEg.md#t-00-44-18): “they're telling Trump (Donald J. Trump) who's already done this to arm protesters in Iran. ... Psychos, like actual psychopaths like Mark Levin. ... These are the people that are advising the president of the United States who actually believe that they were going to take Iran in two weeks.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Appeared With (9)</summary>
+<summary>Appeared With (10)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -3736,31 +3915,34 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:07:31](/episodes/ep-_vg7ucP1E0g.md#t-00-06-53): “I'm just wondering how is she affording to live, okay? She's still dating. J.T. Massey. During this time, we also have that on July 11th, Lori Frantzve and Tyler Bowyer and Erika (Erika Kirk) are going to be behind Donald Trump for his presidential campaign rally.”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:23:06](/episodes/ep-kaWtDuoY_ns.md#t-00-22-53): “she opened for Trump (Donald Trump) at the Dream City Church in Phoenix.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:27:53](/episodes/ep-HYn0P-P1wUw.md#t-00-27-53): “Standing behind Donald Trump in Arizona at his 2015 July rally, which I should mention also her mother Lori Frantzve is in the background. So the three of them have known each other since at least July 2015 publicly.”
 
 </details>
 
 - **[Lori Frantzve](/entities/person-lori-frantzve.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:07:31](/episodes/ep-_vg7ucP1E0g.md#t-00-06-53): “I'm just wondering how is she affording to live, okay? She's still dating. J.T. Massey. During this time, we also have that on July 11th, Lori Frantzve and Tyler Bowyer and Erika (Erika Kirk) are going to be behind Donald Trump for his presidential campaign rally.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:27:53](/episodes/ep-HYn0P-P1wUw.md#t-00-27-53): “Standing behind Donald Trump in Arizona at his 2015 July rally, which I should mention also her mother Lori Frantzve is in the background. So the three of them have known each other since at least July 2015 publicly.”
 
 </details>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:07:31](/episodes/ep-_vg7ucP1E0g.md#t-00-06-53): “I'm just wondering how is she affording to live, okay? She's still dating. J.T. Massey. During this time, we also have that on July 11th, Lori Frantzve and Tyler Bowyer and Erika (Erika Kirk) are going to be behind Donald Trump for his presidential campaign rally.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:29:07](/episodes/ep-HYn0P-P1wUw.md#t-00-28-51): “It was a hard sell at first, and that was until I hosted the first Trump (Donald Trump) rally in Trump (Donald Trump) rally history right here in Arizona in 2015.”
 
 </details>
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:23:58](/episodes/ep-ZIH5-V6UPkg.md#t-00-23-58): “And CNN actually, which I guess Trump is watching for their polls, their reliable polls, put together a pretty brutal montage of Trump. ... Megyn Kelly is here and she's doing, come up, come up here, Megyn.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:24:17](/episodes/ep-ZIH5-V6UPkg.md#t-00-24-10): “Megyn Kelly is here and she's doing, come up, come up here, Megyn (Megyn Kelly). By the way, I'm having a great time up here. Are you having a good time?”
 
 </details>
 
@@ -3778,10 +3960,17 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 </details>
 
+- **[Fox & Friends](/entities/work-fox-and-friends.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:31:36](/episodes/ep-9hRcfSrri70.md#t-00-31-36): “Well, yeah, this person pointed to me on X that actually Trump (Donald J. Trump) told the truth. Trump (Donald J. Trump) went on Fox and Friends in the immediate aftermath of Tyler Robinson being arrested and explained to the public exactly what we have been saying that Mike Mitchell.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Appointed (3)</summary>
+<summary>Appointed (4)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -3802,6 +3991,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:16:31](/episodes/ep-3QJqtW_NOSI.md#t-00-16-31): “in the first administration, he selected Betsy DeVos as his secretary of education”
+
+</details>
+
+- **[John C. Phelan](/entities/person-john-c-phelan.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:28:15](/episodes/ep-Vu6Y24pqhZs.md#t-00-27-58): “So I was wondering in 2025 when this was going on, who was the secretary of the Navy? And it turns out that Trump appointed a guy with literally zero military experience into that position, crucial position.”
 
 </details>
 
@@ -3839,7 +4035,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Criticized (10)</summary>
+<summary>Criticized (12)</summary>
 
 - **[Joe Kent](/entities/person-joe-kent.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -3897,7 +4093,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - **[Pope Leo XIV](/entities/person-pope-leo-xiv.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:59:18](/episodes/ep-eLgD5yUVbko.md#t-00-58-47): “We don't want a pope that says crime is okay in our cities. I don't like it. I'm not a big fan of Pope Leo. He's a very liberal person, and he's a man that doesn't believe in stopping crime. He's a man that doesn't think that we should be toying with a country that wants a nuclear weapon so they can blow up the world. I'm not a fan of Bob Lea.”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:59:18](/episodes/ep-eLgD5yUVbko.md#t-00-58-47): “We don't want a pope that says crime is okay in our cities. I don't like it. I'm not a big fan of Pope Leo. He's a very liberal person, and he's a man that doesn't believe in stopping crime. He's a man that doesn't think that we should be toying with a country that wants a nuclear weapon so they can blow up the world. I'm not a fan of Pope Leo.”
 
 </details>
 
@@ -3922,6 +4118,20 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 </details>
 
+- **[CNN](/entities/org-cnn.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:11:33](/episodes/ep-ZIH5-V6UPkg.md#t-00-11-33): “Now, the fake news CNN, the failing New York Times and all of the other radical left news organizations are hailing them and giving them positive press for the first time in their lives.”
+
+</details>
+
+- **[The New York Times](/entities/org-the-new-york-times.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:11:33](/episodes/ep-ZIH5-V6UPkg.md#t-00-11-33): “Now, the fake news CNN, the failing New York Times and all of the other radical left news organizations are hailing them and giving them positive press for the first time in their lives.”
+
+</details>
+
 </details>
 
 <details>
@@ -3935,7 +4145,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (22)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (25)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:09:07](/episodes/ep-DdPjoy5W-wY.md#t-01-09-07): “These people who are occultists and seek to harm children are now the very people that Trump (Donald Trump) seems to be hell-bent on defending.”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:33:04](/episodes/ep-i8m_6D4QGmk.md#t-00-32-49): “So look, I have not exactly found the correct words to communicate how I feel about President Donald Trump. I sort of ignore the topic of his existence altogether because it kind of sickens me as it should.”
@@ -3945,7 +4155,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:10:17](/episodes/ep-I0OaY6Gryqk.md#t-00-10-17): “It's just rambling. First and foremost, calling somebody who's been deployed 11 times weak.”
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:43:09](/episodes/ep-SgVcnx4Oh30.md#t-00-43-03): “Trump (Donald J. Trump) right now. He's so disgusting.”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:46:13](/episodes/ep-ZIH5-V6UPkg.md#t-00-46-13): “He betrayed us, right? In his right mind, he betrayed us and he did it for more money, for deals, for the opportunity to be in the White House again, whatever it was, he sold us out.”
-- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:51:32](/episodes/ep-eLgD5yUVbko.md#t-00-51-17): “has been forcibly placed on site 5150 holds as his number one advisor she's like i'm advising him you got paula white who's telling him he's akin to jesus christ which is absolutely blasphemous and he thinks these people are totally sane again very scary to be that far in the cave he is so in the cave he is so convinced of his own invincibility it is completely unhinged that he was deeply upset by the pope Telling him the truth, the Catholic perspective is that this is an unjust war because it is, obviously. OK, you can't just decide that you want to take things from Iran or rather not decide, but Bibi tells you you're going to take things from Iran and then you just do it and you put American lives at risk. It's unjust, unjust. Even honestly, if you if you remove Catholicism, it's just unjust in general. It's morally contemptible what you are doing in the Middle East. OK, and forget the part that you went against every single one of your promises, betrayed your base, betrayed the people that were out there trying to get votes for you, betrayed the Charlie Kirk, you betrayed Becky Kelly, you betrayed Tucker Carlson, you betrayed me. I just, you know, could not care less. I am very happy to die with my soul intact. And.”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:51:10](/episodes/ep-eLgD5yUVbko.md#t-00-50-43): “I mean, you guys obviously know my perspective. Trump is very clearly under demonic influence. I think Paula White probably put a spell on him of some sort. I mean, he is surrounded by, ironically, the very thing that he accuses me and Megyn and Tucker of being because we're calling for peace. We're calling for peace. And he's like, these people are nut jobs. And then he has people like Laura Loomer who have. has been forcibly placed on site 5150 holds as his number one advisor she's like i'm advising him you got paula white who's telling him he's akin to jesus christ which is absolutely blasphemous and he thinks these people are totally sane again very scary to be that far in the cave he is so in the cave he is so convinced of his own invincibility it is completely unhinged that he was deeply upset by the pope Telling him the truth,”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:28:30](/episodes/ep-kaWtDuoY_ns.md#t-00-28-27): “now Trump (Donald Trump) should definitely be in prison”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:39:58](/episodes/ep-xi8SYJTUXPM.md#t-00-39-37): “So forget Laura Loomer. The question you should be asking yourself is, is Donald Trump mentally fit to be president if he makes a conscious decision to tweet out that Tucker Carlson and Megyn Kelly and Candace Owens are mentally ill while he invites into his inner circle advice about what he should do to Iran, a person like Laura Loomer?”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:14:44](/episodes/ep-qZ8RWfyuewQ.md#t-00-14-22): “Who cares what you look like? Okay. That's. You have low moments, you get through them. And I will say that never when I went through that and to people who are sick and going through things, never could I have imagined that my lowest moment would one day become President Trump's lowest moment.”
@@ -3959,13 +4169,16 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:38:19](/episodes/ep-sKuYLNx3iRo.md#t-00-38-09): “Don't arrive at a debate defending Trump (Donald Trump)'s administration right now, right? And the Iran war.”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:52:24](/episodes/ep-a2bZf4fic10.md#t-00-52-24): “If you're going to be the president of the United States and you're going to call someone the most vile person of the year and your options are sitting before you, I mean, that would even be a great time to sell that Tyler Robinson did it.”
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:53:34](/episodes/ep-X3VKJVJ7cN4.md#t-00-53-34): “Maybe we will do a live. I just can't stand to hear him speak, to be honest with you.”
+- [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:33:31](/episodes/ep-Vu6Y24pqhZs.md#t-00-33-31): “so that Trump can protect the elites. Particularly Israel, particularly Jeffrey Epstein and his entire network, it seems Trump has completely abandoned and forgotten the American people so long as he can protect the Epstein network. And by any objective metric, these videos that they are creating are fantastic depictions of how people feel. It reminds me of when Trump had an artist that was making.”
+- [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:36:00](/episodes/ep-AH1KVKkweUE.md#t-00-36-00): “And we're losing because Trump (Donald J. Trump) is stupid, because Trump (Donald J. Trump) is listening to his advisors, has no common sense, clearly has no concept himself of just common sense foreign policy”
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:35:11](/episodes/ep-1CFDtD0IgEg.md#t-00-35-11): “how do we have a president that was dumb enough to believe ... they're telling Trump (Donald J. Trump) who's already done this to arm protesters in Iran.”
 
 </details>
 
 - **[Pope Leo XIV](/entities/person-pope-leo-xiv.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:53:40](/episodes/ep-eLgD5yUVbko.md#t-00-53-07): “For the last 25 years, according to BBNet and Yahoo, I don't want a pope who thinks it's terrible that America attacked Venezuela, a country that was sending massive amounts of drugs into the United States and even worse, emptying their prisons, including murderers, drug dealers and killers into our country. And I don't want a pope who criticizes. ... The president of the United States, because I'm doing exactly what I was elected in a landslide to do, setting record low numbers in crime and creating the greatest stock market in history, Leo should be thankful because, as everyone knows, he was a shocking surprise. He wasn't on any list to be pope and was only put there by the church because he wasn't American and they thought that that would be the best way to deal with President Donald J. Trump. Trump, if I wasn't in the White House, Leo wouldn't be in the Vatican.”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:53:40](/episodes/ep-eLgD5yUVbko.md#t-00-53-40): “For the last 25 years, according to Bibi Netanyahu, I don't want a pope who thinks it's terrible that America attacked Venezuela, a country that was sending massive amounts of drugs into the United States and even worse, emptying their prisons, including murderers, drug dealers and killers into our country. And I don't want a pope who criticizes. The president of the United States, because I'm doing exactly what I was elected in a landslide to do, setting record low numbers in crime and creating the greatest stock market in history, Leo should be thankful because, as everyone knows, he was a shocking surprise. He wasn't on any list to be pope and was only put there by the church because he wasn't American and they thought that that would be the best way to deal with President Donald J. Trump. Trump, if I wasn't in the White House, Leo wouldn't be in the Vatican.”
 
 </details>
 
@@ -3980,6 +4193,18 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:37:53](/episodes/ep-BxN2-aeMYIs.md#t-00-37-52): “Charlie was a fan of Thomas Massie ... Republican who gets in Trump's way, criticizes Trump”
+
+</details>
+
+</details>
+
+<details>
+<summary>Defended (1)</summary>
+
+- **[Brigitte Macron](/entities/person-brigitte-macron.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:09:06](/episodes/ep-ZIH5-V6UPkg.md#t-00-08-45): “Crazy Candace Owens, who accuses the highly respected First Lady of France of being a man when she is not and will hopefully win lots of money in the ongoing lawsuit.”
 
 </details>
 
@@ -4010,7 +4235,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - **[Pam Bondi](/entities/person-pam-bondi.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:46:57](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-50): “And so, yeah. This is not the reason she's being fired. We then learn actually that the reason that Trump fired her is because he's upset with her because he believes that she is the one that tipped off Eric Swalwell regarding an investigation into his relationship.”
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:46:57](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-37): “And so, yeah. This is not the reason she's being fired. We then learn actually that the reason that Trump (Donald J. Trump) fired her is because he's upset with her because he believes that she is the one that tipped off Eric Swalwell regarding an investigation into his relationship.”
 
 </details>
 
@@ -4022,7 +4247,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - **[Pam Bondi](/entities/person-pam-bondi.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:45:03](/episodes/ep-q1NRQQAYS_Q.md#t-00-44-43): “Trump made the announcement on social media saying Pam Bondi is a great American patriot, a loyal friend who faithfully served as my attorney general over the past year.”
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:45:03](/episodes/ep-q1NRQQAYS_Q.md#t-00-44-43): “Trump (Donald J. Trump) made the announcement on social media saying Pam Bondi is a great American patriot, a loyal friend who faithfully served as my attorney general over the past year.”
 
 </details>
 
@@ -4055,10 +4280,11 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:02:27](/episodes/ep-ZIH5-V6UPkg.md#t-00-02-27): “I think about this a lot now, very often, mostly in the context of our late mutual friend, Charlie Kirk.”
 - [Candace Owens x Ana Kasparian @ 00:13:55](/episodes/ep-SKNJPul29zU.md#t-00-13-55): “This man is like the reason Donald Trump is in office. He was like brothers with Donald Trump.”
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:22:32](/episodes/ep-ChuWo-n49B8.md#t-00-22-05): “I mean, deep down, we all have a sense that the state murdered Charlie Kirk, that clearly it must have had Trump's (Donald Trump) permission because he's doing nothing to try to get to the bottom of what happened to his dear friend who helped to get him elected twice.”
 
 </details>
 
@@ -4105,21 +4331,21 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:25:48](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-48): “Bibi Netanyahu, who was seated as an equal... Trump sat at the side of the table and Bibi was across from him as an equal in the American situation room.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:25:46](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-46): “And so what led Trump? What, at 79 years old, to sit in there in that situation room when Bibi Netanyahu, who was seated as an equal, ... Trump sat at the side of the table and Bibi (Benjamin Netanyahu) was across from him as an equal in the American situation room.”
 
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:29:58](/episodes/ep-ZIH5-V6UPkg.md#t-00-29-38): “I was told by Charlie that he and Andrew Colvette were present for that meeting with Donald Trump.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:29:58](/episodes/ep-ZIH5-V6UPkg.md#t-00-29-38): “I was told by Charlie (Charlie Kirk) that he and Andrew Kolvet were present for that meeting with Donald Trump.”
 
 </details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:29:58](/episodes/ep-ZIH5-V6UPkg.md#t-00-29-38): “I was told by Charlie that he and Andrew Colvette were present for that meeting with Donald Trump.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:29:58](/episodes/ep-ZIH5-V6UPkg.md#t-00-29-38): “I was told by Charlie (Charlie Kirk) that he and Andrew Kolvet were present for that meeting with Donald Trump.”
 
 </details>
 
@@ -4151,7 +4377,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:35](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): “...actually Donald Trump pardoned him. He pardoned Tyler Boyer a couple of weeks ago.”
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:25:52](/episodes/ep-HYn0P-P1wUw.md#t-00-25-35): “he's also been indicted for crimes by the state of Arizona. federal crimes for which he was recently pardoned by President Donald Trump.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:25:45](/episodes/ep-HYn0P-P1wUw.md#t-00-25-20): “Now, I'm going to add here that another person who I do not trust at all, for many reasons, because one of them being he's a sexual deviant, he's also been indicted for crimes by the state of Arizona. federal crimes for which he was recently pardoned by President Donald Trump. I think it's fair to assume that a person who commits crimes in the past might commit crimes in the future or I guess allegedly committed crimes. I think those court cases are still moving through. I think that's a perfectly logical assumption that a person who's involved in doing the wrong thing might keep it up. A person that seems motivated by money. A person who factually was in debt and was having his payments garnished at Turning Point USA, who then blinks and becomes a millionaire working for a charity might be a little bit shady. I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character.”
 
 </details>
 
@@ -4223,12 +4449,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <summary>President Of (1)</summary>
 
 - **[United States](/entities/gpe-united-states.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
-- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:53:28](/episodes/ep-q1NRQQAYS_Q.md#t-00-53-01): “You know, somehow bear more weight if the president of the United States says it actually make it diminishes it. It diminishes it. That's not like you want Trump to mention your company.”
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:53:28](/episodes/ep-q1NRQQAYS_Q.md#t-00-53-01): “You know, somehow bear more weight if the president of the United States says it actually make it diminishes it. It diminishes it. That's not like you want Trump (Donald J. Trump) to mention your company.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:53:57](/episodes/ep-eLgD5yUVbko.md#t-00-53-40): “The president of the United States, because I'm doing exactly what I was elected in a landslide to do, setting record low numbers in crime and creating the greatest stock market in history, Leo should be thankful because, as everyone knows, he was a shocking surprise. He wasn't on any list to be pope and was only put there by the church because he wasn't American and they thought that that would be the best way to deal with President Donald J. Trump. Trump, if I wasn't in the White House, Leo wouldn't be in the Vatican.”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:17:14](/episodes/ep-WoXd4oLwd3w.md#t-00-17-07): “Why would Donald Trump, the president of the United States, call Charlie Kirk to scold him because people on stage are calling out a child rapist?”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:30:47](/episodes/ep-puuMVxEu5NU.md#t-00-30-34): “So if you had a message for President Trump (Donald Trump), what would it be?”
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:44:18](/episodes/ep-1CFDtD0IgEg.md#t-00-44-18): “they're telling Trump (Donald J. Trump) who's already done this to arm protesters in Iran. ... These are the people that are advising the president of the United States who actually believe that they were going to take Iran in two weeks.”
 
 </details>
 
@@ -4247,7 +4474,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Spoke At (1)</summary>
+<summary>Spoke At (2)</summary>
 
 - **[Dream City Church](/entities/org-dream-city-church.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -4256,18 +4483,21 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 </details>
 
+- **[Tyler Bowyer](/entities/person-tyler-bowyer.md)**
+
 </details>
 
 <details>
 <summary>Supported By (5)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:22:17](/episodes/ep-YFmRH8p5lt0.md#t-00-21-56): “Charlie's (Charlie Kirk's) campus tour is publicly announced.”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:33:30](/episodes/ep-i8m_6D4QGmk.md#t-00-33-30): “The human spirit isn't really meant to contend with that sort of deceit. You're not supposed to even fathom a scenario where someone like Charlie Kirk quite literally dedicates his entire professional career, builds up an organization meant to help Trump, to empower Trump, conservative principles one way or the other.”
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:14:12](/episodes/ep-k8ueJdPFel4.md#t-00-13-51): “Charlie (Charlie Kirk) and Ben (Ben Shapiro) deferred about the best direction for the conservative movement. Ben (Ben Shapiro) supported Ron DeSantis in the 2024 primary while Charlie (Charlie Kirk) was all in for Trump (Donald J. Trump) from the start.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:19:00](/episodes/ep-OgRyiOAVtWU.md#t-00-18-35): “Republican youth movement. President Trump (Donald Trump) called him instrumental in getting him reelected as president. There was a shooting today, and Charlie Kirk's representatives are confirming that he was shot and is being treated at this hospital.”
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:22:32](/episodes/ep-ChuWo-n49B8.md#t-00-22-05): “I mean, deep down, we all have a sense that the state murdered Charlie Kirk, that clearly it must have had Trump's (Donald Trump) permission because he's doing nothing to try to get to the bottom of what happened to his dear friend who helped to get him elected twice.”
 
 </details>
 
@@ -4279,23 +4509,24 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:28:20](/episodes/ep-ZIH5-V6UPkg.md#t-00-28-20): “We decided to write this after Trump published a true social post attacking our company, Meghan Kelly, Candace Owens, and Alex Jones, each of whom supported him for years.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:28:20](/episodes/ep-ZIH5-V6UPkg.md#t-00-28-20): “We decided to write this after Trump published a true social post attacking our company, Megyn Kelly, Candace Owens, and Alex Jones, each of whom supported him for years.”
+- [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:34:00](/episodes/ep-Vu6Y24pqhZs.md#t-00-33-31): “paintings about the forgotten American. They tapped into how Americans were feeling in the flyover states, the reason why people put Trump into office, the reason why I backed Trump.”
 
 </details>
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:28:20](/episodes/ep-ZIH5-V6UPkg.md#t-00-28-20): “We decided to write this after Trump published a true social post attacking our company, Meghan Kelly, Candace Owens, and Alex Jones, each of whom supported him for years.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:28:20](/episodes/ep-ZIH5-V6UPkg.md#t-00-28-20): “We decided to write this after Trump published a true social post attacking our company, Megyn Kelly, Candace Owens, and Alex Jones, each of whom supported him for years.”
 
 </details>
 
 - **[Alex Jones](/entities/person-alex-jones.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:28:20](/episodes/ep-ZIH5-V6UPkg.md#t-00-28-20): “We decided to write this after Trump published a true social post attacking our company, Meghan Kelly, Candace Owens, and Alex Jones, each of whom supported him for years.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:28:20](/episodes/ep-ZIH5-V6UPkg.md#t-00-28-20): “We decided to write this after Trump published a true social post attacking our company, Megyn Kelly, Candace Owens, and Alex Jones, each of whom supported him for years.”
 
 </details>
 
@@ -4338,7 +4569,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Referenced By (69)</summary>
+<summary>Referenced By (75)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -4348,9 +4579,10 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Iran](/entities/gpe-iran.md)** accused by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:08:37](/episodes/ep-I0OaY6Gryqk.md#t-00-08-17): “Iran was a threat. Every country realized what a threat Iran was. The question is whether or not they wanted to do something about it.”
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:37:42](/episodes/ep-1CFDtD0IgEg.md#t-00-37-42): “I have no opinion. Based on what I've seen, that was done by Iran.”
 
 </details>
 
@@ -4366,10 +4598,17 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:33:08](/episodes/ep-ZIH5-V6UPkg.md#t-00-32-54): “one of them being Laura Loomer. ... Trump's closest advisor.”
-- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:51:25](/episodes/ep-eLgD5yUVbko.md#t-00-51-17): “We're calling for peace. And he's like, these people are nut jobs. And then he has people like Laura Loomer who have. has been forcibly placed on site 5150 holds as his number one advisor she's like i'm advising him you got paula white who's telling him he's akin to jesus christ which is absolutely blasphemous and he thinks these people are totally sane again very scary to be that far in the cave he is so in the cave he is so convinced of his own invincibility it is completely unhinged that he was deeply upset by the pope Telling him the truth,”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:51:25](/episodes/ep-eLgD5yUVbko.md#t-00-50-43): “We're calling for peace. And he's like, these people are nut jobs. And then he has people like Laura Loomer who have. has been forcibly placed on site 5150 holds as his number one advisor she's like i'm advising him you got paula white who's telling him he's akin to jesus christ which is absolutely blasphemous and he thinks these people are totally sane again very scary to be that far in the cave he is so in the cave he is so convinced of his own invincibility it is completely unhinged that he was deeply upset by the pope Telling him the truth,”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:36:34](/episodes/ep-kaWtDuoY_ns.md#t-00-36-08): “Who even are Trump (Donald Trump)'s advisors anymore? ... Laura Loomer claims she is his number one advisor. And she speaks to him almost daily.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:39:58](/episodes/ep-xi8SYJTUXPM.md#t-00-39-37): “So forget Laura Loomer. The question you should be asking yourself is, is Donald Trump mentally fit to be president if he makes a conscious decision to tweet out that Tucker Carlson and Megyn Kelly and Candace Owens are mentally ill while he invites into his inner circle advice about what he should do to Iran, a person like Laura Loomer?”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:17:55](/episodes/ep-qZ8RWfyuewQ.md#t-00-17-39): “And I want people to know that the real driver of the entire random attack on me from the president and the reason why it was tinged a little bit with some race was actually his top advisor, Laura Loomer.”
+
+</details>
+
+- **[Mark Levin](/entities/person-mark-levin.md)** advisor to this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:44:18](/episodes/ep-1CFDtD0IgEg.md#t-00-44-18): “they're telling Trump (Donald J. Trump) who's already done this to arm protesters in Iran. ... Psychos, like actual psychopaths like Mark Levin. ... These are the people that are advising the president of the United States who actually believe that they were going to take Iran in two weeks.”
 
 </details>
 
@@ -4395,31 +4634,34 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** appeared with this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:07:31](/episodes/ep-_vg7ucP1E0g.md#t-00-06-53): “I'm just wondering how is she affording to live, okay? She's still dating. J.T. Massey. During this time, we also have that on July 11th, Lori Frantzve and Tyler Bowyer and Erika (Erika Kirk) are going to be behind Donald Trump for his presidential campaign rally.”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:23:06](/episodes/ep-kaWtDuoY_ns.md#t-00-22-53): “she opened for Trump (Donald Trump) at the Dream City Church in Phoenix.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:27:53](/episodes/ep-HYn0P-P1wUw.md#t-00-27-53): “Standing behind Donald Trump in Arizona at his 2015 July rally, which I should mention also her mother Lori Frantzve is in the background. So the three of them have known each other since at least July 2015 publicly.”
 
 </details>
 
 - **[Lori Frantzve](/entities/person-lori-frantzve.md)** appeared with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:07:31](/episodes/ep-_vg7ucP1E0g.md#t-00-06-53): “I'm just wondering how is she affording to live, okay? She's still dating. J.T. Massey. During this time, we also have that on July 11th, Lori Frantzve and Tyler Bowyer and Erika (Erika Kirk) are going to be behind Donald Trump for his presidential campaign rally.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:27:53](/episodes/ep-HYn0P-P1wUw.md#t-00-27-53): “Standing behind Donald Trump in Arizona at his 2015 July rally, which I should mention also her mother Lori Frantzve is in the background. So the three of them have known each other since at least July 2015 publicly.”
 
 </details>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** appeared with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:07:31](/episodes/ep-_vg7ucP1E0g.md#t-00-06-53): “I'm just wondering how is she affording to live, okay? She's still dating. J.T. Massey. During this time, we also have that on July 11th, Lori Frantzve and Tyler Bowyer and Erika (Erika Kirk) are going to be behind Donald Trump for his presidential campaign rally.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:29:07](/episodes/ep-HYn0P-P1wUw.md#t-00-28-51): “It was a hard sell at first, and that was until I hosted the first Trump (Donald Trump) rally in Trump (Donald Trump) rally history right here in Arizona in 2015.”
 
 </details>
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:23:58](/episodes/ep-ZIH5-V6UPkg.md#t-00-23-58): “And CNN actually, which I guess Trump is watching for their polls, their reliable polls, put together a pretty brutal montage of Trump. ... Megyn Kelly is here and she's doing, come up, come up here, Megyn.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:24:17](/episodes/ep-ZIH5-V6UPkg.md#t-00-24-10): “Megyn Kelly is here and she's doing, come up, come up here, Megyn (Megyn Kelly). By the way, I'm having a great time up here. Are you having a good time?”
 
 </details>
 
@@ -4434,6 +4676,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:41:53](/episodes/ep-kaWtDuoY_ns.md#t-00-41-38): “Loomer and I spent the day with President Trump (Donald Trump) at Bedminster watching the golf tournament from the president's box.”
+
+</details>
+
+- **[Fox & Friends](/entities/work-fox-and-friends.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:31:36](/episodes/ep-9hRcfSrri70.md#t-00-31-36): “Well, yeah, this person pointed to me on X that actually Trump (Donald J. Trump) told the truth. Trump (Donald J. Trump) went on Fox and Friends in the immediate aftermath of Tyler Robinson being arrested and explained to the public exactly what we have been saying that Mike Mitchell.”
 
 </details>
 
@@ -4456,6 +4705,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:16:31](/episodes/ep-3QJqtW_NOSI.md#t-00-16-31): “in the first administration, he selected Betsy DeVos as his secretary of education”
+
+</details>
+
+- **[John C. Phelan](/entities/person-john-c-phelan.md)** appointed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:28:15](/episodes/ep-Vu6Y24pqhZs.md#t-00-27-58): “So I was wondering in 2025 when this was going on, who was the secretary of the Navy? And it turns out that Trump appointed a guy with literally zero military experience into that position, crucial position.”
 
 </details>
 
@@ -4523,7 +4779,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (22)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (25)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:09:07](/episodes/ep-DdPjoy5W-wY.md#t-01-09-07): “These people who are occultists and seek to harm children are now the very people that Trump (Donald Trump) seems to be hell-bent on defending.”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:33:04](/episodes/ep-i8m_6D4QGmk.md#t-00-32-49): “So look, I have not exactly found the correct words to communicate how I feel about President Donald Trump. I sort of ignore the topic of his existence altogether because it kind of sickens me as it should.”
@@ -4533,7 +4789,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:10:17](/episodes/ep-I0OaY6Gryqk.md#t-00-10-17): “It's just rambling. First and foremost, calling somebody who's been deployed 11 times weak.”
 - [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315 @ 00:43:09](/episodes/ep-SgVcnx4Oh30.md#t-00-43-03): “Trump (Donald J. Trump) right now. He's so disgusting.”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:46:13](/episodes/ep-ZIH5-V6UPkg.md#t-00-46-13): “He betrayed us, right? In his right mind, he betrayed us and he did it for more money, for deals, for the opportunity to be in the White House again, whatever it was, he sold us out.”
-- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:51:32](/episodes/ep-eLgD5yUVbko.md#t-00-51-17): “has been forcibly placed on site 5150 holds as his number one advisor she's like i'm advising him you got paula white who's telling him he's akin to jesus christ which is absolutely blasphemous and he thinks these people are totally sane again very scary to be that far in the cave he is so in the cave he is so convinced of his own invincibility it is completely unhinged that he was deeply upset by the pope Telling him the truth, the Catholic perspective is that this is an unjust war because it is, obviously. OK, you can't just decide that you want to take things from Iran or rather not decide, but Bibi tells you you're going to take things from Iran and then you just do it and you put American lives at risk. It's unjust, unjust. Even honestly, if you if you remove Catholicism, it's just unjust in general. It's morally contemptible what you are doing in the Middle East. OK, and forget the part that you went against every single one of your promises, betrayed your base, betrayed the people that were out there trying to get votes for you, betrayed the Charlie Kirk, you betrayed Becky Kelly, you betrayed Tucker Carlson, you betrayed me. I just, you know, could not care less. I am very happy to die with my soul intact. And.”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:51:10](/episodes/ep-eLgD5yUVbko.md#t-00-50-43): “I mean, you guys obviously know my perspective. Trump is very clearly under demonic influence. I think Paula White probably put a spell on him of some sort. I mean, he is surrounded by, ironically, the very thing that he accuses me and Megyn and Tucker of being because we're calling for peace. We're calling for peace. And he's like, these people are nut jobs. And then he has people like Laura Loomer who have. has been forcibly placed on site 5150 holds as his number one advisor she's like i'm advising him you got paula white who's telling him he's akin to jesus christ which is absolutely blasphemous and he thinks these people are totally sane again very scary to be that far in the cave he is so in the cave he is so convinced of his own invincibility it is completely unhinged that he was deeply upset by the pope Telling him the truth,”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:28:30](/episodes/ep-kaWtDuoY_ns.md#t-00-28-27): “now Trump (Donald Trump) should definitely be in prison”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:39:58](/episodes/ep-xi8SYJTUXPM.md#t-00-39-37): “So forget Laura Loomer. The question you should be asking yourself is, is Donald Trump mentally fit to be president if he makes a conscious decision to tweet out that Tucker Carlson and Megyn Kelly and Candace Owens are mentally ill while he invites into his inner circle advice about what he should do to Iran, a person like Laura Loomer?”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:14:44](/episodes/ep-qZ8RWfyuewQ.md#t-00-14-22): “Who cares what you look like? Okay. That's. You have low moments, you get through them. And I will say that never when I went through that and to people who are sick and going through things, never could I have imagined that my lowest moment would one day become President Trump's lowest moment.”
@@ -4547,13 +4803,16 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:38:19](/episodes/ep-sKuYLNx3iRo.md#t-00-38-09): “Don't arrive at a debate defending Trump (Donald Trump)'s administration right now, right? And the Iran war.”
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:52:24](/episodes/ep-a2bZf4fic10.md#t-00-52-24): “If you're going to be the president of the United States and you're going to call someone the most vile person of the year and your options are sitting before you, I mean, that would even be a great time to sell that Tyler Robinson did it.”
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:53:34](/episodes/ep-X3VKJVJ7cN4.md#t-00-53-34): “Maybe we will do a live. I just can't stand to hear him speak, to be honest with you.”
+- [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:33:31](/episodes/ep-Vu6Y24pqhZs.md#t-00-33-31): “so that Trump can protect the elites. Particularly Israel, particularly Jeffrey Epstein and his entire network, it seems Trump has completely abandoned and forgotten the American people so long as he can protect the Epstein network. And by any objective metric, these videos that they are creating are fantastic depictions of how people feel. It reminds me of when Trump had an artist that was making.”
+- [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:36:00](/episodes/ep-AH1KVKkweUE.md#t-00-36-00): “And we're losing because Trump (Donald J. Trump) is stupid, because Trump (Donald J. Trump) is listening to his advisors, has no common sense, clearly has no concept himself of just common sense foreign policy”
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:35:11](/episodes/ep-1CFDtD0IgEg.md#t-00-35-11): “how do we have a president that was dumb enough to believe ... they're telling Trump (Donald J. Trump) who's already done this to arm protesters in Iran.”
 
 </details>
 
 - **[Pope Leo XIV](/entities/person-pope-leo-xiv.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:53:40](/episodes/ep-eLgD5yUVbko.md#t-00-53-07): “For the last 25 years, according to BBNet and Yahoo, I don't want a pope who thinks it's terrible that America attacked Venezuela, a country that was sending massive amounts of drugs into the United States and even worse, emptying their prisons, including murderers, drug dealers and killers into our country. And I don't want a pope who criticizes. ... The president of the United States, because I'm doing exactly what I was elected in a landslide to do, setting record low numbers in crime and creating the greatest stock market in history, Leo should be thankful because, as everyone knows, he was a shocking surprise. He wasn't on any list to be pope and was only put there by the church because he wasn't American and they thought that that would be the best way to deal with President Donald J. Trump. Trump, if I wasn't in the White House, Leo wouldn't be in the Vatican.”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:53:40](/episodes/ep-eLgD5yUVbko.md#t-00-53-40): “For the last 25 years, according to Bibi Netanyahu, I don't want a pope who thinks it's terrible that America attacked Venezuela, a country that was sending massive amounts of drugs into the United States and even worse, emptying their prisons, including murderers, drug dealers and killers into our country. And I don't want a pope who criticizes. The president of the United States, because I'm doing exactly what I was elected in a landslide to do, setting record low numbers in crime and creating the greatest stock market in history, Leo should be thankful because, as everyone knows, he was a shocking surprise. He wasn't on any list to be pope and was only put there by the church because he wasn't American and they thought that that would be the best way to deal with President Donald J. Trump. Trump, if I wasn't in the White House, Leo wouldn't be in the Vatican.”
 
 </details>
 
@@ -4627,7 +4886,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - **[Pope Leo XIV](/entities/person-pope-leo-xiv.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:59:18](/episodes/ep-eLgD5yUVbko.md#t-00-58-47): “We don't want a pope that says crime is okay in our cities. I don't like it. I'm not a big fan of Pope Leo. He's a very liberal person, and he's a man that doesn't believe in stopping crime. He's a man that doesn't think that we should be toying with a country that wants a nuclear weapon so they can blow up the world. I'm not a fan of Bob Lea.”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:59:18](/episodes/ep-eLgD5yUVbko.md#t-00-58-47): “We don't want a pope that says crime is okay in our cities. I don't like it. I'm not a big fan of Pope Leo. He's a very liberal person, and he's a man that doesn't believe in stopping crime. He's a man that doesn't think that we should be toying with a country that wants a nuclear weapon so they can blow up the world. I'm not a fan of Pope Leo.”
 
 </details>
 
@@ -4652,6 +4911,27 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 </details>
 
+- **[CNN](/entities/org-cnn.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:11:33](/episodes/ep-ZIH5-V6UPkg.md#t-00-11-33): “Now, the fake news CNN, the failing New York Times and all of the other radical left news organizations are hailing them and giving them positive press for the first time in their lives.”
+
+</details>
+
+- **[The New York Times](/entities/org-the-new-york-times.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:11:33](/episodes/ep-ZIH5-V6UPkg.md#t-00-11-33): “Now, the fake news CNN, the failing New York Times and all of the other radical left news organizations are hailing them and giving them positive press for the first time in their lives.”
+
+</details>
+
+- **[Brigitte Macron](/entities/person-brigitte-macron.md)** defended by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:09:06](/episodes/ep-ZIH5-V6UPkg.md#t-00-08-45): “Crazy Candace Owens, who accuses the highly respected First Lady of France of being a man when she is not and will hopefully win lots of money in the ongoing lawsuit.”
+
+</details>
+
 - **[Carrie Prejean Boller](/entities/person-carrie-prejean-boller.md)** fired by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -4662,14 +4942,14 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - **[Pam Bondi](/entities/person-pam-bondi.md)** fired by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:46:57](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-50): “And so, yeah. This is not the reason she's being fired. We then learn actually that the reason that Trump fired her is because he's upset with her because he believes that she is the one that tipped off Eric Swalwell regarding an investigation into his relationship.”
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:46:57](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-37): “And so, yeah. This is not the reason she's being fired. We then learn actually that the reason that Trump (Donald J. Trump) fired her is because he's upset with her because he believes that she is the one that tipped off Eric Swalwell regarding an investigation into his relationship.”
 
 </details>
 
 - **[Pam Bondi](/entities/person-pam-bondi.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:45:03](/episodes/ep-q1NRQQAYS_Q.md#t-00-44-43): “Trump made the announcement on social media saying Pam Bondi is a great American patriot, a loyal friend who faithfully served as my attorney general over the past year.”
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:45:03](/episodes/ep-q1NRQQAYS_Q.md#t-00-44-43): “Trump (Donald J. Trump) made the announcement on social media saying Pam Bondi is a great American patriot, a loyal friend who faithfully served as my attorney general over the past year.”
 
 </details>
 
@@ -4697,10 +4977,11 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:02:27](/episodes/ep-ZIH5-V6UPkg.md#t-00-02-27): “I think about this a lot now, very often, mostly in the context of our late mutual friend, Charlie Kirk.”
 - [Candace Owens x Ana Kasparian @ 00:13:55](/episodes/ep-SKNJPul29zU.md#t-00-13-55): “This man is like the reason Donald Trump is in office. He was like brothers with Donald Trump.”
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:22:32](/episodes/ep-ChuWo-n49B8.md#t-00-22-05): “I mean, deep down, we all have a sense that the state murdered Charlie Kirk, that clearly it must have had Trump's (Donald Trump) permission because he's doing nothing to try to get to the bottom of what happened to his dear friend who helped to get him elected twice.”
 
 </details>
 
@@ -4723,12 +5004,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[United States](/entities/gpe-united-states.md)** has president this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
-- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:53:28](/episodes/ep-q1NRQQAYS_Q.md#t-00-53-01): “You know, somehow bear more weight if the president of the United States says it actually make it diminishes it. It diminishes it. That's not like you want Trump to mention your company.”
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:53:28](/episodes/ep-q1NRQQAYS_Q.md#t-00-53-01): “You know, somehow bear more weight if the president of the United States says it actually make it diminishes it. It diminishes it. That's not like you want Trump (Donald J. Trump) to mention your company.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:53:57](/episodes/ep-eLgD5yUVbko.md#t-00-53-40): “The president of the United States, because I'm doing exactly what I was elected in a landslide to do, setting record low numbers in crime and creating the greatest stock market in history, Leo should be thankful because, as everyone knows, he was a shocking surprise. He wasn't on any list to be pope and was only put there by the church because he wasn't American and they thought that that would be the best way to deal with President Donald J. Trump. Trump, if I wasn't in the White House, Leo wouldn't be in the Vatican.”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:17:14](/episodes/ep-WoXd4oLwd3w.md#t-00-17-07): “Why would Donald Trump, the president of the United States, call Charlie Kirk to scold him because people on stage are calling out a child rapist?”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:30:47](/episodes/ep-puuMVxEu5NU.md#t-00-30-34): “So if you had a message for President Trump (Donald Trump), what would it be?”
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:44:18](/episodes/ep-1CFDtD0IgEg.md#t-00-44-18): “they're telling Trump (Donald J. Trump) who's already done this to arm protesters in Iran. ... These are the people that are advising the president of the United States who actually believe that they were going to take Iran in two weeks.”
 
 </details>
 
@@ -4739,24 +5021,26 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 </details>
 
+- **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** hosted speaker this
+
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** met with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:25:48](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-48): “Bibi Netanyahu, who was seated as an equal... Trump sat at the side of the table and Bibi was across from him as an equal in the American situation room.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:25:46](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-46): “And so what led Trump? What, at 79 years old, to sit in there in that situation room when Bibi Netanyahu, who was seated as an equal, ... Trump sat at the side of the table and Bibi (Benjamin Netanyahu) was across from him as an equal in the American situation room.”
 
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** met with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:29:58](/episodes/ep-ZIH5-V6UPkg.md#t-00-29-38): “I was told by Charlie that he and Andrew Colvette were present for that meeting with Donald Trump.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:29:58](/episodes/ep-ZIH5-V6UPkg.md#t-00-29-38): “I was told by Charlie (Charlie Kirk) that he and Andrew Kolvet were present for that meeting with Donald Trump.”
 
 </details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** met with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:29:58](/episodes/ep-ZIH5-V6UPkg.md#t-00-29-38): “I was told by Charlie that he and Andrew Colvette were present for that meeting with Donald Trump.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:29:58](/episodes/ep-ZIH5-V6UPkg.md#t-00-29-38): “I was told by Charlie (Charlie Kirk) that he and Andrew Kolvet were present for that meeting with Donald Trump.”
 
 </details>
 
@@ -4778,7 +5062,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:35](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): “...actually Donald Trump pardoned him. He pardoned Tyler Boyer a couple of weeks ago.”
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:25:52](/episodes/ep-HYn0P-P1wUw.md#t-00-25-35): “he's also been indicted for crimes by the state of Arizona. federal crimes for which he was recently pardoned by President Donald Trump.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:25:45](/episodes/ep-HYn0P-P1wUw.md#t-00-25-20): “Now, I'm going to add here that another person who I do not trust at all, for many reasons, because one of them being he's a sexual deviant, he's also been indicted for crimes by the state of Arizona. federal crimes for which he was recently pardoned by President Donald Trump. I think it's fair to assume that a person who commits crimes in the past might commit crimes in the future or I guess allegedly committed crimes. I think those court cases are still moving through. I think that's a perfectly logical assumption that a person who's involved in doing the wrong thing might keep it up. A person that seems motivated by money. A person who factually was in debt and was having his payments garnished at Turning Point USA, who then blinks and becomes a millionaire working for a charity might be a little bit shady. I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character.”
 
 </details>
 
@@ -4816,12 +5100,13 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** supporter of this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:22:17](/episodes/ep-YFmRH8p5lt0.md#t-00-21-56): “Charlie's (Charlie Kirk's) campus tour is publicly announced.”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:33:30](/episodes/ep-i8m_6D4QGmk.md#t-00-33-30): “The human spirit isn't really meant to contend with that sort of deceit. You're not supposed to even fathom a scenario where someone like Charlie Kirk quite literally dedicates his entire professional career, builds up an organization meant to help Trump, to empower Trump, conservative principles one way or the other.”
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:14:12](/episodes/ep-k8ueJdPFel4.md#t-00-13-51): “Charlie (Charlie Kirk) and Ben (Ben Shapiro) deferred about the best direction for the conservative movement. Ben (Ben Shapiro) supported Ron DeSantis in the 2024 primary while Charlie (Charlie Kirk) was all in for Trump (Donald J. Trump) from the start.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:19:00](/episodes/ep-OgRyiOAVtWU.md#t-00-18-35): “Republican youth movement. President Trump (Donald Trump) called him instrumental in getting him reelected as president. There was a shooting today, and Charlie Kirk's representatives are confirming that he was shot and is being treated at this hospital.”
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:22:32](/episodes/ep-ChuWo-n49B8.md#t-00-22-05): “I mean, deep down, we all have a sense that the state murdered Charlie Kirk, that clearly it must have had Trump's (Donald Trump) permission because he's doing nothing to try to get to the bottom of what happened to his dear friend who helped to get him elected twice.”
 
 </details>
 
@@ -4833,23 +5118,24 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** supporter of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:28:20](/episodes/ep-ZIH5-V6UPkg.md#t-00-28-20): “We decided to write this after Trump published a true social post attacking our company, Meghan Kelly, Candace Owens, and Alex Jones, each of whom supported him for years.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:28:20](/episodes/ep-ZIH5-V6UPkg.md#t-00-28-20): “We decided to write this after Trump published a true social post attacking our company, Megyn Kelly, Candace Owens, and Alex Jones, each of whom supported him for years.”
+- [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:34:00](/episodes/ep-Vu6Y24pqhZs.md#t-00-33-31): “paintings about the forgotten American. They tapped into how Americans were feeling in the flyover states, the reason why people put Trump into office, the reason why I backed Trump.”
 
 </details>
 
 - **[Megyn Kelly](/entities/person-megyn-kelly.md)** supporter of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:28:20](/episodes/ep-ZIH5-V6UPkg.md#t-00-28-20): “We decided to write this after Trump published a true social post attacking our company, Meghan Kelly, Candace Owens, and Alex Jones, each of whom supported him for years.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:28:20](/episodes/ep-ZIH5-V6UPkg.md#t-00-28-20): “We decided to write this after Trump published a true social post attacking our company, Megyn Kelly, Candace Owens, and Alex Jones, each of whom supported him for years.”
 
 </details>
 
 - **[Alex Jones](/entities/person-alex-jones.md)** supporter of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:28:20](/episodes/ep-ZIH5-V6UPkg.md#t-00-28-20): “We decided to write this after Trump published a true social post attacking our company, Meghan Kelly, Candace Owens, and Alex Jones, each of whom supported him for years.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:28:20](/episodes/ep-ZIH5-V6UPkg.md#t-00-28-20): “We decided to write this after Trump published a true social post attacking our company, Megyn Kelly, Candace Owens, and Alex Jones, each of whom supported him for years.”
 
 </details>
 
@@ -4867,13 +5153,6 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 </details>
 
-- **[Corey Lewandowski](/entities/person-corey-lewandowski.md)** worked with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:22:49](/episodes/ep-zSKrxIUMNqw.md#t-00-22-44): “The story goes that Donald Trump was running for president against Hillary Clinton, and he chose Corey Lewandowski to be his campaign manager.”
-
-</details>
-
 - **[Natalie Harp](/entities/person-natalie-harp.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -4886,7 +5165,23 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Donald J. Trump (35)</strong></summary>
+<summary><strong class="section-title">Statements by Donald J. Trump (37)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1)</summary>
+
+- [00:32:38](/episodes/ep-9hRcfSrri70.md#t-00-32-38) [✓] (Claim) ["Trump said someone close to Tyler Robinson recognized him from a slight head til..."](/statements/statement-89b5ec6ecbf5.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Mike Mitchell](/entities/person-mike-mitchell.md)
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1)</summary>
+
+- [00:37:42](/episodes/ep-1CFDtD0IgEg.md#t-00-37-42) [✓] (Claim) ["Donald Trump said that, based on what he had seen, Iran had bombed the girls' el..."](/statements/statement-77fd83c0b658.md)
+  - About: [Iran](/entities/gpe-iran.md)
+
+</details>
 
 <details>
 <summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (2)</summary>
@@ -4929,10 +5224,10 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (3)</summary>
 
-- [00:52:55](/episodes/ep-eLgD5yUVbko.md#t-00-52-23) [○] (Opinion) ["Pope Leo XIV is weak on crime and terrible for foreign policy, and wrongly accep..."](/statements/statement-131150fb7620.md)
+- [00:52:55](/episodes/ep-eLgD5yUVbko.md#t-00-52-23) [✓] (Opinion) ["Pope Leo XIV is weak on crime and terrible for foreign policy, and wrongly accep..."](/statements/statement-131150fb7620.md)
   - About: [Pope Leo XIV](/entities/person-pope-leo-xiv.md), [Iran](/entities/gpe-iran.md)
 
-- [00:53:57](/episodes/ep-eLgD5yUVbko.md#t-00-53-40) [✓] (Claim) ["Donald Trump claimed that Pope Leo XIV was chosen because he was American and th..."](/statements/statement-4b315897c442.md)
+- [00:53:57](/episodes/ep-eLgD5yUVbko.md#t-00-53-40) [✓] (Claim) ["Donald Trump claimed that Pope Leo XIV was "only put there by the Church because..."](/statements/statement-4b315897c442.md)
   - About: [Pope Leo XIV](/entities/person-pope-leo-xiv.md), [Donald J. Trump](/entities/person-donald-trump.md), [Catholic Church](/entities/org-catholic-church.md)
 
 - [01:01:04](/episodes/ep-eLgD5yUVbko.md#t-01-00-59) [✓] (Claim) ["Donald Trump said he posted an AI image because he thought it depicted him as a ..."](/statements/statement-90beac51be54.md)
@@ -4949,7 +5244,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - [00:04:41](/episodes/ep-ZIH5-V6UPkg.md#t-00-04-35) [◐] (Claim) ["Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones have been thrown off ..."](/statements/statement-96380b58c1d8.md)
   - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Candace Owens](/entities/person-candace-owens.md)
 
-- [00:07:53](/episodes/ep-ZIH5-V6UPkg.md#t-00-07-24) [○] (Opinion) ["Tucker Carlson was broken after being fired from Fox and should see a psychiatri..."](/statements/statement-6fefc965fff7.md)
+- [00:07:53](/episodes/ep-ZIH5-V6UPkg.md#t-00-07-24) [○] (Opinion) ["Tucker Carlson was broken after being fired from Fox and perhaps should see a go..."](/statements/statement-6fefc965fff7.md)
   - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Fox News](/entities/org-fox-news.md)
 
 - [00:09:06](/episodes/ep-ZIH5-V6UPkg.md#t-00-08-45) [✓] (Claim) ["Brigitte Macron is not a man."](/statements/statement-0d0c16a1c0bc.md)
@@ -4977,7 +5272,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1)</summary>
 
-- [00:39:52](/episodes/ep-rupRLXmSndU.md#t-00-39-35) [○] (Opinion) ["Erika Kirk should sue the people criticizing her because they are jealous."](/statements/statement-f37df3ab74ff.md)
+- [00:39:52](/episodes/ep-rupRLXmSndU.md#t-00-39-35) [✓] (Opinion) ["Erika Kirk should sue the people criticizing her because they are jealous."](/statements/statement-f37df3ab74ff.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
@@ -5067,13 +5362,52 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Donald J. Trump (220)</strong></summary>
+<summary><strong class="section-title">Statements about Donald J. Trump (226)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
 
 - [02:21:45](/episodes/ep-nPhCKwJ6ye8.md#t-02-21-45) (Claim) **Candace Owens**: ["Candace Owens reported the alleged French Foreign Legion threat to Tul..."](/statements/statement-09827ba5d6e7.md)
   - Also about: [Tulsi Gabbard](/entities/person-tulsi-gabbard.md), [French Foreign Legion](/entities/org-french-foreign-legion.md)
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
+
+- [00:22:32](/episodes/ep-ChuWo-n49B8.md#t-00-22-05) (Accusation) **Candace Owens**: ["Owens said she and others had a sense that the state murdered Charlie ..."](/statements/statement-19b76f096b36.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
+
+</details>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (3)</summary>
+
+- [00:35:56](/episodes/ep-AH1KVKkweUE.md#t-00-35-20) (Opinion) **Candace Owens**: ["Owens argued that the United States was losing the war with Iran becau..."](/statements/statement-55be4a960b63.md)
+  - Also about: [Iran](/entities/gpe-iran.md), [United States](/entities/gpe-united-states.md)
+
+- [00:36:57](/episodes/ep-AH1KVKkweUE.md#t-00-36-38) (Opinion) **Candace Owens**: ["Owens urged Trump to admit he was wrong, apologize, end U.S. funding a..."](/statements/statement-d107e74ffd0f.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
+
+- [00:37:43](/episodes/ep-AH1KVKkweUE.md#t-00-37-43) (Claim) **Candace Owens** (via paraphrase): ["Owens said she thought Blake Neff had claimed Charlie Kirk would have ..."](/statements/statement-a7d8a984831c.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Iran](/entities/gpe-iran.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (4)</summary>
+
+- [00:28:15](/episodes/ep-Vu6Y24pqhZs.md#t-00-27-58) (Claim) **Candace Owens**: ["Owens said Donald Trump appointed John C. Phelan as secretary of the N..."](/statements/statement-e1b3c2f7113e.md)
+  - Also about: [John C. Phelan](/entities/person-john-c-phelan.md), [United States Navy](/entities/org-united-states-navy.md), [Goldman Sachs](/entities/org-goldman-sachs.md)
+
+- [00:28:46](/episodes/ep-Vu6Y24pqhZs.md#t-00-28-38) (Claim) **Candace Owens**: ["Owens said John C. Phelan hosted a private Aspen fundraiser that raise..."](/statements/statement-5ddae29f0aad.md)
+  - Also about: [John C. Phelan](/entities/person-john-c-phelan.md), [Steve Wynn](/entities/person-steve-wynn.md), [Aspen, Colorado](/entities/gpe-aspen-colorado.md)
+
+- [00:33:31](/episodes/ep-Vu6Y24pqhZs.md#t-00-33-31) (Opinion) **Candace Owens**: ["Owens said it seemed Trump had abandoned the American people in order ..."](/statements/statement-da21b1c47850.md)
+  - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Israel](/entities/gpe-israel.md), [Epstein Files](/entities/work-epstein-files.md)
+
+- [00:45:31](/episodes/ep-Vu6Y24pqhZs.md#t-00-44-59) (Claim) **Candace Owens**: ["Owens asserted that Charlie Kirk privately told her Donald Trump had a..."](/statements/statement-ffb97a504ae8.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
 
@@ -5452,20 +5786,20 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (6)</summary>
 
-- [00:51:58](/episodes/ep-eLgD5yUVbko.md#t-00-51-17) (Opinion) **Candace Owens**: ["Candace Owens said the war against Iran is unjust and morally contempt..."](/statements/statement-1fa070e7f5a4.md)
+- [00:51:58](/episodes/ep-eLgD5yUVbko.md#t-00-51-25) (Opinion) **Candace Owens**: ["Candace Owens said the war against Iran is unjust and morally contempt..."](/statements/statement-1fa070e7f5a4.md)
   - Also about: [Iran](/entities/gpe-iran.md), [Middle East](/entities/gpe-middle-east.md), [United States](/entities/gpe-united-states.md)
 
-- [00:53:57](/episodes/ep-eLgD5yUVbko.md#t-00-53-40) (Claim) **Donald J. Trump** (via quoted post): ["Donald Trump claimed that Pope Leo XIV was chosen because he was Ameri..."](/statements/statement-4b315897c442.md)
+- [00:53:57](/episodes/ep-eLgD5yUVbko.md#t-00-53-40) (Claim) **Donald J. Trump** (via quoted post): ["Donald Trump claimed that Pope Leo XIV was "only put there by the Chur..."](/statements/statement-4b315897c442.md)
   - Also about: [Pope Leo XIV](/entities/person-pope-leo-xiv.md), [Catholic Church](/entities/org-catholic-church.md), [Holy See](/entities/org-holy-see.md)
 
 - [00:56:41](/episodes/ep-eLgD5yUVbko.md#t-00-56-25) (Opinion) **Candace Owens**: ["Candace Owens said Donald Trump is not a Christian and that the Cathol..."](/statements/statement-ecb6b851885c.md)
   - Also about: [Jesus Christ](/entities/person-jesus-christ.md), [Catholic Church](/entities/org-catholic-church.md), [Christianity](/entities/concept-christianity.md)
 
-- [00:57:23](/episodes/ep-eLgD5yUVbko.md#t-00-57-00) (Opinion) **Candace Owens**: ["Candace Owens said Catholics cannot support Donald Trump in this momen..."](/statements/statement-cd30c664e00a.md)
+- [00:57:23](/episodes/ep-eLgD5yUVbko.md#t-00-57-11) (Opinion) **Candace Owens**: ["Candace Owens said Catholics cannot support Donald Trump in this momen..."](/statements/statement-cd30c664e00a.md)
   - Also about: [Catholicism](/entities/concept-catholicism.md)
 
 - [00:59:47](/episodes/ep-eLgD5yUVbko.md#t-00-59-43) (Claim) **Candace Owens**: ["Candace Owens said Donald Trump had lost support from the Make America..."](/statements/statement-cdcdb0b37222.md)
-  - Also about: [Make America Healthy Again](/entities/concept-make-america-healthy-again.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Candace Owens](/entities/person-candace-owens.md)
+  - Also about: [Make America Healthy Again](/entities/concept-make-america-healthy-again.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Alex Jones](/entities/person-alex-jones.md)
 
 - [01:01:04](/episodes/ep-eLgD5yUVbko.md#t-01-00-59) (Claim) **Donald J. Trump** (via quoted speech): ["Donald Trump said he posted an AI image because he thought it depicted..."](/statements/statement-90beac51be54.md)
   - Also about: [American Red Cross](/entities/org-american-red-cross.md), [Jesus Christ](/entities/person-jesus-christ.md)
@@ -5506,7 +5840,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - [00:25:12](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-12) (Accusation) **Candace Owens**: ["Donald Trump promised no new wars in the Middle East but now pursues c..."](/statements/statement-8eb161990c66.md)
   - Also about: [Iran](/entities/gpe-iran.md), [Middle East](/entities/gpe-middle-east.md)
 
-- [00:25:55](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-55) (Claim) **Candace Owens**: ["Donald Trump sat at the side of the table in the White House Situation..."](/statements/statement-a96ed1eeec64.md)
+- [00:25:55](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-55) (Claim) **Megyn Kelly**: ["Donald Trump sat at the side of the table in the White House Situation..."](/statements/statement-a96ed1eeec64.md)
   - Also about: [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [White House](/entities/org-white-house.md)
 
 - [00:27:42](/episodes/ep-ZIH5-V6UPkg.md#t-00-27-42) (Opinion) **Tucker Carlson** (via quoted post): ["Israel may be using Clinton-style blackmail or something more morbid a..."](/statements/statement-59d621e55ff6.md)
@@ -5540,10 +5874,10 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - [00:45:03](/episodes/ep-q1NRQQAYS_Q.md#t-00-44-43) (Claim) **Donald J. Trump** (via quoted post): ["Pam Bondi would leave the attorney-general role for a private-sector j..."](/statements/statement-0223ff995031.md)
   - Also about: [Pam Bondi](/entities/person-pam-bondi.md), [Todd Blanche](/entities/person-todd-blanche.md)
 
-- [00:45:46](/episodes/ep-q1NRQQAYS_Q.md#t-00-45-32) (Accusation) **Candace Owens**: ["Pam Bondi acted on Donald Trump's instructions regarding the Epstein f..."](/statements/statement-2d7928bb1128.md)
+- [00:45:46](/episodes/ep-q1NRQQAYS_Q.md#t-00-45-19) (Accusation) **Candace Owens**: ["Pam Bondi acted on Donald Trump's instructions regarding the Epstein f..."](/statements/statement-2d7928bb1128.md)
   - Also about: [Pam Bondi](/entities/person-pam-bondi.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
 
-- [00:46:57](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-50) (Accusation) **Candace Owens**: ["Donald Trump fired Pam Bondi because he believed she tipped off Eric S..."](/statements/statement-3d9873b599c9.md)
+- [00:46:57](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-37) (Accusation) **Candace Owens**: ["Donald Trump fired Pam Bondi because he believed she tipped off Eric S..."](/statements/statement-3d9873b599c9.md)
   - Also about: [Pam Bondi](/entities/person-pam-bondi.md), [Eric Swalwell](/entities/person-eric-swalwell.md), [Christine Fang](/entities/person-christine-fang.md)
 
 </details>
@@ -5851,17 +6185,6 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 
 - [00:33:15](/episodes/ep-wcD2khO3rOA.md#t-00-32-37) (Claim) **Anonymous Source #1 (Ep wcD2khO3rOA)** (via paraphrase): ["Two years after leaving the home, the survivor unexpectedly received a..."](/statements/statement-d55f2798ca5d.md)
   - Also about: [Liberty Godparent Home](/entities/org-liberty-godparent-home.md)
-
-</details>
-
-<details>
-<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (2)</summary>
-
-- [00:27:34](/episodes/ep-HYn0P-P1wUw.md#t-00-26-55) (Claim) **Candace Owens**: ["Erika Kirk and Tyler Bowyer knew each other before the July 2015 Donal..."](/statements/statement-3b34fd943bbd.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
-
-- [00:29:18](/episodes/ep-HYn0P-P1wUw.md#t-00-28-51) (Claim) **Tyler Bowyer** (via quoted speech): ["Tyler Bowyer said Erika Kirk called him before Donald Trump's first Ar..."](/statements/statement-30810f35d750.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Rob Hild"
-description: "Rob Hild (People) - 9 mentions"
+description: "Rob Hild (People) - 15 mentions"
 id: "person-rob-hild"
 type: "PERSON"
 aliases:
@@ -25,7 +25,7 @@ Source: [Rob Hild | 2019 Brigham Young Cougars | MCLA](https://mcla.us/players/r
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-rob-hild-t-00-17-40">2025-10-01 · 00:17:58</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-person-rob-hild-t-00-30-18">2026-04-01 · 00:30:37</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -38,7 +38,7 @@ Source: [Rob Hild | 2019 Brigham Young Cougars | MCLA](https://mcla.us/players/r
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-person-rob-hild-t-00-17-40" style="--pulse-height:33%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 2 mentions" title="2025-10-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-rob-hild-t-00-24-03" style="--pulse-height:100%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 6 mentions" title="2025-10-02 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-rupRLXmSndU.md#ent-person-rob-hild-t-00-30-18" style="--pulse-height:17%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-person-rob-hild-t-00-30-18" style="--pulse-height:83%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 5 mentions" title="2026-04-01 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,7 +46,7 @@ Source: [Rob Hild | 2019 Brigham Young Cougars | MCLA](https://mcla.us/players/r
 |---|---|---:|
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-rob-hild-t-00-17-40) | 2 |
 | 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-rob-hild-t-00-24-03) | 6 |
-| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-rob-hild-t-00-30-18) | 1 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-rob-hild-t-00-30-18) | 5 |
 
 </details>
 </section>
@@ -54,13 +54,25 @@ Source: [Rob Hild | 2019 Brigham Young Cougars | MCLA](https://mcla.us/players/r
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
 
 <details>
-<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1 mentions)</summary>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (5 mentions)</summary>
 
 **[00:30:37](/episodes/ep-rupRLXmSndU.md#ent-person-rob-hild-t-00-30-18)**
 > "Robbie Hild"
+
+**[00:29:15](/episodes/ep-rupRLXmSndU.md#ent-person-rob-hild-t-00-28-49)**
+> "... these people we asked why is Robbie Hild and why are they posting like they have exclusive..."
+
+**[00:29:34](/episodes/ep-rupRLXmSndU.md#ent-person-rob-hild-t-00-29-34)**
+> "...t APB. I put out that APB for Robbie Hild because we couldn't find his name at the time. An..."
+
+**[00:29:49](/episodes/ep-rupRLXmSndU.md#ent-person-rob-hild-t-00-29-34)**
+> "...all in the information of how Robbie Hild was married into the Romney family. I know across..."
+
+**[00:30:28](/episodes/ep-rupRLXmSndU.md#ent-person-rob-hild-t-00-30-18)**
+> "...tain is, like I said, Robbie (Robbie Hild), he also went to BYU. And he played lacrosse. He..."
 
 </details>
 
@@ -109,7 +121,7 @@ Source: [Rob Hild | 2019 Brigham Young Cougars | MCLA](https://mcla.us/players/r
 - **[BYU](/entities/org-byu.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:30:28](/episodes/ep-rupRLXmSndU.md#t-00-30-18): “But what we know for certain is, like I said, Robbie, he also went to BYU. And he played lacrosse. He appears to have graduated around 2020.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:30:28](/episodes/ep-rupRLXmSndU.md#t-00-30-18): “But what we know for certain is, like I said, Robbie (Robbie Hild), he also went to BYU. And he played lacrosse. He appears to have graduated around 2020.”
 
 </details>
 
@@ -121,7 +133,7 @@ Source: [Rob Hild | 2019 Brigham Young Cougars | MCLA](https://mcla.us/players/r
 - **[BYU](/entities/org-byu.md)** attended by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:30:28](/episodes/ep-rupRLXmSndU.md#t-00-30-18): “But what we know for certain is, like I said, Robbie, he also went to BYU. And he played lacrosse. He appears to have graduated around 2020.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:30:28](/episodes/ep-rupRLXmSndU.md#t-00-30-18): “But what we know for certain is, like I said, Robbie (Robbie Hild), he also went to BYU. And he played lacrosse. He appears to have graduated around 2020.”
 
 </details>
 

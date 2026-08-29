@@ -1,6 +1,6 @@
 ---
 title: "Tyler Bowyer"
-description: "Tyler Bowyer (People) - 230 mentions"
+description: "Tyler Bowyer (People) - 226 mentions"
 id: "person-tyler-bowyer"
 type: "PERSON"
 aliases:
@@ -23,79 +23,81 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-tyler-bowyer-t-00-41-28">2025-09-29 · 00:41:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-person-tyler-bowyer-t-00-33-36">2026-07-22 · 00:33:45</a></strong></div>
-<div><span>Episodes</span><strong>60</strong></div>
-<div><span>Mentions</span><strong>230</strong></div>
-<div><span>Statements by</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-tyler-bowyer-t-00-11-42">2026-08-21 · 00:11:55</a></strong></div>
+<div><span>Episodes</span><strong>62</strong></div>
+<div><span>Mentions</span><strong>226</strong></div>
+<div><span>Statements by</span><strong>13</strong></div>
 <div><span>Statements about</span><strong>68</strong></div>
-<div><span>Relationships</span><strong>62</strong></div>
+<div><span>Relationships</span><strong>66</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-26-11">BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285</a> (18 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-26-34">BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285</a> (17 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-tyler-bowyer-t-00-41-28" style="--pulse-height:8%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 1 mentions" title="2025-09-29 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ozWJz2spBcI.md#ent-person-tyler-bowyer-t-00-00-00" style="--pulse-height:33%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 6 mentions" title="2025-10-06 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-5autG89PW6w.md#ent-person-tyler-bowyer-t-00-20-43" style="--pulse-height:11%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 2 mentions" title="2025-10-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-person-tyler-bowyer-t-00-00-00" style="--pulse-height:35%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 6 mentions" title="2025-10-06 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-person-tyler-bowyer-t-00-20-43" style="--pulse-height:12%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 2 mentions" title="2025-10-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-tyler-bowyer-t-01-07-18" style="--pulse-height:8%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-tyler-bowyer-t-00-20-54" style="--pulse-height:11%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 2 mentions" title="2025-10-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-c5BcKF91iec.md#ent-person-tyler-bowyer-t-00-03-48" style="--pulse-height:28%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 5 mentions" title="2025-10-27 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-tyler-bowyer-t-00-12-11" style="--pulse-height:17%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 3 mentions" title="2025-10-28 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-tyler-bowyer-t-00-32-37" style="--pulse-height:44%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 8 mentions" title="2025-10-31 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-tyler-bowyer-t-00-20-54" style="--pulse-height:12%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 2 mentions" title="2025-10-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-person-tyler-bowyer-t-00-03-48" style="--pulse-height:29%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 5 mentions" title="2025-10-27 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-tyler-bowyer-t-00-12-11" style="--pulse-height:18%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 3 mentions" title="2025-10-28 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-tyler-bowyer-t-00-32-37" style="--pulse-height:47%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 8 mentions" title="2025-10-31 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-tyler-bowyer-t-00-33-12" style="--pulse-height:8%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 1 mentions" title="2025-11-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-tyler-bowyer-t-00-14-13" style="--pulse-height:22%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 4 mentions" title="2025-11-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-tyler-bowyer-t-00-14-13" style="--pulse-height:24%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 4 mentions" title="2025-11-06 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-tyler-bowyer-t-00-16-41" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-tyler-bowyer-t-00-34-50" style="--pulse-height:11%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 2 mentions" title="2025-11-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-tyler-bowyer-t-00-34-50" style="--pulse-height:12%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 2 mentions" title="2025-11-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SKGUzGHymcI.md#ent-person-tyler-bowyer-t-00-29-52" style="--pulse-height:8%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-tyler-bowyer-t-00-13-20" style="--pulse-height:28%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 5 mentions" title="2025-12-02 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-his-JBjlkh8.md#ent-person-tyler-bowyer-t-00-09-17" style="--pulse-height:17%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 3 mentions" title="2025-12-03 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-DqGNvi36ol8.md#ent-person-tyler-bowyer-t-00-12-03" style="--pulse-height:11%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-tyler-bowyer-t-00-40-08" style="--pulse-height:11%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-tyler-bowyer-t-00-13-20" style="--pulse-height:29%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 5 mentions" title="2025-12-02 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-person-tyler-bowyer-t-00-09-17" style="--pulse-height:18%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 3 mentions" title="2025-12-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-person-tyler-bowyer-t-00-12-03" style="--pulse-height:12%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-tyler-bowyer-t-00-40-08" style="--pulse-height:12%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-es7PWdFGoFI.md#t-00-02-04" style="--pulse-height:8%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 1 mentions" title="2025-12-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-tyler-bowyer-t-00-19-05" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-26-11" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 18 mentions" title="2026-01-06 · 18 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-tyler-bowyer-t-00-01-29" style="--pulse-height:39%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 7 mentions" title="2026-01-07 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-tyler-bowyer-t-00-06-24" style="--pulse-height:28%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 5 mentions" title="2026-01-09 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-26-34" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 17 mentions" title="2026-01-06 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-tyler-bowyer-t-00-06-24" style="--pulse-height:29%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 5 mentions" title="2026-01-09 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-tyler-bowyer-t-00-17-27" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-tyler-bowyer-t-00-03-31" style="--pulse-height:22%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-tyler-bowyer-t-00-12-50" style="--pulse-height:11%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 2 mentions" title="2026-01-21 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-tyler-bowyer-t-00-21-29" style="--pulse-height:11%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-person-tyler-bowyer-t-00-03-31" style="--pulse-height:24%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-tyler-bowyer-t-00-12-50" style="--pulse-height:12%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 2 mentions" title="2026-01-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-tyler-bowyer-t-00-21-29" style="--pulse-height:12%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-tyler-bowyer-t-00-22-38" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-tyler-bowyer-t-00-01-56" style="--pulse-height:11%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 2 mentions" title="2026-02-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-4YgrOhhy708.md#ent-person-tyler-bowyer-t-00-17-21" style="--pulse-height:11%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-tyler-bowyer-t-00-28-37" style="--pulse-height:11%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-tyler-bowyer-t-00-01-56" style="--pulse-height:12%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 2 mentions" title="2026-02-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-person-tyler-bowyer-t-00-17-21" style="--pulse-height:12%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-tyler-bowyer-t-00-28-37" style="--pulse-height:12%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-tyler-bowyer-t-00-18-13" style="--pulse-height:8%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1IY2oD-_xVA.md#ent-person-tyler-bowyer-t-00-24-43" style="--pulse-height:61%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 11 mentions" title="2026-02-27 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-cZxHqYsWRYg.md#ent-person-tyler-bowyer-t-00-00-42" style="--pulse-height:50%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 9 mentions" title="2026-02-28 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-2tFYJf1klgY.md#ent-person-tyler-bowyer-t-00-00-01" style="--pulse-height:89%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 16 mentions" title="2026-03-03 · 16 mentions"><span></span></a>
-<a href="/episodes/ep-y8lak3CRwDw.md#ent-person-tyler-bowyer-t-00-00-41" style="--pulse-height:67%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 12 mentions" title="2026-03-04 · 12 mentions"><span></span></a>
-<a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-tyler-bowyer-t-00-15-53" style="--pulse-height:61%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 11 mentions" title="2026-03-06 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-tyler-bowyer-t-00-19-44" style="--pulse-height:17%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 3 mentions" title="2026-03-09 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-tyler-bowyer-t-00-18-32" style="--pulse-height:11%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 2 mentions" title="2026-03-10 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-tyler-bowyer-t-00-22-38" style="--pulse-height:67%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 12 mentions" title="2026-03-11 · 12 mentions"><span></span></a>
-<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-tyler-bowyer-t-00-13-16" style="--pulse-height:17%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 3 mentions" title="2026-03-12 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-tyler-bowyer-t-00-07-31" style="--pulse-height:33%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 6 mentions" title="2026-03-18 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-person-tyler-bowyer-t-00-24-43" style="--pulse-height:65%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 11 mentions" title="2026-02-27 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-person-tyler-bowyer-t-00-00-42" style="--pulse-height:53%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 9 mentions" title="2026-02-28 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-person-tyler-bowyer-t-00-00-01" style="--pulse-height:94%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 16 mentions" title="2026-03-03 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-person-tyler-bowyer-t-00-00-41" style="--pulse-height:71%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 12 mentions" title="2026-03-04 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-tyler-bowyer-t-00-15-53" style="--pulse-height:65%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 11 mentions" title="2026-03-06 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-tyler-bowyer-t-00-19-44" style="--pulse-height:18%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 3 mentions" title="2026-03-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-tyler-bowyer-t-00-18-32" style="--pulse-height:12%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 2 mentions" title="2026-03-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-tyler-bowyer-t-00-22-38" style="--pulse-height:71%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 12 mentions" title="2026-03-11 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-tyler-bowyer-t-00-13-16" style="--pulse-height:18%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 3 mentions" title="2026-03-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-tyler-bowyer-t-00-07-31" style="--pulse-height:35%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 6 mentions" title="2026-03-18 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#t-00-23-50" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-tyler-bowyer-t-00-38-24" style="--pulse-height:17%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 3 mentions" title="2026-03-24 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tyler-bowyer-t-00-15-32" style="--pulse-height:11%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-tyler-bowyer-t-00-15-28" style="--pulse-height:11%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-tyler-bowyer-t-00-38-24" style="--pulse-height:18%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 3 mentions" title="2026-03-24 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-tyler-bowyer-t-00-15-32" style="--pulse-height:12%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-tyler-bowyer-t-00-15-28" style="--pulse-height:12%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-tyler-bowyer-t-00-07-33" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-tyler-bowyer-t-00-02-21" style="--pulse-height:11%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-tyler-bowyer-t-00-02-21" style="--pulse-height:12%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-tyler-bowyer-t-00-49-36" style="--pulse-height:8%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-tyler-bowyer-t-00-17-01" style="--pulse-height:8%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-tyler-bowyer-t-00-56-00" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-person-tyler-bowyer-t-01-04-20" style="--pulse-height:8%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-tyler-bowyer-t-00-14-14" style="--pulse-height:44%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 8 mentions" title="2026-06-17 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-tyler-bowyer-t-00-46-02" style="--pulse-height:11%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-tyler-bowyer-t-00-06-56" style="--pulse-height:11%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-tyler-bowyer-t-00-14-14" style="--pulse-height:47%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 8 mentions" title="2026-06-17 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-tyler-bowyer-t-00-46-02" style="--pulse-height:12%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-tyler-bowyer-t-00-06-56" style="--pulse-height:12%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-person-tyler-bowyer-t-00-15-37" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-tyler-bowyer-t-00-19-15" style="--pulse-height:33%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 6 mentions" title="2026-07-14 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-puuMVxEu5NU.md#ent-person-tyler-bowyer-t-00-07-06" style="--pulse-height:11%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-tyler-bowyer-t-00-19-15" style="--pulse-height:35%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 6 mentions" title="2026-07-14 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-person-tyler-bowyer-t-00-07-06" style="--pulse-height:12%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-tyler-bowyer-t-00-49-21" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-N4uM8Jdr410.md#ent-person-tyler-bowyer-t-00-49-35" style="--pulse-height:11%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ds6umq1rHAw.md#ent-person-tyler-bowyer-t-00-23-47" style="--pulse-height:44%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 8 mentions" title="2026-07-22 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-person-tyler-bowyer-t-00-49-35" style="--pulse-height:12%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-person-tyler-bowyer-t-00-23-47" style="--pulse-height:47%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 8 mentions" title="2026-07-22 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-person-tyler-bowyer-t-00-34-01" style="--pulse-height:8%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-person-tyler-bowyer-t-00-16-53" style="--pulse-height:8%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-person-tyler-bowyer-t-00-08-51" style="--pulse-height:12%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -120,8 +122,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-person-tyler-bowyer-t-00-40-08) | 2 |
 | 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#t-00-02-04) | 1 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-tyler-bowyer-t-00-19-05) | 1 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-26-11) | 18 |
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-tyler-bowyer-t-00-01-29) | 7 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-26-34) | 17 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-tyler-bowyer-t-00-06-24) | 5 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-tyler-bowyer-t-00-17-27) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-tyler-bowyer-t-00-03-31) | 4 |
@@ -161,6 +162,9 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-tyler-bowyer-t-00-49-21) | 1 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-tyler-bowyer-t-00-49-35) | 2 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-tyler-bowyer-t-00-23-47) | 8 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-person-tyler-bowyer-t-00-34-01) | 1 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-person-tyler-bowyer-t-00-16-53) | 1 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-tyler-bowyer-t-00-08-51) | 2 |
 
 </details>
 </section>
@@ -168,7 +172,34 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (230)</strong></summary>
+<summary><strong class="section-title">Raw mentions (226)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>
+
+**[00:09:23](/episodes/ep-_cNtgris8Ik.md#ent-person-tyler-bowyer-t-00-08-51)**
+> "... want to remind you guys that Tyler Bowyer a while ago claimed on X that it was police that ..."
+
+**[00:11:55](/episodes/ep-_cNtgris8Ik.md#ent-person-tyler-bowyer-t-00-11-42)**
+> "...re is that has only come from Tyler Bowyer, and I explicitly asked him that. I said, why did..."
+
+</details>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
+
+**[00:16:53](/episodes/ep-HGtMfbePDKk.md#ent-person-tyler-bowyer-t-00-16-53)**
+> "...on. I have text messages with Tyler Boyer. I have text messages with Charlie and me and Cha..."
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>
+
+**[00:34:07](/episodes/ep-1CFDtD0IgEg.md#ent-person-tyler-bowyer-t-00-34-01)**
+> "... Internet sleuths got him and Tyler Bowyer and here's the ash asher adams hotel there it is ..."
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (8 mentions)</summary>
@@ -828,56 +859,30 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (7 mentions)</summary>
+<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (17 mentions)</summary>
 
-**[00:01:38](/episodes/ep-zSKrxIUMNqw.md#ent-person-tyler-bowyer-t-00-01-29)**
-> "...f course, he too was hired by Tyler Bowyer. As I have been telling you guys from the very be..."
-
-**[00:01:43](/episodes/ep-zSKrxIUMNqw.md#ent-person-tyler-bowyer-t-00-01-29)**
-> "Tyler Bowyer is the linchpin. He is the person who has been ru..."
-
-**[00:47:49](/episodes/ep-zSKrxIUMNqw.md#ent-person-tyler-bowyer-t-00-47-30)**
-> "...acking into this narrative of Tyler Bowyer yesterday."
-
-**[00:48:01](/episodes/ep-zSKrxIUMNqw.md#ent-person-tyler-bowyer-t-00-47-30)**
-> "Tyler (Tyler Bowyer)'s the guy."
-
-**[00:48:18](/episodes/ep-zSKrxIUMNqw.md#ent-person-tyler-bowyer-t-00-48-11)**
-> "...g you at the same time Tyler (Tyler Bowyer)'s got his hand in Arizona politics."
-
-**[00:48:37](/episodes/ep-zSKrxIUMNqw.md#ent-person-tyler-bowyer-t-00-48-11)**
-> "...hat he was offered a job from Tyler Bowyer."
-
-**[00:50:03](/episodes/ep-zSKrxIUMNqw.md#ent-person-tyler-bowyer-t-00-49-33)**
-> "Tyler Bowyer needs to be looked at and investigated further."
-
-</details>
-
-<details>
-<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (18 mentions)</summary>
-
-**[00:26:34](/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-26-11)**
+**[00:26:34](/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-26-34)**
 > "I think Tyler Bowyer, it is a logical conclusion that he is at best a ..."
 
-**[00:26:48](/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-26-11)**
+**[00:26:48](/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-26-34)**
 > "... because I was hyper-fixed on Tyler Bowyer, I decided to ask Erika (Erika Kirk) in person du..."
 
-**[00:27:04](/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-26-55)**
+**[00:27:04](/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-26-34)**
 > "...about the story of how Tyler (Tyler Bowyer) met Charlie Kirk,"
 
-**[00:27:21](/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-26-55)**
+**[00:27:21](/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-27-17)**
 > "...vide a lot of insights to who Tyler Bowyer was."
 
-**[00:27:36](/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-27-36)**
+**[00:27:36](/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-27-17)**
 > "...rika (Erika Kirk) knew Tyler (Tyler Bowyer) for years before her and Charlie (Charlie Kirk) ..."
 
-**[00:27:42](/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-27-36)**
+**[00:27:42](/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-27-17)**
 > "Both she and Tyler (Tyler Bowyer) have been honest about that fact."
 
-**[00:28:21](/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-28-21)**
+**[00:28:21](/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-27-53)**
 > "...s not possible because Tyler (Tyler Bowyer) discussed knowing you already at the, if we're c..."
 
-**[00:28:35](/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-28-21)**
+**[00:28:35](/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-28-35)**
 > "Tyler (Tyler Bowyer) got on stage and he told the audience that Erika..."
 
 **[00:29:56](/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-29-32)**
@@ -898,16 +903,13 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 **[00:30:51](/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-30-15)**
 > "Tyler Bowyer introduces himself as the youngest chairman of th..."
 
-**[00:31:10](/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-30-58)**
+**[00:31:10](/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-30-56)**
 > "Tyler (Tyler Bowyer) has been driving this bus and like I said hiring..."
 
-**[00:32:20](/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-31-41)**
+**[00:32:20](/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-32-20)**
 > "...are extremely close to Tyler (Tyler Bowyer)."
 
-**[00:32:22](/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-31-41)**
-> "... sued in the past with Tyler (Tyler Bowyer)."
-
-**[00:33:55](/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-33-47)**
+**[00:33:55](/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-33-38)**
 > "obviously, given how close Tyler Bowyer is to these men,"
 
 </details>
@@ -1188,23 +1190,15 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details>
-<summary>Accused By (2)</summary>
+<summary>Accused By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
-- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:50:03](/episodes/ep-zSKrxIUMNqw.md#t-00-49-33): “Tyler Bowyer needs to be looked at and investigated further.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:12:57](/episodes/ep-GY6GWceEqtQ.md#t-00-12-50): “I specifically said Tyler Bowyer was a sexual deviant. I stand by that.”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:59:51](/episodes/ep-DdPjoy5W-wY.md#t-00-59-43): “Tyler (Tyler Bowyer), pardon, is working with the deep state”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:25:42](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-12): “Do not let Tyler (Tyler Bowyer) gaslight you in conversations. It's odd. This should be screaming at you as it is screaming at me that something's not right.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:27:18](/episodes/ep-ds6umq1rHAw.md#t-00-27-18): “the money was missing out of turning point action ... That is Tyler's (Tyler Bowyer's) arm.”
-
-</details>
-
-- **[Anonymous Source #4 (Ep zSKrxIUMNqw)](/entities/anon-src-zSKrxIUMNqw-004.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:26](/episodes/ep-zSKrxIUMNqw.md#t-00-48-11): “And one person told me on record. that he would also offer bribes to people,”
 
 </details>
 
@@ -1241,9 +1235,10 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <summary>Appeared With (1)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:07:31](/episodes/ep-_vg7ucP1E0g.md#t-00-06-53): “I'm just wondering how is she affording to live, okay? She's still dating. J.T. Massey. During this time, we also have that on July 11th, Lori Frantzve and Tyler Bowyer and Erika (Erika Kirk) are going to be behind Donald Trump for his presidential campaign rally.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:29:07](/episodes/ep-HYn0P-P1wUw.md#t-00-28-51): “It was a hard sell at first, and that was until I hosted the first Trump (Donald Trump) rally in Trump (Donald Trump) rally history right here in Arizona in 2015.”
 
 </details>
 
@@ -1263,6 +1258,18 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:26:58](/episodes/ep-DdPjoy5W-wY.md#t-00-26-58): “Arizona State University student Tyler (Tyler Bowyer) was appointed as the newest student regent on the Arizona Board of Regents by Governor Jan Brewer”
+
+</details>
+
+</details>
+
+<details>
+<summary>Attended (1)</summary>
+
+- **[Gilbert High School](/entities/org-gilbert-high-school.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:30:28](/episodes/ep-HYn0P-P1wUw.md#t-00-30-15): “And then Tyler Bowyer and Terryl Farnsworth went to high school together. They graduated, it looks like two years apart, from Gilbert High School.”
 
 </details>
 
@@ -1296,7 +1303,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details>
-<summary>Close Associate Of (1)</summary>
+<summary>Close Associate Of (3)</summary>
 
 - **[Terryl Farnsworth](/entities/person-terryl-farnsworth.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -1306,16 +1313,29 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 
 </details>
 
+- **[Eddie Farnsworth](/entities/person-eddie-farnsworth.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:31:55](/episodes/ep-HYn0P-P1wUw.md#t-00-31-34): “And also his brother, Eddie (Eddie Farnsworth)'s brother is David Farnsworth. So just to reiterate that you have David, Senator David Farnsworth. He's still in office. You have Eddie Farnsworth, who was the chairman of the state house judiciary. And those two men are brothers and first cousins with Dwayne Farnsworth, who is Terryl (Terryl Farnsworth)'s father. And they are extremely close to Tyler (Tyler Bowyer).”
+
+</details>
+
+- **[David Farnsworth](/entities/person-david-farnsworth.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:31:55](/episodes/ep-HYn0P-P1wUw.md#t-00-31-34): “And also his brother, Eddie (Eddie Farnsworth)'s brother is David Farnsworth. So just to reiterate that you have David, Senator David Farnsworth. He's still in office. You have Eddie Farnsworth, who was the chairman of the state house judiciary. And those two men are brothers and first cousins with Dwayne Farnsworth, who is Terryl (Terryl Farnsworth)'s father. And they are extremely close to Tyler (Tyler Bowyer).”
+
+</details>
+
 </details>
 
 <details>
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:34](/episodes/ep-HYn0P-P1wUw.md#t-00-26-11): “I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character. I'm going to stand by that.”
-- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:01](/episodes/ep-zSKrxIUMNqw.md#t-00-47-30): “Tyler (Tyler Bowyer)'s the guy. He's a bad dude.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:34](/episodes/ep-HYn0P-P1wUw.md#t-00-25-56): “I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character. I'm going to stand by that.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:12:57](/episodes/ep-GY6GWceEqtQ.md#t-00-12-50): “I specifically said Tyler Bowyer was a sexual deviant. I stand by that.”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:44:52](/episodes/ep-1IY2oD-_xVA.md#t-00-44-37): “He set that up, right? Not a good guy, Tyler Bowyer. And there was a rumor, which I will tell you what Turning Point's response was, but I had, it was stronger than a rumor.”
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:21:56](/episodes/ep-cZxHqYsWRYg.md#t-00-21-44): “And Tyler Bowyer, probably the same. I know that he recently required a literal federal pardon from the president of the United States for fraud. He was credibly accused of nine felonies related to trying to subvert the election, including fraud, forgery, and conspiracy.”
@@ -1434,6 +1454,13 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details>
+<summary>Hosted Speaker (1)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+
+</details>
+
+<details>
 <summary>Interviewed By (1)</summary>
 
 - **[The Charlie Kirk Show](/entities/work-the-charlie-kirk-show.md)**
@@ -1464,7 +1491,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:35](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): “...actually Donald Trump pardoned him. He pardoned Tyler Boyer a couple of weeks ago.”
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:25:52](/episodes/ep-HYn0P-P1wUw.md#t-00-25-35): “he's also been indicted for crimes by the state of Arizona. federal crimes for which he was recently pardoned by President Donald Trump.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:25:45](/episodes/ep-HYn0P-P1wUw.md#t-00-25-20): “Now, I'm going to add here that another person who I do not trust at all, for many reasons, because one of them being he's a sexual deviant, he's also been indicted for crimes by the state of Arizona. federal crimes for which he was recently pardoned by President Donald Trump. I think it's fair to assume that a person who commits crimes in the past might commit crimes in the future or I guess allegedly committed crimes. I think those court cases are still moving through. I think that's a perfectly logical assumption that a person who's involved in doing the wrong thing might keep it up. A person that seems motivated by money. A person who factually was in debt and was having his payments garnished at Turning Point USA, who then blinks and becomes a millionaire working for a charity might be a little bit shady. I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character.”
 
 </details>
 
@@ -1476,7 +1503,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:28:51](/episodes/ep-HYn0P-P1wUw.md#t-00-28-21): “At his wedding, I told the story of talking Charlie (Charlie Kirk) into moving to Arizona. He was an adamant Chicago boy. I needed to break that. Selfishly, I wanted him to love Arizona because I had recently convinced him to move Turning Point USA to Arizona.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:28:35](/episodes/ep-HYn0P-P1wUw.md#t-00-28-35): “Tyler (Tyler Bowyer) got on stage and he told the audience that Erika (Erika Kirk) had called him asking how she could get involved and that he then made a decision to put her behind Donald Trump. Here is Tyler (Tyler Bowyer) making that statement in his own words at Charlie Kirk's memorial. ... At his wedding, I told the story of talking Charlie (Charlie Kirk) into moving to Arizona. He was an adamant Chicago boy. I needed to break that. Selfishly, I wanted him to love Arizona because I had recently convinced him to move Turning Point USA to Arizona.”
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:29:01](/episodes/ep-ti5Fxrvegno.md#t-00-28-47): “After that we talked. It was obvious she was the perfect person for the job that Charlie (Charlie Kirk) and I had devised in one of our 24-hour planning sessions.”
 
 </details>
@@ -1491,10 +1518,10 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details>
-<summary>Works For (3)</summary>
+<summary>Works For (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
 
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:33:00](/episodes/ep-pc3pxRyNFZk.md#t-00-32-53): “This lawyer was introduced to me by Tyler Boyer at Turning Point USA.”
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:25:04](/episodes/ep-a-e7HC6SeK8.md#t-00-24-50): “taking over for Tyler Boyer, who was the COO”
@@ -1503,21 +1530,13 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:33:28](/episodes/ep-YFmRH8p5lt0.md#t-00-33-17): “Tyler Bowyer is the king of shady at Turning Point USA. He is the one—like I said—that has—he has hired every person around Charlie (Charlie Kirk).”
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:33:04](/episodes/ep-pc3pxRyNFZk.md#t-00-32-53): “This lawyer was introduced to me by Tyler Bowyer at Turning Point USA.”
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:41:28](/episodes/ep-ZGxnf5cj4Uw.md#t-00-41-28): “Tyler Bowyer of Turning Point USA”
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:23](/episodes/ep-HYn0P-P1wUw.md#t-00-26-11): “A person who factually was in debt and was having his payments garnished at Turning Point USA, who then blinks and becomes a millionaire working for a charity might be a little bit shady. I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character.”
-- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:01:43](/episodes/ep-zSKrxIUMNqw.md#t-00-01-29): “Tyler Bowyer is the linchpin. He is the person who has been running Turning Point USA.”
-
-</details>
-
-- **[TP Action](/entities/org-tp-action.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:00:27](/episodes/ep-ozWJz2spBcI.md#t-00-00-00): “Frankly, what happened over the weekend is that their TP Action COO, Tyler Bowyer, went on a little bit of an X binge.”
 
 </details>
 
 - **[Turning Point Action](/entities/org-turning-point-action.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
+- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:00:27](/episodes/ep-ozWJz2spBcI.md#t-00-00-00): “Frankly, what happened over the weekend is that their TP Action COO, Tyler Bowyer, went on a little bit of an X binge.”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:45:57](/episodes/ep-1IY2oD-_xVA.md#t-00-45-57): “And they specifically said that the money was missing out of Turning Point Action, which is headed up by Tyler Bowyer.”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:16:51](/episodes/ep-DdPjoy5W-wY.md#t-00-16-51): “At Turning Point Action, we have a ton of jobs posting”
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:17:01](/episodes/ep-7FS1tUeSfdE.md#t-00-16-26): “Now, it's worth noting, I'll say allegedly, but it's worth noting that Turning Point Action is headed up by Tyler Bowyer, and we have already explained to you that they have built that super feed back door, which pays Lori Frantzve.”
@@ -1527,12 +1546,11 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details>
-<summary>Referenced By (30)</summary>
+<summary>Referenced By (32)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
-- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:50:03](/episodes/ep-zSKrxIUMNqw.md#t-00-49-33): “Tyler Bowyer needs to be looked at and investigated further.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:12:57](/episodes/ep-GY6GWceEqtQ.md#t-00-12-50): “I specifically said Tyler Bowyer was a sexual deviant. I stand by that.”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:59:51](/episodes/ep-DdPjoy5W-wY.md#t-00-59-43): “Tyler (Tyler Bowyer), pardon, is working with the deep state”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:25:42](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-12): “Do not let Tyler (Tyler Bowyer) gaslight you in conversations. It's odd. This should be screaming at you as it is screaming at me that something's not right.”
@@ -1540,17 +1558,11 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 
 </details>
 
-- **[Anonymous Source #4 (Ep zSKrxIUMNqw)](/entities/anon-src-zSKrxIUMNqw-004.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:26](/episodes/ep-zSKrxIUMNqw.md#t-00-48-11): “And one person told me on record. that he would also offer bribes to people,”
-
-</details>
-
 - **[Donald J. Trump](/entities/person-donald-trump.md)** appeared with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:07:31](/episodes/ep-_vg7ucP1E0g.md#t-00-06-53): “I'm just wondering how is she affording to live, okay? She's still dating. J.T. Massey. During this time, we also have that on July 11th, Lori Frantzve and Tyler Bowyer and Erika (Erika Kirk) are going to be behind Donald Trump for his presidential campaign rally.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:29:07](/episodes/ep-HYn0P-P1wUw.md#t-00-28-51): “It was a hard sell at first, and that was until I hosted the first Trump (Donald Trump) rally in Trump (Donald Trump) rally history right here in Arizona in 2015.”
 
 </details>
 
@@ -1568,6 +1580,13 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 
 </details>
 
+- **[Gilbert High School](/entities/org-gilbert-high-school.md)** attended by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:30:28](/episodes/ep-HYn0P-P1wUw.md#t-00-30-15): “And then Tyler Bowyer and Terryl Farnsworth went to high school together. They graduated, it looks like two years apart, from Gilbert High School.”
+
+</details>
+
 - **[Terryl Farnsworth](/entities/person-terryl-farnsworth.md)** close associate of this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
@@ -1576,11 +1595,24 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 
 </details>
 
-- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+- **[Eddie Farnsworth](/entities/person-eddie-farnsworth.md)** close associate of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:34](/episodes/ep-HYn0P-P1wUw.md#t-00-26-11): “I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character. I'm going to stand by that.”
-- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:48:01](/episodes/ep-zSKrxIUMNqw.md#t-00-47-30): “Tyler (Tyler Bowyer)'s the guy. He's a bad dude.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:31:55](/episodes/ep-HYn0P-P1wUw.md#t-00-31-34): “And also his brother, Eddie (Eddie Farnsworth)'s brother is David Farnsworth. So just to reiterate that you have David, Senator David Farnsworth. He's still in office. You have Eddie Farnsworth, who was the chairman of the state house judiciary. And those two men are brothers and first cousins with Dwayne Farnsworth, who is Terryl (Terryl Farnsworth)'s father. And they are extremely close to Tyler (Tyler Bowyer).”
+
+</details>
+
+- **[David Farnsworth](/entities/person-david-farnsworth.md)** close associate of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:31:55](/episodes/ep-HYn0P-P1wUw.md#t-00-31-34): “And also his brother, Eddie (Eddie Farnsworth)'s brother is David Farnsworth. So just to reiterate that you have David, Senator David Farnsworth. He's still in office. You have Eddie Farnsworth, who was the chairman of the state house judiciary. And those two men are brothers and first cousins with Dwayne Farnsworth, who is Terryl (Terryl Farnsworth)'s father. And they are extremely close to Tyler (Tyler Bowyer).”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:34](/episodes/ep-HYn0P-P1wUw.md#t-00-25-56): “I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character. I'm going to stand by that.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:12:57](/episodes/ep-GY6GWceEqtQ.md#t-00-12-50): “I specifically said Tyler Bowyer was a sexual deviant. I stand by that.”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:44:52](/episodes/ep-1IY2oD-_xVA.md#t-00-44-37): “He set that up, right? Not a good guy, Tyler Bowyer. And there was a rumor, which I will tell you what Turning Point's response was, but I had, it was stronger than a rumor.”
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:21:56](/episodes/ep-cZxHqYsWRYg.md#t-00-21-44): “And Tyler Bowyer, probably the same. I know that he recently required a literal federal pardon from the president of the United States for fraud. He was credibly accused of nine felonies related to trying to subvert the election, including fraud, forgery, and conspiracy.”
@@ -1598,28 +1630,20 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251 @ 00:33:00](/episodes/ep-pc3pxRyNFZk.md#t-00-32-53): “This lawyer was introduced to me by Tyler Boyer at Turning Point USA.”
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:25:04](/episodes/ep-a-e7HC6SeK8.md#t-00-24-50): “taking over for Tyler Boyer, who was the COO”
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:33:07](/episodes/ep-YFmRH8p5lt0.md#t-00-32-37): “Tyler Bowyer is the king of shady at Turning Point USA.”
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:24:56](/episodes/ep-a-e7HC6SeK8.md#t-00-24-50): “[00:24:56] And he announces that Justin Strife is going to be the new COO, taking over for Tyler Boyer, who was the COO.”
 - [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 @ 00:33:28](/episodes/ep-YFmRH8p5lt0.md#t-00-33-17): “Tyler Bowyer is the king of shady at Turning Point USA. He is the one—like I said—that has—he has hired every person around Charlie (Charlie Kirk).”
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:26:23](/episodes/ep-HYn0P-P1wUw.md#t-00-26-11): “A person who factually was in debt and was having his payments garnished at Turning Point USA, who then blinks and becomes a millionaire working for a charity might be a little bit shady. I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character.”
-- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:01:43](/episodes/ep-zSKrxIUMNqw.md#t-00-01-29): “Tyler Bowyer is the linchpin. He is the person who has been running Turning Point USA.”
-
-</details>
-
-- **[TP Action](/entities/org-tp-action.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:00:27](/episodes/ep-ozWJz2spBcI.md#t-00-00-00): “Frankly, what happened over the weekend is that their TP Action COO, Tyler Bowyer, went on a little bit of an X binge.”
 
 </details>
 
 - **[Turning Point Action](/entities/org-turning-point-action.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
+- [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:00:27](/episodes/ep-ozWJz2spBcI.md#t-00-00-00): “Frankly, what happened over the weekend is that their TP Action COO, Tyler Bowyer, went on a little bit of an X binge.”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:45:57](/episodes/ep-1IY2oD-_xVA.md#t-00-45-57): “And they specifically said that the money was missing out of Turning Point Action, which is headed up by Tyler Bowyer.”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:16:51](/episodes/ep-DdPjoy5W-wY.md#t-00-16-51): “At Turning Point Action, we have a ton of jobs posting”
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:17:01](/episodes/ep-7FS1tUeSfdE.md#t-00-16-26): “Now, it's worth noting, I'll say allegedly, but it's worth noting that Turning Point Action is headed up by Tyler Bowyer, and we have already explained to you that they have built that super feed back door, which pays Lori Frantzve.”
@@ -1746,14 +1770,16 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:13:35](/episodes/ep-a-e7HC6SeK8.md#t-00-13-20): “...actually Donald Trump pardoned him. He pardoned Tyler Boyer a couple of weeks ago.”
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:25:52](/episodes/ep-HYn0P-P1wUw.md#t-00-25-35): “he's also been indicted for crimes by the state of Arizona. federal crimes for which he was recently pardoned by President Donald Trump.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:25:45](/episodes/ep-HYn0P-P1wUw.md#t-00-25-20): “Now, I'm going to add here that another person who I do not trust at all, for many reasons, because one of them being he's a sexual deviant, he's also been indicted for crimes by the state of Arizona. federal crimes for which he was recently pardoned by President Donald Trump. I think it's fair to assume that a person who commits crimes in the past might commit crimes in the future or I guess allegedly committed crimes. I think those court cases are still moving through. I think that's a perfectly logical assumption that a person who's involved in doing the wrong thing might keep it up. A person that seems motivated by money. A person who factually was in debt and was having his payments garnished at Turning Point USA, who then blinks and becomes a millionaire working for a charity might be a little bit shady. I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character.”
 
 </details>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)** spoke at this
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** worked with this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:29:18](/episodes/ep-HYn0P-P1wUw.md#t-00-28-51): “I got a call. I got a call from Miss Erika Kirk. Miss Arizona 2012. I just want to help, she said. So naturally I put her right behind the president at that first rally.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:28:35](/episodes/ep-HYn0P-P1wUw.md#t-00-28-35): “Tyler (Tyler Bowyer) got on stage and he told the audience that Erika (Erika Kirk) had called him asking how she could get involved and that he then made a decision to put her behind Donald Trump. Here is Tyler (Tyler Bowyer) making that statement in his own words at Charlie Kirk's memorial.”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:44:16](/episodes/ep-1IY2oD-_xVA.md#t-00-43-54): “the most important relationship that Erika (Erika Kirk) had at Turning Point USA is Tyler Bowyer.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:25:17](/episodes/ep-ds6umq1rHAw.md#t-00-25-17): “And yes, he brought in Erica (Erika Kirk); of that there is no doubt. They have both admitted that”
 
@@ -1780,7 +1806,15 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Tyler Bowyer (12)</strong></summary>
+<summary><strong class="section-title">Statements by Tyler Bowyer (13)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
+
+- [00:09:35](/episodes/ep-_cNtgris8Ik.md#t-00-09-35) [✓] (Claim) ["Bowyer wrote that Farnsworth did not tamper with anything and that law-enforceme..."](/statements/statement-0c372f6f3797.md)
+  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+
+</details>
 
 <details>
 <summary>EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 (2)</summary>
@@ -1846,7 +1880,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1)</summary>
 
 - [00:29:18](/episodes/ep-HYn0P-P1wUw.md#t-00-28-51) [✓] (Claim) ["Tyler Bowyer said Erika Kirk called him before Donald Trump's first Arizona rall..."](/statements/statement-30810f35d750.md)
-  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
 </details>
 
@@ -1864,7 +1898,18 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <summary><strong class="section-title">Statements about Tyler Bowyer (68)</strong></summary>
 
 <details>
-<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (2)</summary>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
+
+- [00:10:02](/episodes/ep-_cNtgris8Ik.md#t-00-09-35) (Claim) **Candace Owens**: ["Owens said Farnsworth never claimed that police told him to secure the..."](/statements/statement-f762eaf4ffee.md)
+  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+
+</details>
+
+<details>
+<summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (3)</summary>
+
+- [00:23:47](/episodes/ep-ds6umq1rHAw.md#t-00-23-47) (Accusation) **Candace Owens**: ["Tyler Bowyer has been running Turning Point USA and staffed nearly eve..."](/statements/statement-00fcdc461d29.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:26:17](/episodes/ep-ds6umq1rHAw.md#t-00-25-58) (Claim) **Candace Owens** (via paraphrase): ["Owens said Tyler Bowyer told her Turning Point USA would never stop be..."](/statements/statement-a040ffec0321.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Israel](/entities/gpe-israel.md), [America Fest](/entities/event-america-fest.md)
@@ -2109,35 +2154,24 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 <details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (2)</summary>
-
-- [00:01:43](/episodes/ep-zSKrxIUMNqw.md#t-00-01-29) (Accusation) **Candace Owens**: ["Tyler Bowyer has been running Turning Point USA and staffed nearly eve..."](/statements/statement-00fcdc461d29.md)
-  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:48:26](/episodes/ep-zSKrxIUMNqw.md#t-00-48-11) (Accusation) **Anonymous Source #4 (Ep zSKrxIUMNqw)** (via paraphrase): ["An on-record source said Tyler Bowyer offered people Turning Point USA..."](/statements/statement-1e05124d82b4.md)
-  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
-
-</details>
-
-<details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (6)</summary>
 
-- [00:26:23](/episodes/ep-HYn0P-P1wUw.md#t-00-26-11) (Accusation) **Candace Owens**: ["Tyler Bowyer had debt payments garnished at Turning Point USA and late..."](/statements/statement-3042ff9d3fec.md)
+- [00:26:23](/episodes/ep-HYn0P-P1wUw.md#t-00-25-56) (Accusation) **Candace Owens**: ["Tyler Bowyer had debt payments garnished at Turning Point USA and late..."](/statements/statement-3042ff9d3fec.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:27:34](/episodes/ep-HYn0P-P1wUw.md#t-00-26-55) (Claim) **Candace Owens**: ["Erika Kirk and Tyler Bowyer knew each other before the July 2015 Donal..."](/statements/statement-3b34fd943bbd.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md)
+- [00:27:34](/episodes/ep-HYn0P-P1wUw.md#t-00-27-17) (Claim) **Candace Owens**: ["Erika Kirk and Tyler Bowyer knew each other before the July 2015 Donal..."](/statements/statement-3b34fd943bbd.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:29:18](/episodes/ep-HYn0P-P1wUw.md#t-00-28-51) (Claim) **Tyler Bowyer** (via quoted speech): ["Tyler Bowyer said Erika Kirk called him before Donald Trump's first Ar..."](/statements/statement-30810f35d750.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:30:10](/episodes/ep-HYn0P-P1wUw.md#t-00-29-32) (Claim) **Candace Owens**: ["Terryl Farnsworth's and Tyler Bowyer's parents attended high school to..."](/statements/statement-2681791717af.md)
   - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md)
 
-- [00:32:20](/episodes/ep-HYn0P-P1wUw.md#t-00-31-41) (Claim) **Candace Owens**: ["Eddie Farnsworth and Tyler Bowyer have previously been co-defendants i..."](/statements/statement-27d291613aac.md)
+- [00:32:20](/episodes/ep-HYn0P-P1wUw.md#t-00-31-34) (Claim) **Candace Owens**: ["Eddie Farnsworth and Tyler Bowyer have previously been co-defendants i..."](/statements/statement-27d291613aac.md)
   - Also about: [Eddie Farnsworth](/entities/person-eddie-farnsworth.md)
 
-- [00:33:39](/episodes/ep-HYn0P-P1wUw.md#t-00-33-05) (Claim) **Candace Owens**: ["The Farnsworth, Bowyer, and Frantzve families had documented connectio..."](/statements/statement-9253c69f0aeb.md)
+- [00:33:39](/episodes/ep-HYn0P-P1wUw.md#t-00-33-38) (Claim) **Candace Owens**: ["The Farnsworth, Bowyer, and Frantzve families had documented connectio..."](/statements/statement-9253c69f0aeb.md)
   - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
@@ -2145,7 +2179,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <details>
 <summary>Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 (1)</summary>
 
-- [00:10:43](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) (Accusation) **Candace Owens**: ["Tyler Boyer lied about why Terrell Farnsworth took the camera down"](/statements/statement-3ead32a1417d.md)
+- [00:10:32](/episodes/ep-es7PWdFGoFI.md#t-00-09-57) (Accusation) **Candace Owens**: ["Tyler Boyer lied about why Terrell Farnsworth took the camera down"](/statements/statement-3ead32a1417d.md)
   - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
 
 </details>
@@ -2164,7 +2198,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 - [00:24:56](/episodes/ep-a-e7HC6SeK8.md#t-00-24-50) (Claim) **Candace Owens**: ["Justin Strife was announced as the new COO of Turning Point USA on Sep..."](/statements/statement-51eadcc75ceb.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Justin Streiff](/entities/person-justin-streiff.md)
 
-- [00:47:13](/episodes/ep-a-e7HC6SeK8.md#t-00-46-48) (Claim) **Candace Owens**: ["Tyler Bowyer's younger brother worked in dental sales for 10 years unt..."](/statements/statement-3776de9b0ee9.md)
+- [00:47:13](/episodes/ep-a-e7HC6SeK8.md#t-00-46-48) (Claim) **Candace Owens**: ["Apparently, Tyler Bowyer has a younger brother who worked in dental sa..."](/statements/statement-33b5a03b992d.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

@@ -3,9 +3,17 @@ title: "Tayler Hansen"
 description: "Tayler Hansen (People) - 1 mention"
 id: "person-tayler-hansen"
 type: "PERSON"
+categories:
+  - "journalist"
 ---
 
 _Type: People_
+
+**Categories:** journalist
+
+**Entity verification:** verified
+> The episode transcript supports the Tayler Hansen name used in this source. This narrow identity verification does not validate surrounding claims.
+Source: [They Are Lying About Tyler Robinson — source episode](https://www.youtube.com/watch?v=ZGxnf5cj4Uw)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-tayler-hansen-t-00-45-07">2025-09-29 · 00:45:39</a></strong></div>

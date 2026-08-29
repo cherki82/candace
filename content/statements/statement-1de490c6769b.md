@@ -23,7 +23,7 @@ veracity: "mixed"
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Appearances (3)
+## Appearances (4)
 
 ### 1. Myron Gaines x Candace Owens
 
@@ -48,6 +48,14 @@ veracity: "mixed"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2245);return false;">Play</a>
 
 > I've never bought the narrative that a .30-06 is what killed Charlie Kirk. I'm just not accepting that narrative whatsoever.
+
+### 4. Candace Owens vs Andrew Wilson: The Great Debate.
+
+**Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
+**Timestamp:** [00:15:14](/episodes/ep-aPOyk1i2LOc.md#t-00-15-14) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(914);return false;">Play</a>
+
+> was definitely hit with a projectile of some description. If we're talking about was he shot from a gun, a 30-06, I would say definitively no.
 
 ## Verification
 

@@ -11,7 +11,7 @@ date: "2025-09-10"
 
 > Candace Owens spoke with Andrew Kolvet on September 10 and in the immediate days afterward.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! ...
 
@@ -28,3 +28,11 @@ date: "2025-09-10"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(611);return false;">▶️ Play</a>
 
 > Please say he's okay, I wrote. I don't know. Pray. Shot for sure, Andrew
+
+### 3. Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigan...
+
+**Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
+**Timestamp:** [00:50:37](/episodes/ep-_cNtgris8Ik.md#event-event-2025-09-10-candace-owens-spoke-with-andrew-kolvet-o-t-00-50-37) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3037);return false;">▶️ Play</a>
+
+> September 14th, 2025 was when you and I spoke for 17 minutes.

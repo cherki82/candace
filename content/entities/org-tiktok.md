@@ -1,6 +1,6 @@
 ---
 title: "TikTok"
-description: "TikTok (Organizations) - 58 mentions"
+description: "TikTok (Organizations) - 64 mentions"
 id: "org-tiktok"
 type: "ORG"
 categories:
@@ -19,10 +19,10 @@ Source: [About TikTok](https://www.tiktok.com/about)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-tiktok-t-00-43-02">2025-09-19 · 00:43:35</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-tiktok-t-00-27-27">2026-08-14 · 00:27:46</a></strong></div>
-<div><span>Episodes</span><strong>27</strong></div>
-<div><span>Mentions</span><strong>58</strong></div>
+<div><span>Episodes</span><strong>31</strong></div>
+<div><span>Mentions</span><strong>64</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -46,6 +46,7 @@ Source: [About TikTok](https://www.tiktok.com/about)
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-tiktok-t-00-48-07" style="--pulse-height:11%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-org-tiktok-t-00-22-59" style="--pulse-height:11%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-es7PWdFGoFI.md#ent-org-tiktok-t-00-00-00" style="--pulse-height:44%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 4 mentions" title="2025-12-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#t-00-15-33" style="--pulse-height:11%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-tiktok-t-00-42-40" style="--pulse-height:22%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-tiktok-t-00-49-20" style="--pulse-height:67%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 6 mentions" title="2026-01-29 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-org-tiktok-t-00-43-45" style="--pulse-height:22%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
@@ -57,7 +58,10 @@ Source: [About TikTok](https://www.tiktok.com/about)
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-tiktok-t-00-07-33" style="--pulse-height:11%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-tiktok-t-00-30-15" style="--pulse-height:11%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-org-tiktok-t-00-36-57" style="--pulse-height:11%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-tiktok-t-00-06-38" style="--pulse-height:11%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 1 mentions" title="2026-07-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-org-tiktok-t-00-36-05" style="--pulse-height:33%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 3 mentions" title="2026-08-06 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-tiktok-t-00-27-27" style="--pulse-height:11%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-tiktok-t-00-02-49" style="--pulse-height:11%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -78,6 +82,7 @@ Source: [About TikTok](https://www.tiktok.com/about)
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-org-tiktok-t-00-48-07) | 1 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-org-tiktok-t-00-22-59) | 1 |
 | 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-org-tiktok-t-00-00-00) | 4 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#t-00-15-33) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-tiktok-t-00-42-40) | 2 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-tiktok-t-00-49-20) | 6 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-org-tiktok-t-00-43-45) | 2 |
@@ -89,7 +94,10 @@ Source: [About TikTok](https://www.tiktok.com/about)
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-org-tiktok-t-00-07-33) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-org-tiktok-t-00-30-15) | 1 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-tiktok-t-00-36-57) | 1 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-org-tiktok-t-00-06-38) | 1 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-org-tiktok-t-00-36-05) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-tiktok-t-00-27-27) | 1 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-tiktok-t-00-02-49) | 1 |
 
 </details>
 </section>
@@ -97,13 +105,43 @@ Source: [About TikTok](https://www.tiktok.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (58)</strong></summary>
+<summary><strong class="section-title">Raw mentions (64)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:27:46](/episodes/ep-nPhCKwJ6ye8.md#ent-org-tiktok-t-00-27-27)**
 > "from TikTok invasions, debates,"
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (1 mentions)</summary>
+
+**[00:03:08](/episodes/ep-aPOyk1i2LOc.md#ent-org-tiktok-t-00-02-49)**
+> "... from leftists all over, from TikTok invasions, debates, posts on social media, destru..."
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (3 mentions)</summary>
+
+**[00:36:05](/episodes/ep-ChuWo-n49B8.md#ent-org-tiktok-t-00-36-05)**
+> "the video which ran live on tiktok"
+
+**[00:37:00](/episodes/ep-ChuWo-n49B8.md#ent-org-tiktok-t-00-36-50)**
+> "...oing this on a live stream on TikTok, I should mention."
+
+**[00:37:52](/episodes/ep-ChuWo-n49B8.md#ent-org-tiktok-t-00-37-25)**
+> "... video, which was streamed on TikTok before the platform pulled it, appeared to show H..."
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (1 mentions)</summary>
+
+**[00:06:56](/episodes/ep-iB-YtO3UZOg.md#ent-org-tiktok-t-00-06-38)**
+> "How do cosplayers, modders, fan artists, fan fiction authors, and TikTok content creators build communities for marginalized and underserved fans of games?"
 
 </details>
 
@@ -213,6 +251,14 @@ Source: [About TikTok](https://www.tiktok.com/about)
 
 **[01:04:36](/episodes/ep-2T39-oADLj0.md#ent-org-tiktok-t-01-04-36)**
 > "...ey are tweeting like girls on tiktok"
+
+</details>
+
+<details>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
+
+**[00:15:53](/episodes/ep-OEAHy3SsIiI.md#t-00-15-33)**
+> "Everyone was making TikToks about the stop, just stop."
 
 </details>
 
@@ -365,7 +411,7 @@ Source: [About TikTok](https://www.tiktok.com/about)
 > "...nstantly that our content was getting strikes. You can't say anything bad right now about Israel on TikTok. And this is because it's what Benjamin Netanyahu as well, right? They want to censor speech, which..."
 
 **[00:44:21](/episodes/ep-adJ4LNGp84I.md#ent-org-tiktok-t-00-44-06)**
-> "...s her name, right? Erica Mendel. She is the public policy manager of hate speech. And she's been at TikTok since July of this year, and she's like, yeah, whatever, I'm an IDF soldier and it's now war, and w..."
+> "And she's been at TikTok since July of this year, and she's like, yeah, whatever, I'm an IDF soldier"
 
 </details>
 
@@ -473,7 +519,15 @@ Source: [About TikTok](https://www.tiktok.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about TikTok (5)</strong></summary>
+<summary><strong class="section-title">Statements about TikTok (6)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
+
+- [00:37:14](/episodes/ep-ChuWo-n49B8.md#t-00-36-50) (Citation) **Miami-Dade Sheriff's Office** (via quoted document): ["The Miami-Dade Sheriff's Office said the person reported for live-stre..."](/statements/statement-073940de4317.md)
+  - Also about: [Perez Hilton](/entities/person-perez-hilton.md), [Miami-Dade Fire Rescue](/entities/org-miami-dade-fire-rescue.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1)</summary>

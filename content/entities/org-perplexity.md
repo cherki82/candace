@@ -3,9 +3,17 @@ title: "Perplexity"
 description: "Perplexity (Organizations) - 14 mentions"
 id: "org-perplexity"
 type: "ORG"
+categories:
+  - "AI technology company"
 ---
 
 _Type: Organizations_
+
+**Categories:** AI technology company
+
+**Entity verification:** verified
+> Canonical name and identity for Perplexity confirmed by the cited direct external source.
+Source: [About Perplexity](https://www.perplexity.ai/hub/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-perplexity-t-00-26-12">2025-10-02 · 00:26:37</a></strong></div>

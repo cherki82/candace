@@ -3,11 +3,19 @@ title: "Freemasons"
 description: "Freemasons (Organizations) - 7 mentions"
 id: "org-freemasons"
 type: "ORG"
+categories:
+  - "fraternal movement"
 ---
 
 _Type: Organizations_
 
+**Categories:** fraternal movement
+
 > **Possibly overlapping entity records:** [Freemasonry](/entities/concept-freemasonry). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> Canonical name and identity for Freemasons confirmed by the cited direct external source.
+Source: [Freemasonry](https://en.wikipedia.org/wiki/Freemasonry)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-freemasons-t-00-51-00">2025-10-31 · 00:51:00</a></strong></div>

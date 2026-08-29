@@ -1,10 +1,11 @@
 ---
 title: "Donald Trump Jr."
-description: "Donald Trump Jr. (People) - 38 mentions"
+description: "Donald Trump Jr. (People) - 41 mentions"
 id: "person-donald-trump-jr"
 type: "PERSON"
 aliases:
   - "Don Jr."
+  - "Don Trump Jr."
 categories:
   - "Trump Organization"
   - "US politics"
@@ -12,7 +13,7 @@ categories:
 
 _Type: People_
 
-**Also known as:** Don Jr.
+**Also known as:** Don Jr., Don Trump Jr.
 
 **Categories:** Trump Organization, US politics
 
@@ -22,12 +23,12 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-jr-t-00-07-52">2025-09-11 · 00:08:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-person-donald-trump-jr-t-00-04-44">2026-07-14 · 00:05:02</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>38</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-person-donald-trump-jr-t-00-16-53">2026-08-11 · 00:16:53</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>41</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
-<div><span>Relationships</span><strong>16</strong></div>
+<div><span>Relationships</span><strong>18</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -42,13 +43,15 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 <a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-donald-trump-jr-t-00-32-39" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-donald-trump-jr-t-00-51-19" style="--pulse-height:8%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-donald-trump-jr-t-00-31-29" style="--pulse-height:8%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SubDoZWHARo.md#t-00-16-56" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1mYNOqzAdXs.md#t-00-07-27" style="--pulse-height:8%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-person-donald-trump-jr-t-00-16-56" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-donald-trump-jr-t-00-07-27" style="--pulse-height:8%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-donald-trump-jr-t-00-30-40" style="--pulse-height:46%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 6 mentions" title="2026-05-05 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-donald-trump-jr-t-00-21-10" style="--pulse-height:23%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 3 mentions" title="2026-05-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-donald-trump-jr-t-00-47-13" style="--pulse-height:8%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-jr-t-00-43-14" style="--pulse-height:23%" aria-label="Candace x Hunter Biden: The Interview: 3 mentions" title="2026-05-21 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-donald-trump-jr-t-00-04-44" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-person-donald-trump-jr-t-00-34-10" style="--pulse-height:15%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 2 mentions" title="2026-07-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-person-donald-trump-jr-t-00-16-53" style="--pulse-height:8%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -61,13 +64,15 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-donald-trump-jr-t-00-32-39) | 1 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-donald-trump-jr-t-00-51-19) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-donald-trump-jr-t-00-31-29) | 1 |
-| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#t-00-16-56) | 1 |
-| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#t-00-07-27) | 1 |
+| 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-donald-trump-jr-t-00-16-56) | 1 |
+| 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-donald-trump-jr-t-00-07-27) | 1 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-donald-trump-jr-t-00-30-40) | 6 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-donald-trump-jr-t-00-21-10) | 3 |
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-person-donald-trump-jr-t-00-47-13) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-person-donald-trump-jr-t-00-43-14) | 3 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-donald-trump-jr-t-00-04-44) | 1 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-person-donald-trump-jr-t-00-34-10) | 2 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-person-donald-trump-jr-t-00-16-53) | 1 |
 
 </details>
 </section>
@@ -75,7 +80,26 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
+
+**[00:16:53](/episodes/ep-HGtMfbePDKk.md#ent-person-donald-trump-jr-t-00-16-53)**
+> "I have text messages with Don Trump Jr. regarding a different piece that Brandy was working on. I have text messages with Tyler Boyer. I have text messages with Charlie and me and Charlie Boyer about this woman."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (2 mentions)</summary>
+
+**[00:34:43](/episodes/ep-Vu6Y24pqhZs.md#ent-person-donald-trump-jr-t-00-34-10)**
+> "I'd like a cop. Don (Donald Trump Jr.) actually has been heading into the courthouse with Erica (Erika Kirk). He knows guns."
+
+**[00:34:58](/episodes/ep-Vu6Y24pqhZs.md#ent-person-donald-trump-jr-t-00-34-51)**
+> "...back. What do you think, Don (Donald Trump Jr.)?"
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
@@ -147,7 +171,7 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 <details>
 <summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (1 mentions)</summary>
 
-**[00:07:43](/episodes/ep-1mYNOqzAdXs.md#t-00-07-27)**
+**[00:07:43](/episodes/ep-1mYNOqzAdXs.md#ent-person-donald-trump-jr-t-00-07-27)**
 > "Here are some photos of her on Sunday at Bettina (Bettina Anderson) soon to be Trump's bridal shower. She's engaged to Don Trump Jr."
 
 </details>
@@ -155,7 +179,7 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 <details>
 <summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (1 mentions)</summary>
 
-**[00:17:12](/episodes/ep-SubDoZWHARo.md#t-00-16-56)**
+**[00:17:12](/episodes/ep-SubDoZWHARo.md#ent-person-donald-trump-jr-t-00-16-56)**
 > "Don Trump Jr."
 
 </details>
@@ -261,6 +285,18 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Appeared With (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:34:43](/episodes/ep-Vu6Y24pqhZs.md#t-00-34-10): “Don (Donald Trump Jr.) actually has been heading into the courthouse with Erica (Erika Kirk). He knows guns.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Child Of (1)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
@@ -354,7 +390,14 @@ Source: [Donald Trump Jr. Official Biography](https://www.trump.com/leadership/d
 </details>
 
 <details>
-<summary>Referenced By (8)</summary>
+<summary>Referenced By (9)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:34:43](/episodes/ep-Vu6Y24pqhZs.md#t-00-34-10): “Don (Donald Trump Jr.) actually has been heading into the courthouse with Erica (Erika Kirk). He knows guns.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** close associate of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>

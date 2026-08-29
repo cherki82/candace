@@ -1,6 +1,6 @@
 ---
 title: "Russia"
-description: "Russia (Places) - 186 mentions"
+description: "Russia (Places) - 205 mentions"
 id: "gpe-russia"
 type: "GPE"
 aliases:
@@ -22,10 +22,10 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-russia-t-00-00-01">2025-09-16 · 00:00:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-52">2026-08-14 · 03:39:52</a></strong></div>
-<div><span>Episodes</span><strong>38</strong></div>
-<div><span>Mentions</span><strong>186</strong></div>
+<div><span>Episodes</span><strong>43</strong></div>
+<div><span>Mentions</span><strong>205</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>22</strong></div>
+<div><span>Statements about</span><strong>24</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -71,7 +71,12 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-russia-t-00-22-42" style="--pulse-height:11%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 7 mentions" title="2026-07-14 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-russia-t-00-52-52" style="--pulse-height:8%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-gpe-russia-t-00-51-16" style="--pulse-height:8%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 3 mentions" title="2026-07-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-gpe-russia-t-00-52-50" style="--pulse-height:8%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 1 mentions" title="2026-07-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-gpe-russia-t-00-48-28" style="--pulse-height:8%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 3 mentions" title="2026-07-31 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-russia-t-00-29-39" style="--pulse-height:12%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 8 mentions" title="2026-08-03 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-gpe-russia-t-00-30-59" style="--pulse-height:8%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 5 mentions" title="2026-08-04 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-45" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-gpe-russia-t-02-49-39" style="--pulse-height:8%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -114,7 +119,12 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-russia-t-00-22-42) | 7 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-gpe-russia-t-00-52-52) | 1 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-gpe-russia-t-00-51-16) | 3 |
+| 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-gpe-russia-t-00-52-50) | 1 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-gpe-russia-t-00-48-28) | 3 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-gpe-russia-t-00-29-39) | 8 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-russia-t-00-30-59) | 5 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-45) | 2 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-russia-t-02-49-39) | 2 |
 
 </details>
 </section>
@@ -122,7 +132,7 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (186)</strong></summary>
+<summary><strong class="section-title">Raw mentions (205)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -132,6 +142,88 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 
 **[03:39:52](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-russia-t-03-39-52)**
 > "Russia."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (2 mentions)</summary>
+
+**[02:49:39](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-russia-t-02-49-39)**
+> "...ve signal. Telegram I used in Russia and that was a download"
+
+**[02:49:45](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-russia-t-02-49-45)**
+> "for Russia."
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (5 mentions)</summary>
+
+**[00:30:59](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-russia-t-00-30-59)**
+> "... all this stuff happens to in russia we had a person reach out who is in the country m..."
+
+**[00:32:16](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-russia-t-00-32-07)**
+> "...eful my family is and also to Russia's Ministry of Health how grateful we are. Everybody..."
+
+**[00:32:41](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-russia-t-00-32-41)**
+> "...e all would be saying that in russia who everyone was just amazing everyone stepped up..."
+
+**[00:35:36](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-russia-t-00-35-36)**
+> "...hat you could like we'll take russia in a week oh really really i feel like it's been ..."
+
+**[00:44:42](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-russia-t-00-44-18)**
+> "...ted with more dignity than in Russia."
+
+</details>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (8 mentions)</summary>
+
+**[00:29:53](/episodes/ep-AH1KVKkweUE.md#ent-gpe-russia-t-00-29-39)**
+> "...as not a good place after the Russia trip."
+
+**[00:30:10](/episodes/ep-AH1KVKkweUE.md#ent-gpe-russia-t-00-29-39)**
+> "...ng to say fortunately went to Russia with us because we now have an understanding that..."
+
+**[00:30:39](/episodes/ep-AH1KVKkweUE.md#ent-gpe-russia-t-00-30-23)**
+> "He's back from Russia and I wanted to give you guys that update because..."
+
+**[00:30:44](/episodes/ep-AH1KVKkweUE.md#ent-gpe-russia-t-00-30-23)**
+> "...ally said I wish I never left Russia because he's having trouble getting an appointmen..."
+
+**[00:30:48](/episodes/ep-AH1KVKkweUE.md#ent-gpe-russia-t-00-30-48)**
+> "...families came to come see him russia i'm talking russian military like special forces ..."
+
+**[00:31:25](/episodes/ep-AH1KVKkweUE.md#ent-gpe-russia-t-00-31-25)**
+> "...rted learning a little bit of Russian."
+
+**[00:34:23](/episodes/ep-AH1KVKkweUE.md#ent-gpe-russia-t-00-33-56)**
+> "...so just want to say thank you Russia again to the Russian Ministry of Health I did not..."
+
+**[00:44:25](/episodes/ep-AH1KVKkweUE.md#ent-gpe-russia-t-00-44-25)**
+> "...ere's why you should care and Russia is awful and Ukraine is great it's not landing th..."
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (3 mentions)</summary>
+
+**[00:48:44](/episodes/ep-iB-YtO3UZOg.md#ent-gpe-russia-t-00-48-28)**
+> "The trip to Russia was where I was I was going, OK, I'm having this is my breaking point."
+
+**[00:49:36](/episodes/ep-iB-YtO3UZOg.md#ent-gpe-russia-t-00-49-36)**
+> "...d then I have, we're going to Russia. I'm like, okay, I can get away, totally get away..."
+
+**[00:50:12](/episodes/ep-iB-YtO3UZOg.md#ent-gpe-russia-t-00-49-36)**
+> "... and crazy. And then I get to Russia and my security member literally almost dies."
+
+</details>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (1 mentions)</summary>
+
+**[00:53:02](/episodes/ep-AoYZel7_cGQ.md#ent-gpe-russia-t-00-52-50)**
+> "...out the Pale of Settlement in Russia, very relevant to what's going on—evil people who..."
 
 </details>
 
@@ -963,7 +1055,17 @@ Source: [United Nations Member States](https://www.un.org/en/about-us/member-sta
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Russia (22)</strong></summary>
+<summary><strong class="section-title">Statements about Russia (24)</strong></summary>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (2)</summary>
+
+- [00:29:58](/episodes/ep-AH1KVKkweUE.md#t-00-29-39) (Claim) **Candace Owens**: ["Owens said a member of her security detail who had served for 12 years..."](/statements/statement-f59d93b5f3bc.md)
+  - Also about: [U.S. Department of Veterans Affairs](/entities/org-us-department-of-veterans-affairs.md)
+
+- [00:31:14](/episodes/ep-AH1KVKkweUE.md#t-00-30-48) (Opinion) **Anonymous Source #3 (Ep AH1KVKkweUE)** (via quoted speech): ["An unnamed member of Owens's security detail said he had never been tr..."](/statements/statement-adfe517c2220.md)
+
+</details>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1)</summary>

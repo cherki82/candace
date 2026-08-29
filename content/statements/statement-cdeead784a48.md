@@ -31,7 +31,7 @@ type: "opinion"
 **Timestamp:** [00:20:42](/episodes/ep-es7PWdFGoFI.md#t-00-20-30) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1242);return false;">Play</a>
 
-> Until then. Okay, until we all get on the same page and understand what else they have, I am very confident stating the opposite of all of my, I guess, well-paid peers in that I don't believe that Tyler Robinson pulled the trigger.
+> Until then. Okay, until we all get on the same page and understand what else they have, I am very confident stating the opposite of all of my, I guess, well-paid peers in that I don't believe that Tyler (Tyler (Tyler Robinson)) Robinson pulled the trigger.
 
 ### 2. Erika And I Sat Down. Here’s What Happened. | Candace Ep 280
 

@@ -27,7 +27,7 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
-**Timestamp:** [00:17:30](/episodes/ep-HYn0P-P1wUw.md#t-00-17-13) 
+**Timestamp:** [00:17:30](/episodes/ep-HYn0P-P1wUw.md#t-00-17-25) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1050);return false;">Play</a>
 
 > Turning Point USA would like us to clarify that while, yes, it is true the tent idea was initially brought up by Elizabeth McCoy, it was ultimately a group decision to move forward with the idea, a group decision between the events team and the exhibitor hall team.

@@ -1,11 +1,12 @@
 ---
 title: "Fort Huachuca"
-description: "Fort Huachuca (Places) - 240 mentions"
+description: "Fort Huachuca (Places) - 244 mentions"
 id: "gpe-fort-huachuca"
 type: "GPE"
 aliases:
   - "Fort Huachuca"
   - "Huachuca"
+  - "Fort Huachuca Base"
 categories:
   - "United States Army installation"
   - "Arizona"
@@ -13,7 +14,7 @@ categories:
 
 _Type: Places_
 
-**Also known as:** Fort Huachuca, Huachuca
+**Also known as:** Fort Huachuca, Huachuca, Fort Huachuca Base
 
 **Categories:** United States Army installation, Arizona
 
@@ -23,12 +24,12 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-fort-huachuca-t-00-12-36">2025-12-09 · 00:01:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-fort-huachuca-t-00-42-08">2026-07-20 · 00:42:08</a></strong></div>
-<div><span>Episodes</span><strong>46</strong></div>
-<div><span>Mentions</span><strong>240</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-fort-huachuca-t-00-31-13">2026-08-21 · 00:31:41</a></strong></div>
+<div><span>Episodes</span><strong>48</strong></div>
+<div><span>Mentions</span><strong>244</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>110</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -41,8 +42,8 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-fort-huachuca-t-00-33-09" style="--pulse-height:19%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 4 mentions" title="2025-12-17 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-11-03" style="--pulse-height:86%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 18 mentions" title="2025-12-18 · 18 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-fort-huachuca-t-00-31-41" style="--pulse-height:43%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 9 mentions" title="2025-12-20 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-30-26" style="--pulse-height:71%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 15 mentions" title="2026-01-05 · 15 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-fort-huachuca-t-00-15-58" style="--pulse-height:43%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 9 mentions" title="2026-01-06 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-30-32" style="--pulse-height:71%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 15 mentions" title="2026-01-05 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-fort-huachuca-t-00-16-07" style="--pulse-height:48%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 10 mentions" title="2026-01-06 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-fort-huachuca-t-00-14-55" style="--pulse-height:14%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-fort-huachuca-t-00-01-27" style="--pulse-height:8%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-fort-huachuca-t-00-28-05" style="--pulse-height:33%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 7 mentions" title="2026-01-13 · 7 mentions"><span></span></a>
@@ -63,10 +64,10 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-fort-huachuca-t-00-31-12" style="--pulse-height:10%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 2 mentions" title="2026-03-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-fort-huachuca-t-00-33-58" style="--pulse-height:14%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 3 mentions" title="2026-03-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-fort-huachuca-t-00-00-01" style="--pulse-height:62%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 13 mentions" title="2026-03-26 · 13 mentions"><span></span></a>
-<a href="/episodes/ep-UYkXV9mYbT4.md#t-00-51-24" style="--pulse-height:8%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-gpe-fort-huachuca-t-00-51-24" style="--pulse-height:8%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-fort-huachuca-t-00-09-38" style="--pulse-height:10%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-fort-huachuca-t-00-01-45" style="--pulse-height:10%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-eLgD5yUVbko.md#t-00-04-21" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-gpe-fort-huachuca-t-00-04-21" style="--pulse-height:10%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-fort-huachuca-t-00-47-18" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-gpe-fort-huachuca-t-00-20-16" style="--pulse-height:52%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 11 mentions" title="2026-04-30 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-gpe-fort-huachuca-t-00-03-01" style="--pulse-height:62%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 13 mentions" title="2026-05-06 · 13 mentions"><span></span></a>
@@ -82,6 +83,8 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-fort-huachuca-t-00-48-52" style="--pulse-height:8%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-fort-huachuca-t-00-43-57" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-fort-huachuca-t-00-40-03" style="--pulse-height:24%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 5 mentions" title="2026-07-20 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#t-00-03-59" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-fort-huachuca-t-00-31-13" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -92,8 +95,8 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-gpe-fort-huachuca-t-00-33-09) | 4 |
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-fort-huachuca-t-00-11-03) | 18 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-fort-huachuca-t-00-31-41) | 9 |
-| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-30-26) | 15 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-fort-huachuca-t-00-15-58) | 9 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-30-32) | 15 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-fort-huachuca-t-00-16-07) | 10 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-fort-huachuca-t-00-14-55) | 3 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-fort-huachuca-t-00-01-27) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-fort-huachuca-t-00-28-05) | 7 |
@@ -114,10 +117,10 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-gpe-fort-huachuca-t-00-31-12) | 2 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-fort-huachuca-t-00-33-58) | 3 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-fort-huachuca-t-00-00-01) | 13 |
-| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#t-00-51-24) | 1 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-fort-huachuca-t-00-51-24) | 1 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-gpe-fort-huachuca-t-00-09-38) | 2 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-fort-huachuca-t-00-01-45) | 2 |
-| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#t-00-04-21) | 1 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-gpe-fort-huachuca-t-00-04-21) | 2 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-gpe-fort-huachuca-t-00-47-18) | 1 |
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-gpe-fort-huachuca-t-00-20-16) | 11 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-fort-huachuca-t-00-03-01) | 13 |
@@ -133,6 +136,8 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-fort-huachuca-t-00-48-52) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-fort-huachuca-t-00-43-57) | 1 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-gpe-fort-huachuca-t-00-40-03) | 5 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#t-00-03-59) | 1 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-gpe-fort-huachuca-t-00-31-13) | 1 |
 
 </details>
 </section>
@@ -140,7 +145,23 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (240)</strong></summary>
+<summary><strong class="section-title">Raw mentions (244)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
+
+**[00:31:41](/episodes/ep-_cNtgris8Ik.md#ent-gpe-fort-huachuca-t-00-31-13)**
+> "...e a la Mitch Snow. We did the Fort Huachuca thing."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
+
+**[00:04:24](/episodes/ep-Vu6Y24pqhZs.md#t-00-03-59)**
+> "They let the error go. We got no explanation. I think we deserve one. And of all the people, they happen to select this kid who has got a father who's a career military man who owns and operates a military app tied to operations, tied to Fort Wachuka, got a bunch of money from the DOD."
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (5 mentions)</summary>
@@ -497,10 +518,13 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details>
-<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2 mentions)</summary>
 
-**[00:04:38](/episodes/ep-eLgD5yUVbko.md#t-00-04-21)**
-> "at Fort Wachuka back in September"
+**[00:04:38](/episodes/ep-eLgD5yUVbko.md#ent-gpe-fort-huachuca-t-00-04-21)**
+> "Erika's ex-boyfriend, one of the many current Daily Wire employee who was featured on my podcast when Mitch gave a description of a guy that he believed that he saw with Erika at Fort Huachuca back in September."
+
+**[00:04:53](/episodes/ep-eLgD5yUVbko.md#ent-gpe-fort-huachuca-t-00-04-21)**
+> "...no response. Hey, were you at Fort Huachuca? Guy kind of thinks."
 
 </details>
 
@@ -519,7 +543,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2 mentions)</summary>
 
 **[00:09:53](/episodes/ep-rupRLXmSndU.md#ent-gpe-fort-huachuca-t-00-09-38)**
-> "I was getting familiar with it. I fumbled over my words. Mitch Snow, he said he saw this meeting conclude with a bunch of 05s and 06s coming out of Fort Huachuca. Well, Ahmed Qureshi, that is Zachariah's father, he is an 06 in the Navy."
+> "I was getting familiar with it. I fumbled over my words. Mitch Snow, he said he saw this meeting conclude with a bunch of 05s and 06s coming out of Fort Huachuca. Well, Ahmed Qureshi, that is Zachariah (Zachariah Qureshi)'s father, he is an 06 in the Navy."
 
 **[00:10:46](/episodes/ep-rupRLXmSndU.md#ent-gpe-fort-huachuca-t-00-10-19)**
 > "...he planes the day before from Fort Huachuca, that there may be a Texas play in Charlie Kirk's..."
@@ -529,8 +553,8 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <details>
 <summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1 mentions)</summary>
 
-**[00:51:54](/episodes/ep-UYkXV9mYbT4.md#t-00-51-24)**
-> "Fort Wachuka"
+**[00:51:54](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-fort-huachuca-t-00-51-24)**
+> "It is the Joint Forces Air Base. Oh, JTF, Fort Huachuca."
 
 </details>
 
@@ -863,84 +887,87 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details>
-<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (9 mentions)</summary>
+<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (10 mentions)</summary>
 
-**[00:16:07](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-fort-huachuca-t-00-15-58)**
+**[00:16:07](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-fort-huachuca-t-00-16-07)**
 > "We broke the story about Fort Huachuca, and we're not done with that."
 
-**[00:17:19](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-fort-huachuca-t-00-17-13)**
+**[00:17:19](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-fort-huachuca-t-00-16-46)**
 > "...te, we should get back to the Fort Huachuca story because this has proven to be a very intere..."
 
-**[00:18:19](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-fort-huachuca-t-00-17-56)**
+**[00:18:19](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-fort-huachuca-t-00-18-03)**
 > "...d update, this time regarding Fort Huachuca as well."
 
-**[00:19:39](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-fort-huachuca-t-00-19-20)**
+**[00:19:39](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-fort-huachuca-t-00-19-25)**
 > "...ow, Dan Flood was not seen at Fort Huachuca, but he does have communication with Brian Harpol..."
 
-**[00:36:00](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-fort-huachuca-t-00-35-55)**
+**[00:36:00](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-fort-huachuca-t-00-35-27)**
 > "Fort Huachuca base,"
 
-**[00:36:38](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-fort-huachuca-t-00-36-38)**
+**[00:36:38](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-fort-huachuca-t-00-36-08)**
 > "he returned to Fort Huachuca,"
 
-**[00:36:44](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-fort-huachuca-t-00-36-38)**
+**[00:36:44](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-fort-huachuca-t-00-36-44)**
 > "There is also Fort Huachuca Base,"
 
-**[00:38:25](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-fort-huachuca-t-00-38-07)**
+**[00:38:25](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-fort-huachuca-t-00-38-09)**
 > "...is this, 40 minutes away from Fort Huachuca?"
 
-**[01:04:19](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-fort-huachuca-t-01-03-41)**
+**[01:04:19](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-fort-huachuca-t-01-04-06)**
 > "...d the testing that is done at Fort Huachuca."
+
+**[00:36:08](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-fort-huachuca-t-00-36-08)**
+> "...ory that has been an issue at Huachuca base. And I'm showing you this article from CBS N..."
 
 </details>
 
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (15 mentions)</summary>
 
-**[00:30:51](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-30-26)**
+**[00:30:51](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-30-32)**
 > "discuss Fort Huachuca"
 
 **[00:35:09](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-35-09)**
 > "We obviously have to discuss Fort Huachuca because it seems to have driven people insane."
 
-**[00:35:15](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-35-09)**
-> "...minds ever since we mentioned Fort Huachuca,"
-
 **[00:37:40](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-37-02)**
 > "I mentioned Fort Huachuca on my show and apparently the world exploded and ..."
 
-**[00:37:48](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-37-47)**
+**[00:37:47](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-37-47)**
 > "...ain that he saw two people at Fort Huachuca."
 
-**[00:38:11](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-37-47)**
+**[00:38:04](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-37-47)**
 > "Erika Kirk on the 8th leaving the Candlewood Suites hotel on the base on Fort Huachuca. She was with somebody who looked similar to Cabot Phillips."
 
 **[00:39:10](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-39-10)**
-> "...cut out and say yeah I was at Fort Huachuca base because my mother has DOD contracts and I'm ..."
+> "What sort of an operation are we talking about? Now, we couldn't jump to conclusions at that point, because maybe Brian Harpole was going to say, oh yeah, I was there. I was there because I was picking up something from my brother. Maybe Erika (Erika Kirk) was going to come out and say, yeah, I was at Fort Huachuca base because my mother has DOD contracts, and I'm very familiar with this base, and I was going to see a friend. We didn't know what to make of anything other than he said..."
 
-**[00:43:52](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-43-52)**
+**[00:43:52](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-43-42)**
 > "...hat does this have to do with Fort Huachuca?"
 
-**[00:44:08](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-43-52)**
+**[00:44:02](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-43-42)**
 > "...sn't even true that he was at Fort Huachuca because he was a pathological liar and they could..."
 
-**[00:45:04](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-44-34)**
+**[00:44:53](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-44-53)**
 > "...with whether or not he was at Fort Huachuca. But as proof,"
 
-**[00:45:29](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-45-16)**
+**[00:45:24](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-44-53)**
 > "...confirms that the incident at Fort Huachuca actually happened."
 
-**[00:47:24](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-47-19)**
+**[00:47:21](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-47-19)**
 > "Fort Huachuca, everything you told us happened that morning on ..."
 
-**[00:56:12](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-56-02)**
+**[00:56:12](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-56-12)**
 > "Now regarding the Fort Huachuca story,"
 
-**[00:57:24](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-57-24)**
-> "...) believes that he saw her on Fort Huachuca at the Fort Huachuca base at the hotel."
+**[00:57:20](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-56-57)**
+> "I never demanded an alibi. Again, this was a conversation between her and Charlie (Charlie Kirk) about dinner, about them making dinner during that time frame when Mitch (Mitch Snow) believes that he saw her on Fort Huachuca, at the Fort Huachuca base, at the hotel."
 
-**[00:58:44](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-58-06)**
+**[00:58:44](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-58-16)**
 > "Something happened at Fort Huachuca."
+
+**[00:46:02](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-fort-huachuca-t-00-45-48)**
+> "...ke that, um, on any post. Not Huachuca, not Carson, not nowhere. Nowhere. Not in the Sta..."
 
 </details>
 
@@ -1098,10 +1125,11 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <summary>Based In (1)</summary>
 
 - **[Arizona](/entities/gpe-arizona.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:29](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28): “Fort Huachuca in Arizona is, okay? It is a hub for intelligence training.”
 - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:16](/episodes/ep-ewBzjVe3LNQ.md#t-00-11-45): “Fort Huachuca in Arizona is... a hub for intelligence training”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:36:33](/episodes/ep-HYn0P-P1wUw.md#t-00-36-08): “And you can go on and you can see that it says that after he left his post, he returned to Fort Huachuca, which is a major army installation in Arizona, blah, blah, blah.”
 
 </details>
 
@@ -1146,7 +1174,19 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Operated By (1)</summary>
+
+- **[United States Army](/entities/org-united-states-army.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:36:33](/episodes/ep-HYn0P-P1wUw.md#t-00-36-08): “And you can go on and you can see that it says that after he left his post, he returned to Fort Huachuca, which is a major army installation in Arizona, blah, blah, blah.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (6)</summary>
 
 - **[Candlewood Suites](/entities/org-candlewood-suites.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1163,9 +1203,17 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 - **[Arizona](/entities/gpe-arizona.md)** location of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:29](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28): “Fort Huachuca in Arizona is, okay? It is a hub for intelligence training.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:36:33](/episodes/ep-HYn0P-P1wUw.md#t-00-36-08): “And you can go on and you can see that it says that after he left his post, he returned to Fort Huachuca, which is a major army installation in Arizona, blah, blah, blah.”
+
+</details>
+
+- **[United States Army](/entities/org-united-states-army.md)** operates this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:36:33](/episodes/ep-HYn0P-P1wUw.md#t-00-36-08): “And you can go on and you can see that it says that after he left his post, he returned to Fort Huachuca, which is a major army installation in Arizona, blah, blah, blah.”
 
 </details>
 
@@ -1480,7 +1528,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1)</summary>
 
-- [00:19:39](/episodes/ep-HYn0P-P1wUw.md#t-00-19-20) (Claim) **Candace Owens**: ["Brian Harpole and Dan Flood had not responded to Candace Owens's quest..."](/statements/statement-7ef73732498c.md)
+- [00:19:39](/episodes/ep-HYn0P-P1wUw.md#t-00-19-25) (Claim) **Candace Owens**: ["Brian Harpole and Dan Flood had not responded to Candace Owens's quest..."](/statements/statement-7ef73732498c.md)
   - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Dan Flood](/entities/person-dan-flood.md)
 
 </details>
@@ -1491,10 +1539,10 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 - [00:38:11](/episodes/ep-OEAHy3SsIiI.md#t-00-37-47) (Accusation) **Mitch Snow** (via paraphrase): ["Mitch Snow said he saw Erika Kirk leave the Candlewood Suites hotel at..."](/statements/statement-c5db04c0161f.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Cabot Phillips](/entities/person-cabot-phillips.md), [Candlewood Suites Building 44420](/entities/gpe-candlewood-suites-fort-huachuca.md)
 
-- [00:38:35](/episodes/ep-OEAHy3SsIiI.md#t-00-38-27) (Accusation) **Mitch Snow** (via paraphrase): ["Mitch Snow said he was completely certain he saw Brian Harpole at a se..."](/statements/statement-f6873a467bc9.md)
+- [00:38:35](/episodes/ep-OEAHy3SsIiI.md#t-00-38-26) (Accusation) **Mitch Snow** (via paraphrase): ["Mitch Snow was described by Candace Owens as 'basically 100% certain' ..."](/statements/statement-f6873a467bc9.md)
   - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
 
-- [00:44:21](/episodes/ep-OEAHy3SsIiI.md#t-00-43-52) (Claim) **Candace Owens**: ["Military police incident reports prove Mitch Snow's account of what ha..."](/statements/statement-187a8d4a8f10.md)
+- [00:44:21](/episodes/ep-OEAHy3SsIiI.md#t-00-44-18) (Claim) **Candace Owens**: ["Military police incident reports prove Mitch Snow's account of what ha..."](/statements/statement-187a8d4a8f10.md)
   - Also about: [Mitch Snow](/entities/person-mitch-snow.md)
 
 - [00:46:54](/episodes/ep-OEAHy3SsIiI.md#t-00-46-51) (Claim) **Anonymous Source #3 (Ep OEAHy3SsIiI)**: ["Military personnel called Mitch Snow's son on September 9, asked wheth..."](/statements/statement-4bba71d4d586.md)
@@ -1503,7 +1551,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 - [00:48:18](/episodes/ep-OEAHy3SsIiI.md#t-00-48-17) (Claim) **Andrew Kolvet** (via read message): ["Erika Kirk was not at a fort near Tucson."](/statements/statement-72ac5f32a85e.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
-- [01:08:59](/episodes/ep-OEAHy3SsIiI.md#t-01-08-55) (Opinion) **Candace Owens**: ["Candace Owens believes Mitch Snow did see Brian Harpole at Fort Huachu..."](/statements/statement-cc3ecedba73f.md)
+- [01:08:59](/episodes/ep-OEAHy3SsIiI.md#t-01-08-55) (Opinion) **Candace Owens**: ["Candace Owens said she felt that Mitch Snow had seen Brian Harpole at ..."](/statements/statement-cc3ecedba73f.md)
   - Also about: [Mitch Snow](/entities/person-mitch-snow.md), [Brian Harpole](/entities/person-brian-harpole.md)
 
 </details>

@@ -32,7 +32,7 @@ veracity: "true"
 **Timestamp:** [00:34:19](/episodes/ep-ZIH5-V6UPkg.md#t-00-34-19) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2059);return false;">Play</a>
 
-> But the president has had enough of Tucker. And yeah, I'm just going to admit it. I sent the president Tucker Carlson's clip so he can see the shit that he says about him.
+> But the president has had enough of Tucker (Tucker Carlson). And yeah, I'm just going to admit it. I sent the president Tucker Carlson's clip so he can see the shit that he says about him.
 
 ## Verification
 

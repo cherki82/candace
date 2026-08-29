@@ -17,4 +17,4 @@ date: "2026-04-01"
 **Timestamp:** [00:38:57](/episodes/ep-rupRLXmSndU.md#event-event-2026-04-01-erika-kirk-attended-donald-trumps-easter-t-00-38-57) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2337);return false;">▶️ Play</a>
 
-> President Donald Trump, who today had their little Easter celebration. Erica Kirk was in attendance
+> who today had their little Easter celebration. Erika Kirk was in attendance

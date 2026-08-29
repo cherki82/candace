@@ -11,7 +11,11 @@ object: "org-turning-point-usa"
 
 ## [Phoenix](/entities/gpe-phoenix) headquarters of [Turning Point USA](/entities/org-turning-point-usa)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk)**
+
+- [00:22:59](/episodes/ep-HGtMfbePDKk#t-00-22-59): _They declined to go on the record, but they invited me to their Phoenix headquarters where I sat down with Erika and other leadership._
 
 **[Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w)**
 

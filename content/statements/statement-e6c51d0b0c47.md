@@ -31,7 +31,7 @@ type: "accusation"
 **Timestamp:** [00:26:43](/episodes/ep-ZIH5-V6UPkg.md#t-00-26-31) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1603);return false;">Play</a>
 
-> Establishment media never reports this, but the Israeli government has a storied history of blackmailing U.S. presidents. Perhaps the most jarring example occurred in the 90s when Israel used recordings of Bill Clinton, Monica Lewinsky phone sex sessions as leverage to pressure Clinton into into releasing convicted spy Jonathan Pollard from prison.
+> Establishment media never reports this, but the Israeli government has a storied history of blackmailing U.S. presidents.
 
 ## Verification
 

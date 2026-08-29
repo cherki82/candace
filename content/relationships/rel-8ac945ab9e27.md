@@ -1,15 +1,15 @@
 ---
-title: "U.S. Navy formerly employed Jack Posobiec"
-description: "Evidence for the relationship: U.S. Navy formerly employed Jack Posobiec"
+title: "United States Navy formerly employed Jack Posobiec"
+description: "Evidence for the relationship: United States Navy formerly employed Jack Posobiec"
 relationship_id: "rel-8ac945ab9e27"
-subject: "org-us-navy"
+subject: "org-united-states-navy"
 predicate: "formerly employed"
 object: "person-jack-posobiec"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [U.S. Navy](/entities/org-us-navy) formerly employed [Jack Posobiec](/entities/person-jack-posobiec)
+## [United States Navy](/entities/org-united-states-navy) formerly employed [Jack Posobiec](/entities/person-jack-posobiec)
 
 ### Evidence (1 mentions)
 
@@ -19,5 +19,5 @@ object: "person-jack-posobiec"
 
 ### Related
 
-- [U.S. Navy](/entities/org-us-navy)
+- [United States Navy](/entities/org-united-states-navy)
 - [Jack Posobiec](/entities/person-jack-posobiec)

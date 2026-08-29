@@ -3,9 +3,17 @@ title: "Rhodesia"
 description: "Rhodesia (Places) - 1 mention"
 id: "gpe-rhodesia"
 type: "GPE"
+categories:
+  - "historical polity"
 ---
 
 _Type: Places_
+
+**Categories:** historical polity
+
+**Entity verification:** verified
+> Canonical name and identity for Rhodesia confirmed by the cited direct external source.
+Source: [Rhodesia](https://en.wikipedia.org/wiki/Rhodesia)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-rhodesia-t-00-13-15">2025-12-01 · 00:13:47</a></strong></div>

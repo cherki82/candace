@@ -1,6 +1,6 @@
 ---
 title: "Baron Coleman"
-description: "Baron Coleman (People) - 132 mentions"
+description: "Baron Coleman (People) - 151 mentions"
 id: "person-baron-coleman"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-03-51">2025-12-16 · 00:14:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-person-baron-coleman-t-00-30-27">2026-07-23 · 00:30:40</a></strong></div>
-<div><span>Episodes</span><strong>38</strong></div>
-<div><span>Mentions</span><strong>132</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#t-00-28-04">2026-08-21 · 00:28:11</a></strong></div>
+<div><span>Episodes</span><strong>44</strong></div>
+<div><span>Mentions</span><strong>151</strong></div>
 <div><span>Statements by</span><strong>28</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>9</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -37,7 +37,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-03-51" style="--pulse-height:21%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 4 mentions" title="2025-12-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-person-baron-coleman-t-00-33-54" style="--pulse-height:21%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 4 mentions" title="2025-12-17 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-baron-coleman-t-01-00-57" style="--pulse-height:11%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-baron-coleman-t-01-00-51" style="--pulse-height:11%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-baron-coleman-t-00-18-37" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-baron-coleman-t-00-37-13" style="--pulse-height:53%" aria-label="A Legal Turning Point? | Candace Ep 292: 10 mentions" title="2026-01-19 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-baron-coleman-t-00-00-00" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 19 mentions" title="2026-01-20 · 19 mentions"><span></span></a>
@@ -50,7 +50,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-00-01" style="--pulse-height:74%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 14 mentions" title="2026-03-24 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-baron-coleman-t-00-00-01" style="--pulse-height:47%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 9 mentions" title="2026-03-26 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-baron-coleman-t-01-00-47" style="--pulse-height:11%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 2 mentions" title="2026-03-31 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-rupRLXmSndU.md#ent-person-baron-coleman-t-00-08-59" style="--pulse-height:16%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 3 mentions" title="2026-04-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#t-00-08-59" style="--pulse-height:58%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 11 mentions" title="2026-04-01 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-baron-coleman-t-00-01-20" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-baron-coleman-t-00-00-26" style="--pulse-height:16%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 3 mentions" title="2026-04-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-baron-coleman-t-00-05-21" style="--pulse-height:32%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 6 mentions" title="2026-04-16 · 6 mentions"><span></span></a>
@@ -73,6 +73,12 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-baron-coleman-t-00-04-14" style="--pulse-height:16%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 3 mentions" title="2026-07-21 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-person-baron-coleman-t-00-46-33" style="--pulse-height:11%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-person-baron-coleman-t-00-30-27" style="--pulse-height:8%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-baron-coleman-t-00-47-45" style="--pulse-height:11%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 2 mentions" title="2026-07-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-person-baron-coleman-t-00-35-43" style="--pulse-height:8%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 1 mentions" title="2026-07-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#t-00-20-51" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-person-baron-coleman-t-00-26-41" style="--pulse-height:21%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 4 mentions" title="2026-08-11 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-person-baron-coleman-t-00-40-45" style="--pulse-height:8%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#t-00-28-04" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -80,7 +86,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 |---|---|---:|
 | 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-03-51) | 4 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-baron-coleman-t-00-33-54) | 4 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-baron-coleman-t-01-00-57) | 2 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-baron-coleman-t-01-00-51) | 2 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-baron-coleman-t-00-18-37) | 1 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-baron-coleman-t-00-37-13) | 10 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-baron-coleman-t-00-00-00) | 19 |
@@ -93,7 +99,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-baron-coleman-t-00-00-01) | 14 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-baron-coleman-t-00-00-01) | 9 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-baron-coleman-t-01-00-47) | 2 |
-| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-baron-coleman-t-00-08-59) | 3 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#t-00-08-59) | 11 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-baron-coleman-t-00-01-20) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-baron-coleman-t-00-00-26) | 3 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-baron-coleman-t-00-05-21) | 6 |
@@ -116,6 +122,12 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-baron-coleman-t-00-04-14) | 3 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-baron-coleman-t-00-46-33) | 2 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-baron-coleman-t-00-30-27) | 1 |
+| 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-person-baron-coleman-t-00-47-45) | 2 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-person-baron-coleman-t-00-35-43) | 1 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#t-00-20-51) | 1 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-person-baron-coleman-t-00-26-41) | 4 |
+| 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-baron-coleman-t-00-40-45) | 1 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#t-00-28-04) | 1 |
 
 </details>
 </section>
@@ -123,7 +135,67 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (132)</strong></summary>
+<summary><strong class="section-title">Raw mentions (151)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
+
+**[00:28:11](/episodes/ep-_cNtgris8Ik.md#t-00-28-04)**
+> "The Barron Coleman's of the world and the sort of law to picked all of this up and just started tearing her position to pieces immediately."
+
+</details>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1 mentions)</summary>
+
+**[00:41:16](/episodes/ep-4JxgOclKzqg.md#ent-person-baron-coleman-t-00-40-45)**
+> "I mean, Nissy, Baron Coleman, Ian Carroll, you know, Coach Collins."
+
+</details>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (4 mentions)</summary>
+
+**[00:26:41](/episodes/ep-HGtMfbePDKk.md#ent-person-baron-coleman-t-00-26-41)**
+> "...ns makes money doing her job, Baron Coleman gets super chats doing his, and John Bray sells k..."
+
+**[00:37:53](/episodes/ep-HGtMfbePDKk.md#ent-person-baron-coleman-t-00-37-31)**
+> "... a little more experienced in Baron Coleman, I have to just always check, but I am sued a lot..."
+
+**[00:51:23](/episodes/ep-HGtMfbePDKk.md#ent-person-baron-coleman-t-00-50-56)**
+> "...he military. And according to Baron Coleman's reporting on August 9th, he misrepresented his mi..."
+
+**[00:37:39](/episodes/ep-HGtMfbePDKk.md#ent-person-baron-coleman-t-00-37-31)**
+> "I feel like I know this case better than some of the lawyers do, truly. Barron Coleman perhaps would be neck and neck with me. If I was debating Barron Coleman on the case and we were on the same side, I probably would be like, OK."
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:20:57](/episodes/ep-ChuWo-n49B8.md#t-00-20-51)**
+> "Barron Coleman, hey, did you see this video?"
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (1 mentions)</summary>
+
+**[00:35:43](/episodes/ep-iB-YtO3UZOg.md#ent-person-baron-coleman-t-00-35-43)**
+> "Also, I was yelling at the TV when I was watching Baron's podcast the other day regarding the autopsy. It takes at least eight hours for your deep core body temperature to reach 40 degrees in a morgue cooler."
+
+</details>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (2 mentions)</summary>
+
+**[00:47:55](/episodes/ep-AoYZel7_cGQ.md#ent-person-baron-coleman-t-00-47-45)**
+> "... down with your friend and VP Baron Coleman. I could see it hitting Shawn Ryan Candace Owens ..."
+
+**[00:48:35](/episodes/ep-AoYZel7_cGQ.md#ent-person-baron-coleman-t-00-48-22)**
+> "hope baron gets it he'll if he books it i couldn't do it i'd..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>
@@ -383,16 +455,40 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 </details>
 
 <details>
-<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (3 mentions)</summary>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (11 mentions)</summary>
 
-**[00:09:30](/episodes/ep-rupRLXmSndU.md#ent-person-baron-coleman-t-00-08-59)**
-> "Well, apparently I'm a little late to the party because I was talking to Baron Coleman this weekend and he's like, yeah, I did an episode on Zachariah Qureshi."
+**[00:09:30](/episodes/ep-rupRLXmSndU.md#t-00-08-59)**
+> "Well, apparently I'm a little late to the party because I was talking to Barron Coleman this weekend and he's like, yeah, I did an episode on Zachariah Qureshi."
 
-**[00:13:04](/episodes/ep-rupRLXmSndU.md#ent-person-baron-coleman-t-00-13-04)**
-> "And I'm going to let Baron Coleman explain to you their... curious pattern of federa..."
+**[00:13:04](/episodes/ep-rupRLXmSndU.md#t-00-13-04)**
+> "And I'm going to let Barron Coleman explain to you their... curious pattern of federal funding that came in for built from its inception to today."
 
-**[00:51:28](/episodes/ep-rupRLXmSndU.md#ent-person-baron-coleman-t-00-51-28)**
-> "...so what i appreciate about uh baron and also lionel is their experience as lawyers th..."
+**[00:51:28](/episodes/ep-rupRLXmSndU.md#t-00-51-28)**
+> "and just go this person's evil this person's demonic i can't stand it this is wrong we don't need it i wish we could just flush it all out you know um and so what i appreciate about uh Barron Coleman and also lionel is their experience as lawyers they bring that to the table there is like you know the investigative form it's unique like he found this thing that i hadn't found that then"
+
+**[00:00:54](/episodes/ep-rupRLXmSndU.md#t-00-00-54)**
+> "This is Barron Coleman often says on his show, but it's a high IQ outfit."
+
+**[00:00:59](/episodes/ep-rupRLXmSndU.md#t-00-00-54)**
+> "You can't watch Barron Coleman show unless you're high IQ."
+
+**[00:50:46](/episodes/ep-rupRLXmSndU.md#t-00-50-46)**
+> "I enjoy Barron Coleman's show so much."
+
+**[00:16:31](/episodes/ep-rupRLXmSndU.md#t-00-16-05)**
+> "It's about to get even more interesting. This is me building on what Barron (Barron Coleman) researched, and I wish I had seen this earlier."
+
+**[00:22:47](/episodes/ep-rupRLXmSndU.md#t-00-22-38)**
+> "That was something that Barron (Barron Coleman) pointed out and people that watched this episode have pointed out as well."
+
+**[00:50:41](/episodes/ep-rupRLXmSndU.md#t-00-50-08)**
+> "Candace, along with Barron (Barron Coleman), et cetera, could replace the entire alphabet agencies. And I think we'd be so much better off."
+
+**[00:51:53](/episodes/ep-rupRLXmSndU.md#t-00-51-28)**
+> "locked in and referring to Barron (Barron Coleman) here about locked in perfectly to something that I had discovered I was like oh they were they were living in the same house I didn't realize that Qureshi was this relevant to the military we got some oh six and some oh fives I now know what that means military people do I sound cool"
+
+**[00:52:10](/episodes/ep-rupRLXmSndU.md#t-00-52-10)**
+> "am I stepping my game up a little bit can you admit that I'm stepping my game up from the beginning when I accidentally said e3 or e2 like I I'm learning we're all learning together and I'm trying to set my game up but um it separates it to be to be thorough and to be investigating and also to enjoy what you do you sense a joy in um all of their shows and uh Barron (Barron Coleman)'s show he's very funny and you know it's unfortunate if you If you're not high IQ,"
 
 </details>
 
@@ -400,7 +496,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 <summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (2 mentions)</summary>
 
 **[01:00:47](/episodes/ep-UYkXV9mYbT4.md#ent-person-baron-coleman-t-01-00-47)**
-> "... smaller YouTubers from Nisi, Baron, Coleman everybody everybody just just gave somet..."
+> "that they are just getting caught every single second of every day and they they can't get ahead you know and we it's it is a we thing like we all did this like I said it has been a group project and couldn't have done it without everybody ever all of the YouTubers or smaller YouTubers from Nisi, Baron Coleman everybody everybody just just gave something you know what I mean and it's been really amazing and deep and deeply appreciate it. It's so many people that I could name, obviously."
 
 **[01:02:28](/episodes/ep-UYkXV9mYbT4.md#ent-person-baron-coleman-t-01-02-10)**
 > "Right. Baron Coleman does a very good job of explaining that there's l..."
@@ -669,10 +765,10 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (2 mentions)</summary>
 
-**[01:01:14](/episodes/ep-HYn0P-P1wUw.md#ent-person-baron-coleman-t-01-00-57)**
+**[01:01:14](/episodes/ep-HYn0P-P1wUw.md#ent-person-baron-coleman-t-01-00-51)**
 > "you mentioned having Baron (Baron Coleman) on your podcast. When is that going to happen?"
 
-**[01:01:52](/episodes/ep-HYn0P-P1wUw.md#ent-person-baron-coleman-t-01-01-41)**
+**[01:01:52](/episodes/ep-HYn0P-P1wUw.md#ent-person-baron-coleman-t-01-01-31)**
 > "Yes, Baron Coleman."
 
 </details>
@@ -940,7 +1036,15 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Baron Coleman (4)</strong></summary>
+<summary><strong class="section-title">Statements about Baron Coleman (5)</strong></summary>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1)</summary>
+
+- [00:51:23](/episodes/ep-HGtMfbePDKk.md#t-00-50-56) (Accusation) **UFO 120 (commenter; identity unverified)** (via read message): ["UFO 120 claimed Andrew Wilson never served in the military and cited B..."](/statements/statement-f09629e44447.md)
+  - Also about: [Andrew Wilson](/entities/person-andrew-wilson.md)
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>
@@ -969,7 +1073,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1)</summary>
 
-- [01:01:20](/episodes/ep-HYn0P-P1wUw.md#t-01-00-57) (Promise) **Candace Owens**: ["Candace Owens plans to host Baron Coleman on a future Friday episode."](/statements/statement-3eb67b6a2850.md)
+- [01:01:20](/episodes/ep-HYn0P-P1wUw.md#t-01-00-51) (Promise) **Candace Owens**: ["Candace Owens plans to host Baron Coleman on a future Friday episode."](/statements/statement-3eb67b6a2850.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
 </details>

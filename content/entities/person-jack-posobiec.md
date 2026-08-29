@@ -120,7 +120,7 @@ Source: [Jack Posobiec | Official TPUSA Contributor](https://tpusa.com/contribut
 <details>
 <summary>Formerly Worked For (1)</summary>
 
-- **[U.S. Navy](/entities/org-us-navy.md)**
+- **[United States Navy](/entities/org-united-states-navy.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:49:49](/episodes/ep-ja26iltROkM.md#t-00-49-28): “I do know that he was a naval intelligence officer”
@@ -156,7 +156,7 @@ Source: [Jack Posobiec | Official TPUSA Contributor](https://tpusa.com/contribut
 <details>
 <summary>Referenced By (2)</summary>
 
-- **[U.S. Navy](/entities/org-us-navy.md)** formerly employed this
+- **[United States Navy](/entities/org-united-states-navy.md)** formerly employed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:49:49](/episodes/ep-ja26iltROkM.md#t-00-49-28): “I do know that he was a naval intelligence officer”

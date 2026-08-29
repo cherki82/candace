@@ -28,7 +28,7 @@ type: "accusation"
 **Timestamp:** [00:35:50](/episodes/ep-rupRLXmSndU.md#t-00-35-28) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2150);return false;">Play</a>
 
-> How many private equity firms wanted Charlie gone?
+> How many private equity firms wanted Charlie (Charlie Kirk) gone?
 
 ## Verification
 

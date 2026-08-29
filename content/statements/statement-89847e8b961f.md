@@ -24,13 +24,23 @@ veracity: "mixed"
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Erika Kirk](/entities/person-erika-kirk.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [02:00:33](/episodes/ep-nPhCKwJ6ye8.md#t-02-00-33) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(7233);return false;">Play</a>
 
 > some of the artifacts that Charlie was wearing were immediately returned to Erika.
+
+### 2. Candace Owens vs Andrew Wilson: The Great Debate.
+
+**Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
+**Timestamp:** [01:29:49](/episodes/ep-aPOyk1i2LOc.md#t-01-29-49) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(5389);return false;">Play</a>
+
+> some of the artifacts that Charlie was wearing were immediately returned to Erica.
 
 ## Verification
 

@@ -1,6 +1,6 @@
 ---
 title: "Phoenix"
-description: "Phoenix (Places) - 22 mentions"
+description: "Phoenix (Places) - 23 mentions"
 id: "gpe-phoenix"
 type: "GPE"
 categories:
@@ -20,9 +20,9 @@ Source: [Phoenix History and Facts | City of Phoenix](https://www.phoenix.gov/ad
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-phoenix-t-00-15-20">2025-10-09 · 00:15:41</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-G3zdOeHpvS0.md#ent-gpe-phoenix-t-00-28-38">2026-06-17 · 00:28:38</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>22</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-gpe-phoenix-t-00-22-52">2026-08-11 · 00:22:59</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -42,6 +42,7 @@ Source: [Phoenix History and Facts | City of Phoenix](https://www.phoenix.gov/ad
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-gpe-phoenix-t-00-03-41" style="--pulse-height:20%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-gpe-phoenix-t-00-07-31" style="--pulse-height:20%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 1 mentions" title="2026-05-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-gpe-phoenix-t-00-27-52" style="--pulse-height:60%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 3 mentions" title="2026-06-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-gpe-phoenix-t-00-22-52" style="--pulse-height:20%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +57,7 @@ Source: [Phoenix History and Facts | City of Phoenix](https://www.phoenix.gov/ad
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-gpe-phoenix-t-00-03-41) | 1 |
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-gpe-phoenix-t-00-07-31) | 1 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-gpe-phoenix-t-00-27-52) | 3 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-gpe-phoenix-t-00-22-52) | 1 |
 
 </details>
 </section>
@@ -63,7 +65,15 @@ Source: [Phoenix History and Facts | City of Phoenix](https://www.phoenix.gov/ad
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
+
+**[00:22:59](/episodes/ep-HGtMfbePDKk.md#ent-gpe-phoenix-t-00-22-52)**
+> "... but they invited me to their Phoenix headquarters where I sat down with Erika and othe..."
+
+</details>
 
 <details>
 <summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (3 mentions)</summary>
@@ -185,9 +195,10 @@ Source: [Phoenix History and Facts | City of Phoenix](https://www.phoenix.gov/ad
 <summary>Headquarters Of (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:05:30](/episodes/ep-ZAuuSq_j2_w.md#t-00-05-21): “We'll be live streaming... from Charlie's Phoenix Studio.”
+- [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. @ 00:22:59](/episodes/ep-HGtMfbePDKk.md#t-00-22-52): “They declined to go on the record, but they invited me to their Phoenix headquarters where I sat down with Erika and other leadership.”
 
 </details>
 
@@ -228,9 +239,10 @@ Source: [Phoenix History and Facts | City of Phoenix](https://www.phoenix.gov/ad
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** headquartered in this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Shocking Revelation About The Egyptian Planes... | Candace Ep 274 @ 00:05:30](/episodes/ep-ZAuuSq_j2_w.md#t-00-05-21): “We'll be live streaming... from Charlie's Phoenix Studio.”
+- [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. @ 00:22:59](/episodes/ep-HGtMfbePDKk.md#t-00-22-52): “They declined to go on the record, but they invited me to their Phoenix headquarters where I sat down with Erika and other leadership.”
 
 </details>
 

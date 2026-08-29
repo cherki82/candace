@@ -1,6 +1,6 @@
 ---
 title: "Long Beach, California"
-description: "Long Beach, California (Places) - 7 mentions"
+description: "Long Beach, California (Places) - 8 mentions"
 id: "gpe-long-beach-california"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [City of Long Beach](https://www.longbeach.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-long-beach-california-t-00-22-24">2026-03-30 · 00:22:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-WoXd4oLwd3w.md#ent-gpe-long-beach-california-t-00-19-44">2026-06-13 · 00:19:44</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-gpe-long-beach-california-t-00-10-17">2026-08-18 · 00:10:51</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -40,6 +40,7 @@ Source: [City of Long Beach](https://www.longbeach.gov/)
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-long-beach-california-t-00-02-55" style="--pulse-height:50%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-long-beach-california-t-00-30-35" style="--pulse-height:50%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-gpe-long-beach-california-t-00-19-44" style="--pulse-height:50%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-gpe-long-beach-california-t-00-10-17" style="--pulse-height:50%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [City of Long Beach](https://www.longbeach.gov/)
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-long-beach-california-t-00-02-55) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-long-beach-california-t-00-30-35) | 1 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-long-beach-california-t-00-19-44) | 1 |
+| 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-gpe-long-beach-california-t-00-10-17) | 1 |
 
 </details>
 </section>
@@ -57,7 +59,15 @@ Source: [City of Long Beach](https://www.longbeach.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1 mentions)</summary>
+
+**[00:10:51](/episodes/ep-4JxgOclKzqg.md#ent-gpe-long-beach-california-t-00-10-17)**
+> "... Francisco. Here's San Diego. Long Beach. Boise, Idaho. Washington State. Do you notice a ..."
+
+</details>
 
 <details>
 <summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1 mentions)</summary>

@@ -32,7 +32,7 @@ veracity: "true"
 **Timestamp:** [00:10:25](/episodes/ep-rupRLXmSndU.md#t-00-10-19) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(625);return false;">Play</a>
 
-> It lists Ahmed first and foremost, as you can see here, as the president and COO of Built Incorporated, which is based in Dallas-Fort Worth, Texas.
+> It lists Ahmed (Ahmed Qureshi) first and foremost, as you can see here, as the president and COO of Built Incorporated
 
 ## Verification
 

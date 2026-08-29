@@ -59,7 +59,7 @@ _Type: Concepts_
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
 
 **[00:36:56](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-frankism-t-00-36-32)**
-> "...e right about Sabatianism and Frankism and the Likud party is not at all, it's not a ref..."
+> "I got to tell you, my inbox is getting pretty filled to the brim of people who are Jewish Americans, rabbis even who write me and say, you are right about Sabbateanism and Frankism and the Likud party is not at all, it's not a reflection."
 
 </details>
 

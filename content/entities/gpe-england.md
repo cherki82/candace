@@ -1,6 +1,6 @@
 ---
 title: "England"
-description: "England (Places) - 10 mentions"
+description: "England (Places) - 11 mentions"
 id: "gpe-england"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [People and places: Countries and regions | Office for National Statisti
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-england-t-00-20-19">2026-01-16 · 00:20:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-gpe-england-t-00-00-01">2026-07-16 · 00:00:01</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-gpe-england-t-00-36-06">2026-08-11 · 00:36:19</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -43,6 +43,7 @@ Source: [People and places: Countries and regions | Office for National Statisti
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-england-t-00-38-37" style="--pulse-height:33%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-gpe-england-t-00-45-58" style="--pulse-height:33%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-gpe-england-t-00-00-01" style="--pulse-height:33%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-gpe-england-t-00-36-06" style="--pulse-height:33%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +57,7 @@ Source: [People and places: Countries and regions | Office for National Statisti
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-england-t-00-38-37) | 1 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-gpe-england-t-00-45-58) | 1 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-gpe-england-t-00-00-01) | 1 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-gpe-england-t-00-36-06) | 1 |
 
 </details>
 </section>
@@ -63,7 +65,15 @@ Source: [People and places: Countries and regions | Office for National Statisti
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
+
+**[00:36:19](/episodes/ep-HGtMfbePDKk.md#ent-gpe-england-t-00-36-06)**
+> "...eps pretending like he's from England and going into Aztec Stadium. and being jeered. T..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1 mentions)</summary>

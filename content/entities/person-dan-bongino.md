@@ -1,6 +1,6 @@
 ---
 title: "Dan Bongino"
-description: "Dan Bongino (People) - 41 mentions"
+description: "Dan Bongino (People) - 46 mentions"
 id: "person-dan-bongino"
 type: "PERSON"
 aliases:
@@ -23,8 +23,8 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-person-dan-bongino-t-00-38-10">2025-10-06 · 00:38:26</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-dan-bongino-t-02-36-32">2026-08-14 · 02:36:32</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>41</strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>46</strong></div>
 <div><span>Statements by</span><strong>7</strong></div>
 <div><span>Statements about</span><strong>11</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
@@ -44,7 +44,10 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-dan-bongino-t-00-22-16" style="--pulse-height:11%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-dan-bongino-t-00-45-58" style="--pulse-height:11%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-person-dan-bongino-t-00-11-41" style="--pulse-height:16%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 3 mentions" title="2026-07-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-person-dan-bongino-t-00-12-42" style="--pulse-height:8%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-person-dan-bongino-t-00-15-33" style="--pulse-height:11%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 2 mentions" title="2026-08-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-dan-bongino-t-02-36-24" style="--pulse-height:11%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-dan-bongino-t-01-55-22" style="--pulse-height:11%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -59,7 +62,10 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-dan-bongino-t-00-22-16) | 2 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-dan-bongino-t-00-45-58) | 2 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-dan-bongino-t-00-11-41) | 3 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-person-dan-bongino-t-00-12-42) | 1 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-person-dan-bongino-t-00-15-33) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-dan-bongino-t-02-36-24) | 2 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-dan-bongino-t-01-55-22) | 2 |
 
 </details>
 </section>
@@ -67,7 +73,7 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+<summary><strong class="section-title">Raw mentions (46)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -77,6 +83,36 @@ Source: [Deputy Director Bongino Swearing In | FBI](https://www.fbi.gov/news/gal
 
 **[02:36:32](/episodes/ep-nPhCKwJ6ye8.md#ent-person-dan-bongino-t-02-36-32)**
 > "Dan Bongino"
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (2 mentions)</summary>
+
+**[01:55:22](/episodes/ep-aPOyk1i2LOc.md#ent-person-dan-bongino-t-01-55-22)**
+> "... possible lead. I even texted Dan Bongino."
+
+**[01:55:32](/episodes/ep-aPOyk1i2LOc.md#ent-person-dan-bongino-t-01-55-32)**
+> "Bongino and the and Tulsi Gabbard's office"
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (2 mentions)</summary>
+
+**[00:15:40](/episodes/ep-1CFDtD0IgEg.md#ent-person-dan-bongino-t-00-15-33)**
+> "...ted nothing but transparency. Dan Bongino, Kash Patel, Erika Kirk, Turning Point USA."
+
+**[00:17:56](/episodes/ep-1CFDtD0IgEg.md#ent-person-dan-bongino-t-00-17-38)**
+> "...r we hear from Kash Patel and Dan Bongino and they clarify that, you know, the footage is g..."
+
+</details>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
+
+**[00:12:42](/episodes/ep-AH1KVKkweUE.md#ent-person-dan-bongino-t-00-12-42)**
+> "..., according to Kash Patel and Dan Bongino and various interviews before they got there and ..."
 
 </details>
 

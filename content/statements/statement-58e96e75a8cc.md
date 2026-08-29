@@ -1,6 +1,6 @@
 ---
-title: "seven days later is when it's publicly announced that Satis,..."
-description: "\"seven days later is when it's publicly announced that Satis, that French company, has inked a deal in Wilmington, Delaware, for a hangar\" — Candace Owens"
+title: "seven days later is when it's publicly announced that Satys,..."
+description: "\"seven days later is when it's publicly announced that Satys, that French company, has inked a deal in Wilmington, Delaware, for a hangar\" — Candace Owens"
 statement_id: "statement-58e96e75a8cc"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> seven days later is when it's publicly announced that Satis, that French company, has inked a deal in Wilmington, Delaware, for a hangar
+> seven days later is when it's publicly announced that Satys, that French company, has inked a deal in Wilmington, Delaware, for a hangar
 
 ## Attribution
 

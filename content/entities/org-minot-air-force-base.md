@@ -3,9 +3,17 @@ title: "Minot Air Force Base"
 description: "Minot Air Force Base (Organizations) - 5 mentions"
 id: "org-minot-air-force-base"
 type: "ORG"
+categories:
+  - "U.S. Air Force installation"
 ---
 
 _Type: Organizations_
+
+**Categories:** U.S. Air Force installation
+
+**Entity verification:** verified
+> Canonical name and identity for Minot Air Force Base confirmed by the cited direct external source.
+Source: [About Minot Air Force Base](https://www.minot.af.mil/About-Us/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-org-minot-air-force-base-t-00-08-31">2025-11-21 · 00:06:06</a></strong></div>

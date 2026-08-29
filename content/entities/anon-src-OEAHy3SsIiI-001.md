@@ -36,7 +36,7 @@ _No relationships extracted yet._
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1)</summary>
 
-- [00:10:01](/episodes/ep-OEAHy3SsIiI.md#t-00-09-23) [✓] (Claim) ["AmericaFest displayed a recreation of the tent where Charlie Kirk died at Utah V..."](/statements/statement-69bdbd2cc224.md)
+- [00:10:01](/episodes/ep-OEAHy3SsIiI.md#t-00-09-19) [✓] (Claim) ["AmericaFest displayed a recreation of the tent where Charlie Kirk died at Utah V..."](/statements/statement-69bdbd2cc224.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Utah Valley University](/entities/org-utah-valley-university.md)
 
 </details>

@@ -3,9 +3,17 @@ title: "2 Corinthians 3:17"
 description: "2 Corinthians 3:17 (Works & Media) - 1 mention"
 id: "work-2-corinthians-3-17"
 type: "WORK"
+categories:
+  - "biblical passage"
 ---
 
 _Type: Works & Media_
+
+**Categories:** biblical passage
+
+**Entity verification:** verified
+> The direct passage page confirms the canonical scripture reference.
+Source: [2 Corinthians 3:17 — Bible Gateway](https://www.biblegateway.com/passage/?search=2%20Corinthians%203%3A17&version=NIV)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-work-2-corinthians-3-17-t-00-58-43">2025-12-01 · 00:58:50</a></strong></div>

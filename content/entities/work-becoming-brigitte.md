@@ -1,6 +1,6 @@
 ---
 title: "Becoming Brigitte"
-description: "Becoming Brigitte (Works & Media) - 18 mentions"
+description: "Becoming Brigitte (Works & Media) - 20 mentions"
 id: "work-becoming-brigitte"
 type: "WORK"
 aliases:
@@ -22,9 +22,9 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-work-becoming-brigitte-t-00-50-13">2025-09-22 · 00:50:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-work-becoming-brigitte-t-00-20-53">2026-02-25 · 00:20:53</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-AoYZel7_cGQ.md#ent-work-becoming-brigitte-t-00-41-31">2026-07-30 · 00:41:31</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -45,6 +45,7 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-becoming-brigitte-t-00-00-00" style="--pulse-height:40%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-work-becoming-brigitte-t-00-35-55" style="--pulse-height:20%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-work-becoming-brigitte-t-00-20-53" style="--pulse-height:20%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-work-becoming-brigitte-t-00-41-31" style="--pulse-height:40%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 2 mentions" title="2026-07-30 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,6 +61,7 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-work-becoming-brigitte-t-00-00-00) | 2 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-work-becoming-brigitte-t-00-35-55) | 1 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-work-becoming-brigitte-t-00-20-53) | 1 |
+| 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-work-becoming-brigitte-t-00-41-31) | 2 |
 
 </details>
 </section>
@@ -67,7 +69,18 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (2 mentions)</summary>
+
+**[00:40:24](/episodes/ep-AoYZel7_cGQ.md#ent-work-becoming-brigitte-t-00-41-31)**
+> "I was at my lowest around the time when you announced the Brigitte series coming."
+
+**[00:41:31](/episodes/ep-AoYZel7_cGQ.md#ent-work-becoming-brigitte-t-00-41-31)**
+> "...ding it on the show um in the becoming Brigitte series was I mean I when I was falling down that ..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: A Wrinkle In Time | Episode 1 (1 mentions)</summary>

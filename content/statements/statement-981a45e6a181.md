@@ -26,7 +26,7 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
-**Timestamp:** [00:03:16](/episodes/ep-HYn0P-P1wUw.md#t-00-03-07) 
+**Timestamp:** [00:03:16](/episodes/ep-HYn0P-P1wUw.md#t-00-03-05) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(196);return false;">Play</a>
 
 > he was alone. And what we can tell you that he did when he got there was that he pulled into Cowboys Smokehouse on North Main Street. He grabbed himself a seat at the bar at this steakhouse, and he ordered himself some more food.

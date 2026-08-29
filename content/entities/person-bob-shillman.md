@@ -3,11 +3,19 @@ title: "Bob Shillman"
 description: "Bob Shillman (People) - 2 mentions"
 id: "person-bob-shillman"
 type: "PERSON"
+categories:
+  - "technology company founder"
 ---
 
 _Type: People_
 
+**Categories:** technology company founder
+
 > **Possibly overlapping entity records:** [Robert J. Shillman](/entities/person-robert-j-shillman) · [Robert Shillman](/entities/person-robert-shillman). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> Canonical name and identity for Bob Shillman confirmed by the cited direct external source.
+Source: [Cognex Investor Relations FAQs](https://investor.cognex.com/resources/faqs/default.aspx)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-person-bob-shillman-t-00-42-16">2025-09-30 · 00:42:40</a></strong></div>

@@ -12,7 +12,7 @@ time: "23:00"
 
 > Lance Twiggs brought in for questioning by authorities
 
-## Mentioned In (5 times)
+## Mentioned In (6 times)
 
 ### 1. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
 
@@ -53,3 +53,11 @@ time: "23:00"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(56);return false;">▶️ Play</a>
 
 > eed to be answered regarding his trans boyfriend, Lance Twiggs. Well, I just spoke to a family member who told me a lot about Lance Twiggs because the media is ki
+
+### 6. Candace Owens vs Andrew Wilson: The Great Debate.
+
+**Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
+**Timestamp:** [01:01:08](/episodes/ep-aPOyk1i2LOc.md#event-event-2025-09-11-lance-twiggs-brought-in-for-questioning-by-authori-t-01-00-56) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3668);return false;">▶️ Play</a>
+
+> you collected his phone on September 11th and that you sent it off or whatever you took a picture of

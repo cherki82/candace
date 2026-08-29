@@ -1,6 +1,6 @@
 ---
 title: "Dan Flood"
-description: "Dan Flood (People) - 103 mentions"
+description: "Dan Flood (People) - 108 mentions"
 id: "person-dan-flood"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-person-dan-flood-t-00-33-24">2025-11-20 · 00:33:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-person-dan-flood-t-00-51-43">2026-07-16 · 00:51:58</a></strong></div>
-<div><span>Episodes</span><strong>33</strong></div>
-<div><span>Mentions</span><strong>103</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-dan-flood-t-00-51-04">2026-08-21 · 00:51:04</a></strong></div>
+<div><span>Episodes</span><strong>36</strong></div>
+<div><span>Mentions</span><strong>108</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>41</strong></div>
-<div><span>Relationships</span><strong>17</strong></div>
+<div><span>Statements about</span><strong>42</strong></div>
+<div><span>Relationships</span><strong>15</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -40,8 +40,7 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 <a href="/episodes/ep-t4U7NjnUEgc.md#ent-person-dan-flood-t-00-28-37" style="--pulse-height:33%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 4 mentions" title="2025-12-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-es7PWdFGoFI.md#ent-person-dan-flood-t-00-06-11" style="--pulse-height:58%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 7 mentions" title="2025-12-16 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-dan-flood-t-01-08-10" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-dan-flood-t-00-15-17" style="--pulse-height:17%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-dan-flood-t-00-41-46" style="--pulse-height:8%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-dan-flood-t-00-15-28" style="--pulse-height:17%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-dan-flood-t-00-04-13" style="--pulse-height:17%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-dan-flood-t-00-00-00" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 12 mentions" title="2026-01-19 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-dan-flood-t-00-05-07" style="--pulse-height:83%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 10 mentions" title="2026-01-20 · 10 mentions"><span></span></a>
@@ -68,6 +67,10 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-dan-flood-t-01-03-52" style="--pulse-height:33%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 4 mentions" title="2026-07-14 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-dan-flood-t-00-12-22" style="--pulse-height:8%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-person-dan-flood-t-00-51-43" style="--pulse-height:8%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-person-dan-flood-t-00-24-12" style="--pulse-height:17%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 2 mentions" title="2026-08-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-dan-flood-t-00-15-12" style="--pulse-height:8%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-dan-flood-t-00-19-58" style="--pulse-height:17%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 2 mentions" title="2026-08-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-person-dan-flood-t-00-51-04" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -78,8 +81,7 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 | 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-person-dan-flood-t-00-28-37) | 4 |
 | 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-dan-flood-t-00-06-11) | 7 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-dan-flood-t-01-08-10) | 1 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-dan-flood-t-00-15-17) | 2 |
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-dan-flood-t-00-41-46) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-dan-flood-t-00-15-28) | 2 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-dan-flood-t-00-04-13) | 2 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-dan-flood-t-00-00-00) | 12 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-dan-flood-t-00-05-07) | 10 |
@@ -106,6 +108,10 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-dan-flood-t-01-03-52) | 4 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-dan-flood-t-00-12-22) | 1 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-person-dan-flood-t-00-51-43) | 1 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-dan-flood-t-00-24-12) | 2 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-person-dan-flood-t-00-15-12) | 1 |
+| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-person-dan-flood-t-00-19-58) | 2 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-dan-flood-t-00-51-04) | 1 |
 
 </details>
 </section>
@@ -113,7 +119,45 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (103)</strong></summary>
+<summary><strong class="section-title">Raw mentions (108)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
+
+**[00:51:04](/episodes/ep-_cNtgris8Ik.md#ent-person-dan-flood-t-00-51-04)**
+> "...ying plural text messages, to Dan Flood and to yourself the night before that Charlie tho..."
+
+</details>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (2 mentions)</summary>
+
+**[00:19:58](/episodes/ep-E7P2ShoYDUA.md#ent-person-dan-flood-t-00-19-58)**
+> "I said she's lying. There's no way that I know that this text message exists and that this text message was sent from Dan Flood and she doesn't. This is in December. This is in December that she's joining Glenn Beck, mid-December that she is joining Glenn Beck and asserting."
+
+**[00:20:43](/episodes/ep-E7P2ShoYDUA.md#ent-person-dan-flood-t-00-20-43)**
+> "So I guess Dan Flood didn't tell her. I guess Andrew Kolvet, who was g..."
+
+</details>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
+
+**[00:15:36](/episodes/ep-d7VsbEIWkP8.md#ent-person-dan-flood-t-00-15-12)**
+> "Dan Flood"
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (2 mentions)</summary>
+
+**[00:24:24](/episodes/ep-ChuWo-n49B8.md#ent-person-dan-flood-t-00-24-12)**
+> "He has his bag, as assistants do, have been many of these events, and he's speaking, he's speaking with Dan Flood, and this is around 12-15, I'm going to show you that, you can see he's wearing a bright blue shirt in the corner there, that's him talking, you could just catch him with his bag that's pointing, and then what happens after that, Dan's obviously talking into his shirt, then Nate (Nate Walker),"
+
+**[00:25:53](/episodes/ep-ChuWo-n49B8.md#ent-person-dan-flood-t-00-25-38)**
+> "...'t know. Maybe, I don't know, Dan Flood asked him to go up there to check on something. I..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1 mentions)</summary>
@@ -483,20 +527,12 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1 mentions)</summary>
-
-**[00:42:21](/episodes/ep-zSKrxIUMNqw.md#ent-person-dan-flood-t-00-41-46)**
-> "... was Schaefer Security, where Dan Flood came out of, and Brian Harpole."
-
-</details>
-
-<details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (2 mentions)</summary>
 
-**[00:15:32](/episodes/ep-HYn0P-P1wUw.md#ent-person-dan-flood-t-00-15-17)**
+**[00:15:32](/episodes/ep-HYn0P-P1wUw.md#ent-person-dan-flood-t-00-15-28)**
 > "...Charlie (Charlie Kirk) texted Dan Flood and Andrew Kolvet the night before saying that he..."
 
-**[00:19:39](/episodes/ep-HYn0P-P1wUw.md#ent-person-dan-flood-t-00-19-20)**
+**[00:19:39](/episodes/ep-HYn0P-P1wUw.md#ent-person-dan-flood-t-00-19-25)**
 > "... several times. Or relatedly, Dan Flood. Now, Dan Flood was not seen at Fort Huachuca, bu..."
 
 </details>
@@ -504,7 +540,7 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
 
-**[01:08:43](/episodes/ep-OEAHy3SsIiI.md#ent-person-dan-flood-t-01-08-10)**
+**[01:08:40](/episodes/ep-OEAHy3SsIiI.md#ent-person-dan-flood-t-01-08-10)**
 > "By the way, I want you guys to know I have reached out to Brian Harpole now four times. I've also reached out to Dan Flood."
 
 </details>
@@ -628,19 +664,12 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details>
-<summary>Formerly Worked For (2)</summary>
+<summary>Formerly Worked For (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:20:31](/episodes/ep-Kmt6HgRjckU.md#t-00-20-18): “he also messaged Dan Flood, the security that's to his right”
-
-</details>
-
-- **[Schaefer Security](/entities/org-schaefer-security.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:42:21](/episodes/ep-zSKrxIUMNqw.md#t-00-41-46): “It was Schaefer Security, where Dan Flood came out of, and Brian Harpole.”
 
 </details>
 
@@ -685,7 +714,7 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Referenced By (8)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -714,13 +743,6 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 @ 00:20:31](/episodes/ep-Kmt6HgRjckU.md#t-00-20-18): “he also messaged Dan Flood, the security that's to his right”
-
-</details>
-
-- **[Schaefer Security](/entities/org-schaefer-security.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:42:21](/episodes/ep-zSKrxIUMNqw.md#t-00-41-46): “It was Schaefer Security, where Dan Flood came out of, and Brian Harpole.”
 
 </details>
 
@@ -757,7 +779,23 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Dan Flood (41)</strong></summary>
+<summary><strong class="section-title">Statements about Dan Flood (42)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
+
+- [00:51:04](/episodes/ep-_cNtgris8Ik.md#t-00-51-04) (Claim) **Candace Owens** (via paraphrase): ["Owens said Kolvet told her about multiple messages to Dan Flood and to..."](/statements/statement-e3f5cfa4f7dc.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
+
+- [00:24:24](/episodes/ep-ChuWo-n49B8.md#t-00-24-12) (Claim) **Candace Owens**: ["Video showed Nate Walker with his bag around 12:15; when the explosive..."](/statements/statement-295c26ed081f.md)
+  - Also about: [Nate Walker](/entities/person-nate-walker.md), [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1)</summary>
@@ -905,20 +943,12 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 </details>
 
 <details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1)</summary>
-
-- [00:42:21](/episodes/ep-zSKrxIUMNqw.md#t-00-41-46) (Accusation) **Candace Owens**: ["Schaefer Security controlled Charlie Kirk's travel security before Kir..."](/statements/statement-e858de21dbac.md)
-  - Also about: [Schaefer Security](/entities/org-schaefer-security.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
-
-</details>
-
-<details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (2)</summary>
 
-- [00:15:32](/episodes/ep-HYn0P-P1wUw.md#t-00-15-17) (Claim) **Candace Owens**: ["On the night before his death, Charlie Kirk texted Dan Flood and Andre..."](/statements/statement-c22432e9c7f9.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Erika Kirk](/entities/person-erika-kirk.md)
+- [00:15:32](/episodes/ep-HYn0P-P1wUw.md#t-00-15-28) (Claim) **Candace Owens**: ["On the night before his death, Charlie Kirk texted Dan Flood and Andre..."](/statements/statement-c22432e9c7f9.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
-- [00:19:39](/episodes/ep-HYn0P-P1wUw.md#t-00-19-20) (Claim) **Candace Owens**: ["Brian Harpole and Dan Flood had not responded to Candace Owens's quest..."](/statements/statement-7ef73732498c.md)
+- [00:19:39](/episodes/ep-HYn0P-P1wUw.md#t-00-19-25) (Claim) **Candace Owens**: ["Brian Harpole and Dan Flood had not responded to Candace Owens's quest..."](/statements/statement-7ef73732498c.md)
   - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </details>
@@ -971,7 +1001,7 @@ Source: [Dan Flood - ExecAtlas](https://people.equilar.com/bio/person/dan-flood-
 <details>
 <summary>Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 (1)</summary>
 
-- [00:37:10](/episodes/ep-sImMM04XdWY.md#t-00-36-51) (Claim) **Candace Owens**: ["Dan Flood was primarily and only concerned with the Hall of Flags behi..."](/statements/statement-37bf53db249d.md)
+- [00:37:10](/episodes/ep-sImMM04XdWY.md#t-00-36-51) (Claim) **Candace Owens**: ["Dan Flood apparently cared primarily about making sure that Turning Po..."](/statements/statement-37bf53db249d.md)
 
 </details>
 

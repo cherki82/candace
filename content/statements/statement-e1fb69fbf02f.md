@@ -4,9 +4,10 @@ description: "\"Candace Owens accused Andrew Kolvet of lying that Ben Shapiro an
 statement_id: "statement-e1fb69fbf02f"
 speaker: "Candace Owens"
 type: "accusation"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -39,7 +40,20 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The transcript context records Owens making both accusations summarized here about Kolvet's friendship claim and TPUSA allowing Shapiro to attack Kirk's friends. Verification is limited to the fact that the accusations were made.
+
+**Confidence:** High
+
+**Sources:**
+
+- [EXCLUSIVE: Ben Shapiro's 9/10 Lunch Date — Candace Ep. 365 transcript](https://podcasts.happyscribe.com/candace/10-lunch-date-more-text-messages-from-charlie-kirk)
+
+*Verified: 2026-08-27T19:42:39.589207*
 
 ---
 

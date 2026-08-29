@@ -1,6 +1,6 @@
 ---
 title: "Virginia"
-description: "Virginia (Places) - 20 mentions"
+description: "Virginia (Places) - 21 mentions"
 id: "gpe-virginia"
 type: "GPE"
 categories:
@@ -17,12 +17,12 @@ Source: [About Virginia | Commonwealth of Virginia](https://www.commonwealth.vir
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-virginia-t-00-05-01">2025-10-01 · 00:05:24</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-virginia-t-00-20-46">2026-07-20 · 00:21:07</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-virginia-t-00-21-47">2026-07-29 · 00:21:57</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -44,6 +44,7 @@ Source: [About Virginia | Commonwealth of Virginia](https://www.commonwealth.vir
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-virginia-t-00-49-59" style="--pulse-height:25%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-virginia-t-00-18-27" style="--pulse-height:25%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-virginia-t-00-20-46" style="--pulse-height:25%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-virginia-t-00-21-47" style="--pulse-height:25%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -63,6 +64,7 @@ Source: [About Virginia | Commonwealth of Virginia](https://www.commonwealth.vir
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-virginia-t-00-49-59) | 1 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-virginia-t-00-18-27) | 1 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-gpe-virginia-t-00-20-46) | 1 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-virginia-t-00-21-47) | 1 |
 
 </details>
 </section>
@@ -70,7 +72,15 @@ Source: [About Virginia | Commonwealth of Virginia](https://www.commonwealth.vir
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
+
+**[00:21:57](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-virginia-t-00-21-47)**
+> "Foster (Foster Curtiss) lives in Virginia. Foster (Foster Curtiss) spent 21 years."
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1 mentions)</summary>
@@ -207,6 +217,28 @@ Source: [About Virginia | Commonwealth of Virginia](https://www.commonwealth.vir
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Residence Of (1)</summary>
+
+- **[Foster Curtiss](/entities/person-foster-curtiss.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:21:57](/episodes/ep-Vu6Y24pqhZs.md#t-00-21-47): “Foster (Foster Curtiss) lives in Virginia. Foster (Foster Curtiss) spent 21 years.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Foster Curtiss](/entities/person-foster-curtiss.md)** lives in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:21:57](/episodes/ep-Vu6Y24pqhZs.md#t-00-21-47): “Foster (Foster Curtiss) lives in Virginia. Foster (Foster Curtiss) spent 21 years.”
+
+</details>
+
+</details>
 
 </details>

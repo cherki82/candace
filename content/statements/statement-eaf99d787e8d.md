@@ -4,9 +4,10 @@ description: "\"Charlie Kirk wrote that Jeremy Boreing had '100% workshopped' th
 statement_id: "statement-eaf99d787e8d"
 speaker: "Charlie Kirk"
 type: "accusation"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -36,7 +37,20 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The source-scoped context records Owens reading messages attributed to Kirk that say Boreing workshopped the attack, call it a C-level hit, and describe it as coordinated. This verifies the quoted accusation as presented, not the underlying coordination claim.
+
+**Confidence:** High
+
+**Sources:**
+
+- [EXCLUSIVE: Ben Shapiro's 9/10 Lunch Date — Candace Ep. 365 transcript](https://podcasts.happyscribe.com/candace/10-lunch-date-more-text-messages-from-charlie-kirk)
+
+*Verified: 2026-08-27T19:42:39.589193*
 
 ---
 

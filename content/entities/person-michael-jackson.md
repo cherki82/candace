@@ -18,8 +18,8 @@ Source: [Michael Jackson | Biography, Albums, Songs, Thriller, Beat It, & Facts]
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-michael-jackson-t-00-23-52">2025-11-15 · 00:23:52</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-person-michael-jackson-t-00-05-04">2026-07-23 · 00:05:04</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-person-michael-jackson-t-00-39-20">2026-08-06 · 00:39:43</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
 <div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
@@ -32,24 +32,28 @@ Source: [Michael Jackson | Biography, Albums, Songs, Thriller, Beat It, & Facts]
 <p>Highest activity: <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-michael-jackson-t-00-23-52">From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-michael-jackson-t-00-23-52" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 4 mentions" title="2025-11-15 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-michael-jackson-t-00-15-06" style="--pulse-height:75%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 3 mentions" title="2026-01-07 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#t-01-07-28" style="--pulse-height:25%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-michael-jackson-t-00-50-02" style="--pulse-height:50%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-michael-jackson-t-00-42-59" style="--pulse-height:25%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-michael-jackson-t-00-57-38" style="--pulse-height:75%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-person-michael-jackson-t-00-02-47" style="--pulse-height:75%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 3 mentions" title="2026-07-22 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-person-michael-jackson-t-00-05-04" style="--pulse-height:25%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-person-michael-jackson-t-00-39-43" style="--pulse-height:25%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-person-michael-jackson-t-00-39-20" style="--pulse-height:25%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-michael-jackson-t-00-23-52) | 4 |
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-michael-jackson-t-00-15-06) | 3 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#t-01-07-28) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-michael-jackson-t-00-50-02) | 2 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-michael-jackson-t-00-42-59) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-michael-jackson-t-00-57-38) | 3 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-michael-jackson-t-00-02-47) | 3 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-michael-jackson-t-00-05-04) | 1 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-person-michael-jackson-t-00-39-43) | 1 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-michael-jackson-t-00-39-20) | 1 |
 
 </details>
 </section>
@@ -58,6 +62,22 @@ Source: [Michael Jackson | Biography, Albums, Songs, Thriller, Beat It, & Facts]
 
 <details>
 <summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:39:43](/episodes/ep-ChuWo-n49B8.md#ent-person-michael-jackson-t-00-39-20)**
+> "We saw what happened to Britney Spears. We saw what happened to Kanye West. We saw what happened to Michael Jackson."
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (1 mentions)</summary>
+
+**[00:40:00](/episodes/ep-HZvwbfePe7o.md#ent-person-michael-jackson-t-00-39-43)**
+> "But I am good now. I really meant it when I said to you last week that I feel like Charlie (Charlie Kirk) is fighting with me. Before, I was just trying to survive, because it was so much to contend with, and it was designed that way. It was meant to be a psychological attack on me. That is what they do: they try to psychologically break you. That is what they did to Michael Jackson. It is what they did to Kanye West. It is supposed to drive you crazy, because they are telling you reality is not—"
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>
@@ -115,16 +135,10 @@ Source: [Michael Jackson | Biography, Albums, Songs, Thriller, Beat It, & Facts]
 </details>
 
 <details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (3 mentions)</summary>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
 
-**[00:15:06](/episodes/ep-zSKrxIUMNqw.md#ent-person-michael-jackson-t-00-15-06)**
-> "...ire when I was speaking about Michael Jackson that it's plausible that Hollywood is being run b..."
-
-**[00:15:52](/episodes/ep-zSKrxIUMNqw.md#ent-person-michael-jackson-t-00-15-52)**
-> "...aybe that's the point of what Michael Jackson,"
-
-**[00:20:57](/episodes/ep-zSKrxIUMNqw.md#ent-person-michael-jackson-t-00-20-51)**
-> "Whether you're talking about Michael Jackson,"
+**[01:07:47](/episodes/ep-OEAHy3SsIiI.md#t-01-07-28)**
+> "Corey writes, Charlie (Charlie Kirk) got Michael Jacksoned."
 
 </details>
 

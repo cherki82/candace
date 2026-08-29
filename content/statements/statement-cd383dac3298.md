@@ -4,9 +4,10 @@ description: "\"Candace Owens corrected herself to say that Stephen 'tWitch' Bos
 statement_id: "statement-cd383dac3298"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -33,7 +34,21 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Owens explicitly corrects 2002 to 2022 in the source context. Los Angeles Times and TMZ reporting support that Boss was 40, died from a self-inflicted gunshot wound at the Oak Tree Inn, checked in Monday, and was found by motel staff Tuesday.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Stephen 'tWitch' Boss' autopsy report sheds new light on details of his death](https://www.latimes.com/entertainment-arts/story/2023-05-25/stephen-twitch-boss-autopsy-report-sheds-new-light-on-details-of-his-death)
+- [DJ Stephen 'tWitch' Boss Checked Into Motel One Day Before Body Was Found](https://www.tmz.com/2022/12/14/ellen-dj-stephen-twitch-boss-hotel-dead-dies/)
+
+*Verified: 2026-08-27T19:42:39.589246*
 
 ---
 

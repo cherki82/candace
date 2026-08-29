@@ -1,6 +1,6 @@
 ---
 title: "Emmanuel Macron"
-description: "Emmanuel Macron (People) - 113 mentions"
+description: "Emmanuel Macron (People) - 117 mentions"
 id: "person-emmanuel-macron"
 type: "PERSON"
 aliases:
@@ -23,8 +23,8 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#t-00-45-49">2025-09-18 · 00:46:01</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-emmanuel-macron-t-02-21-59">2026-08-14 · 02:22:25</a></strong></div>
-<div><span>Episodes</span><strong>28</strong></div>
-<div><span>Mentions</span><strong>113</strong></div>
+<div><span>Episodes</span><strong>32</strong></div>
+<div><span>Mentions</span><strong>117</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
@@ -50,7 +50,7 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-emmanuel-macron-t-00-01-30" style="--pulse-height:21%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 5 mentions" title="2025-12-02 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-person-emmanuel-macron-t-00-49-40" style="--pulse-height:25%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 6 mentions" title="2025-12-03 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#t-00-06-27" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-emmanuel-macron-t-00-53-16" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-emmanuel-macron-t-00-53-08" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-emmanuel-macron-t-00-35-55" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-emmanuel-macron-t-00-00-00" style="--pulse-height:29%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 7 mentions" title="2026-02-04 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-person-emmanuel-macron-t-00-43-01" style="--pulse-height:8%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
@@ -62,7 +62,11 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 <a href="/episodes/ep-uC_GjKU8rs8.md#t-00-00-00" style="--pulse-height:8%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-emmanuel-macron-t-00-00-44" style="--pulse-height:8%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 2 mentions" title="2026-05-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-person-emmanuel-macron-t-00-36-50" style="--pulse-height:8%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-person-emmanuel-macron-t-00-08-25" style="--pulse-height:8%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-person-emmanuel-macron-t-00-52-23" style="--pulse-height:8%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 1 mentions" title="2026-07-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-emmanuel-macron-t-01-02-41" style="--pulse-height:8%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-emmanuel-macron-t-02-21-59" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-emmanuel-macron-t-01-41-07" style="--pulse-height:8%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -83,7 +87,7 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-person-emmanuel-macron-t-00-01-30) | 5 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-emmanuel-macron-t-00-49-40) | 6 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) | 2 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-emmanuel-macron-t-00-53-16) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-emmanuel-macron-t-00-53-08) | 1 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-emmanuel-macron-t-00-35-55) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-emmanuel-macron-t-00-00-00) | 7 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-emmanuel-macron-t-00-43-01) | 1 |
@@ -95,7 +99,11 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#t-00-00-00) | 1 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-emmanuel-macron-t-00-00-44) | 2 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-person-emmanuel-macron-t-00-36-50) | 2 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-person-emmanuel-macron-t-00-08-25) | 1 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-person-emmanuel-macron-t-00-52-23) | 1 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-person-emmanuel-macron-t-01-02-41) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-emmanuel-macron-t-02-21-59) | 1 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-emmanuel-macron-t-01-41-07) | 1 |
 
 </details>
 </section>
@@ -103,13 +111,45 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (113)</strong></summary>
+<summary><strong class="section-title">Raw mentions (117)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[02:22:25](/episodes/ep-nPhCKwJ6ye8.md#ent-person-emmanuel-macron-t-02-21-59)**
 > "...h this like I can't hack into Emmanuel Macron's bank accounts and say whether or not the informat..."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (1 mentions)</summary>
+
+**[01:41:23](/episodes/ep-aPOyk1i2LOc.md#ent-person-emmanuel-macron-t-01-41-07)**
+> "...h this like i can't hack into emmanuel macron's bank accounts and say whether or not the informat..."
+
+</details>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
+
+**[01:02:41](/episodes/ep-d7VsbEIWkP8.md#ent-person-emmanuel-macron-t-01-02-41)**
+> "Emmanuel Macron"
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (1 mentions)</summary>
+
+**[00:52:23](/episodes/ep-iB-YtO3UZOg.md#ent-person-emmanuel-macron-t-00-52-23)**
+> "It bothers me deeply. They're all Emmanuel Macron. Don't act like Emmanuel Macron. Act like Brigitte (Brigitte Macron). You know, be a man."
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (1 mentions)</summary>
+
+**[00:08:58](/episodes/ep-HZvwbfePe7o.md#ent-person-emmanuel-macron-t-00-08-25)**
+> "Emmanuel Macron coming to the White House and asking me to be quiet—that is something that should be shared publicly."
 
 </details>
 
@@ -228,7 +268,7 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
 
-**[00:53:26](/episodes/ep-HYn0P-P1wUw.md#ent-person-emmanuel-macron-t-00-53-16)**
+**[00:53:26](/episodes/ep-HYn0P-P1wUw.md#ent-person-emmanuel-macron-t-00-53-08)**
 > "i did these things to emmanuel when he was 14 does it actually matter what matte..."
 
 </details>

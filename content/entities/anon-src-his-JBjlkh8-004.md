@@ -1,0 +1,89 @@
+---
+title: "Brittany Watson (online commenter; identity unverified)"
+description: "Brittany Watson (online commenter; identity unverified) (Anonymous Sources) - 4 mentions"
+id: "anon-src-his-JBjlkh8-004"
+type: "ANONYMOUS_SOURCE"
+aliases:
+  - "Britta"
+  - "Brittany Watson"
+---
+
+_Type: Anonymous Sources_
+
+**Also known as:** Britta, Brittany Watson
+
+<div class="entity-summary-grid">
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-anon-src-his-JBjlkh8-004-t-00-55-05">2025-09-18 · 00:55:14</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-his-JBjlkh8.md#ent-anon-src-his-JBjlkh8-004-t-01-02-05">2025-12-03 · 01:02:19</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Statements by</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-anon-src-his-JBjlkh8-004-t-00-46-31">Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263</a> (2 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-sreYYcID-QY.md#ent-anon-src-his-JBjlkh8-004-t-00-55-05" style="--pulse-height:50%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 1 mentions" title="2025-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-anon-src-his-JBjlkh8-004-t-00-46-31" style="--pulse-height:100%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-anon-src-his-JBjlkh8-004-t-01-02-05" style="--pulse-height:50%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-anon-src-his-JBjlkh8-004-t-00-55-05) | 1 |
+| 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-anon-src-his-JBjlkh8-004-t-00-46-31) | 2 |
+| 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-anon-src-his-JBjlkh8-004-t-01-02-05) | 1 |
+
+</details>
+</section>
+
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
+<details>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 (1 mentions)</summary>
+
+**[01:02:19](/episodes/ep-his-JBjlkh8.md#ent-anon-src-his-JBjlkh8-004-t-01-02-05)**
+> "... of ways—holding you and your family in prayer, Candace." Keep up the prayers. Keep up the prayers. Brittany Watson writes, "Candace, you are not just going max. You are going scorched earth. And after watching Mond..."
+
+</details>
+
+<details>
+<summary>Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263 (2 mentions)</summary>
+
+**[00:46:49](/episodes/ep-MUA9ebCF4Ow.md#ent-anon-src-his-JBjlkh8-004-t-00-46-31)**
+> "...ng max. I love that. I love that he said "Go max." It's such a Charlie (Charlie Kirk) thing to say. Brittany Watson writes, "The Charlie (Charlie Kirk) betrayal and assassination is shaping up to be the scandal of o..."
+
+**[00:48:22](/episodes/ep-MUA9ebCF4Ow.md#ent-anon-src-his-JBjlkh8-004-t-00-47-54)**
+> "... care. They want nothing but the truth, and they know they're not getting it, which is problematic. Brittany Watson—I'm sorry—Kamaya writes, "Candace (Candace Owens) is homeschooling the internet and homeschooling m..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 (1 mentions)</summary>
+
+**[00:55:14](/episodes/ep-sreYYcID-QY.md#ent-anon-src-his-JBjlkh8-004-t-00-55-05)**
+> "...ying for you and your family. Stay safe and keep on, warrior." Thank you so much for this donation. Brittany Watson writes, "Candace (Candace Owens), you are like a crime-fighting superhero, solving all of the world..."
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Relationships</strong></summary>
+
+_No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Anonymous Source Details</strong></summary>
+
+</details>

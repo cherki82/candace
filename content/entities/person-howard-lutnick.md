@@ -69,7 +69,7 @@ Source: [Howard Lutnick | U.S. Department of Commerce](https://www.commerce.gov/
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
 
 **[00:18:05](/episodes/ep-ZIH5-V6UPkg.md#ent-person-howard-lutnick-t-00-17-56)**
-> "...be at your cool, corrupt kid, Howard Ludnick, Jeffrey Epstein class table. Thank you s..."
+> "I don't want to be at your cool, corrupt kid, Howard Lutnick, Jeffrey Epstein class table. Thank you so much for delineating that I'm not with you, a sinking, burning ship. He wasn't loyal to his original mission."
 
 </details>
 

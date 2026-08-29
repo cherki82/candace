@@ -1,6 +1,6 @@
 ---
 title: "Field of Greens"
-description: "Field of Greens (Organizations) - 22 mentions"
+description: "Field of Greens (Organizations) - 26 mentions"
 id: "org-field-of-greens"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [Field of Greens](https://fieldofgreens.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-field-of-greens-t-00-46-10">2026-01-14 · 00:46:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-org-field-of-greens-t-00-26-07">2026-07-16 · 00:26:23</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>22</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-field-of-greens-t-02-32-11">2026-08-14 · 02:32:46</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -42,6 +42,8 @@ Source: [Field of Greens](https://fieldofgreens.com/)
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-field-of-greens-t-00-42-54" style="--pulse-height:40%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 2 mentions" title="2026-05-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-field-of-greens-t-00-47-10" style="--pulse-height:40%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 2 mentions" title="2026-06-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-org-field-of-greens-t-00-25-24" style="--pulse-height:60%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#ent-org-field-of-greens-t-00-45-13" style="--pulse-height:40%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 2 mentions" title="2026-08-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-field-of-greens-t-02-32-11" style="--pulse-height:40%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +56,8 @@ Source: [Field of Greens](https://fieldofgreens.com/)
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-org-field-of-greens-t-00-42-54) | 2 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-org-field-of-greens-t-00-47-10) | 2 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-field-of-greens-t-00-25-24) | 3 |
+| 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-org-field-of-greens-t-00-45-13) | 2 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-field-of-greens-t-02-32-11) | 2 |
 
 </details>
 </section>
@@ -61,7 +65,29 @@ Source: [Field of Greens](https://fieldofgreens.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (2 mentions)</summary>
+
+**[02:32:22](/episodes/ep-aPOyk1i2LOc.md#ent-org-field-of-greens-t-02-32-11)**
+> "...o want to tell you guys about Field of Greens because I am always looking past the headlines an..."
+
+**[02:32:46](/episodes/ep-aPOyk1i2LOc.md#ent-org-field-of-greens-t-02-32-11)**
+> "That's one reason I love Field of Greens because their focus is on It is on quality, trans..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (2 mentions)</summary>
+
+**[00:45:13](/episodes/ep-5zgkrOaCCj4.md#ent-org-field-of-greens-t-00-45-13)**
+> "... check out fieldofgreens.com. Field of Greens is 100% organic fruits and vegetables that are de..."
+
+**[00:45:30](/episodes/ep-5zgkrOaCCj4.md#ent-org-field-of-greens-t-00-45-13)**
+> "Field of Greens promises that your doctor will notice your improv..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (3 mentions)</summary>

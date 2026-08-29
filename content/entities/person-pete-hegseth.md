@@ -1,6 +1,6 @@
 ---
 title: "Pete Hegseth"
-description: "Pete Hegseth (People) - 33 mentions"
+description: "Pete Hegseth (People) - 38 mentions"
 id: "person-pete-hegseth"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-pete-hegseth-t-00-02-17">2026-03-10 · 00:02:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-pete-hegseth-t-00-25-16">2026-06-18 · 00:25:23</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>33</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-person-pete-hegseth-t-00-38-01">2026-08-04 · 00:38:30</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>38</strong></div>
 <div><span>Statements by</span><strong>6</strong></div>
 <div><span>Statements about</span><strong>13</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -44,6 +44,9 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-person-pete-hegseth-t-00-15-16" style="--pulse-height:90%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 9 mentions" title="2026-06-11 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-pete-hegseth-t-00-00-41" style="--pulse-height:10%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-pete-hegseth-t-00-10-51" style="--pulse-height:60%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 6 mentions" title="2026-06-18 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-person-pete-hegseth-t-00-27-58" style="--pulse-height:10%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-person-pete-hegseth-t-00-29-39" style="--pulse-height:10%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-person-pete-hegseth-t-00-36-17" style="--pulse-height:30%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 3 mentions" title="2026-08-04 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +61,9 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-person-pete-hegseth-t-00-15-16) | 9 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-pete-hegseth-t-00-00-41) | 1 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-pete-hegseth-t-00-10-51) | 6 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-person-pete-hegseth-t-00-27-58) | 1 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-person-pete-hegseth-t-00-29-39) | 1 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-person-pete-hegseth-t-00-36-17) | 3 |
 
 </details>
 </section>
@@ -65,7 +71,37 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (3 mentions)</summary>
+
+**[00:36:17](/episodes/ep-1CFDtD0IgEg.md#ent-person-pete-hegseth-t-00-36-17)**
+> "...o we didn't do it it was iran pete hegseth followed up the same message we don't we don't we..."
+
+**[00:36:34](/episodes/ep-1CFDtD0IgEg.md#ent-person-pete-hegseth-t-00-36-17)**
+> "...at struck the school and then Pete Hegseth had to come out again and said oh they were commi..."
+
+**[00:38:30](/episodes/ep-1CFDtD0IgEg.md#ent-person-pete-hegseth-t-00-38-01)**
+> "... comes out, Defense Secretary Pete Hegseth confirms America is conducting a formal military ..."
+
+</details>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
+
+**[00:29:39](/episodes/ep-AH1KVKkweUE.md#ent-person-pete-hegseth-t-00-29-39)**
+> "...n up no matter how many times Pete Hegseth jogs with them and is like, okay, now it's time t..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
+
+**[00:27:58](/episodes/ep-Vu6Y24pqhZs.md#ent-person-pete-hegseth-t-00-27-58)**
+> "I didn't realize they were present in that many countries. They had used plain clothed civilians. I wasn't sure actually who the NCIS reports to directly. I'm thinking, is it like Pete Hegseth?"
+
+</details>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (6 mentions)</summary>
@@ -229,12 +265,21 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 </details>
 
 <details>
-<summary>Criticized By (1)</summary>
+<summary>Criticized By (2)</summary>
 
 - **[Gabrielle Cuccia](/entities/person-gabrielle-cuccia.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:14:00](/episodes/ep-BxN2-aeMYIs.md#t-00-13-49): “And that's exactly what Gabrielle Cucchia did. Now she goes by Gabby and I can tell you who she is. One piece of her past is she was fired as the Pentagon's chief correspondent. She claimed she was fired after she criticized Pete Hegseth. for having established new rules that actually limited the press's access to the Pentagon.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:29:39](/episodes/ep-AH1KVKkweUE.md#t-00-29-39): “That's why they're having issues getting people to sign up no matter how many times Pete Hegseth jogs with them and is like, okay, now it's time to die for Israel.”
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:36:34](/episodes/ep-1CFDtD0IgEg.md#t-00-36-17): “Pete Hegseth had to come out again and said oh they were committed to investigating like he just wasn't sure whether or not they bombed a school like if you just do that and you're not sure if you did that like he's remembering whether or not he brushed his teeth that morning”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:08:31](/episodes/ep-ZIH5-V6UPkg.md#t-00-08-09): “Also, those men, many, I would say a lot of the men and women that you and Pete Hegseth want to send to their deaths in the Middle East.”
 
 </details>
 
@@ -267,7 +312,7 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Laura Loomer](/entities/person-laura-loomer.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -280,6 +325,15 @@ Source: [HON Pete Hegseth | U.S. Department of Defense](https://www.defense.gov/
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:14:00](/episodes/ep-BxN2-aeMYIs.md#t-00-13-49): “And that's exactly what Gabrielle Cucchia did. Now she goes by Gabby and I can tell you who she is. One piece of her past is she was fired as the Pentagon's chief correspondent. She claimed she was fired after she criticized Pete Hegseth. for having established new rules that actually limited the press's access to the Pentagon.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:29:39](/episodes/ep-AH1KVKkweUE.md#t-00-29-39): “That's why they're having issues getting people to sign up no matter how many times Pete Hegseth jogs with them and is like, okay, now it's time to die for Israel.”
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:36:34](/episodes/ep-1CFDtD0IgEg.md#t-00-36-17): “Pete Hegseth had to come out again and said oh they were committed to investigating like he just wasn't sure whether or not they bombed a school like if you just do that and you're not sure if you did that like he's remembering whether or not he brushed his teeth that morning”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:08:31](/episodes/ep-ZIH5-V6UPkg.md#t-00-08-09): “Also, those men, many, I would say a lot of the men and women that you and Pete Hegseth want to send to their deaths in the Middle East.”
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Republican Party"
-description: "Republican Party (Organizations) - 18 mentions"
+description: "Republican Party (Organizations) - 23 mentions"
 id: "org-republican-party"
 type: "ORG"
 aliases:
@@ -23,23 +23,23 @@ Source: [Republican National Committee](https://gop.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-org-republican-party-t-00-27-09">2025-10-01 · 00:27:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-republican-party-t-00-33-14">2026-08-14 · 00:33:52</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-org-republican-party-t-00-40-28">2026-08-19 · 00:40:56</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-republican-party-t-00-38-00">VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-republican-party-t-00-07-38">You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-org-republican-party-t-00-27-09" style="--pulse-height:50%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-iHav0PPzUz8.md#ent-org-republican-party-t-00-32-06" style="--pulse-height:50%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-republican-party-t-00-07-38" style="--pulse-height:50%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-republican-party-t-00-30-15" style="--pulse-height:50%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-republican-party-t-00-07-38" style="--pulse-height:100%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-republican-party-t-00-30-15" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-republican-party-t-00-33-05" style="--pulse-height:50%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-republican-party-t-00-38-00" style="--pulse-height:100%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-republican-party-t-00-20-59" style="--pulse-height:50%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
@@ -50,7 +50,9 @@ Source: [Republican National Committee](https://gop.com/)
 <a href="/episodes/ep-MhakwJxK-Zk.md#t-00-37-55" style="--pulse-height:50%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-org-republican-party-t-00-03-42" style="--pulse-height:100%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#t-00-32-49" style="--pulse-height:50%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-republican-party-t-00-41-14" style="--pulse-height:50%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-republican-party-t-00-33-14" style="--pulse-height:50%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-org-republican-party-t-00-37-05" style="--pulse-height:100%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,8 +60,8 @@ Source: [Republican National Committee](https://gop.com/)
 |---|---|---:|
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-republican-party-t-00-27-09) | 1 |
 | 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-org-republican-party-t-00-32-06) | 1 |
-| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-republican-party-t-00-07-38) | 1 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-republican-party-t-00-30-15) | 1 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-republican-party-t-00-07-38) | 2 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-republican-party-t-00-30-15) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-republican-party-t-00-33-05) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-org-republican-party-t-00-38-00) | 2 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-org-republican-party-t-00-20-59) | 1 |
@@ -70,7 +72,9 @@ Source: [Republican National Committee](https://gop.com/)
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#t-00-37-55) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-republican-party-t-00-03-42) | 2 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#t-00-32-49) | 1 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-org-republican-party-t-00-41-14) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-republican-party-t-00-33-14) | 1 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-org-republican-party-t-00-37-05) | 2 |
 
 </details>
 </section>
@@ -78,13 +82,32 @@ Source: [Republican National Committee](https://gop.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (2 mentions)</summary>
+
+**[00:37:05](/episodes/ep-9hRcfSrri70.md#ent-org-republican-party-t-00-37-05)**
+> "After Republicans were kind of fractured because people actually ca..."
+
+**[00:40:56](/episodes/ep-9hRcfSrri70.md#ent-org-republican-party-t-00-40-28)**
+> "...out politics because watching Republicans get behind this absolutely sloppy narrative and t..."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:33:52](/episodes/ep-nPhCKwJ6ye8.md#ent-org-republican-party-t-00-33-14)**
 > "She's harming Republicans in an election year"
+
+</details>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
+
+**[00:41:23](/episodes/ep-d7VsbEIWkP8.md#ent-org-republican-party-t-00-41-14)**
+> "Republican party"
 
 </details>
 
@@ -175,18 +198,24 @@ Source: [Republican National Committee](https://gop.com/)
 </details>
 
 <details>
-<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
+<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (2 mentions)</summary>
 
 **[00:30:51](/episodes/ep-HYn0P-P1wUw.md#ent-org-republican-party-t-00-30-15)**
 > "... the youngest chairman of the Republican Party. He's very involved in Arizona politics."
 
+**[00:34:39](/episodes/ep-HYn0P-P1wUw.md#ent-org-republican-party-t-00-34-22)**
+> "...ad support from Democrats and Republicans because it is a problem in this state. Child sex ..."
+
 </details>
 
 <details>
-<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (2 mentions)</summary>
 
-**[00:07:41](/episodes/ep-OEAHy3SsIiI.md#ent-org-republican-party-t-00-07-38)**
+**[00:07:38](/episodes/ep-OEAHy3SsIiI.md#ent-org-republican-party-t-00-07-38)**
 > "That is just a very honest take. And you can be mad at Tim Dillon. You can be mad at me for playing Tim Dillon on this show. Or you can be someone that's concerned about the direction that the Republican Party is taking and you can recognize that that's the truth."
+
+**[00:07:54](/episodes/ep-OEAHy3SsIiI.md#ent-org-republican-party-t-00-07-38)**
+> "...d this event. This is not how Republicans are feeling."
 
 </details>
 
@@ -216,7 +245,26 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Republican Party (4)</strong></summary>
+<summary><strong class="section-title">Statements about Republican Party (7)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (2)</summary>
+
+- [00:35:35](/episodes/ep-9hRcfSrri70.md#t-00-35-35) (Accusation) **Hasan Piker** (via quoted speech): ["Hasan Piker said Owens had successfully and single-handedly undermined..."](/statements/statement-de8b1706b125.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:38:17](/episodes/ep-9hRcfSrri70.md#t-00-37-43) (Accusation) **Candace Owens**: ["Owens suggested January 6 could allegedly have been coordinated by 'th..."](/statements/statement-fc88d34a6bfc.md)
+  - Also about: [January 6th](/entities/event-january-6th.md), [Democratic Party](/entities/org-democratic-party.md)
+
+</details>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1)</summary>
+
+- [00:39:34](/episodes/ep-d7VsbEIWkP8.md#t-00-39-34) (Prediction) **Matt Walsh** (via quoted tweet): ["Matt Walsh predicted that conservatives would be 'absolutely crushed' ..."](/statements/statement-6eec26271004.md)
+  - Also about: [Matt Walsh](/entities/person-matt-walsh.md)
+
+</details>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (2)</summary>

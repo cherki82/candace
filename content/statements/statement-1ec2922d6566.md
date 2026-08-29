@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:08:16](/episodes/ep-es7PWdFGoFI.md#t-00-08-02) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(496);return false;">Play</a>
 
-> it's interesting to hear Erika say that the reason she didn't ask me to stop in the beginning, because she was actually learning things from the show. She was actually learning things
+> And it's interesting to hear Erika (Erika Kirk) say that the reason she didn't ask me to stop in the beginning, because she was actually learning things from the show.
 
 ## Verification
 

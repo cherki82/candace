@@ -307,13 +307,13 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 **[00:33:38](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-judaism-t-00-33-38)**
 > "She's not even Jewish. If you ask her to produce a photo of her bat mit..."
 
-**[00:35:36](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-judaism-t-00-35-26)**
+**[00:35:36](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-judaism-t-00-33-38)**
 > "...ence against evangelicals and Jewish Americans and even the president himself."
 
-**[00:36:48](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-judaism-t-00-36-32)**
+**[00:36:48](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-judaism-t-00-33-38)**
 > "...day would get the support. of Jewish Americans. The majority is aware of Jewish Americ..."
 
-**[00:36:56](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-judaism-t-00-36-32)**
+**[00:36:56](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-judaism-t-00-33-38)**
 > "...to the brim of people who are Jewish Americans, rabbis even who write me and say, you ..."
 
 **[00:37:09](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-judaism-t-00-37-09)**

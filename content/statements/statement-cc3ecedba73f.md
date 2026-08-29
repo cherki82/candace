@@ -1,6 +1,6 @@
 ---
-title: "Candace Owens believes Mitch Snow did see Brian Harpole at F..."
-description: "\"Candace Owens believes Mitch Snow did see Brian Harpole at Fort Huachuca.\" — Candace Owens"
+title: "Candace Owens said she felt that Mitch Snow had seen Brian H..."
+description: "\"Candace Owens said she felt that Mitch Snow had seen Brian Harpole at Fort Huachuca.\" — Candace Owens"
 statement_id: "statement-cc3ecedba73f"
 speaker: "Candace Owens"
 type: "opinion"
@@ -10,7 +10,7 @@ type: "opinion"
 
 ## Statement
 
-> Candace Owens believes Mitch Snow did see Brian Harpole at Fort Huachuca.
+> Candace Owens said she felt that Mitch Snow had seen Brian Harpole at Fort Huachuca.
 
 ## Attribution
 
@@ -32,7 +32,7 @@ type: "opinion"
 **Timestamp:** [01:08:59](/episodes/ep-OEAHy3SsIiI.md#t-01-08-55) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(4139);return false;">Play</a>
 
-> I feel like it was.
+> I'll say, okay, it wasn't Brian Harpole. ... I feel like it was. I feel at this stage that it was.
 
 ### 2. Update! Erika Did Not Go Home. Source Confirms AI Voice Tact...
 

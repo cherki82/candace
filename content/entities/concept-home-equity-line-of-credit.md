@@ -1,6 +1,6 @@
 ---
 title: "Home equity line of credit"
-description: "Home equity line of credit (Concepts) - 40 mentions"
+description: "Home equity line of credit (Concepts) - 49 mentions"
 id: "concept-home-equity-line-of-credit"
 type: "CONCEPT"
 aliases:
@@ -22,9 +22,9 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-concept-home-equity-line-of-credit-t-00-41-27">2025-10-02 · 00:41:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-concept-home-equity-line-of-credit-t-00-43-32">2026-07-20 · 00:43:41</a></strong></div>
-<div><span>Episodes</span><strong>40</strong></div>
-<div><span>Mentions</span><strong>40</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-aPOyk1i2LOc.md#ent-concept-home-equity-line-of-credit-t-03-00-28">2026-08-14 · 03:00:33</a></strong></div>
+<div><span>Episodes</span><strong>49</strong></div>
+<div><span>Mentions</span><strong>49</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,7 +38,7 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-concept-home-equity-line-of-credit-t-00-41-27" style="--pulse-height:100%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-concept-home-equity-line-of-credit-t-00-55-11" style="--pulse-height:100%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-iHav0PPzUz8.md#ent-concept-home-equity-line-of-credit-t-00-51-46" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-home-equity-line-of-credit-t-00-53-56" style="--pulse-height:100%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-concept-home-equity-line-of-credit-t-01-00-18" style="--pulse-height:100%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-concept-home-equity-line-of-credit-t-01-15-07" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-home-equity-line-of-credit-t-00-40-49" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-concept-home-equity-line-of-credit-t-00-57-10" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
@@ -59,7 +59,7 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-concept-home-equity-line-of-credit-t-00-57-44" style="--pulse-height:100%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-concept-home-equity-line-of-credit-t-00-49-14" style="--pulse-height:100%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-home-equity-line-of-credit-t-00-40-28" style="--pulse-height:100%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-home-equity-line-of-credit-t-00-50-35" style="--pulse-height:100%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-home-equity-line-of-credit-t-00-50-02" style="--pulse-height:100%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-concept-home-equity-line-of-credit-t-00-49-11" style="--pulse-height:100%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-concept-home-equity-line-of-credit-t-00-52-23" style="--pulse-height:100%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-concept-home-equity-line-of-credit-t-00-46-40" style="--pulse-height:100%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
@@ -75,6 +75,15 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-concept-home-equity-line-of-credit-t-00-42-35" style="--pulse-height:100%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-home-equity-line-of-credit-t-00-44-35" style="--pulse-height:100%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-concept-home-equity-line-of-credit-t-00-43-32" style="--pulse-height:100%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-concept-home-equity-line-of-credit-t-00-43-03" style="--pulse-height:100%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-concept-home-equity-line-of-credit-t-00-46-15" style="--pulse-height:100%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 1 mentions" title="2026-07-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-concept-home-equity-line-of-credit-t-00-39-25" style="--pulse-height:100%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 1 mentions" title="2026-07-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-concept-home-equity-line-of-credit-t-00-42-27" style="--pulse-height:100%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-concept-home-equity-line-of-credit-t-00-46-15" style="--pulse-height:100%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-concept-home-equity-line-of-credit-t-00-49-58" style="--pulse-height:100%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-home-equity-line-of-credit-t-00-53-56" style="--pulse-height:100%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#ent-concept-home-equity-line-of-credit-t-00-45-56" style="--pulse-height:100%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-concept-home-equity-line-of-credit-t-03-00-28" style="--pulse-height:100%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -83,7 +92,7 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 | 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-concept-home-equity-line-of-credit-t-00-41-27) | 1 |
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-concept-home-equity-line-of-credit-t-00-55-11) | 1 |
 | 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-concept-home-equity-line-of-credit-t-00-51-46) | 1 |
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-concept-home-equity-line-of-credit-t-00-53-56) | 1 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-concept-home-equity-line-of-credit-t-01-00-18) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-concept-home-equity-line-of-credit-t-01-15-07) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-home-equity-line-of-credit-t-00-40-49) | 1 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-concept-home-equity-line-of-credit-t-00-57-10) | 1 |
@@ -104,7 +113,7 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-concept-home-equity-line-of-credit-t-00-57-44) | 1 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-concept-home-equity-line-of-credit-t-00-49-14) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-home-equity-line-of-credit-t-00-40-28) | 1 |
-| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-concept-home-equity-line-of-credit-t-00-50-35) | 1 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-concept-home-equity-line-of-credit-t-00-50-02) | 1 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-concept-home-equity-line-of-credit-t-00-49-11) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-concept-home-equity-line-of-credit-t-00-52-23) | 1 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-concept-home-equity-line-of-credit-t-00-46-40) | 1 |
@@ -120,6 +129,15 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-concept-home-equity-line-of-credit-t-00-42-35) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-concept-home-equity-line-of-credit-t-00-44-35) | 1 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-concept-home-equity-line-of-credit-t-00-43-32) | 1 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-concept-home-equity-line-of-credit-t-00-43-03) | 1 |
+| 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-concept-home-equity-line-of-credit-t-00-46-15) | 1 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-concept-home-equity-line-of-credit-t-00-39-25) | 1 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-concept-home-equity-line-of-credit-t-00-42-27) | 1 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-concept-home-equity-line-of-credit-t-00-46-15) | 1 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-concept-home-equity-line-of-credit-t-00-49-58) | 1 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-concept-home-equity-line-of-credit-t-00-53-56) | 1 |
+| 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-concept-home-equity-line-of-credit-t-00-45-56) | 1 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-concept-home-equity-line-of-credit-t-03-00-28) | 1 |
 
 </details>
 </section>
@@ -127,7 +145,79 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+<summary><strong class="section-title">Raw mentions (49)</strong></summary>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (1 mentions)</summary>
+
+**[03:00:33](/episodes/ep-aPOyk1i2LOc.md#ent-concept-home-equity-line-of-credit-t-03-00-28)**
+> "...st debt. Unlike a fluctuating HELOC, the Smart Equity Loan is a fixed rate loan, givi..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>
+
+**[00:46:09](/episodes/ep-5zgkrOaCCj4.md#ent-concept-home-equity-line-of-credit-t-00-45-56)**
+> "...st debt. Unlike a fluctuating HELOC, a smart equity loan is a fixed rate loan, giving..."
+
+</details>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
+
+**[00:54:15](/episodes/ep-d7VsbEIWkP8.md#ent-concept-home-equity-line-of-credit-t-00-53-56)**
+> "HELOC"
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:49:58](/episodes/ep-ChuWo-n49B8.md#ent-concept-home-equity-line-of-credit-t-00-49-58)**
+> "Unlike a fluctuating HELOC"
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>
+
+**[00:46:38](/episodes/ep-1CFDtD0IgEg.md#ent-concept-home-equity-line-of-credit-t-00-46-15)**
+> "...st debt, unlike a fluctuating HELOC, a smart equity loan is a fixed rate loan, giving..."
+
+</details>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
+
+**[00:43:03](/episodes/ep-AH1KVKkweUE.md#ent-concept-home-equity-line-of-credit-t-00-42-27)**
+> "...st debt. Unlike a fluctuating HELOC, the smart equity loan is a fixed rate loan, givi..."
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (1 mentions)</summary>
+
+**[00:39:38](/episodes/ep-iB-YtO3UZOg.md#ent-concept-home-equity-line-of-credit-t-00-39-25)**
+> "keeping your primary mortgage intact. It's a surgical strike against debt unlike a fluctuating HELOC. The SMART Equity Loan is a fixed rate loan giving you a predictable monthly payment."
+
+</details>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (1 mentions)</summary>
+
+**[00:46:31](/episodes/ep-AoYZel7_cGQ.md#ent-concept-home-equity-line-of-credit-t-00-46-15)**
+> "...st debt. Unlike a fluctuating HELOC, the smart equity loan is a surgical strike again..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
+
+**[00:43:24](/episodes/ep-Vu6Y24pqhZs.md#ent-concept-home-equity-line-of-credit-t-00-43-03)**
+> "It's a surgical strike against debt. Unlike a fluctuating HELOC, the smart equity loan is a fixed rate loan, giving you a predictable monthly payment."
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1 mentions)</summary>
@@ -252,7 +342,7 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>
 
-**[00:50:35](/episodes/ep-eLgD5yUVbko.md#ent-concept-home-equity-line-of-credit-t-00-50-35)**
+**[00:50:35](/episodes/ep-eLgD5yUVbko.md#ent-concept-home-equity-line-of-credit-t-00-50-02)**
 > "Unlike a HELOC"
 
 </details>
@@ -418,10 +508,10 @@ Source: [What is a home equity loan or line of credit? | CFPB](https://www.consu
 </details>
 
 <details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1 mentions)</summary>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
 
-**[00:54:17](/episodes/ep-zSKrxIUMNqw.md#ent-concept-home-equity-line-of-credit-t-00-53-56)**
-> "Unlike a HELOC, which can fluctuate with the market,"
+**[01:00:52](/episodes/ep-OEAHy3SsIiI.md#ent-concept-home-equity-line-of-credit-t-01-00-18)**
+> "Unlike a HELOC, which can fluctuate with the market, the Smart E..."
 
 </details>
 

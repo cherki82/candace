@@ -26,7 +26,7 @@ type: "accusation"
 ## Source
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
-**Timestamp:** [00:52:42](/episodes/ep-OEAHy3SsIiI.md#t-00-52-31) 
+**Timestamp:** [00:52:42](/episodes/ep-OEAHy3SsIiI.md#t-00-52-03) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3162);return false;">Play</a>
 
 > Andrew (Andrew Kolvet) is being told to attack me and to attack my narrative.

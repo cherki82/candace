@@ -23,13 +23,23 @@ veracity: "true"
 
 - [Lance Twiggs](/entities/person-lance-twiggs.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [01:10:29](/episodes/ep-nPhCKwJ6ye8.md#t-01-10-29) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(4229);return false;">Play</a>
 
 > the use immunity was given to him in april i believe april 28th is when they gave that testimony to the defense i think they shot it in like april 20th of 2026
+
+### 2. Candace Owens vs Andrew Wilson: The Great Debate.
+
+**Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
+**Timestamp:** [00:45:51](/episodes/ep-aPOyk1i2LOc.md#t-00-45-26) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2751);return false;">Play</a>
+
+> the use immunity was given to him in April I believe April 28th is when they gave that testimony to the defense I think they shot it in like April 20th of 2026
 
 ## Verification
 

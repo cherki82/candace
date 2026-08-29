@@ -1,6 +1,6 @@
 ---
 title: "Syria"
-description: "Syria (Places) - 20 mentions"
+description: "Syria (Places) - 21 mentions"
 id: "gpe-syria"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-syria-t-00-52-05">2025-11-12 · 00:52:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-h76ZN-xXC6c.md#ent-gpe-syria-t-00-01-16">2026-06-16 · 00:01:16</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-syria-t-00-39-19">2026-08-03 · 00:39:36</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -29,11 +29,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-syria-t-01-03-08">You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284</a> (5 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-syria-t-01-03-38">You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-syria-t-00-52-05" style="--pulse-height:40%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-syria-t-00-42-29" style="--pulse-height:60%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 3 mentions" title="2025-12-02 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-syria-t-01-03-08" style="--pulse-height:100%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 5 mentions" title="2026-01-05 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-syria-t-01-03-38" style="--pulse-height:100%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 5 mentions" title="2026-01-05 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-syria-t-00-05-17" style="--pulse-height:20%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-syria-t-00-32-17" style="--pulse-height:20%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-syria-t-00-03-25" style="--pulse-height:40%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
@@ -41,6 +41,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-gpe-syria-t-01-43-55" style="--pulse-height:40%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 2 mentions" title="2026-04-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-syria-t-00-38-24" style="--pulse-height:40%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-gpe-syria-t-00-01-16" style="--pulse-height:20%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-syria-t-00-39-19" style="--pulse-height:20%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,7 +49,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 |---|---|---:|
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-syria-t-00-52-05) | 2 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-syria-t-00-42-29) | 3 |
-| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-syria-t-01-03-08) | 5 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-syria-t-01-03-38) | 5 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-syria-t-00-05-17) | 1 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-syria-t-00-32-17) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-syria-t-00-03-25) | 2 |
@@ -56,6 +57,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-gpe-syria-t-01-43-55) | 2 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-syria-t-00-38-24) | 2 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-syria-t-00-01-16) | 1 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-gpe-syria-t-00-39-19) | 1 |
 
 </details>
 </section>
@@ -63,7 +65,15 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
+
+**[00:39:36](/episodes/ep-AH1KVKkweUE.md#ent-gpe-syria-t-00-39-19)**
+> "...t Iraq, they were wrong about Syria, they were wrong about Afghanistan, they were wro..."
+
+</details>
 
 <details>
 <summary>The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 (1 mentions)</summary>
@@ -133,19 +143,19 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (5 mentions)</summary>
 
-**[01:03:48](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-syria-t-01-03-08)**
-> "Assad and I was proven correct in Syria."
+**[01:03:45](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-syria-t-01-03-38)**
+> "No, this is the same thing that happened with Assad, and I was proven correct in Syria."
 
-**[01:03:56](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-syria-t-01-03-51)**
+**[01:03:51](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-syria-t-01-03-38)**
 > "...tinued to be the president of Syria."
 
-**[01:04:31](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-syria-t-01-03-51)**
+**[01:04:24](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-syria-t-01-04-13)**
 > "...istians are being murdered in Syria, just like Candace said."
 
-**[01:05:27](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-syria-t-01-05-16)**
+**[01:05:26](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-syria-t-01-04-58)**
 > "Syria,"
 
-**[01:06:05](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-syria-t-01-06-01)**
+**[01:06:01](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-syria-t-01-05-36)**
 > "...was some perfect president of Syria."
 
 </details>
@@ -222,10 +232,10 @@ _No relationships extracted yet._
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (2)</summary>
 
-- [01:03:51](/episodes/ep-OEAHy3SsIiI.md#t-01-03-08) (Accusation) **Candace Owens**: ["Israel wanted Bashar al-Assad removed so it could expand its borders u..."](/statements/statement-0f0985fbba16.md)
+- [01:03:51](/episodes/ep-OEAHy3SsIiI.md#t-01-03-38) (Accusation) **Candace Owens**: ["Israel wanted Bashar al-Assad removed so it could expand its borders u..."](/statements/statement-0f0985fbba16.md)
   - Also about: [Israel](/entities/gpe-israel.md), [Bashar al-Assad](/entities/person-bashar-al-assad.md)
 
-- [01:04:07](/episodes/ep-OEAHy3SsIiI.md#t-01-03-51) (Accusation) **Candace Owens**: ["Israel had been working with Al-Qaeda or an Al-Qaeda-adjacent group in..."](/statements/statement-a9ea16785ff5.md)
+- [01:04:07](/episodes/ep-OEAHy3SsIiI.md#t-01-03-38) (Accusation) **Candace Owens**: ["Israel had been working with Al-Qaeda or an Al-Qaeda-adjacent group in..."](/statements/statement-a9ea16785ff5.md)
   - Also about: [Israel](/entities/gpe-israel.md), [Al-Qaida](/entities/org-al-qaida.md)
 
 </details>

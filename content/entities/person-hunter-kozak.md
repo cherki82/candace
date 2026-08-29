@@ -17,13 +17,13 @@ _Type: People_
 Source: [Student Behind Final Question at Charlie Kirk Shooting Speaks Out](https://www.thedailybeast.com/student-behind-final-question-at-charlie-kirk-shooting-speaks-out/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-hunter-kozak-t-00-15-33">2026-01-05 · 00:15:58</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-hunter-kozak-t-00-15-33">2026-01-05 · 00:15:53</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#ent-person-hunter-kozak-t-00-08-49">2026-02-10 · 00:09:18</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -60,16 +60,16 @@ Source: [Student Behind Final Question at Charlie Kirk Shooting Speaks Out](http
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (6 mentions)</summary>
 
-**[00:15:58](/episodes/ep-OEAHy3SsIiI.md#ent-person-hunter-kozak-t-00-15-33)**
+**[00:15:53](/episodes/ep-OEAHy3SsIiI.md#ent-person-hunter-kozak-t-00-15-33)**
 > "...w was CBS's decision to bring Hunter Kozak to ask Erika (Erika Kirk) a question."
 
-**[00:16:35](/episodes/ep-OEAHy3SsIiI.md#ent-person-hunter-kozak-t-00-16-14)**
+**[00:16:32](/episodes/ep-OEAHy3SsIiI.md#ent-person-hunter-kozak-t-00-16-11)**
 > "...wife was going to survive it. Hunter Kozak, last time we all saw him, Charlie (Charlie Kirk)..."
 
 **[00:16:56](/episodes/ep-OEAHy3SsIiI.md#ent-person-hunter-kozak-t-00-16-56)**
 > "Like technically Hunter Kozak didn't do anything wrong on that day at UVU, but ..."
 
-**[00:17:16](/episodes/ep-OEAHy3SsIiI.md#ent-person-hunter-kozak-t-00-16-56)**
+**[00:17:15](/episodes/ep-OEAHy3SsIiI.md#ent-person-hunter-kozak-t-00-16-56)**
 > "But I don't like Hunter Kozak. I just don't. And I think that that's a normal h..."
 
 **[00:17:21](/episodes/ep-OEAHy3SsIiI.md#ent-person-hunter-kozak-t-00-16-56)**
@@ -85,7 +85,29 @@ Source: [Student Behind Final Question at Charlie Kirk Shooting Speaks Out](http
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:17:15](/episodes/ep-OEAHy3SsIiI.md#t-00-16-56): “So it's not fair. But I don't like Hunter Kozak. I just don't. And I think that that's a normal human feeling, right?”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:17:15](/episodes/ep-OEAHy3SsIiI.md#t-00-16-56): “So it's not fair. But I don't like Hunter Kozak. I just don't. And I think that that's a normal human feeling, right?”
+
+</details>
+
+</details>
 
 </details>
 

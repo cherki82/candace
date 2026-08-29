@@ -5,11 +5,19 @@ id: "work-inside-the-economics-of-candace-owens-media-empire-and-the-macron-laws
 type: "WORK"
 aliases:
   - "Fortune article"
+categories:
+  - "news article"
 ---
 
 _Type: Works & Media_
 
 **Also known as:** Fortune article
+
+**Categories:** news article
+
+**Entity verification:** verified
+> The direct Fortune article URL confirms the canonical work title and publication identity.
+Source: [Inside the economics of Candace Owens' media empire — Fortune](https://fortune.com/2025/12/02/candace-owens-brigitte-macron-lawsuit/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-his-JBjlkh8.md#ent-work-inside-the-economics-of-candace-owens-media-empire-and-the-macron-lawsuit-threatening-to-unravel-it-t-00-46-24">2025-12-03 · 00:46:54</a></strong></div>

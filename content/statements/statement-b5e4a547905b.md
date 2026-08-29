@@ -26,11 +26,21 @@ veracity: "true"
 - [Israel](/entities/gpe-israel.md) (gpe)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [02:25:29](/episodes/ep-nPhCKwJ6ye8.md#t-02-25-29) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(8729);return false;">Play</a>
+
+> Joe Kent, who I think would have the right to assert it, noted that there were 12 Israeli cell phones on the ground that day.
+
+### 2. Candace Owens vs Andrew Wilson: The Great Debate.
+
+**Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
+**Timestamp:** [01:44:27](/episodes/ep-aPOyk1i2LOc.md#t-01-44-27) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(6267);return false;">Play</a>
 
 > Joe Kent, who I think would have the right to assert it, noted that there were 12 Israeli cell phones on the ground that day.
 

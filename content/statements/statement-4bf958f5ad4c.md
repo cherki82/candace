@@ -32,7 +32,7 @@ veracity: "mixed"
 **Timestamp:** [00:12:27](/episodes/ep-rupRLXmSndU.md#t-00-12-27) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(747);return false;">Play</a>
 
-> his LinkedIn also informs us that Ahmed co-founded BILT back in 2015 when he was full time as an 05.
+> his LinkedIn also informs us that Ahmed (Ahmed Qureshi) co-founded BILT back in 2015 when he was full time as an 05.
 
 ## Verification
 

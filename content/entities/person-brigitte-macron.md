@@ -1,6 +1,6 @@
 ---
 title: "Brigitte Macron"
-description: "Brigitte Macron (People) - 252 mentions"
+description: "Brigitte Macron (People) - 263 mentions"
 id: "person-brigitte-macron"
 type: "PERSON"
 aliases:
@@ -24,12 +24,12 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#t-00-19-31">2025-09-11 · 00:19:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-brigitte-macron-t-02-20-16">2026-08-14 · 02:22:25</a></strong></div>
-<div><span>Episodes</span><strong>60</strong></div>
-<div><span>Mentions</span><strong>252</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-brigitte-macron-t-00-23-05">2026-08-19 · 00:23:21</a></strong></div>
+<div><span>Episodes</span><strong>65</strong></div>
+<div><span>Mentions</span><strong>263</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>42</strong></div>
-<div><span>Relationships</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>9</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -62,7 +62,6 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-person-brigitte-macron-t-00-57-41" style="--pulse-height:8%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-brigitte-macron-t-00-18-59" style="--pulse-height:9%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 4 mentions" title="2026-01-05 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-brigitte-macron-t-00-52-36" style="--pulse-height:18%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 8 mentions" title="2026-01-06 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-brigitte-macron-t-00-57-42" style="--pulse-height:8%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-brigitte-macron-t-00-23-21" style="--pulse-height:9%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 4 mentions" title="2026-01-14 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-brigitte-macron-t-00-47-27" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-brigitte-macron-t-00-23-38" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
@@ -96,7 +95,13 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-person-brigitte-macron-t-00-57-37" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-person-brigitte-macron-t-00-00-42" style="--pulse-height:8%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-person-brigitte-macron-t-00-15-02" style="--pulse-height:8%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-person-brigitte-macron-t-00-08-25" style="--pulse-height:8%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-person-brigitte-macron-t-00-35-33" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 3 mentions" title="2026-07-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-person-brigitte-macron-t-00-52-23" style="--pulse-height:8%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 1 mentions" title="2026-07-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-brigitte-macron-t-00-00-02" style="--pulse-height:11%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 5 mentions" title="2026-08-07 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-brigitte-macron-t-02-20-16" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-brigitte-macron-t-00-07-52" style="--pulse-height:8%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-person-brigitte-macron-t-00-23-05" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -127,7 +132,6 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-brigitte-macron-t-00-57-41) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-brigitte-macron-t-00-18-59) | 4 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-brigitte-macron-t-00-52-36) | 8 |
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-brigitte-macron-t-00-57-42) | 1 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-brigitte-macron-t-00-23-21) | 4 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-brigitte-macron-t-00-47-27) | 1 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-brigitte-macron-t-00-23-38) | 2 |
@@ -161,7 +165,13 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-brigitte-macron-t-00-57-37) | 1 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-brigitte-macron-t-00-00-42) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-brigitte-macron-t-00-15-02) | 1 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-person-brigitte-macron-t-00-08-25) | 1 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-person-brigitte-macron-t-00-35-33) | 3 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-person-brigitte-macron-t-00-52-23) | 1 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-person-brigitte-macron-t-00-00-02) | 5 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-brigitte-macron-t-02-20-16) | 2 |
+| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-person-brigitte-macron-t-00-07-52) | 1 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-brigitte-macron-t-00-23-05) | 1 |
 
 </details>
 </section>
@@ -169,7 +179,23 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (252)</strong></summary>
+<summary><strong class="section-title">Raw mentions (263)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
+
+**[00:23:21](/episodes/ep-9hRcfSrri70.md#ent-person-brigitte-macron-t-00-23-05)**
+> "...d this recently with like the Brigitte Macron one it's like yeah did you read it obviously we d..."
+
+</details>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1 mentions)</summary>
+
+**[00:07:52](/episodes/ep-E7P2ShoYDUA.md#ent-person-brigitte-macron-t-00-07-52)**
+> "I actually recommended via email, again, I said. If you want that to happen, you're going to have to pass the bar and join Brigitte Macron's prosecution team against me. If that's what you're aspiring to do, send me down for deposition."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -179,6 +205,56 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 
 **[02:22:25](/episodes/ep-nPhCKwJ6ye8.md#ent-person-brigitte-macron-t-02-20-16)**
 > "...ke I can't hack into Emmanuel Macron's bank accounts and say whether or not the informat..."
+
+</details>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (5 mentions)</summary>
+
+**[00:00:02](/episodes/ep-d7VsbEIWkP8.md#ent-person-brigitte-macron-t-00-00-02)**
+> "Brigitte (Brigitte Macron)"
+
+**[00:01:21](/episodes/ep-d7VsbEIWkP8.md#ent-person-brigitte-macron-t-00-00-46)**
+> "...his. I promise you, Brigitte (Brigitte Macron), I promise you, Brigitte (Brigitte Macron), you'..."
+
+**[00:01:26](/episodes/ep-d7VsbEIWkP8.md#ent-person-brigitte-macron-t-00-01-26)**
+> "... still cannot track Brigitte (Brigitte Macron). If I find out Brigitte (Brigitte Macron) author..."
+
+**[01:02:50](/episodes/ep-d7VsbEIWkP8.md#ent-person-brigitte-macron-t-01-02-41)**
+> "...ow how I feel about Brigitte (Brigitte Macron) right now in this moment."
+
+**[01:02:54](/episodes/ep-d7VsbEIWkP8.md#ent-person-brigitte-macron-t-01-02-41)**
+> "... should have known, Brigitte (Brigitte Macron). I should have known it was you. You can buy a S..."
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (1 mentions)</summary>
+
+**[00:52:23](/episodes/ep-iB-YtO3UZOg.md#ent-person-brigitte-macron-t-00-52-23)**
+> "It bothers me deeply. They're all Emmanuel Macron. Don't act like Emmanuel Macron. Act like Brigitte (Brigitte Macron). You know, be a man."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (3 mentions)</summary>
+
+**[00:35:33](/episodes/ep-Vu6Y24pqhZs.md#ent-person-brigitte-macron-t-00-35-33)**
+> "That's what I've hit on in my Brigitte Macron series. I've been hitting on this talking about Epstein and MKUltra. It's like all of this kind of seems to be converging and the people are waking up and this slop that they're trying to feed us, go to war, Iran bad, Israel good, isn't working."
+
+**[00:45:31](/episodes/ep-Vu6Y24pqhZs.md#ent-person-brigitte-macron-t-00-44-59)**
+> "...ing me to stop speaking about Brigitte. That's a fact, actually."
+
+**[00:48:02](/episodes/ep-Vu6Y24pqhZs.md#ent-person-brigitte-macron-t-00-47-38)**
+> "...ask you to stop talking about Brigitte are calling you nuts for talking about his murder..."
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (1 mentions)</summary>
+
+**[00:08:33](/episodes/ep-HZvwbfePe7o.md#ent-person-brigitte-macron-t-00-08-25)**
+> "phone call with Trump (Donald Trump), and he says Charlie (Charlie Kirk) was particularly upset in July when Candace (Candace Owens) violated Trump (Donald Trump)’s confidentiality—when he called me about Brigitte (Brigitte Macron)’s penis—and said, you know, Charlie (Charlie Kirk) did not like this."
 
 </details>
 
@@ -367,16 +443,16 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 > "...e that sentence for? Not even Brigitte Macron and Emmanuel Macron applauded that sentence, okay..."
 
 **[00:09:53](/episodes/ep-ZIH5-V6UPkg.md#ent-person-brigitte-macron-t-00-09-34)**
-> "..., what is your obsession with Brigitte, this Brigitte McCrone in the swimsuit? You think..."
+> "Why are you, what is your obsession with Brigitte (Brigitte Macron), this Brigitte Macron in the swimsuit? You think that you can command people, men, straight men to suddenly think that Brigitte (Brigitte Macron) is hot?"
 
 **[00:10:06](/episodes/ep-ZIH5-V6UPkg.md#ent-person-brigitte-macron-t-00-09-34)**
-> "...ite House? Stop talking about Brigitte."
+> "Did you date Jean-Michel Trogneau? Are you gay? Why are you so obsessed calling me from the White House? Stop talking about Brigitte (Brigitte Macron)."
 
 **[00:12:54](/episodes/ep-ZIH5-V6UPkg.md#ent-person-brigitte-macron-t-00-12-54)**
 > "... hot girl summer being led by Brigitte Macron? And people who attack people, other journalists ..."
 
 **[00:19:05](/episodes/ep-ZIH5-V6UPkg.md#ent-person-brigitte-macron-t-00-19-05)**
-> "He said Brigitte McCrone is far more beautiful than Candace Owens."
+> "He said Brigitte Macron is far more beautiful than Candace Owens."
 
 **[00:28:57](/episodes/ep-ZIH5-V6UPkg.md#ent-person-brigitte-macron-t-00-28-57)**
 > "...'s going to be upset about... Brigitte Macron is hot. There's something that is so fundamentall..."
@@ -385,7 +461,7 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 > "...ys you're more beautiful than Brigitte Macron."
 
 **[00:41:58](/episodes/ep-ZIH5-V6UPkg.md#ent-person-brigitte-macron-t-00-41-46)**
-> "...said, like not even. Not even Brigitte Macaron of the Elize Palace was like, yes, that's..."
+> "Because, like I said, not even Brigitte Macron of the Élysée Palace was like, yes, that's a win."
 
 </details>
 
@@ -588,14 +664,6 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 </details>
 
 <details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1 mentions)</summary>
-
-**[00:57:42](/episodes/ep-zSKrxIUMNqw.md#ent-person-brigitte-macron-t-00-57-42)**
-> "like Macron (Brigitte Macron) is suing people for knowing the truth."
-
-</details>
-
-<details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (8 mentions)</summary>
 
 **[00:52:41](/episodes/ep-HYn0P-P1wUw.md#ent-person-brigitte-macron-t-00-52-36)**
@@ -604,22 +672,22 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 **[00:52:53](/episodes/ep-HYn0P-P1wUw.md#ent-person-brigitte-macron-t-00-52-36)**
 > "Brigitte Macron believes the truth about his gender isn't a form ..."
 
-**[00:53:52](/episodes/ep-HYn0P-P1wUw.md#ent-person-brigitte-macron-t-00-53-16)**
+**[00:53:52](/episodes/ep-HYn0P-P1wUw.md#ent-person-brigitte-macron-t-00-53-48)**
 > "... matters if it hurt Brigitte (Brigitte Macron)'s feelings."
 
-**[00:54:06](/episodes/ep-HYn0P-P1wUw.md#ent-person-brigitte-macron-t-00-53-55)**
+**[00:54:06](/episodes/ep-HYn0P-P1wUw.md#ent-person-brigitte-macron-t-00-53-48)**
 > "...tionally harmful to Brigitte (Brigitte Macron) and of the 10 defendants, eight were given suspe..."
 
-**[00:54:56](/episodes/ep-HYn0P-P1wUw.md#ent-person-brigitte-macron-t-00-54-39)**
+**[00:54:56](/episodes/ep-HYn0P-P1wUw.md#ent-person-brigitte-macron-t-00-54-23)**
 > "...they have to collectively pay Brigitte Macron what's known as moral damages."
 
-**[00:55:35](/episodes/ep-HYn0P-P1wUw.md#ent-person-brigitte-macron-t-00-55-14)**
+**[00:55:35](/episodes/ep-HYn0P-P1wUw.md#ent-person-brigitte-macron-t-00-55-03)**
 > "This lawsuit that Brigitte (Brigitte Macron) has brought against me matters deeply."
 
 **[01:00:18](/episodes/ep-HYn0P-P1wUw.md#ent-person-brigitte-macron-t-01-00-18)**
 > "...se them that's what Brigitte (Brigitte Macron) is doing it's like we'll bankrupt you we'll kill..."
 
-**[01:03:46](/episodes/ep-HYn0P-P1wUw.md#ent-person-brigitte-macron-t-01-03-41)**
+**[01:03:46](/episodes/ep-HYn0P-P1wUw.md#ent-person-brigitte-macron-t-01-03-25)**
 > "...'m doing series on Kamala and Brigitte Macron and things I'm interested in,"
 
 </details>
@@ -630,14 +698,14 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 **[00:19:36](/episodes/ep-OEAHy3SsIiI.md#ent-person-brigitte-macron-t-00-18-59)**
 > "We are still talking about Brigitte Macron"
 
-**[00:20:00](/episodes/ep-OEAHy3SsIiI.md#ent-person-brigitte-macron-t-00-19-44)**
+**[00:19:58](/episodes/ep-OEAHy3SsIiI.md#ent-person-brigitte-macron-t-00-19-44)**
 > "by the way, Brigitte Macron,"
 
 **[00:21:00](/episodes/ep-OEAHy3SsIiI.md#ent-person-brigitte-macron-t-00-20-26)**
 > "...e for knowing the truth about Brigitte."
 
-**[01:01:29](/episodes/ep-OEAHy3SsIiI.md#ent-person-brigitte-macron-t-01-00-54)**
-> "... sweet that France is selling Brigitte dolls It's very sweet. You can collect their coll..."
+**[01:01:29](/episodes/ep-OEAHy3SsIiI.md#ent-person-brigitte-macron-t-01-01-29)**
+> "I don't know. It's just very sweet that France is selling Brigitte dolls. It's very sweet. You can collect them. They're collector's items, I would say. And whoever is selling this is about to be so sued by the French government. Top comments from the last episode at the end of last year—obviously, it was the midget horse, who did nothing wrong. Again, I apologize to the horse."
 
 </details>
 
@@ -1233,6 +1301,31 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Criticized By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:09:53](/episodes/ep-ZIH5-V6UPkg.md#t-00-09-34): “Why are you, what is your obsession with Brigitte (Brigitte Macron), this Brigitte Macron in the swimsuit? You think that you can command people, men, straight men to suddenly think that Brigitte (Brigitte Macron) is hot?”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:52:53](/episodes/ep-HYn0P-P1wUw.md#t-00-52-36): “Brigitte Macron believes the truth about his gender isn't a form of harassment. This is very chilling. They are sentencing these people to jail.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Defended By (1)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:09:06](/episodes/ep-ZIH5-V6UPkg.md#t-00-08-45): “Crazy Candace Owens, who accuses the highly respected First Lady of France of being a man when she is not and will hopefully win lots of money in the ongoing lawsuit.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Investigated By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
@@ -1248,7 +1341,7 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 <summary>Sued (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:46:11](/episodes/ep-sreYYcID-QY.md#t-00-45-49): “Brigitte Macron comes out and says they have offered scientific evidence to the U.S. court”
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:17:22](/episodes/ep-sImMM04XdWY.md#t-00-16-53): “Brigitte and Emmanuel Macron released to the Financial Times that they are suing me in a Delaware court”
@@ -1261,13 +1354,29 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:10:29](/episodes/ep-sreYYcID-QY.md#t-00-10-23): “Out of nowhere, Brigitte Macron just lies.”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:09:06](/episodes/ep-ZIH5-V6UPkg.md#t-00-08-45): “Crazy Candace Owens, who accuses the highly respected First Lady of France of being a man when she is not and will hopefully win lots of money in the ongoing lawsuit.”
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:08:30](/episodes/ep-BxN2-aeMYIs.md#t-00-08-30): “Brigitte Macron, who put in a lawsuit filing, I think this was totally accidental, that I was a dual citizen of the UK and America.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:55:35](/episodes/ep-HYn0P-P1wUw.md#t-00-55-03): “This lawsuit that Brigitte (Brigitte Macron) has brought against me matters deeply. I am telling you guys, this lawsuit, everyone should be paying attention to every single filing pertaining to this lawsuit in Delaware.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (5)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:09:53](/episodes/ep-ZIH5-V6UPkg.md#t-00-09-34): “Why are you, what is your obsession with Brigitte (Brigitte Macron), this Brigitte Macron in the swimsuit? You think that you can command people, men, straight men to suddenly think that Brigitte (Brigitte Macron) is hot?”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:52:53](/episodes/ep-HYn0P-P1wUw.md#t-00-52-36): “Brigitte Macron believes the truth about his gender isn't a form of harassment. This is very chilling. They are sentencing these people to jail.”
+
+</details>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)** defended this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:09:06](/episodes/ep-ZIH5-V6UPkg.md#t-00-08-45): “Crazy Candace Owens, who accuses the highly respected First Lady of France of being a man when she is not and will hopefully win lots of money in the ongoing lawsuit.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** investigated this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1285,7 +1394,7 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** sued by this
-<details class="relationship-evidence"><summary>Show all evidence (10)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:46:11](/episodes/ep-sreYYcID-QY.md#t-00-45-49): “Brigitte Macron comes out and says they have offered scientific evidence to the U.S. court”
 - [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269 @ 00:17:22](/episodes/ep-sImMM04XdWY.md#t-00-16-53): “Brigitte and Emmanuel Macron released to the Financial Times that they are suing me in a Delaware court”
@@ -1297,6 +1406,7 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:10:50](/episodes/ep-his-JBjlkh8.md#t-00-10-16): “"Inside the economics of Candace Owens' media empire and the Macron lawsuit threatening to unravel it."”
 - [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:09:06](/episodes/ep-ZIH5-V6UPkg.md#t-00-08-45): “Crazy Candace Owens, who accuses the highly respected First Lady of France of being a man when she is not and will hopefully win lots of money in the ongoing lawsuit.”
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:08:30](/episodes/ep-BxN2-aeMYIs.md#t-00-08-30): “Brigitte Macron, who put in a lawsuit filing, I think this was totally accidental, that I was a dual citizen of the UK and America.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:55:35](/episodes/ep-HYn0P-P1wUw.md#t-00-55-03): “This lawsuit that Brigitte (Brigitte Macron) has brought against me matters deeply. I am telling you guys, this lawsuit, everyone should be paying attention to every single filing pertaining to this lawsuit in Delaware.”
 
 </details>
 
@@ -1318,6 +1428,14 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 
 <details open>
 <summary><strong class="section-title">Statements about Brigitte Macron (42)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1)</summary>
+
+- [00:45:31](/episodes/ep-Vu6Y24pqhZs.md#t-00-44-59) (Claim) **Candace Owens**: ["Owens asserted that Charlie Kirk privately told her Donald Trump had a..."](/statements/statement-ffb97a504ae8.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 (2)</summary>
@@ -1373,27 +1491,19 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 </details>
 
 <details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1)</summary>
-
-- [00:57:42](/episodes/ep-zSKrxIUMNqw.md#t-00-57-00) (Accusation) **Candace Owens**: ["Brigitte Macron is suing people to suppress the truth that she was bor..."](/statements/statement-802a4814cfb0.md)
-  - Also about: [France](/entities/gpe-france.md)
-
-</details>
-
-<details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (4)</summary>
 
-- [00:53:55](/episodes/ep-HYn0P-P1wUw.md#t-00-53-16) (Claim) **Candace Owens**: ["A French court gave eight of ten defendants suspended sentences of fou..."](/statements/statement-deb756642d28.md)
+- [00:53:55](/episodes/ep-HYn0P-P1wUw.md#t-00-53-48) (Claim) **Candace Owens**: ["A French court gave eight of ten defendants suspended sentences of fou..."](/statements/statement-deb756642d28.md)
   - Also about: [France](/entities/gpe-france.md)
 
-- [00:54:26](/episodes/ep-HYn0P-P1wUw.md#t-00-53-55) (Claim) **Candace Owens**: ["Three defendants in the Brigitte Macron cyberbullying case had their s..."](/statements/statement-4cf98422bb6d.md)
+- [00:54:26](/episodes/ep-HYn0P-P1wUw.md#t-00-54-23) (Claim) **Candace Owens**: ["Three defendants in the Brigitte Macron cyberbullying case had their s..."](/statements/statement-4cf98422bb6d.md)
   - Also about: [France](/entities/gpe-france.md)
 
-- [00:55:03](/episodes/ep-HYn0P-P1wUw.md#t-00-54-39) (Claim) **Candace Owens**: ["Defendants in the Brigitte Macron cyberbullying case were ordered to p..."](/statements/statement-9ee6b03ef3c3.md)
+- [00:55:03](/episodes/ep-HYn0P-P1wUw.md#t-00-54-23) (Claim) **Candace Owens**: ["Defendants in the Brigitte Macron cyberbullying case were ordered to p..."](/statements/statement-9ee6b03ef3c3.md)
   - Also about: [France](/entities/gpe-france.md)
 
-- [00:55:35](/episodes/ep-HYn0P-P1wUw.md#t-00-55-14) (Accusation) **Candace Owens**: ["Federal authorities are colluding with France to use Brigitte Macron's..."](/statements/statement-6246795a38fd.md)
-  - Also about: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [France](/entities/gpe-france.md), [Candace Owens](/entities/person-candace-owens.md)
+- [00:55:35](/episodes/ep-HYn0P-P1wUw.md#t-00-55-03) (Accusation) **Candace Owens**: ["Candace Owens said she believes federal authorities are colluding with..."](/statements/statement-6246795a38fd.md)
+  - Also about: [France](/entities/gpe-france.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
 

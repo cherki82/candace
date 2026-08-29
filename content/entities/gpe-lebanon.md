@@ -1,6 +1,6 @@
 ---
 title: "Lebanon"
-description: "Lebanon (Places) - 22 mentions"
+description: "Lebanon (Places) - 23 mentions"
 id: "gpe-lebanon"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-lebanon-t-00-20-27">2026-01-20 · 00:20:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-lebanon-t-00-53-29">2026-06-24 · 00:54:05</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>22</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-lebanon-t-00-48-51">2026-08-03 · 00:48:51</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -47,6 +47,7 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-lebanon-t-00-06-54" style="--pulse-height:100%" aria-label="Candace Owens x Ana Kasparian: 6 mentions" title="2026-05-28 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-gpe-lebanon-t-00-01-16" style="--pulse-height:17%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-lebanon-t-00-53-29" style="--pulse-height:17%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-lebanon-t-00-48-51" style="--pulse-height:17%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -64,6 +65,7 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-lebanon-t-00-06-54) | 6 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-lebanon-t-00-01-16) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-lebanon-t-00-53-29) | 1 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-gpe-lebanon-t-00-48-51) | 1 |
 
 </details>
 </section>
@@ -71,7 +73,15 @@ Source: [Presidency of the Republic of Lebanon](https://presidency.gov.lb/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
+
+**[00:48:51](/episodes/ep-AH1KVKkweUE.md#ent-gpe-lebanon-t-00-48-51)**
+> "in lebanon um that's a donation thank you from sweden wow uh..."
+
+</details>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>

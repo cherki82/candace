@@ -3,9 +3,17 @@ title: "Chuck Smith"
 description: "Chuck Smith (People) - 2 mentions"
 id: "person-chuck-smith"
 type: "PERSON"
+categories:
+  - "pastor"
 ---
 
 _Type: People_
+
+**Categories:** pastor
+
+**Entity verification:** verified
+> The official Calvary Chapel biography confirms the canonical name and pastoral role.
+Source: [Chuck Smith — Calvary Chapel](https://calvarychapel.com/chuck-smith/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-chuck-smith-t-00-28-43">2025-11-13 · 00:29:12</a></strong></div>

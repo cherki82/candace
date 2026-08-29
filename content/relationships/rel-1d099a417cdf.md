@@ -15,7 +15,7 @@ object: "person-zachariah-qureshi"
 
 **[Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU)**
 
-- [00:09:45](/episodes/ep-rupRLXmSndU#t-00-09-45): _You probably will actually believe this. Zach's father, Zachariah's father, is actually an 06 in the military. You remember that term. I was getting familiar with it. I fumbled over my words. Mitch Snow, he said he saw this meeting conclude with a bunch of 05s and 06s coming out of Fort Huachuca. Well, Ahmed Qureshi, that is Zachariah's father, he is an 06 in the Navy._
+- [00:09:45](/episodes/ep-rupRLXmSndU#t-00-09-45): _You probably will actually believe this. Zachariah Qureshi's father is actually an 06 in the military. You remember that term. I was getting familiar with it. I fumbled over my words. Mitch Snow, he said he saw this meeting conclude with a bunch of 05s and 06s coming out of Fort Huachuca. Well, Ahmed Qureshi, that is Zachariah (Zachariah Qureshi)'s father, he is an 06 in the Navy._
 
 ### Related
 

@@ -31,7 +31,7 @@ veracity: "true"
 **Timestamp:** [00:07:20](/episodes/ep-q1NRQQAYS_Q.md#t-00-07-09) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(440);return false;">Play</a>
 
-> And Erica had previously, before I sat down with her, confirmed that there was a video of this moment, a video of Charlie just weeks before he died saying that he wanted her to take over the company.
+> And Erica (Erika Kirk) had previously, before I sat down with her, confirmed that there was a video of this moment, a video of Charlie (Charlie Kirk) just weeks before he died saying that he wanted her to take over the company.
 
 ## Verification
 

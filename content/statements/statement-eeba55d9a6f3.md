@@ -28,7 +28,7 @@ type: "accusation"
 **Timestamp:** [01:08:24](/episodes/ep-es7PWdFGoFI.md#t-01-08-09) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(4104);return false;">Play</a>
 
-> Tim Pool is trying to signal to people that her security's weak or, like, she's using the same security as Charlie. All of these things, like, he is trying to put into the air that he wants me to be attacked
+> Like, he's basically trying to signal to people that her security's weak or, like, she's using the same security as Charlie (Charlie Kirk).
 
 ## Verification
 

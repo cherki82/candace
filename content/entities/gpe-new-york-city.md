@@ -1,6 +1,6 @@
 ---
 title: "New York City"
-description: "New York City (Places) - 53 mentions"
+description: "New York City (Places) - 54 mentions"
 id: "gpe-new-york-city"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [City of New York](https://www.nyc.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-gpe-new-york-city-t-00-02-10">2025-09-22 · 00:02:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-new-york-city-t-00-42-57">2026-07-22 · 00:42:57</a></strong></div>
-<div><span>Episodes</span><strong>28</strong></div>
-<div><span>Mentions</span><strong>53</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#ent-gpe-new-york-city-t-00-20-42">2026-08-10 · 00:20:55</a></strong></div>
+<div><span>Episodes</span><strong>30</strong></div>
+<div><span>Mentions</span><strong>54</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
@@ -39,7 +39,7 @@ Source: [City of New York](https://www.nyc.gov/)
 <a href="/episodes/ep-LATnak75Si0.md#ent-gpe-new-york-city-t-00-00-00" style="--pulse-height:80%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 4 mentions" title="2025-11-05 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-city-t-00-06-42" style="--pulse-height:40%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 2 mentions" title="2025-11-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-new-york-city-t-00-11-40" style="--pulse-height:20%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 1 mentions" title="2025-11-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-new-york-city-t-00-08-05" style="--pulse-height:20%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-new-york-city-t-00-08-03" style="--pulse-height:20%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-new-york-city-t-01-02-43" style="--pulse-height:20%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#t-00-52-04" style="--pulse-height:20%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-new-york-city-t-00-48-34" style="--pulse-height:20%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
@@ -63,6 +63,8 @@ Source: [City of New York](https://www.nyc.gov/)
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-new-york-city-t-00-45-12" style="--pulse-height:20%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-new-york-city-t-00-19-29" style="--pulse-height:20%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-new-york-city-t-00-42-57" style="--pulse-height:20%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#t-00-30-19" style="--pulse-height:20%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#ent-gpe-new-york-city-t-00-20-42" style="--pulse-height:20%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -72,7 +74,7 @@ Source: [City of New York](https://www.nyc.gov/)
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-gpe-new-york-city-t-00-00-00) | 4 |
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-gpe-new-york-city-t-00-06-42) | 2 |
 | 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-new-york-city-t-00-11-40) | 1 |
-| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-new-york-city-t-00-08-05) | 1 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-new-york-city-t-00-08-03) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-new-york-city-t-01-02-43) | 1 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#t-00-52-04) | 1 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-gpe-new-york-city-t-00-48-34) | 1 |
@@ -96,6 +98,8 @@ Source: [City of New York](https://www.nyc.gov/)
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-new-york-city-t-00-45-12) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-new-york-city-t-00-19-29) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-gpe-new-york-city-t-00-42-57) | 1 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#t-00-30-19) | 1 |
+| 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-gpe-new-york-city-t-00-20-42) | 1 |
 
 </details>
 </section>
@@ -103,7 +107,23 @@ Source: [City of New York](https://www.nyc.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (53)</strong></summary>
+<summary><strong class="section-title">Raw mentions (54)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>
+
+**[00:20:55](/episodes/ep-5zgkrOaCCj4.md#ent-gpe-new-york-city-t-00-20-42)**
+> "...rive from Atlanta, Georgia to New York City in that time frame. Tyler Robinson, he's just dri..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
+
+**[00:30:19](/episodes/ep-Vu6Y24pqhZs.md#t-00-30-19)**
+> "The first flight took place on September, on February 27th, 2006 from New York's JFK International Airport to London's Luton Airport."
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
@@ -349,7 +369,7 @@ Source: [City of New York](https://www.nyc.gov/)
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
 
-**[00:08:05](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-new-york-city-t-00-08-05)**
+**[00:08:03](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-new-york-city-t-00-08-03)**
 > "This is that's the truest take right there on the Internet about how people felt when they watched it. It felt like everything that all of us on our platforms said that gave us the ick about Hollywood when they got up on stage and they mocked people that lived between L.A. and New York City when they mocked the farmers and the ranchers and people that supported Trump in 2015."
 
 </details>

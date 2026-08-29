@@ -42,7 +42,7 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-phil-lyman-t-00-20-20" style="--pulse-height:12%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 3 mentions" title="2025-10-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-phil-lyman-t-00-27-06" style="--pulse-height:8%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 1 mentions" title="2025-10-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-581dILVcEE4.md#ent-person-phil-lyman-t-00-18-25" style="--pulse-height:8%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-phil-lyman-t-00-35-11" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-phil-lyman-t-00-35-27" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-phil-lyman-t-00-18-01" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-phil-lyman-t-00-14-50" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-person-phil-lyman-t-00-28-29" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
@@ -60,7 +60,7 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 | 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-phil-lyman-t-00-20-20) | 3 |
 | 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-phil-lyman-t-00-27-06) | 1 |
 | 2025-11-18 | [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md#ent-person-phil-lyman-t-00-18-25) | 1 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-phil-lyman-t-00-35-11) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-phil-lyman-t-00-35-27) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-phil-lyman-t-00-18-01) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-phil-lyman-t-00-14-50) | 1 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-phil-lyman-t-00-28-29) | 2 |
@@ -115,7 +115,7 @@ Source: [Utah 2024 Voter Information Pamphlet](https://vote.utah.gov/wp-content/
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
 
-**[00:35:39](/episodes/ep-HYn0P-P1wUw.md#ent-person-phil-lyman-t-00-35-11)**
+**[00:35:39](/episodes/ep-HYn0P-P1wUw.md#ent-person-phil-lyman-t-00-35-27)**
 > "Phil Lyman was speaking to the guy that used to run, I'm bla..."
 
 </details>

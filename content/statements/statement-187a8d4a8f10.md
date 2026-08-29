@@ -26,10 +26,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
-**Timestamp:** [00:44:21](/episodes/ep-OEAHy3SsIiI.md#t-00-43-52) 
+**Timestamp:** [00:44:21](/episodes/ep-OEAHy3SsIiI.md#t-00-44-18) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2661);return false;">Play</a>
 
-> the actual incident reports from what happened on the base on that day,
+> So I then dropped the military police reports, the actual incident reports from what happened on the base on that day, which proves that Mitch (Mitch Snow) told the truth.
 
 ## Verification
 

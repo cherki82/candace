@@ -1,26 +1,34 @@
 ---
 title: "Stanford University"
-description: "Stanford University (Organizations) - 8 mentions"
+description: "Stanford University (Organizations) - 9 mentions"
 id: "org-stanford-university"
 type: "ORG"
 aliases:
   - "Stanford"
+categories:
+  - "higher education"
 ---
 
 _Type: Organizations_
 
 **Also known as:** Stanford
 
+**Categories:** higher education
+
 > **Possibly overlapping entity records:** [Stanford](/entities/org-stanford). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> Stanford University's official About page confirms the canonical institution name and higher-education identity.
+Source: [About Stanford | Stanford University](https://www.stanford.edu/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-stanford-university-t-00-35-53">2025-09-17 · 00:36:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-stanford-university-t-00-32-12">2026-02-27 · 00:32:30</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-org-stanford-university-t-00-17-50">2026-08-11 · 00:17:50</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>1</strong></div>
+<div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -33,6 +41,7 @@ _Type: Organizations_
 <a href="/episodes/ep-sImMM04XdWY.md#ent-org-stanford-university-t-00-23-08" style="--pulse-height:33%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-org-stanford-university-t-01-16-52" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 3 mentions" title="2026-01-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-stanford-university-t-00-32-12" style="--pulse-height:67%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-org-stanford-university-t-00-17-50" style="--pulse-height:33%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -43,6 +52,7 @@ _Type: Organizations_
 | 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-org-stanford-university-t-00-23-08) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-org-stanford-university-t-01-16-52) | 3 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-stanford-university-t-00-32-12) | 2 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-org-stanford-university-t-00-17-50) | 1 |
 
 </details>
 </section>
@@ -50,7 +60,15 @@ _Type: Organizations_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
+
+**[00:17:50](/episodes/ep-HGtMfbePDKk.md#ent-org-stanford-university-t-00-17-50)**
+> "I'd come to Stanford University to see her speak with Charlie Kirk. Kirk was just..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (2 mentions)</summary>
@@ -107,12 +125,45 @@ _Type: Organizations_
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Hosted Speaker (2)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. @ 00:17:50](/episodes/ep-HGtMfbePDKk.md#t-00-17-49): “I'd come to Stanford University to see her speak with Charlie Kirk.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. @ 00:17:50](/episodes/ep-HGtMfbePDKk.md#t-00-17-49): “I'd come to Stanford University to see her speak with Charlie Kirk.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
 
 - **[Philip Nelson Bliss](/entities/person-philip-nelson-bliss.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:32:12](/episodes/ep-1IY2oD-_xVA.md#t-00-32-12): “Here, over there in the corner, Phil Bliss, the board member, was involved with Stanford University in the 70s. I'm not going to, yes, I am MKUltra, MKUltra.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** spoke at this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. @ 00:17:50](/episodes/ep-HGtMfbePDKk.md#t-00-17-49): “I'd come to Stanford University to see her speak with Charlie Kirk.”
+
+</details>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)** spoke at this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. @ 00:17:50](/episodes/ep-HGtMfbePDKk.md#t-00-17-49): “I'd come to Stanford University to see her speak with Charlie Kirk.”
 
 </details>
 

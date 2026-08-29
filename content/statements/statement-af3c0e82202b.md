@@ -1,6 +1,6 @@
 ---
-title: "The French company Satis in Delaware wasn't established to p..."
-description: "\"The French company Satis in Delaware wasn't established to provide maintenance to Egyptian planes and was more than likely a front for something else\" — Candace Owens"
+title: "The French company Satys in Delaware wasn't established to p..."
+description: "\"The French company Satys in Delaware wasn't established to provide maintenance to Egyptian planes and was more than likely a front for something else\" — Candace Owens"
 statement_id: "statement-af3c0e82202b"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "mixed"
 
 ## Statement
 
-> The French company Satis in Delaware wasn't established to provide maintenance to Egyptian planes and was more than likely a front for something else
+> The French company Satys in Delaware wasn't established to provide maintenance to Egyptian planes and was more than likely a front for something else
 
 ## Attribution
 
@@ -21,7 +21,7 @@ veracity: "mixed"
 
 ## About
 
-- [Satis](/entities/org-satis.md) (org)
+- [Satys](/entities/org-satys.md) (org)
 
 ## Appearances (2)
 

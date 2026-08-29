@@ -11,7 +11,11 @@ object: "person-blake-neff"
 
 ## [Candace Owens](/entities/person-candace-owens) criticized [Blake Neff](/entities/person-blake-neff)
 
-### Evidence (18 mentions)
+### Evidence (27 mentions)
+
+**[VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg)**
+
+- [00:47:30](/episodes/ep-1CFDtD0IgEg#t-00-47-30): _blake (Blake Neff) is just so obviously someone that charlie (Charlie Kirk) and i would have been like had a nickname for because how could you not like we watch blake (Blake Neff) here and we're just sort of like how is this how is it possible that someone could be so fundamentally unlikable and so fundamentally unbelievable in everything that he says and does total lack of talent_
 
 **[Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg)**
 
@@ -20,6 +24,30 @@ object: "person-blake-neff"
 **[Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY)**
 
 - [00:42:05](/episodes/ep-2tFYJf1klgY#t-00-42-05): _Blake Neff is obviously demented. I don't know what's wrong with this person._
+
+**[EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70)**
+
+- [00:18:33](/episodes/ep-9hRcfSrri70#t-00-18-33): _This is a tweet, by the way, from just this morning from Blakey (Blake Neff). He's already been community noted on it for its intentional misrepresentation. He just lies and misrepresents and we're the bad guys for noticing that he's doing it. This is what the tweet read._
+
+**[A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ)**
+
+- [00:51:05](/episodes/ep-AoYZel7_cGQ#t-00-51-05): _when you see blake neff who is an evil man saying convict tyler robinson_
+
+**[LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8)**
+
+- [00:08:46](/episodes/ep-ChuWo-n49B8#t-00-08-46): _There was no footage of Tyler Robinson assembling the rifle on the roof. Blake Neff tweeted this the other day. He's lying through his teeth._
+
+**[Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA)**
+
+- [00:00:21](/episodes/ep-E7P2ShoYDUA#t-00-00-21): _Just terrible, terrible. I mean, without question, the biggest loser was Erika Kirk, Andrew Kolvet. Blake Neff, the Turning Point USA organization, more broadly speaking, because we seem to be reaching a new depth of their PR disaster._
+
+**[Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk)**
+
+- [00:23:59](/episodes/ep-HGtMfbePDKk#t-00-23-59): _I have to point out The ever decreasing social IQ of Blake Neff, like I just when we think we get to the bottom of his social IQ,_
+
+**[BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o)**
+
+- [00:09:42](/episodes/ep-HZvwbfePe7o#t-00-09-42): _And the question immediately caused Turning Point and their mockingbirds to come undone. Blake Neff lost his mind._
 
 **[HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk)**
 
@@ -53,9 +81,17 @@ object: "person-blake-neff"
 
 - [00:33:17](/episodes/ep-ZzAT2xijKGQ#t-00-33-17): _He's one of my favorite characters because he always just says too much and it's never good._
 
+**[Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik)**
+
+- [00:43:23](/episodes/ep-_cNtgris8Ik#t-00-43-23): _she had yeah he totally had her back when she got fired from the daily wire yeah andrew that's now now your timeline is pushed up to 2024 i was fired in march of 2024 so how long are you trying to say that we weren't friends for it's just such a nonsense truly let it go blake nobody knows who you are neither did charlie okay you started working for him in 2023 you're not laughing because you don't know anything tyler's laughing because he does And it is,_
+
 **[EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10)**
 
 - [00:40:04](/episodes/ep-a2bZf4fic10#t-00-40-04): _Did you really think Blake Neff, Graham Allen, and Paramount Not-So-Tactical were going to delude the public into the absurd story that you tried to spin?_
+
+**[A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8)**
+
+- [00:42:41](/episodes/ep-d7VsbEIWkP8#t-00-42-41): _it was just something quick to eat they can't even do that anymore with fast food and you're treating them like they're spoiled rotten because you need to have war that's that's the reality and of course never want to be left behind we know beavis and butthead um blake neff came back with a chart because that's how they're going to convince you guys don't even we have this chart that shows you that your groceries aren't expensive expensive_
 
 **[Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw)**
 
@@ -75,7 +111,7 @@ object: "person-blake-neff"
 
 **[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
 
-- [00:32:10](/episodes/ep-q1NRQQAYS_Q#t-00-32-10): _The opinion, which was shared by Elizabeth Lane, that Erica has psychopathic tendencies. By the way, Blake, looking back at you, buddy, I'm not the one who had an employer that got allegedly shot in front of my face and I didn't think to call 911._
+- [00:32:10](/episodes/ep-q1NRQQAYS_Q#t-00-32-10): _The opinion, which was shared by Elizabeth Lane, that Erica (Erika Kirk) has psychopathic tendencies. By the way, Blake (Blake Neff), looking back at you, buddy, I'm not the one who had an employer that got allegedly shot in front of my face and I didn't think to call 911._
 
 **[Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM)**
 

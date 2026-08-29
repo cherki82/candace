@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [PDS Debt](/entities/org-pds-debt) endorsed by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
 
 **[Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4)**
 
@@ -24,6 +24,10 @@ object: "person-candace-owens"
 **[TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos)**
 
 - [00:29:56](/episodes/ep-IqHsl7d2dos#t-00-29-56): _And it starts with a free 30 second assessment at PDS debt dot com. slash Candace to stop juggling multiple payments and get one lower monthly payment._
+
+**[EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs)**
+
+- [00:25:11](/episodes/ep-Vu6Y24pqhZs#t-00-25-11): _Minimum payments aren't designed to get you out of debt. They're designed to keep you stuck. PDS Debt, however, can help._
 
 **[EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A)**
 

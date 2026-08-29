@@ -28,10 +28,10 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
-**Timestamp:** [01:04:07](/episodes/ep-OEAHy3SsIiI.md#t-01-03-51) 
+**Timestamp:** [01:04:07](/episodes/ep-OEAHy3SsIiI.md#t-01-03-38) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3847);return false;">Play</a>
 
-> he's going to be gone. A bunch of Christians are going to be mass murdered at that time. Obviously, Israel had been working with Al Qaeda.
+> Obviously, Israel had been working with Al Qaeda. ... or an al-Qaeda-adjacent group. I think Al-Nusra is the name of the group
 
 ## Verification
 

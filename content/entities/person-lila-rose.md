@@ -3,9 +3,17 @@ title: "Lila Rose"
 description: "Lila Rose (People) - 9 mentions"
 id: "person-lila-rose"
 type: "PERSON"
+categories:
+  - "political activist"
 ---
 
 _Type: People_
+
+**Categories:** political activist
+
+**Entity verification:** verified
+> Canonical name and identity for Lila Rose confirmed by the cited direct external source.
+Source: [Lila Rose](https://en.wikipedia.org/wiki/Lila_Rose)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-lila-rose-t-00-25-47">2025-10-28 · 00:26:21</a></strong></div>

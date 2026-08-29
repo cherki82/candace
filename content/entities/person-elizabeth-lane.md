@@ -133,7 +133,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1 mentions)</summary>
 
 **[00:06:10](/episodes/ep-rupRLXmSndU.md#ent-person-elizabeth-lane-t-00-05-56)**
-> "Anyway, journalist Elizabeth Lane, that's the one who has been positing that Erica Kirk is a psychopath. She did another long post the other day on X and she was actually a journalist that was on the ground that day."
+> "Anyway, journalist Elizabeth Lane, that's the one who has been positing that Erika Kirk is a psychopath. She did another long post the other day on X and she was actually a journalist that was on the ground that day."
 
 </details>
 
@@ -236,7 +236,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:04:57](/episodes/ep-ZAsV0fHGBiM.md#t-00-04-51): “Elizabeth Lane ... authored about Erica (Erika Kirk) ... Elizabeth Lane wrote ... I have reached the point where I find Erika Kirk to be deeply disturbing”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:40:37](/episodes/ep-1IY2oD-_xVA.md#t-00-40-37): “I, uh, suffice to say that Elizabeth Lane was very much on the money when she, when she suggested that, um, that she would have done anything to be famous. And like I said, you just, you simply will not be able to deny that when you see the stuff that we have uncovered about her and the missing year, missing years, I'll say plural of Erika (Erika Kirk)'s life.”
-- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:32:10](/episodes/ep-q1NRQQAYS_Q.md#t-00-32-10): “The opinion, which was shared by Elizabeth Lane, that Erica has psychopathic tendencies. By the way, Blake, looking back at you, buddy, I'm not the one who had an employer that got allegedly shot in front of my face and I didn't think to call 911.”
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:32:10](/episodes/ep-q1NRQQAYS_Q.md#t-00-32-10): “The opinion, which was shared by Elizabeth Lane, that Erica (Erika Kirk) has psychopathic tendencies. By the way, Blake (Blake Neff), looking back at you, buddy, I'm not the one who had an employer that got allegedly shot in front of my face and I didn't think to call 911.”
 
 </details>
 
@@ -257,7 +257,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:04:57](/episodes/ep-ZAsV0fHGBiM.md#t-00-04-51): “Elizabeth Lane ... authored about Erica (Erika Kirk) ... Elizabeth Lane wrote ... I have reached the point where I find Erika Kirk to be deeply disturbing”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:40:37](/episodes/ep-1IY2oD-_xVA.md#t-00-40-37): “I, uh, suffice to say that Elizabeth Lane was very much on the money when she, when she suggested that, um, that she would have done anything to be famous. And like I said, you just, you simply will not be able to deny that when you see the stuff that we have uncovered about her and the missing year, missing years, I'll say plural of Erika (Erika Kirk)'s life.”
-- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:32:10](/episodes/ep-q1NRQQAYS_Q.md#t-00-32-10): “The opinion, which was shared by Elizabeth Lane, that Erica has psychopathic tendencies. By the way, Blake, looking back at you, buddy, I'm not the one who had an employer that got allegedly shot in front of my face and I didn't think to call 911.”
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:32:10](/episodes/ep-q1NRQQAYS_Q.md#t-00-32-10): “The opinion, which was shared by Elizabeth Lane, that Erica (Erika Kirk) has psychopathic tendencies. By the way, Blake (Blake Neff), looking back at you, buddy, I'm not the one who had an employer that got allegedly shot in front of my face and I didn't think to call 911.”
 
 </details>
 

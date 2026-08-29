@@ -1,6 +1,6 @@
 ---
 title: "United States Marine Corps"
-description: "United States Marine Corps (Organizations) - 60 mentions"
+description: "United States Marine Corps (Organizations) - 66 mentions"
 id: "org-united-states-marine-corps"
 type: "ORG"
 aliases:
@@ -26,11 +26,11 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#t-00-55-02">2025-09-22 · 00:55:07</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marine-corps-t-03-04-07">2026-08-14 · 03:04:07</a></strong></div>
-<div><span>Episodes</span><strong>25</strong></div>
-<div><span>Mentions</span><strong>60</strong></div>
+<div><span>Episodes</span><strong>28</strong></div>
+<div><span>Mentions</span><strong>66</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>21</strong></div>
-<div><span>Relationships</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>23</strong></div>
+<div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -62,6 +62,9 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-org-united-states-marine-corps-t-00-36-41" style="--pulse-height:11%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-marine-corps-t-00-15-37" style="--pulse-height:11%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-united-states-marine-corps-t-00-10-56" style="--pulse-height:11%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-united-states-marine-corps-t-00-22-30" style="--pulse-height:11%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-org-united-states-marine-corps-t-00-20-04" style="--pulse-height:44%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 4 mentions" title="2026-08-03 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-united-states-marine-corps-t-00-14-06" style="--pulse-height:11%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marine-corps-t-03-04-07" style="--pulse-height:11%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -92,6 +95,9 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-org-united-states-marine-corps-t-00-36-41) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-marine-corps-t-00-15-37) | 1 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-org-united-states-marine-corps-t-00-10-56) | 1 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-org-united-states-marine-corps-t-00-22-30) | 1 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-org-united-states-marine-corps-t-00-20-04) | 4 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-org-united-states-marine-corps-t-00-14-06) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marine-corps-t-03-04-07) | 1 |
 
 </details>
@@ -100,13 +106,46 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (60)</strong></summary>
+<summary><strong class="section-title">Raw mentions (66)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[03:04:07](/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marine-corps-t-03-04-07)**
 > "...ing forward uh we have former marines that have gotten on and said it looks to me like ..."
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>
+
+**[00:14:06](/episodes/ep-1CFDtD0IgEg.md#ent-org-united-states-marine-corps-t-00-14-06)**
+> "...ks people who knew him in the Marines years ago to send her dirt on him so she can hara..."
+
+</details>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (4 mentions)</summary>
+
+**[00:20:04](/episodes/ep-AH1KVKkweUE.md#ent-org-united-states-marine-corps-t-00-20-04)**
+> "...rksmanship instructor for the Marines from 2009 to 2014 at Camp Pendleton, which is in ..."
+
+**[00:20:15](/episodes/ep-AH1KVKkweUE.md#ent-org-united-states-marine-corps-t-00-20-04)**
+> "...itarian work in Japan for the Marines before he arrived into Utah."
+
+**[00:20:25](/episodes/ep-AH1KVKkweUE.md#ent-org-united-states-marine-corps-t-00-20-04)**
+> "...m feeling right now about the Marines getting involved in humanitarian work overseas."
+
+**[00:23:25](/episodes/ep-AH1KVKkweUE.md#ent-org-united-states-marine-corps-t-00-23-07)**
+> "... also people that were in the Marines maybe you served alongside this Alan Edward Rober..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
+
+**[00:22:38](/episodes/ep-Vu6Y24pqhZs.md#ent-org-united-states-marine-corps-t-00-22-30)**
+> "Big, big deal. One half of their personnel are civilians. They are tasked primarily, the NCIS, with investigating major criminal activities that involve the Navy and the Marine Corps."
 
 </details>
 
@@ -413,7 +452,7 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Formerly Employed (4)</summary>
+<summary>Formerly Employed (5)</summary>
 
 - **[Robert Eugene Flood](/entities/person-robert-eugene-flood.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -444,6 +483,13 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 
 </details>
 
+- **[Alan Edward Robertson](/entities/person-alan-edward-robertson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:20:04](/episodes/ep-AH1KVKkweUE.md#t-00-20-04): “And according to his LinkedIn, he was the marksmanship instructor for the Marines from 2009 to 2014 at Camp Pendleton, which is in California.”
+
+</details>
+
 </details>
 
 <details>
@@ -459,7 +505,7 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Referenced By (10)</summary>
 
 - **[Romanian Angels Project](/entities/org-romanian-angels-project.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -506,6 +552,13 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 
 </details>
 
+- **[Alan Edward Robertson](/entities/person-alan-edward-robertson.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:20:04](/episodes/ep-AH1KVKkweUE.md#t-00-20-04): “And according to his LinkedIn, he was the marksmanship instructor for the Marines from 2009 to 2014 at Camp Pendleton, which is in California.”
+
+</details>
+
 - **[6th Marine Regiment](/entities/org-6th-marine-regiment.md)** member of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -537,7 +590,23 @@ Source: [United States Marine Corps](https://www.marines.mil/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Marine Corps (21)</strong></summary>
+<summary><strong class="section-title">Statements about United States Marine Corps (23)</strong></summary>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1)</summary>
+
+- [00:19:57](/episodes/ep-AH1KVKkweUE.md#t-00-19-22) (Citation) **Candace Owens**: ["Owens said Robertson's LinkedIn listed him as a Marine Corps marksmans..."](/statements/statement-b0e6dd9b87ec.md)
+  - Also about: [Alan Edward Robertson](/entities/person-alan-edward-robertson.md), [Afghanistan](/entities/gpe-afghanistan.md), [Japan](/entities/gpe-japan.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1)</summary>
+
+- [00:22:30](/episodes/ep-Vu6Y24pqhZs.md#t-00-22-30) (Claim) **Candace Owens**: ["Owens said NCIS has a presence in more than 41 countries and on U.S. N..."](/statements/statement-a5bec7c8d9f8.md)
+  - Also about: [Naval Criminal Investigative Service](/entities/org-naval-criminal-investigative-service.md), [United States Navy](/entities/org-united-states-navy.md)
+
+</details>
 
 <details>
 <summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1)</summary>

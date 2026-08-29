@@ -1,6 +1,6 @@
 ---
 title: "BYU"
-description: "BYU (Organizations) - 17 mentions"
+description: "BYU (Organizations) - 18 mentions"
 id: "org-byu"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Brigham Young University](https://www.byu.edu/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#ent-org-byu-t-00-21-19">2025-09-23 · 00:21:33</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-org-byu-t-00-46-56">2026-04-01 · 00:47:30</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-byu-t-00-09-26">2026-08-04 · 00:09:32</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>17</strong></div>
@@ -42,6 +42,7 @@ Source: [Brigham Young University](https://www.byu.edu/)
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-byu-t-00-45-19" style="--pulse-height:8%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-byu-t-00-10-59" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-org-byu-t-00-18-00" style="--pulse-height:100%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 12 mentions" title="2026-04-01 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-byu-t-00-09-26" style="--pulse-height:8%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -53,6 +54,7 @@ Source: [Brigham Young University](https://www.byu.edu/)
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-org-byu-t-00-45-19) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-org-byu-t-00-10-59) | 1 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-byu-t-00-18-00) | 12 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-org-byu-t-00-09-26) | 1 |
 
 </details>
 </section>
@@ -60,7 +62,15 @@ Source: [Brigham Young University](https://www.byu.edu/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>
+
+**[00:09:32](/episodes/ep-1CFDtD0IgEg.md#ent-org-byu-t-00-09-26)**
+> "...actually the founding dean of BYU's law school program."
+
+</details>
 
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (12 mentions)</summary>
@@ -69,7 +79,7 @@ Source: [Brigham Young University](https://www.byu.edu/)
 > "To put it to you another way, the co-founders of the build company who lived in the same house and work at the same place also sent their sons to the same school at the same time, BYU."
 
 **[00:19:43](/episodes/ep-rupRLXmSndU.md#ent-org-byu-t-00-19-19)**
-> "...tion Gina Romney also went to BYU. BYU keeps coming up, and I'm about to drop some ..."
+> "So you can see this also, I should mention Gina (Gina Romney Henderson) also went to BYU. BYU keeps coming up, and I'm about to drop some bombshells for you about BYU's connection to Israel in particular."
 
 **[00:20:31](/episodes/ep-rupRLXmSndU.md#ent-org-byu-t-00-19-56)**
 > "...this very weird connection to BYU in particular."
@@ -78,7 +88,7 @@ Source: [Brigham Young University](https://www.byu.edu/)
 > "... shocked when I learned about BYU, and I'm not going to say allegedly in this next ..."
 
 **[00:24:23](/episodes/ep-rupRLXmSndU.md#ent-org-byu-t-00-23-58)**
-> "... our Gina Romney, he attended BYU. And it really made me wonder, like, what the hec..."
+> "Henderson and our Gina (Gina Romney Henderson), he attended BYU. And it really made me wonder, like, what the heck goes on at BYU? And fortunately, someone told me."
 
 **[00:24:36](/episodes/ep-rupRLXmSndU.md#ent-org-byu-t-00-24-36)**
 > "...ou can take this to the bank. BYU has direct ties to the CIA."
@@ -93,7 +103,7 @@ Source: [Brigham Young University](https://www.byu.edu/)
 > "... Romney clan who also went to BYU, and we brought him up very early in the investig..."
 
 **[00:30:28](/episodes/ep-rupRLXmSndU.md#ent-org-byu-t-00-30-18)**
-> "...said, Robbie, he also went to BYU. And he played lacrosse. He appears to have gradu..."
+> "But what we know for certain is, like I said, Robbie (Robbie Hild), he also went to BYU. And he played lacrosse. He appears to have graduated around 2020."
 
 **[00:47:20](/episodes/ep-rupRLXmSndU.md#ent-org-byu-t-00-46-56)**
 > "...Stephen Jones, a physicist at BYU, published a study in 2009 proving advanced therm..."
@@ -154,35 +164,35 @@ Source: [Brigham Young University](https://www.byu.edu/)
 - **[Connor Henderson](/entities/person-connor-henderson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:18:07](/episodes/ep-rupRLXmSndU.md#t-00-18-00): “Connor went to the same school at the same time as Zachariah Qureshi. So their sons go to school together. To put it to you another way, the co-founders of the build company who lived in the same house and work at the same place also sent their sons to the same school at the same time, BYU. Okay, they graduated within a year of one another and their sons both interned at the built company.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:18:07](/episodes/ep-rupRLXmSndU.md#t-00-18-00): “Connor (Connor Henderson) went to the same school at the same time as Zachariah Qureshi. So their sons go to school together. To put it to you another way, the co-founders of the build company who lived in the same house and work at the same place also sent their sons to the same school at the same time, BYU. Okay, they graduated within a year of one another and their sons both interned at the built company.”
 
 </details>
 
 - **[Zachariah Qureshi](/entities/person-zachariah-qureshi.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:18:07](/episodes/ep-rupRLXmSndU.md#t-00-18-00): “Connor went to the same school at the same time as Zachariah Qureshi. So their sons go to school together. To put it to you another way, the co-founders of the build company who lived in the same house and work at the same place also sent their sons to the same school at the same time, BYU. Okay, they graduated within a year of one another and their sons both interned at the built company.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:18:07](/episodes/ep-rupRLXmSndU.md#t-00-18-00): “Connor (Connor Henderson) went to the same school at the same time as Zachariah Qureshi. So their sons go to school together. To put it to you another way, the co-founders of the build company who lived in the same house and work at the same place also sent their sons to the same school at the same time, BYU. Okay, they graduated within a year of one another and their sons both interned at the built company.”
 
 </details>
 
 - **[Gina Romney Henderson](/entities/person-gina-romney-henderson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:19:43](/episodes/ep-rupRLXmSndU.md#t-00-19-19): “So you can see this also, I should mention Gina Romney also went to BYU.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:19:43](/episodes/ep-rupRLXmSndU.md#t-00-19-19): “So you can see this also, I should mention Gina (Gina Romney Henderson) also went to BYU. BYU keeps coming up, and I'm about to drop some bombshells for you about BYU's connection to Israel in particular.”
 
 </details>
 
 - **[Andrew Zenger](/entities/person-andrew-zenger.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:24:16](/episodes/ep-rupRLXmSndU.md#t-00-23-58): “Just like I said, ahead of September 10th. Now, of course, Andrew Zenger, just like Karashi and Harris. Henderson and our Gina Romney, he attended BYU.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:24:16](/episodes/ep-rupRLXmSndU.md#t-00-23-58): “Just like I said, ahead of September 10th. Now, of course, Andrew Zenger, just like Qureshi and Harris. Henderson and our Gina (Gina Romney Henderson), he attended BYU. And it really made me wonder, like, what the heck goes on at BYU? And fortunately, someone told me.”
 
 </details>
 
 - **[Rob Hild](/entities/person-rob-hild.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:30:28](/episodes/ep-rupRLXmSndU.md#t-00-30-18): “But what we know for certain is, like I said, Robbie, he also went to BYU. And he played lacrosse. He appears to have graduated around 2020.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:30:28](/episodes/ep-rupRLXmSndU.md#t-00-30-18): “But what we know for certain is, like I said, Robbie (Robbie Hild), he also went to BYU. And he played lacrosse. He appears to have graduated around 2020.”
 
 </details>
 
@@ -238,35 +248,35 @@ Source: [Brigham Young University](https://www.byu.edu/)
 - **[Connor Henderson](/entities/person-connor-henderson.md)** attended this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:18:07](/episodes/ep-rupRLXmSndU.md#t-00-18-00): “Connor went to the same school at the same time as Zachariah Qureshi. So their sons go to school together. To put it to you another way, the co-founders of the build company who lived in the same house and work at the same place also sent their sons to the same school at the same time, BYU. Okay, they graduated within a year of one another and their sons both interned at the built company.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:18:07](/episodes/ep-rupRLXmSndU.md#t-00-18-00): “Connor (Connor Henderson) went to the same school at the same time as Zachariah Qureshi. So their sons go to school together. To put it to you another way, the co-founders of the build company who lived in the same house and work at the same place also sent their sons to the same school at the same time, BYU. Okay, they graduated within a year of one another and their sons both interned at the built company.”
 
 </details>
 
 - **[Zachariah Qureshi](/entities/person-zachariah-qureshi.md)** attended this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:18:07](/episodes/ep-rupRLXmSndU.md#t-00-18-00): “Connor went to the same school at the same time as Zachariah Qureshi. So their sons go to school together. To put it to you another way, the co-founders of the build company who lived in the same house and work at the same place also sent their sons to the same school at the same time, BYU. Okay, they graduated within a year of one another and their sons both interned at the built company.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:18:07](/episodes/ep-rupRLXmSndU.md#t-00-18-00): “Connor (Connor Henderson) went to the same school at the same time as Zachariah Qureshi. So their sons go to school together. To put it to you another way, the co-founders of the build company who lived in the same house and work at the same place also sent their sons to the same school at the same time, BYU. Okay, they graduated within a year of one another and their sons both interned at the built company.”
 
 </details>
 
 - **[Gina Romney Henderson](/entities/person-gina-romney-henderson.md)** attended this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:19:43](/episodes/ep-rupRLXmSndU.md#t-00-19-19): “So you can see this also, I should mention Gina Romney also went to BYU.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:19:43](/episodes/ep-rupRLXmSndU.md#t-00-19-19): “So you can see this also, I should mention Gina (Gina Romney Henderson) also went to BYU. BYU keeps coming up, and I'm about to drop some bombshells for you about BYU's connection to Israel in particular.”
 
 </details>
 
 - **[Andrew Zenger](/entities/person-andrew-zenger.md)** attended this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:24:16](/episodes/ep-rupRLXmSndU.md#t-00-23-58): “Just like I said, ahead of September 10th. Now, of course, Andrew Zenger, just like Karashi and Harris. Henderson and our Gina Romney, he attended BYU.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:24:16](/episodes/ep-rupRLXmSndU.md#t-00-23-58): “Just like I said, ahead of September 10th. Now, of course, Andrew Zenger, just like Qureshi and Harris. Henderson and our Gina (Gina Romney Henderson), he attended BYU. And it really made me wonder, like, what the heck goes on at BYU? And fortunately, someone told me.”
 
 </details>
 
 - **[Rob Hild](/entities/person-rob-hild.md)** attended this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:30:28](/episodes/ep-rupRLXmSndU.md#t-00-30-18): “But what we know for certain is, like I said, Robbie, he also went to BYU. And he played lacrosse. He appears to have graduated around 2020.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:30:28](/episodes/ep-rupRLXmSndU.md#t-00-30-18): “But what we know for certain is, like I said, Robbie (Robbie Hild), he also went to BYU. And he played lacrosse. He appears to have graduated around 2020.”
 
 </details>
 

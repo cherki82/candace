@@ -30,7 +30,7 @@ veracity: "mixed"
 **Timestamp:** [00:01:29](/episodes/ep-q1NRQQAYS_Q.md#t-00-01-20) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(89);return false;">Play</a>
 
-> He was detained. Cash Patel shut down the investigation for an hour and a half, and then he was released and we weren't told much more.
+> He was detained. Kash Patel shut down the investigation for an hour and a half, and then he was released and we weren't told much more.
 
 ## Verification
 

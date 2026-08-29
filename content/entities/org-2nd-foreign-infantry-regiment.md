@@ -3,9 +3,17 @@ title: "2nd Foreign Infantry Regiment"
 description: "2nd Foreign Infantry Regiment (Organizations) - 2 mentions"
 id: "org-2nd-foreign-infantry-regiment"
 type: "ORG"
+categories:
+  - "French military unit"
 ---
 
 _Type: Organizations_
+
+**Categories:** French military unit
+
+**Entity verification:** verified
+> Canonical name and identity for 2nd Foreign Infantry Regiment confirmed by the cited direct external source.
+Source: [2nd Foreign Infantry Regiment (France)](https://en.wikipedia.org/wiki/2nd_Foreign_Infantry_Regiment_(France))
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-2nd-foreign-infantry-regiment-t-00-19-45">2025-12-01 · 00:16:09</a></strong></div>

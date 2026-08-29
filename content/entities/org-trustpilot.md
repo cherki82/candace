@@ -1,6 +1,6 @@
 ---
 title: "Trustpilot"
-description: "Trustpilot (Organizations) - 17 mentions"
+description: "Trustpilot (Organizations) - 20 mentions"
 id: "org-trustpilot"
 type: "ORG"
 categories:
@@ -18,9 +18,9 @@ Source: [Trustpilot Trust Centre](https://corporate.trustpilot.com/trust)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-org-trustpilot-t-00-25-49">2025-09-25 · 00:25:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep--9MOUvgGyi4.md#ent-org-trustpilot-t-00-33-55">2026-04-22 · 00:34:30</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-trustpilot-t-00-57-00">2026-08-17 · 00:57:10</a></strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,6 +36,7 @@ Source: [Trustpilot Trust Centre](https://corporate.trustpilot.com/trust)
 <a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-trustpilot-t-00-28-01" style="--pulse-height:50%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-trustpilot-t-00-35-40" style="--pulse-height:50%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-trustpilot-t-00-49-20" style="--pulse-height:50%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-trustpilot-t-00-42-40" style="--pulse-height:50%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-trustpilot-t-00-31-02" style="--pulse-height:50%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-trustpilot-t-00-17-40" style="--pulse-height:50%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-org-trustpilot-t-00-25-13" style="--pulse-height:50%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
@@ -47,6 +48,8 @@ Source: [Trustpilot Trust Centre](https://corporate.trustpilot.com/trust)
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-trustpilot-t-00-29-36" style="--pulse-height:50%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-org-trustpilot-t-00-26-26" style="--pulse-height:50%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-org-trustpilot-t-00-33-55" style="--pulse-height:50%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-trustpilot-t-02-30-51" style="--pulse-height:50%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-trustpilot-t-00-57-00" style="--pulse-height:50%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,6 +60,7 @@ Source: [Trustpilot Trust Centre](https://corporate.trustpilot.com/trust)
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-org-trustpilot-t-00-28-01) | 1 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-org-trustpilot-t-00-35-40) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-org-trustpilot-t-00-49-20) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-trustpilot-t-00-42-40) | 1 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-trustpilot-t-00-31-02) | 1 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-trustpilot-t-00-17-40) | 1 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-trustpilot-t-00-25-13) | 1 |
@@ -68,6 +72,8 @@ Source: [Trustpilot Trust Centre](https://corporate.trustpilot.com/trust)
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-trustpilot-t-00-29-36) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-trustpilot-t-00-26-26) | 1 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-org-trustpilot-t-00-33-55) | 1 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-trustpilot-t-02-30-51) | 1 |
+| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-org-trustpilot-t-00-57-00) | 1 |
 
 </details>
 </section>
@@ -75,7 +81,23 @@ Source: [Trustpilot Trust Centre](https://corporate.trustpilot.com/trust)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1 mentions)</summary>
+
+**[00:57:10](/episodes/ep-E7P2ShoYDUA.md#ent-org-trustpilot-t-00-57-00)**
+> "You just answer a few health questions and you could be covered the very same day. Ethos has a 4.9 out of 5 stars on Trustpilot with over 5,500 reviews."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (1 mentions)</summary>
+
+**[02:30:51](/episodes/ep-aPOyk1i2LOc.md#ent-org-trustpilot-t-02-30-51)**
+> "...hos has 4.9 out of 5 stars on Trustpilot with over 5,500 reviews. What really stands out t..."
+
+</details>
 
 <details>
 <summary>Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329 (1 mentions)</summary>
@@ -165,6 +187,14 @@ Source: [Trustpilot Trust Centre](https://corporate.trustpilot.com/trust)
 
 **[00:31:27](/episodes/ep-BKcOm32ZEGk.md#ent-org-trustpilot-t-00-31-02)**
 > "five-star rating on Trustpilot"
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
+
+**[00:42:40](/episodes/ep-HYn0P-P1wUw.md#ent-org-trustpilot-t-00-42-40)**
+> "...t holds a five-star rating on Trustpilot."
 
 </details>
 

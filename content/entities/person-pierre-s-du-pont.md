@@ -3,9 +3,18 @@ title: "Pierre S. du Pont"
 description: "Pierre S. du Pont (People) - 2 mentions"
 id: "person-pierre-s-du-pont"
 type: "PERSON"
+categories:
+  - "industrialist"
+  - "philanthropist"
 ---
 
 _Type: People_
+
+**Categories:** industrialist, philanthropist
+
+**Entity verification:** verified
+> Longwood Gardens' official history confirms the canonical identity and industrialist-philanthropist context.
+Source: [Pierre S. du Pont — Longwood Gardens](https://longwoodgardens.org/history/1870-1954)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-pierre-s-du-pont-t-00-29-13">2025-12-01 · 00:29:28</a></strong></div>

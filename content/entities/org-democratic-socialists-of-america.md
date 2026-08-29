@@ -5,11 +5,19 @@ id: "org-democratic-socialists-of-america"
 type: "ORG"
 aliases:
   - "DSA"
+categories:
+  - "political organization"
 ---
 
 _Type: Organizations_
 
 **Also known as:** DSA
+
+**Categories:** political organization
+
+**Entity verification:** verified
+> Canonical name and identity for Democratic Socialists of America confirmed by the cited direct external source.
+Source: [About Democratic Socialists of America](https://www.dsausa.org/about-us/what-is-democratic-socialism/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-r1PS67aRmcA.md#ent-org-democratic-socialists-of-america-t-00-04-34">2025-11-08 · 00:04:38</a></strong></div>

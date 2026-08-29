@@ -1,21 +1,30 @@
 ---
 title: "Adam Sosnick"
-description: "Adam Sosnick (People) - 14 mentions"
+description: "Adam Sosnick (People) - 16 mentions"
 id: "person-adam-sosnick"
 type: "PERSON"
 aliases:
   - "Adam"
+categories:
+  - "business-media"
+  - "podcasting"
 ---
 
 _Type: People_
 
 **Also known as:** Adam
 
+**Categories:** business-media, podcasting
+
+**Entity verification:** verified
+> Verified as the Valuetainment/SOSCast host focused on money and current-events discussion; source identity matches transcript reference.
+Source: [Q&A With Adam Sosnick! | Valuetainment](https://valuetainment.com/qa-with-adam-sosnick/)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-adam-sosnick-t-00-46-56">2025-12-01 · 00:46:49</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#ent-person-adam-sosnick-t-00-47-19">2025-12-05 · 00:47:39</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-person-adam-sosnick-t-00-59-32">2026-08-06 · 00:59:32</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>16</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -29,6 +38,7 @@ _Type: People_
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-adam-sosnick-t-00-46-56" style="--pulse-height:100%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 8 mentions" title="2025-12-01 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-person-adam-sosnick-t-00-47-19" style="--pulse-height:62%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 5 mentions" title="2025-12-05 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-adam-sosnick-t-00-47-08" style="--pulse-height:12%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-person-adam-sosnick-t-00-59-32" style="--pulse-height:12%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -37,6 +47,7 @@ _Type: People_
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-adam-sosnick-t-00-46-56) | 8 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-person-adam-sosnick-t-00-47-19) | 5 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-person-adam-sosnick-t-00-47-08) | 1 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-adam-sosnick-t-00-59-32) | 1 |
 
 </details>
 </section>
@@ -44,7 +55,15 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:59:32](/episodes/ep-ChuWo-n49B8.md#ent-person-adam-sosnick-t-00-59-32)**
+> "that guy, Adam (Adam Sosnick) on PBD"
+
+</details>
 
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (5 mentions)</summary>

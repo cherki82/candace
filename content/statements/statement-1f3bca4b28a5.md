@@ -4,9 +4,10 @@ description: "\"Candace Owens promised a $25,000 bounty for information identify
 statement_id: "statement-1f3bca4b28a5"
 speaker: "Candace Owens"
 type: "promise"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "promise"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The source transcript directly records Owens offering a $25,000 bounty for information identifying the participants in the security-team call. This verifies the promise as made; it does not establish whether the bounty was later paid.
+
+**Confidence:** High
+
+**Sources:**
+
+- [EXCLUSIVE: Ben Shapiro's 9/10 Lunch Date — Candace Ep. 365 transcript](https://podcasts.happyscribe.com/candace/10-lunch-date-more-text-messages-from-charlie-kirk)
+
+*Verified: 2026-08-27T19:42:39.589229*
 
 ---
 

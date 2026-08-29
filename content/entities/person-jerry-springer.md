@@ -17,7 +17,7 @@ _Type: People_
 Source: [Jerry Springer - Official Show Biography](https://jerryspringertv.com/team/jerry-springer/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-jerry-springer-t-00-43-07">2026-01-05 · 00:43:46</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-jerry-springer-t-00-43-42">2026-01-05 · 00:43:42</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-jerry-springer-t-00-04-20">2026-05-06 · 00:04:20</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
@@ -29,9 +29,9 @@ Source: [Jerry Springer - Official Show Biography](https://jerryspringertv.com/t
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-jerry-springer-t-00-43-07">You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-jerry-springer-t-00-43-42">You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-jerry-springer-t-00-43-07" style="--pulse-height:100%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-jerry-springer-t-00-43-42" style="--pulse-height:100%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-jerry-springer-t-01-19-15" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-jerry-springer-t-00-04-20" style="--pulse-height:100%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 </div>
@@ -39,7 +39,7 @@ Source: [Jerry Springer - Official Show Biography](https://jerryspringertv.com/t
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-jerry-springer-t-00-43-07) | 1 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-jerry-springer-t-00-43-42) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-jerry-springer-t-01-19-15) | 1 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-jerry-springer-t-00-04-20) | 1 |
 
@@ -70,7 +70,7 @@ Source: [Jerry Springer - Official Show Biography](https://jerryspringertv.com/t
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
 
-**[00:43:46](/episodes/ep-OEAHy3SsIiI.md#ent-person-jerry-springer-t-00-43-07)**
+**[00:43:42](/episodes/ep-OEAHy3SsIiI.md#ent-person-jerry-springer-t-00-43-42)**
 > "like suddenly we are being brought into Jerry Springer, and they had to absolve his past."
 
 </details>

@@ -30,7 +30,7 @@ type: "factual_claim"
 **Timestamp:** [00:15:17](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(917);return false;">Play</a>
 
-> I brought up Brian, this interview with Sean. And I think we can believe turning point when they say that they did not approve of this. They had no idea he was going on Sean. I think that's pretty clear. I don't believe he works there anymore.
+> I brought up Brian (Brian Harpole), this interview with Sean (Shawn Ryan). And I think we can believe turning point when they say that they did not approve of this. They had no idea he was going on Sean (Shawn Ryan). I think that's pretty clear. I don't believe he works there anymore.
 
 ## Verification
 

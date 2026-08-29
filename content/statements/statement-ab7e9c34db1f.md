@@ -29,7 +29,7 @@ veracity: "mixed"
 **Timestamp:** [00:35:58](/episodes/ep-CMcktj3Egfo.md#t-00-35-55) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2158);return false;">Play</a>
 
-> someone was plotting my murder and got discovered and that’s still making its way through the courts.
+> and I was quite literally someone who's plotting my murder, actually a year from the date that Charlie was murdered on September 10th, someone was plotting my murder and got discovered and that's still making its way through the courts. These people are calling for violence.
 
 ## Verification
 

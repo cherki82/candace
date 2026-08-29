@@ -1,6 +1,6 @@
 ---
 title: "Terrell Farnsworth"
-description: "Terrell Farnsworth (People) - 60 mentions"
+description: "Terrell Farnsworth (People) - 123 mentions"
 id: "person-terrell-farnsworth"
 type: "PERSON"
 categories:
@@ -18,38 +18,43 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#t-00-16-41">2025-11-12 · 00:16:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-terrell-farnsworth-t-03-02-07">2026-08-14 · 03:02:25</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>60</strong></div>
-<div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>23</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-terrell-farnsworth-t-00-02-43">2026-08-21 · 00:02:50</a></strong></div>
+<div><span>Episodes</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>123</strong></div>
+<div><span>Statements by</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>53</strong></div>
+<div><span>Relationships</span><strong>11</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-terrell-farnsworth-t-00-06-11">I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353</a> (15 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-01-27">Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377</a> (43 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-MUA9ebCF4Ow.md#t-00-16-41" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-terrell-farnsworth-t-00-11-52" style="--pulse-height:13%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 2 mentions" title="2025-11-17 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-terrell-farnsworth-t-00-11-13" style="--pulse-height:27%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 4 mentions" title="2025-12-12 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-terrell-farnsworth-t-00-09-22" style="--pulse-height:20%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 3 mentions" title="2025-12-16 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-terrell-farnsworth-t-00-06-18" style="--pulse-height:20%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 3 mentions" title="2025-12-18 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-terrell-farnsworth-t-00-41-21" style="--pulse-height:13%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-terrell-farnsworth-t-00-33-00" style="--pulse-height:20%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 3 mentions" title="2026-03-12 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-terrell-farnsworth-t-00-02-02" style="--pulse-height:60%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 9 mentions" title="2026-03-31 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-terrell-farnsworth-t-00-11-52" style="--pulse-height:8%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 2 mentions" title="2025-11-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-terrell-farnsworth-t-00-11-13" style="--pulse-height:9%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 4 mentions" title="2025-12-12 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-es7PWdFGoFI.md#ent-person-terrell-farnsworth-t-00-09-22" style="--pulse-height:8%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 3 mentions" title="2025-12-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-terrell-farnsworth-t-00-06-18" style="--pulse-height:8%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 3 mentions" title="2025-12-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-terrell-farnsworth-t-00-41-21" style="--pulse-height:8%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-terrell-farnsworth-t-00-33-00" style="--pulse-height:8%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 3 mentions" title="2026-03-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-terrell-farnsworth-t-00-02-02" style="--pulse-height:21%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 9 mentions" title="2026-03-31 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#t-00-42-29" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-terrell-farnsworth-t-00-42-55" style="--pulse-height:13%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-69A8TzAGHlU.md#ent-person-terrell-farnsworth-t-00-06-57" style="--pulse-height:33%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 5 mentions" title="2026-04-30 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-terrell-farnsworth-t-00-27-54" style="--pulse-height:13%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-terrell-farnsworth-t-00-42-55" style="--pulse-height:8%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-person-terrell-farnsworth-t-00-06-57" style="--pulse-height:12%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 5 mentions" title="2026-04-30 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-terrell-farnsworth-t-00-27-54" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-person-terrell-farnsworth-t-00-17-58" style="--pulse-height:8%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-terrell-farnsworth-t-00-06-11" style="--pulse-height:100%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 15 mentions" title="2026-06-22 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-terrell-farnsworth-t-00-06-11" style="--pulse-height:35%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 15 mentions" title="2026-06-22 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-terrell-farnsworth-t-00-23-02" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-terrell-farnsworth-t-00-19-39" style="--pulse-height:13%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 2 mentions" title="2026-06-24 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-terrell-farnsworth-t-00-19-39" style="--pulse-height:8%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 2 mentions" title="2026-06-24 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-person-terrell-farnsworth-t-00-53-02" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ds6umq1rHAw.md#ent-person-terrell-farnsworth-t-00-24-54" style="--pulse-height:13%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-person-terrell-farnsworth-t-00-24-54" style="--pulse-height:8%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-person-terrell-farnsworth-t-00-19-22" style="--pulse-height:8%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-terrell-farnsworth-t-03-02-07" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-terrell-farnsworth-t-02-21-05" style="--pulse-height:8%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-01-27" style="--pulse-height:100%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 43 mentions" title="2026-08-18 · 43 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-person-terrell-farnsworth-t-00-04-34" style="--pulse-height:33%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 14 mentions" title="2026-08-19 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-person-terrell-farnsworth-t-00-02-00" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -73,7 +78,12 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-terrell-farnsworth-t-00-19-39) | 2 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-terrell-farnsworth-t-00-53-02) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-terrell-farnsworth-t-00-24-54) | 2 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-person-terrell-farnsworth-t-00-19-22) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-terrell-farnsworth-t-03-02-07) | 1 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-terrell-farnsworth-t-02-21-05) | 1 |
+| 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-01-27) | 43 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-terrell-farnsworth-t-00-04-34) | 14 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-terrell-farnsworth-t-00-02-00) | 2 |
 
 </details>
 </section>
@@ -81,13 +91,221 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (60)</strong></summary>
+<summary><strong class="section-title">Raw mentions (123)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>
+
+**[00:02:08](/episodes/ep-_cNtgris8Ik.md#ent-person-terrell-farnsworth-t-00-02-00)**
+> "Ready? Terrell Farnsworth, let's jump right back into this. Again, what I a..."
+
+**[00:02:50](/episodes/ep-_cNtgris8Ik.md#ent-person-terrell-farnsworth-t-00-02-43)**
+> "And he was working with Terrell Farnsworth, working under Terrell Farnsworth at visual impul..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (14 mentions)</summary>
+
+**[00:04:55](/episodes/ep-9hRcfSrri70.md#ent-person-terrell-farnsworth-t-00-04-34)**
+> "... demonstrated to you all that Terrell Farnsworth lied to me. That's just a fact. He lied to me abo..."
+
+**[00:06:17](/episodes/ep-9hRcfSrri70.md#ent-person-terrell-farnsworth-t-00-05-53)**
+> "...f my mind is why was Terrell (Terrell Farnsworth) there hovering around Charlie (Charlie Kirk)?"
+
+**[00:06:27](/episodes/ep-9hRcfSrri70.md#ent-person-terrell-farnsworth-t-00-05-53)**
+> "...y campus event where Terrell (Terrell Farnsworth) was just hovering behind us like that. It's just..."
+
+**[00:06:34](/episodes/ep-9hRcfSrri70.md#ent-person-terrell-farnsworth-t-00-05-53)**
+> "...e zero concern about Terrell (Terrell Farnsworth). He's done that at a lot of events."
+
+**[00:08:23](/episodes/ep-9hRcfSrri70.md#ent-person-terrell-farnsworth-t-00-08-00)**
+> "...y we showed you that Terrell (Terrell Farnsworth) pocketed that SD card. We were all wondering wha..."
+
+**[00:09:02](/episodes/ep-9hRcfSrri70.md#ent-person-terrell-farnsworth-t-00-08-44)**
+> "...e been interested in Terrell (Terrell Farnsworth) since October. Well, since September when I spok..."
+
+**[00:09:45](/episodes/ep-9hRcfSrri70.md#ent-person-terrell-farnsworth-t-00-09-30)**
+> "...is on audio. Here is Terrell (Terrell Farnsworth). He's bending down and he's opening his laptop a..."
+
+**[00:10:17](/episodes/ep-9hRcfSrri70.md#ent-person-terrell-farnsworth-t-00-10-08)**
+> "What you see Terrell (Terrell Farnsworth), and again, he's texting, he picks up the laptop..."
+
+**[00:12:50](/episodes/ep-9hRcfSrri70.md#ent-person-terrell-farnsworth-t-00-12-42)**
+> "... would be upset that Terrell (Terrell Farnsworth) perhaps misrepresented his aims. I'd also would ..."
+
+**[00:13:55](/episodes/ep-9hRcfSrri70.md#ent-person-terrell-farnsworth-t-00-13-29)**
+> "Terrell (Terrell Farnsworth) actually steps over the camera, which was design..."
+
+**[00:14:38](/episodes/ep-9hRcfSrri70.md#ent-person-terrell-farnsworth-t-00-14-08)**
+> "... again, according to Terrell (Terrell Farnsworth)'s 1102 statement, we know that that's filming th..."
+
+**[00:14:58](/episodes/ep-9hRcfSrri70.md#ent-person-terrell-farnsworth-t-00-14-53)**
+> "...irk)'s head. So when Terrell (Terrell Farnsworth) appears approximately three minutes later to tak..."
+
+**[00:45:12](/episodes/ep-9hRcfSrri70.md#ent-person-terrell-farnsworth-t-00-44-56)**
+> "...er Leslie writes, sounds like Terrell Farnsworth could be guilty of evidence tampering and obstruc..."
+
+**[00:45:28](/episodes/ep-9hRcfSrri70.md#ent-person-terrell-farnsworth-t-00-44-56)**
+> "... up to this. I mean, Terrell (Terrell Farnsworth) could argue it was his, it's his."
+
+</details>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (43 mentions)</summary>
+
+**[00:01:57](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-01-27)**
+> "... would offer that it was when Terrell Farnsworth, Turning Point USA's audio and visual lead, he ru..."
+
+**[00:02:45](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-02-09)**
+> "...cious because I knew Terrell (Terrell Farnsworth). You'll recall this, right?"
+
+**[00:03:05](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-02-51)**
+> "We talked to Terrell (Terrell Farnsworth), got him on the phone, was expecting something s..."
+
+**[00:03:21](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-02-51)**
+> "It's because Terrell (Terrell Farnsworth) was nervous. He was offering me various increasi..."
+
+**[00:04:05](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-03-35)**
+> "...he file. And I said, Terrell (Terrell Farnsworth), you run an AV company."
+
+**[00:04:28](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-04-19)**
+> "...hat now we know that Terrell (Terrell Farnsworth) lied to me. Terrell (Terrell Farnsworth)'s a lia..."
+
+**[00:04:35](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-04-19)**
+> "...diate intuition that Terrell (Terrell Farnsworth) was lying to me that he maybe did know how to se..."
+
+**[00:04:58](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-04-58)**
+> "...ys before I spoke to Terrell (Terrell Farnsworth)."
+
+**[00:05:12](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-04-58)**
+> "...f the assassination, Terrell (Terrell Farnsworth) apparently did know how to send footage and he c..."
+
+**[00:05:21](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-04-58)**
+> "...hack him. That makes Terrell (Terrell Farnsworth) a liar."
+
+**[00:05:44](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-05-31)**
+> "... this statement from Terrell (Terrell Farnsworth), and it tells us, and I'm going to read the firs..."
+
+**[00:07:30](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-06-55)**
+> "...contractor and maybe Terrell (Terrell Farnsworth) got that footage from him and he was going from ..."
+
+**[00:09:44](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-09-37)**
+> "... Nissy when she realized that Terrell Farnsworth, when he finally did show me the completely non-g..."
+
+**[00:10:17](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-10-17)**
+> "In this footage that Terrell (Terrell Farnsworth) has selectively shared with Candace (Candace Owe..."
+
+**[00:10:59](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-10-59)**
+> "... In the footage that Terrell (Terrell Farnsworth) has selectively shared with Candace (Candace Owe..."
+
+**[00:11:10](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-10-59)**
+> "...e (Charlie Kirk), or Terrell (Terrell Farnsworth) had zoomed in after the fact, and he was showing..."
+
+**[00:11:30](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-11-30)**
+> "Why did Terrell (Terrell Farnsworth) do that?"
+
+**[00:11:33](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-11-30)**
+> "...dy demonstrated from Terrell (Terrell Farnsworth)'s 1102 statement that he's willing to lie to me...."
+
+**[00:11:47](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-11-30)**
+> "Did Terrell (Terrell Farnsworth) do this after the fact? When did he do this? Bec..."
+
+**[00:12:13](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-12-13)**
+> "... to testify that no, Terrell (Terrell Farnsworth) gave them a flash drive. This means that Terrell..."
+
+**[00:12:43](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-12-13)**
+> "I mean, did Terrell (Terrell Farnsworth) think that they were not equipped with knowledge..."
+
+**[00:13:53](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-13-50)**
+> "...g viral, the clip of Terrell (Terrell Farnsworth) taking down that camera in particular, people on..."
+
+**[00:14:15](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-13-50)**
+> "Terrell (Terrell Farnsworth) actually grabbed all of the footage and he did s..."
+
+**[00:16:37](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-16-37)**
+> "... if you keep reading Terrell (Terrell Farnsworth)'s 1102 statement."
+
+**[00:16:49](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-16-37)**
+> "... footage which moved Terrell (Terrell Farnsworth) or maybe someone in the SBI, but it's not clear,..."
+
+**[00:17:04](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-17-04)**
+> "...st of the statement. Terrell (Terrell Farnsworth) writes in the statement, and we can pull up that..."
+
+**[00:18:07](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-17-46)**
+> "...ip. And that is what Terrell (Terrell Farnsworth) is saying, you know, to I believe this is a true..."
+
+**[00:18:49](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-18-26)**
+> "...d, we're not sure if Terrell (Terrell Farnsworth) clipped it or if it was SBI that clipped it."
+
+**[00:18:53](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-18-26)**
+> "We do know that Terrell (Terrell Farnsworth) was the first to touch that footage."
+
+**[00:18:59](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-18-59)**
+> "...ound up clipped, and Terrell (Terrell Farnsworth) is testifying in a statement that, from what he ..."
+
+**[00:19:35](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-18-59)**
+> "...ing some circles. So Terrell (Terrell Farnsworth) is basically saying it's still a true representa..."
+
+**[00:19:51](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-19-40)**
+> "...ng the case based on Terrell (Terrell Farnsworth)'s 1102, that the footage behind Charlie (Charlie..."
+
+**[00:20:12](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-19-40)**
+> "and Terrell (Terrell Farnsworth) beelined to it in particular, and he was nervous..."
+
+**[00:21:17](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-21-11)**
+> "...d wondered, what did Terrell (Terrell Farnsworth) do when he walked around?"
+
+**[00:21:31](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-21-11)**
+> "... I can tell you what Terrell (Terrell Farnsworth) did."
+
+**[00:21:37](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-21-11)**
+> "... actually known what Terrell (Terrell Farnsworth) did since October, as I was wondering who could ..."
+
+**[00:22:03](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-21-47)**
+> "To not tell you what Terrell (Terrell Farnsworth) did, but to rather show you and let you draw you..."
+
+**[00:22:16](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-21-47)**
+> "Okay. Here is what Terrell (Terrell Farnsworth) did thereafter, seen for the first time."
+
+**[00:22:25](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-21-47)**
+> "Terrell (Terrell Farnsworth). is there."
+
+**[00:24:12](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-24-01)**
+> "And Terrell (Terrell Farnsworth) lied to me. He lied to me about his fears regard..."
+
+**[00:26:11](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-26-06)**
+> "But why did Terrell (Terrell Farnsworth) tell me that he spoke with Erika (Erika Kirk) ab..."
+
+**[00:26:33](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-26-33)**
+> "...ized clip from it or Terrell (Terrell Farnsworth) to create a specialized clip from it. Why contin..."
+
+**[00:27:05](/episodes/ep-4JxgOclKzqg.md#ent-person-terrell-farnsworth-t-00-27-05)**
+> "Terrell (Terrell Farnsworth), anybody? You say it was given to the FBI. Okay,..."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[03:02:25](/episodes/ep-nPhCKwJ6ye8.md#ent-person-terrell-farnsworth-t-03-02-07)**
 > "...makes sense, without question Terrell Farnsworth is someone who made me think that we were missing..."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (1 mentions)</summary>
+
+**[02:21:24](/episodes/ep-aPOyk1i2LOc.md#ent-person-terrell-farnsworth-t-02-21-05)**
+> "Terrell Farnsworth is someone who made me think that we were missing..."
+
+</details>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
+
+**[00:19:31](/episodes/ep-AH1KVKkweUE.md#ent-person-terrell-farnsworth-t-00-19-22)**
+> "...ng coverage for a rookie from Terrell Farnsworth to Officer Bagley (Chris Bagley)? There seems to ..."
 
 </details>
 
@@ -249,22 +467,22 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 **[00:03:58](/episodes/ep-UYkXV9mYbT4.md#ent-person-terrell-farnsworth-t-00-03-58)**
 > "Terrell Farnsworth seemed to be moving with precision as if he were ..."
 
-**[00:03:20](/episodes/ep-UYkXV9mYbT4.md#ent-person-terrell-farnsworth-t-00-02-45)**
+**[00:03:20](/episodes/ep-UYkXV9mYbT4.md#ent-person-terrell-farnsworth-t-00-03-20)**
 > "Terrell"
 
-**[00:03:32](/episodes/ep-UYkXV9mYbT4.md#ent-person-terrell-farnsworth-t-00-02-45)**
+**[00:03:32](/episodes/ep-UYkXV9mYbT4.md#ent-person-terrell-farnsworth-t-00-03-20)**
 > "Terrell"
 
-**[00:03:38](/episodes/ep-UYkXV9mYbT4.md#ent-person-terrell-farnsworth-t-00-02-45)**
+**[00:03:38](/episodes/ep-UYkXV9mYbT4.md#ent-person-terrell-farnsworth-t-00-03-20)**
 > "Terrell"
 
-**[00:05:37](/episodes/ep-UYkXV9mYbT4.md#ent-person-terrell-farnsworth-t-00-03-58)**
+**[00:05:37](/episodes/ep-UYkXV9mYbT4.md#ent-person-terrell-farnsworth-t-00-05-20)**
 > "Terrell"
 
-**[00:06:38](/episodes/ep-UYkXV9mYbT4.md#ent-person-terrell-farnsworth-t-00-03-58)**
+**[00:06:38](/episodes/ep-UYkXV9mYbT4.md#ent-person-terrell-farnsworth-t-00-05-58)**
 > "Terrell"
 
-**[00:07:25](/episodes/ep-UYkXV9mYbT4.md#ent-person-terrell-farnsworth-t-00-03-58)**
+**[00:07:25](/episodes/ep-UYkXV9mYbT4.md#ent-person-terrell-farnsworth-t-00-07-25)**
 > "Terrell"
 
 </details>
@@ -367,10 +585,24 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 <summary>Accused By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:09:38](/episodes/ep-VMNWMXX1vO8.md#t-00-09-38): “Terrell (Terrell Farnsworth) ... His excuses thereafter for why he rushed to take specifically the SD card out from the camera behind Charlie (Charlie Kirk)'s head always disturbed me ... I've never, never, ever, ever thought he was telling the truth.”
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:23:02](/episodes/ep-9CuC1yf8-PU.md#t-00-23-02): “It explains why Terrell Farnsworth violated the crime scene to remove the backpack.”
+- [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:04:28](/episodes/ep-4JxgOclKzqg.md#t-00-04-19): “But you see, it turns out that now we know that Terrell (Terrell Farnsworth) lied to me. Terrell (Terrell Farnsworth)'s a liar.”
+- [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:04:55](/episodes/ep-9hRcfSrri70.md#t-00-04-34): “Anyway, yesterday I demonstrated to you all that Terrell Farnsworth lied to me. That's just a fact. He lied to me about not knowing how to send a clip.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Criticized By (1)</summary>
+
+- **[Nissy (YouTuber; identity unverified)](/entities/anon-src-4JxgOclKzqg-001.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:10:17](/episodes/ep-4JxgOclKzqg.md#t-00-10-17): “In this footage that Terrell (Terrell Farnsworth) has selectively shared with Candace (Candace Owens), we can't see the ground where Charlie (Charlie Kirk) had been sitting.”
 
 </details>
 
@@ -380,9 +612,30 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 <summary>Operates (1)</summary>
 
 - **[Visual Impulse, LLC](/entities/org-visual-impulse.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:06:37](/episodes/ep-VMNWMXX1vO8.md#t-00-06-11): “the guy who runs the audiovisual company ... this visual impulse team ... So we know Terrell (Terrell Farnsworth), he's there at the top.”
+- [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:01:57](/episodes/ep-4JxgOclKzqg.md#t-00-01-27): “I would offer that it was when Terrell Farnsworth, Turning Point USA's audio and visual lead, he runs Visual Impulse, was seen taking...”
+
+</details>
+
+</details>
+
+<details>
+<summary>Worked With (2)</summary>
+
+- **[Charlie Kirk](/entities/person-charlie-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+
+- [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:05:44](/episodes/ep-4JxgOclKzqg.md#t-00-05-31): “Myself and my team were there to provide audio video equipment, set up management and support as we had done for Mr. Charlie Kirk for years.”
+- [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:05:19](/episodes/ep-9hRcfSrri70.md#t-00-05-19): “And he's been on Charlie (Charlie Kirk)'s team for 10 years. And he'll... And he'll clear this up and then I'll use my platform to explain to everyone what actually happens.”
+
+</details>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:02:18](/episodes/ep-UYkXV9mYbT4.md#t-00-02-02): “Charlie Kirk was shot on September 10th, 12.23 p.m. in the afternoon mountain time. Now, a mere, what was it, four minutes after Charlie (Charlie Kirk)'s bloodied body was carried to the SUV, Terrell Farnsworth, the man who runs the audio visual company that Turning Point employees, they've used them for over a decade for their big events, and he never goes to these college events, but they were trying something different that day, he says.”
 
 </details>
 
@@ -392,39 +645,58 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 <summary>Works For (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:12:15](/episodes/ep-JQjCAsfoXEE.md#t-00-11-52): “Terrell Farnsworth, the guy who takes out the SD cards, was there at all. Okay, Terrell does not do college campus events. He doesn't do that. He's at the top of the company.”
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:02:15](/episodes/ep-es7PWdFGoFI.md#t-00-02-04): “My skin crawled after I spoke to Terrell Farnsworth, the person who took the cameras down.”
 - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:06:27](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-18): “Terrell Farnsworth still major question marks he raced to remove the camera that was directly behind Charlie's head.”
 - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:06:09](/episodes/ep-ewBzjVe3LNQ.md#t-00-05-35): “Terrell Farnsworth still major question marks he raced to remove the camera that was directly behind Charlie's head”
+- [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:01:57](/episodes/ep-4JxgOclKzqg.md#t-00-01-27): “I would offer that it was when Terrell Farnsworth, Turning Point USA's audio and visual lead, he runs Visual Impulse, was seen taking...”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:09:38](/episodes/ep-VMNWMXX1vO8.md#t-00-09-38): “Terrell (Terrell Farnsworth) ... His excuses thereafter for why he rushed to take specifically the SD card out from the camera behind Charlie (Charlie Kirk)'s head always disturbed me ... I've never, never, ever, ever thought he was telling the truth.”
 - [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 @ 00:23:02](/episodes/ep-9CuC1yf8-PU.md#t-00-23-02): “It explains why Terrell Farnsworth violated the crime scene to remove the backpack.”
+- [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:04:28](/episodes/ep-4JxgOclKzqg.md#t-00-04-19): “But you see, it turns out that now we know that Terrell (Terrell Farnsworth) lied to me. Terrell (Terrell Farnsworth)'s a liar.”
+- [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:04:55](/episodes/ep-9hRcfSrri70.md#t-00-04-34): “Anyway, yesterday I demonstrated to you all that Terrell Farnsworth lied to me. That's just a fact. He lied to me about not knowing how to send a clip.”
+
+</details>
+
+- **[Nissy (YouTuber; identity unverified)](/entities/anon-src-4JxgOclKzqg-001.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:10:17](/episodes/ep-4JxgOclKzqg.md#t-00-10-17): “In this footage that Terrell (Terrell Farnsworth) has selectively shared with Candace (Candace Owens), we can't see the ground where Charlie (Charlie Kirk) had been sitting.”
 
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266 @ 00:12:15](/episodes/ep-JQjCAsfoXEE.md#t-00-11-52): “Terrell Farnsworth, the guy who takes out the SD cards, was there at all. Okay, Terrell does not do college campus events. He doesn't do that. He's at the top of the company.”
+- [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:01:57](/episodes/ep-4JxgOclKzqg.md#t-00-01-27): “I would offer that it was when Terrell Farnsworth, Turning Point USA's audio and visual lead, he runs Visual Impulse, was seen taking...”
 
 </details>
 
 - **[Visual Impulse, LLC](/entities/org-visual-impulse.md)** operated by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:06:37](/episodes/ep-VMNWMXX1vO8.md#t-00-06-11): “the guy who runs the audiovisual company ... this visual impulse team ... So we know Terrell (Terrell Farnsworth), he's there at the top.”
+- [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:01:57](/episodes/ep-4JxgOclKzqg.md#t-00-01-27): “I would offer that it was when Terrell Farnsworth, Turning Point USA's audio and visual lead, he runs Visual Impulse, was seen taking...”
+
+</details>
+
+- **[Philip Goldsberry Jr.](/entities/person-philip-goldsberry-jr.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:02:50](/episodes/ep-_cNtgris8Ik.md#t-00-02-43): “And he was working with Terrell Farnsworth, working under Terrell Farnsworth at visual impulse.”
 
 </details>
 
@@ -433,7 +705,29 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Terrell Farnsworth (2)</strong></summary>
+<summary><strong class="section-title">Statements by Terrell Farnsworth (6)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
+
+- [00:08:42](/episodes/ep-_cNtgris8Ik.md#t-00-08-11) [◐] (Claim) ["Farnsworth said, "He's dead," within approximately two minutes of Charlie Kirk b..."](/statements/statement-e1014c0c3f17.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (3)</summary>
+
+- [00:05:44](/episodes/ep-4JxgOclKzqg.md#t-00-05-31) [✓] (Claim) ["In a 1102 statement, Farnsworth said Visual Impulse's setup at the September 10 ..."](/statements/statement-6c2336878f0c.md)
+  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Visual Impulse, LLC](/entities/org-visual-impulse.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:06:33](/episodes/ep-4JxgOclKzqg.md#t-00-06-10) [✓] (Claim) ["In his 1102 statement, Farnsworth said that on September 10 he gave the Utah Sta..."](/statements/statement-8d62ffeda313.md)
+  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md), [Google](/entities/org-google.md)
+
+- [00:15:05](/episodes/ep-4JxgOclKzqg.md#t-00-14-40) [✓] (Claim) ["Farnsworth told Kolvet that he removed the SD cards because people could be evil..."](/statements/statement-4b2a64f0f915.md)
+  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+
+</details>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1)</summary>
@@ -454,7 +748,103 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Terrell Farnsworth (23)</strong></summary>
+<summary><strong class="section-title">Statements about Terrell Farnsworth (53)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (11)</summary>
+
+- [00:03:07](/episodes/ep-_cNtgris8Ik.md#t-00-02-43) (Claim) **Candace Owens**: ["Owens said the footage showed Terrell Farnsworth getting up and showin..."](/statements/statement-8d964364d6b3.md)
+  - Also about: [Philip Goldsberry Jr.](/entities/person-philip-goldsberry-jr.md)
+
+- [00:04:25](/episodes/ep-_cNtgris8Ik.md#t-00-04-25) (Accusation) **Ana Kasparian** (via quoted speech): ["Kasparian asked whether Farnsworth's failure to provide the original S..."](/statements/statement-b2568cfeaa46.md)
+
+- [00:05:08](/episodes/ep-_cNtgris8Ik.md#t-00-04-52) (Claim) **Candace Owens**: ["Owens said Farnsworth's removal and potential alteration of the SD car..."](/statements/statement-b239c1bb5a47.md)
+  - Also about: [Utah](/entities/gpe-utah.md)
+
+- [00:06:16](/episodes/ep-_cNtgris8Ik.md#t-00-06-16) (Claim) **Candace Owens**: ["Owens said it was not in dispute that Farnsworth removed a physical ob..."](/statements/statement-9549e06f7701.md)
+
+- [00:07:38](/episodes/ep-_cNtgris8Ik.md#t-00-07-26) (Claim) **Candace Owens**: ["Owens said the footage had been zoomed in by the time Farnsworth prese..."](/statements/statement-08c516e921ec.md)
+
+- [00:07:49](/episodes/ep-_cNtgris8Ik.md#t-00-07-26) (Citation) **Candace Owens** (via paraphrase): ["Owens said David Hull's testimony showed that Farnsworth did not hand ..."](/statements/statement-010a2e3ef1ae.md)
+  - Also about: [David Hull](/entities/person-david-hull.md)
+
+- [00:09:35](/episodes/ep-_cNtgris8Ik.md#t-00-09-35) (Claim) **Tyler Bowyer** (via quoted tweet): ["Bowyer wrote that Farnsworth did not tamper with anything and that law..."](/statements/statement-0c372f6f3797.md)
+
+- [00:10:02](/episodes/ep-_cNtgris8Ik.md#t-00-09-35) (Claim) **Candace Owens**: ["Owens said Farnsworth never claimed that police told him to secure the..."](/statements/statement-f762eaf4ffee.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
+- [00:11:28](/episodes/ep-_cNtgris8Ik.md#t-00-11-05) (Accusation) **Candace Owens** (via paraphrase): ["Owens said she was told—allegedly—that Farnsworth had been instructed ..."](/statements/statement-e3e0555c303c.md)
+
+- [00:12:25](/episodes/ep-_cNtgris8Ik.md#t-00-12-25) (Claim) **Candace Owens** (via paraphrase): ["Owens said Farnsworth told her he acted on his own initiative because ..."](/statements/statement-83ea29ae1498.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:21:17](/episodes/ep-_cNtgris8Ik.md#t-00-20-47) (Opinion) **Candace Owens**: ["Owens said, as her opinion, that if there were an impetus to zoom the ..."](/statements/statement-7dda43a2145c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (7)</summary>
+
+- [00:08:23](/episodes/ep-9hRcfSrri70.md#t-00-08-00) (Claim) **Candace Owens**: ["Owens said Terrell Farnsworth pocketed the camera's SD card before tex..."](/statements/statement-c1ff0dc2eb11.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:11:09](/episodes/ep-9hRcfSrri70.md#t-00-10-43) (Claim) **Anonymous Source #2 (Ep 9hRcfSrri70)** (via read message): ["A trusted government source told Owens that Farnsworth's handling of t..."](/statements/statement-86d44b89e5a1.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:11:32](/episodes/ep-9hRcfSrri70.md#t-00-11-24) (Claim) **Candace Owens**: ["Owens said it appeared that Terrell Farnsworth inserted the pocketed S..."](/statements/statement-8f5e1b31e675.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:14:58](/episodes/ep-9hRcfSrri70.md#t-00-14-53) (Claim) **Candace Owens**: ["Owens said Farnsworth stepped over the fallen audience camera and its ..."](/statements/statement-152cddbcddc6.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:45:12](/episodes/ep-9hRcfSrri70.md#t-00-44-56) (Accusation) **Dan Teacher Leslie (commenter; identity unverified)** (via quoted post): ["A commenter said Terrell Farnsworth could be guilty of evidence tamper..."](/statements/statement-4633c923212c.md)
+
+- [00:45:20](/episodes/ep-9hRcfSrri70.md#t-00-44-56) (Opinion) **Candace Owens**: ["Owens said she did not know and could not assert that Farnsworth had c..."](/statements/statement-05456dc5ac78.md)
+
+- [00:46:47](/episodes/ep-9hRcfSrri70.md#t-00-46-47) (Claim) **Candace Owens**: ["Owens said the camera files she reviewed all stopped around the 26-min..."](/statements/statement-3e984a5b4963.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (12)</summary>
+
+- [00:02:09](/episodes/ep-4JxgOclKzqg.md#t-00-02-09) (Claim) **Candace Owens**: ["Owens said Terrell Farnsworth was seen taking down the camera behind C..."](/statements/statement-474145d5c4ac.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:05:12](/episodes/ep-4JxgOclKzqg.md#t-00-04-58) (Accusation) **Candace Owens**: ["Owens accused Farnsworth of lying to her, stating that he apparently k..."](/statements/statement-12e964f553b4.md)
+  - Also about: [Google](/entities/org-google.md)
+
+- [00:05:44](/episodes/ep-4JxgOclKzqg.md#t-00-05-31) (Claim) **Terrell Farnsworth** (via quoted document): ["In a 1102 statement, Farnsworth said Visual Impulse's setup at the Sep..."](/statements/statement-6c2336878f0c.md)
+  - Also about: [Visual Impulse, LLC](/entities/org-visual-impulse.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:06:33](/episodes/ep-4JxgOclKzqg.md#t-00-06-10) (Claim) **Terrell Farnsworth** (via quoted document): ["In his 1102 statement, Farnsworth said that on September 10 he gave th..."](/statements/statement-8d62ffeda313.md)
+  - Also about: [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md), [Google](/entities/org-google.md)
+
+- [00:10:59](/episodes/ep-4JxgOclKzqg.md#t-00-10-59) (Claim) **Nissy (YouTuber; identity unverified)** (via quoted speech): ["Nissy said the rear camera was normally used as a wide-angle camera, b..."](/statements/statement-67831155db51.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:11:10](/episodes/ep-4JxgOclKzqg.md#t-00-10-59) (Opinion) **Nissy (YouTuber; identity unverified)** (via quoted speech): ["Nissy said either the UVU camera setup had been changed and zoomed in ..."](/statements/statement-297d1715cc68.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:13:25](/episodes/ep-4JxgOclKzqg.md#t-00-13-25) (Claim) **David Hull** (via quoted speech): ["David Hull testified that Farnsworth initially provided what Hull beli..."](/statements/statement-36274c22af90.md)
+  - Also about: [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md)
+
+- [00:15:05](/episodes/ep-4JxgOclKzqg.md#t-00-14-40) (Claim) **Andrew Kolvet** (via quoted speech): ["Andrew Kolvet said the SD cards Farnsworth removed were in the FBI's p..."](/statements/statement-80bc48bd9f7b.md)
+  - Also about: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+
+- [00:15:05](/episodes/ep-4JxgOclKzqg.md#t-00-14-40) (Claim) **Terrell Farnsworth** (via quoted speech): ["Farnsworth told Kolvet that he removed the SD cards because people cou..."](/statements/statement-4b2a64f0f915.md)
+
+- [00:18:36](/episodes/ep-4JxgOclKzqg.md#t-00-18-26) (Claim) **Candace Owens**: ["Owens said the rear-camera footage had been turned into a separate cli..."](/statements/statement-f157a5d2bd8a.md)
+  - Also about: [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:23:42](/episodes/ep-4JxgOclKzqg.md#t-00-23-14) (Opinion) **Candace Owens**: ["Owens said it looked to her, as an opinion, as though Farnsworth was c..."](/statements/statement-c0b5fbf85e25.md)
+
+- [00:26:11](/episodes/ep-4JxgOclKzqg.md#t-00-26-06) (Claim) **Candace Owens** (via paraphrase): ["Owens said Farnsworth told her that he spoke with Erika Kirk about the..."](/statements/statement-7e40e43d7194.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1)</summary>
@@ -528,11 +918,11 @@ Source: [Charlie Kirk murder preliminary hearing transcript](https://fight.fudgi
 
 - [00:10:09](/episodes/ep-es7PWdFGoFI.md#t-00-09-57) (Claim) **Candace Owens**: ["Terrell Farnsworth comes from a very powerful family"](/statements/statement-ee0cb639f94a.md)
 
+- [00:10:32](/episodes/ep-es7PWdFGoFI.md#t-00-09-57) (Accusation) **Candace Owens**: ["Tyler Boyer lied about why Terrell Farnsworth took the camera down"](/statements/statement-3ead32a1417d.md)
+  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+
 - [00:10:43](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) (Accusation) **Candace Owens**: ["Tyler Boyer lied and said Terrell was asked to take the camera down by..."](/statements/statement-420d234f80d5.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
-
-- [00:10:43](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) (Accusation) **Candace Owens**: ["Tyler Boyer lied about why Terrell Farnsworth took the camera down"](/statements/statement-3ead32a1417d.md)
-  - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
 - [00:13:36](/episodes/ep-es7PWdFGoFI.md#t-00-13-27) (Opinion) **Candace Owens**: ["Terrell Farnsworth lied to me several times. My skin crawled after I s..."](/statements/statement-f3757ac613ee.md)
 

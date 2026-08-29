@@ -1,6 +1,6 @@
 ---
 title: "Anonymous Witness Companion"
-description: "Anonymous Witness Companion (Anonymous Sources) - 1 mention"
+description: "Anonymous Witness Companion (Anonymous Sources) - 2 mentions"
 id: "anon-src-puuMVxEu5NU-witness-companion"
 type: "ANONYMOUS_SOURCE"
 aliases:
@@ -21,7 +21,7 @@ Source: [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. |
 
 <div class="entity-summary-grid">
 <div><span>Episodes</span><strong>0</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -31,7 +31,7 @@ Source: [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. |
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
 
 </details>
 

@@ -21,8 +21,8 @@ _Type: People_
 Source: [Rachel Dolezal: I Was Born White - TIME](https://time.com/4096959/rachel-dolezal-white/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-rachel-dolezal-t-00-20-26">2026-01-05 · 00:20:38</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-rachel-dolezal-t-00-20-26">2026-01-05 · 00:20:38</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-rachel-dolezal-t-00-20-26">2026-01-05 · 00:20:36</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-rachel-dolezal-t-00-20-26">2026-01-05 · 00:20:36</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -54,7 +54,7 @@ Source: [Rachel Dolezal: I Was Born White - TIME](https://time.com/4096959/rache
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
 
-**[00:20:38](/episodes/ep-OEAHy3SsIiI.md#ent-person-rachel-dolezal-t-00-20-26)**
+**[00:20:36](/episodes/ep-OEAHy3SsIiI.md#ent-person-rachel-dolezal-t-00-20-26)**
 > "So if Rachel Dolezal is, as she is, actually born Caucasian and she's presenting as black and you go online and you say,"
 
 </details>

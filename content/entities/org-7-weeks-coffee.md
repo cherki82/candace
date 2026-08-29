@@ -3,9 +3,17 @@ title: "7 Weeks Coffee"
 description: "7 Weeks Coffee (Organizations) - 5 mentions"
 id: "org-7-weeks-coffee"
 type: "ORG"
+categories:
+  - "coffee company"
 ---
 
 _Type: Organizations_
+
+**Categories:** coffee company
+
+**Entity verification:** verified
+> Canonical name and identity for 7 Weeks Coffee confirmed by the cited direct external source.
+Source: [About 7 Weeks Coffee](https://7weekscoffee.com/pages/about-us)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-7-weeks-coffee-t-01-01-34">2025-09-17 · 01:01:34</a></strong></div>

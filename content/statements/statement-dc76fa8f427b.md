@@ -30,7 +30,7 @@ type: "factual_claim"
 **Timestamp:** [00:06:29](/episodes/ep-es7PWdFGoFI.md#t-00-06-11) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(389);return false;">Play</a>
 
-> Andrew told me specifically that he was one of the people that received this text message
+> And then I went on Jimmy (Jimmy Dore) on Friday, Jimmy (Jimmy Dore) show, and I clarified, I said, Andrew (Andrew Kolvet) told me specifically that he was one of the people that received this text message.
 
 ## Verification
 

@@ -1,6 +1,6 @@
 ---
 title: "LGBT"
-description: "LGBT (Concepts) - 5 mentions"
+description: "LGBT (Concepts) - 7 mentions"
 id: "concept-lgbt"
 type: "CONCEPT"
 aliases:
@@ -24,8 +24,8 @@ Source: [Merriam-Webster: LGBT](https://www.merriam-webster.com/dictionary/LGBT)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-lgbt-t-01-16-59">2026-01-29 · 01:16:59</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-lgbt-t-02-23-41">2026-08-14 · 02:24:08</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,6 +38,7 @@ Source: [Merriam-Webster: LGBT](https://www.merriam-webster.com/dictionary/LGBT)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-lgbt-t-01-17-14" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-lgbt-t-02-23-41" style="--pulse-height:67%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-concept-lgbt-t-01-42-39" style="--pulse-height:67%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [Merriam-Webster: LGBT](https://www.merriam-webster.com/dictionary/LGBT)
 |---|---|---:|
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-lgbt-t-01-17-14) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-lgbt-t-02-23-41) | 2 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-concept-lgbt-t-01-42-39) | 2 |
 
 </details>
 </section>
@@ -52,7 +54,7 @@ Source: [Merriam-Webster: LGBT](https://www.merriam-webster.com/dictionary/LGBT)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -62,6 +64,17 @@ Source: [Merriam-Webster: LGBT](https://www.merriam-webster.com/dictionary/LGBT)
 
 **[02:24:08](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-lgbt-t-02-23-41)**
 > "LGBTQ issues that he stopped and ate at Chick-fil-A,"
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (2 mentions)</summary>
+
+**[01:42:47](/episodes/ep-aPOyk1i2LOc.md#ent-concept-lgbt-t-01-42-39)**
+> "...tified they never spoke about LGBT."
+
+**[01:43:06](/episodes/ep-aPOyk1i2LOc.md#ent-concept-lgbt-t-01-42-39)**
+> "LGBTQ issues, that he stopped and ate at Chick-fil-A, w..."
 
 </details>
 

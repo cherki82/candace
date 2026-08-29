@@ -1,6 +1,6 @@
 ---
 title: "Hollywood"
-description: "Hollywood (Places) - 104 mentions"
+description: "Hollywood (Places) - 116 mentions"
 id: "gpe-hollywood"
 type: "GPE"
 aliases:
@@ -23,58 +23,59 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-hollywood-t-00-12-30">2025-09-18 · 00:12:38</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-hollywood-t-00-58-19">2026-07-23 · 00:58:39</a></strong></div>
-<div><span>Episodes</span><strong>39</strong></div>
-<div><span>Mentions</span><strong>104</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-hollywood-t-00-44-42">2026-08-07 · 00:44:51</a></strong></div>
+<div><span>Episodes</span><strong>40</strong></div>
+<div><span>Mentions</span><strong>116</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-00-00">From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265</a> (8 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-hollywood-t-00-31-41">LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372</a> (15 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-hollywood-t-00-12-30" style="--pulse-height:12%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 1 mentions" title="2025-09-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-hollywood-t-00-10-48" style="--pulse-height:25%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-hollywood-t-01-00-41" style="--pulse-height:12%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-hollywood-t-00-49-22" style="--pulse-height:25%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-hollywood-t-00-30-45" style="--pulse-height:12%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-00-00" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 8 mentions" title="2025-11-15 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-hollywood-t-00-50-01" style="--pulse-height:12%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-hollywood-t-00-50-13" style="--pulse-height:12%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-his-JBjlkh8.md#ent-gpe-hollywood-t-00-50-53" style="--pulse-height:25%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 2 mentions" title="2025-12-03 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-DqGNvi36ol8.md#ent-gpe-hollywood-t-00-39-15" style="--pulse-height:12%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-hollywood-t-00-24-28" style="--pulse-height:12%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-hollywood-t-00-05-24" style="--pulse-height:38%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 3 mentions" title="2026-01-05 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-hollywood-t-00-15-06" style="--pulse-height:50%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 4 mentions" title="2026-01-07 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-hollywood-t-00-15-01" style="--pulse-height:50%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 4 mentions" title="2026-01-12 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-hollywood-t-00-21-21" style="--pulse-height:25%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-hollywood-t-00-35-50" style="--pulse-height:25%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-hollywood-t-00-20-19" style="--pulse-height:12%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-gpe-hollywood-t-00-24-17" style="--pulse-height:62%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 5 mentions" title="2026-01-21 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-hollywood-t-00-53-11" style="--pulse-height:12%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-hollywood-t-00-16-11" style="--pulse-height:75%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 6 mentions" title="2026-01-29 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-hollywood-t-00-23-07" style="--pulse-height:38%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 3 mentions" title="2026-02-02 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-hollywood-t-00-16-08" style="--pulse-height:75%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 6 mentions" title="2026-02-03 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-hollywood-t-00-01-00" style="--pulse-height:12%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-hollywood-t-00-33-11" style="--pulse-height:25%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-hollywood-t-00-28-50" style="--pulse-height:38%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 3 mentions" title="2026-03-02 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-hollywood-t-00-39-17" style="--pulse-height:12%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-hollywood-t-00-02-39" style="--pulse-height:12%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-hollywood-t-00-25-01" style="--pulse-height:25%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-hollywood-t-00-43-51" style="--pulse-height:12%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-eMtjzXkQrsU.md#ent-gpe-hollywood-t-00-00-00" style="--pulse-height:88%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 7 mentions" title="2026-05-05 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-k1b1NDCrNFs.md#ent-gpe-hollywood-t-00-27-59" style="--pulse-height:50%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 4 mentions" title="2026-05-06 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-FFQ9675oqRI.md#ent-gpe-hollywood-t-00-03-47" style="--pulse-height:12%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-hollywood-t-00-37-13" style="--pulse-height:62%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 5 mentions" title="2026-05-13 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-hollywood-t-00-20-47" style="--pulse-height:25%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 2 mentions" title="2026-05-18 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-hollywood-t-00-32-18" style="--pulse-height:38%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 3 mentions" title="2026-05-26 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-mLvJqdxS-FY.md#ent-gpe-hollywood-t-00-57-38" style="--pulse-height:50%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 4 mentions" title="2026-07-16 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-OgRyiOAVtWU.md#ent-gpe-hollywood-t-00-57-27" style="--pulse-height:12%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-hollywood-t-00-02-08" style="--pulse-height:75%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 6 mentions" title="2026-07-22 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-hollywood-t-00-00-35" style="--pulse-height:25%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-hollywood-t-00-12-30" style="--pulse-height:8%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 1 mentions" title="2025-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-gpe-hollywood-t-00-10-48" style="--pulse-height:13%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-hollywood-t-01-00-41" style="--pulse-height:8%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 1 mentions" title="2025-10-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-hollywood-t-00-49-22" style="--pulse-height:13%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-hollywood-t-00-30-45" style="--pulse-height:8%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-hollywood-t-00-00-00" style="--pulse-height:53%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 8 mentions" title="2025-11-15 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-hollywood-t-00-50-01" style="--pulse-height:8%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-hollywood-t-00-50-13" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#ent-gpe-hollywood-t-00-50-53" style="--pulse-height:13%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 2 mentions" title="2025-12-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DqGNvi36ol8.md#ent-gpe-hollywood-t-00-39-15" style="--pulse-height:8%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-hollywood-t-00-24-28" style="--pulse-height:8%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-hollywood-t-00-05-17" style="--pulse-height:20%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 3 mentions" title="2026-01-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-hollywood-t-00-15-01" style="--pulse-height:27%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 4 mentions" title="2026-01-12 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-hollywood-t-00-21-21" style="--pulse-height:13%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-hollywood-t-00-35-50" style="--pulse-height:13%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-hollywood-t-00-20-19" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-gpe-hollywood-t-00-24-17" style="--pulse-height:33%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 5 mentions" title="2026-01-21 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-hollywood-t-00-53-11" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-hollywood-t-00-16-11" style="--pulse-height:40%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 6 mentions" title="2026-01-29 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-hollywood-t-00-23-07" style="--pulse-height:20%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 3 mentions" title="2026-02-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-hollywood-t-00-16-08" style="--pulse-height:40%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 6 mentions" title="2026-02-03 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-hollywood-t-00-01-00" style="--pulse-height:8%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-hollywood-t-00-33-11" style="--pulse-height:13%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-hollywood-t-00-28-50" style="--pulse-height:20%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 3 mentions" title="2026-03-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-hollywood-t-00-39-17" style="--pulse-height:8%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-hollywood-t-00-02-39" style="--pulse-height:8%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-hollywood-t-00-25-01" style="--pulse-height:13%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-hollywood-t-00-43-51" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eMtjzXkQrsU.md#ent-gpe-hollywood-t-00-00-00" style="--pulse-height:47%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 7 mentions" title="2026-05-05 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-gpe-hollywood-t-00-27-59" style="--pulse-height:27%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 4 mentions" title="2026-05-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-gpe-hollywood-t-00-03-47" style="--pulse-height:8%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-hollywood-t-00-37-13" style="--pulse-height:33%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 5 mentions" title="2026-05-13 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-hollywood-t-00-20-47" style="--pulse-height:13%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 2 mentions" title="2026-05-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-hollywood-t-00-32-18" style="--pulse-height:20%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 3 mentions" title="2026-05-26 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-gpe-hollywood-t-00-57-38" style="--pulse-height:27%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 4 mentions" title="2026-07-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-gpe-hollywood-t-00-57-27" style="--pulse-height:8%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-hollywood-t-00-02-08" style="--pulse-height:40%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 6 mentions" title="2026-07-22 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-hollywood-t-00-00-35" style="--pulse-height:13%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-hollywood-t-00-31-41" style="--pulse-height:100%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 15 mentions" title="2026-08-06 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-hollywood-t-00-44-42" style="--pulse-height:8%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -91,8 +92,7 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-gpe-hollywood-t-00-50-53) | 2 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-gpe-hollywood-t-00-39-15) | 1 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-hollywood-t-00-24-28) | 1 |
-| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-hollywood-t-00-05-24) | 3 |
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-hollywood-t-00-15-06) | 4 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-hollywood-t-00-05-17) | 3 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-hollywood-t-00-15-01) | 4 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-hollywood-t-00-21-21) | 2 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-hollywood-t-00-35-50) | 2 |
@@ -119,6 +119,8 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-gpe-hollywood-t-00-57-27) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-gpe-hollywood-t-00-02-08) | 6 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-gpe-hollywood-t-00-00-35) | 2 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-gpe-hollywood-t-00-31-41) | 15 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-hollywood-t-00-44-42) | 1 |
 
 </details>
 </section>
@@ -126,7 +128,65 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (104)</strong></summary>
+<summary><strong class="section-title">Raw mentions (116)</strong></summary>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
+
+**[00:44:51](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-hollywood-t-00-44-42)**
+> "Hollywood"
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (15 mentions)</summary>
+
+**[00:32:00](/episodes/ep-ChuWo-n49B8.md#ent-gpe-hollywood-t-00-31-41)**
+> "It actually gave him so much power in Hollywood."
+
+**[00:31:41](/episodes/ep-ChuWo-n49B8.md#ent-gpe-hollywood-t-00-31-41)**
+> "...lly gave him so much power in Hollywood."
+
+**[00:34:02](/episodes/ep-ChuWo-n49B8.md#ent-gpe-hollywood-t-00-34-02)**
+> "...eah, he had a lot of power in Hollywood. Some people were not buying this rebrand, especi..."
+
+**[00:38:49](/episodes/ep-ChuWo-n49B8.md#ent-gpe-hollywood-t-00-38-43)**
+> "...know a lot of that is because hollywood in general the broader picture here is that we no..."
+
+**[00:39:28](/episodes/ep-ChuWo-n49B8.md#ent-gpe-hollywood-t-00-39-20)**
+> "...bout what we've learned about Hollywood and many of them controlled by agents we've seen."
+
+**[00:39:50](/episodes/ep-ChuWo-n49B8.md#ent-gpe-hollywood-t-00-39-20)**
+> "..., just what I've learned, how Hollywood was set up. Truly, it was meant to be a cult."
+
+**[00:40:12](/episodes/ep-ChuWo-n49B8.md#ent-gpe-hollywood-t-00-40-03)**
+> "... real. The whole idea is that Hollywood was meant to drive us into almost like psychoanal..."
+
+**[00:40:26](/episodes/ep-ChuWo-n49B8.md#ent-gpe-hollywood-t-00-40-03)**
+> "They created Hollywood because they wanted to control what we think. It ..."
+
+**[00:40:36](/episodes/ep-ChuWo-n49B8.md#ent-gpe-hollywood-t-00-40-36)**
+> "That's what Hollywood is. At its core, it's propaganda. and they wanted..."
+
+**[00:41:10](/episodes/ep-ChuWo-n49B8.md#ent-gpe-hollywood-t-00-41-10)**
+> "...g falls, and I'm referring to Hollywood more broadly, not specifically Perez Hilton, some..."
+
+**[00:41:46](/episodes/ep-ChuWo-n49B8.md#ent-gpe-hollywood-t-00-41-10)**
+> "...his is supposed to be the new Hollywood. This is the plan."
+
+**[00:42:33](/episodes/ep-ChuWo-n49B8.md#ent-gpe-hollywood-t-00-42-33)**
+> "...crisis PR firms that employed Hollywood is now employing these groups like Turning Point ..."
+
+**[00:42:47](/episodes/ep-ChuWo-n49B8.md#ent-gpe-hollywood-t-00-42-33)**
+> "...you have to pay attention to. Hollywood is falling and something else is rising to take i..."
+
+**[00:43:39](/episodes/ep-ChuWo-n49B8.md#ent-gpe-hollywood-t-00-43-16)**
+> "...to make people aware of that. Hollywood is falling, but the occult is not going away."
+
+**[01:00:46](/episodes/ep-ChuWo-n49B8.md#ent-gpe-hollywood-t-01-00-40)**
+> "...been watching the collapse of Hollywood."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2 mentions)</summary>
@@ -487,32 +547,15 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 </details>
 
 <details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (4 mentions)</summary>
-
-**[00:15:06](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-hollywood-t-00-15-06)**
-> "...kson that it's plausible that Hollywood is being run by a gang."
-
-**[00:15:30](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-hollywood-t-00-15-06)**
-> "Hollywood was started by gangs. Yes, there were Jewish mafi..."
-
-**[00:30:40](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-hollywood-t-00-30-25)**
-> "Whether they are artists in Hollywood."
-
-**[00:37:06](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-hollywood-t-00-36-46)**
-> "...w a lot of people that are in Hollywood,"
-
-</details>
-
-<details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (3 mentions)</summary>
 
-**[00:05:47](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-hollywood-t-00-05-24)**
+**[00:05:44](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-hollywood-t-00-05-17)**
 > "It's not relatable for people that talked about how Hollywood isn't relatable and Hollywood is out of touch. This looks a lot like Hollywood to most people."
 
-**[00:06:32](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-hollywood-t-00-06-06)**
+**[00:06:32](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-hollywood-t-00-06-32)**
 > "...e the exact same thing as the Hollywood elites that they all love to dunk on,"
 
-**[00:08:05](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-hollywood-t-00-08-05)**
+**[00:08:03](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-hollywood-t-00-08-03)**
 > "...id that gave us the ick about Hollywood when they got up on stage and they mocked people ..."
 
 </details>
@@ -645,7 +688,29 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Hollywood (10)</strong></summary>
+<summary><strong class="section-title">Statements about Hollywood (13)</strong></summary>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1)</summary>
+
+- [00:44:51](/episodes/ep-d7VsbEIWkP8.md#t-00-44-42) (Claim) **Ben Shapiro** (via quoted tweet): ["Ben Shapiro wrote that radical Islam is a real threat and that Hollywo..."](/statements/statement-3e0c0129e51c.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Islam](/entities/concept-islam.md)
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (3)</summary>
+
+- [00:40:26](/episodes/ep-ChuWo-n49B8.md#t-00-40-03) (Opinion) **Candace Owens**: ["Owens said Hollywood was created to control what people think and was ..."](/statements/statement-625105161905.md)
+  - Also about: [Sigmund Freud](/entities/person-sigmund-freud.md)
+
+- [00:41:10](/episodes/ep-ChuWo-n49B8.md#t-00-41-10) (Accusation) **Candace Owens**: ["Owens said she sensed that a fake Christian grift was rising to replac..."](/statements/statement-01ed732bf335.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:42:33](/episodes/ep-ChuWo-n49B8.md#t-00-42-33) (Accusation) **Candace Owens**: ["Owens alleged that people working at Turning Point USA said they worke..."](/statements/statement-7ac83ca3b538.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (2)</summary>
@@ -706,14 +771,6 @@ _No relationships extracted yet._
 
 - [00:18:47](/episodes/ep-CMcktj3Egfo.md#t-00-18-28) (Claim) **Candace Owens**: ["Johnnie Moore left Liberty University in 2014 for Hollywood to start t..."](/statements/statement-1b2adcf35658.md)
   - Also about: [Johnnie Moore](/entities/person-johnnie-moore.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Liberty University](/entities/org-liberty-university.md)
-
-</details>
-
-<details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1)</summary>
-
-- [00:15:28](/episodes/ep-zSKrxIUMNqw.md#t-00-15-06) (Claim) **Candace Owens**: ["Hollywood was founded by gangs, including Jewish mafiosos and bootlegg..."](/statements/statement-3369186e5742.md)
-  - Also about: [Organized crime](/entities/concept-organized-crime.md)
 
 </details>
 

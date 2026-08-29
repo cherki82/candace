@@ -232,7 +232,7 @@ date: "2025-11-03"
 ### 28. SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | ...
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
-**Timestamp:** [00:36:46](/episodes/ep-q1NRQQAYS_Q.md#event-event-2025-11-03-erika-kirk-interviewed-by-jesse-watters-preview-cl-t-00-36-13) 
+**Timestamp:** [00:36:46](/episodes/ep-q1NRQQAYS_Q.md#t-00-36-13) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2206);return false;">▶️ Play</a>
 
-> Erica in November, a little more detail during her sit down with Jesse Waters.
+> Erica in November, a little more detail during her sit down with Jesse Watters.

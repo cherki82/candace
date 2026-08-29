@@ -401,10 +401,10 @@ Source: [Times of India/inkl — Graham Allen interviews Tracy Martin](https://w
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2)</summary>
 
-- [00:33:45](/episodes/ep-amqTMimDr0A.md#t-00-33-45) [○] (Claim) ["Tracy Martin denied being the source who provided the Daily Mail with informatio..."](/statements/statement-6f7b6bb3ae2a.md)
+- [00:33:45](/episodes/ep-amqTMimDr0A.md#t-00-33-45) [✓] (Claim) ["Tracy Martin denied being the source who provided the Daily Mail with informatio..."](/statements/statement-6f7b6bb3ae2a.md)
   - About: [Tracy Martin](/entities/person-tracy-martin.md), [Daily Mail](/entities/org-daily-mail.md)
 
-- [00:34:22](/episodes/ep-amqTMimDr0A.md#t-00-34-22) [○] (Claim) ["Tracy Martin said she had never seen Erika Kirk go on a tirade, that Kirk did no..."](/statements/statement-3cfaecef1d0e.md)
+- [00:34:22](/episodes/ep-amqTMimDr0A.md#t-00-34-22) [✓] (Claim) ["Tracy Martin said she had never seen Erika Kirk go on a tirade, that Kirk did no..."](/statements/statement-3cfaecef1d0e.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </details>

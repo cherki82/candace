@@ -28,10 +28,10 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
-**Timestamp:** [00:45:46](/episodes/ep-q1NRQQAYS_Q.md#t-00-45-32) 
+**Timestamp:** [00:45:46](/episodes/ep-q1NRQQAYS_Q.md#t-00-45-19) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2746);return false;">Play</a>
 
-> Pam Bondi was doing as she was instructed to do by Trump, by Trump's orbit of friends who are all in the Epstein files. ... They protected the Epstein files together, okay?
+> Please do not put that on Pam Bondi. Pam Bondi was doing as she was instructed to do by Trump (Donald J. Trump), by Trump (Donald J. Trump)'s orbit of friends who are all in the Epstein files. They protected the Epstein files together, okay?
 
 ## Verification
 

@@ -1,6 +1,6 @@
 ---
-title: "there arrived a moment when Charlie felt that the money was ..."
-description: "\"there arrived a moment when Charlie felt that the money was disappearing\" — Candace Owens"
+title: "Charlie Kirk allegedly felt that money was disappearing from..."
+description: "\"Charlie Kirk allegedly felt that money was disappearing from Turning Point USA.\" — Candace Owens"
 statement_id: "statement-473610f0022f"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> there arrived a moment when Charlie felt that the money was disappearing
+> Charlie Kirk allegedly felt that money was disappearing from Turning Point USA.
 
 ## Attribution
 

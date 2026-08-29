@@ -3,9 +3,17 @@ title: "Topeka"
 description: "Topeka (Places) - 2 mentions"
 id: "gpe-topeka"
 type: "GPE"
+categories:
+  - "Kansas city"
 ---
 
 _Type: Places_
+
+**Categories:** Kansas city
+
+**Entity verification:** verified
+> Canonical name and identity for Topeka confirmed by the cited direct external source.
+Source: [Topeka, Kansas](https://en.wikipedia.org/wiki/Topeka,_Kansas)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-topeka-t-00-18-23">2025-10-31 · 00:18:37</a></strong></div>

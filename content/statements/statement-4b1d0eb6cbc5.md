@@ -1,6 +1,6 @@
 ---
-title: "A Satis subsidiary in Hamburg, Germany had a CEO switch in l..."
-description: "\"A Satis subsidiary in Hamburg, Germany had a CEO switch in late July, and the new CEO is Israeli\" — Candace Owens"
+title: "A Satys subsidiary in Hamburg, Germany had a CEO switch in l..."
+description: "\"A Satys subsidiary in Hamburg, Germany had a CEO switch in late July, and the new CEO is Israeli\" — Candace Owens"
 statement_id: "statement-4b1d0eb6cbc5"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> A Satis subsidiary in Hamburg, Germany had a CEO switch in late July, and the new CEO is Israeli
+> A Satys subsidiary in Hamburg, Germany had a CEO switch in late July, and the new CEO is Israeli
 
 ## Attribution
 
@@ -23,7 +23,7 @@ type: "factual_claim"
 
 - [Hamburg](/entities/gpe-hamburg.md) (gpe)
 - [Israel](/entities/gpe-israel.md) (gpe)
-- [Satis](/entities/org-satis.md) (org)
+- [Satys](/entities/org-satys.md) (org)
 
 ## Source
 

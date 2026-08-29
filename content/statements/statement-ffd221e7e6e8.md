@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:05:55](/episodes/ep-ewBzjVe3LNQ.md#t-00-05-35) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(355);return false;">Play</a>
 
-> the canines were not provided with the scent of the weapon. Once it was discovered so they did not then take that weapon and then have the dogs trace it back to the top of lossy that did not happen.
+> Once it was discovered so they did not then take that weapon and then have the dogs trace it back to the top of Losey that did not happen.
 
 ## Verification
 

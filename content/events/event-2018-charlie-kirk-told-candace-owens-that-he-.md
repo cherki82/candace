@@ -11,7 +11,7 @@ date: "2018"
 
 > Charlie Kirk told Candace Owens that he believed he would die young.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296
 
@@ -28,3 +28,11 @@ date: "2018"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(158);return false;">▶️ Play</a>
 
 > in 2018 when the dreams would not stop for him and he was telling me about this premonition
+
+### 3. Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigan...
+
+**Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
+**Timestamp:** [00:41:44](/episodes/ep-_cNtgris8Ik.md#event-event-2018-charlie-kirk-told-candace-owens-that-he--t-00-41-17) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2504);return false;">▶️ Play</a>
+
+> in 2018, Charlie foresaw that he was going to die young and that I was going to carry on the torch

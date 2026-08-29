@@ -31,7 +31,7 @@ type: "factual_claim"
 **Timestamp:** [00:36:56](/episodes/ep-ZIH5-V6UPkg.md#t-00-36-32) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2216);return false;">Play</a>
 
-> I got to tell you, my inbox is getting pretty filled to the brim of people who are Jewish Americans, rabbis even who write me and say, you are right about Sabatianism and Frankism and the Likud party is not at all, it's not a reflection.
+> I got to tell you, my inbox is getting pretty filled to the brim of people who are Jewish Americans, rabbis even who write me and say, you are right about Sabbateanism and Frankism and the Likud party is not at all, it's not a reflection.
 
 ## Verification
 

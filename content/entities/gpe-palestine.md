@@ -1,6 +1,6 @@
 ---
 title: "Palestine"
-description: "Palestine (Places) - 75 mentions"
+description: "Palestine (Places) - 76 mentions"
 id: "gpe-palestine"
 type: "GPE"
 categories:
@@ -18,11 +18,11 @@ Source: [United Nations Question of Palestine](https://www.un.org/unispal/about-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-palestine-t-00-55-46">2025-09-18 · 00:55:58</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-palestine-t-00-06-18">2026-07-22 · 00:06:42</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>75</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-palestine-t-01-00-50">2026-08-07 · 01:01:05</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>76</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -46,6 +46,7 @@ Source: [United Nations Question of Palestine](https://www.un.org/unispal/about-
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-gpe-palestine-t-00-30-11" style="--pulse-height:75%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 3 mentions" title="2026-06-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-gpe-palestine-t-00-31-31" style="--pulse-height:25%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-palestine-t-00-03-28" style="--pulse-height:100%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 4 mentions" title="2026-07-22 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-palestine-t-01-00-50" style="--pulse-height:75%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 3 mentions" title="2026-08-07 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -66,6 +67,7 @@ Source: [United Nations Question of Palestine](https://www.un.org/unispal/about-
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-palestine-t-00-30-11) | 3 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-palestine-t-00-31-31) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-gpe-palestine-t-00-03-28) | 4 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-palestine-t-01-00-50) | 3 |
 
 </details>
 </section>
@@ -73,7 +75,21 @@ Source: [United Nations Question of Palestine](https://www.un.org/unispal/about-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (75)</strong></summary>
+<summary><strong class="section-title">Raw mentions (76)</strong></summary>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (3 mentions)</summary>
+
+**[01:00:57](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-palestine-t-01-00-50)**
+> "free Palestine"
+
+**[01:00:40](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-palestine-t-01-00-11)**
+> "...rom Burger King who said free Palestine and got fired for hate speech."
+
+**[01:01:05](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-palestine-t-01-00-50)**
+> "...erspective to have is to free Palestine."
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (4 mentions)</summary>
@@ -235,7 +251,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Palestine (15)</strong></summary>
+<summary><strong class="section-title">Statements about Palestine (14)</strong></summary>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>
@@ -311,14 +327,6 @@ _No relationships extracted yet._
 
 - [00:33:31](/episodes/ep-CMcktj3Egfo.md#t-00-33-15) (Accusation) **Candace Owens**: ["Israel intentionally killed tens of thousands of Palestinian civilians..."](/statements/statement-b6b73a9dce86.md)
   - Also about: [Israel](/entities/gpe-israel.md), [Gaza](/entities/gpe-gaza.md), [Genocide](/entities/concept-genocide.md)
-
-</details>
-
-<details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1)</summary>
-
-- [00:55:28](/episodes/ep-zSKrxIUMNqw.md#t-00-55-24) (Opinion) **Candace Owens**: ["What Israel is doing to Palestinians is wrong."](/statements/statement-44d8ad95f2b6.md)
-  - Also about: [Israel](/entities/gpe-israel.md)
 
 </details>
 

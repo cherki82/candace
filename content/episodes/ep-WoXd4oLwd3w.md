@@ -332,7 +332,7 @@ youtube_url: "https://www.youtube.com/watch?v=WoXd4oLwd3w"
 - **2025-07-12**: [Donald Trump posted on Truth Social defending Pam Bondi and urging supporters to stop focusing on Jeffrey Epstein.](/events/event-2025-07-12-donald-trump-posted-on-truth-social-defe.md)
 - **2025-07-12**: [The New York Times reported that Donald Trump called and scolded Charlie Kirk over Epstein criticism at the Student Action Summit.](/events/event-2025-07-12-the-new-york-times-reported-that-donald-.md)
 - **2025-07-14**: [Erika Kirk spoke at James Kaddis's Calvary Chapel church in Long Beach.](/events/event-2025-07-14-erika-kirk-spoke-at-james-kaddiss-calvar.md)
-- **2025-07-14**: [Candace Owens said Erika Kirk flew to Long Beach with Catherine LoCastro and Jonathan Marcello and returned to Scottsdale.](/events/event-2025-07-14-candace-owens-said-erika-kirk-flew-to-lo.md)
+- **2025-07-14**: [Candace Owens said Erika Kirk flew to Long Beach with Katherine Locastro, Derek Niekerk, and Jonathan Barcelo.](/events/event-2025-07-14-candace-owens-said-erika-kirk-flew-to-lo.md)
 - **2025-07-18**: [UVU Turning Point chapter requested Charlie Kirk for campus event](/events/event-2025-07-18-uvu-turning-point-chapter-requested-char.md)
 - **2025-07-20**: [Charlie Kirk began a family vacation in Maine](/events/event-2025-07-20-charlie-kirk-began-a-family-vacation-in-.md)
 - **2025-07**: [Candace Owens traveled to Maine and recorded an interview with Tucker Carlson.](/events/event-2025-07-candace-owens-traveled-to-maine-and-reco.md)

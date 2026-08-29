@@ -33,7 +33,7 @@ type: "factual_claim"
 **Timestamp:** [00:31:51](/episodes/ep-es7PWdFGoFI.md#t-00-31-26) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1911);return false;">Play</a>
 
-> Andrew was my source. Andrew told me. Verbatim. That BB Net and Yahoo offered to take turning points to the next level and that Charlie turned that money down
+> Andrew (Andrew Kolvet) told me. Verbatim. That BB Net and Yahoo offered to take turning points to the next level and that Charlie (Charlie Kirk) turned that money down.
 
 ## Verification
 

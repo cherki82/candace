@@ -30,7 +30,7 @@ type: "factual_claim"
 **Timestamp:** [00:05:52](/episodes/ep-es7PWdFGoFI.md#t-00-05-30) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(352);return false;">Play</a>
 
-> And it was Erika saying that she had Charlie's phone and that Charlie never texted anybody the night before saying that he thought that they were going to kill him.
+> And it was Erika (Erika Kirk) saying that she had Charlie (Charlie Kirk)'s phone and that Charlie (Charlie Kirk) never texted anybody the night before saying that he thought that they were going to kill him.
 
 ## Verification
 

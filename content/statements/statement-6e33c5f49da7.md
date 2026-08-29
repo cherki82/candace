@@ -20,7 +20,7 @@ type: "factual_claim"
 
 ## About
 
-- [Dr. Deidre Amaro](/entities/person-dr-deidre-amaro.md) (person)
+- [Deirdre Amaro](/entities/person-deirdre-amaro.md) (person)
 
 ## Source
 

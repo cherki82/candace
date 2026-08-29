@@ -327,7 +327,7 @@ youtube_url: "https://www.youtube.com/watch?v=a2bZf4fic10"
 <details>
 <summary><strong>Statements (15)</strong></summary>
 
-- [00:03:06](#t-00-02-38) [○] (Opinion) **Candace Owens**: ["In Candace Owens's view, Tyler Robinson did not commit Charlie Kirk's murder."](/statements/statement-71dd61a0b518.md)
+- [00:03:06](#t-00-02-38) [✓] (Opinion) **Candace Owens**: ["In Candace Owens's view, Tyler Robinson did not commit Charlie Kirk's murder."](/statements/statement-71dd61a0b518.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:03:27](#t-00-03-22) [○] (Accusation) **Candace Owens**: ["Owens said she believes Tyler Robinson picked up clothes and buried them at Dair..."](/statements/statement-78ebd7619a28.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Dairy Queen](/entities/org-dairy-queen.md), [Charlie Kirk](/entities/person-charlie-kirk.md)

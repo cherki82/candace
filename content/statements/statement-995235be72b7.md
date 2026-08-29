@@ -32,7 +32,7 @@ veracity: "mixed"
 **Timestamp:** [00:11:30](/episodes/ep-mKXdKV-OBog.md#t-00-11-30) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(690);return false;">Play</a>
 
-> And this six-day stretch of what they were doing in Nebraska actually might offer us a clue because during this stretch, on July 22nd, the Nebraska Secretary of State, Bob Evnen, announced that they were going to put together a trade and investment delegation to Cairo, Egypt.
+> during this stretch, on July 22nd, the Nebraska Secretary of State, Bob Evnen, announced that they were going to put together a trade and investment delegation to Cairo, Egypt. ... The mission is currently scheduled for October 26 through November 2. ... However, the dates are subject to change.
 
 ## Verification
 

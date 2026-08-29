@@ -27,7 +27,7 @@ veracity: "true"
 ## Source
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
-**Timestamp:** [00:53:55](/episodes/ep-HYn0P-P1wUw.md#t-00-53-16) 
+**Timestamp:** [00:53:55](/episodes/ep-HYn0P-P1wUw.md#t-00-53-48) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3235);return false;">Play</a>
 
 > what has happened here is that they testified that these tweets were malicious, they were degrading, they were, quote, insulting, they were intentionally harmful to Brigitte (Brigitte Macron) and of the 10 defendants, eight were given suspended sentences. Between four to eight months, the ninth was sentenced to six months in jail because that person just didn't even attend the hearing.

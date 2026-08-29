@@ -22,12 +22,12 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-tucker-carlson-t-00-12-57">2025-09-15 · 00:13:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tucker-carlson-t-00-36-07">2026-08-14 · 00:36:36</a></strong></div>
-<div><span>Episodes</span><strong>97</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-tucker-carlson-t-00-22-14">2026-08-21 · 00:22:35</a></strong></div>
+<div><span>Episodes</span><strong>103</strong></div>
 <div><span>Mentions</span><strong>629</strong></div>
 <div><span>Statements by</span><strong>76</strong></div>
-<div><span>Statements about</span><strong>87</strong></div>
-<div><span>Relationships</span><strong>104</strong></div>
+<div><span>Statements about</span><strong>84</strong></div>
+<div><span>Relationships</span><strong>112</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -74,7 +74,6 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-tucker-carlson-t-00-10-25" style="--pulse-height:8%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 4 mentions" title="2025-12-18 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-07-19" style="--pulse-height:24%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 13 mentions" title="2025-12-20 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-tucker-carlson-t-00-43-45" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-tucker-carlson-t-00-02-11" style="--pulse-height:18%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 10 mentions" title="2026-01-07 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-tucker-carlson-t-00-07-06" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-tucker-carlson-t-00-00-45" style="--pulse-height:11%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 6 mentions" title="2026-01-12 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-tucker-carlson-t-00-03-11" style="--pulse-height:9%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 5 mentions" title="2026-01-13 · 5 mentions"><span></span></a>
@@ -103,6 +102,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-tucker-carlson-t-00-51-07" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-tucker-carlson-t-00-21-40" style="--pulse-height:8%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-tucker-carlson-t-00-50-50" style="--pulse-height:8%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 2 mentions" title="2026-03-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-tucker-carlson-t-00-53-47" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-tucker-carlson-t-00-03-51" style="--pulse-height:29%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 16 mentions" title="2026-04-10 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-tucker-carlson-t-00-52-23" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-tucker-carlson-t-00-27-20" style="--pulse-height:8%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 3 mentions" title="2026-04-20 · 3 mentions"><span></span></a>
@@ -131,7 +131,13 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-person-tucker-carlson-t-00-11-41" style="--pulse-height:8%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-person-tucker-carlson-t-00-30-51" style="--pulse-height:8%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-person-tucker-carlson-t-00-06-42" style="--pulse-height:8%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 3 mentions" title="2026-07-23 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-person-tucker-carlson-t-00-47-56" style="--pulse-height:8%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 2 mentions" title="2026-08-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-person-tucker-carlson-t-00-18-23" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-tucker-carlson-t-00-23-09" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-tucker-carlson-t-00-28-54" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-tucker-carlson-t-00-04-16" style="--pulse-height:8%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-person-tucker-carlson-t-00-14-30" style="--pulse-height:8%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-person-tucker-carlson-t-00-22-14" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -176,7 +182,6 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-person-tucker-carlson-t-00-10-25) | 4 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-tucker-carlson-t-00-07-19) | 13 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-tucker-carlson-t-00-43-45) | 2 |
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-tucker-carlson-t-00-02-11) | 10 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-tucker-carlson-t-00-07-06) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-tucker-carlson-t-00-00-45) | 6 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-tucker-carlson-t-00-03-11) | 5 |
@@ -205,6 +210,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-tucker-carlson-t-00-51-07) | 2 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-tucker-carlson-t-00-21-40) | 2 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-tucker-carlson-t-00-50-50) | 2 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-tucker-carlson-t-00-53-47) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-tucker-carlson-t-00-03-51) | 16 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-tucker-carlson-t-00-52-23) | 2 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-tucker-carlson-t-00-27-20) | 3 |
@@ -233,7 +239,13 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-tucker-carlson-t-00-11-41) | 2 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-tucker-carlson-t-00-30-51) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-tucker-carlson-t-00-06-42) | 3 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-person-tucker-carlson-t-00-47-56) | 2 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-tucker-carlson-t-00-18-23) | 1 |
+| 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-person-tucker-carlson-t-00-23-09) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tucker-carlson-t-00-28-54) | 3 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-tucker-carlson-t-00-04-16) | 3 |
+| 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-tucker-carlson-t-00-14-30) | 1 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-tucker-carlson-t-00-22-14) | 1 |
 
 </details>
 </section>
@@ -242,6 +254,22 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 <details>
 <summary><strong class="section-title">Raw mentions (629)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
+
+**[00:22:35](/episodes/ep-_cNtgris8Ik.md#ent-person-tucker-carlson-t-00-22-14)**
+> "..., the company that I trust is Tucker Carlson's Battalion Metals."
+
+</details>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1 mentions)</summary>
+
+**[00:14:30](/episodes/ep-4JxgOclKzqg.md#ent-person-tucker-carlson-t-00-14-30)**
+> "...d that excuse, by the way, to Tucker Carlson. Again, I'd like to remind you here is what he sa..."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3 mentions)</summary>
@@ -254,6 +282,47 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 **[00:36:36](/episodes/ep-nPhCKwJ6ye8.md#ent-person-tucker-carlson-t-00-36-07)**
 > "Tucker Carlson then comes out and confirms the conversations tha..."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (3 mentions)</summary>
+
+**[00:04:16](/episodes/ep-aPOyk1i2LOc.md#ent-person-tucker-carlson-t-00-04-16)**
+> "...platforming dispute regarding Tucker Carlson. From this scintilla of misleading information, i..."
+
+**[00:11:39](/episodes/ep-aPOyk1i2LOc.md#ent-person-tucker-carlson-t-00-11-09)**
+> "... pretending it was just about Tucker Carlson, which is not true."
+
+**[00:11:54](/episodes/ep-aPOyk1i2LOc.md#ent-person-tucker-carlson-t-00-11-45)**
+> "...ter everyone is denying that, Tucker Carlson then comes out and confirms the conversations tha..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>
+
+**[00:23:47](/episodes/ep-5zgkrOaCCj4.md#ent-person-tucker-carlson-t-00-23-09)**
+> "The company that I trust is Tucker Carlson's Battalion Metals. They believe in honest, transpa..."
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:18:52](/episodes/ep-ChuWo-n49B8.md#ent-person-tucker-carlson-t-00-18-23)**
+> "someone who Tucker Carlson had in a show"
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (2 mentions)</summary>
+
+**[00:47:56](/episodes/ep-1CFDtD0IgEg.md#ent-person-tucker-carlson-t-00-47-56)**
+> "...ting there is because tucker (Tucker Carlson) carlson uh did what he could to help him after h..."
+
+**[00:52:19](/episodes/ep-1CFDtD0IgEg.md#ent-person-tucker-carlson-t-00-52-19)**
+> "...d Candace (Candace Owens) and Tucker Carlson? Like, why would you say that, Frank (Frank Turek..."
 
 </details>
 
@@ -816,8 +885,8 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 **[00:52:23](/episodes/ep-eLgD5yUVbko.md#ent-person-tucker-carlson-t-00-52-23)**
 > "Tucker Carlson"
 
-**[00:51:17](/episodes/ep-eLgD5yUVbko.md#ent-person-tucker-carlson-t-00-51-17)**
-> "...t he accuses me and Megan and Tucker of being because we're calling for peace."
+**[00:51:17](/episodes/ep-eLgD5yUVbko.md#ent-person-tucker-carlson-t-00-50-43)**
+> "I mean, he is surrounded by, ironically, the very thing that he accuses me and Megyn and Tucker of being because we're calling for peace."
 
 </details>
 
@@ -843,16 +912,16 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 > "Obviously, Tucker Carlson is in his prime. The whole world understands that..."
 
 **[00:14:30](/episodes/ep-ZIH5-V6UPkg.md#ent-person-tucker-carlson-t-00-14-18)**
-> "...han Kelly's fault. That's not Tucker Carlson's fault."
+> "And for clarity, Mr. President, that's not my fault. That's not Megyn Kelly's fault. That's not Tucker Carlson's fault."
 
 **[00:26:31](/episodes/ep-ZIH5-V6UPkg.md#ent-person-tucker-carlson-t-00-26-31)**
-> "Well, Megan, I think Tucker actually has the right idea. So he published this..."
+> "Well, Megyn (Megyn Kelly), I think Tucker actually has the right idea. So he published this letter and I'm going to read it. He writes, he's in a tough spot referring to President Donald Trump."
 
 **[00:32:31](/episodes/ep-ZIH5-V6UPkg.md#ent-person-tucker-carlson-t-00-32-10)**
-> "... especially in the context of Tucker saying we should have some grace."
+> "Like was, I just have a lot of questions about that. And it all transpired very quickly. And I just wanted to share that, especially in the context of Tucker (Tucker Carlson) saying we should have some grace."
 
 **[00:34:01](/episodes/ep-ZIH5-V6UPkg.md#ent-person-tucker-carlson-t-00-33-38)**
-> "... and Tucker and Megan, but to Tucker Carlson in particular, take a listen to her being braggad..."
+> "And she yesterday proudly promoted the fact that she was behind his tweet last night to me and Tucker (Tucker Carlson) and Megyn (Megyn Kelly), but to Tucker Carlson in particular, take a listen to her being braggadocious."
 
 **[00:34:19](/episodes/ep-ZIH5-V6UPkg.md#ent-person-tucker-carlson-t-00-34-19)**
 > "...dmit it. I sent the president Tucker Carlson's clip so he can see the shit that he says about hi..."
@@ -861,10 +930,10 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 > "I do. And I want that mother Tucker Carlson to know that I'm the one who knifed him from the ..."
 
 **[00:34:36](/episodes/ep-ZIH5-V6UPkg.md#ent-person-tucker-carlson-t-00-34-19)**
-> "...t sent the president all your Tucker because he deserves to see the fact that you are ..."
+> "I want him to know. I'm not talking about physical violence, physical knifing. But yeah, I'm the one that sent the president all your Tucker (Tucker Carlson) because he deserves to see the fact that you are lying."
 
 **[00:34:48](/episodes/ep-ZIH5-V6UPkg.md#ent-person-tucker-carlson-t-00-34-48)**
-> "...t hope that he knows that yes tucker there are people out there who actually"
+> "Lying about him, and you are smearing him, and you are saying the most vile things about our country and our president, and you are creating so much chaos. You're going to cause the Democrats to take the House and the Senate, and you are endangering our national security by whitewashing this barbaric death-cult ideology known as Islam. So I just hope that he knows that, yes, Tucker (Tucker Carlson), there are people out there who actually..."
 
 **[00:35:20](/episodes/ep-ZIH5-V6UPkg.md#ent-person-tucker-carlson-t-00-34-48)**
 > "I don't know who Tucker Carlson thinks he is. He thinks he's so popular. Even Pre..."
@@ -875,10 +944,18 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
+
+**[00:53:47](/episodes/ep-q1NRQQAYS_Q.md#ent-person-tucker-carlson-t-00-53-47)**
+> "our beloved tucker (Tucker Carlson)"
+
+</details>
+
+<details>
 <summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (2 mentions)</summary>
 
 **[00:51:15](/episodes/ep-UYkXV9mYbT4.md#ent-person-tucker-carlson-t-00-50-50)**
-> "... Further on the basis of what Tucker Carlson said on stage, questioning Bibi Netanyahu, his ne..."
+> "And. Further on the basis of what Tucker Carlson said on stage, questioning Bibi (Benjamin Netanyahu), his network of people, the Epstein files, where people's money was coming from."
 
 **[00:54:00](/episodes/ep-UYkXV9mYbT4.md#ent-person-tucker-carlson-t-00-54-00)**
 > "... the truth on they're rooting Tucker Carlson on and Megyn Kelly on when they told the truth ab..."
@@ -1302,41 +1379,6 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 **[00:07:28](/episodes/ep-wcD2khO3rOA.md#ent-person-tucker-carlson-t-00-07-06)**
 > "... those of you who watched the Tucker Carlson had interviewed someone in the military. He was s..."
-
-</details>
-
-<details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (10 mentions)</summary>
-
-**[00:02:16](/episodes/ep-zSKrxIUMNqw.md#ent-person-tucker-carlson-t-00-02-11)**
-> "... the intention to mock me and Tucker Carlson."
-
-**[00:02:25](/episodes/ep-zSKrxIUMNqw.md#ent-person-tucker-carlson-t-00-02-11)**
-> "It's always got to be Tucker Carlson and camera sounds together."
-
-**[00:05:09](/episodes/ep-zSKrxIUMNqw.md#ent-person-tucker-carlson-t-00-05-01)**
-> "...of stalking Candace Owens and Tucker Carlson because that's what the role was."
-
-**[00:05:33](/episodes/ep-zSKrxIUMNqw.md#ent-person-tucker-carlson-t-00-05-01)**
-> "...giance against me and Tucker (Tucker Carlson)."
-
-**[00:06:11](/episodes/ep-zSKrxIUMNqw.md#ent-person-tucker-carlson-t-00-06-11)**
-> "...cked me. He attacked Carlson (Tucker Carlson), and this time he also attacked Megyn Kelly beca..."
-
-**[00:07:28](/episodes/ep-zSKrxIUMNqw.md#ent-person-tucker-carlson-t-00-07-28)**
-> "you and Tucker Carlson were brought up."
-
-**[00:07:31](/episodes/ep-zSKrxIUMNqw.md#ent-person-tucker-carlson-t-00-07-28)**
-> "so when Candace or Tucker (Tucker Carlson) says something crazy,"
-
-**[00:07:35](/episodes/ep-zSKrxIUMNqw.md#ent-person-tucker-carlson-t-00-07-28)**
-> "...actually like you and Tucker (Tucker Carlson) and I watch you both as I generally like most co..."
-
-**[00:12:50](/episodes/ep-zSKrxIUMNqw.md#ent-person-tucker-carlson-t-00-12-30)**
-> "...when in reality you just hate Tucker Carlson and Candace."
-
-**[00:37:32](/episodes/ep-zSKrxIUMNqw.md#ent-person-tucker-carlson-t-00-37-21)**
-> "... obsessed with me and Tucker (Tucker Carlson)."
 
 </details>
 
@@ -2615,7 +2657,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Accused (2)</summary>
+<summary>Accused (3)</summary>
 
 - **[Mike Pompeo](/entities/person-mike-pompeo.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -2631,15 +2673,23 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 </details>
 
+- **[Israel](/entities/gpe-israel.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:26:31](/episodes/ep-ZIH5-V6UPkg.md#t-00-26-31): “Tucker actually has the right idea. So he published this letter and I'm going to read it. He writes, he's in a tough spot referring to President Donald Trump. Establishment media never reports this, but the Israeli government has a storied history of blackmailing U.S. presidents.”
+
+</details>
+
 </details>
 
 <details>
 <summary>Accused By (1)</summary>
 
 - **[Laura Loomer](/entities/person-laura-loomer.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:45:50](/episodes/ep-k8ueJdPFel4.md#t-00-45-40): “I have attached my supporting evidence. As I told the DOJ, Tucker Carlson isn't the only one who is likely violating FARA.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:34:48](/episodes/ep-ZIH5-V6UPkg.md#t-00-34-48): “Lying about him, and you are smearing him, and you are saying the most vile things about our country and our president, and you are creating so much chaos.”
 
 </details>
 
@@ -2749,10 +2799,9 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:03:42](/episodes/ep-r1PS67aRmcA.md#t-00-03-33): “You should know Ben (Ben Shapiro) has a real thing for Tucker (Tucker Carlson).”
-- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:06:11](/episodes/ep-zSKrxIUMNqw.md#t-00-05-43): “He attacked Carlson (Tucker Carlson),”
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:19:33](/episodes/ep-CEF7gQRWYCE.md#t-00-19-18): “Here is Tucker then asserting that it was actually Mossad. Again, without evidence, not a shock.”
 
 </details>
@@ -2805,7 +2854,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 - **[Laura Loomer](/entities/person-laura-loomer.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:33:08](/episodes/ep-ZIH5-V6UPkg.md#t-00-32-54): “one of them being Laura Loomer. ... she yesterday proudly promoted the fact that she was behind his tweet last night to me and Tucker and Megan, but to Tucker Carlson in particular, take a listen to her being braggadocious. ... I don't know who Tucker Carlson thinks he is. He thinks he's so popular.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:35:20](/episodes/ep-ZIH5-V6UPkg.md#t-00-34-48): “I don't know who Tucker Carlson thinks he is. He thinks he's so popular. Even President Trump today called him out and said he's like a third rate podcaster.”
 
 </details>
 
@@ -2820,6 +2869,18 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 @ 00:45:22](/episodes/ep-VMNWMXX1vO8.md#t-00-44-45): “Blakey (Blake Neff) responded ... Actually, those of us who knew Charlie (Charlie Kirk) best—a group that doesn't include Tucker (Tucker Carlson)—do think that Tyler Robinson did it and was motivated by transgender radicalism. Tucker (Tucker Carlson) is lying.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Fired By (1)</summary>
+
+- **[Fox News](/entities/org-fox-news.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:07:53](/episodes/ep-ZIH5-V6UPkg.md#t-00-07-24): “He was a broken man when he got fired from Fox, and he's never been the same.”
 
 </details>
 
@@ -2910,7 +2971,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details>
-<summary>Interviewed (11)</summary>
+<summary>Interviewed (12)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
@@ -2940,9 +3001,10 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:21:21](/episodes/ep-ozWJz2spBcI.md#t-00-21-14): “Now that's exactly what was communicated by Andrew Kolvet when he sat across from Tucker (Tucker Carlson), who was hosting Charlie Kirk's show.”
+- [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:14:30](/episodes/ep-4JxgOclKzqg.md#t-00-14-30): “It was Andrew Kolvet who offered that excuse, by the way, to Tucker Carlson. Again, I'd like to remind you here is what he said.”
 
 </details>
 
@@ -2997,6 +3059,13 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 </details>
 
+- **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:51:15](/episodes/ep-UYkXV9mYbT4.md#t-00-50-50): “And. Further on the basis of what Tucker Carlson said on stage, questioning Bibi (Benjamin Netanyahu), his network of people, the Epstein files, where people's money was coming from.”
+
+</details>
+
 </details>
 
 <details>
@@ -3025,6 +3094,18 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:27:56](/episodes/ep-WoXd4oLwd3w.md#t-00-27-56): “It was they were just there in Maine having dinner with Tucker (Tucker Carlson). I remember this. I am 1000% certain days within me. It was like Charlie (Charlie Kirk) was there and then I was there and he had dinner with Erika (Erika Kirk)”
+
+</details>
+
+</details>
+
+<details>
+<summary>Owns (1)</summary>
+
+- **[Battalion Metals](/entities/org-battalion-metals.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:22:35](/episodes/ep-_cNtgris8Ik.md#t-00-22-14): “Even legendary investor Ray Dalio recommends keeping up. up to 15% of your portfolio in gold. If you're thinking about adding precious metals to your retirement or savings, the company that I trust is Tucker Carlson's Battalion Metals.”
 
 </details>
 
@@ -3075,22 +3156,22 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <summary>Target Of Criticism From (1)</summary>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:43:45](/episodes/ep-HYn0P-P1wUw.md#t-00-43-07): “Daily Wire has been casting people for a show that's designed specifically to make fun of me and also Tucker Carlson.”
-- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:02:16](/episodes/ep-zSKrxIUMNqw.md#t-00-02-11): “the Daily Wire's cringe new show designed quite literally with the intention to mock me and Tucker Carlson.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:43:45](/episodes/ep-HYn0P-P1wUw.md#t-00-43-20): “Daily Wire has been casting people for a show that's designed specifically to make fun of me and also Tucker Carlson.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (52)</summary>
+<summary>Referenced By (56)</summary>
 
 - **[Laura Loomer](/entities/person-laura-loomer.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:45:50](/episodes/ep-k8ueJdPFel4.md#t-00-45-40): “I have attached my supporting evidence. As I told the DOJ, Tucker Carlson isn't the only one who is likely violating FARA.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:34:48](/episodes/ep-ZIH5-V6UPkg.md#t-00-34-48): “Lying about him, and you are smearing him, and you are saying the most vile things about our country and our president, and you are creating so much chaos.”
 
 </details>
 
@@ -3105,6 +3186,13 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:12:56](/episodes/ep-WoXd4oLwd3w.md#t-00-12-56): “Tucker (Tucker Carlson) told him on the phone that it was Trump (Donald Trump) himself that shut down this investigation.”
+
+</details>
+
+- **[Israel](/entities/gpe-israel.md)** accused by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:26:31](/episodes/ep-ZIH5-V6UPkg.md#t-00-26-31): “Tucker actually has the right idea. So he published this letter and I'm going to read it. He writes, he's in a tough spot referring to President Donald Trump. Establishment media never reports this, but the Israeli government has a storied history of blackmailing U.S. presidents.”
 
 </details>
 
@@ -3137,10 +3225,9 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** critic of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:43:45](/episodes/ep-HYn0P-P1wUw.md#t-00-43-07): “Daily Wire has been casting people for a show that's designed specifically to make fun of me and also Tucker Carlson.”
-- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:02:16](/episodes/ep-zSKrxIUMNqw.md#t-00-02-11): “the Daily Wire's cringe new show designed quite literally with the intention to mock me and Tucker Carlson.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:43:45](/episodes/ep-HYn0P-P1wUw.md#t-00-43-20): “Daily Wire has been casting people for a show that's designed specifically to make fun of me and also Tucker Carlson.”
 
 </details>
 
@@ -3160,10 +3247,9 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:03:42](/episodes/ep-r1PS67aRmcA.md#t-00-03-33): “You should know Ben (Ben Shapiro) has a real thing for Tucker (Tucker Carlson).”
-- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:06:11](/episodes/ep-zSKrxIUMNqw.md#t-00-05-43): “He attacked Carlson (Tucker Carlson),”
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:19:33](/episodes/ep-CEF7gQRWYCE.md#t-00-19-18): “Here is Tucker then asserting that it was actually Mossad. Again, without evidence, not a shock.”
 
 </details>
@@ -3216,7 +3302,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 - **[Laura Loomer](/entities/person-laura-loomer.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:33:08](/episodes/ep-ZIH5-V6UPkg.md#t-00-32-54): “one of them being Laura Loomer. ... she yesterday proudly promoted the fact that she was behind his tweet last night to me and Tucker and Megan, but to Tucker Carlson in particular, take a listen to her being braggadocious. ... I don't know who Tucker Carlson thinks he is. He thinks he's so popular.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:35:20](/episodes/ep-ZIH5-V6UPkg.md#t-00-34-48): “I don't know who Tucker Carlson thinks he is. He thinks he's so popular. Even President Trump today called him out and said he's like a third rate podcaster.”
 
 </details>
 
@@ -3266,6 +3352,13 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:36:54](/episodes/ep-G3zdOeHpvS0.md#t-00-36-22): “Tucker Carlson's speech, absolutely destroying Jeffrey Epstein, asking questions about where people's money was coming from.”
+
+</details>
+
+- **[Fox News](/entities/org-fox-news.md)** fired this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:07:53](/episodes/ep-ZIH5-V6UPkg.md#t-00-07-24): “He was a broken man when he got fired from Fox, and he's never been the same.”
 
 </details>
 
@@ -3400,9 +3493,10 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:21:21](/episodes/ep-ozWJz2spBcI.md#t-00-21-14): “Now that's exactly what was communicated by Andrew Kolvet when he sat across from Tucker (Tucker Carlson), who was hosting Charlie Kirk's show.”
+- [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:14:30](/episodes/ep-4JxgOclKzqg.md#t-00-14-30): “It was Andrew Kolvet who offered that excuse, by the way, to Tucker Carlson. Again, I'd like to remind you here is what he said.”
 
 </details>
 
@@ -3448,6 +3542,13 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 </details>
 
+- **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:51:15](/episodes/ep-UYkXV9mYbT4.md#t-00-50-50): “And. Further on the basis of what Tucker Carlson said on stage, questioning Bibi (Benjamin Netanyahu), his network of people, the Epstein files, where people's money was coming from.”
+
+</details>
+
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** met with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -3459,6 +3560,13 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:27:56](/episodes/ep-WoXd4oLwd3w.md#t-00-27-56): “It was they were just there in Maine having dinner with Tucker (Tucker Carlson). I remember this. I am 1000% certain days within me. It was like Charlie (Charlie Kirk) was there and then I was there and he had dinner with Erika (Erika Kirk)”
+
+</details>
+
+- **[Battalion Metals](/entities/org-battalion-metals.md)** owned by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:22:35](/episodes/ep-_cNtgris8Ik.md#t-00-22-14): “Even legendary investor Ray Dalio recommends keeping up. up to 15% of your portfolio in gold. If you're thinking about adding precious metals to your retirement or savings, the company that I trust is Tucker Carlson's Battalion Metals.”
 
 </details>
 
@@ -3790,7 +3898,15 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Tucker Carlson (87)</strong></summary>
+<summary><strong class="section-title">Statements about Tucker Carlson (84)</strong></summary>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1)</summary>
+
+- [00:52:19](/episodes/ep-1CFDtD0IgEg.md#t-00-52-19) (Accusation) **Candace Owens** (via paraphrase): ["Candace Owens said Frank Turek had previously asked why Mossad had not..."](/statements/statement-c3902b4eda63.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Mossad](/entities/org-mossad.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>
@@ -3900,7 +4016,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 - [00:07:24](/episodes/ep-ZIH5-V6UPkg.md#t-00-07-24) (Opinion) **Candace Owens**: ["Tucker Carlson is more powerful than Donald Trump."](/statements/statement-00f6b04eb1ee.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
 
-- [00:07:53](/episodes/ep-ZIH5-V6UPkg.md#t-00-07-24) (Opinion) **Donald J. Trump** (via quoted post): ["Tucker Carlson was broken after being fired from Fox and should see a ..."](/statements/statement-6fefc965fff7.md)
+- [00:07:53](/episodes/ep-ZIH5-V6UPkg.md#t-00-07-24) (Opinion) **Donald J. Trump** (via quoted post): ["Tucker Carlson was broken after being fired from Fox and perhaps shoul..."](/statements/statement-6fefc965fff7.md)
   - Also about: [Fox News](/entities/org-fox-news.md)
 
 - [00:34:19](/episodes/ep-ZIH5-V6UPkg.md#t-00-34-19) (Claim) **Laura Loomer** (via quoted speech): ["Laura Loomer sent Donald Trump a Tucker Carlson clip so the president ..."](/statements/statement-854fa1a9f63d.md)
@@ -3995,26 +4111,9 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (4)</summary>
-
-- [00:02:16](/episodes/ep-zSKrxIUMNqw.md#t-00-02-11) (Accusation) **Candace Owens**: ["The Daily Wire designed a new show specifically to mock Candace Owens ..."](/statements/statement-8d537c2f578a.md)
-  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [The More You No-No](/entities/work-the-more-you-no-no.md)
-
-- [00:05:33](/episodes/ep-zSKrxIUMNqw.md#t-00-05-01) (Accusation) **Candace Owens**: ["Ben Shapiro demanded Megyn Kelly's allegiance against Candace Owens an..."](/statements/statement-55cdeafd37b1.md)
-  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Candace Owens](/entities/person-candace-owens.md)
-
-- [00:05:57](/episodes/ep-zSKrxIUMNqw.md#t-00-05-43) (Accusation) **Candace Owens**: ["Ben Shapiro paid for a prime AmericaFest speaking slot after Erika Kir..."](/statements/statement-e71af1266a9d.md)
-  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [AmericaFest 2025](/entities/event-americafest-2025.md), [Erika Kirk](/entities/person-erika-kirk.md)
-
-- [00:07:19](/episodes/ep-zSKrxIUMNqw.md#t-00-06-43) (Claim) **Maggie Wegner** (via read message): ["The proposed show was presented as comedy about both political sides, ..."](/statements/statement-52323bcfd490.md)
-  - Also about: [Maggie Wegner](/entities/person-maggie-wegner.md), [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
-
-</details>
-
-<details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1)</summary>
 
-- [00:43:45](/episodes/ep-HYn0P-P1wUw.md#t-00-43-07) (Accusation) **Candace Owens**: ["The Daily Wire had been casting presenters for a show designed specifi..."](/statements/statement-c256dab684fa.md)
+- [00:43:45](/episodes/ep-HYn0P-P1wUw.md#t-00-43-20) (Accusation) **Candace Owens**: ["The Daily Wire had been casting presenters for a show designed specifi..."](/statements/statement-c256dab684fa.md)
   - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
@@ -4087,7 +4186,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 
 - [00:04:38](/episodes/ep-sImMM04XdWY.md#t-00-04-12) (Claim) **Candace Owens**: ["A well-known woman married to a CIA contractor called Candace on Septe..."](/statements/statement-4b9fb48af609.md)
 
-- [00:13:20](/episodes/ep-sImMM04XdWY.md#t-00-13-11) (Claim) **Candace Owens**: ["On July 18th, Charlie Kirk hosted Tucker Carlson at Satis and told Tuc..."](/statements/statement-35e19c389ea9.md)
+- [00:13:20](/episodes/ep-sImMM04XdWY.md#t-00-13-11) (Claim) **Candace Owens**: ["On July 18th, Charlie Kirk hosted Tucker Carlson at Satys and told Tuc..."](/statements/statement-35e19c389ea9.md)
 
 - [00:19:10](/episodes/ep-sImMM04XdWY.md#t-00-18-58) (Claim) **Candace Owens**: ["Tucker Carlson released an episode with Candace on August 1st discussi..."](/statements/statement-744c384c65c3.md)
 

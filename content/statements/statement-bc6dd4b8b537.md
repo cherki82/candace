@@ -31,10 +31,10 @@ veracity: "true"
 ## Source
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
-**Timestamp:** [00:55:40](/episodes/ep-wcD2khO3rOA.md#t-00-54-55) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(3340);return false;">Play</a>
+**Timestamp:** [01:06:06](/episodes/ep-wcD2khO3rOA.md#t-01-05-32) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3966);return false;">Play</a>
 
-> help to bail out Reverend Jerry Falwell’s foundering Liberty University... It gave a $3.5 million grant to the Christian Heritage Foundation, which later bought a portion of Liberty University’s debt... News World Communications... lent $400,000 to Liberty
+> It tells us also in 1995 ... It gave a $3.5 million grant to the Christian Heritage Foundation ... which later bought a portion of Liberty University's debt ... Last year, News World Communications ... lent $400,000 to Liberty at a 6% interest according to the promissory note.
 
 ## Verification
 

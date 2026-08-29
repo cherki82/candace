@@ -1,6 +1,6 @@
 ---
 title: "Timpanogos Regional Hospital"
-description: "Timpanogos Regional Hospital (Organizations) - 25 mentions"
+description: "Timpanogos Regional Hospital (Organizations) - 32 mentions"
 id: "org-timpanogos-regional-hospital"
 type: "ORG"
 aliases:
@@ -22,38 +22,41 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-timpanogos-regional-hospital-t-00-30-44">2025-09-30 · 00:30:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-timpanogos-regional-hospital-t-00-18-00">2026-07-21 · 00:18:10</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#t-01-06-19">2026-08-21 · 01:06:28</a></strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>32</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>25</strong></div>
+<div><span>Statements about</span><strong>33</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-timpanogos-regional-hospital-t-00-29-28">Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-timpanogos-regional-hospital-t-00-22-35">An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-timpanogos-regional-hospital-t-00-30-44" style="--pulse-height:33%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-timpanogos-regional-hospital-t-00-32-11" style="--pulse-height:67%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-timpanogos-regional-hospital-t-00-02-01" style="--pulse-height:67%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 2 mentions" title="2025-11-10 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-timpanogos-regional-hospital-t-00-29-28" style="--pulse-height:100%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 3 mentions" title="2025-11-12 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-org-timpanogos-regional-hospital-t-00-08-09" style="--pulse-height:33%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-timpanogos-regional-hospital-t-00-06-59" style="--pulse-height:33%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-timpanogos-regional-hospital-t-00-06-54" style="--pulse-height:33%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-timpanogos-regional-hospital-t-00-14-43" style="--pulse-height:33%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-UYkXV9mYbT4.md#t-00-56-25" style="--pulse-height:33%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-rupRLXmSndU.md#t-00-04-38" style="--pulse-height:33%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-02-10" style="--pulse-height:33%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-timpanogos-regional-hospital-t-00-57-43" style="--pulse-height:33%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-timpanogos-regional-hospital-t-01-10-33" style="--pulse-height:33%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9CuC1yf8-PU.md#ent-org-timpanogos-regional-hospital-t-00-55-06" style="--pulse-height:33%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-sKuYLNx3iRo.md#t-00-32-51" style="--pulse-height:33%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-IqHsl7d2dos.md#ent-org-timpanogos-regional-hospital-t-00-52-31" style="--pulse-height:33%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-timpanogos-regional-hospital-t-00-25-16" style="--pulse-height:67%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-N4uM8Jdr410.md#ent-org-timpanogos-regional-hospital-t-00-20-08" style="--pulse-height:33%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-timpanogos-regional-hospital-t-00-18-00" style="--pulse-height:33%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YA1FxrDWNIo.md#ent-org-timpanogos-regional-hospital-t-00-30-44" style="--pulse-height:25%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-timpanogos-regional-hospital-t-00-32-11" style="--pulse-height:50%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-org-timpanogos-regional-hospital-t-00-02-01" style="--pulse-height:50%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 2 mentions" title="2025-11-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-org-timpanogos-regional-hospital-t-00-29-28" style="--pulse-height:75%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 3 mentions" title="2025-11-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-org-timpanogos-regional-hospital-t-00-08-09" style="--pulse-height:25%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-timpanogos-regional-hospital-t-00-06-59" style="--pulse-height:25%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-timpanogos-regional-hospital-t-00-06-54" style="--pulse-height:25%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-timpanogos-regional-hospital-t-00-14-43" style="--pulse-height:25%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#t-00-56-25" style="--pulse-height:50%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 2 mentions" title="2026-03-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-org-timpanogos-regional-hospital-t-00-04-38" style="--pulse-height:25%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-timpanogos-regional-hospital-t-00-02-10" style="--pulse-height:25%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-timpanogos-regional-hospital-t-00-57-43" style="--pulse-height:25%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-timpanogos-regional-hospital-t-01-10-33" style="--pulse-height:25%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9CuC1yf8-PU.md#ent-org-timpanogos-regional-hospital-t-00-55-06" style="--pulse-height:25%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#t-00-32-51" style="--pulse-height:25%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-org-timpanogos-regional-hospital-t-00-52-31" style="--pulse-height:25%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-timpanogos-regional-hospital-t-00-25-16" style="--pulse-height:50%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-org-timpanogos-regional-hospital-t-00-20-08" style="--pulse-height:25%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-timpanogos-regional-hospital-t-00-18-00" style="--pulse-height:25%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-timpanogos-regional-hospital-t-00-22-35" style="--pulse-height:100%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 4 mentions" title="2026-07-31 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-org-timpanogos-regional-hospital-t-00-23-31" style="--pulse-height:50%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 2 mentions" title="2026-08-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#t-01-06-19" style="--pulse-height:25%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -67,9 +70,9 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-timpanogos-regional-hospital-t-00-06-59) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-timpanogos-regional-hospital-t-00-06-54) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-org-timpanogos-regional-hospital-t-00-14-43) | 1 |
-| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#t-00-56-25) | 1 |
-| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#t-00-04-38) | 1 |
-| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#t-00-02-10) | 1 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#t-00-56-25) | 2 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-timpanogos-regional-hospital-t-00-04-38) | 1 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-timpanogos-regional-hospital-t-00-02-10) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-timpanogos-regional-hospital-t-00-57-43) | 1 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-org-timpanogos-regional-hospital-t-01-10-33) | 1 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-org-timpanogos-regional-hospital-t-00-55-06) | 1 |
@@ -78,6 +81,9 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-timpanogos-regional-hospital-t-00-25-16) | 2 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-timpanogos-regional-hospital-t-00-20-08) | 1 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-timpanogos-regional-hospital-t-00-18-00) | 1 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-org-timpanogos-regional-hospital-t-00-22-35) | 4 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-org-timpanogos-regional-hospital-t-00-23-31) | 2 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#t-01-06-19) | 1 |
 
 </details>
 </section>
@@ -85,7 +91,43 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
+
+**[01:06:28](/episodes/ep-_cNtgris8Ik.md#t-01-06-19)**
+> "I would definitely do someone that was on the ground that day, like Mikey McCoy, It would definitely be someone that was on the ground that day, like Mikey McCoy, who had a lot of action and could definitely therefore be able to access his memories of what really went down at Tim Panogos and hospital and beyond and we'll lead up to that."
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (2 mentions)</summary>
+
+**[00:23:40](/episodes/ep-ChuWo-n49B8.md#ent-org-timpanogos-regional-hospital-t-00-23-31)**
+> "all walked into Timpanogos Regional Hospital together. My question for you is simple. Did you all travel there together?"
+
+**[00:23:49](/episodes/ep-ChuWo-n49B8.md#ent-org-timpanogos-regional-hospital-t-00-23-31)**
+> "Did all four of you arrive at Timpanogos Regional Hospital in the same car? Yes or no?"
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (4 mentions)</summary>
+
+**[00:22:35](/episodes/ep-iB-YtO3UZOg.md#ent-org-timpanogos-regional-hospital-t-00-22-35)**
+> "Not this guy. Anyway, back to our question. Where are the witnesses to the events that took place that day at Timpanogos Hospital?"
+
+**[00:23:02](/episodes/ep-iB-YtO3UZOg.md#ent-org-timpanogos-regional-hospital-t-00-22-35)**
+> "... before Charlie was shot, the Timpanogos hospital staff directed everyone who was in the emergency ..."
+
+**[00:23:54](/episodes/ep-iB-YtO3UZOg.md#ent-org-timpanogos-regional-hospital-t-00-23-54)**
+> "... patients ever having been at Timpanogos Hospital."
+
+**[00:26:20](/episodes/ep-iB-YtO3UZOg.md#ent-org-timpanogos-regional-hospital-t-00-26-05)**
+> "...ecifically mentioned that the Timpanogos Hospital system—they use a system called Epic—did not spea..."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>
@@ -157,24 +199,27 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
 
-**[00:02:10](/episodes/ep-q1NRQQAYS_Q.md#t-00-02-10)**
-> "Tim Panogas hospital"
+**[00:02:10](/episodes/ep-q1NRQQAYS_Q.md#ent-org-timpanogos-regional-hospital-t-00-02-10)**
+> "...o take him and drive him to a Timpanogos hospital, which door you were going to go through at Timpa..."
 
 </details>
 
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1 mentions)</summary>
 
-**[00:04:50](/episodes/ep-rupRLXmSndU.md#t-00-04-38)**
-> "Timponogos hospital"
+**[00:04:50](/episodes/ep-rupRLXmSndU.md#ent-org-timpanogos-regional-hospital-t-00-04-38)**
+> "Let's at first go back to the hospital, okay? I'm told actually it's pronounced Timpanogos, okay? Timpanogos hospital."
 
 </details>
 
 <details>
-<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1 mentions)</summary>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (2 mentions)</summary>
 
 **[00:56:25](/episodes/ep-UYkXV9mYbT4.md#t-00-56-25)**
-> "Timpanagos staff at the hospital"
+> "I do have an update for you guys on the Timpanogos staff at the hospital. And I saw Elizabeth Lane saying that, talking about the other hospital and the strange lockdown that I have maintained from the beginning, that there was more evidence that Charlie (Charlie Kirk) was at Utah Valley initially and then at some point got transported."
+
+**[00:56:44](/episodes/ep-UYkXV9mYbT4.md#t-00-56-25)**
+> "transported to Timpanogos, but we will have to wait until tomorrow because we are already up for an hour and I haven't even done comments. So we will take another quick break and I'll get to some of your comments. I'll be right back."
 
 </details>
 
@@ -277,7 +322,7 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 - **[Connor Henderson](/entities/person-connor-henderson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:18:41](/episodes/ep-rupRLXmSndU.md#t-00-18-41): “Connor had been working as an emergency room department scribe. I can confirm. Go ahead. Tippinogos. Tippinogos emergency room.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:18:41](/episodes/ep-rupRLXmSndU.md#t-00-18-41): “Connor (Connor Henderson) had been working as an emergency room department scribe. I can confirm. Go ahead. Timpanogos. Timpanogos emergency room. Okay, now in case you are unaware of what an emergency room scribe does, they are essentially the physician's personal assistant in charge of taking notes and handling the charting and clerical work for the doctors in that emergency setting. That was Connor Henderson's job from 2024 until—and that's only if LinkedIn is to be believed—just before Charlie (Charlie Kirk)'s assassination, or maybe even just after Charlie (Charlie Kirk)'s assassination.”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 01:10:44](/episodes/ep-h76ZN-xXC6c.md#t-01-10-33): “we find out that Connor was working at the hospital, Timpanogos Regional Hospital, interning in the emergency department”
 
 </details>
@@ -313,7 +358,7 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 - **[Connor Henderson](/entities/person-connor-henderson.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:18:41](/episodes/ep-rupRLXmSndU.md#t-00-18-41): “Connor had been working as an emergency room department scribe. I can confirm. Go ahead. Tippinogos. Tippinogos emergency room.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:18:41](/episodes/ep-rupRLXmSndU.md#t-00-18-41): “Connor (Connor Henderson) had been working as an emergency room department scribe. I can confirm. Go ahead. Timpanogos. Timpanogos emergency room. Okay, now in case you are unaware of what an emergency room scribe does, they are essentially the physician's personal assistant in charge of taking notes and handling the charting and clerical work for the doctors in that emergency setting. That was Connor Henderson's job from 2024 until—and that's only if LinkedIn is to be believed—just before Charlie (Charlie Kirk)'s assassination, or maybe even just after Charlie (Charlie Kirk)'s assassination.”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 01:10:44](/episodes/ep-h76ZN-xXC6c.md#t-01-10-33): “we find out that Connor was working at the hospital, Timpanogos Regional Hospital, interning in the emergency department”
 
 </details>
@@ -330,7 +375,36 @@ Source: [Timpanogos Regional Hospital | HCA Healthcare](https://careers.hcahealt
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Timpanogos Regional Hospital (25)</strong></summary>
+<summary><strong class="section-title">Statements about Timpanogos Regional Hospital (33)</strong></summary>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (8)</summary>
+
+- [00:20:42](/episodes/ep-iB-YtO3UZOg.md#t-00-20-16) (Claim) **Brian Harpole** (via quoted speech): ["Brian Harpole said he discussed drugs and a defibrillator with hospita..."](/statements/statement-8b7094b74caf.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:20:53](/episodes/ep-iB-YtO3UZOg.md#t-00-20-53) (Claim) **Brian Harpole** (via quoted speech): ["Brian Harpole said he left the treatment room and guarded its outside ..."](/statements/statement-0fa4c6243130.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
+
+- [00:22:55](/episodes/ep-iB-YtO3UZOg.md#t-00-22-35) (Claim) **Anonymous Timpanogos Hospital source (Ep iB-YtO3UZOg)** (via read message): ["An anonymous hospital source alleged that during the 10 a.m. hour on S..."](/statements/statement-2f4a238a797a.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:23:29](/episodes/ep-iB-YtO3UZOg.md#t-00-23-19) (Claim) **Anonymous Timpanogos Hospital source (Ep iB-YtO3UZOg)** (via read message): ["An anonymous hospital source alleged that at approximately 11:30 a.m. ..."](/statements/statement-3c7d3394bb8e.md)
+  - Also about: [Utah Valley Hospital](/entities/org-utah-valley-hospital.md)
+
+- [00:23:45](/episodes/ep-iB-YtO3UZOg.md#t-00-23-19) (Claim) **Anonymous Timpanogos Hospital source (Ep iB-YtO3UZOg)** (via read message): ["An anonymous hospital source alleged that all emergency-room patients ..."](/statements/statement-e7bc4a96b0d4.md)
+  - Also about: [Utah Valley Hospital](/entities/org-utah-valley-hospital.md)
+
+- [00:23:54](/episodes/ep-iB-YtO3UZOg.md#t-00-23-54) (Accusation) **Candace Owens**: ["Owens claimed that hospital-camera footage had been seized by Kash Pat..."](/statements/statement-577fd62dca3b.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md)
+
+- [00:24:51](/episodes/ep-iB-YtO3UZOg.md#t-00-24-40) (Accusation) **Candace Owens**: ["Owens said that if paperwork proved the reported patient transfer beyo..."](/statements/statement-47f6709d53fc.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:26:20](/episodes/ep-iB-YtO3UZOg.md#t-00-26-05) (Citation) **Candace Owens**: ["Owens said the Timpanogos Regional Hospital Epic system did not commun..."](/statements/statement-1cb874aaa5b9.md)
+  - Also about: [Utah Valley Hospital](/entities/org-utah-valley-hospital.md), [Epic Systems](/entities/org-epic-systems.md), [Intermountain Health](/entities/org-intermountain-health.md)
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1)</summary>

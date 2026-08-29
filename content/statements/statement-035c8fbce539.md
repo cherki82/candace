@@ -4,9 +4,10 @@ description: "\"Steve Bannon said Ben Shapiro tried to take over an organization
 statement_id: "statement-035c8fbce539"
 speaker: "Steve Bannon"
 type: "accusation"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+At 00:06:22 the source-scoped context contains Bannon saying Shapiro tried to take over an organization associated with David Horowitz. The determination is limited to the fact and content of Bannon's accusation.
+
+**Confidence:** High
+
+**Sources:**
+
+- [EXCLUSIVE: Ben Shapiro's 9/10 Lunch Date — Candace Ep. 365 transcript](https://podcasts.happyscribe.com/candace/10-lunch-date-more-text-messages-from-charlie-kirk)
+
+*Verified: 2026-08-27T19:42:39.589180*
 
 ---
 

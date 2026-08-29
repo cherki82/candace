@@ -31,7 +31,7 @@ type: "opinion"
 **Timestamp:** [00:49:23](/episodes/ep-Cq7nj9rxPdo.md#t-00-49-03) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2963);return false;">Play</a>
 
-> Like my friend Mikey McCoy, the brilliant 24-year-old who at the time when Charlie was shot was 23 and was a hero that day. He apparently didn't act the right way according to Candace Owens. He didn't act normal.' Newsflash: there is no normal when you're in shock.
+> Like my friend Mikey McCoy, the brilliant 24-year-old who at the time when Charlie was shot was 23 and was a hero that day. ... Newsflash: there is no normal when you're in shock.
 
 ## Verification
 

@@ -14,7 +14,7 @@ date: "2013"
 ## Mentioned In
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
-**Timestamp:** [00:34:03](/episodes/ep-HYn0P-P1wUw.md#event-event-2013-arizona-house-judiciary-committee-chair--t-00-33-47) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2043);return false;">▶️ Play</a>
+**Timestamp:** [00:34:22](/episodes/ep-HYn0P-P1wUw.md#event-event-2013-arizona-house-judiciary-committee-chair--t-00-34-22) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2062);return false;">▶️ Play</a>
 
-> earlier if I am being honest I have an indication that it was actually earlier but this is on paper
+> for some unknown reason, he blocked a hearing on a bill to prevent child sex trafficking.

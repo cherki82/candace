@@ -1,6 +1,6 @@
 ---
 title: "King David"
-description: "King David (People) - 15 mentions"
+description: "King David (People) - 18 mentions"
 id: "person-king-david-biblical"
 type: "PERSON"
 aliases:
@@ -16,13 +16,14 @@ _Type: People_
 **Categories:** religion
 
 **Entity verification:** verified
-> Biblical King David; the episode identifies him as the shepherd, warrior, and future king in the Jonathan narrative.
+> External reference identifies biblical David as king of Israel; this episode uses 'his David' as an explicit biblical analogy.
+Source: [David - Encyclopedia of The Bible - Bible Gateway](https://www.biblegateway.com/resources/encyclopedia-of-the-bible/David)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-person-king-david-biblical-t-00-42-46">2025-10-30 · 00:42:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-king-david-biblical-t-00-56-00">2025-10-31 · 00:56:25</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-rupRLXmSndU.md#ent-person-king-david-biblical-t-00-48-20">2026-04-01 · 00:48:20</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,6 +36,8 @@ _Type: People_
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-iHav0PPzUz8.md#ent-person-king-david-biblical-t-00-42-46" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 13 mentions" title="2025-10-30 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-king-david-biblical-t-00-56-00" style="--pulse-height:15%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 2 mentions" title="2025-10-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-king-david-biblical-t-00-59-49" style="--pulse-height:15%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 2 mentions" title="2026-03-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-person-king-david-biblical-t-00-48-20" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -42,6 +45,8 @@ _Type: People_
 |---|---|---:|
 | 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-king-david-biblical-t-00-42-46) | 13 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-person-king-david-biblical-t-00-56-00) | 2 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-king-david-biblical-t-00-59-49) | 2 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-king-david-biblical-t-00-48-20) | 1 |
 
 </details>
 </section>
@@ -49,7 +54,26 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1 mentions)</summary>
+
+**[00:48:20](/episodes/ep-rupRLXmSndU.md#ent-person-king-david-biblical-t-00-48-20)**
+> "uh libby vargas writes i joined the book club and i started at chaos the first episode gave me chills it feels like your investigation started then what you spoke is what you're living now david with his sling unaware of goliath god bless wow i didn't even appreciate that yeah when i was reading chaos it was like that it's like oh this is what we were told the manson murders this is what the narrative was then you're like wait but everything did not happen that way it's like the opposite and then like behind this is this cia apparatus"
+
+</details>
+
+<details>
+<summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (2 mentions)</summary>
+
+**[01:00:21](/episodes/ep-UYkXV9mYbT4.md#ent-person-king-david-biblical-t-00-59-49)**
+> "...harlie Kirk) calling you, his David still gets me emotional, yet the ones around him ..."
+
+**[01:00:30](/episodes/ep-UYkXV9mYbT4.md#ent-person-king-david-biblical-t-01-00-30)**
+> "...ons and we all hope we have a David like you. Go Maxer in faith and prayer."
+
+</details>
 
 <details>
 <summary>INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256 (2 mentions)</summary>

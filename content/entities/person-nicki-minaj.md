@@ -116,7 +116,7 @@ Source: [Nicki Minaj - Official Website](https://www.nickiminajofficial.com/)
 **[00:15:17](/episodes/ep-OEAHy3SsIiI.md#ent-person-nicki-minaj-t-00-15-01)**
 > "She's out there talking to Nicki Minaj."
 
-**[01:06:28](/episodes/ep-OEAHy3SsIiI.md#ent-person-nicki-minaj-t-01-06-01)**
+**[01:06:24](/episodes/ep-OEAHy3SsIiI.md#ent-person-nicki-minaj-t-01-06-13)**
 > "Nicki Minaj, the tent,"
 
 </details>

@@ -1,15 +1,20 @@
 ---
 title: "Harris Faulkner"
-description: "Harris Faulkner (People) - 8 mentions"
+description: "Harris Faulkner (People) - 9 mentions"
 id: "person-harris-faulkner"
 type: "PERSON"
 aliases:
   - "Harris"
+categories:
+  - "journalism"
+  - "television news"
 ---
 
 _Type: People_
 
 **Also known as:** Harris
+
+**Categories:** journalism, television news
 
 **Entity verification:** verified
 > Fox News' official profile confirms the canonical name Harris Faulkner and identifies her as the anchor of The Faulkner Focus; transcript forms Harrison Faulkner and Harris Falconer are ASR errors.
@@ -17,9 +22,9 @@ Source: [Harris Faulkner - Anchor of The Faulkner Focus and co-host of Outnumber
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-harris-faulkner-t-00-00-00">2025-12-10 · 00:00:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-harris-faulkner-t-00-47-51">2026-05-11 · 00:48:01</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HZvwbfePe7o.md#ent-person-harris-faulkner-t-00-12-27">2026-07-27 · 00:12:38</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -32,6 +37,7 @@ Source: [Harris Faulkner - Anchor of The Faulkner Focus and co-host of Outnumber
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-harris-faulkner-t-00-00-00" style="--pulse-height:100%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 4 mentions" title="2025-12-10 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-harris-faulkner-t-00-47-51" style="--pulse-height:100%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 4 mentions" title="2026-05-11 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-person-harris-faulkner-t-00-12-27" style="--pulse-height:25%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -39,6 +45,7 @@ Source: [Harris Faulkner - Anchor of The Faulkner Focus and co-host of Outnumber
 |---|---|---:|
 | 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-person-harris-faulkner-t-00-00-00) | 4 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-harris-faulkner-t-00-47-51) | 4 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-person-harris-faulkner-t-00-12-27) | 1 |
 
 </details>
 </section>
@@ -46,7 +53,15 @@ Source: [Harris Faulkner - Anchor of The Faulkner Focus and co-host of Outnumber
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (1 mentions)</summary>
+
+**[00:12:38](/episodes/ep-HZvwbfePe7o.md#ent-person-harris-faulkner-t-00-12-27)**
+> "But you'll actually notice apparently any questions surrounding the burial elicits this sort of a strong emotion. In fact, in retrospect, Erika (Erika Kirk) made that clear early on. It's really the first time we ever actually saw her get fired up in public. We went from Tyler Robinson, I forgive him, that man, that man, I forgive him, to a book tour where Harris Faulkner on Fox News set her up with a question about how."
+
+</details>
 
 <details>
 <summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (4 mentions)</summary>
@@ -91,9 +106,10 @@ Source: [Harris Faulkner - Anchor of The Faulkner Focus and co-host of Outnumber
 <summary>Interviewed (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:48:01](/episodes/ep-KpxIBWkNsSs.md#t-00-47-51): “Harris Falconer sorry Harris Falconer she went on that show and then she was all fired up for the first time and like conspiracy theories need to stop that was the very next day so I was like that's interesting because we didn't mention the Erika (Erika Kirk) part yet does she know something that like it felt weird then the day after that she did Bari Weiss and they cut the clip of her saying what do you have to say to the podcaster Candace Owens I then will later find out that they had planned that the question answer segment and she's like stop just stop”
+- [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:12:38](/episodes/ep-HZvwbfePe7o.md#t-00-12-27): “But you'll actually notice apparently any questions surrounding the burial elicits this sort of a strong emotion. In fact, in retrospect, Erika (Erika Kirk) made that clear early on. It's really the first time we ever actually saw her get fired up in public. We went from Tyler Robinson, I forgive him, that man, that man, I forgive him, to a book tour where Harris Faulkner on Fox News set her up with a question about how.”
 
 </details>
 
@@ -103,9 +119,10 @@ Source: [Harris Faulkner - Anchor of The Faulkner Focus and co-host of Outnumber
 <summary>Referenced By (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:48:01](/episodes/ep-KpxIBWkNsSs.md#t-00-47-51): “Harris Falconer sorry Harris Falconer she went on that show and then she was all fired up for the first time and like conspiracy theories need to stop that was the very next day so I was like that's interesting because we didn't mention the Erika (Erika Kirk) part yet does she know something that like it felt weird then the day after that she did Bari Weiss and they cut the clip of her saying what do you have to say to the podcaster Candace Owens I then will later find out that they had planned that the question answer segment and she's like stop just stop”
+- [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:12:38](/episodes/ep-HZvwbfePe7o.md#t-00-12-27): “But you'll actually notice apparently any questions surrounding the burial elicits this sort of a strong emotion. In fact, in retrospect, Erika (Erika Kirk) made that clear early on. It's really the first time we ever actually saw her get fired up in public. We went from Tyler Robinson, I forgive him, that man, that man, I forgive him, to a book tour where Harris Faulkner on Fox News set her up with a question about how.”
 
 </details>
 

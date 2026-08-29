@@ -34,7 +34,7 @@ veracity: "unverifiable"
 **Timestamp:** [00:15:17](/episodes/ep-es7PWdFGoFI.md#t-00-14-53) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(917);return false;">Play</a>
 
-> they did not approve of this. They had no idea he was going on Sean Ryan
+> And I think we can believe turning point when they say that they did not approve of this. They had no idea he was going on Sean (Shawn Ryan).
 
 ### 2. STAGED? Erika’s VIRAL White House Correspondents Moment Come...
 

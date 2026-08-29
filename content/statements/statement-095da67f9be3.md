@@ -1,6 +1,6 @@
 ---
-title: "the person responsible for dropping off those pipe bombs was..."
-description: "\"the person responsible for dropping off those pipe bombs was revealed to be a fed—more specifically, a 31-year-old woman and a United States Capitol P...\" — Candace Owens"
+title: "The person allegedly responsible for placing the January 6 p..."
+description: "\"The person allegedly responsible for placing the January 6 pipe bombs was identified as Shawna Rae Kirkhoff, a 31-year-old United States Capitol Polic...\" — Candace Owens"
 statement_id: "statement-095da67f9be3"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "false"
 
 ## Statement
 
-> the person responsible for dropping off those pipe bombs was revealed to be a fed—more specifically, a 31-year-old woman and a United States Capitol Police officer named Shawna Rae Kirkhoff
+> The person allegedly responsible for placing the January 6 pipe bombs was identified as Shawna Rae Kirkhoff, a 31-year-old United States Capitol Police officer.
 
 ## Attribution
 
@@ -19,6 +19,11 @@ veracity: "false"
 
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
+
+## About
+
+- [United States Capitol Police](/entities/org-united-states-capitol-police.md) (org)
+- [Shawna Rae Kirkhoff](/entities/person-shawna-rae-kirkhoff.md) (person)
 
 ## Source
 

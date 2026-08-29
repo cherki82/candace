@@ -1,6 +1,6 @@
 ---
 title: "Johnnie Moore"
-description: "Johnnie Moore (People) - 49 mentions"
+description: "Johnnie Moore (People) - 50 mentions"
 id: "person-johnnie-moore"
 type: "PERSON"
 aliases:
@@ -25,12 +25,12 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-johnnie-moore-t-00-07-06">2026-01-09 · 00:07:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-johnnie-moore-t-00-21-18">2026-07-21 · 00:21:47</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>49</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-person-johnnie-moore-t-00-18-23">2026-08-06 · 00:18:30</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>50</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>17</strong></div>
-<div><span>Relationships</span><strong>28</strong></div>
+<div><span>Statements about</span><strong>18</strong></div>
+<div><span>Relationships</span><strong>30</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -48,6 +48,7 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-johnnie-moore-t-00-19-53" style="--pulse-height:18%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 5 mentions" title="2026-05-27 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-johnnie-moore-t-00-32-47" style="--pulse-height:11%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-johnnie-moore-t-00-21-18" style="--pulse-height:8%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-person-johnnie-moore-t-00-18-23" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -63,6 +64,7 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-johnnie-moore-t-00-19-53) | 5 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-johnnie-moore-t-00-32-47) | 3 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-johnnie-moore-t-00-21-18) | 1 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-johnnie-moore-t-00-18-23) | 1 |
 
 </details>
 </section>
@@ -70,7 +72,15 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (49)</strong></summary>
+<summary><strong class="section-title">Raw mentions (50)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:18:30](/episodes/ep-ChuWo-n49B8.md#ent-person-johnnie-moore-t-00-18-23)**
+> "then run by Johnny Moore"
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>
@@ -378,6 +388,18 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 </details>
 
 <details>
+<summary>Formerly Operated (1)</summary>
+
+- **[Gaza Humanitarian Foundation](/entities/org-gaza-humanitarian-foundation.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:18:30](/episodes/ep-ChuWo-n49B8.md#t-00-18-23): “In the past, before Charlie (Charlie Kirk) was assassinated, that this person hosted a spaces on X and went on record admitting that they gather intel, they collaborate with the Green Berets, they collaborate with a Daily Wire employee, Cassie Akiva, the Gaza Humanitarian Fund then run by Johnny Moore to create files on people for the purpose of doing Israel's PR bidding.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Formerly Worked For (2)</summary>
 
 - **[Liberty University](/entities/org-liberty-university.md)**
@@ -436,7 +458,7 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 </details>
 
 <details>
-<summary>Referenced By (14)</summary>
+<summary>Referenced By (15)</summary>
 
 - **[Aspen Institute](/entities/org-aspen-institute.md)** advised by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -486,6 +508,13 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:40:31](/episodes/ep-DdPjoy5W-wY.md#t-00-40-31): “Johnny Moore is working for Mark Burnett”
+
+</details>
+
+- **[Gaza Humanitarian Foundation](/entities/org-gaza-humanitarian-foundation.md)** formerly operated by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:18:30](/episodes/ep-ChuWo-n49B8.md#t-00-18-23): “In the past, before Charlie (Charlie Kirk) was assassinated, that this person hosted a spaces on X and went on record admitting that they gather intel, they collaborate with the Green Berets, they collaborate with a Daily Wire employee, Cassie Akiva, the Gaza Humanitarian Fund then run by Johnny Moore to create files on people for the purpose of doing Israel's PR bidding.”
 
 </details>
 
@@ -560,7 +589,15 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Johnnie Moore (17)</strong></summary>
+<summary><strong class="section-title">Statements about Johnnie Moore (18)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
+
+- [00:18:30](/episodes/ep-ChuWo-n49B8.md#t-00-18-23) (Accusation) **Candace Owens** (via paraphrase): ["Owens said the unidentified organizer had publicly admitted gathering ..."](/statements/statement-ca11c64e2e7c.md)
+  - Also about: [United States Army Special Forces](/entities/org-us-army-special-forces.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Kassy Akiva](/entities/person-kassy-akiva.md)
+
+</details>
 
 <details>
 <summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1)</summary>

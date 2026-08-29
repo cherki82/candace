@@ -4,9 +4,10 @@ description: "\"In Candace Owens's view, Tyler Robinson did not commit Charlie K
 statement_id: "statement-71dd61a0b518"
 speaker: "Candace Owens"
 type: "opinion"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -43,8 +44,22 @@ type: "opinion"
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Verified as an attribution of Candace Owens's stated view, not as a determination of Tyler Robinson's guilt or innocence. In the source transcript at 26.164-54.878 seconds, Owens says, 'Tyler Robinson, in my view, did not commit this crime.' Current Utah Courts information shows the criminal matter remained in active proceedings in July 2026, so this result does not treat the underlying culpability question as adjudicated.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](https://www.youtube.com/watch?v=eLgD5yUVbko)
+- [July 2026 - Utah Courts Recent Press Notifications](https://legacy.utcourts.gov/utc/news/2026/07/)
+
+*Verified: 2026-08-28T18:23:53.662012*
 
 ---
 
-**Type:** Opinion | **Verifiable:** No
+**Type:** Opinion | **Verifiable:** Yes

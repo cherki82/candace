@@ -3,9 +3,17 @@ title: "Wichita"
 description: "Wichita (Places) - 4 mentions"
 id: "gpe-wichita"
 type: "GPE"
+categories:
+  - "Kansas city"
 ---
 
 _Type: Places_
+
+**Categories:** Kansas city
+
+**Entity verification:** verified
+> Canonical name and identity for Wichita confirmed by the cited direct external source.
+Source: [Wichita, Kansas](https://en.wikipedia.org/wiki/Wichita,_Kansas)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-wichita-t-00-18-23">2025-10-31 · 00:18:54</a></strong></div>

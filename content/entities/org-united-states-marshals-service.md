@@ -1,6 +1,6 @@
 ---
 title: "United States Marshals Service"
-description: "United States Marshals Service (Organizations) - 5 mentions"
+description: "United States Marshals Service (Organizations) - 8 mentions"
 id: "org-united-states-marshals-service"
 type: "ORG"
 aliases:
@@ -26,10 +26,10 @@ Source: [Who We Are | United States Marshals Service](https://www.usmarshals.gov
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-marshals-service-t-00-31-43">2025-12-17 · 00:32:11</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marshals-service-t-02-39-52">2026-08-14 · 02:39:52</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -40,6 +40,7 @@ Source: [Who We Are | United States Marshals Service](https://www.usmarshals.gov
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-marshals-service-t-00-31-43" style="--pulse-height:67%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marshals-service-t-02-38-11" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-united-states-marshals-service-t-01-57-09" style="--pulse-height:100%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +48,7 @@ Source: [Who We Are | United States Marshals Service](https://www.usmarshals.gov
 |---|---|---:|
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-marshals-service-t-00-31-43) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marshals-service-t-02-38-11) | 3 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-united-states-marshals-service-t-01-57-09) | 3 |
 
 </details>
 </section>
@@ -54,7 +56,7 @@ Source: [Who We Are | United States Marshals Service](https://www.usmarshals.gov
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3 mentions)</summary>
@@ -67,6 +69,20 @@ Source: [Who We Are | United States Marshals Service](https://www.usmarshals.gov
 
 **[02:39:52](/episodes/ep-nPhCKwJ6ye8.md#ent-org-united-states-marshals-service-t-02-39-52)**
 > "...urces are telling you all the marshals believe it's a conspiracy of the police believe i..."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (3 mentions)</summary>
+
+**[01:57:09](/episodes/ep-aPOyk1i2LOc.md#ent-org-united-states-marshals-service-t-01-57-09)**
+> "... was a conspiracy down to the U.S. Marshals believe there's a conspiracy."
+
+**[01:57:22](/episodes/ep-aPOyk1i2LOc.md#ent-org-united-states-marshals-service-t-01-57-09)**
+> "They were, my sources at the U.S. Marshals were saying they were basically sent on a wild go..."
+
+**[01:58:51](/episodes/ep-aPOyk1i2LOc.md#ent-org-united-states-marshals-service-t-01-58-51)**
+> "...urces are telling you all the marshals believe it's a conspiracy out the police believe ..."
 
 </details>
 
@@ -91,12 +107,20 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Marshals Service (1)</strong></summary>
+<summary><strong class="section-title">Statements about United States Marshals Service (2)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
 
 - [02:38:23](/episodes/ep-nPhCKwJ6ye8.md#t-02-38-11) (Accusation) **Anonymous Source #3 (Ep nPhCKwJ6ye8)** (via quoted speech): ["United States Marshals Service sources said marshals were sent on a wi..."](/statements/statement-51c476305dbc.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (1)</summary>
+
+- [01:57:22](/episodes/ep-aPOyk1i2LOc.md#t-01-57-09) (Accusation) **Anonymous Source #3 (Ep aPOyk1i2LOc)** (via quoted speech): ["United States Marshals Service sources said marshals were sent on a wi..."](/statements/statement-693943e3f734.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "RØDE Microphones"
-description: "RØDE Microphones (Organizations) - 41 mentions"
+description: "RØDE Microphones (Organizations) - 45 mentions"
 id: "org-rode-microphones"
 type: "ORG"
 aliases:
@@ -24,11 +24,11 @@ Source: [About RØDE](https://rode.com/en-mt/about/about-rode)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5-HUyv9LyMg.md#ent-org-rode-microphones-t-00-38-00">2026-03-12 · 00:38:00</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-a2bZf4fic10.md#ent-org-rode-microphones-t-00-23-53">2026-06-26 · 00:24:10</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>41</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-rode-microphones-t-00-38-04">2026-07-31 · 00:38:04</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>45</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>20</strong></div>
+<div><span>Statements about</span><strong>22</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -43,6 +43,8 @@ Source: [About RØDE](https://rode.com/en-mt/about/about-rode)
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-org-rode-microphones-t-00-12-43" style="--pulse-height:92%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 11 mentions" title="2026-06-23 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-rode-microphones-t-00-02-46" style="--pulse-height:42%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 5 mentions" title="2026-06-24 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-org-rode-microphones-t-00-03-58" style="--pulse-height:25%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-org-rode-microphones-t-00-18-30" style="--pulse-height:8%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-rode-microphones-t-00-32-07" style="--pulse-height:25%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 3 mentions" title="2026-07-31 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,6 +56,8 @@ Source: [About RØDE](https://rode.com/en-mt/about/about-rode)
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-org-rode-microphones-t-00-12-43) | 11 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-org-rode-microphones-t-00-02-46) | 5 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-org-rode-microphones-t-00-03-58) | 3 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-org-rode-microphones-t-00-18-30) | 1 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-org-rode-microphones-t-00-32-07) | 3 |
 
 </details>
 </section>
@@ -61,7 +65,29 @@ Source: [About RØDE](https://rode.com/en-mt/about/about-rode)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+<summary><strong class="section-title">Raw mentions (45)</strong></summary>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (3 mentions)</summary>
+
+**[00:32:07](/episodes/ep-iB-YtO3UZOg.md#ent-org-rode-microphones-t-00-32-07)**
+> "That is not what we saw. A shaped charge in the RØDE microphone would have sent a projectile from his right anterior chest upward and leftward, likely exiting from his left neck or entering his cervical spine."
+
+**[00:37:47](/episodes/ep-iB-YtO3UZOg.md#ent-org-rode-microphones-t-00-37-22)**
+> "...at Charlie was also wearing a RØDE transmitter at his left waist."
+
+**[00:38:04](/episodes/ep-iB-YtO3UZOg.md#ent-org-rode-microphones-t-00-38-04)**
+> "...d to agree with you. I'm team RØDE mic. After everything that I've seen, I am team R..."
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (1 mentions)</summary>
+
+**[00:19:05](/episodes/ep-HZvwbfePe7o.md#ent-org-rode-microphones-t-00-18-30)**
+> "He had on a RØDE microphone"
+
+</details>
 
 <details>
 <summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (3 mentions)</summary>
@@ -226,7 +252,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about RØDE Microphones (20)</strong></summary>
+<summary><strong class="section-title">Statements about RØDE Microphones (22)</strong></summary>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (2)</summary>
+
+- [00:32:07](/episodes/ep-iB-YtO3UZOg.md#t-00-32-07) (Opinion) **Anonymous anesthesiologist email source (Ep iB-YtO3UZOg)** (via read message): ["An anonymous anesthesiologist said a shaped charge in Charlie Kirk's R..."](/statements/statement-c1c2f070a6ca.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Shaped charge](/entities/concept-shaped-charge.md)
+
+- [00:35:15](/episodes/ep-iB-YtO3UZOg.md#t-00-35-02) (Opinion) **Anonymous transplant coordinator email source (Ep iB-YtO3UZOg)** (via read message): ["An anonymous transplant coordinator said they had never seen thoracic ..."](/statements/statement-8979a4eea062.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (1)</summary>

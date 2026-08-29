@@ -129,8 +129,8 @@ Source: [The Truman Show - Paramount Pictures](https://www.paramountpictures.com
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
 
-**[00:13:59](/episodes/ep-OEAHy3SsIiI.md#ent-work-the-truman-show-t-00-13-34)**
-> "We're all in the Truman Show and everyone around us are actually robots and things have gotten so abnormal that even things that should be abnormal like RFK sexting, which is what Tim Dillon's about to describe,"
+**[00:13:58](/episodes/ep-OEAHy3SsIiI.md#ent-work-the-truman-show-t-00-13-34)**
+> "It feels like we're—we're all in the Truman Show, and everyone around us are actually robots. Things have gotten so abnormal that even things that should be abnormal, like RFK sexting, which is what Tim Dillon's about to describe, feel like that's the most normal thing going on."
 
 </details>
 

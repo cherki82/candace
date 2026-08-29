@@ -25,7 +25,7 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
-**Timestamp:** [00:14:04](/episodes/ep-HYn0P-P1wUw.md#t-00-13-56) 
+**Timestamp:** [00:14:04](/episodes/ep-HYn0P-P1wUw.md#t-00-13-32) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(844);return false;">Play</a>
 
 > I also broke the story about Charlie (Charlie Kirk)'s Catholic considerations. I didn't even mean to break that one, but then I had to present the receipts because people were acting crazy. About him attending mass, praying the rosary, that he died wearing a St. Michael pendant, that he had a private Catholic funeral mass.

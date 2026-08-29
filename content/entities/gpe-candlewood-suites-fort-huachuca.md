@@ -24,8 +24,8 @@ _Type: Places_
 Source: [Candlewood Suites Building 44420 on Fort Huachuca - IHG Army Hotels](https://www.ihg.com/armyhotels/hotels/us/en/fort-huachuca/mfhuc/hoteldetail)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-candlewood-suites-fort-huachuca-t-00-37-47">2026-01-05 · 00:38:11</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-candlewood-suites-fort-huachuca-t-00-37-47">2026-01-05 · 00:38:11</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-candlewood-suites-fort-huachuca-t-00-37-47">2026-01-05 · 00:38:04</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-candlewood-suites-fort-huachuca-t-00-37-47">2026-01-05 · 00:38:04</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -57,7 +57,7 @@ Source: [Candlewood Suites Building 44420 on Fort Huachuca - IHG Army Hotels](ht
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
 
-**[00:38:11](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-candlewood-suites-fort-huachuca-t-00-37-47)**
+**[00:38:04](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-candlewood-suites-fort-huachuca-t-00-37-47)**
 > "Erika Kirk on the 8th leaving the Candlewood Suites hotel on the base on Fort Huachuca. She was with somebody who looked similar to Cabot Phillips."
 
 </details>

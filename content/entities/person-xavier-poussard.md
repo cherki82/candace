@@ -34,7 +34,7 @@ Source: [Becoming Brigitte - AFP Factuel](https://factuel.afp.com/doc.afp.com.36
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-xavier-poussard-t-00-03-45" style="--pulse-height:11%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-xavier-poussard-t-00-34-01" style="--pulse-height:11%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-xavier-poussard-t-00-20-53" style="--pulse-height:11%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-eLgD5yUVbko.md#t-01-02-50" style="--pulse-height:11%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-xavier-poussard-t-01-02-50" style="--pulse-height:11%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-xavier-poussard-t-00-23-53" style="--pulse-height:11%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -45,7 +45,7 @@ Source: [Becoming Brigitte - AFP Factuel](https://factuel.afp.com/doc.afp.com.36
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-xavier-poussard-t-00-03-45) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-xavier-poussard-t-00-34-01) | 1 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-xavier-poussard-t-00-20-53) | 1 |
-| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#t-01-02-50) | 1 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-xavier-poussard-t-01-02-50) | 1 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-xavier-poussard-t-00-23-53) | 1 |
 
 </details>
@@ -67,8 +67,8 @@ Source: [Becoming Brigitte - AFP Factuel](https://factuel.afp.com/doc.afp.com.36
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>
 
-**[01:03:04](/episodes/ep-eLgD5yUVbko.md#t-01-02-50)**
-> "Xavier Broussard"
+**[01:03:04](/episodes/ep-eLgD5yUVbko.md#ent-person-xavier-poussard-t-01-02-50)**
+> "You presented no evidence. I have done almost two seasons producing. Xavier Poussard spent eight years in that book. Maybe you should read it."
 
 </details>
 

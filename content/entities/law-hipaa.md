@@ -39,7 +39,7 @@ Source: [HIPAA for Professionals | HHS](https://www.hhs.gov/hipaa/for-profession
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-es7PWdFGoFI.md#ent-law-hipaa-t-00-13-27" style="--pulse-height:67%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 2 mentions" title="2025-12-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-law-hipaa-t-00-04-09" style="--pulse-height:67%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-law-hipaa-t-00-51-46" style="--pulse-height:67%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-law-hipaa-t-00-51-41" style="--pulse-height:67%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-law-hipaa-t-01-11-10" style="--pulse-height:33%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-law-hipaa-t-00-02-52" style="--pulse-height:67%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-law-hipaa-t-00-22-31" style="--pulse-height:67%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
@@ -58,7 +58,7 @@ Source: [HIPAA for Professionals | HHS](https://www.hhs.gov/hipaa/for-profession
 |---|---|---:|
 | 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-law-hipaa-t-00-13-27) | 2 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-law-hipaa-t-00-04-09) | 2 |
-| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-law-hipaa-t-00-51-46) | 2 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-law-hipaa-t-00-51-41) | 2 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-law-hipaa-t-01-11-10) | 1 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-law-hipaa-t-00-02-52) | 2 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-law-hipaa-t-00-22-31) | 2 |
@@ -143,7 +143,7 @@ Source: [HIPAA for Professionals | HHS](https://www.hhs.gov/hipaa/for-profession
 <summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (3 mentions)</summary>
 
 **[00:10:02](/episodes/ep-UYkXV9mYbT4.md#ent-law-hipaa-t-00-10-02)**
-> "The surgeon violated HIPAA. Andrew violated her privacy and after that discu..."
+> "The surgeon violated HIPAA. Andrew (Andrew Kolvet) violated her privacy and after that discussion, Andrew (Andrew Kolvet) went double rogue and he tweeted about the nature of this discussion that he could not have had with the surgeon without Erika (Erika Kirk)'s permission."
 
 **[00:10:26](/episodes/ep-UYkXV9mYbT4.md#ent-law-hipaa-t-00-10-02)**
 > ".... Lee Trotter did not violate HIPAA. In fact, he could sue her for defamation in my p..."
@@ -194,10 +194,10 @@ Source: [HIPAA for Professionals | HHS](https://www.hhs.gov/hipaa/for-profession
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (2 mentions)</summary>
 
-**[00:51:57](/episodes/ep-OEAHy3SsIiI.md#ent-law-hipaa-t-00-51-46)**
+**[00:51:57](/episodes/ep-OEAHy3SsIiI.md#ent-law-hipaa-t-00-51-41)**
 > "Erika (Erika Kirk) claims Andrew (Andrew Kolvet) went rogue and also the surgeon went rogue and violated HIPAA."
 
-**[00:52:03](/episodes/ep-OEAHy3SsIiI.md#ent-law-hipaa-t-00-51-46)**
+**[00:52:03](/episodes/ep-OEAHy3SsIiI.md#ent-law-hipaa-t-00-52-03)**
 > "..., the surgeon did not violate HIPAA and he never said that."
 
 </details>

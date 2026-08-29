@@ -1,14 +1,14 @@
 ---
 id: "SKGUzGHymcI"
 title: "Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268"
-description: "Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 - 96 entities, 14 events, 33 factual claims"
+description: "Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268 - 95 entities, 14 events, 33 factual claims"
 published: "2025-11-19"
 youtube_url: "https://www.youtube.com/watch?v=SKGUzGHymcI"
 ---
 
 **Published:** 2025-11-19 | [Watch on YouTube](https://www.youtube.com/watch?v=SKGUzGHymcI)
 
-**Stats:** 96 entities | 14 events | 33 factual claims
+**Stats:** 95 entities | 14 events | 33 factual claims
 
 ---
 
@@ -256,7 +256,7 @@ youtube_url: "https://www.youtube.com/watch?v=SKGUzGHymcI"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (96)</strong></summary>
+<summary><strong>Entities Mentioned (95)</strong></summary>
 
 **Concepts:** [Doge](/entities/concept-doge.md), [God](/entities/concept-god.md), [MKUltra](/entities/concept-mkultra.md), [devil](/entities/concept-devil.md)
 
@@ -266,7 +266,7 @@ youtube_url: "https://www.youtube.com/watch?v=SKGUzGHymcI"
 
 **Places:** [33 Thomas Street](/entities/gpe-33-thomas-street.md), [500 Delaware Avenue](/entities/gpe-500-delaware-avenue.md), [920 North King Street](/entities/gpe-920-north-king-street.md), [Arizona](/entities/gpe-arizona.md), [Cairo](/entities/gpe-cairo.md), [China](/entities/gpe-china.md), [Delaware](/entities/gpe-delaware.md), [Egypt](/entities/gpe-egypt.md), [France](/entities/gpe-france.md), [Israel](/entities/gpe-israel.md), [Kansas](/entities/gpe-kansas.md), [Lincoln](/entities/gpe-lincoln.md), [Middle East](/entities/gpe-middle-east.md), [Minot](/entities/gpe-minot.md), [New York](/entities/gpe-new-york.md), [New York City](/entities/gpe-new-york-city.md), [Omaha](/entities/gpe-omaha.md), [Paris](/entities/gpe-paris.md), [Provo](/entities/gpe-provo.md), [Salt Lake City](/entities/gpe-salt-lake-city.md), [Santa Barbara](/entities/gpe-santa-barbara.md), [Scottsdale, Arizona](/entities/gpe-scottsdale.md), [St. Louis](/entities/gpe-st-louis.md), [Thousand Oaks](/entities/gpe-thousand-oaks.md), [Ukraine](/entities/gpe-ukraine.md), [United States](/entities/gpe-united-states.md), [Utah](/entities/gpe-utah.md), [Wichita](/entities/gpe-wichita.md), [Wilmington](/entities/gpe-wilmington.md)
 
-**Organizations:** [ACE Partners](/entities/org-ace-partners.md), [American Financing](/entities/org-american-financing.md), [CDC](/entities/org-cdc.md), [Calvary Chapel](/entities/org-calvary-chapel.md), [Calvary Chapel Association](/entities/org-calvary-chapel-association.md), [Club Candace](/entities/org-club-candace.md), [DEA](/entities/org-dea.md), [Department of Justice](/entities/org-department-of-justice.md), [Egyptian government](/entities/org-egyptian-government.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [Google](/entities/org-google.md), [Nimi Skincare](/entities/org-nimi-skincare.md), [Riverbend Ranch](/entities/org-riverbend-ranch.md), [Rodney Square](/entities/org-rodney-square.md), [The Wellness Company](/entities/org-the-wellness-company.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md), [Twitter](/entities/org-twitter.md), [USDA](/entities/org-usda.md), [United States Army](/entities/org-united-states-army.md), [United States Secret Service](/entities/org-united-states-secret-service.md), [YouTube](/entities/org-youtube.md), [the federal government](/entities/org-the-federal-government.md)
+**Organizations:** [American Financing](/entities/org-american-financing.md), [CDC](/entities/org-cdc.md), [Calvary Chapel](/entities/org-calvary-chapel.md), [Calvary Chapel Association](/entities/org-calvary-chapel-association.md), [Club Candace](/entities/org-club-candace.md), [DEA](/entities/org-dea.md), [Department of Justice](/entities/org-department-of-justice.md), [Egyptian government](/entities/org-egyptian-government.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [Google](/entities/org-google.md), [Nimi Skincare](/entities/org-nimi-skincare.md), [Riverbend Ranch](/entities/org-riverbend-ranch.md), [Rodney Square](/entities/org-rodney-square.md), [The Wellness Company](/entities/org-the-wellness-company.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Turning Point USA Faith](/entities/org-turning-point-usa-faith.md), [Twitter](/entities/org-twitter.md), [United States Army](/entities/org-united-states-army.md), [United States Department of Agriculture](/entities/org-united-states-department-agriculture.md), [United States Secret Service](/entities/org-united-states-secret-service.md), [YouTube](/entities/org-youtube.md), [the federal government](/entities/org-the-federal-government.md)
 
 **People:** [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Brian Harpole](/entities/person-brian-harpole.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md), [Emmanuel Macron](/entities/person-emmanuel-macron.md), [Erika Kirk](/entities/person-erika-kirk.md), [Frank Turek](/entities/person-frank-turek.md), [Jean-Michel Trogneux](/entities/person-jean-michel-trogneux.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Joe Rogan](/entities/person-joe-rogan.md), [Kash Patel](/entities/person-kash-patel.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Michael McCoy](/entities/person-michael-mccoy.md), [Shawn Ryan](/entities/person-shawn-ryan.md), [Sigmund Freud](/entities/person-sigmund-freud.md), [Stacey Sheridan](/entities/person-stacey-sheridan.md), [Theo Von](/entities/person-theo-von.md), [Tim Dillon](/entities/person-tim-dillon.md), [Tim Pool](/entities/person-tim-pool.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
@@ -305,7 +305,7 @@ youtube_url: "https://www.youtube.com/watch?v=SKGUzGHymcI"
 - [00:12:40](#t-00-12-23) [✓] (Claim) **Candace Owens**: ["Wilmington used to have a Dassault Falcon authorized center, but it shut down ar..."](/statements/statement-62175c77e906.md)
 - [00:12:48](#t-00-12-23) [✓] (Claim) **Candace Owens**: ["in December of 2024, a French aircraft finishing company called Satys... announc..."](/statements/statement-79f405b6bd06.md)
 - [00:13:03](#t-00-12-23) [○] (Claim) **Candace Owens**: ["In December 2024, the French aircraft finishing company Satys announced it was t..."](/statements/statement-8a833470ba1f.md)
-  - About: [Satis](/entities/org-satis.md), [Wilmington](/entities/gpe-wilmington.md)
+  - About: [Satys](/entities/org-satys.md), [Wilmington](/entities/gpe-wilmington.md)
 - [00:13:27](#t-00-13-08) [✓] (Claim) **Candace Owens**: ["DRBA is a bi-state authority that operates on federally regulated waterways"](/statements/statement-853512efd0bf.md)
 - [00:13:37](#t-00-13-08) [✓] (Claim) **Candace Owens**: ["DRBA's January 2024 resolution shows it was acquiring the rights to a paint hang..."](/statements/statement-1233fe8fb4ed.md)
 - [00:14:22](#t-00-14-09) [○] (Accusation) **Anonymous Source #1 (Ep SKGUzGHymcI)**: ["If SUBTT has been making maintenance runs to Wilmington for decades, it could no..."](/statements/statement-10fa7ba55d22.md)
@@ -313,7 +313,7 @@ youtube_url: "https://www.youtube.com/watch?v=SKGUzGHymcI"
 - [00:15:12](#t-00-14-53) [○] (Claim) **Candace Owens**: ["The FBI is stationed at 920 North King Street in Wilmington, as listed in the DO..."](/statements/statement-a571b54811ed.md)
   - About: [FBI](/entities/org-fbi.md), [Wilmington](/entities/gpe-wilmington.md)
 - [00:15:30](#t-00-14-53) [◐] (Claim) **Candace Owens**: ["When you Google FBI Wilmington Resident Agency, you should check the address in ..."](/statements/statement-ed1ff4b83a08.md)
-- [00:15:36](#t-00-14-53) [○] (Claim) **Candace Owens**: ["920 North King Street in Wilmington is a joint DOJ-DHS site that houses at least..."](/statements/statement-ecdfdd6a0965.md)
+- [00:16:00](#t-00-15-37) [○] (Claim) **Candace Owens**: ["Candace Owens said 920 North King Street in Wilmington appeared to be a joint DO..."](/statements/statement-ecdfdd6a0965.md)
   - About: [FBI](/entities/org-fbi.md), [DEA](/entities/org-dea.md), [United States Secret Service](/entities/org-united-states-secret-service.md)
 - [00:18:23](#t-00-18-04) [○] (Claim) **Candace Owens**: ["On November 13, 2022, SUBTT flew from Cairo to Paris to Wichita, Kansas to Wilmi..."](/statements/statement-18c05cf22929.md)
   - About: [Wilmington](/entities/gpe-wilmington.md)

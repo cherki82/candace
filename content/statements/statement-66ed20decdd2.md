@@ -4,9 +4,10 @@ description: "\"Candace Owens said Gary Javitch's professional biography listed 
 statement_id: "statement-66ed20decdd2"
 speaker: "Candace Owens"
 type: "citation"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -33,7 +34,20 @@ type: "citation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Public event material identifies Gary Javitch as Nebraska AIPAC chair/president and a National Council member. No reliable current source located in the search established that his twin brother David was then a current AIPAC board member. The Gary Javitch portion is supported; the David Javitch portion remains unverified.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Pachyderm Luncheon with Gary Javitch, President of the Nebraska Chapter of AIPAC](https://rightcheer.com/event/pachyderm-luncheon-with-gary-javitch-president-of-the-nebraska-chapter-of-aipac/)
+
+*Verified: 2026-08-27T19:42:39.589225*
 
 ---
 

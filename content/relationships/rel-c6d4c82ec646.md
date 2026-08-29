@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [Victor Marx](/entities/person-victor-marx) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (8 mentions)
+### Evidence (9 mentions)
 
 **[Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4)**
 
@@ -24,6 +24,10 @@ object: "person-candace-owens"
 **[September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI)**
 
 - [00:03:33](/episodes/ep-4DvYXBn_5JI#t-00-03-33): _Because on the basis of the stories that we've heard about him, some of them from Victor himself, he seems to me to be a bit dangerous, right?_
+
+**[LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8)**
+
+- [00:47:24](/episodes/ep-ChuWo-n49B8#t-00-47-24): _it's possible he made everything up i'm glad he got to that point it's definitely possible he made everything up and yeah like i said Piers (Piers Morgan), keep going because we've done a lot of work on this and he's not the only one that make maybe has false memories everything about Erika's (Erika Kirk) past you start looking into it and you're just falling through a dark hole everything she presented herself to be to Charlie (Charlie Kirk) is and you just want us to let it go it's no this is who she was bringing around_
 
 **[LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8)**
 

@@ -1,6 +1,6 @@
 ---
 title: "Dairy Queen"
-description: "Dairy Queen (Organizations) - 31 mentions"
+description: "Dairy Queen (Organizations) - 34 mentions"
 id: "org-dairy-queen"
 type: "ORG"
 aliases:
@@ -21,9 +21,9 @@ Source: [Dairy Queen — About Us](https://www.dairyqueen.com/en-us/about-us/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-dairy-queen-t-00-05-26">2025-09-18 · 00:05:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-dairy-queen-t-00-55-59">2026-07-16 · 00:55:59</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>31</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-dairy-queen-t-01-01-31">2026-08-21 · 01:01:39</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>34</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,12 +37,14 @@ Source: [Dairy Queen — About Us](https://www.dairyqueen.com/en-us/about-us/)
 <a href="/episodes/ep-sreYYcID-QY.md#ent-org-dairy-queen-t-00-05-26" style="--pulse-height:100%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 9 mentions" title="2025-09-18 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-dairy-queen-t-00-01-38" style="--pulse-height:44%" aria-label="They Are Lying About Tyler Robinson. | Candace Ep 244: 4 mentions" title="2025-09-29 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-dairy-queen-t-00-13-24" style="--pulse-height:33%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 3 mentions" title="2025-12-12 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-dairy-queen-t-00-00-45" style="--pulse-height:89%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 8 mentions" title="2026-01-06 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-dairy-queen-t-00-00-45" style="--pulse-height:78%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 7 mentions" title="2026-01-06 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-dairy-queen-t-01-07-20" style="--pulse-height:22%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-org-dairy-queen-t-00-03-22" style="--pulse-height:22%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-org-dairy-queen-t-01-19-45" style="--pulse-height:11%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-org-dairy-queen-t-00-44-32" style="--pulse-height:11%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-dairy-queen-t-00-55-59" style="--pulse-height:11%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#ent-org-dairy-queen-t-00-16-27" style="--pulse-height:33%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 3 mentions" title="2026-08-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-org-dairy-queen-t-01-01-31" style="--pulse-height:11%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,12 +53,14 @@ Source: [Dairy Queen — About Us](https://www.dairyqueen.com/en-us/about-us/)
 | 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-org-dairy-queen-t-00-05-26) | 9 |
 | 2025-09-29 | [They Are Lying About Tyler Robinson. | Candace Ep 244](/episodes/ep-ZGxnf5cj4Uw.md#ent-org-dairy-queen-t-00-01-38) | 4 |
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-org-dairy-queen-t-00-13-24) | 3 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-dairy-queen-t-00-00-45) | 8 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-dairy-queen-t-00-00-45) | 7 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-dairy-queen-t-01-07-20) | 2 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-org-dairy-queen-t-00-03-22) | 2 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-dairy-queen-t-01-19-45) | 1 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-dairy-queen-t-00-44-32) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-dairy-queen-t-00-55-59) | 1 |
+| 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-org-dairy-queen-t-00-16-27) | 3 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-dairy-queen-t-01-01-31) | 1 |
 
 </details>
 </section>
@@ -64,7 +68,29 @@ Source: [Dairy Queen — About Us](https://www.dairyqueen.com/en-us/about-us/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+<summary><strong class="section-title">Raw mentions (34)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
+
+**[01:01:39](/episodes/ep-_cNtgris8Ik.md#ent-org-dairy-queen-t-01-01-31)**
+> "...s that obviously revealed the Dairy Queen photo."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (3 mentions)</summary>
+
+**[00:17:00](/episodes/ep-5zgkrOaCCj4.md#ent-org-dairy-queen-t-00-16-27)**
+> "He's then spotted at Dairy Queen."
+
+**[00:17:09](/episodes/ep-5zgkrOaCCj4.md#ent-org-dairy-queen-t-00-17-09)**
+> "...s back to that moon after the dairy queen orders a meal because he ate right we know that h..."
+
+**[00:22:30](/episodes/ep-5zgkrOaCCj4.md#ent-org-dairy-queen-t-00-22-30)**
+> "...er or respond to him being in Dairy Queen or at the state house or leaving out all sorts of..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1 mentions)</summary>
@@ -113,7 +139,7 @@ Source: [Dairy Queen — About Us](https://www.dairyqueen.com/en-us/about-us/)
 </details>
 
 <details>
-<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (8 mentions)</summary>
+<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (7 mentions)</summary>
 
 **[00:01:10](/episodes/ep-HYn0P-P1wUw.md#ent-org-dairy-queen-t-00-00-45)**
 > "...obinson went after he went to Dairy Queen."
@@ -130,13 +156,10 @@ Source: [Dairy Queen — About Us](https://www.dairyqueen.com/en-us/about-us/)
 **[00:09:00](/episodes/ep-HYn0P-P1wUw.md#ent-org-dairy-queen-t-00-08-57)**
 > "...ghtly earlier that he went to Dairy Queen,"
 
-**[00:09:04](/episodes/ep-HYn0P-P1wUw.md#ent-org-dairy-queen-t-00-08-57)**
-> "...s throwing clothes out in the Dairy Queen,"
-
 **[00:09:48](/episodes/ep-HYn0P-P1wUw.md#ent-org-dairy-queen-t-00-09-43)**
 > "...hat photo was captured at the Dairy Queen."
 
-**[00:12:52](/episodes/ep-HYn0P-P1wUw.md#ent-org-dairy-queen-t-00-12-29)**
+**[00:12:52](/episodes/ep-HYn0P-P1wUw.md#ent-org-dairy-queen-t-00-12-52)**
 > "...hoto of Tyler Robinson at the Dairy Queen on the day of the assassination."
 
 </details>

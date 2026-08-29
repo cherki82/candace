@@ -29,7 +29,7 @@ type: "accusation"
 **Timestamp:** [00:10:43](/episodes/ep-es7PWdFGoFI.md#t-00-10-32) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(643);return false;">Play</a>
 
-> Tyler Boyer lied about this thing and said, he came up with an excuse and said, well, Terrell was asked to take the camera down. That's the reason, he said on Twitter. because the police wanted him to take it down and secure the footage. And I said, I know that's not true. And they said, well, after all of that, yeah, after he took the cameras down, there was a police officer or Fed, whoever it was that spoke to him and asked him to secure the footage.
+> And I obviously do not like the fact that I said, you know, Tyler (Tyler (Tyler Robinson)) Boyer lied about this thing and said, he came up with an excuse and said, well, Terrell was asked to take the camera down. That's the reason, he said on Twitter. because the police wanted him to take it down and secure the footage. And I said, I know that's not true. And they said, well, after all of that, yeah, after he took the cameras down, there was a police officer or Fed, whoever it was that spoke to him and asked him to secure the footage.
 
 ## Verification
 

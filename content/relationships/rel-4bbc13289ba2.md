@@ -11,7 +11,7 @@ object: "person-brigitte-macron"
 
 ## [Candace Owens](/entities/person-candace-owens) sued by [Brigitte Macron](/entities/person-brigitte-macron)
 
-### Evidence (10 mentions)
+### Evidence (11 mentions)
 
 **[From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o)**
 
@@ -20,6 +20,10 @@ object: "person-brigitte-macron"
 **[The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs)**
 
 - [00:08:30](/episodes/ep-BxN2-aeMYIs#t-00-08-30): _Brigitte Macron, who put in a lawsuit filing, I think this was totally accidental, that I was a dual citizen of the UK and America._
+
+**[BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw)**
+
+- [00:55:35](/episodes/ep-HYn0P-P1wUw#t-00-55-35): _This lawsuit that Brigitte (Brigitte Macron) has brought against me matters deeply. I am telling you guys, this lawsuit, everyone should be paying attention to every single filing pertaining to this lawsuit in Delaware._
 
 **[An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg)**
 

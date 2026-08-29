@@ -11,7 +11,7 @@ object: "org-turning-point-usa"
 
 ## [Andrew Kolvet](/entities/person-andrew-kolvet) works for [Turning Point USA](/entities/org-turning-point-usa)
 
-### Evidence (30 mentions)
+### Evidence (32 mentions)
 
 **[OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA)**
 
@@ -24,6 +24,10 @@ object: "org-turning-point-usa"
 **[Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE)**
 
 - [00:25:07](/episodes/ep-9naMwS0kMBE#t-00-25-07): _that was told to me from andrew colbet okay that's not some random conspiracy theorist uh it's the spokesperson for turning point usa_
+
+**[A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ)**
+
+- [00:04:35](/episodes/ep-AoYZel7_cGQ#t-00-04-35): _What about the ever wise and strategic spokesperson of Turning Point USA? Andrew Kolvet_
 
 **[EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0)**
 
@@ -80,6 +84,10 @@ object: "org-turning-point-usa"
 **[EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10)**
 
 - [00:29:55](/episodes/ep-a2bZf4fic10#t-00-29-55): _Andrew Kolvet, you're the spokesperson of Turning Point USA._
+
+**[Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc)**
+
+- [02:00:43](/episodes/ep-aPOyk1i2LOc#t-02-00-43): _Yeah, well, I feel like I'm answering your questions and his questions about. I mean, I'm talking about Andrew Kolb at his position as he's a spokesperson for Turning Point USA._
 
 **[Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI)**
 

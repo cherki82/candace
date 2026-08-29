@@ -1,6 +1,6 @@
 ---
 title: "The Daily Wire"
-description: "The Daily Wire (Organizations) - 256 mentions"
+description: "The Daily Wire (Organizations) - 252 mentions"
 id: "org-the-daily-wire"
 type: "ORG"
 aliases:
@@ -24,12 +24,12 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-the-daily-wire-t-00-40-44">2025-09-18 · 00:41:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-the-daily-wire-t-00-56-35">2026-07-23 · 00:56:38</a></strong></div>
-<div><span>Episodes</span><strong>57</strong></div>
-<div><span>Mentions</span><strong>256</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-the-daily-wire-t-00-43-23">2026-08-21 · 00:43:23</a></strong></div>
+<div><span>Episodes</span><strong>61</strong></div>
+<div><span>Mentions</span><strong>252</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>97</strong></div>
-<div><span>Relationships</span><strong>52</strong></div>
+<div><span>Statements about</span><strong>88</strong></div>
+<div><span>Relationships</span><strong>54</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -54,8 +54,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-the-daily-wire-t-00-36-46" style="--pulse-height:8%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 2 mentions" title="2025-12-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-the-daily-wire-t-00-05-18" style="--pulse-height:29%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 11 mentions" title="2025-12-20 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-the-daily-wire-t-00-00-00" style="--pulse-height:21%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 8 mentions" title="2026-01-05 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-the-daily-wire-t-00-43-07" style="--pulse-height:18%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 7 mentions" title="2026-01-06 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-the-daily-wire-t-00-00-45" style="--pulse-height:37%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 14 mentions" title="2026-01-07 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-the-daily-wire-t-00-43-20" style="--pulse-height:16%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 6 mentions" title="2026-01-06 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-the-daily-wire-t-00-59-47" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-org-the-daily-wire-t-00-09-30" style="--pulse-height:8%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-the-daily-wire-t-00-39-34" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
@@ -94,6 +93,11 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-the-daily-wire-t-00-58-23" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-org-the-daily-wire-t-00-02-47" style="--pulse-height:8%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-org-the-daily-wire-t-00-06-42" style="--pulse-height:13%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 5 mentions" title="2026-07-23 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-org-the-daily-wire-t-00-05-38" style="--pulse-height:8%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-org-the-daily-wire-t-00-18-23" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-the-daily-wire-t-00-44-03" style="--pulse-height:8%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 3 mentions" title="2026-08-07 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#ent-org-the-daily-wire-t-00-00-27" style="--pulse-height:13%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 5 mentions" title="2026-08-10 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-org-the-daily-wire-t-00-43-23" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -116,8 +120,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-org-the-daily-wire-t-00-36-46) | 2 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-daily-wire-t-00-05-18) | 11 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-the-daily-wire-t-00-00-00) | 8 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-the-daily-wire-t-00-43-07) | 7 |
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-org-the-daily-wire-t-00-00-45) | 14 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-the-daily-wire-t-00-43-20) | 6 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-the-daily-wire-t-00-59-47) | 3 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-the-daily-wire-t-00-09-30) | 1 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-the-daily-wire-t-00-39-34) | 1 |
@@ -156,6 +159,11 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-the-daily-wire-t-00-58-23) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-the-daily-wire-t-00-02-47) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-the-daily-wire-t-00-06-42) | 5 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-org-the-daily-wire-t-00-05-38) | 1 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-org-the-daily-wire-t-00-18-23) | 1 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-org-the-daily-wire-t-00-44-03) | 3 |
+| 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-org-the-daily-wire-t-00-00-27) | 5 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-the-daily-wire-t-00-43-23) | 1 |
 
 </details>
 </section>
@@ -163,7 +171,65 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (256)</strong></summary>
+<summary><strong class="section-title">Raw mentions (252)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
+
+**[00:43:23](/episodes/ep-_cNtgris8Ik.md#ent-org-the-daily-wire-t-00-43-23)**
+> "... back when she got fired from the daily wire yeah andrew that's now now your timeline is pushe..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (5 mentions)</summary>
+
+**[00:00:27](/episodes/ep-5zgkrOaCCj4.md#ent-org-the-daily-wire-t-00-00-27)**
+> "...sychotic it was essentially a daily wire super fan account"
+
+**[00:30:50](/episodes/ep-5zgkrOaCCj4.md#ent-org-the-daily-wire-t-00-30-36)**
+> "So I used to work at the Daily Wire, obviously didn't end well, and they had a very b..."
+
+**[00:31:08](/episodes/ep-5zgkrOaCCj4.md#ent-org-the-daily-wire-t-00-31-08)**
+> "were these people out to the Daily Wire to meet these super fans and then obviously that ..."
+
+**[00:31:32](/episodes/ep-5zgkrOaCCj4.md#ent-org-the-daily-wire-t-00-31-32)**
+> "...is and got more obsessed with the daily wire they started attacking me with uh this Britta (Br..."
+
+**[00:38:05](/episodes/ep-5zgkrOaCCj4.md#ent-org-the-daily-wire-t-00-37-44)**
+> "...t while I was doing backstage the Daily Wire."
+
+</details>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (3 mentions)</summary>
+
+**[00:44:16](/episodes/ep-d7VsbEIWkP8.md#ent-org-the-daily-wire-t-00-44-03)**
+> "Daily Wire"
+
+**[00:44:42](/episodes/ep-d7VsbEIWkP8.md#ent-org-the-daily-wire-t-00-44-42)**
+> "...ailer in the real spirit of a Daily Wire."
+
+**[00:45:01](/episodes/ep-d7VsbEIWkP8.md#ent-org-the-daily-wire-t-00-45-01)**
+> "...nniest And most kick-ass film the Daily Wire has ever released."
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:18:30](/episodes/ep-ChuWo-n49B8.md#ent-org-the-daily-wire-t-00-18-23)**
+> "they collaborate with a Daily Wire employee"
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (1 mentions)</summary>
+
+**[00:05:46](/episodes/ep-HZvwbfePe7o.md#ent-org-the-daily-wire-t-00-05-38)**
+> "I shared messages between Charlie (Charlie Kirk) and I initiated by Charlie (Charlie Kirk), wherein he tells me to stand up to the Jewish mob, that I was being intentionally targeted by them. I was. The targeting was inorganic, that he knew that the Daily Wire was behind it, that he had my back as he always did, publicly and privately. So it's not like Charlie (Charlie Kirk) was just."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (5 mentions)</summary>
@@ -878,65 +944,15 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (14 mentions)</summary>
+<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (6 mentions)</summary>
 
-**[00:00:45](/episodes/ep-zSKrxIUMNqw.md#ent-org-the-daily-wire-t-00-00-45)**
-> "...ou know, go on living against the Daily Wire after leaving a job."
-
-**[00:01:23](/episodes/ep-zSKrxIUMNqw.md#ent-org-the-daily-wire-t-00-00-45)**
-> "...ing you the true story of how the Daily Wire came to be a company."
-
-**[00:02:16](/episodes/ep-zSKrxIUMNqw.md#ent-org-the-daily-wire-t-00-02-11)**
-> "...st yesterday, that we scooped the Daily Wire's cringe new show designed quite literally with the..."
-
-**[00:02:30](/episodes/ep-zSKrxIUMNqw.md#ent-org-the-daily-wire-t-00-02-11)**
-> "Even the typical standard daily wire stan accounts had to admit that it was cringe."
-
-**[00:06:43](/episodes/ep-zSKrxIUMNqw.md#ent-org-the-daily-wire-t-00-06-43)**
-> "...ch at AmFest, a producer from The Daily Wire who has been nothing but kind to me, reached out...."
-
-**[00:14:23](/episodes/ep-zSKrxIUMNqw.md#ent-org-the-daily-wire-t-00-13-54)**
-> "...reasons that I was fired from The Daily Wire,"
-
-**[00:15:06](/episodes/ep-zSKrxIUMNqw.md#ent-org-the-daily-wire-t-00-15-06)**
-> "...e that I had done while I was the Daily Wire when I was speaking about Michael Jackson that it..."
-
-**[00:17:36](/episodes/ep-zSKrxIUMNqw.md#ent-org-the-daily-wire-t-00-17-20)**
-> "He started the Daily Wire."
-
-**[00:22:31](/episodes/ep-zSKrxIUMNqw.md#ent-org-the-daily-wire-t-00-22-03)**
-> "...how Ben (Ben Shapiro) started the Daily Wire on scandal."
-
-**[00:27:00](/episodes/ep-zSKrxIUMNqw.md#ent-org-the-daily-wire-t-00-26-53)**
-> "...ry next day, he then promotes The Daily Wire. And guess what? It worked. A bunch of people lef..."
-
-**[00:27:43](/episodes/ep-zSKrxIUMNqw.md#ent-org-the-daily-wire-t-00-27-30)**
-> "had begun quietly building Daily Wire at the end of 2015."
-
-**[00:27:48](/episodes/ep-zSKrxIUMNqw.md#ent-org-the-daily-wire-t-00-27-30)**
-> "...eople were not getting behind the daily wire"
-
-**[00:38:29](/episodes/ep-zSKrxIUMNqw.md#ent-org-the-daily-wire-t-00-38-04)**
-> "...ust signed a larger deal with the Daily Wire for years."
-
-**[00:57:00](/episodes/ep-zSKrxIUMNqw.md#ent-org-the-daily-wire-t-00-57-00)**
-> "...ally covered it when I was at The Daily Wire, and when we looked behind the company that was b..."
-
-</details>
-
-<details>
-<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (7 mentions)</summary>
-
-**[00:43:31](/episodes/ep-HYn0P-P1wUw.md#ent-org-the-daily-wire-t-00-43-07)**
+**[00:43:31](/episodes/ep-HYn0P-P1wUw.md#ent-org-the-daily-wire-t-00-43-20)**
 > "and it looked like the Daily Wire was teasing something on my channels, which they ..."
 
 **[00:43:45](/episodes/ep-HYn0P-P1wUw.md#ent-org-the-daily-wire-t-00-43-45)**
 > "...t's been in the works is that Daily Wire has been casting people for a show that's designe..."
 
-**[00:44:05](/episodes/ep-HYn0P-P1wUw.md#ent-org-the-daily-wire-t-00-43-45)**
-> "now in general, I would say the Daily Wire has been in a casting rut trying to find the new ..."
-
-**[00:45:39](/episodes/ep-HYn0P-P1wUw.md#ent-org-the-daily-wire-t-00-45-34)**
+**[00:45:39](/episodes/ep-HYn0P-P1wUw.md#ent-org-the-daily-wire-t-00-45-33)**
 > "...elodeon iCarly vibe, but it's the Daily Wire."
 
 **[00:48:19](/episodes/ep-HYn0P-P1wUw.md#ent-org-the-daily-wire-t-00-48-07)**
@@ -945,7 +961,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 **[00:51:51](/episodes/ep-HYn0P-P1wUw.md#ent-org-the-daily-wire-t-00-51-51)**
 > "... the no no no no head over to the daily wire support maddie"
 
-**[01:03:41](/episodes/ep-HYn0P-P1wUw.md#ent-org-the-daily-wire-t-01-03-41)**
+**[01:03:41](/episodes/ep-HYn0P-P1wUw.md#ent-org-the-daily-wire-t-01-03-25)**
 > "...ve limited our discussions of the Daily Wire at all on this show."
 
 </details>
@@ -953,29 +969,29 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (8 mentions)</summary>
 
-**[00:00:27](/episodes/ep-OEAHy3SsIiI.md#ent-org-the-daily-wire-t-00-00-00)**
+**[00:00:25](/episodes/ep-OEAHy3SsIiI.md#ent-org-the-daily-wire-t-00-00-00)**
 > "already messaged me regarding the Daily Wire."
 
-**[00:30:55](/episodes/ep-OEAHy3SsIiI.md#ent-org-the-daily-wire-t-00-30-26)**
+**[00:30:51](/episodes/ep-OEAHy3SsIiI.md#ent-org-the-daily-wire-t-00-30-32)**
 > "...were messaging me saying that the Daily Wire had brought back my old YouTube channel."
 
-**[00:31:02](/episodes/ep-OEAHy3SsIiI.md#ent-org-the-daily-wire-t-00-31-02)**
-> "...ailer from when I was joining the Daily Wire. And if this wasn't..."
+**[00:31:02](/episodes/ep-OEAHy3SsIiI.md#ent-org-the-daily-wire-t-00-30-32)**
+> "They had seemingly deleted it. Apparently, they just privatized it, and they brought it back. And as you can see, they premiered an old trailer from when I was joining the Daily Wire. And if this was a mistake..."
 
-**[00:32:43](/episodes/ep-OEAHy3SsIiI.md#ent-org-the-daily-wire-t-00-32-10)**
+**[00:32:39](/episodes/ep-OEAHy3SsIiI.md#ent-org-the-daily-wire-t-00-32-39)**
 > "... felt like being fired from a daily wire,"
 
-**[00:33:02](/episodes/ep-OEAHy3SsIiI.md#ent-org-the-daily-wire-t-00-32-53)**
-> "... right I was like I'm leaving daily wire in 2025 come hell or high water well"
+**[00:33:02](/episodes/ep-OEAHy3SsIiI.md#ent-org-the-daily-wire-t-00-32-39)**
+> "You know, and so, to connect this point, to build this corollary for you guys, that was how I felt. That was what I was expressing to you at the end of last year: that I was done with it, right? I was like, I'm leaving Daily Wire in 2025, come hell or high water. Well..."
 
 **[00:33:19](/episodes/ep-OEAHy3SsIiI.md#ent-org-the-daily-wire-t-00-33-19)**
-> "...she's apparently an intern at the Daily Wire and they're basically dropping like an I could an..."
+> "they want hell or high water, because it turns out the reason they're doing this, and doing it on my channel, is because they are trying to hard-launch a young woman named Madison Bransford. Okay, now she's apparently an intern at the Daily Wire, and they're basically dropping, like, an iCarly-type, Nickelodeon-feel show where she's going to make fun of me, and the show..."
 
 **[00:34:09](/episodes/ep-OEAHy3SsIiI.md#ent-org-the-daily-wire-t-00-33-44)**
-> "...n of this show so that's what the Daily Wire has in store I'm sorry to have scooped you on thi..."
+> "It's basically like they tried to find someone that's similar to Brett, but it's not at all, because it's not mature and she's just going to make fun of this show. So that's what the Daily Wire has in store. I'm sorry to have scooped you on this new brilliant idea to..."
 
-**[00:58:16](/episodes/ep-OEAHy3SsIiI.md#ent-org-the-daily-wire-t-00-58-06)**
-> "...hat to use an expression that Daily Wire apparently loves we don't know no but I think we ..."
+**[00:58:16](/episodes/ep-OEAHy3SsIiI.md#ent-org-the-daily-wire-t-00-58-16)**
+> "Can you just send me the quick—the quick video of her opening that? And I've not received that since, okay? So that was, you know, a while ago. I followed up about four times. I still have not received that. So I cannot confirm that conversation took place between her and Charlie (Charlie Kirk). I'm interested in confirming it. I'm interested in confirming it because I feel like something—something's there. I just sense, you know what, to use an expression that Daily Wire apparently loves: we don't know, no, but I think we know."
 
 </details>
 
@@ -1221,33 +1237,19 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Accused By (1)</summary>
-
-- **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:00:45](/episodes/ep-zSKrxIUMNqw.md#t-00-00-00): “two entire years of my life that I have been effectively fighting just to, you know, go on living against the Daily Wire after leaving a job.”
-
-</details>
-
-</details>
-
-<details>
 <summary>Critic Of (2)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:43:45](/episodes/ep-HYn0P-P1wUw.md#t-00-43-07): “Daily Wire has been casting people for a show that's designed specifically to make fun of me and also Tucker Carlson.”
-- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:02:16](/episodes/ep-zSKrxIUMNqw.md#t-00-02-11): “the Daily Wire's cringe new show designed quite literally with the intention to mock me and Tucker Carlson.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:43:45](/episodes/ep-HYn0P-P1wUw.md#t-00-43-20): “Daily Wire has been casting people for a show that's designed specifically to make fun of me and also Tucker Carlson.”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:43:45](/episodes/ep-HYn0P-P1wUw.md#t-00-43-07): “Daily Wire has been casting people for a show that's designed specifically to make fun of me and also Tucker Carlson.”
-- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:11:07](/episodes/ep-zSKrxIUMNqw.md#t-00-11-07): “The entire show was supposed to be designed as an attack against me.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:43:45](/episodes/ep-HYn0P-P1wUw.md#t-00-43-20): “Daily Wire has been casting people for a show that's designed specifically to make fun of me and also Tucker Carlson.”
 - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:40:15](/episodes/ep-BKcOm32ZEGk.md#t-00-40-15): “They have dropped another video...using my face to attack me in a really strange way”
 
 </details>
@@ -1267,7 +1269,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
-<summary>Employs (5)</summary>
+<summary>Employs (6)</summary>
 
 - **[Josh Hammer](/entities/person-josh-hammer.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1294,14 +1296,21 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:42:04](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49): “I know that he does the morning wire at Daily Wire”
-- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:04:38](/episodes/ep-eLgD5yUVbko.md#t-00-04-21): “Erica's ex-boyfriend, one of the many current Daily Wire employee who was featured on my podcast when Mitch gave a description of a guy that he believed that he saw with Erica at Fort Wachuka back in September.”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:04:38](/episodes/ep-eLgD5yUVbko.md#t-00-04-21): “Erika's ex-boyfriend, one of the many current Daily Wire employee who was featured on my podcast when Mitch gave a description of a guy that he believed that he saw with Erika at Fort Huachuca back in September.”
 
 </details>
 
 - **[Madison Bransford](/entities/person-madison-bransford.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:33:19](/episodes/ep-OEAHy3SsIiI.md#t-00-32-53): “they are trying to hard launch a young woman named Madison Bransford okay now she's apparently an intern at the Daily Wire”
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:33:19](/episodes/ep-OEAHy3SsIiI.md#t-00-32-39): “they are trying to hard-launch a young woman named Madison Bransford. Okay, now she's apparently an intern at the Daily Wire”
+
+</details>
+
+- **[Kassy Akiva](/entities/person-kassy-akiva.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:18:30](/episodes/ep-ChuWo-n49B8.md#t-00-18-23): “In the past, before Charlie (Charlie Kirk) was assassinated, that this person hosted a spaces on X and went on record admitting that they gather intel, they collaborate with the Green Berets, they collaborate with a Daily Wire employee, Cassie Akiva, the Gaza Humanitarian Fund then run by Johnny Moore to create files on people for the purpose of doing Israel's PR bidding.”
 
 </details>
 
@@ -1311,11 +1320,10 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <summary>Fired (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:41:09](/episodes/ep-sreYYcID-QY.md#t-00-40-44): “I get fired from The Daily Wire.”
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:40:47](/episodes/ep-ja26iltROkM.md#t-00-40-37): “I was happy to be canceled from anything to say what I felt in my heart to be true”
-- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:14:15](/episodes/ep-zSKrxIUMNqw.md#t-00-13-54): “publicly expressed that genocide is always wrong was revealed by Jeremy Boreing in that town hall as a reason why I was fired.”
 - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:41:58](/episodes/ep-BKcOm32ZEGk.md#t-00-41-36): “It's just been going on for two years... Like I just am not allowed to be fired from that company.”
 - [Myron Gaines x Candace Owens @ 00:27:51](/episodes/ep-2T39-oADLj0.md#t-00-27-50): “I was fired in March of 2024 and I obviously was very surprised about it. I did not know it was coming.”
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:43:16](/episodes/ep-QdM9jLwjwLw.md#t-00-43-16): “one of the reasons I got fired is I said we should look into the history of pornography.”
@@ -1350,13 +1358,11 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <summary>Formerly Employed (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (20)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (19)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:22](/episodes/ep-ja26iltROkM.md#t-00-31-57): “at the time I was at The Daily Wire...And then eventually—obviously—I lost my job”
 - [Myron Gaines x Candace Owens @ 00:27:51](/episodes/ep-2T39-oADLj0.md#t-00-27-50): “I was fired in March of 2024 and I obviously was very surprised about it. I did not know it was coming.”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:00:37](/episodes/ep-OEAHy3SsIiI.md#t-00-00-00): “from when I used to work with them. It's very confusing, but I have the answer for why it happened.”
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:55](/episodes/ep-HYn0P-P1wUw.md#t-00-48-47): “Nothing that has happened since I have left that company is normal.”
-- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:00:45](/episodes/ep-zSKrxIUMNqw.md#t-00-00-00): “two entire years of my life that I have been effectively fighting just to, you know, go on living against the Daily Wire after leaving a job.”
 - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:41:58](/episodes/ep-BKcOm32ZEGk.md#t-00-41-36): “It's just been going on for two years... Like I just am not allowed to be fired from that company.”
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:29:29](/episodes/ep-9naMwS0kMBE.md#t-00-29-29): “I worked at Daily Wire”
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:38:56](/episodes/ep-QdM9jLwjwLw.md#t-00-38-56): “When Candace (Candace Owens) works for you, ... do you sometimes look back at the decision and think that wasn't a good one when she was working at the wire?”
@@ -1372,6 +1378,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:44:02](/episodes/ep-sKuYLNx3iRo.md#t-00-43-58): “They weren't going to do Jordan Peterson. So they got rid of me in a rather glorious public firing, which Jeremy (Jeremy Boreing) was hoping would lead to more subs”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:02:59](/episodes/ep-ds6umq1rHAw.md#t-00-02-47): “one of the reasons among many that I was fired from the Daily Wire”
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:10:09](/episodes/ep-amqTMimDr0A.md#t-00-10-09): “Shockingly, just to be clear, I was working for Ben Shapiro, who's a part owner of Daily Wire for that company when this was going down.”
+- [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 @ 00:30:50](/episodes/ep-5zgkrOaCCj4.md#t-00-30-36): “So I used to work at the Daily Wire, obviously didn't end well, and they had a very bizarre superfan community, meaning like it was just kind of weird that anybody would dedicate this much time to podcasters, and it turned out that the then CEO flew.”
 
 </details>
 
@@ -1379,7 +1386,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:00:37](/episodes/ep-QdM9jLwjwLw.md#t-00-00-00): “And speaking of different ways to grieve, the now former CEO of Daily Wire, ... Jeremy Boreing, is back trying to make a comeback to proclaim his name in the press after he ran the company into the ground.”
-- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:18:22](/episodes/ep-eLgD5yUVbko.md#t-00-17-43): “coincidences adding up here okay first and foremost i have told you i have proven to you many times over that charlie hated ben everybody knows that uh even jeremy boring when he won his like candace tour uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on pierce morgan that's the former ceo of daily wire erica knew this andrew colvet knew this and as i've said to you after i was fired from a daily wire And yet beginning of 2024,”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:18:22](/episodes/ep-eLgD5yUVbko.md#t-00-18-22): “coincidences adding up here okay first and foremost i have told you i have proven to you many times over that charlie hated ben everybody knows that uh even Jeremy Boreing when he won his like candace tour uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on pierce morgan that's the former ceo of daily wire erica knew this andrew colvet knew this and as i've said to you after i was fired from a daily wire And yet beginning of 2024,”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:00:01](/episodes/ep-k1b1NDCrNFs.md#t-00-00-01): “All right, you guys, happy Wednesday. What do I have for you today? A lot. Hook, line and sinker. Jeremy Boreing, former CEO of Daily Wire, goes on the offense against my husband.”
 
 </details>
@@ -1404,10 +1411,9 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <summary>Founded By (2)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:01:35](/episodes/ep-w1oqQbR_bYs.md#t-00-01-18): “Ben would say management fired me... He wanted to make sure my reputation and livelihood was also destroyed”
-- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:22:03](/episodes/ep-zSKrxIUMNqw.md#t-00-22-03): “And a chief shared with us the true story of how Ben (Ben Shapiro) started the Daily Wire on scandal.”
 
 </details>
 
@@ -1459,6 +1465,18 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
+<summary>Has Former Ceo (1)</summary>
+
+- **[Jeremy Boreing](/entities/person-jeremy-boreing.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:18:22](/episodes/ep-eLgD5yUVbko.md#t-00-18-22): “coincidences adding up here okay first and foremost i have told you i have proven to you many times over that charlie hated ben everybody knows that uh even Jeremy Boreing when he won his like candace tour uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on pierce morgan that's the former ceo of daily wire erica knew this andrew colvet knew this and as i've said to you after i was fired from a daily wire And yet beginning of 2024,”
+
+</details>
+
+</details>
+
+<details>
 <summary>Operates (1)</summary>
 
 - **[Crain & Company](/entities/work-crain-and-company.md)**
@@ -1500,12 +1518,11 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <summary>Target Of Criticism From (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:19](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “wanted to show you that because the Daily Wire continues to exhibit stalker vibes”
-- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:13:00](/episodes/ep-zSKrxIUMNqw.md#t-00-12-30): “This was such a slimy act by a former employer.”
 - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:40:10](/episodes/ep-BKcOm32ZEGk.md#t-00-39-34): “this brings me to Daily Wire...they're unhinged”
-- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:23:59](/episodes/ep-eLgD5yUVbko.md#t-00-23-45): “But there is one that I think the public is becoming aware of. I'm also saying it because I have been often said to you that this organization like the Daily Wire. wire has in my view and my understanding of what gang stalking is has been doing this since the day they fired me it has not stopped it's been an onslaught of my life every way trying to stop speeches trying to get people to say things about me having articles written uh you know trying to have other people reach out and go after my advertisers it has been non i was fired from daily wire in 2020 we're in 2020 26 it has been over two years and you're telling me they stopped personally suing me to get involved with lines defending freedom and to encourage other people to sue me as these people are telling me there”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:23:52](/episodes/ep-eLgD5yUVbko.md#t-00-23-45): “But there is one that I think the public is becoming aware of. I'm also saying it because I have been often said to you that this organization like the Daily Wire. wire has in my view and my understanding of what gang stalking is has been doing this since the day they fired me it has not stopped it's been an onslaught of my life every way trying to stop speeches trying to get people to say things about me having articles written uh you know trying to have other people reach out and go after my advertisers it has been non i was fired from daily wire in 2020 we're in 2020 26 it has been over two years and you're telling me they stopped personally suing me to get involved with Alliance Defending Freedom and to encourage other people to sue me as these people are telling me there”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:27:26](/episodes/ep-uC_GjKU8rs8.md#t-00-27-26): “People see the Daily Wire and they see Ben (Ben Shapiro) and they don't want to support that. They don't want to support someone who tells them that they're evil and stupid and wrong for listening and supporting Theo Vaughn.”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:00:24](/episodes/ep-k1b1NDCrNFs.md#t-00-00-01): “I guess you can just toss another coin in the "I told you so" swear jar. Daily Wire operates like a deranged cult, and they will never stop trying to destroy my life. We're going to speak about that.”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:01:40](/episodes/ep-sKuYLNx3iRo.md#t-00-01-22): “And speaking of miniature, Ben Shapiro's Daily Wire is still crashing and burning financially.”
@@ -1527,7 +1544,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
-<summary>Referenced By (26)</summary>
+<summary>Referenced By (27)</summary>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)** CEO of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1543,13 +1560,6 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 
 </details>
 
-- **[Candace Owens](/entities/person-candace-owens.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:00:45](/episodes/ep-zSKrxIUMNqw.md#t-00-00-00): “two entire years of my life that I have been effectively fighting just to, you know, go on living against the Daily Wire after leaving a job.”
-
-</details>
-
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -1558,12 +1568,11 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** critic of this
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:19](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “wanted to show you that because the Daily Wire continues to exhibit stalker vibes”
-- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:13:00](/episodes/ep-zSKrxIUMNqw.md#t-00-12-30): “This was such a slimy act by a former employer.”
 - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:40:10](/episodes/ep-BKcOm32ZEGk.md#t-00-39-34): “this brings me to Daily Wire...they're unhinged”
-- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:23:59](/episodes/ep-eLgD5yUVbko.md#t-00-23-45): “But there is one that I think the public is becoming aware of. I'm also saying it because I have been often said to you that this organization like the Daily Wire. wire has in my view and my understanding of what gang stalking is has been doing this since the day they fired me it has not stopped it's been an onslaught of my life every way trying to stop speeches trying to get people to say things about me having articles written uh you know trying to have other people reach out and go after my advertisers it has been non i was fired from daily wire in 2020 we're in 2020 26 it has been over two years and you're telling me they stopped personally suing me to get involved with lines defending freedom and to encourage other people to sue me as these people are telling me there”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:23:52](/episodes/ep-eLgD5yUVbko.md#t-00-23-45): “But there is one that I think the public is becoming aware of. I'm also saying it because I have been often said to you that this organization like the Daily Wire. wire has in my view and my understanding of what gang stalking is has been doing this since the day they fired me it has not stopped it's been an onslaught of my life every way trying to stop speeches trying to get people to say things about me having articles written uh you know trying to have other people reach out and go after my advertisers it has been non i was fired from daily wire in 2020 we're in 2020 26 it has been over two years and you're telling me they stopped personally suing me to get involved with Alliance Defending Freedom and to encourage other people to sue me as these people are telling me there”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:27:26](/episodes/ep-uC_GjKU8rs8.md#t-00-27-26): “People see the Daily Wire and they see Ben (Ben Shapiro) and they don't want to support that. They don't want to support someone who tells them that they're evil and stupid and wrong for listening and supporting Theo Vaughn.”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:00:24](/episodes/ep-k1b1NDCrNFs.md#t-00-00-01): “I guess you can just toss another coin in the "I told you so" swear jar. Daily Wire operates like a deranged cult, and they will never stop trying to destroy my life. We're going to speak about that.”
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:01:40](/episodes/ep-sKuYLNx3iRo.md#t-00-01-22): “And speaking of miniature, Ben Shapiro's Daily Wire is still crashing and burning financially.”
@@ -1585,10 +1594,9 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** fired by this
-<details class="relationship-evidence"><summary>Show all evidence (15)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
 
 - [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238 @ 00:41:09](/episodes/ep-sreYYcID-QY.md#t-00-40-44): “I get fired from The Daily Wire.”
-- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:14:15](/episodes/ep-zSKrxIUMNqw.md#t-00-13-54): “publicly expressed that genocide is always wrong was revealed by Jeremy Boreing in that town hall as a reason why I was fired.”
 - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:41:58](/episodes/ep-BKcOm32ZEGk.md#t-00-41-36): “It's just been going on for two years... Like I just am not allowed to be fired from that company.”
 - [Myron Gaines x Candace Owens @ 00:27:51](/episodes/ep-2T39-oADLj0.md#t-00-27-50): “I was fired in March of 2024 and I obviously was very surprised about it. I did not know it was coming.”
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:43:16](/episodes/ep-QdM9jLwjwLw.md#t-00-43-16): “one of the reasons I got fired is I said we should look into the history of pornography.”
@@ -1605,8 +1613,15 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 
 </details>
 
+- **[Jeremy Boreing](/entities/person-jeremy-boreing.md)** former CEO of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:18:22](/episodes/ep-eLgD5yUVbko.md#t-00-18-22): “coincidences adding up here okay first and foremost i have told you i have proven to you many times over that charlie hated ben everybody knows that uh even Jeremy Boreing when he won his like candace tour uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on pierce morgan that's the former ceo of daily wire erica knew this andrew colvet knew this and as i've said to you after i was fired from a daily wire And yet beginning of 2024,”
+
+</details>
+
 - **[Candace Owens](/entities/person-candace-owens.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (26)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (25)</summary>
 
 - [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:32:22](/episodes/ep-ja26iltROkM.md#t-00-31-57): “at the time I was at The Daily Wire...And then eventually—obviously—I lost my job”
 - [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 @ 00:47:51](/episodes/ep-adJ4LNGp84I.md#t-00-47-25): “I used to read ads for them, ExpressVPN, when I was working for Daily Wire.”
@@ -1617,8 +1632,6 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:01:35](/episodes/ep-w1oqQbR_bYs.md#t-00-01-18): “In 2024, Ben fired me in March”
 - [Myron Gaines x Candace Owens @ 00:27:51](/episodes/ep-2T39-oADLj0.md#t-00-27-50): “I was fired in March of 2024 and I obviously was very surprised about it. I did not know it was coming.”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:00:37](/episodes/ep-OEAHy3SsIiI.md#t-00-00-00): “from when I used to work with them. It's very confusing, but I have the answer for why it happened.”
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:55](/episodes/ep-HYn0P-P1wUw.md#t-00-48-47): “Nothing that has happened since I have left that company is normal.”
-- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:00:45](/episodes/ep-zSKrxIUMNqw.md#t-00-00-00): “two entire years of my life that I have been effectively fighting just to, you know, go on living against the Daily Wire after leaving a job.”
 - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:41:58](/episodes/ep-BKcOm32ZEGk.md#t-00-41-36): “It's just been going on for two years... Like I just am not allowed to be fired from that company.”
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:29:29](/episodes/ep-9naMwS0kMBE.md#t-00-29-29): “I worked at Daily Wire”
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:38:56](/episodes/ep-QdM9jLwjwLw.md#t-00-38-56): “When Candace (Candace Owens) works for you, ... do you sometimes look back at the decision and think that wasn't a good one when she was working at the wire?”
@@ -1634,6 +1647,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 - [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 @ 00:44:02](/episodes/ep-sKuYLNx3iRo.md#t-00-43-58): “They weren't going to do Jordan Peterson. So they got rid of me in a rather glorious public firing, which Jeremy (Jeremy Boreing) was hoping would lead to more subs”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:02:59](/episodes/ep-ds6umq1rHAw.md#t-00-02-47): “one of the reasons among many that I was fired from the Daily Wire”
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:10:09](/episodes/ep-amqTMimDr0A.md#t-00-10-09): “Shockingly, just to be clear, I was working for Ben Shapiro, who's a part owner of Daily Wire for that company when this was going down.”
+- [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 @ 00:30:50](/episodes/ep-5zgkrOaCCj4.md#t-00-30-36): “So I used to work at the Daily Wire, obviously didn't end well, and they had a very bizarre superfan community, meaning like it was just kind of weird that anybody would dedicate this much time to podcasters, and it turned out that the then CEO flew.”
 
 </details>
 
@@ -1641,7 +1655,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:00:37](/episodes/ep-QdM9jLwjwLw.md#t-00-00-00): “And speaking of different ways to grieve, the now former CEO of Daily Wire, ... Jeremy Boreing, is back trying to make a comeback to proclaim his name in the press after he ran the company into the ground.”
-- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:18:22](/episodes/ep-eLgD5yUVbko.md#t-00-17-43): “coincidences adding up here okay first and foremost i have told you i have proven to you many times over that charlie hated ben everybody knows that uh even jeremy boring when he won his like candace tour uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on pierce morgan that's the former ceo of daily wire erica knew this andrew colvet knew this and as i've said to you after i was fired from a daily wire And yet beginning of 2024,”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:18:22](/episodes/ep-eLgD5yUVbko.md#t-00-18-22): “coincidences adding up here okay first and foremost i have told you i have proven to you many times over that charlie hated ben everybody knows that uh even Jeremy Boreing when he won his like candace tour uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on pierce morgan that's the former ceo of daily wire erica knew this andrew colvet knew this and as i've said to you after i was fired from a daily wire And yet beginning of 2024,”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:00:01](/episodes/ep-k1b1NDCrNFs.md#t-00-00-01): “All right, you guys, happy Wednesday. What do I have for you today? A lot. Hook, line and sinker. Jeremy Boreing, former CEO of Daily Wire, goes on the offense against my husband.”
 
 </details>
@@ -1661,10 +1675,9 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** founded this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:01:35](/episodes/ep-w1oqQbR_bYs.md#t-00-01-18): “Ben would say management fired me... He wanted to make sure my reputation and livelihood was also destroyed”
-- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:22:03](/episodes/ep-zSKrxIUMNqw.md#t-00-22-03): “And a chief shared with us the true story of how Ben (Ben Shapiro) started the Daily Wire on scandal.”
 
 </details>
 
@@ -1713,18 +1726,16 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** target of criticism from this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:43:45](/episodes/ep-HYn0P-P1wUw.md#t-00-43-07): “Daily Wire has been casting people for a show that's designed specifically to make fun of me and also Tucker Carlson.”
-- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:02:16](/episodes/ep-zSKrxIUMNqw.md#t-00-02-11): “the Daily Wire's cringe new show designed quite literally with the intention to mock me and Tucker Carlson.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:43:45](/episodes/ep-HYn0P-P1wUw.md#t-00-43-20): “Daily Wire has been casting people for a show that's designed specifically to make fun of me and also Tucker Carlson.”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** target of criticism from this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:43:45](/episodes/ep-HYn0P-P1wUw.md#t-00-43-07): “Daily Wire has been casting people for a show that's designed specifically to make fun of me and also Tucker Carlson.”
-- [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:11:07](/episodes/ep-zSKrxIUMNqw.md#t-00-11-07): “The entire show was supposed to be designed as an attack against me.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:43:45](/episodes/ep-HYn0P-P1wUw.md#t-00-43-20): “Daily Wire has been casting people for a show that's designed specifically to make fun of me and also Tucker Carlson.”
 - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:40:15](/episodes/ep-BKcOm32ZEGk.md#t-00-40-15): “They have dropped another video...using my face to attack me in a really strange way”
 
 </details>
@@ -1754,15 +1765,22 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:42:04](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49): “I know that he does the morning wire at Daily Wire”
-- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:04:38](/episodes/ep-eLgD5yUVbko.md#t-00-04-21): “Erica's ex-boyfriend, one of the many current Daily Wire employee who was featured on my podcast when Mitch gave a description of a guy that he believed that he saw with Erica at Fort Wachuka back in September.”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:04:38](/episodes/ep-eLgD5yUVbko.md#t-00-04-21): “Erika's ex-boyfriend, one of the many current Daily Wire employee who was featured on my podcast when Mitch gave a description of a guy that he believed that he saw with Erika at Fort Huachuca back in September.”
 
 </details>
 
 - **[Madison Bransford](/entities/person-madison-bransford.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:33:19](/episodes/ep-OEAHy3SsIiI.md#t-00-32-53): “they are trying to hard launch a young woman named Madison Bransford okay now she's apparently an intern at the Daily Wire”
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:45:24](/episodes/ep-HYn0P-P1wUw.md#t-00-44-50): “Maddie (Madison Bransford) was then landed upon and they decided because we're really going to stick it to Candace (Candace Owens), we're going to have her name the show in the no-no.”
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:33:19](/episodes/ep-OEAHy3SsIiI.md#t-00-32-39): “they are trying to hard-launch a young woman named Madison Bransford. Okay, now she's apparently an intern at the Daily Wire”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:44:50](/episodes/ep-HYn0P-P1wUw.md#t-00-44-50): “from a country that's mass murdering innocent children like you can't sit with us never occurs with them that we just don't want to sit with them that's kind of the whole point of what we're doing anyway before Maddie (Madison Bransford) they apparently tried out other people for this role they had considered a show putting together a show that would make fun of me and Tucker Carlson they tossed around three other people they even considered doing a combination show with The person who had played the bailiff on Matt Walsh's judged and that didn't end up, that didn't wind up panning out now. Maddie (Madison Bransford) was then landed upon and they decided because we're really going to stick it to Candace (Candace Owens), we're going to have her name the show in the no-no. Haha, get it? Get it says we don't know what we know. Ben (Ben Shapiro)'s on stage saying that expression is retarded. And now we're just going to bring this show to life and give it sort of a Nickelodeon iCarly vibe, but it's the Daily Wire.”
+
+</details>
+
+- **[Kassy Akiva](/entities/person-kassy-akiva.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:18:30](/episodes/ep-ChuWo-n49B8.md#t-00-18-23): “In the past, before Charlie (Charlie Kirk) was assassinated, that this person hosted a spaces on X and went on record admitting that they gather intel, they collaborate with the Green Berets, they collaborate with a Daily Wire employee, Cassie Akiva, the Gaza Humanitarian Fund then run by Johnny Moore to create files on people for the purpose of doing Israel's PR bidding.”
 
 </details>
 
@@ -1792,7 +1810,23 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The Daily Wire (97)</strong></summary>
+<summary><strong class="section-title">Statements about The Daily Wire (88)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
+
+- [00:18:30](/episodes/ep-ChuWo-n49B8.md#t-00-18-23) (Accusation) **Candace Owens** (via paraphrase): ["Owens said the unidentified organizer had publicly admitted gathering ..."](/statements/statement-ca11c64e2e7c.md)
+  - Also about: [United States Army Special Forces](/entities/org-us-army-special-forces.md), [Kassy Akiva](/entities/person-kassy-akiva.md), [Gaza Humanitarian Foundation](/entities/org-gaza-humanitarian-foundation.md)
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (1)</summary>
+
+- [00:05:46](/episodes/ep-HZvwbfePe7o.md#t-00-05-38) (Claim) **Candace Owens** (via paraphrase): ["Owens said messages from Charlie Kirk told her to stand up to what he ..."](/statements/statement-39a7259de72f.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (4)</summary>
@@ -1981,10 +2015,13 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
-<summary>Candace x Bassem Youssef | Candace Ep 298 (3)</summary>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (4)</summary>
 
 - [00:02:52](/episodes/ep-xjzb_t5Tk9o.md#t-00-02-28) (Accusation) **Candace Owens**: ["The Daily Wire refused to host Bassem Youssef because he had hurt Ben ..."](/statements/statement-07991641f9f1.md)
   - Also about: [Bassem Youssef](/entities/person-bassem-youssef.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
+
+- [00:04:46](/episodes/ep-xjzb_t5Tk9o.md#t-00-04-20) (Accusation) **Candace Owens**: ["Jeremy Boreing publicly identified Owens's views that genocide is alwa..."](/statements/statement-22bf3ad02120.md)
+  - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md), [Genocide](/entities/concept-genocide.md)
 
 - [00:10:07](/episodes/ep-xjzb_t5Tk9o.md#t-00-10-07) (Accusation) **Candace Owens**: ["The Daily Wire sued Candace Owens for letting USS Liberty survivor Phi..."](/statements/statement-2bff31e56fad.md)
   - Also about: [Phillip F. Tourney](/entities/person-phillip-f-tourney.md), [USS Liberty](/entities/vehicle-uss-liberty.md), [Candace Owens](/entities/person-candace-owens.md)
@@ -2063,53 +2100,9 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (13)</summary>
-
-- [00:00:45](/episodes/ep-zSKrxIUMNqw.md#t-00-00-00) (Accusation) **Candace Owens**: ["The Daily Wire has spent two years fighting Candace Owens after she le..."](/statements/statement-8f269b375d35.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md)
-
-- [00:02:16](/episodes/ep-zSKrxIUMNqw.md#t-00-02-11) (Accusation) **Candace Owens**: ["The Daily Wire designed a new show specifically to mock Candace Owens ..."](/statements/statement-8d537c2f578a.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [The More You No-No](/entities/work-the-more-you-no-no.md)
-
-- [00:06:43](/episodes/ep-zSKrxIUMNqw.md#t-00-06-11) (Claim) **Maggie Wegner** (via read message): ["A Daily Wire producer contacted Maggie Wegner about auditioning for a ..."](/statements/statement-2343c09ee5ca.md)
-  - Also about: [Maggie Wegner](/entities/person-maggie-wegner.md), [Anonymous Source #2 (Ep zSKrxIUMNqw)](/entities/anon-src-zSKrxIUMNqw-002.md), [Ben Shapiro](/entities/person-ben-shapiro.md)
-
-- [00:07:19](/episodes/ep-zSKrxIUMNqw.md#t-00-06-43) (Claim) **Maggie Wegner** (via read message): ["The proposed show was presented as comedy about both political sides, ..."](/statements/statement-52323bcfd490.md)
-  - Also about: [Maggie Wegner](/entities/person-maggie-wegner.md), [Candace Owens](/entities/person-candace-owens.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
-
-- [00:08:26](/episodes/ep-zSKrxIUMNqw.md#t-00-08-12) (Claim) **Maggie Wegner** (via read message): ["Maggie Wegner declined to submit the audition because it felt untrue a..."](/statements/statement-c4a08b48a105.md)
-  - Also about: [Maggie Wegner](/entities/person-maggie-wegner.md)
-
-- [00:12:24](/episodes/ep-zSKrxIUMNqw.md#t-00-11-46) (Claim) **Candace Owens**: ["Maggie Wegner did not receive the Daily Wire role after declining to m..."](/statements/statement-564a2d8e110c.md)
-  - Also about: [Maggie Wegner](/entities/person-maggie-wegner.md)
-
-- [00:14:33](/episodes/ep-zSKrxIUMNqw.md#t-00-13-54) (Accusation) **Candace Owens**: ["Jeremy Boreing publicly identified Owens's views that genocide is alwa..."](/statements/statement-22bf3ad02120.md)
-  - Also about: [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Candace Owens](/entities/person-candace-owens.md), [Genocide](/entities/concept-genocide.md)
-
-- [00:22:31](/episodes/ep-zSKrxIUMNqw.md#t-00-22-03) (Accusation) **Anonymous Source #3 (Ep zSKrxIUMNqw)** (via paraphrase): ["A Breitbart executive told Candace Owens and Charlie Kirk that Ben Sha..."](/statements/statement-c6e9c9f99b51.md)
-  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Breitbart News](/entities/org-breitbart-news.md), [Candace Owens](/entities/person-candace-owens.md)
-
-- [00:27:30](/episodes/ep-zSKrxIUMNqw.md#t-00-26-53) (Claim) **Candace Owens**: ["The Daily Wire was being built quietly by the end of 2015 but lacked t..."](/statements/statement-bf654a3ba7de.md)
-  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Breitbart News](/entities/org-breitbart-news.md)
-
-- [00:28:02](/episodes/ep-zSKrxIUMNqw.md#t-00-27-30) (Accusation) **Candace Owens**: ["Ben Shapiro and Jamie Weinstein manufactured the Michelle Fields scand..."](/statements/statement-55139d451989.md)
-  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Jamie Weinstein](/entities/person-jamie-weinstein.md), [Michelle Fields](/entities/person-michelle-fields.md)
-
-- [00:31:43](/episodes/ep-zSKrxIUMNqw.md#t-00-31-09) (Accusation) **Candace Owens**: ["The Daily Wire pursued Candace Owens through litigation, donor pressur..."](/statements/statement-a5535fb1488b.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md)
-
-- [00:39:34](/episodes/ep-zSKrxIUMNqw.md#t-00-39-32) (Accusation) **Candace Owens**: ["The Daily Wire threatened to reduce Candace Owens's contract unless sh..."](/statements/statement-ced70ad0f846.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Kanye West](/entities/person-kanye-west.md), [Jeremy Boreing](/entities/person-jeremy-boreing.md)
-
-- [00:57:00](/episodes/ep-zSKrxIUMNqw.md#t-00-57-00) (Accusation) **Candace Owens**: ["Candace Owens said she believed chicken feed had been poisoned, questi..."](/statements/statement-2eca0af8616c.md)
-  - Also about: [Perdue Farms](/entities/org-perdue-farms.md), [Pharmaceutical industry](/entities/concept-pharmaceutical-industry.md)
-
-</details>
-
-<details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (3)</summary>
 
-- [00:43:45](/episodes/ep-HYn0P-P1wUw.md#t-00-43-07) (Accusation) **Candace Owens**: ["The Daily Wire had been casting presenters for a show designed specifi..."](/statements/statement-c256dab684fa.md)
+- [00:43:45](/episodes/ep-HYn0P-P1wUw.md#t-00-43-20) (Accusation) **Candace Owens**: ["The Daily Wire had been casting presenters for a show designed specifi..."](/statements/statement-c256dab684fa.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
 
 - [00:45:24](/episodes/ep-HYn0P-P1wUw.md#t-00-44-50) (Accusation) **Candace Owens**: ["The Daily Wire selected Madison Bransford to host a show called In the..."](/statements/statement-7a95cf8eb79f.md)
@@ -2121,10 +2114,13 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
-<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1)</summary>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (2)</summary>
 
 - [00:00:30](/episodes/ep-OEAHy3SsIiI.md#t-00-00-00) (Claim) **Candace Owens**: ["The Daily Wire seemingly reactivated Candace Owens's old social-media ..."](/statements/statement-5e8c87aa2eec.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:33:19](/episodes/ep-OEAHy3SsIiI.md#t-00-32-39) (Claim) **Candace Owens**: ["Candace Owens said The Daily Wire was trying to launch a show titled '..."](/statements/statement-fc3bddc16a7c.md)
+  - Also about: [Madison Bransford](/entities/person-madison-bransford.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
 
@@ -2180,7 +2176,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 - [00:13:50](/episodes/ep-r1PS67aRmcA.md#t-00-13-35) (Opinion) **Jeremy Boreing** (via quoted article): ["I would be absolutely thrilled to have Ben speak to Nick, or anyone on..."](/statements/statement-65dbbedda71f.md)
   - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Nick Fuentes](/entities/person-nick-fuentes.md)
 
-- [00:25:18](/episodes/ep-r1PS67aRmcA.md#t-00-25-16) (Claim) **Candace Owens**: ["I spoke at TPUSA’s 2024 Young Women’s Leadership Summit on June 7, abo..."](/statements/statement-88c57051e040.md)
+- [00:25:18](/episodes/ep-r1PS67aRmcA.md#t-00-25-16) (Claim) **Candace Owens**: ["Candace Owens said she spoke at TPUSA's 2024 Young Women's Leadership ..."](/statements/statement-88c57051e040.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>

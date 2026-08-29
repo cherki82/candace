@@ -78,7 +78,7 @@ Source: [JD, Businessman, Doctor? | BYU ScholarsArchive](https://scholarsarchive
 - **[Central Intelligence Agency](/entities/org-central-intelligence-agency.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:27:41](/episodes/ep-rupRLXmSndU.md#t-00-27-04): “Yes, Michael Sean Covey. That is correct. Sorry, Michael, to put you on blast, but yeah, he contracts with the CIA.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:27:41](/episodes/ep-rupRLXmSndU.md#t-00-27-04): “Yes, Michael Sean Covey. That is correct. Sorry, Michael (Michael Sean Covey), to put you on blast, but yeah, he contracts with the CIA. It's very interesting.”
 
 </details>
 
@@ -90,7 +90,7 @@ Source: [JD, Businessman, Doctor? | BYU ScholarsArchive](https://scholarsarchive
 - **[Central Intelligence Agency](/entities/org-central-intelligence-agency.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:27:41](/episodes/ep-rupRLXmSndU.md#t-00-27-04): “Yes, Michael Sean Covey. That is correct. Sorry, Michael, to put you on blast, but yeah, he contracts with the CIA.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:27:41](/episodes/ep-rupRLXmSndU.md#t-00-27-04): “Yes, Michael Sean Covey. That is correct. Sorry, Michael (Michael Sean Covey), to put you on blast, but yeah, he contracts with the CIA. It's very interesting.”
 
 </details>
 

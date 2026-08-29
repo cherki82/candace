@@ -1,6 +1,6 @@
 ---
 title: "American Financing"
-description: "American Financing (Organizations) - 446 mentions"
+description: "American Financing (Organizations) - 506 mentions"
 id: "org-american-financing"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-american-financing-t-00-56-30">2025-09-15 · 00:56:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-american-financing-t-00-48-55">2026-07-23 · 00:49:23</a></strong></div>
-<div><span>Episodes</span><strong>107</strong></div>
-<div><span>Mentions</span><strong>446</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-american-financing-t-00-57-41">2026-08-21 · 00:58:03</a></strong></div>
+<div><span>Episodes</span><strong>121</strong></div>
+<div><span>Mentions</span><strong>506</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -68,8 +68,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-american-financing-t-00-32-43" style="--pulse-height:62%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 5 mentions" title="2025-12-10 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-american-financing-t-01-07-58" style="--pulse-height:50%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 4 mentions" title="2025-12-18 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-american-financing-t-00-48-04" style="--pulse-height:50%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 4 mentions" title="2025-12-20 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-american-financing-t-01-00-11" style="--pulse-height:50%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 4 mentions" title="2026-01-05 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-american-financing-t-00-53-12" style="--pulse-height:62%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 5 mentions" title="2026-01-07 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-american-financing-t-01-00-18" style="--pulse-height:50%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 4 mentions" title="2026-01-05 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-american-financing-t-01-14-28" style="--pulse-height:50%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 4 mentions" title="2026-01-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-american-financing-t-00-40-10" style="--pulse-height:50%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 4 mentions" title="2026-01-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-org-american-financing-t-00-50-31" style="--pulse-height:62%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 5 mentions" title="2026-01-16 · 5 mentions"><span></span></a>
@@ -104,7 +103,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-american-financing-t-00-57-44" style="--pulse-height:50%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 4 mentions" title="2026-03-31 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-american-financing-t-00-49-14" style="--pulse-height:62%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 5 mentions" title="2026-04-02 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-american-financing-t-00-40-28" style="--pulse-height:50%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 4 mentions" title="2026-04-10 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-american-financing-t-00-49-56" style="--pulse-height:62%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 5 mentions" title="2026-04-13 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-american-financing-t-00-50-02" style="--pulse-height:62%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 5 mentions" title="2026-04-13 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-org-american-financing-t-00-48-32" style="--pulse-height:62%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 5 mentions" title="2026-04-14 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-org-american-financing-t-00-51-44" style="--pulse-height:62%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 5 mentions" title="2026-04-15 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-american-financing-t-00-46-40" style="--pulse-height:50%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 4 mentions" title="2026-04-16 · 4 mentions"><span></span></a>
@@ -143,6 +142,21 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-american-financing-t-00-55-33" style="--pulse-height:50%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 4 mentions" title="2026-07-21 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-org-american-financing-t-00-49-08" style="--pulse-height:50%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 4 mentions" title="2026-07-22 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-org-american-financing-t-00-48-11" style="--pulse-height:50%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 4 mentions" title="2026-07-23 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-org-american-financing-t-00-38-21" style="--pulse-height:50%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 4 mentions" title="2026-07-27 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-american-financing-t-00-43-03" style="--pulse-height:50%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 4 mentions" title="2026-07-29 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-org-american-financing-t-00-45-31" style="--pulse-height:50%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 4 mentions" title="2026-07-30 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-american-financing-t-00-38-46" style="--pulse-height:50%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 4 mentions" title="2026-07-31 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-org-american-financing-t-00-42-27" style="--pulse-height:50%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 4 mentions" title="2026-08-03 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-american-financing-t-00-45-31" style="--pulse-height:50%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 4 mentions" title="2026-08-04 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-org-american-financing-t-00-49-21" style="--pulse-height:50%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 4 mentions" title="2026-08-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-american-financing-t-00-53-13" style="--pulse-height:50%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 4 mentions" title="2026-08-07 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#ent-org-american-financing-t-00-45-13" style="--pulse-height:62%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 5 mentions" title="2026-08-10 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-org-american-financing-t-00-42-56" style="--pulse-height:50%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 4 mentions" title="2026-08-11 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-american-financing-t-01-36-05" style="--pulse-height:100%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 8 mentions" title="2026-08-14 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-american-financing-t-01-15-56" style="--pulse-height:38%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 3 mentions" title="2026-08-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-org-american-financing-t-00-43-58" style="--pulse-height:50%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 4 mentions" title="2026-08-18 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-org-american-financing-t-00-43-39" style="--pulse-height:62%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 5 mentions" title="2026-08-19 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-org-american-financing-t-00-57-01" style="--pulse-height:50%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 4 mentions" title="2026-08-21 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -180,8 +194,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 | 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-org-american-financing-t-00-32-43) | 5 |
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-american-financing-t-01-07-58) | 4 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-american-financing-t-00-48-04) | 4 |
-| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-american-financing-t-01-00-11) | 4 |
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-org-american-financing-t-00-53-12) | 5 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-american-financing-t-01-00-18) | 4 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-american-financing-t-01-14-28) | 4 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-american-financing-t-00-40-10) | 4 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-american-financing-t-00-50-31) | 5 |
@@ -216,7 +229,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-org-american-financing-t-00-57-44) | 4 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-american-financing-t-00-49-14) | 5 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-american-financing-t-00-40-28) | 4 |
-| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-american-financing-t-00-49-56) | 5 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-american-financing-t-00-50-02) | 5 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-american-financing-t-00-48-32) | 5 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-american-financing-t-00-51-44) | 5 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-american-financing-t-00-46-40) | 4 |
@@ -255,6 +268,21 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-american-financing-t-00-55-33) | 4 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-american-financing-t-00-49-08) | 4 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-american-financing-t-00-48-11) | 4 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-org-american-financing-t-00-38-21) | 4 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-org-american-financing-t-00-43-03) | 4 |
+| 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-org-american-financing-t-00-45-31) | 4 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-org-american-financing-t-00-38-46) | 4 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-org-american-financing-t-00-42-27) | 4 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-org-american-financing-t-00-45-31) | 4 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-org-american-financing-t-00-49-21) | 4 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-org-american-financing-t-00-53-13) | 4 |
+| 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-org-american-financing-t-00-45-13) | 5 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-org-american-financing-t-00-42-56) | 4 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-american-financing-t-01-36-05) | 8 |
+| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-org-american-financing-t-01-15-56) | 3 |
+| 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-org-american-financing-t-00-43-58) | 4 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-org-american-financing-t-00-43-39) | 5 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-american-financing-t-00-57-01) | 4 |
 
 </details>
 </section>
@@ -262,7 +290,277 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (446)</strong></summary>
+<summary><strong class="section-title">Raw mentions (506)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (4 mentions)</summary>
+
+**[00:57:05](/episodes/ep-_cNtgris8Ik.md#ent-org-american-financing-t-00-57-01)**
+> "...o want to tell you guys about American financing because everyday finances keep climbing and high ..."
+
+**[00:57:26](/episodes/ep-_cNtgris8Ik.md#ent-org-american-financing-t-00-57-01)**
+> "American financing can help you consolidate high interest credit. in..."
+
+**[00:57:41](/episodes/ep-_cNtgris8Ik.md#ent-org-american-financing-t-00-57-41)**
+> "...monthly obligations. In fact, American financing borrowers save an average of $800 a month."
+
+**[00:58:03](/episodes/ep-_cNtgris8Ik.md#ent-org-american-financing-t-00-57-41)**
+> "Or visit AmericanFinancing.net slash Owens. Again, that's AmericanFinancing...."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (5 mentions)</summary>
+
+**[00:44:05](/episodes/ep-9hRcfSrri70.md#ent-org-american-financing-t-00-43-39)**
+> "...have to remind you guys about American financing because everyday expenses keep climbing and the h..."
+
+**[00:44:25](/episodes/ep-9hRcfSrri70.md#ent-org-american-financing-t-00-44-18)**
+> "American financing can help you consolidate high interest credit car..."
+
+**[00:44:40](/episodes/ep-9hRcfSrri70.md#ent-org-american-financing-t-00-44-18)**
+> "...r monthly obligations in fact American financing borrowers save an average of $800 a month."
+
+**[00:44:56](/episodes/ep-9hRcfSrri70.md#ent-org-american-financing-t-00-44-56)**
+> "... that's 800-795-1210 or visit AmericanFinancing.net slash Owens."
+
+**[00:45:08](/episodes/ep-9hRcfSrri70.md#ent-org-american-financing-t-00-44-56)**
+> "That's AmericanFinancing.net slash Owens."
+
+</details>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (4 mentions)</summary>
+
+**[00:44:08](/episodes/ep-4JxgOclKzqg.md#ent-org-american-financing-t-00-43-58)**
+> "...want to remind you guys about American financing because everyday expenses keep climbing and high ..."
+
+**[00:44:26](/episodes/ep-4JxgOclKzqg.md#ent-org-american-financing-t-00-43-58)**
+> "American financing can help you consolidate high interest credit car..."
+
+**[00:44:42](/episodes/ep-4JxgOclKzqg.md#ent-org-american-financing-t-00-44-42)**
+> "...monthly obligations. In fact, American financing borrowers save an average of $800 a month."
+
+**[00:44:57](/episodes/ep-4JxgOclKzqg.md#ent-org-american-financing-t-00-44-42)**
+> "... that's 800-795-1210 or visit AmericanFinancing.net slash Owens. Again, that's AmericanFinancing...."
+
+</details>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (3 mentions)</summary>
+
+**[01:15:56](/episodes/ep-E7P2ShoYDUA.md#ent-org-american-financing-t-01-15-56)**
+> "So call 866-686-1651 or visit tnusa.com slash Candace (Candace Owens). Again, 51 or visit tnusa.com slash candace again that's tnusa.com slash candace and i want to remind you guys about american financing because everyday expenses keep climbing and the high credit card interest is not making life any easier if your budget is feeling squeezed lately there's a smarter way to take back control if you're a homeowner your home equity is your best financial tool american financing can help you consolidate high interest credit card debts that you have some breathing room from."
+
+**[01:16:36](/episodes/ep-E7P2ShoYDUA.md#ent-org-american-financing-t-01-16-36)**
+> "...monthly obligations. In fact, American financing borrowers save an average of $800 a month."
+
+**[01:16:51](/episodes/ep-E7P2ShoYDUA.md#ent-org-american-financing-t-01-16-36)**
+> "... that's 800-795-1210 or visit AmericanFinancing.net slash Owens. That's AmericanFinancing.net sla..."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (8 mentions)</summary>
+
+**[01:36:42](/episodes/ep-aPOyk1i2LOc.md#ent-org-american-financing-t-01-36-05)**
+> "...have to remind you guys about American financing because everyday expenses. It says, keep climbing..."
+
+**[01:36:56](/episodes/ep-aPOyk1i2LOc.md#ent-org-american-financing-t-01-36-49)**
+> "American financing can help you consolidate high interest credit car..."
+
+**[01:37:10](/episodes/ep-aPOyk1i2LOc.md#ent-org-american-financing-t-01-36-49)**
+> "...monthly obligations. In fact, American financing borrowers save an average of $800 a month."
+
+**[01:37:30](/episodes/ep-aPOyk1i2LOc.md#ent-org-american-financing-t-01-37-30)**
+> "...that's 800-795-1210. Or visit AmericanFinancing.net slash Owens. That's AmericanFinancing.net sla..."
+
+**[03:00:01](/episodes/ep-aPOyk1i2LOc.md#ent-org-american-financing-t-02-59-45)**
+> "...want to remind you guys about American financing because it is no secret that everything is starti..."
+
+**[03:00:18](/episodes/ep-aPOyk1i2LOc.md#ent-org-american-financing-t-02-59-45)**
+> "..., I shouldn't touch that, but American financing offers a smart equity loan so that you don't have..."
+
+**[03:00:41](/episodes/ep-aPOyk1i2LOc.md#ent-org-american-financing-t-03-00-28)**
+> "At American Financing, there are never any upfront fees to find out wha..."
+
+**[03:00:55](/episodes/ep-aPOyk1i2LOc.md#ent-org-american-financing-t-03-00-28)**
+> "... that's 800-795-1210 or visit AmericanFinancing.net slash Owens. Again, that's AmericanFinancing...."
+
+</details>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (4 mentions)</summary>
+
+**[00:43:18](/episodes/ep-HGtMfbePDKk.md#ent-org-american-financing-t-00-42-56)**
+> "...have to remind you guys about American financing because everyday expenses keep climbing and high ..."
+
+**[00:43:38](/episodes/ep-HGtMfbePDKk.md#ent-org-american-financing-t-00-43-38)**
+> "American financing can help you consolidate high interest credit car..."
+
+**[00:43:53](/episodes/ep-HGtMfbePDKk.md#ent-org-american-financing-t-00-43-38)**
+> "...monthly obligations. In fact, American financing borrowers."
+
+**[00:44:11](/episodes/ep-HGtMfbePDKk.md#ent-org-american-financing-t-00-43-38)**
+> "... that's 800-795-1210 or visit AmericanFinancing.net slash Owens. That's AmericanFinancing.net sla..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (5 mentions)</summary>
+
+**[00:45:41](/episodes/ep-5zgkrOaCCj4.md#ent-org-american-financing-t-00-45-13)**
+> "...want to remind you guys about American financing as well, because it is no secret that everything ..."
+
+**[00:46:02](/episodes/ep-5zgkrOaCCj4.md#ent-org-american-financing-t-00-45-56)**
+> "Well, American financing offers a smart equity loan that you don't have to..."
+
+**[00:46:19](/episodes/ep-5zgkrOaCCj4.md#ent-org-american-financing-t-00-45-56)**
+> "At American Financing, there are never any upfront fees to find out wha..."
+
+**[00:46:28](/episodes/ep-5zgkrOaCCj4.md#ent-org-american-financing-t-00-45-56)**
+> "... that's 800-795-1210 or visit AmericanFinancing.net slash show."
+
+**[00:46:36](/episodes/ep-5zgkrOaCCj4.md#ent-org-american-financing-t-00-45-56)**
+> "Showins. That's AmericanFinancing.net slash Owens."
+
+</details>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (4 mentions)</summary>
+
+**[00:53:50](/episodes/ep-d7VsbEIWkP8.md#ent-org-american-financing-t-00-53-13)**
+> "American financing"
+
+**[00:54:08](/episodes/ep-d7VsbEIWkP8.md#ent-org-american-financing-t-00-53-56)**
+> "But American financing offers a smart equity loan so that you don't have..."
+
+**[00:54:24](/episodes/ep-d7VsbEIWkP8.md#ent-org-american-financing-t-00-53-56)**
+> "At American Financing, there are never any upfront fees to find out wha..."
+
+**[00:54:39](/episodes/ep-d7VsbEIWkP8.md#ent-org-american-financing-t-00-54-39)**
+> "...'s 800-795-1210. And or visit Americanfinancing.net slash Owens. Again, that's Americanfinancing...."
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (4 mentions)</summary>
+
+**[00:49:30](/episodes/ep-ChuWo-n49B8.md#ent-org-american-financing-t-00-49-21)**
+> "I also want to remind you guys about American financing"
+
+**[00:49:51](/episodes/ep-ChuWo-n49B8.md#ent-org-american-financing-t-00-49-21)**
+> "But American financing offers a smart equity loan so that you don't have..."
+
+**[00:50:07](/episodes/ep-ChuWo-n49B8.md#ent-org-american-financing-t-00-49-58)**
+> "At American Financing, there are never any upfront fees to find out wha..."
+
+**[00:50:17](/episodes/ep-ChuWo-n49B8.md#ent-org-american-financing-t-00-49-58)**
+> "...n, that's 800-795-1210. visit AmericanFinancing.net slash Owens. That's AmericanFinancing.net sla..."
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (4 mentions)</summary>
+
+**[00:46:10](/episodes/ep-1CFDtD0IgEg.md#ent-org-american-financing-t-00-45-31)**
+> "...want to remind you guys about American financing because it is no secret that everything is starti..."
+
+**[00:46:21](/episodes/ep-1CFDtD0IgEg.md#ent-org-american-financing-t-00-46-15)**
+> "...ught, I can't touch that. But American financing offers a smart equity loan so you..."
+
+**[00:46:45](/episodes/ep-1CFDtD0IgEg.md#ent-org-american-financing-t-00-46-15)**
+> "At American Financing, there are never any upfront fees to find out wha..."
+
+**[00:46:55](/episodes/ep-1CFDtD0IgEg.md#ent-org-american-financing-t-00-46-55)**
+> "...that's 800-795-1210, or visit AmericanFinancing.net slash Owens. Again, that's AmericanFinancing...."
+
+</details>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (4 mentions)</summary>
+
+**[00:42:27](/episodes/ep-AH1KVKkweUE.md#ent-org-american-financing-t-00-42-27)**
+> "...want to remind you guys about american financing because it is no secret that everything is starti..."
+
+**[00:42:53](/episodes/ep-AH1KVKkweUE.md#ent-org-american-financing-t-00-42-27)**
+> "Much that when American Financing offers a smart equity loan so that you don't have..."
+
+**[00:43:10](/episodes/ep-AH1KVKkweUE.md#ent-org-american-financing-t-00-43-10)**
+> "At American Financing, there are never any upfront fees to find out wha..."
+
+**[00:43:16](/episodes/ep-AH1KVKkweUE.md#ent-org-american-financing-t-00-43-10)**
+> "... that's 800-795-1210 or visit americanfinancing.net slash Owens. Again, that's americanfinancing...."
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (4 mentions)</summary>
+
+**[00:39:13](/episodes/ep-iB-YtO3UZOg.md#ent-org-american-financing-t-00-38-46)**
+> "I also want to remind you guys about American financing because it is no secret that everything is starting to feel a lot more expensive."
+
+**[00:39:31](/episodes/ep-iB-YtO3UZOg.md#ent-org-american-financing-t-00-39-25)**
+> "But American financing offers a smart equity loan so that you don't have..."
+
+**[00:39:47](/episodes/ep-iB-YtO3UZOg.md#ent-org-american-financing-t-00-39-25)**
+> "At American Financing, there are never any upfront fees to find out wha..."
+
+**[00:40:00](/episodes/ep-iB-YtO3UZOg.md#ent-org-american-financing-t-00-39-25)**
+> "... that's 800-795-1210 or visit AmericanFinancing.net slash Owens. AmericanFinancing.net slash Owen..."
+
+</details>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (4 mentions)</summary>
+
+**[00:46:00](/episodes/ep-AoYZel7_cGQ.md#ent-org-american-financing-t-00-45-31)**
+> "...want to remind you guys about American financing because it is no secret that everything is starti..."
+
+**[00:46:22](/episodes/ep-AoYZel7_cGQ.md#ent-org-american-financing-t-00-46-15)**
+> "But American Financing offers a smart equity loan so that you don't actu..."
+
+**[00:46:35](/episodes/ep-AoYZel7_cGQ.md#ent-org-american-financing-t-00-46-15)**
+> "...edictable monthly payment. At American Financing, there are never any upfront fees to find out wha..."
+
+**[00:46:48](/episodes/ep-AoYZel7_cGQ.md#ent-org-american-financing-t-00-46-15)**
+> "... that's 800-795-1210 or visit AmericanFinancing.net slash Owens. That's AmericanFinancing.net sla..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (4 mentions)</summary>
+
+**[00:43:15](/episodes/ep-Vu6Y24pqhZs.md#ent-org-american-financing-t-00-43-03)**
+> "But American Financing offers a smart equity loan that you don't have to. It allows you to wipe out high interest debt and lower your monthly overhead while keeping your primary mortgage intact."
+
+**[00:42:55](/episodes/ep-Vu6Y24pqhZs.md#ent-org-american-financing-t-00-42-19)**
+> "... I also remind you guys about American financing because it is no secret that everything is starti..."
+
+**[00:43:30](/episodes/ep-Vu6Y24pqhZs.md#ent-org-american-financing-t-00-43-03)**
+> "And at American Financing, there are never any upfront fees to find out if ..."
+
+**[00:43:42](/episodes/ep-Vu6Y24pqhZs.md#ent-org-american-financing-t-00-43-42)**
+> "... that's 800-795-1210 or visit AmericanFinancing.net slash Owens. Again, that's AmericanFinancing...."
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (4 mentions)</summary>
+
+**[00:38:38](/episodes/ep-HZvwbfePe7o.md#ent-org-american-financing-t-00-38-21)**
+> "I also want to remind you guys about American Financing because high prices are here to stay. And if you are a homeowner, you probably thought, should I call American Financing to refinance and pay off this credit card debt?"
+
+**[00:39:24](/episodes/ep-HZvwbfePe7o.md#ent-org-american-financing-t-00-39-04)**
+> "Again, that's 800-795-1210 or visit AmericanFinancing.net slash Owens. That's AmericanFinancing.net slash Owens."
+
+**[00:38:59](/episodes/ep-HZvwbfePe7o.md#ent-org-american-financing-t-00-38-21)**
+> "...That's why people are calling American Financing because they are saving."
+
+**[00:39:16](/episodes/ep-HZvwbfePe7o.md#ent-org-american-financing-t-00-39-04)**
+> "...wo mortgage payments. So call American Financing at 800-795-1210."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (4 mentions)</summary>
@@ -940,19 +1238,19 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (5 mentions)</summary>
 
-**[00:50:10](/episodes/ep-eLgD5yUVbko.md#ent-org-american-financing-t-00-49-56)**
+**[00:50:10](/episodes/ep-eLgD5yUVbko.md#ent-org-american-financing-t-00-50-02)**
 > "American financing"
 
-**[00:50:19](/episodes/ep-eLgD5yUVbko.md#ent-org-american-financing-t-00-49-56)**
+**[00:50:19](/episodes/ep-eLgD5yUVbko.md#ent-org-american-financing-t-00-50-02)**
 > "...ve considered reaching out to American financing but hesitated because you don't want to give up y..."
 
-**[00:50:28](/episodes/ep-eLgD5yUVbko.md#ent-org-american-financing-t-00-49-56)**
+**[00:50:28](/episodes/ep-eLgD5yUVbko.md#ent-org-american-financing-t-00-50-02)**
 > "Well, that's why American financing created the smart equity loan, a simple, smart wa..."
 
-**[00:50:49](/episodes/ep-eLgD5yUVbko.md#ent-org-american-financing-t-00-50-35)**
+**[00:50:49](/episodes/ep-eLgD5yUVbko.md#ent-org-american-financing-t-00-50-43)**
 > "...d out if you qualify, so call American Financing today at 800-795-1210."
 
-**[00:50:56](/episodes/ep-eLgD5yUVbko.md#ent-org-american-financing-t-00-50-35)**
+**[00:50:56](/episodes/ep-eLgD5yUVbko.md#ent-org-american-financing-t-00-50-43)**
 > "... that's 800-795-1210 or visit AmericanFinancing.net slash Owens. Again, that's American. American..."
 
 </details>
@@ -1554,38 +1852,18 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 </details>
 
 <details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (5 mentions)</summary>
-
-**[00:53:51](/episodes/ep-zSKrxIUMNqw.md#ent-org-american-financing-t-00-53-12)**
-> "I want to tell you guys about American financing because between groceries, travel and higher pric..."
-
-**[00:54:04](/episodes/ep-zSKrxIUMNqw.md#ent-org-american-financing-t-00-53-56)**
-> "...ve considered reaching out to American financing,"
-
-**[00:54:09](/episodes/ep-zSKrxIUMNqw.md#ent-org-american-financing-t-00-53-56)**
-> "Well, that's why American financing created the smart equity loan,"
-
-**[00:54:38](/episodes/ep-zSKrxIUMNqw.md#ent-org-american-financing-t-00-54-38)**
-> "that's 800-795-1210 or visit americanfinancing.net slash us."
-
-**[00:54:43](/episodes/ep-zSKrxIUMNqw.md#ent-org-american-financing-t-00-54-38)**
-> "slash Owens. Again, that's AmericanFinancing.net slash Owens."
-
-</details>
-
-<details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (4 mentions)</summary>
 
-**[01:00:37](/episodes/ep-OEAHy3SsIiI.md#ent-org-american-financing-t-01-00-11)**
+**[01:00:36](/episodes/ep-OEAHy3SsIiI.md#ent-org-american-financing-t-01-00-18)**
 > "you might have considered reaching out to American Financing, but maybe hesitated because you didn't want to give up your new low mortgage rate."
 
-**[01:00:24](/episodes/ep-OEAHy3SsIiI.md#ent-org-american-financing-t-01-00-11)**
-> "Also reminding you guys about American financing because between groceries,"
+**[01:00:18](/episodes/ep-OEAHy3SsIiI.md#ent-org-american-financing-t-01-00-18)**
+> "So head to balanceofnature.com today. Again, that's balanceofnature.com. Also reminding you guys about American Financing, because between groceries, travel, and higher prices, it's easy to..."
 
-**[01:00:45](/episodes/ep-OEAHy3SsIiI.md#ent-org-american-financing-t-01-00-11)**
+**[01:00:44](/episodes/ep-OEAHy3SsIiI.md#ent-org-american-financing-t-01-00-18)**
 > "that's why American Financing has now created the Smart Equity Loan, a simple, ..."
 
-**[01:01:12](/episodes/ep-OEAHy3SsIiI.md#ent-org-american-financing-t-01-00-54)**
+**[01:01:05](/episodes/ep-OEAHy3SsIiI.md#ent-org-american-financing-t-01-00-57)**
 > "that's 800-795-1210 or visit AmericanFinancing.net slash Owens. That's AmericanFinancing.net sla..."
 
 </details>
@@ -2134,7 +2412,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (27)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (32)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -2163,6 +2441,11 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:56:30](/episodes/ep-OgRyiOAVtWU.md#t-00-56-14): “That's why people are calling American financing because they are saving customers an average of $800 a month by using their equity to finally break free from credit card debt.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:49:57](/episodes/ep-ds6umq1rHAw.md#t-00-49-53): “That's why people are calling American Financing”
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:48:31](/episodes/ep-amqTMimDr0A.md#t-00-48-11): “And of course, I want to remind you guys about American financing because high prices are here to stay.”
+- [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:38:38](/episodes/ep-HZvwbfePe7o.md#t-00-38-21): “I also want to remind you guys about American Financing because high prices are here to stay. And if you are a homeowner, you probably thought, should I call American Financing to refinance and pay off this credit card debt?”
+- [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:42:55](/episodes/ep-Vu6Y24pqhZs.md#t-00-42-19): “I also remind you guys about American financing because it is no secret that everything is starting to feel a lot more expensive.”
+- [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:46:22](/episodes/ep-AoYZel7_cGQ.md#t-00-46-15): “But American Financing offers a smart equity loan so that you don't actually have to.”
+- [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:42:27](/episodes/ep-AH1KVKkweUE.md#t-00-42-27): “i also want to remind you guys about american financing because it is no secret that everything is starting to feel a lot more expensive these days”
+- [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:57:26](/episodes/ep-_cNtgris8Ik.md#t-00-57-01): “American financing can help you consolidate high interest credit. interest credit card debts that you have some breathing room.”
 
 </details>
 
@@ -2186,7 +2469,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <summary>Referenced By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (27)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (32)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -2215,6 +2498,11 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:56:30](/episodes/ep-OgRyiOAVtWU.md#t-00-56-14): “That's why people are calling American financing because they are saving customers an average of $800 a month by using their equity to finally break free from credit card debt.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:49:57](/episodes/ep-ds6umq1rHAw.md#t-00-49-53): “That's why people are calling American Financing”
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:48:31](/episodes/ep-amqTMimDr0A.md#t-00-48-11): “And of course, I want to remind you guys about American financing because high prices are here to stay.”
+- [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:38:38](/episodes/ep-HZvwbfePe7o.md#t-00-38-21): “I also want to remind you guys about American Financing because high prices are here to stay. And if you are a homeowner, you probably thought, should I call American Financing to refinance and pay off this credit card debt?”
+- [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:42:55](/episodes/ep-Vu6Y24pqhZs.md#t-00-42-19): “I also remind you guys about American financing because it is no secret that everything is starting to feel a lot more expensive.”
+- [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:46:22](/episodes/ep-AoYZel7_cGQ.md#t-00-46-15): “But American Financing offers a smart equity loan so that you don't actually have to.”
+- [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:42:27](/episodes/ep-AH1KVKkweUE.md#t-00-42-27): “i also want to remind you guys about american financing because it is no secret that everything is starting to feel a lot more expensive these days”
+- [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:57:26](/episodes/ep-_cNtgris8Ik.md#t-00-57-01): “American financing can help you consolidate high interest credit. interest credit card debts that you have some breathing room.”
 
 </details>
 

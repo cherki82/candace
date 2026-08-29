@@ -27,7 +27,7 @@ veracity: "true"
 ## Source
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
-**Timestamp:** [00:34:03](/episodes/ep-HYn0P-P1wUw.md#t-00-33-47) 
+**Timestamp:** [00:34:03](/episodes/ep-HYn0P-P1wUw.md#t-00-33-38) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2043);return false;">Play</a>
 
 > Eddie Farnsworth was as I said the chair of the House Judiciary Committee And he caused a bit of a kerfluffle in the state because for some unknown reason, he blocked a hearing on a bill to prevent child sex trafficking.

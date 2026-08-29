@@ -39,7 +39,7 @@ Source: [Marjorie Taylor Greene | Office of the Clerk, U.S. House](https://clerk
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-person-marjorie-taylor-greene-t-00-05-14" style="--pulse-height:100%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 2 mentions" title="2025-11-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-person-marjorie-taylor-greene-t-00-25-03" style="--pulse-height:50%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-marjorie-taylor-greene-t-00-42-10" style="--pulse-height:50%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZIH5-V6UPkg.md#t-00-11-33" style="--pulse-height:50%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-marjorie-taylor-greene-t-00-11-33" style="--pulse-height:50%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#t-00-11-51" style="--pulse-height:50%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -50,7 +50,7 @@ Source: [Marjorie Taylor Greene | Office of the Clerk, U.S. House](https://clerk
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-person-marjorie-taylor-greene-t-00-05-14) | 2 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-marjorie-taylor-greene-t-00-25-03) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-marjorie-taylor-greene-t-00-42-10) | 1 |
-| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#t-00-11-33) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-marjorie-taylor-greene-t-00-11-33) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#t-00-11-51) | 1 |
 
 </details>
@@ -72,8 +72,8 @@ Source: [Marjorie Taylor Greene | Office of the Clerk, U.S. House](https://clerk
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
 
-**[00:12:05](/episodes/ep-ZIH5-V6UPkg.md#t-00-11-33)**
-> "Just like Marjorie Trader Brown, but I no longer care about that stuff."
+**[00:12:05](/episodes/ep-ZIH5-V6UPkg.md#ent-person-marjorie-taylor-greene-t-00-11-33)**
+> "Just like Marjorie Trader Brown (likely Marjorie Taylor Greene; exact quoted wording unverified), but I no longer care about that stuff. I only care about doing what's right for our country."
 
 </details>
 

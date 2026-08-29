@@ -1,6 +1,6 @@
 ---
 title: "PreBorn!"
-description: "PreBorn! (Organizations) - 202 mentions"
+description: "PreBorn! (Organizations) - 224 mentions"
 id: "org-preborn"
 type: "ORG"
 aliases:
@@ -24,12 +24,12 @@ Source: [PreBorn!](https://preborn.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-preborn-t-00-32-31">2025-09-15 · 00:31:43</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-preborn-t-00-40-04">2026-07-21 · 00:40:42</a></strong></div>
-<div><span>Episodes</span><strong>62</strong></div>
-<div><span>Mentions</span><strong>202</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-org-preborn-t-00-28-26">2026-08-18 · 00:28:33</a></strong></div>
+<div><span>Episodes</span><strong>70</strong></div>
+<div><span>Mentions</span><strong>224</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -99,6 +99,14 @@ Source: [PreBorn!](https://preborn.com/)
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-org-preborn-t-00-24-00" style="--pulse-height:43%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-org-preborn-t-00-27-35" style="--pulse-height:57%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 4 mentions" title="2026-07-20 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-preborn-t-00-40-04" style="--pulse-height:57%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 4 mentions" title="2026-07-21 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-org-preborn-t-00-20-27" style="--pulse-height:43%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 3 mentions" title="2026-07-27 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-org-preborn-t-00-29-18" style="--pulse-height:43%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 3 mentions" title="2026-07-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-preborn-t-00-28-41" style="--pulse-height:29%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 2 mentions" title="2026-07-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-preborn-t-00-26-23" style="--pulse-height:29%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 2 mentions" title="2026-08-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-org-preborn-t-00-26-11" style="--pulse-height:43%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 3 mentions" title="2026-08-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-org-preborn-t-00-28-00" style="--pulse-height:43%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 3 mentions" title="2026-08-11 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-preborn-t-00-55-34" style="--pulse-height:29%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 2 mentions" title="2026-08-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-org-preborn-t-00-27-47" style="--pulse-height:29%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 2 mentions" title="2026-08-18 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -166,6 +174,14 @@ Source: [PreBorn!](https://preborn.com/)
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-preborn-t-00-24-00) | 3 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-preborn-t-00-27-35) | 4 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-preborn-t-00-40-04) | 4 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-org-preborn-t-00-20-27) | 3 |
+| 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-org-preborn-t-00-29-18) | 3 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-org-preborn-t-00-28-41) | 2 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-org-preborn-t-00-26-23) | 2 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-org-preborn-t-00-26-11) | 3 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-org-preborn-t-00-28-00) | 3 |
+| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-org-preborn-t-00-55-34) | 2 |
+| 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-org-preborn-t-00-27-47) | 2 |
 
 </details>
 </section>
@@ -173,7 +189,107 @@ Source: [PreBorn!](https://preborn.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (202)</strong></summary>
+<summary><strong class="section-title">Raw mentions (224)</strong></summary>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (2 mentions)</summary>
+
+**[00:27:47](/episodes/ep-4JxgOclKzqg.md#ent-org-preborn-t-00-27-47)**
+> "...k you from my friends over at Preborn."
+
+**[00:28:33](/episodes/ep-4JxgOclKzqg.md#ent-org-preborn-t-00-28-26)**
+> "...at's pound 250 baby, or visit preborn.com slash Candace. Again, that's preborn.com slas..."
+
+</details>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (2 mentions)</summary>
+
+**[00:55:34](/episodes/ep-E7P2ShoYDUA.md#ent-org-preborn-t-00-55-34)**
+> "Anyway, we'll be right back after a brief break. All right, you guys, I want to pass along a heartfelt thank you from my friends over at Preborn."
+
+**[00:56:26](/episodes/ep-E7P2ShoYDUA.md#ent-org-preborn-t-00-56-17)**
+> "...hat's pound 250 baby or visit preborn.com slash Candace (Candace Owens). Again, that's ..."
+
+</details>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (3 mentions)</summary>
+
+**[00:28:08](/episodes/ep-HGtMfbePDKk.md#ent-org-preborn-t-00-28-00)**
+> "...k you from my friends over at Preborn. Their president, Dan Steiner, asked me to share ..."
+
+**[00:28:56](/episodes/ep-HGtMfbePDKk.md#ent-org-preborn-t-00-28-36)**
+> "...hat's pound 250 baby or visit preborn.com slash Candace."
+
+**[00:29:04](/episodes/ep-HGtMfbePDKk.md#ent-org-preborn-t-00-28-36)**
+> "Again, that's preborn.com slash Candace. I also want to remind you guys..."
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (3 mentions)</summary>
+
+**[00:26:26](/episodes/ep-ChuWo-n49B8.md#ent-org-preborn-t-00-26-11)**
+> "All right, you guys, I want to pass along a heartfelt thank you from my friends over at Preborn."
+
+**[00:27:14](/episodes/ep-ChuWo-n49B8.md#ent-org-preborn-t-00-26-55)**
+> "...hat's pound 250-BABY or visit preborn.com slash Candace."
+
+**[00:27:23](/episodes/ep-ChuWo-n49B8.md#ent-org-preborn-t-00-26-55)**
+> "preborn.com slash Candace. I also want to remind you guys..."
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (2 mentions)</summary>
+
+**[00:26:46](/episodes/ep-1CFDtD0IgEg.md#ent-org-preborn-t-00-26-23)**
+> "...k you from my friends over at Preborn."
+
+**[00:27:41](/episodes/ep-1CFDtD0IgEg.md#ent-org-preborn-t-00-27-41)**
+> "...hat's pound 250 baby or visit preborn.com slash Candace (Candace Owens). Again, that's ..."
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (2 mentions)</summary>
+
+**[00:28:49](/episodes/ep-iB-YtO3UZOg.md#ent-org-preborn-t-00-28-41)**
+> "...rthday with your $250 gift to Preborn today."
+
+**[00:28:57](/episodes/ep-iB-YtO3UZOg.md#ent-org-preborn-t-00-28-41)**
+> "...hat's pound 250 baby or visit preborn.com slash Candace, preborn.com slash Candace."
+
+</details>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (3 mentions)</summary>
+
+**[00:29:18](/episodes/ep-AoYZel7_cGQ.md#ent-org-preborn-t-00-29-18)**
+> "...lp provide eight ultrasounds. Preborn is helping today's mothers choose life by providi..."
+
+**[00:29:30](/episodes/ep-AoYZel7_cGQ.md#ent-org-preborn-t-00-29-18)**
+> "...rthday with your $250 gift to Preborn today. To donate, simply dial pound 250 and say t..."
+
+**[00:29:38](/episodes/ep-AoYZel7_cGQ.md#ent-org-preborn-t-00-29-18)**
+> "...hat's pound 250 baby or visit preborn.com slash Candace. Again, that's preborn.com."
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (3 mentions)</summary>
+
+**[00:21:04](/episodes/ep-HZvwbfePe7o.md#ent-org-preborn-t-00-20-27)**
+> "...lp provide eight ultrasounds. Preborn is helping today's mothers choose life by providi..."
+
+**[00:21:12](/episodes/ep-HZvwbfePe7o.md#ent-org-preborn-t-00-21-12)**
+> "...rthday with your $250 gift to Preborn today."
+
+**[00:21:20](/episodes/ep-HZvwbfePe7o.md#ent-org-preborn-t-00-21-12)**
+> "...hat's pound 250 baby or visit preborn.com slash Candace, preborn.com slash Candace."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (4 mentions)</summary>
@@ -479,7 +595,7 @@ Source: [PreBorn!](https://preborn.com/)
 > "...mother in crisis walks into a preborn network clinic and sees her baby on an ultrasound..."
 
 **[00:34:20](/episodes/ep-UYkXV9mYbT4.md#ent-org-preborn-t-00-33-46)**
-> "...ay the keyword baby, or visit preborn.com slash candid. Candace, again, that's preborn...."
+> "Donate, dial pound 250 and say the keyword baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace."
 
 </details>
 
@@ -1079,10 +1195,10 @@ Source: [PreBorn!](https://preborn.com/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:29:52](/episodes/ep-ZzAT2xijKGQ.md#t-00-29-23): “thanks to you last year, pre-born helped to rescue over 80,000 babies. And today you can help save even more.”
-- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:20](/episodes/ep-UYkXV9mYbT4.md#t-00-33-46): “Donate, dial pound 250 and say the keyword baby, or visit preborn.com slash candid. Candace, again, that's preborn.com slash Candace.”
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:20](/episodes/ep-UYkXV9mYbT4.md#t-00-33-46): “Donate, dial pound 250 and say the keyword baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace.”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:30:54](/episodes/ep-kaWtDuoY_ns.md#t-00-30-54): “That's why pre-born exists, because when a woman sees her baby on an ultrasound and hears that tiny heartbeat, it doubles the chance that she'll choose life.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:25:19](/episodes/ep-xi8SYJTUXPM.md#t-00-24-37): “Preborn doesn't just offer a moment, they offer a future. With real support like maternity care, baby clothes, diapers, and counseling, give hope, give life, and help a scared woman become a confident mom this Mother's Day.”
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:26:19](/episodes/ep-4DvYXBn_5JI.md#t-00-26-10): “Donate, simply dial pound 250 and say the keyword baby. That's pound 250 baby or visit preborn.com slash Candace. Again, that's preborn.com slash Candace.”
@@ -1093,19 +1209,37 @@ Source: [PreBorn!](https://preborn.com/)
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:24:25](/episodes/ep-puuMVxEu5NU.md#t-00-24-00): “That's why I'm making this critical request today. Give a special gift of $250 to pre-born to honor our country's milestone anniversary and to celebrate our great future ahead.”
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:27:51](/episodes/ep-N4uM8Jdr410.md#t-00-27-35): “That's why I'm making this critical request today. Give a special gift of $250 to preborn to honor our nation's milestone anniversary and to celebrate our great future ahead.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:40:11](/episodes/ep-OgRyiOAVtWU.md#t-00-40-04): “That's why I'm making this critical request today. Give a special gift of $250 to Preborn to honor our country's milestone anniversary and to celebrate our great future ahead.”
+- [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:21:20](/episodes/ep-HZvwbfePe7o.md#t-00-21-12): “Donate simply dial pound 250 and say the keyword baby. Again, that's pound 250 baby or visit preborn.com slash Candace, preborn.com slash Candace.”
+- [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:29:18](/episodes/ep-AoYZel7_cGQ.md#t-00-29-18): “Preborn is helping today's mothers choose life by providing these free ultrasounds so that they can meet their baby for the first time.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Has President (1)</summary>
+
+- **[Dan Steiner](/entities/person-dan-steiner.md)**
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:26:54](/episodes/ep-1CFDtD0IgEg.md#t-00-26-23): “I want to pass along a heartfelt thank you from my friends over at Preborn. ... Their president, Dan Steiner, asked me to share just how grateful they are for faithful supporters like you.”
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:26:30](/episodes/ep-ChuWo-n49B8.md#t-00-26-11): “Their president, Dan Steiner, asked me to share just how grateful they are for the faithful supporters like you.”
+- [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. @ 00:28:08](/episodes/ep-HGtMfbePDKk.md#t-00-28-00): “All right, you guys, I want to pass along a heartfelt thank you from my friends over at Preborn. Their president, Dan Steiner, asked me to share just how grateful they are for faithful supporters like you.”
+- [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:55:42](/episodes/ep-E7P2ShoYDUA.md#t-00-55-34): “Their president, Dan Steiner, asked me to share just how grateful they are for faithful supporters like you.”
+- [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:27:47](/episodes/ep-4JxgOclKzqg.md#t-00-27-47): “All right, you guys, I want to pass along a heartfelt thank you from my friends over at Preborn. Their president, Dan Steiner, asked me to share just how grateful they are for faithful supporters like you.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (12)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
 
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:29:52](/episodes/ep-ZzAT2xijKGQ.md#t-00-29-23): “thanks to you last year, pre-born helped to rescue over 80,000 babies. And today you can help save even more.”
-- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:20](/episodes/ep-UYkXV9mYbT4.md#t-00-33-46): “Donate, dial pound 250 and say the keyword baby, or visit preborn.com slash candid. Candace, again, that's preborn.com slash Candace.”
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 00:34:20](/episodes/ep-UYkXV9mYbT4.md#t-00-33-46): “Donate, dial pound 250 and say the keyword baby, or visit preborn.com slash Candace. Again, that's preborn.com slash Candace.”
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:30:54](/episodes/ep-kaWtDuoY_ns.md#t-00-30-54): “That's why pre-born exists, because when a woman sees her baby on an ultrasound and hears that tiny heartbeat, it doubles the chance that she'll choose life.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:25:19](/episodes/ep-xi8SYJTUXPM.md#t-00-24-37): “Preborn doesn't just offer a moment, they offer a future. With real support like maternity care, baby clothes, diapers, and counseling, give hope, give life, and help a scared woman become a confident mom this Mother's Day.”
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:26:19](/episodes/ep-4DvYXBn_5JI.md#t-00-26-10): “Donate, simply dial pound 250 and say the keyword baby. That's pound 250 baby or visit preborn.com slash Candace. Again, that's preborn.com slash Candace.”
@@ -1116,6 +1250,19 @@ Source: [PreBorn!](https://preborn.com/)
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:24:25](/episodes/ep-puuMVxEu5NU.md#t-00-24-00): “That's why I'm making this critical request today. Give a special gift of $250 to pre-born to honor our country's milestone anniversary and to celebrate our great future ahead.”
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:27:51](/episodes/ep-N4uM8Jdr410.md#t-00-27-35): “That's why I'm making this critical request today. Give a special gift of $250 to preborn to honor our nation's milestone anniversary and to celebrate our great future ahead.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:40:11](/episodes/ep-OgRyiOAVtWU.md#t-00-40-04): “That's why I'm making this critical request today. Give a special gift of $250 to Preborn to honor our country's milestone anniversary and to celebrate our great future ahead.”
+- [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:21:20](/episodes/ep-HZvwbfePe7o.md#t-00-21-12): “Donate simply dial pound 250 and say the keyword baby. Again, that's pound 250 baby or visit preborn.com slash Candace, preborn.com slash Candace.”
+- [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:29:18](/episodes/ep-AoYZel7_cGQ.md#t-00-29-18): “Preborn is helping today's mothers choose life by providing these free ultrasounds so that they can meet their baby for the first time.”
+
+</details>
+
+- **[Dan Steiner](/entities/person-dan-steiner.md)** president of this
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
+
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:26:54](/episodes/ep-1CFDtD0IgEg.md#t-00-26-23): “I want to pass along a heartfelt thank you from my friends over at Preborn. ... Their president, Dan Steiner, asked me to share just how grateful they are for faithful supporters like you.”
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:26:30](/episodes/ep-ChuWo-n49B8.md#t-00-26-11): “Their president, Dan Steiner, asked me to share just how grateful they are for the faithful supporters like you.”
+- [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. @ 00:28:08](/episodes/ep-HGtMfbePDKk.md#t-00-28-00): “All right, you guys, I want to pass along a heartfelt thank you from my friends over at Preborn. Their president, Dan Steiner, asked me to share just how grateful they are for faithful supporters like you.”
+- [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:55:42](/episodes/ep-E7P2ShoYDUA.md#t-00-55-34): “Their president, Dan Steiner, asked me to share just how grateful they are for faithful supporters like you.”
+- [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:27:47](/episodes/ep-4JxgOclKzqg.md#t-00-27-47): “All right, you guys, I want to pass along a heartfelt thank you from my friends over at Preborn. Their president, Dan Steiner, asked me to share just how grateful they are for faithful supporters like you.”
 
 </details>
 

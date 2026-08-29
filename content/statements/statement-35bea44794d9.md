@@ -1,6 +1,6 @@
 ---
-title: "Benjamin Netanyahu offered to take Turning Point USA to the ..."
-description: "\"Benjamin Netanyahu offered to take Turning Point USA to the next level, and Charlie Kirk declined.\" — Andrew Kolvet"
+title: "Andrew Kolvet told Candace Owens that Benjamin Netanyahu off..."
+description: "\"Andrew Kolvet told Candace Owens that Benjamin Netanyahu offered to take Turning Point USA to the next level and Charlie Kirk declined.\" — Andrew Kolvet"
 statement_id: "statement-35bea44794d9"
 speaker: "Andrew Kolvet"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Benjamin Netanyahu offered to take Turning Point USA to the next level, and Charlie Kirk declined.
+> Andrew Kolvet told Candace Owens that Benjamin Netanyahu offered to take Turning Point USA to the next level and Charlie Kirk declined.
 
 ## Attribution
 
@@ -28,10 +28,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
-**Timestamp:** [00:54:59](/episodes/ep-OEAHy3SsIiI.md#t-00-54-33) 
+**Timestamp:** [00:54:59](/episodes/ep-OEAHy3SsIiI.md#t-00-54-48) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3299);return false;">Play</a>
 
-> It was Andrew Kolvet who told me that Bibi (Benjamin Netanyahu) offered to take turning points of next level and that Charlie Kirk said no.
+> It was Andrew Kolvet who told me that Bibi (Benjamin Netanyahu) offered to take Turning Point to the next level and that Charlie Kirk said no.
 
 ## Verification
 

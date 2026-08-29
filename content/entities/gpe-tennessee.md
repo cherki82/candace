@@ -1,6 +1,6 @@
 ---
 title: "Tennessee"
-description: "Tennessee (Places) - 25 mentions"
+description: "Tennessee (Places) - 28 mentions"
 id: "gpe-tennessee"
 type: "GPE"
 aliases:
@@ -22,12 +22,12 @@ Source: [Tennessee State Government](https://www.tn.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-tennessee-t-00-18-13">2025-11-20 · 00:18:38</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#ent-gpe-tennessee-t-00-53-44">2026-06-22 · 00:54:14</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-gpe-tennessee-t-00-23-47">2026-08-19 · 00:23:47</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>28</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -49,6 +49,8 @@ Source: [Tennessee State Government](https://www.tn.gov/)
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-gpe-tennessee-t-00-56-19" style="--pulse-height:20%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-gpe-tennessee-t-00-44-35" style="--pulse-height:20%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-gpe-tennessee-t-00-53-44" style="--pulse-height:20%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-gpe-tennessee-t-00-53-02" style="--pulse-height:20%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-gpe-tennessee-t-00-23-05" style="--pulse-height:40%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,6 +70,8 @@ Source: [Tennessee State Government](https://www.tn.gov/)
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-gpe-tennessee-t-00-56-19) | 1 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-gpe-tennessee-t-00-44-35) | 1 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-tennessee-t-00-53-44) | 1 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-tennessee-t-00-53-02) | 1 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-gpe-tennessee-t-00-23-05) | 2 |
 
 </details>
 </section>
@@ -75,7 +79,26 @@ Source: [Tennessee State Government](https://www.tn.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (2 mentions)</summary>
+
+**[00:23:41](/episodes/ep-9hRcfSrri70.md#ent-gpe-tennessee-t-00-23-05)**
+> "...ut? She's in Delaware. I'm in Tennessee."
+
+**[00:23:47](/episodes/ep-9hRcfSrri70.md#ent-gpe-tennessee-t-00-23-47)**
+> "...pping in Delaware, but I'm in Tennessee. That is what it means. You're arguing something ..."
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>
+
+**[00:53:02](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-tennessee-t-00-53-02)**
+> "... inner city, D.C. and came to Tennessee."
+
+</details>
 
 <details>
 <summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1 mentions)</summary>
@@ -224,6 +247,28 @@ Source: [Tennessee State Government](https://www.tn.gov/)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Residence Of (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:53:02](/episodes/ep-1CFDtD0IgEg.md#t-00-53-02): “I left the inner city, D.C. and came to Tennessee.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** lives in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:53:02](/episodes/ep-1CFDtD0IgEg.md#t-00-53-02): “I left the inner city, D.C. and came to Tennessee.”
+
+</details>
+
+</details>
 
 </details>

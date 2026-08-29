@@ -109,7 +109,7 @@ _Type: People_
 - [00:08:21](/episodes/ep-YaZfwLQ7vrI.md#t-00-08-05) (Claim) **Candace Owens**: ["The January 6th pipe bomber was revealed to be Shawna Rae Kirkhoff, a ..."](/statements/statement-578e19c4da01.md)
   - Also about: [United States Capitol Police](/entities/org-united-states-capitol-police.md), [January 6th](/entities/event-january-6th.md)
 
-- [00:08:30](/episodes/ep-YaZfwLQ7vrI.md#t-00-08-05) (Claim) **Candace Owens**: ["Shawna Rae Kirkhoff, a 31-year-old US Capitol Police officer, was iden..."](/statements/statement-0ddb21c6b49e.md)
+- [00:08:21](/episodes/ep-YaZfwLQ7vrI.md#t-00-08-05) (Claim) **Candace Owens**: ["The person allegedly responsible for placing the January 6 pipe bombs ..."](/statements/statement-095da67f9be3.md)
   - Also about: [United States Capitol Police](/entities/org-united-states-capitol-police.md)
 
 </details>

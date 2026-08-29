@@ -1,6 +1,6 @@
 ---
 title: "Florida"
-description: "Florida (Places) - 26 mentions"
+description: "Florida (Places) - 30 mentions"
 id: "gpe-florida"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [MyFlorida | Official Page for Sunshine State Government](https://www.my
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-florida-t-00-01-20">2025-09-11 · 00:01:46</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-WoXd4oLwd3w.md#ent-gpe-florida-t-00-17-53">2026-06-13 · 00:18:25</a></strong></div>
-<div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-florida-t-00-39-17">2026-08-21 · 00:39:17</a></strong></div>
+<div><span>Episodes</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>30</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -51,6 +51,10 @@ Source: [MyFlorida | Official Page for Sunshine State Government](https://www.my
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-florida-t-00-47-30" style="--pulse-height:33%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#t-00-15-59" style="--pulse-height:33%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-gpe-florida-t-00-17-53" style="--pulse-height:33%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-florida-t-00-32-42" style="--pulse-height:33%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-gpe-florida-t-00-31-25" style="--pulse-height:33%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-florida-t-00-56-28" style="--pulse-height:33%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-florida-t-00-39-17" style="--pulse-height:33%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -77,6 +81,10 @@ Source: [MyFlorida | Official Page for Sunshine State Government](https://www.my
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-gpe-florida-t-00-47-30) | 1 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#t-00-15-59) | 1 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-florida-t-00-17-53) | 1 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-gpe-florida-t-00-32-42) | 1 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-florida-t-00-31-25) | 1 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-gpe-florida-t-00-56-28) | 1 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-gpe-florida-t-00-39-17) | 1 |
 
 </details>
 </section>
@@ -84,7 +92,39 @@ Source: [MyFlorida | Official Page for Sunshine State Government](https://www.my
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
+
+**[00:39:17](/episodes/ep-_cNtgris8Ik.md#ent-gpe-florida-t-00-39-17)**
+> "...ve moved friends that live in Florida people that live in Connecticut that's just the w..."
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:56:37](/episodes/ep-ChuWo-n49B8.md#ent-gpe-florida-t-00-56-28)**
+> "he got taken in Florida"
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>
+
+**[00:31:25](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-florida-t-00-31-25)**
+> "...ire stay in rehabilitation in Florida again does not want any credit for it whatsoever ..."
+
+</details>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
+
+**[00:33:06](/episodes/ep-AH1KVKkweUE.md#ent-gpe-florida-t-00-32-42)**
+> "...nhancement that is in Delray, Florida, and I want to use my platform because somebody m..."
+
+</details>
 
 <details>
 <summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (1 mentions)</summary>

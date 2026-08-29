@@ -32,7 +32,7 @@ veracity: "unverifiable"
 **Timestamp:** [00:31:27](/episodes/ep-CMcktj3Egfo.md#t-00-31-04) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1887);return false;">Play</a>
 
-> I think that’s the reason that the Moonies cult was established in Korea during that time and that it is very likely that the entire thing was just a CIA operation and they are attempting that again,
+> I think that's the reason that the Moonies cult was established in Korea during that time and that it is very likely that the entire thing was just a CIA operation and they are attempting that again,
 
 ## Verification
 

@@ -1,6 +1,6 @@
 ---
 title: "Las Vegas, Nevada"
-description: "Las Vegas, Nevada (Places) - 73 mentions"
+description: "Las Vegas, Nevada (Places) - 74 mentions"
 id: "gpe-las-vegas-nevada"
 type: "GPE"
 aliases:
@@ -25,12 +25,12 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-las-vegas-nevada-t-00-20-48">2025-11-10 · 00:21:23</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-las-vegas-nevada-t-00-28-41">2026-07-22 · 00:29:03</a></strong></div>
-<div><span>Episodes</span><strong>25</strong></div>
-<div><span>Mentions</span><strong>73</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-las-vegas-nevada-t-00-38-00">2026-08-06 · 00:38:00</a></strong></div>
+<div><span>Episodes</span><strong>26</strong></div>
+<div><span>Mentions</span><strong>74</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>13</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -63,6 +63,7 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-las-vegas-nevada-t-00-30-03" style="--pulse-height:20%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-gpe-las-vegas-nevada-t-00-40-29" style="--pulse-height:10%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-las-vegas-nevada-t-00-08-52" style="--pulse-height:60%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 6 mentions" title="2026-07-22 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-las-vegas-nevada-t-00-38-00" style="--pulse-height:10%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -93,6 +94,7 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-las-vegas-nevada-t-00-30-03) | 2 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-gpe-las-vegas-nevada-t-00-40-29) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-gpe-las-vegas-nevada-t-00-08-52) | 6 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-gpe-las-vegas-nevada-t-00-38-00) | 1 |
 
 </details>
 </section>
@@ -100,7 +102,15 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (73)</strong></summary>
+<summary><strong class="section-title">Raw mentions (74)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:38:00](/episodes/ep-ChuWo-n49B8.md#ent-gpe-las-vegas-nevada-t-00-38-00)**
+> "he moved back to Miami after living in Las Vegas"
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (6 mentions)</summary>
@@ -320,7 +330,7 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (2 mentions)</summary>
 
 **[00:04:13](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-las-vegas-nevada-t-00-04-13)**
-> "The conference looks and felt like a weekend in Las Vegas."
+> "The conference looked and felt like a weekend in Las Vegas."
 
 **[00:04:18](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-las-vegas-nevada-t-00-04-13)**
 > "...or adults because that's what Las Vegas is."
@@ -452,6 +462,18 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Former Residence Of (1)</summary>
+
+- **[Perez Hilton](/entities/person-perez-hilton.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:38:00](/episodes/ep-ChuWo-n49B8.md#t-00-38-00): “being a knife and in the video viewers pleaded with him and asked for his phone number so that they could alert authorities and they note that he's a single father with three children born via surrogacy and he moved back to Miami after living in Las Vegas for three and a half years now I want to share my personal opinion on this I think Perez Hilton is on drugs I do it's an opinion not a fact obviously but I as soon as I I heard about this as soon as I heard about the sepsis thing.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Location Of (1)</summary>
 
 - **[Turning Point Action](/entities/org-turning-point-action.md)**
@@ -477,12 +499,19 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Turning Point Action](/entities/org-turning-point-action.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:16:58](/episodes/ep-DdPjoy5W-wY.md#t-00-16-51): “got the keys to a new building that we have in Las Vegas”
+
+</details>
+
+- **[Perez Hilton](/entities/person-perez-hilton.md)** formerly lived in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:38:00](/episodes/ep-ChuWo-n49B8.md#t-00-38-00): “being a knife and in the video viewers pleaded with him and asked for his phone number so that they could alert authorities and they note that he's a single father with three children born via surrogacy and he moved back to Miami after living in Las Vegas for three and a half years now I want to share my personal opinion on this I think Perez Hilton is on drugs I do it's an opinion not a fact obviously but I as soon as I I heard about this as soon as I heard about the sepsis thing.”
 
 </details>
 
@@ -570,7 +599,7 @@ Source: [City of Las Vegas](https://www.lasvegasnevada.gov/)
 - [00:38:18](/episodes/ep-9k2xrAC0H88.md#t-00-38-03) (Claim) **Baron Coleman** (via quoted speech): ["The SAM000 flight went from Colorado Springs to Las Vegas, arriving at..."](/statements/statement-cf82c67961c5.md)
   - Also about: [Colorado Springs](/entities/gpe-colorado-springs.md)
 
-- [00:41:59](/episodes/ep-9k2xrAC0H88.md#t-00-41-50) (Claim) **Candace Owens**: ["The flight from Las Vegas changed call signs from SAM to REACH after t..."](/statements/statement-666fa1c5306d.md)
+- [00:39:33](/episodes/ep-9k2xrAC0H88.md#t-00-39-24) (Claim) **Candace Owens**: ["The flight from Las Vegas changed call signs from SAM to REACH after t..."](/statements/statement-666fa1c5306d.md)
 
 - [01:02:06](/episodes/ep-9k2xrAC0H88.md#t-01-01-55) (Claim) **Candace Owens**: ["One of the congressmen that the Fort Huachuca eyewitness believes he s..."](/statements/statement-ff98d3afb248.md)
   - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Harry Myers](/entities/person-harry-myers.md)

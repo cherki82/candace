@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:55:32](/episodes/ep-es7PWdFGoFI.md#t-00-55-15) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3332);return false;">Play</a>
 
-> George Zinn, arrested for claiming to be the shooter of the day of and then gets busted for CP on his phone
+> You remember the old man, George (George Farmer) Zinn, arrested for claiming to be the shooter of the day of and then gets busted for CP on his phone.
 
 ## Verification
 

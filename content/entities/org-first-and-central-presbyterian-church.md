@@ -3,9 +3,17 @@ title: "First and Central Presbyterian Church"
 description: "First and Central Presbyterian Church (Organizations) - 1 mention"
 id: "org-first-and-central-presbyterian-church"
 type: "ORG"
+categories:
+  - "religious congregation"
 ---
 
 _Type: Organizations_
+
+**Categories:** religious congregation
+
+**Entity verification:** verified
+> Canonical name and identity for First and Central Presbyterian Church confirmed by the cited direct external source.
+Source: [About First and Central Presbyterian Church](https://www.firstandcentral.org/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-first-and-central-presbyterian-church-t-00-44-08">2025-12-01 · 00:44:28</a></strong></div>

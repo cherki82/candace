@@ -22,12 +22,12 @@ _Type: Organizations_
 Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/about/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-paramount-tactical-solutions-t-00-41-37">2026-01-05 · 00:42:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-paramount-tactical-solutions-t-00-34-22">2026-07-23 · 00:34:24</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-paramount-tactical-solutions-t-00-41-37">2026-01-05 · 00:42:14</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-paramount-tactical-solutions-t-00-32-53">2026-07-23 · 00:34:24</a></strong></div>
 <div><span>Episodes</span><strong>18</strong></div>
 <div><span>Mentions</span><strong>37</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -92,7 +92,7 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 **[00:32:53](/episodes/ep-amqTMimDr0A.md#ent-org-paramount-tactical-solutions-t-00-32-53)**
 > "... get ahead of it and go on to Paramount Tactical Show."
 
-**[00:34:24](/episodes/ep-amqTMimDr0A.md#ent-org-paramount-tactical-solutions-t-00-34-22)**
+**[00:34:24](/episodes/ep-amqTMimDr0A.md#ent-org-paramount-tactical-solutions-t-00-32-53)**
 > "... to be honest with you, Gary (Paramount Tactical host; surname unverified)."
 
 </details>
@@ -276,14 +276,14 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 **[00:48:04](/episodes/ep-OEAHy3SsIiI.md#ent-org-paramount-tactical-solutions-t-00-48-04)**
 > "Paramount Tactical is live"
 
-**[00:42:15](/episodes/ep-OEAHy3SsIiI.md#ent-org-paramount-tactical-solutions-t-00-41-37)**
+**[00:42:14](/episodes/ep-OEAHy3SsIiI.md#ent-org-paramount-tactical-solutions-t-00-41-37)**
 > "...nds with him. So you had this paramount tactical account in Valhalla who called up Mitch (Mitch Sn..."
 
 **[00:42:22](/episodes/ep-OEAHy3SsIiI.md#ent-org-paramount-tactical-solutions-t-00-42-22)**
-> "...ially funded this is you know paramount tactical potentially uh working with foreign agents and li..."
+> "and pretended to be a brother, like a brother in arms. Yeah, brother. Yeah, we're trying to help you. We think, you know, kid is—could be potentially funded. This is, you know, Paramount Tactical potentially working with foreign agents, and, like, you're one of us. At the exact same time, they had Ian Carroll calling me, and Ian Carroll was being a friend, and he's like, hey, you should get on the phone with them, and you should come out against Mitch, because Mitch is a fraud, and..."
 
 **[01:08:10](/episodes/ep-OEAHy3SsIiI.md#ent-org-paramount-tactical-solutions-t-01-08-10)**
-> "Paramount Tactical Valhalla. They are embarrassment to me as a vet."
+> "Paramount Tactical, Valhalla—they are an embarrassment to me as a vet. People are not realizing that you are doing an investigation."
 
 </details>
 
@@ -414,7 +414,7 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Paramount Tactical Solutions (11)</strong></summary>
+<summary><strong class="section-title">Statements about Paramount Tactical Solutions (12)</strong></summary>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1)</summary>
@@ -485,7 +485,10 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 </details>
 
 <details>
-<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1)</summary>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (2)</summary>
+
+- [00:42:14](/episodes/ep-OEAHy3SsIiI.md#t-00-41-37) (Accusation) **Candace Owens**: ["Candace Owens alleged that Paramount Tactical Solutions and Valhalla V..."](/statements/statement-376f124fdf15.md)
+  - Also about: [Valhalla VFT](/entities/org-valhalla-vft.md), [Ian Carroll](/entities/person-ian-carroll.md), [Mitch Snow](/entities/person-mitch-snow.md)
 
 - [00:48:04](/episodes/ep-OEAHy3SsIiI.md#t-00-47-19) (Accusation) **Candace Owens**: ["Andrew Kolvet was communicating behind the scenes with Paramount Tacti..."](/statements/statement-6a02934cd870.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md)

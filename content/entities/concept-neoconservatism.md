@@ -22,9 +22,9 @@ _Type: Concepts_
 Source: [Neoconservatism | Definition, Ideology, & History](https://www.britannica.com/topic/neoconservatism)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-neoconservatism-t-00-28-15">2026-01-07 · 00:28:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-neoconservatism-t-00-00-01">2026-06-26 · 00:00:38</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-neoconservatism-t-00-04-33">2026-01-13 · 00:04:40</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-neoconservatism-t-00-41-14">2026-08-07 · 00:41:23</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
 <div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
@@ -36,25 +36,27 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-neoconservatism-t-00-01-46">WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-neoconservatism-t-00-28-15" style="--pulse-height:30%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 3 mentions" title="2026-01-07 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-neoconservatism-t-00-04-33" style="--pulse-height:30%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-neoconservatism-t-00-05-05" style="--pulse-height:30%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 3 mentions" title="2026-03-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-neoconservatism-t-00-01-46" style="--pulse-height:100%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 10 mentions" title="2026-03-17 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-concept-neoconservatism-t-00-43-49" style="--pulse-height:30%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 3 mentions" title="2026-03-26 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-neoconservatism-t-00-17-26" style="--pulse-height:10%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-concept-neoconservatism-t-00-34-56" style="--pulse-height:20%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-neoconservatism-t-00-00-01" style="--pulse-height:10%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-neoconservatism-t-00-37-11" style="--pulse-height:20%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 2 mentions" title="2026-08-07 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-concept-neoconservatism-t-00-28-15) | 3 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-neoconservatism-t-00-04-33) | 3 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-concept-neoconservatism-t-00-05-05) | 3 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-concept-neoconservatism-t-00-01-46) | 10 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-concept-neoconservatism-t-00-43-49) | 3 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-neoconservatism-t-00-17-26) | 1 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-neoconservatism-t-00-34-56) | 2 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-concept-neoconservatism-t-00-00-01) | 1 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-concept-neoconservatism-t-00-37-11) | 2 |
 
 </details>
 </section>
@@ -63,6 +65,17 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 
 <details>
 <summary><strong class="section-title">Raw mentions (25)</strong></summary>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (2 mentions)</summary>
+
+**[00:37:11](/episodes/ep-d7VsbEIWkP8.md#ent-concept-neoconservatism-t-00-37-11)**
+> "the neocons"
+
+**[00:41:23](/episodes/ep-d7VsbEIWkP8.md#ent-concept-neoconservatism-t-00-41-14)**
+> "...th this like I can't even the neocons that have taken over the Republican party it's ju..."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
@@ -80,6 +93,14 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 
 **[01:16:00](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-neoconservatism-t-01-16-00)**
 > "...vestigation that includes the neocons who are now just full on lecturing us at all time..."
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
+
+**[00:17:41](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-neoconservatism-t-00-17-26)**
+> "We aren't neocons. We aren't war hawks. We want America first, and ..."
 
 </details>
 
@@ -157,20 +178,6 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 
 **[00:14:06](/episodes/ep-ZZGWo6oDscc.md#ent-concept-neoconservatism-t-00-13-49)**
 > "staying away from neocons, we don't hear that now being reflected at Turnin..."
-
-</details>
-
-<details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (3 mentions)</summary>
-
-**[00:28:15](/episodes/ep-zSKrxIUMNqw.md#ent-concept-neoconservatism-t-00-28-15)**
-> "which is Neocon Central."
-
-**[00:28:52](/episodes/ep-zSKrxIUMNqw.md#ent-concept-neoconservatism-t-00-28-15)**
-> "...movements and to turn it into Neocon Central,"
-
-**[00:29:02](/episodes/ep-zSKrxIUMNqw.md#ent-concept-neoconservatism-t-00-28-56)**
-> "...n free speech is now dead and Neocons are staging a hostile takeover of his legacy and ..."
 
 </details>
 

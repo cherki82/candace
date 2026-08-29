@@ -1,6 +1,6 @@
 ---
 title: "Iran"
-description: "Iran (Places) - 215 mentions"
+description: "Iran (Places) - 250 mentions"
 id: "gpe-iran"
 type: "GPE"
 aliases:
@@ -23,11 +23,11 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-gpe-iran-t-00-35-19">2025-09-22 · 00:35:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54">2026-08-14 · 00:28:54</a></strong></div>
-<div><span>Episodes</span><strong>51</strong></div>
-<div><span>Mentions</span><strong>215</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-iran-t-01-07-34">2026-08-21 · 01:07:34</a></strong></div>
+<div><span>Episodes</span><strong>56</strong></div>
+<div><span>Mentions</span><strong>250</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>86</strong></div>
+<div><span>Statements about</span><strong>99</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -86,7 +86,12 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-iran-t-00-38-09" style="--pulse-height:8%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-iran-t-00-49-39" style="--pulse-height:8%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-iran-t-00-51-41" style="--pulse-height:8%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-iran-t-00-35-33" style="--pulse-height:17%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 4 mentions" title="2026-07-29 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-iran-t-00-34-40" style="--pulse-height:70%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 16 mentions" title="2026-08-03 · 16 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-gpe-iran-t-00-35-11" style="--pulse-height:52%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 12 mentions" title="2026-08-04 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-iran-t-00-48-13" style="--pulse-height:9%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 2 mentions" title="2026-08-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-iran-t-01-07-34" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -142,7 +147,12 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-iran-t-00-38-09) | 1 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-iran-t-00-49-39) | 1 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-gpe-iran-t-00-51-41) | 1 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-iran-t-00-35-33) | 4 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-gpe-iran-t-00-34-40) | 16 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-iran-t-00-35-11) | 12 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-iran-t-00-48-13) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54) | 1 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-gpe-iran-t-01-07-34) | 1 |
 
 </details>
 </section>
@@ -150,13 +160,143 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (215)</strong></summary>
+<summary><strong class="section-title">Raw mentions (250)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
+
+**[01:07:34](/episodes/ep-_cNtgris8Ik.md#ent-gpe-iran-t-01-07-34)**
+> "...that we should go to war with Iran who said that you won it's just"
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:28:54](/episodes/ep-nPhCKwJ6ye8.md#t-00-28-54)**
 > "opposed the Iranian war"
+
+</details>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (2 mentions)</summary>
+
+**[00:41:01](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-iran-t-00-48-13)**
+> "kill some Iranians"
+
+**[00:48:13](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-iran-t-00-48-13)**
+> "...mping at the bit for war with Iran and telling you, you know what you should do? You..."
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (12 mentions)</summary>
+
+**[00:35:11](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-iran-t-00-35-11)**
+> "...e like ma'am we're gonna take Iran we're gonna take Persia in two weeks I would be l..."
+
+**[00:35:36](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-iran-t-00-35-36)**
+> "... been around it's been around iran's been around for a long time okay And inexplicab..."
+
+**[00:36:17](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-iran-t-00-36-17)**
+> "...aid no we didn't do it it was iran pete hegseth followed up the same message we don'..."
+
+**[00:37:35](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-iran-t-00-37-35)**
+> "...elementary school in southern Iran on the first day of the war and kill 175 people?"
+
+**[00:37:42](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-iran-t-00-37-42)**
+> "...t I've seen, that was done by Iran."
+
+**[00:37:48](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-iran-t-00-37-48)**
+> "...hat true, Mr. Jackson? It was Iran who did that?" / U.S. Official: "We’re certainly ..."
+
+**[00:37:53](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-iran-t-00-37-53)**
+> "...ide that targets civilians is Iran."
+
+**[00:41:43](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-iran-t-00-41-31)**
+> "...one this to arm protesters in Iran. Buddy, there's no more protesters in Iran."
+
+**[00:42:02](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-iran-t-00-41-31)**
+> "You're actually unifying Iran in this moment because of what we're doing and we..."
+
+**[00:42:28](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-iran-t-00-42-07)**
+> "...evin. who wants now people in Iran to be armed because they know they can't do this ..."
+
+**[00:44:18](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-iran-t-00-44-18)**
+> "... that they were going to take Iran in two weeks. That's the state of affairs in Amer..."
+
+**[00:44:26](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-iran-t-00-44-18)**
+> "...world. I have no quarrel with Iran."
+
+</details>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (16 mentions)</summary>
+
+**[00:34:40](/episodes/ep-AH1KVKkweUE.md#ent-gpe-iran-t-00-34-40)**
+> "...you did not want to go to the iran war if only trump had listened uh to charlie kirk..."
+
+**[00:35:09](/episodes/ep-AH1KVKkweUE.md#ent-gpe-iran-t-00-34-40)**
+> "...nconventional ideas to punish Iran."
+
+**[00:35:20](/episodes/ep-AH1KVKkweUE.md#ent-gpe-iran-t-00-35-20)**
+> "... (Donald J. Trump)'s war with Iran came in an email that they are looking for new cr..."
+
+**[00:35:32](/episodes/ep-AH1KVKkweUE.md#ent-gpe-iran-t-00-35-20)**
+> "capture and punish Iran. They got their hands in this email. An officer i..."
+
+**[00:36:00](/episodes/ep-AH1KVKkweUE.md#ent-gpe-iran-t-00-36-00)**
+> "...Netanyahu) saying we can take Persia in a week."
+
+**[00:36:33](/episodes/ep-AH1KVKkweUE.md#ent-gpe-iran-t-00-36-00)**
+> "... can't do that. We can't take Iran."
+
+**[00:36:38](/episodes/ep-AH1KVKkweUE.md#ent-gpe-iran-t-00-36-38)**
+> "We've beat Iran about 55 times, according to Trump (Donald J. Tru..."
+
+**[00:37:43](/episodes/ep-AH1KVKkweUE.md#ent-gpe-iran-t-00-37-43)**
+> "...mp (Donald J. Trump) with the Iran war; he would support him. Okay. Erika (Erika Kir..."
+
+**[00:38:08](/episodes/ep-AH1KVKkweUE.md#ent-gpe-iran-t-00-38-08)**
+> "... not we should be at war with Iran."
+
+**[00:38:42](/episodes/ep-AH1KVKkweUE.md#ent-gpe-iran-t-00-38-37)**
+> "...re we don't go to war against Iran, which would be a profound mistake for our countr..."
+
+**[00:38:48](/episodes/ep-AH1KVKkweUE.md#ent-gpe-iran-t-00-38-37)**
+> "...hole life I've been told that Iran is getting a bomb."
+
+**[00:38:58](/episodes/ep-AH1KVKkweUE.md#ent-gpe-iran-t-00-38-37)**
+> "Iran is getting a bomb. Iran is getting a bomb. Iran i..."
+
+**[00:39:05](/episodes/ep-AH1KVKkweUE.md#ent-gpe-iran-t-00-38-37)**
+> "...rst possible case scenario is Iran says, OK, you humiliated us. You killed all of ou..."
+
+**[00:39:31](/episodes/ep-AH1KVKkweUE.md#ent-gpe-iran-t-00-39-19)**
+> "...is more of Israel pushing for Iran. But is that America's problem?"
+
+**[00:39:58](/episodes/ep-AH1KVKkweUE.md#ent-gpe-iran-t-00-39-58)**
+> "...hat he thought about war with Iran. Pathologically insane is exactly what it is. Pat..."
+
+**[00:43:59](/episodes/ep-AH1KVKkweUE.md#ent-gpe-iran-t-00-43-51)**
+> "... think about the fact that in iran they're making lego videos talking about the epst..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (4 mentions)</summary>
+
+**[00:33:07](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-iran-t-00-35-33)**
+> "And this is a perfect time to discuss the reason that the Iranian propaganda, I don't know if propaganda means it's untrue or just that they're propagating their vision, because it certainly is not untrue, has been going viral. These Lego videos, you've seen the Lego videos on X, you've seen them on Instagram, people are sharing them. And there's a reason why these videos are resonating with Americans, because we feel like we have lost our country."
+
+**[00:35:33](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-iran-t-00-35-33)**
+> "...trying to feed us, go to war, Iran bad, Israel good, isn't working."
+
+**[00:36:12](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-iran-t-00-35-33)**
+> "The Lego video dropped by Iran. Take a look at this."
+
+**[00:36:43](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-iran-t-00-36-28)**
+> "...eace while telling your media Iran wants peace. You sure?"
 
 </details>
 
@@ -477,7 +617,7 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 > "...n files and being at war with Iran for Israel. They didn't leave MAGA. MAGA left the..."
 
 **[00:25:12](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-iran-t-00-25-12)**
-> "... oh okay here we are going to Iran despite the fact that nobody wants to go, not eve..."
+> "That looks like that happened recently. Never-ending wars, where we're everywhere fighting all the time, and we're never being told, and no one's articulating a reason as to why we're going down to Venezuela, why we're speaking about Greenland, and all of a sudden, oh, okay, here we are going to Iran, despite the fact that nobody wants to go, not even people in the armed services. They don't know. Everybody is saying there's no need to do this, and yet he does it, right?"
 
 **[00:27:01](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-iran-t-00-26-31)**
 > "...ent Trump attempts to end the Iran war."
@@ -502,13 +642,13 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 > "Iran"
 
 **[00:02:29](/episodes/ep-rupRLXmSndU.md#ent-gpe-iran-t-00-02-06)**
-> "...ar in the Middle East, war in Iran, and Bibi is doing the most, right?"
+> "And it's also a overtly political business. Next thing we know, Charlie (Charlie Kirk) is dead. Turning Point USA is trying to twist and reimagine his legacy as pro-war in the Middle East, war in Iran, and Bibi (Benjamin Netanyahu) is doing the most, right?"
 
 **[00:20:18](/episodes/ep-rupRLXmSndU.md#ent-gpe-iran-t-00-19-56)**
-> "...strated with Charlie over the Iran war, I found myself wondering, and then I realize..."
+> "And I just found myself wondering, you know, if they talked about Charlie (Charlie Kirk) at all after he was really frustrated with Charlie (Charlie Kirk) over the Iran war, I found myself wondering, and then I realized that all of these connections to the Romney I should probably share with you."
 
 **[00:35:28](/episodes/ep-rupRLXmSndU.md#ent-gpe-iran-t-00-35-28)**
-> "... Trump, do not go to war with Iran, how many players were involved?"
+> "It really makes you wonder what, you know, when I said that war is a massive industry and that Charlie (Charlie Kirk) stepped on people's toes who trade on war, who do real estate deals before the wars even start, when Charlie (Charlie Kirk) put his foot down and said to Trump (Donald Trump), do not go to war with Iran, how many players were involved?"
 
 </details>
 
@@ -516,7 +656,7 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1 mentions)</summary>
 
 **[00:50:50](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-iran-t-00-50-50)**
-> "...l Charlie on the basis of the Iran war."
+> "Anyway, I wanted to also tack on here that yesterday I had received an email that really touched me. It was the context of the email was there was a woman and she was responding to the APB that I put out yesterday regarding Erika (Erika Kirk)'s flight on July 14th. It's a crucial date to me on my timeline because of Tuckergate on July 13th. I feel very much that between June and July 13th is when they made the decision to kill Charlie (Charlie Kirk) on the basis of the Iran war."
 
 </details>
 
@@ -1061,9 +1201,10 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <summary>Accused By (1)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:08:37](/episodes/ep-I0OaY6Gryqk.md#t-00-08-17): “Iran was a threat. Every country realized what a threat Iran was. The question is whether or not they wanted to do something about it.”
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:37:42](/episodes/ep-1CFDtD0IgEg.md#t-00-37-42): “I have no opinion. Based on what I've seen, that was done by Iran.”
 
 </details>
 
@@ -1073,9 +1214,11 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <summary>Attacked By (1)</summary>
 
 - **[United States](/entities/gpe-united-states.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:42:00](/episodes/ep-i8m_6D4QGmk.md#t-00-41-20): “The United States is preemptively bombing Iran.”
+- [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:35:20](/episodes/ep-AH1KVKkweUE.md#t-00-35-20): “The request came from a senior officer at the U.S. military command carrying out President Donald Trump (Donald J. Trump)'s war with Iran”
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:35:36](/episodes/ep-1CFDtD0IgEg.md#t-00-35-36): “The United States, at the instruction presumably of Israel, bombed an elementary school in Iran, a primary school is an elementary school in Iran.”
 
 </details>
 
@@ -1128,16 +1271,19 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <summary>Referenced By (6)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** accused this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:08:37](/episodes/ep-I0OaY6Gryqk.md#t-00-08-17): “Iran was a threat. Every country realized what a threat Iran was. The question is whether or not they wanted to do something about it.”
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:37:42](/episodes/ep-1CFDtD0IgEg.md#t-00-37-42): “I have no opinion. Based on what I've seen, that was done by Iran.”
 
 </details>
 
 - **[United States](/entities/gpe-united-states.md)** attacked this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:42:00](/episodes/ep-i8m_6D4QGmk.md#t-00-41-20): “The United States is preemptively bombing Iran.”
+- [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:35:20](/episodes/ep-AH1KVKkweUE.md#t-00-35-20): “The request came from a senior officer at the U.S. military command carrying out President Donald Trump (Donald J. Trump)'s war with Iran”
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:35:36](/episodes/ep-1CFDtD0IgEg.md#t-00-35-36): “The United States, at the instruction presumably of Israel, bombed an elementary school in Iran, a primary school is an elementary school in Iran.”
 
 </details>
 
@@ -1174,7 +1320,54 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Iran (86)</strong></summary>
+<summary><strong class="section-title">Statements about Iran (99)</strong></summary>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (5)</summary>
+
+- [00:35:36](/episodes/ep-1CFDtD0IgEg.md#t-00-35-36) (Accusation) **Candace Owens**: ["Candace Owens claimed the United States, presumably acting at Israel's..."](/statements/statement-941695a8f84a.md)
+  - Also about: [United States](/entities/gpe-united-states.md), [Israel](/entities/gpe-israel.md)
+
+- [00:37:42](/episodes/ep-1CFDtD0IgEg.md#t-00-37-42) (Claim) **Donald J. Trump** (via quoted speech): ["Donald Trump said that, based on what he had seen, Iran had bombed the..."](/statements/statement-77fd83c0b658.md)
+
+- [00:41:49](/episodes/ep-1CFDtD0IgEg.md#t-00-41-31) (Prediction) **Candace Owens**: ["Candace Owens predicted that U.S. attacks killing Iranian children and..."](/statements/statement-61895a5117f2.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
+
+- [00:43:40](/episodes/ep-1CFDtD0IgEg.md#t-00-43-34) (Prediction) **Mark Levin** (via quoted speech): ["Mark Levin predicted that if Iranian opposition groups received the we..."](/statements/statement-1eb9dc56d471.md)
+
+- [00:44:12](/episodes/ep-1CFDtD0IgEg.md#t-00-43-55) (Opinion) **Mark Levin** (via quoted speech): ["Mark Levin argued that the United States should arm Iranian opposition..."](/statements/statement-fad7accff25b.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
+
+</details>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (8)</summary>
+
+- [00:35:09](/episodes/ep-AH1KVKkweUE.md#t-00-34-40) (Citation) **Candace Owens**: ["Owens said CNN reported that a U.S. Central Command intelligence offic..."](/statements/statement-b9732abe5e61.md)
+  - Also about: [CNN](/entities/org-cnn.md), [United States Central Command](/entities/org-united-states-central-command.md)
+
+- [00:35:56](/episodes/ep-AH1KVKkweUE.md#t-00-35-20) (Opinion) **Candace Owens**: ["Owens argued that the United States was losing the war with Iran becau..."](/statements/statement-55be4a960b63.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [United States](/entities/gpe-united-states.md)
+
+- [00:37:37](/episodes/ep-AH1KVKkweUE.md#t-00-37-17) (Accusation) **Candace Owens**: ["Owens asserted that Charlie Kirk was the first casualty of the war wit..."](/statements/statement-3689fa952902.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:37:43](/episodes/ep-AH1KVKkweUE.md#t-00-37-43) (Claim) **Candace Owens** (via paraphrase): ["Owens said she thought Blake Neff had claimed Charlie Kirk would have ..."](/statements/statement-a7d8a984831c.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md)
+
+- [00:38:08](/episodes/ep-AH1KVKkweUE.md#t-00-38-08) (Opinion) **Erika Kirk** (via quoted speech): ["Erika Kirk said she would not answer whether the United States should ..."](/statements/statement-6b121e761598.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [United States](/entities/gpe-united-states.md)
+
+- [00:38:37](/episodes/ep-AH1KVKkweUE.md#t-00-38-37) (Opinion) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said he opposed U.S. boots on the ground, American kineti..."](/statements/statement-d3367b8daa78.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [United States](/entities/gpe-united-states.md)
+
+- [00:38:58](/episodes/ep-AH1KVKkweUE.md#t-00-38-37) (Claim) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said that, despite years of warnings, Iran still did not ..."](/statements/statement-65d5357a5e61.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:39:05](/episodes/ep-AH1KVKkweUE.md#t-00-38-37) (Opinion) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said U.S. intelligence claims about Iran should be verifi..."](/statements/statement-5b5f82829786.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1)</summary>
@@ -1292,7 +1485,7 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2)</summary>
 
-- [00:51:58](/episodes/ep-eLgD5yUVbko.md#t-00-51-17) (Opinion) **Candace Owens**: ["Candace Owens said the war against Iran is unjust and morally contempt..."](/statements/statement-1fa070e7f5a4.md)
+- [00:51:58](/episodes/ep-eLgD5yUVbko.md#t-00-51-25) (Opinion) **Candace Owens**: ["Candace Owens said the war against Iran is unjust and morally contempt..."](/statements/statement-1fa070e7f5a4.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Middle East](/entities/gpe-middle-east.md), [United States](/entities/gpe-united-states.md)
 
 - [00:52:55](/episodes/ep-eLgD5yUVbko.md#t-00-52-23) (Opinion) **Donald J. Trump** (via quoted post): ["Pope Leo XIV is weak on crime and terrible for foreign policy, and wro..."](/statements/statement-131150fb7620.md)

@@ -4,9 +4,10 @@ description: "\"Steve Bannon predicted that Ben Shapiro would make a move on Tur
 statement_id: "statement-4a56fc2eb96b"
 speaker: "Steve Bannon"
 type: "prediction"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -36,7 +37,20 @@ type: "prediction"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The transcript and contemporaneous coverage both record Bannon predicting that Shapiro would make a move on Turning Point because he was envious of Kirk. This verifies that the prediction was made, not that it has come true.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Bannon calls Ben Shapiro a cancer in Turning Point conference speech](https://www.washingtonexaminer.com/news/4074972/bannon-ben-shapiro-cancer-turning-point-conference-speech/)
+
+*Verified: 2026-08-27T19:42:39.589182*
 
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Mitch Snow said he was completely certain he saw Brian Harpo..."
-description: "\"Mitch Snow said he was completely certain he saw Brian Harpole at a senior-level meeting at Fort Huachuca on the morning of September 9.\" — Mitch Snow"
+title: "Mitch Snow was described by Candace Owens as 'basically 100%..."
+description: "\"Mitch Snow was described by Candace Owens as 'basically 100% certain' that he saw Brian Harpole at a senior-level meeting at Fort Huachuca on the morn...\" — Mitch Snow"
 statement_id: "statement-f6873a467bc9"
 speaker: "Mitch Snow"
 type: "accusation"
@@ -10,7 +10,7 @@ type: "accusation"
 
 ## Statement
 
-> Mitch Snow said he was completely certain he saw Brian Harpole at a senior-level meeting at Fort Huachuca on the morning of September 9.
+> Mitch Snow was described by Candace Owens as 'basically 100% certain' that he saw Brian Harpole at a senior-level meeting at Fort Huachuca on the morning of September 9.
 
 ## Attribution
 
@@ -29,10 +29,10 @@ type: "accusation"
 ### 1. You Won't Believe What Happened While We Were Off Air... | C...
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
-**Timestamp:** [00:38:35](/episodes/ep-OEAHy3SsIiI.md#t-00-38-27) 
+**Timestamp:** [00:38:35](/episodes/ep-OEAHy3SsIiI.md#t-00-38-26) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2315);return false;">Play</a>
 
-> And he's basically 100% certain he saw Brian Harpole at this top brass meeting.
+> And he's basically 100% certain he saw Brian Harpole at this top brass meeting. That took place on the morning of the 9th, a meeting which was concluding on the morning of the 9th around 7.30 a.m. He sent me all of the receipts to back this up, okay?
 
 ### 2. CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 2...
 

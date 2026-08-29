@@ -11,11 +11,19 @@ object: "person-matt-robinson"
 
 ## [Tyler Robinson](/entities/person-tyler-robinson) child of [Matt Robinson](/entities/person-matt-robinson)
 
-### Evidence (4 mentions)
+### Evidence (8 mentions)
 
 **[The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs)**
 
 - [00:41:28](/episodes/ep-7ERqbYElOfs#t-00-41-28): _Tyler Robinson ... his dad recognized him. ... Mike Mitchell is now speaking on behalf of Matt Robinson._
+
+**[EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70)**
+
+- [00:31:23](/episodes/ep-9hRcfSrri70#t-00-31-23): _who was very clear on this, that it was not true, that Matt Robinson did not think his son was guilty, that Mike Mitchell was the person who quarterbacked a lot of this and that things were being intentionally misrepresented in the media._
+
+**[LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8)**
+
+- [00:06:10](/episodes/ep-ChuWo-n49B8#t-00-06-10): _And Matt Robinson, his father, did not turn him in. They just kind of are moving on from that point. It didn't happen._
 
 **[I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks)**
 
@@ -24,6 +32,14 @@ object: "person-matt-robinson"
 **[PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4)**
 
 - [00:21:37](/episodes/ep-UYkXV9mYbT4#t-00-21-37): _And because Matt Robinson. He says, this is my gun that I gave to Tyler Robinson. It is common sense to me that they would put him on the stand and they say, do you recognize this gun? Yes, I recognize the gun. You can't lie about that. Is this your gun? Yes. You're going to contain your questions just to get him to identify that that's his son and that is his gun and that he gave his gun to his son._
+
+**[Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc)**
+
+- [01:08:19](/episodes/ep-aPOyk1i2LOc#t-01-08-19): _initially which I think you agree with was that you know Matt Robinson knew his kid was guilty and turned him into the police station what actually happened in terms of Sheriff Brooksby who was present there and gave a press conference_
+
+**[A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8)**
+
+- [00:23:55](/episodes/ep-d7VsbEIWkP8#t-00-23-55): _This was interesting to me because I, a long time ago, very long time ago, back in October, told you that among other things that I learned about the Robinson family, of course, this whole lie that Matt Robinson believed his son was guilty. Matt Robinson, when he went back to the apartment that Tyler Robinson shared with Lance (Lance Twiggs), discovered that a bed._
 
 **[Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8)**
 

@@ -1,6 +1,6 @@
 ---
 title: "Gaza"
-description: "Gaza (Places) - 151 mentions"
+description: "Gaza (Places) - 153 mentions"
 id: "gpe-gaza"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-03">2025-09-18 · 00:35:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-gaza-t-00-06-18">2026-07-22 · 00:06:42</a></strong></div>
-<div><span>Episodes</span><strong>39</strong></div>
-<div><span>Mentions</span><strong>151</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-gpe-gaza-t-00-24-42">2026-08-11 · 00:24:50</a></strong></div>
+<div><span>Episodes</span><strong>41</strong></div>
+<div><span>Mentions</span><strong>153</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>27</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -74,6 +74,8 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-gaza-t-00-38-09" style="--pulse-height:36%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 5 mentions" title="2026-06-24 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-gaza-t-00-01-24" style="--pulse-height:8%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-gaza-t-00-06-18" style="--pulse-height:8%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-gaza-t-00-18-23" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-gpe-gaza-t-00-24-42" style="--pulse-height:8%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -118,6 +120,8 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-gaza-t-00-38-09) | 5 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-gpe-gaza-t-00-01-24) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-gpe-gaza-t-00-06-18) | 1 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-gpe-gaza-t-00-18-23) | 1 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-gpe-gaza-t-00-24-42) | 1 |
 
 </details>
 </section>
@@ -125,7 +129,23 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (151)</strong></summary>
+<summary><strong class="section-title">Raw mentions (153)</strong></summary>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
+
+**[00:24:50](/episodes/ep-HGtMfbePDKk.md#ent-gpe-gaza-t-00-24-42)**
+> "... Epstein files and the war in Gaza."
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:18:52](/episodes/ep-ChuWo-n49B8.md#ent-gpe-gaza-t-00-18-23)**
+> "At that time, it was about what's happening in Gaza."
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>

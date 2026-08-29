@@ -29,7 +29,7 @@ type: "accusation"
 **Timestamp:** [00:05:32](/episodes/ep-wcD2khO3rOA.md#t-00-04-58) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(332);return false;">Play</a>
 
-> That's what I mean. When you lie a lot and when you're planning things you're not supposed to be planning, you don't think through every detail... if you expected Charlie to make it to September 11th, you would have been communicating about what he was doing.
+> That's what I mean. When you lie a lot and when you're planning things you're not supposed to be planning, you don't think through every detail.
 
 ## Verification
 

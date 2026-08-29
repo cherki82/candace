@@ -1,11 +1,15 @@
 ---
 title: "Game of Thrones"
-description: "Game of Thrones (Works & Media) - 4 mentions"
+description: "Game of Thrones (Works & Media) - 6 mentions"
 id: "work-game-of-thrones"
 type: "WORK"
+categories:
+  - "television series"
 ---
 
 _Type: Works & Media_
+
+**Categories:** television series
 
 **Entity verification:** verified
 > HBO’s official series catalog identifies Game of Thrones as an HBO original series, confirming the canonical work title used in the transcript.
@@ -13,9 +17,9 @@ Source: [HBO Original Series: View All | HBO Official Site](https://www.hbo.com/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-r1PS67aRmcA.md#ent-work-game-of-thrones-t-00-17-30">2025-11-08 · 00:17:53</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-a2bZf4fic10.md#ent-work-game-of-thrones-t-00-38-50">2026-06-26 · 00:39:01</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-work-game-of-thrones-t-00-02-29">2026-08-19 · 00:02:48</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -24,12 +28,13 @@ Source: [HBO Original Series: View All | HBO Official Site](https://www.hbo.com/
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-r1PS67aRmcA.md#ent-work-game-of-thrones-t-00-17-30">Ben Shapiro Is Crying Again. | Candace Ep 261</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-9hRcfSrri70.md#ent-work-game-of-thrones-t-00-02-29">EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-r1PS67aRmcA.md#ent-work-game-of-thrones-t-00-17-30" style="--pulse-height:100%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 1 mentions" title="2025-11-08 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-a-e7HC6SeK8.md#ent-work-game-of-thrones-t-00-52-13" style="--pulse-height:100%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-sKuYLNx3iRo.md#ent-work-game-of-thrones-t-00-43-14" style="--pulse-height:100%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-a2bZf4fic10.md#ent-work-game-of-thrones-t-00-38-50" style="--pulse-height:100%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-r1PS67aRmcA.md#ent-work-game-of-thrones-t-00-17-30" style="--pulse-height:50%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 1 mentions" title="2025-11-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-work-game-of-thrones-t-00-52-13" style="--pulse-height:50%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-work-game-of-thrones-t-00-43-14" style="--pulse-height:50%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-work-game-of-thrones-t-00-38-50" style="--pulse-height:50%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-work-game-of-thrones-t-00-02-29" style="--pulse-height:100%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -39,6 +44,7 @@ Source: [HBO Original Series: View All | HBO Official Site](https://www.hbo.com/
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-work-game-of-thrones-t-00-52-13) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-work-game-of-thrones-t-00-43-14) | 1 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-work-game-of-thrones-t-00-38-50) | 1 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-work-game-of-thrones-t-00-02-29) | 2 |
 
 </details>
 </section>
@@ -46,7 +52,18 @@ Source: [HBO Original Series: View All | HBO Official Site](https://www.hbo.com/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (2 mentions)</summary>
+
+**[00:02:29](/episodes/ep-9hRcfSrri70.md#ent-work-game-of-thrones-t-00-02-29)**
+> "... For those of you who watched Game of Thrones, yeah, where are my Game of Thrones people on HBO..."
+
+**[00:02:48](/episodes/ep-9hRcfSrri70.md#ent-work-game-of-thrones-t-00-02-29)**
+> "Broadly speaking, okay, great Game of Thrones is about you've got these warring kingdoms led by..."
+
+</details>
 
 <details>
 <summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (1 mentions)</summary>

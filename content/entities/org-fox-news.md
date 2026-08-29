@@ -1,6 +1,6 @@
 ---
 title: "Fox News"
-description: "Fox News (Organizations) - 90 mentions"
+description: "Fox News (Organizations) - 93 mentions"
 id: "org-fox-news"
 type: "ORG"
 aliases:
@@ -26,12 +26,12 @@ Source: [Fox News](https://www.foxnews.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-fox-news-t-00-03-31">2025-09-11 · 00:03:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-org-fox-news-t-00-34-58">2026-07-22 · 00:35:08</a></strong></div>
-<div><span>Episodes</span><strong>48</strong></div>
-<div><span>Mentions</span><strong>90</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#t-00-47-56">2026-08-04 · 00:47:56</a></strong></div>
+<div><span>Episodes</span><strong>50</strong></div>
+<div><span>Mentions</span><strong>93</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>8</strong></div>
-<div><span>Relationships</span><strong>14</strong></div>
+<div><span>Relationships</span><strong>18</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -87,6 +87,8 @@ Source: [Fox News](https://www.foxnews.com/)
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-fox-news-t-00-54-11" style="--pulse-height:12%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-fox-news-t-00-09-05" style="--pulse-height:25%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-org-fox-news-t-00-34-58" style="--pulse-height:12%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-org-fox-news-t-00-12-27" style="--pulse-height:25%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 2 mentions" title="2026-07-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#t-00-47-56" style="--pulse-height:12%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -140,6 +142,8 @@ Source: [Fox News](https://www.foxnews.com/)
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-org-fox-news-t-00-54-11) | 1 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-org-fox-news-t-00-09-05) | 2 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-fox-news-t-00-34-58) | 1 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-org-fox-news-t-00-12-27) | 2 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#t-00-47-56) | 1 |
 
 </details>
 </section>
@@ -147,7 +151,26 @@ Source: [Fox News](https://www.foxnews.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (90)</strong></summary>
+<summary><strong class="section-title">Raw mentions (93)</strong></summary>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>
+
+**[00:47:56](/episodes/ep-1CFDtD0IgEg.md#t-00-47-56)**
+> "...r he got let go from the from fox for being a psycho generally just being a psycho ..."
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (2 mentions)</summary>
+
+**[00:12:38](/episodes/ep-HZvwbfePe7o.md#ent-org-fox-news-t-00-12-27)**
+> "But you'll actually notice apparently any questions surrounding the burial elicits this sort of a strong emotion. In fact, in retrospect, Erika (Erika Kirk) made that clear early on. It's really the first time we ever actually saw her get fired up in public. We went from Tyler Robinson, I forgive him, that man, that man, I forgive him, to a book tour where Harris Faulkner on Fox News set her up with a question about how."
+
+**[00:13:17](/episodes/ep-HZvwbfePe7o.md#ent-org-fox-news-t-00-13-10)**
+> "Take a listen to this Fox News moment."
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
@@ -677,6 +700,25 @@ Source: [Fox News](https://www.foxnews.com/)
 </details>
 
 <details>
+<summary>Fired (2)</summary>
+
+- **[Blake Neff](/entities/person-blake-neff.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:47:56](/episodes/ep-1CFDtD0IgEg.md#t-00-47-56): “the only reason he's sitting there is because tucker (Tucker Carlson) carlson uh did what he could to help him after he got let go from the from fox ... so it's not hard for us to imagine blake (Blake Neff)”
+
+</details>
+
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:07:53](/episodes/ep-ZIH5-V6UPkg.md#t-00-07-24): “He was a broken man when he got fired from Fox, and he's never been the same.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Formerly Employed (3)</summary>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)**
@@ -735,12 +777,26 @@ Source: [Fox News](https://www.foxnews.com/)
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (9)</summary>
 
 - **[Suzanne Scott](/entities/person-suzanne-scott.md)** CEO of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 01:02:23](/episodes/ep-k1b1NDCrNFs.md#t-01-02-01): “And that was why I made the comparison to Fox News. It's unimaginable that what's the CEO of Fox News, Suzanne (Suzanne Scott), I'm blanking on her last name,”
+
+</details>
+
+- **[Blake Neff](/entities/person-blake-neff.md)** fired by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:47:56](/episodes/ep-1CFDtD0IgEg.md#t-00-47-56): “the only reason he's sitting there is because tucker (Tucker Carlson) carlson uh did what he could to help him after he got let go from the from fox ... so it's not hard for us to imagine blake (Blake Neff)”
+
+</details>
+
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)** fired by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:07:53](/episodes/ep-ZIH5-V6UPkg.md#t-00-07-24): “He was a broken man when he got fired from Fox, and he's never been the same.”
 
 </details>
 
@@ -821,7 +877,7 @@ Source: [Fox News](https://www.foxnews.com/)
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1)</summary>
 
-- [00:07:53](/episodes/ep-ZIH5-V6UPkg.md#t-00-07-24) (Opinion) **Donald J. Trump** (via quoted post): ["Tucker Carlson was broken after being fired from Fox and should see a ..."](/statements/statement-6fefc965fff7.md)
+- [00:07:53](/episodes/ep-ZIH5-V6UPkg.md#t-00-07-24) (Opinion) **Donald J. Trump** (via quoted post): ["Tucker Carlson was broken after being fired from Fox and perhaps shoul..."](/statements/statement-6fefc965fff7.md)
   - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md)
 
 </details>

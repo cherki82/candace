@@ -1,6 +1,6 @@
 ---
 title: "Book of Revelation"
-description: "Book of Revelation (Works & Media) - 1 mention"
+description: "Book of Revelation (Works & Media) - 2 mentions"
 id: "work-book-of-revelation"
 type: "WORK"
 aliases:
@@ -23,9 +23,9 @@ Source: [The Book of Revelation | USCCB](https://bible.usccb.org/bible/revelatio
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-work-book-of-revelation-t-00-53-21">2026-04-14 · 00:53:21</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-work-book-of-revelation-t-00-53-21">2026-04-14 · 00:53:21</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-work-book-of-revelation-t-00-51-45">2026-08-04 · 00:51:45</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,12 +37,14 @@ Source: [The Book of Revelation | USCCB](https://bible.usccb.org/bible/revelatio
 <p>Highest activity: <a href="/episodes/ep-jsqUIkszZd0.md#ent-work-book-of-revelation-t-00-53-21">BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-work-book-of-revelation-t-00-53-21" style="--pulse-height:100%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-work-book-of-revelation-t-00-51-45" style="--pulse-height:100%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-work-book-of-revelation-t-00-53-21) | 1 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-work-book-of-revelation-t-00-51-45) | 1 |
 
 </details>
 </section>
@@ -50,7 +52,15 @@ Source: [The Book of Revelation | USCCB](https://bible.usccb.org/bible/revelatio
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>
+
+**[00:51:45](/episodes/ep-1CFDtD0IgEg.md#ent-work-book-of-revelation-t-00-51-45)**
+> "...nk it's going to be a massive revelation to how corrupt our government is and people need ..."
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (1 mentions)</summary>

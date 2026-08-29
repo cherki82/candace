@@ -7,13 +7,21 @@ aliases:
   - "St. Michael"
   - "St Michael"
   - "Archangel Michael"
+categories:
+  - "religious figure"
 ---
 
 _Type: People_
 
 **Also known as:** St. Michael, St Michael, Archangel Michael
 
+**Categories:** religious figure
+
 > **Possibly overlapping entity records:** [Saint Michael the Archangel](/entities/person-saint-michael-the-archangel). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> Canonical name and identity for Saint Michael confirmed by the cited direct external source.
+Source: [Michael (archangel)](https://en.wikipedia.org/wiki/Michael_(archangel))
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-person-saint-michael-t-00-08-17">2025-10-06 · 00:08:50</a></strong></div>

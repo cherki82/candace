@@ -1,6 +1,6 @@
 ---
 title: "Merrill Lynch"
-description: "Merrill Lynch (Organizations) - 13 mentions"
+description: "Merrill Lynch (Organizations) - 14 mentions"
 id: "org-merrill-lynch"
 type: "ORG"
 aliases:
@@ -24,12 +24,12 @@ Source: [Merrill Lynch Form 8-K dated September 15, 2008](https://investor.banko
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-merrill-lynch-t-00-20-38">2026-07-14 · 00:20:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-org-merrill-lynch-t-00-07-06">2026-07-16 · 00:07:18</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-merrill-lynch-t-00-28-38">2026-07-29 · 00:28:46</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -39,6 +39,7 @@ Source: [Merrill Lynch Form 8-K dated September 15, 2008](https://investor.banko
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-merrill-lynch-t-00-20-38" style="--pulse-height:100%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 11 mentions" title="2026-07-14 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-org-merrill-lynch-t-00-06-22" style="--pulse-height:18%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-merrill-lynch-t-00-28-38" style="--pulse-height:9%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [Merrill Lynch Form 8-K dated September 15, 2008](https://investor.banko
 |---|---|---:|
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-org-merrill-lynch-t-00-20-38) | 11 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-merrill-lynch-t-00-06-22) | 2 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-org-merrill-lynch-t-00-28-38) | 1 |
 
 </details>
 </section>
@@ -53,7 +55,15 @@ Source: [Merrill Lynch Form 8-K dated September 15, 2008](https://investor.banko
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
+
+**[00:28:46](/episodes/ep-Vu6Y24pqhZs.md#ent-org-merrill-lynch-t-00-28-38)**
+> "Um, Goldman Sachs, Merrill Lynch, then runs his own—his own shop. And I'm just confused. Like, why would Trump do this? What qualifies him? Well, it's Trump. He likes money, right? So John (John C. Phelan), he's extraordinarily wealthy on top of everything, but also crucially, he helped Trump raise a ton of money ahead of his second term by hosting this private fundraiser for Trump in Aspen, which featured billionaire guests like Steve Wynn in attendance, and they all sort of cut Trump these big checks."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (2 mentions)</summary>
@@ -122,7 +132,7 @@ Source: [Merrill Lynch Form 8-K dated September 15, 2008](https://investor.banko
 </details>
 
 <details>
-<summary>Formerly Employed (3)</summary>
+<summary>Formerly Employed (4)</summary>
 
 - **[Thomas H. Patrick](/entities/person-thomas-h-patrick.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -145,6 +155,13 @@ Source: [Merrill Lynch Form 8-K dated September 15, 2008](https://investor.banko
 
 </details>
 
+- **[John C. Phelan](/entities/person-john-c-phelan.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:28:46](/episodes/ep-Vu6Y24pqhZs.md#t-00-28-38): “Goldman Sachs, Merrill Lynch, then runs his own—his own shop.”
+
+</details>
+
 </details>
 
 <details>
@@ -160,7 +177,7 @@ Source: [Merrill Lynch Form 8-K dated September 15, 2008](https://investor.banko
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Bank of America](/entities/org-bank-of-america.md)** acquired this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -197,12 +214,27 @@ Source: [Merrill Lynch Form 8-K dated September 15, 2008](https://investor.banko
 
 </details>
 
+- **[John C. Phelan](/entities/person-john-c-phelan.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:28:46](/episodes/ep-Vu6Y24pqhZs.md#t-00-28-38): “Goldman Sachs, Merrill Lynch, then runs his own—his own shop.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Merrill Lynch (5)</strong></summary>
+<summary><strong class="section-title">Statements about Merrill Lynch (6)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1)</summary>
+
+- [00:28:15](/episodes/ep-Vu6Y24pqhZs.md#t-00-27-58) (Claim) **Candace Owens**: ["Owens said Donald Trump appointed John C. Phelan as secretary of the N..."](/statements/statement-e1b3c2f7113e.md)
+  - Also about: [John C. Phelan](/entities/person-john-c-phelan.md), [Donald J. Trump](/entities/person-donald-trump.md), [United States Navy](/entities/org-united-states-navy.md)
+
+</details>
 
 <details>
 <summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (5)</summary>

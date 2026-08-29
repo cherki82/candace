@@ -1,6 +1,6 @@
 ---
 title: "Balance of Nature"
-description: "Balance of Nature (Organizations) - 26 mentions"
+description: "Balance of Nature (Organizations) - 32 mentions"
 id: "org-balance-of-nature"
 type: "ORG"
 categories:
@@ -19,10 +19,10 @@ _Type: Organizations_
 Source: [Balance of Nature](https://www.balanceofnature.com/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-balance-of-nature-t-00-38-39">2026-01-19 · 00:39:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-balance-of-nature-t-00-41-56">2026-07-21 · 00:41:56</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-balance-of-nature-t-00-59-37">2026-01-05 · 00:59:37</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-org-balance-of-nature-t-00-29-23">2026-08-19 · 00:29:33</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>32</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -33,6 +33,7 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-balance-of-nature-t-00-39-24">A Legal Turning Point? | Candace Ep 292</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-balance-of-nature-t-00-59-37" style="--pulse-height:50%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-balance-of-nature-t-00-39-24" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 4 mentions" title="2026-01-19 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-balance-of-nature-t-00-42-08" style="--pulse-height:50%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-org-balance-of-nature-t-00-27-23" style="--pulse-height:75%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 3 mentions" title="2026-02-09 · 3 mentions"><span></span></a>
@@ -46,11 +47,14 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-balance-of-nature-t-00-30-30" style="--pulse-height:50%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-balance-of-nature-t-00-28-48" style="--pulse-height:50%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-balance-of-nature-t-00-41-56" style="--pulse-height:25%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-org-balance-of-nature-t-00-28-24" style="--pulse-height:50%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 2 mentions" title="2026-08-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-org-balance-of-nature-t-00-28-47" style="--pulse-height:50%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-balance-of-nature-t-00-59-37) | 2 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-balance-of-nature-t-00-39-24) | 4 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-org-balance-of-nature-t-00-42-08) | 2 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-org-balance-of-nature-t-00-27-23) | 3 |
@@ -64,6 +68,8 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-balance-of-nature-t-00-30-30) | 2 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-org-balance-of-nature-t-00-28-48) | 2 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-balance-of-nature-t-00-41-56) | 1 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-org-balance-of-nature-t-00-28-24) | 2 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-org-balance-of-nature-t-00-28-47) | 2 |
 
 </details>
 </section>
@@ -71,7 +77,29 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (2 mentions)</summary>
+
+**[00:28:56](/episodes/ep-9hRcfSrri70.md#ent-org-balance-of-nature-t-00-28-47)**
+> "...want to remind you guys about balance of nature because as a mother i don't have time to read a s..."
+
+**[00:29:33](/episodes/ep-9hRcfSrri70.md#ent-org-balance-of-nature-t-00-29-23)**
+> "Balance of Nature uses a tailored vacuum cold process designed to h..."
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (2 mentions)</summary>
+
+**[00:28:41](/episodes/ep-ChuWo-n49B8.md#ent-org-balance-of-nature-t-00-28-24)**
+> "That's why I started paying attention to what might be missing from my nutrition. Balance of nature makes that very simple."
+
+**[00:28:24](/episodes/ep-ChuWo-n49B8.md#ent-org-balance-of-nature-t-00-28-24)**
+> "...I have to tell you guys about balance of nature again, because you know those days when you just ..."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>
@@ -213,6 +241,17 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 
 **[00:39:42](/episodes/ep-NIEbqsLAK8g.md#ent-org-balance-of-nature-t-00-39-24)**
 > "Balance of Nature's whole health system supplements feature ingredien..."
+
+</details>
+
+<details>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (2 mentions)</summary>
+
+**[00:59:37](/episodes/ep-OEAHy3SsIiI.md#ent-org-balance-of-nature-t-00-59-37)**
+> "...so many people are turning to Balance of Nature."
+
+**[01:00:01](/episodes/ep-OEAHy3SsIiI.md#ent-org-balance-of-nature-t-00-59-37)**
+> "Balance of Nature's whole health system supplements featuring Chew in..."
 
 </details>
 

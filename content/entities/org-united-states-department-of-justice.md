@@ -1,6 +1,6 @@
 ---
 title: "United States Department of Justice"
-description: "United States Department of Justice (Organizations) - 38 mentions"
+description: "United States Department of Justice (Organizations) - 39 mentions"
 id: "org-united-states-department-of-justice"
 type: "ORG"
 aliases:
@@ -26,9 +26,9 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-united-states-department-of-justice-t-00-13-21">2026-01-22 · 00:13:56</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-united-states-department-of-justice-t-00-31-45">2026-07-23 · 00:31:45</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>38</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-united-states-department-of-justice-t-00-47-38">2026-07-29 · 00:48:02</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>39</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -56,6 +56,7 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-org-united-states-department-of-justice-t-00-06-01" style="--pulse-height:12%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-united-states-department-of-justice-t-01-04-38" style="--pulse-height:12%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-org-united-states-department-of-justice-t-00-31-45" style="--pulse-height:12%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-united-states-department-of-justice-t-00-47-38" style="--pulse-height:12%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -78,6 +79,7 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-united-states-department-of-justice-t-00-06-01) | 1 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-united-states-department-of-justice-t-01-04-38) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-united-states-department-of-justice-t-00-31-45) | 1 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-org-united-states-department-of-justice-t-00-47-38) | 1 |
 
 </details>
 </section>
@@ -85,7 +87,15 @@ Source: [About DOJ | United States Department of Justice](https://www.justice.go
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+<summary><strong class="section-title">Raw mentions (39)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
+
+**[00:48:02](/episodes/ep-Vu6Y24pqhZs.md#ent-org-united-states-department-of-justice-t-00-47-38)**
+> "Yeah, this, but I guess that's just Cash Patel's DOJ or whatever. Britney Bricks writes the fact that the same people who asked Charlie (Charlie Kirk) to ask you to stop talking about Brigitte are calling you nuts for talking about his murder is nothing short of hysterical."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>

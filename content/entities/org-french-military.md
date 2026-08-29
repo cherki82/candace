@@ -3,9 +3,17 @@ title: "French military"
 description: "French military (Organizations) - 3 mentions"
 id: "org-french-military"
 type: "ORG"
+categories:
+  - "French armed forces"
 ---
 
 _Type: Organizations_
+
+**Categories:** French armed forces
+
+**Entity verification:** verified
+> Canonical name and identity for French military confirmed by the cited direct external source.
+Source: [French Armed Forces](https://en.wikipedia.org/wiki/French_Armed_Forces)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-french-military-t-00-29-47">2025-12-01 · 00:30:00</a></strong></div>

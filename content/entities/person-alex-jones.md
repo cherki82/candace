@@ -1,6 +1,6 @@
 ---
 title: "Alex Jones"
-description: "Alex Jones (People) - 55 mentions"
+description: "Alex Jones (People) - 59 mentions"
 id: "person-alex-jones"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-person-alex-jones-t-00-11-35">2025-09-22 · 00:12:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-alex-jones-t-00-54-10">2026-07-21 · 00:54:23</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>55</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-alex-jones-t-00-11-36">2026-07-30 · 00:11:47</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>59</strong></div>
 <div><span>Statements by</span><strong>9</strong></div>
 <div><span>Statements about</span><strong>11</strong></div>
-<div><span>Relationships</span><strong>16</strong></div>
+<div><span>Relationships</span><strong>22</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -39,7 +39,7 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 <a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-alex-jones-t-00-53-26" style="--pulse-height:11%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 2 mentions" title="2025-10-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-alex-jones-t-00-28-07" style="--pulse-height:8%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 1 mentions" title="2025-10-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-LATnak75Si0.md#ent-person-alex-jones-t-00-59-19" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-39-50" style="--pulse-height:67%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 12 mentions" title="2026-01-05 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-39-44" style="--pulse-height:67%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 12 mentions" title="2026-01-05 · 12 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-alex-jones-t-00-05-15" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-person-alex-jones-t-00-54-08" style="--pulse-height:8%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-alex-jones-t-00-03-51" style="--pulse-height:39%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 7 mentions" title="2026-04-10 · 7 mentions"><span></span></a>
@@ -47,6 +47,7 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-alex-jones-t-00-39-17" style="--pulse-height:8%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-alex-jones-t-00-11-37" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-alex-jones-t-00-43-13" style="--pulse-height:100%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 18 mentions" title="2026-07-21 · 18 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-alex-jones-t-00-07-21" style="--pulse-height:22%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 4 mentions" title="2026-07-30 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,7 +61,7 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 | 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-person-alex-jones-t-00-53-26) | 2 |
 | 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-alex-jones-t-00-28-07) | 1 |
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-alex-jones-t-00-59-19) | 1 |
-| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-39-50) | 12 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-39-44) | 12 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-alex-jones-t-00-05-15) | 1 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-alex-jones-t-00-54-08) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-alex-jones-t-00-03-51) | 7 |
@@ -68,6 +69,7 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-alex-jones-t-00-39-17) | 1 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-alex-jones-t-00-11-37) | 1 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-alex-jones-t-00-43-13) | 18 |
+| 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-person-alex-jones-t-00-07-21) | 4 |
 
 </details>
 </section>
@@ -75,7 +77,24 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (55)</strong></summary>
+<summary><strong class="section-title">Raw mentions (59)</strong></summary>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (4 mentions)</summary>
+
+**[00:07:27](/episodes/ep-AoYZel7_cGQ.md#ent-person-alex-jones-t-00-07-21)**
+> "...l tweeted this in response to Alex Jones. He said, none of that is true. It's just conject..."
+
+**[00:07:57](/episodes/ep-AoYZel7_cGQ.md#ent-person-alex-jones-t-00-07-21)**
+> "That's what Alex Jones was saying, like this is this is crazy. A bunch o..."
+
+**[00:09:36](/episodes/ep-AoYZel7_cGQ.md#ent-person-alex-jones-t-00-09-36)**
+> "...lake Neff was also angry that Alex Jones tweeted and said, 'This is—we're done with this n..."
+
+**[00:11:47](/episodes/ep-AoYZel7_cGQ.md#ent-person-alex-jones-t-00-11-36)**
+> "...ot keep indulging this, Alex (Alex Jones). It is amazing."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (18 mentions)</summary>
@@ -179,7 +198,7 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 > "...ia company would have you on, Alex Jones had you on his show."
 
 **[00:28:20](/episodes/ep-ZIH5-V6UPkg.md#ent-person-alex-jones-t-00-28-20)**
-> "...han Kelly, Candace Owens, and Alex Jones, each of whom supported him for years."
+> "We decided to write this after Trump published a true social post attacking our company, Megyn Kelly, Candace Owens, and Alex Jones, each of whom supported him for years."
 
 **[00:48:54](/episodes/ep-ZIH5-V6UPkg.md#ent-person-alex-jones-t-00-48-35)**
 > "I think mostly owed to Alex Jones. I thought that was probably the most vicious of ..."
@@ -205,40 +224,40 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (12 mentions)</summary>
 
-**[00:39:58](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-39-50)**
+**[00:39:57](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-39-44)**
 > "...s kooky. What happens next is Alex Jones of all people,"
 
-**[00:40:19](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-39-50)**
+**[00:40:15](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-39-44)**
 > "Quite literally, Alex Jones went on to his show."
 
-**[00:40:24](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-39-50)**
+**[00:40:23](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-39-44)**
 > "...e never said a bad word about Alex Jones ever."
 
-**[00:40:28](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-39-50)**
+**[00:40:28](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-40-28)**
 > "I've spoken about Alex Jones. I've said he's always been good to me."
 
-**[00:40:38](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-40-33)**
+**[00:40:38](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-40-28)**
 > "Listen to Alex Jones quite literally declare war on me."
 
-**[00:41:43](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-41-37)**
+**[00:41:37](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-41-37)**
 > "...oom with you right now, Alex (Alex Jones), let us know."
 
-**[00:41:49](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-41-37)**
+**[00:41:48](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-41-37)**
 > "...king about. I was off air and Alex Jones was just burying himself, getting fact-checked. P..."
 
-**[00:42:10](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-41-37)**
+**[00:42:05](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-41-37)**
 > "the efforts from Alex Jones and these YouTubers."
 
-**[00:45:09](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-44-34)**
+**[00:44:53](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-44-53)**
 > "they were teasing this and Alex Jones was teasing this."
 
 **[00:49:17](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-49-10)**
-> "...irm to you because also Alex (Alex Jones) said that he was in communication with turning p..."
+> "That was upsetting to me because we had all suspected that Turning Point was behind this. We had suspected that they were the ones, and I can confirm to you, because also Alex (Alex Jones) said that he was in communication with Turning Point USA."
 
-**[00:49:30](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-49-10)**
+**[00:49:28](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-49-10)**
 > "...) had been communicating with Alex Jones directly."
 
-**[00:56:38](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-56-02)**
+**[00:56:34](/episodes/ep-OEAHy3SsIiI.md#ent-person-alex-jones-t-00-56-12)**
 > "You don't have to have Alex Jones go after me or attack me."
 
 </details>
@@ -337,7 +356,7 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 </details>
 
 <details>
-<summary>Criticized (2)</summary>
+<summary>Criticized (3)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -354,10 +373,17 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 
 </details>
 
+- **[Mitch Snow](/entities/person-mitch-snow.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:39:57](/episodes/ep-OEAHy3SsIiI.md#t-00-39-44): “It was just madness. It was kooky. What happens next is Alex Jones of all people, the guy who brought us the gay frogs and a couple of YouTubers that nobody had heard of began a very aggressive effort to go after Mitch (Mitch Snow), right?”
+
+</details>
+
 </details>
 
 <details>
-<summary>Criticized By (3)</summary>
+<summary>Criticized By (5)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -377,6 +403,20 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:51:35](/episodes/ep-OgRyiOAVtWU.md#t-00-51-16): “I think it's I think it's not right when Alex Jones said and what he did. He agrees with that.”
+
+</details>
+
+- **[Blake Neff](/entities/person-blake-neff.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:09:36](/episodes/ep-AoYZel7_cGQ.md#t-00-09-36): “Blake Neff was also angry that Alex Jones tweeted and said, 'This is—we're done with this narrative. The Losee Center rooftop narrative effectively has just been obliterated.' And Blake Neff responded to him and said, 'There are a lot of errors and distortions in this post, Alex.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:41:48](/episodes/ep-OEAHy3SsIiI.md#t-00-41-37): “Okay. I have no, I literally have no idea what he's speaking about. I was off air and Alex Jones was just burying himself, getting fact-checked. People are attacking him because he's lying about what I've said. He's pretending it's personal.”
 
 </details>
 
@@ -400,14 +440,14 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:28:20](/episodes/ep-ZIH5-V6UPkg.md#t-00-28-20): “We decided to write this after Trump published a true social post attacking our company, Meghan Kelly, Candace Owens, and Alex Jones, each of whom supported him for years.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:28:20](/episodes/ep-ZIH5-V6UPkg.md#t-00-28-20): “We decided to write this after Trump published a true social post attacking our company, Megyn Kelly, Candace Owens, and Alex Jones, each of whom supported him for years.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (8)</summary>
+<summary>Referenced By (11)</summary>
 
 - **[Laura Loomer](/entities/person-laura-loomer.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -437,6 +477,20 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 
 </details>
 
+- **[Blake Neff](/entities/person-blake-neff.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:09:36](/episodes/ep-AoYZel7_cGQ.md#t-00-09-36): “Blake Neff was also angry that Alex Jones tweeted and said, 'This is—we're done with this narrative. The Losee Center rooftop narrative effectively has just been obliterated.' And Blake Neff responded to him and said, 'There are a lot of errors and distortions in this post, Alex.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:41:48](/episodes/ep-OEAHy3SsIiI.md#t-00-41-37): “Okay. I have no, I literally have no idea what he's speaking about. I was off air and Alex Jones was just burying himself, getting fact-checked. People are attacking him because he's lying about what I've said. He's pretending it's personal.”
+
+</details>
+
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
@@ -452,6 +506,13 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 
 </details>
 
+- **[Mitch Snow](/entities/person-mitch-snow.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:39:57](/episodes/ep-OEAHy3SsIiI.md#t-00-39-44): “It was just madness. It was kooky. What happens next is Alex Jones of all people, the guy who brought us the gay frogs and a couple of YouTubers that nobody had heard of began a very aggressive effort to go after Mitch (Mitch Snow), right?”
+
+</details>
+
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** defended this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -462,7 +523,7 @@ Source: [About Alex Jones Show](https://archives.infowars.com/about-alex-jones-s
 - **[Donald J. Trump](/entities/person-donald-trump.md)** supported by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:28:20](/episodes/ep-ZIH5-V6UPkg.md#t-00-28-20): “We decided to write this after Trump published a true social post attacking our company, Meghan Kelly, Candace Owens, and Alex Jones, each of whom supported him for years.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:28:20](/episodes/ep-ZIH5-V6UPkg.md#t-00-28-20): “We decided to write this after Trump published a true social post attacking our company, Megyn Kelly, Candace Owens, and Alex Jones, each of whom supported him for years.”
 
 </details>
 

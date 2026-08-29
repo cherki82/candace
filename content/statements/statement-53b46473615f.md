@@ -1,6 +1,6 @@
 ---
-title: "The FBI was on the phone with Justin Streiff and Frank Carni..."
-description: "\"The FBI was on the phone with Justin Streiff and Frank Carni about whether I had recorded the back footage.\" — Candace Owens"
+title: "The FBI was apparently on the phone with Justin Streiff and ..."
+description: "\"The FBI was apparently on the phone with Justin Streiff and Frank Carni that day about whether I had recorded the back footage.\" — Candace Owens"
 statement_id: "statement-53b46473615f"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> The FBI was on the phone with Justin Streiff and Frank Carni about whether I had recorded the back footage.
+> The FBI was apparently on the phone with Justin Streiff and Frank Carni that day about whether I had recorded the back footage.
 
 ## Attribution
 
@@ -30,7 +30,7 @@ type: "factual_claim"
 **Timestamp:** [00:08:17](/episodes/ep-UYkXV9mYbT4.md#t-00-08-03) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(497);return false;">Play</a>
 
-> The feds were. The FBI. The FBI was on the phone with Justin Streif, Frank Carney, and they were apparently speaking to the feds that day about whether or not I had recorded the footage.
+> The feds were. The FBI. The FBI was on the phone with Justin Streiff, Frank Carni, and they were apparently speaking to the feds that day about whether or not I had recorded the footage.
 
 ## Verification
 

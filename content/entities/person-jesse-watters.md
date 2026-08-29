@@ -44,7 +44,7 @@ Source: [Fox News: Jesse Watters](https://www.foxnews.com/person/w/jesse-watters
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-jesse-watters-t-00-23-55" style="--pulse-height:11%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-jesse-watters-t-00-24-52" style="--pulse-height:11%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-jesse-watters-t-00-21-39" style="--pulse-height:11%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-36-13" style="--pulse-height:11%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-jesse-watters-t-00-36-13" style="--pulse-height:11%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-person-jesse-watters-t-00-04-56" style="--pulse-height:11%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-jesse-watters-t-00-21-10" style="--pulse-height:11%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-jesse-watters-t-00-09-46" style="--pulse-height:22%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 2 mentions" title="2026-05-13 · 2 mentions"><span></span></a>
@@ -64,7 +64,7 @@ Source: [Fox News: Jesse Watters](https://www.foxnews.com/person/w/jesse-watters
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-jesse-watters-t-00-23-55) | 1 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-jesse-watters-t-00-24-52) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-jesse-watters-t-00-21-39) | 1 |
-| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#t-00-36-13) | 1 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-jesse-watters-t-00-36-13) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-jesse-watters-t-00-04-56) | 1 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-jesse-watters-t-00-21-10) | 1 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-jesse-watters-t-00-09-46) | 2 |
@@ -116,8 +116,8 @@ Source: [Fox News: Jesse Watters](https://www.foxnews.com/person/w/jesse-watters
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
 
-**[00:36:46](/episodes/ep-q1NRQQAYS_Q.md#t-00-36-13)**
-> "her sit down with Jesse Waters."
+**[00:36:46](/episodes/ep-q1NRQQAYS_Q.md#ent-person-jesse-watters-t-00-36-13)**
+> "...tail during her sit down with Jesse Watters."
 
 </details>
 
@@ -256,7 +256,7 @@ Source: [Fox News: Jesse Watters](https://www.foxnews.com/person/w/jesse-watters
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:11:44](/episodes/ep-mFuno0TuuQQ.md#t-00-11-10): “In that interview with Jesse Watters that you wanted Charlie (Charlie Kirk) to have a good night's sleep.”
 - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:16:51](/episodes/ep-hWTdXHGQ8R4.md#t-00-16-51): “Tell me about the day before the shooting. ... He was at the office, ... and we were going to meet for dinner beforehand with a dear friend of ours who I wanted to just be with us and pray with us before the event.”
 - [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:24:52](/episodes/ep-5-HUyv9LyMg.md#t-00-24-52): “this clip of Erika (Erika Kirk) on Jesse Watters”
-- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:36:46](/episodes/ep-q1NRQQAYS_Q.md#t-00-36-13): “Then we heard straight from Erica in November, a little more detail during her sit down with Jesse Waters.”
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:36:46](/episodes/ep-q1NRQQAYS_Q.md#t-00-36-13): “Then we heard straight from Erica (Erika Kirk) in November, a little more detail during her sit down with Jesse Watters.”
 - [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:05:25](/episodes/ep-SubDoZWHARo.md#t-00-04-56): “Erika Kirk herself jumped in and this was the reason that we were given via her interview with Jesse Watters.”
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:09:58](/episodes/ep-4DvYXBn_5JI.md#t-00-09-46): “Erika confirmed that in her sit down with Jesse Watters, but he never made it obviously to either one of those events.”
 
@@ -294,7 +294,7 @@ Source: [Fox News: Jesse Watters](https://www.foxnews.com/person/w/jesse-watters
 - [An Open Letter To Erika Kirk | Candace Ep 303 @ 00:11:44](/episodes/ep-mFuno0TuuQQ.md#t-00-11-10): “In that interview with Jesse Watters that you wanted Charlie (Charlie Kirk) to have a good night's sleep.”
 - [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 @ 00:16:51](/episodes/ep-hWTdXHGQ8R4.md#t-00-16-51): “Tell me about the day before the shooting. ... He was at the office, ... and we were going to meet for dinner beforehand with a dear friend of ours who I wanted to just be with us and pray with us before the event.”
 - [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:24:52](/episodes/ep-5-HUyv9LyMg.md#t-00-24-52): “this clip of Erika (Erika Kirk) on Jesse Watters”
-- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:36:46](/episodes/ep-q1NRQQAYS_Q.md#t-00-36-13): “Then we heard straight from Erica in November, a little more detail during her sit down with Jesse Waters.”
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:36:46](/episodes/ep-q1NRQQAYS_Q.md#t-00-36-13): “Then we heard straight from Erica (Erika Kirk) in November, a little more detail during her sit down with Jesse Watters.”
 - [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:05:25](/episodes/ep-SubDoZWHARo.md#t-00-04-56): “Erika Kirk herself jumped in and this was the reason that we were given via her interview with Jesse Watters.”
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:09:58](/episodes/ep-4DvYXBn_5JI.md#t-00-09-46): “Erika confirmed that in her sit down with Jesse Watters, but he never made it obviously to either one of those events.”
 

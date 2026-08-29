@@ -1,6 +1,6 @@
 ---
 title: "California"
-description: "California (Places) - 53 mentions"
+description: "California (Places) - 58 mentions"
 id: "gpe-california"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [California State Portal | CA.gov](https://www.ca.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-california-t-00-04-56">2025-09-11 · 00:05:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-california-t-00-43-01">2026-07-23 · 00:43:29</a></strong></div>
-<div><span>Episodes</span><strong>30</strong></div>
-<div><span>Mentions</span><strong>53</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-california-t-00-24-26">2026-08-03 · 00:24:48</a></strong></div>
+<div><span>Episodes</span><strong>31</strong></div>
+<div><span>Mentions</span><strong>58</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -60,6 +60,7 @@ Source: [California State Portal | CA.gov](https://www.ca.gov/)
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-california-t-00-43-01" style="--pulse-height:20%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-gpe-california-t-00-07-06" style="--pulse-height:20%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-california-t-00-43-01" style="--pulse-height:20%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-california-t-00-20-04" style="--pulse-height:100%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 5 mentions" title="2026-08-03 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -95,6 +96,7 @@ Source: [California State Portal | CA.gov](https://www.ca.gov/)
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-california-t-00-43-01) | 1 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-gpe-california-t-00-07-06) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-gpe-california-t-00-43-01) | 1 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-gpe-california-t-00-20-04) | 5 |
 
 </details>
 </section>
@@ -102,7 +104,27 @@ Source: [California State Portal | CA.gov](https://www.ca.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (53)</strong></summary>
+<summary><strong class="section-title">Raw mentions (58)</strong></summary>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (5 mentions)</summary>
+
+**[00:20:04](/episodes/ep-AH1KVKkweUE.md#ent-gpe-california-t-00-20-04)**
+> "...t Camp Pendleton, which is in California."
+
+**[00:20:31](/episodes/ep-AH1KVKkweUE.md#ent-gpe-california-t-00-20-04)**
+> "...ng to Utah in San Bernardino, California."
+
+**[00:22:55](/episodes/ep-AH1KVKkweUE.md#ent-gpe-california-t-00-22-34)**
+> "...uption in the San Bernardino, California Police Department. And so we are looking for info..."
+
+**[00:23:07](/episodes/ep-AH1KVKkweUE.md#ent-gpe-california-t-00-23-07)**
+> "Robertson in California, which earned him an entry on the Brady List webs..."
+
+**[00:24:48](/episodes/ep-AH1KVKkweUE.md#ent-gpe-california-t-00-24-26)**
+> "Life has been in California. It feels a bit precise to me. And we do know tha..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>

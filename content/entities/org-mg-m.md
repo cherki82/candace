@@ -3,9 +3,17 @@ title: "MG+M"
 description: "MG+M (Organizations) - 3 mentions"
 id: "org-mg-m"
 type: "ORG"
+categories:
+  - "law firm"
 ---
 
 _Type: Organizations_
+
+**Categories:** law firm
+
+**Entity verification:** verified
+> Canonical name and identity for MG+M confirmed by the cited direct external source.
+Source: [MG+M Wilmington office](https://www.mgmlaw.com/locations/wilmington)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-mg-m-t-00-31-48">2025-12-01 · 00:32:22</a></strong></div>

@@ -23,7 +23,7 @@ object: "person-mitt-romney"
 
 **[Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU)**
 
-- [00:03:24](/episodes/ep-rupRLXmSndU#t-00-03-24): _presented itself in the form of this lifelong friendship. Now, it would be difficult for me to overstate to you just how close Bibi Netanyahu is to Mitt Romney._
+- [00:03:24](/episodes/ep-rupRLXmSndU#t-00-03-24): _presented itself in the form of this lifelong friendship. Now, it would be difficult for me to overstate to you just how close Bibi (Benjamin Netanyahu) is to Mitt Romney._
 
 ### Related
 

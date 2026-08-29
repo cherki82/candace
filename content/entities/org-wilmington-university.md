@@ -3,9 +3,17 @@ title: "Wilmington University"
 description: "Wilmington University (Organizations) - 1 mention"
 id: "org-wilmington-university"
 type: "ORG"
+categories:
+  - "university"
 ---
 
 _Type: Organizations_
+
+**Categories:** university
+
+**Entity verification:** verified
+> The university's official site confirms the canonical institution identity.
+Source: [About Wilmington University](https://www.wilmu.edu/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-wilmington-university-t-00-44-51">2025-12-01 · 00:45:00</a></strong></div>

@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:36:36](/episodes/ep-581dILVcEE4.md#t-00-36-17) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2196);return false;">Play</a>
 
-> You can see he calls his mom, and the call is 45 seconds long, and the call begins at 11:24.
+> Now remember, Blake is in Arizona now, so this is going to say 11:24. ... It's supposed to be obviously 12:24 Utah time. ... You can see he calls his mom, and the call is 45 seconds long, and the call begins at 11:24. ... Charlie (Charlie Kirk) was shot at 12:23, right?
 
 ## Verification
 

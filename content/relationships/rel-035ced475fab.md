@@ -35,7 +35,7 @@ object: "person-candace-owens"
 
 **[Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko)**
 
-- [00:51:17](/episodes/ep-eLgD5yUVbko#t-00-51-17): _I mean, he is surrounded by, ironically, the very thing that he accuses me and Megan and Tucker of being because we're calling for peace. We're calling for peace. And he's like, these people are nut jobs. And then he has people like Laura Loomer who have. has been forcibly placed on site 5150 holds as his number one advisor she's like i'm advising him you got paula white who's telling him he's akin to jesus christ which is absolutely blasphemous and he thinks these people are totally sane again very scary to be that far in the cave he is so in the cave he is so convinced of his own invincibility it is completely unhinged that he was deeply upset by the pope Telling him the truth,_
+- [00:51:17](/episodes/ep-eLgD5yUVbko#t-00-51-17): _I mean, he is surrounded by, ironically, the very thing that he accuses me and Megyn and Tucker of being because we're calling for peace. We're calling for peace. And he's like, these people are nut jobs. And then he has people like Laura Loomer who have. has been forcibly placed on site 5150 holds as his number one advisor she's like i'm advising him you got paula white who's telling him he's akin to jesus christ which is absolutely blasphemous and he thinks these people are totally sane again very scary to be that far in the cave he is so in the cave he is so convinced of his own invincibility it is completely unhinged that he was deeply upset by the pope Telling him the truth,_
 
 **[EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns)**
 

@@ -5,13 +5,21 @@ id: "gpe-lincoln"
 type: "GPE"
 aliases:
   - "Lincoln, Nebraska"
+categories:
+  - "Nebraska city"
 ---
 
 _Type: Places_
 
 **Also known as:** Lincoln, Nebraska
 
+**Categories:** Nebraska city
+
 > **Possibly overlapping entity records:** [Lincoln, Nebraska](/entities/gpe-lincoln-nebraska). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> Canonical name and identity for Lincoln confirmed by the cited direct external source.
+Source: [Lincoln, Nebraska](https://en.wikipedia.org/wiki/Lincoln,_Nebraska)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-lincoln-t-00-20-27">2025-10-31 · 00:20:32</a></strong></div>

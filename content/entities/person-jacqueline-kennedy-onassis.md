@@ -1,6 +1,6 @@
 ---
 title: "Jacqueline Kennedy Onassis"
-description: "Jacqueline Kennedy Onassis (People) - 5 mentions"
+description: "Jacqueline Kennedy Onassis (People) - 4 mentions"
 id: "person-jacqueline-kennedy-onassis"
 type: "PERSON"
 aliases:
@@ -25,7 +25,7 @@ Source: [Life of Jacqueline B. Kennedy - JFK Library](https://www.jfklibrary.org
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-jacqueline-kennedy-onassis-t-00-18-13">2026-01-05 · 00:18:35</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-jacqueline-kennedy-onassis-t-00-25-07">2026-03-26 · 00:25:35</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,14 +36,14 @@ Source: [Life of Jacqueline B. Kennedy - JFK Library](https://www.jfklibrary.org
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-jacqueline-kennedy-onassis-t-00-19-09">VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-jacqueline-kennedy-onassis-t-00-18-13" style="--pulse-height:67%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-jacqueline-kennedy-onassis-t-00-18-13" style="--pulse-height:33%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-jacqueline-kennedy-onassis-t-00-19-09" style="--pulse-height:100%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 3 mentions" title="2026-03-26 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-jacqueline-kennedy-onassis-t-00-18-13) | 2 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-jacqueline-kennedy-onassis-t-00-18-13) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-jacqueline-kennedy-onassis-t-00-19-09) | 3 |
 
 </details>
@@ -52,7 +52,7 @@ Source: [Life of Jacqueline B. Kennedy - JFK Library](https://www.jfklibrary.org
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (3 mentions)</summary>
@@ -69,13 +69,10 @@ Source: [Life of Jacqueline B. Kennedy - JFK Library](https://www.jfklibrary.org
 </details>
 
 <details>
-<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (2 mentions)</summary>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
 
 **[00:18:35](/episodes/ep-OEAHy3SsIiI.md#ent-person-jacqueline-kennedy-onassis-t-00-18-13)**
 > "I can't relate to the idea that if Jackie O a few months later decided to do interviews that they would be like,"
-
-**[00:18:44](/episodes/ep-OEAHy3SsIiI.md#ent-person-jacqueline-kennedy-onassis-t-00-18-13)**
-> "hey Jackie,"
 
 </details>
 

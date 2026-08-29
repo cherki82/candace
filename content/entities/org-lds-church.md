@@ -3,11 +3,19 @@ title: "LDS church"
 description: "LDS church (Organizations) - 4 mentions"
 id: "org-lds-church"
 type: "ORG"
+categories:
+  - "religious organization"
 ---
 
 _Type: Organizations_
 
+**Categories:** religious organization
+
 > **Possibly overlapping entity records:** [The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> Canonical name and identity for LDS church confirmed by the cited direct external source.
+Source: [About The Church of Jesus Christ of Latter-day Saints](https://www.churchofjesuschrist.org/learn/about-us)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#t-00-55-47">2025-09-22 · 00:56:18</a></strong></div>

@@ -32,7 +32,7 @@ veracity: "mixed"
 **Timestamp:** [00:30:22](/episodes/ep-ZIH5-V6UPkg.md#t-00-30-22) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1822);return false;">Play</a>
 
-> Charlie and Andrew Kovac told me was that she said that she wanted in exchange for Trump to allow them to annex not Gaza, but the West Bank.
+> What Charlie (Charlie Kirk) and Andrew Kolvet told me was that she said that she wanted, in exchange, for Trump to allow them to annex not Gaza, but the West Bank.
 
 ## Verification
 

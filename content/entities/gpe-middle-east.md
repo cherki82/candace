@@ -1,6 +1,6 @@
 ---
 title: "Middle East"
-description: "Middle East (Places) - 73 mentions"
+description: "Middle East (Places) - 75 mentions"
 id: "gpe-middle-east"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-middle-east-t-00-54-45">2025-09-16 · 00:55:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-gpe-middle-east-t-00-26-31">2026-07-21 · 00:26:31</a></strong></div>
-<div><span>Episodes</span><strong>34</strong></div>
-<div><span>Mentions</span><strong>73</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-gpe-middle-east-t-00-41-31">2026-08-04 · 00:41:31</a></strong></div>
+<div><span>Episodes</span><strong>35</strong></div>
+<div><span>Mentions</span><strong>75</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -69,6 +69,7 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-middle-east-t-00-16-12" style="--pulse-height:38%" aria-label="Candace Owens x Ana Kasparian: 3 mentions" title="2026-05-28 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-gpe-middle-east-t-00-57-39" style="--pulse-height:12%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-gpe-middle-east-t-00-26-31" style="--pulse-height:12%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-gpe-middle-east-t-00-40-52" style="--pulse-height:25%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 2 mentions" title="2026-08-04 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -108,6 +109,7 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-middle-east-t-00-16-12) | 3 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-gpe-middle-east-t-00-57-39) | 1 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-gpe-middle-east-t-00-26-31) | 1 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-middle-east-t-00-40-52) | 2 |
 
 </details>
 </section>
@@ -115,7 +117,18 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (73)</strong></summary>
+<summary><strong class="section-title">Raw mentions (75)</strong></summary>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (2 mentions)</summary>
+
+**[00:41:19](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-middle-east-t-00-40-52)**
+> "what they are doing in the Middle East is the plan for America. I believe that from the ..."
+
+**[00:41:31](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-middle-east-t-00-41-31)**
+> "This is a colony in the Middle East. I'm referring to Israel that worships Baal, wors..."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>
@@ -230,7 +243,7 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2 mentions)</summary>
 
 **[00:02:29](/episodes/ep-rupRLXmSndU.md#ent-gpe-middle-east-t-00-02-06)**
-> "And it's also a overtly political business. Next thing we know, Charlie is dead. Turning Point USA is trying to twist and reimagine his legacy as pro-war in the Middle East, war in Iran, and Bibi is doing the most, right?"
+> "And it's also a overtly political business. Next thing we know, Charlie (Charlie Kirk) is dead. Turning Point USA is trying to twist and reimagine his legacy as pro-war in the Middle East, war in Iran, and Bibi (Benjamin Netanyahu) is doing the most, right?"
 
 **[00:10:09](/episodes/ep-rupRLXmSndU.md#ent-gpe-middle-east-t-00-09-38)**
 > "... he has extensive ties to the Middle East as well, I might add. You might have gathered tha..."
@@ -526,7 +539,7 @@ _No relationships extracted yet._
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2)</summary>
 
-- [00:51:58](/episodes/ep-eLgD5yUVbko.md#t-00-51-17) (Opinion) **Candace Owens**: ["Candace Owens said the war against Iran is unjust and morally contempt..."](/statements/statement-1fa070e7f5a4.md)
+- [00:51:58](/episodes/ep-eLgD5yUVbko.md#t-00-51-25) (Opinion) **Candace Owens**: ["Candace Owens said the war against Iran is unjust and morally contempt..."](/statements/statement-1fa070e7f5a4.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md), [United States](/entities/gpe-united-states.md)
 
 - [00:59:47](/episodes/ep-eLgD5yUVbko.md#t-00-59-43) (Claim) **Candace Owens**: ["Candace Owens said Donald Trump had lost support from the Make America..."](/statements/statement-cdcdb0b37222.md)

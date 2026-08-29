@@ -3,9 +3,17 @@ title: "6th Marine Regiment"
 description: "6th Marine Regiment (Organizations) - 1 mention"
 id: "org-6th-marine-regiment"
 type: "ORG"
+categories:
+  - "U.S. Marine Corps regiment"
 ---
 
 _Type: Organizations_
+
+**Categories:** U.S. Marine Corps regiment
+
+**Entity verification:** verified
+> Canonical name and identity for 6th Marine Regiment confirmed by the cited direct external source.
+Source: [6th Marine Regiment](https://www.2ndmardiv.marines.mil/Units/6th-Marine-Regiment/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-6th-marine-regiment-t-00-16-09">2025-12-01 · 00:16:09</a></strong></div>

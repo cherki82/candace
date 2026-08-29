@@ -1,6 +1,6 @@
 ---
 title: "Cozy Earth"
-description: "Cozy Earth (Organizations) - 38 mentions"
+description: "Cozy Earth (Organizations) - 43 mentions"
 id: "org-cozy-earth"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-cozy-earth-t-00-39-00">2026-01-13 · 00:39:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-org-cozy-earth-t-00-58-27">2026-07-14 · 00:58:51</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>38</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-cozy-earth-t-00-29-48">2026-08-04 · 00:29:58</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>43</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -43,6 +43,7 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-org-cozy-earth-t-00-29-34" style="--pulse-height:83%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 5 mentions" title="2026-05-20 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-cozy-earth-t-00-37-35" style="--pulse-height:83%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 5 mentions" title="2026-06-13 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-org-cozy-earth-t-00-57-48" style="--pulse-height:83%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 5 mentions" title="2026-07-14 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-cozy-earth-t-00-28-23" style="--pulse-height:83%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 5 mentions" title="2026-08-04 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +57,7 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-org-cozy-earth-t-00-29-34) | 5 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-org-cozy-earth-t-00-37-35) | 5 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-cozy-earth-t-00-57-48) | 5 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-org-cozy-earth-t-00-28-23) | 5 |
 
 </details>
 </section>
@@ -63,7 +65,27 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+<summary><strong class="section-title">Raw mentions (43)</strong></summary>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (5 mentions)</summary>
+
+**[00:28:56](/episodes/ep-1CFDtD0IgEg.md#ent-org-cozy-earth-t-00-28-23)**
+> "...have to remind you guys about Cozy Earth because you know I love them. I've been talking a..."
+
+**[00:29:17](/episodes/ep-1CFDtD0IgEg.md#ent-org-cozy-earth-t-00-29-05)**
+> "..., and barely dry you off, but Cozy Earth is unbelievably soft and super plush, and it's ac..."
+
+**[00:29:30](/episodes/ep-1CFDtD0IgEg.md#ent-org-cozy-earth-t-00-29-05)**
+> "... summer at the beach or pool, Cozy Earth also has amazing bath towels that bring that same..."
+
+**[00:29:48](/episodes/ep-1CFDtD0IgEg.md#ent-org-cozy-earth-t-00-29-48)**
+> "... best summer days. So head to cozyearth.com and use my code CANDACE for an exclusive 20% off."
+
+**[00:29:58](/episodes/ep-1CFDtD0IgEg.md#ent-org-cozy-earth-t-00-29-48)**
+> "... mention that you heard about Cozy Earth right here."
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (5 mentions)</summary>

@@ -16,8 +16,6 @@ _Type: People_
 
 **Categories:** White House, United States politics
 
-> **Possibly overlapping entity records:** [Susie Breitbart](/entities/person-susie-breitbart). These records share a name or alias; compare their histories before treating either count as complete.
-
 **Entity verification:** verified
 > The official White House personnel report identifies Susan S. Wiles as Chief of Staff, supporting the public canonical name Susie Wiles.
 Source: [2026 Annual Report to Congress on White House Office Personnel](https://www.whitehouse.gov/wp-content/uploads/2026/07/2026-Annual-Report-to-Congress-on-White-House-Staff.pdf)

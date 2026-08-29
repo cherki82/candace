@@ -5,11 +5,19 @@ id: "person-olivia-bishop"
 type: "PERSON"
 aliases:
   - "Olivia Robertson Cobb Bishop"
+categories:
+  - "eyewitness"
 ---
 
 _Type: People_
 
 **Also known as:** Olivia Robertson Cobb Bishop
+
+**Categories:** eyewitness
+
+**Entity verification:** verified
+> KSL identifies Olivia Bishop and her eyewitness account in the relevant case context.
+Source: [Orem woman recounts encounter — KSL](https://www.ksl.com/article/news/utah/charlie-kirk-murder/orem-woman-recounts-chilling-encounter-with-alleged-shooter-of-charlie-kirk/51587446)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-olivia-bishop-t-00-16-46">2025-10-02 · 00:17:21</a></strong></div>

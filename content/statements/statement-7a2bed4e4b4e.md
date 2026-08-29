@@ -33,7 +33,7 @@ veracity: "mixed"
 **Timestamp:** [00:15:11](/episodes/ep-q1NRQQAYS_Q.md#t-00-15-11) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(911);return false;">Play</a>
 
-> she has become the CEO of the organization because that is what Charlie wanted and it's because I saw it with all the people who are senior at turning point there was ... There wasn't even a question that that is what would happen. There was no one forcing this. There was no one pressuring it to happen. This is what everyone at turning point wanted to happen.
+> she has become the CEO of the organization because that is what Charlie (Charlie Kirk) wanted and it's because I saw it with all the people who are senior at turning point there was ... There wasn't even a question that that is what would happen. There was no one forcing this. There was no one pressuring it to happen. This is what everyone at turning point wanted to happen.
 
 ## Verification
 

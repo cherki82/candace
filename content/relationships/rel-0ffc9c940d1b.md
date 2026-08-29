@@ -11,7 +11,11 @@ object: "org-catholic-church"
 
 ## [Candace Owens](/entities/person-candace-owens) member of [Catholic Church](/entities/org-catholic-church)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
+
+**[LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8)**
+
+- [00:52:27](/episodes/ep-ChuWo-n49B8#t-00-52-27): _And so the person links that. So I want to issue that correction. and also plead ignorance because I told you guys that when I was baptized Catholic, it was done in the traditional Latin rights._
 
 **[LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8)**
 

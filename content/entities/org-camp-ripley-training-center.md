@@ -6,11 +6,19 @@ type: "ORG"
 aliases:
   - "Camp Riley"
   - "Camp Ripley"
+categories:
+  - "military training center"
 ---
 
 _Type: Organizations_
 
 **Also known as:** Camp Riley, Camp Ripley
+
+**Categories:** military training center
+
+**Entity verification:** verified
+> Canonical name and identity for Camp Ripley Training Center confirmed by the cited direct external source.
+Source: [Camp Ripley](https://ngmnpublic.azurewebsites.us/camp-ripley/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-org-camp-ripley-training-center-t-00-08-31">2025-11-21 · 00:08:40</a></strong></div>

@@ -3,9 +3,17 @@ title: "500 Delaware Avenue"
 description: "500 Delaware Avenue (Places) - 5 mentions"
 id: "gpe-500-delaware-avenue"
 type: "GPE"
+categories:
+  - "Wilmington address"
 ---
 
 _Type: Places_
+
+**Categories:** Wilmington address
+
+**Entity verification:** verified
+> The episode transcript supports this address label. This verifies the graph identity only, not alleged tenants or activity.
+Source: [Charlie Kirk And Brigitte's Legionnaires — source episode](https://www.youtube.com/watch?v=tB5SXXmd9vU)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-500-delaware-avenue-t-00-15-37">2025-11-19 · 00:15:43</a></strong></div>

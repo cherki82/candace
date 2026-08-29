@@ -15,7 +15,7 @@ object: "person-andrew-zenger"
 
 **[Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU)**
 
-- [00:24:16](/episodes/ep-rupRLXmSndU#t-00-24-16): _Just like I said, ahead of September 10th. Now, of course, Andrew Zenger, just like Karashi and Harris. Henderson and our Gina Romney, he attended BYU._
+- [00:24:16](/episodes/ep-rupRLXmSndU#t-00-24-16): _Just like I said, ahead of September 10th. Now, of course, Andrew Zenger, just like Qureshi and Harris. Henderson and our Gina (Gina Romney Henderson), he attended BYU. And it really made me wonder, like, what the heck goes on at BYU? And fortunately, someone told me._
 
 ### Related
 

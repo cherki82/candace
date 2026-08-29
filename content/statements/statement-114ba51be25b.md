@@ -4,9 +4,10 @@ description: "\"Steve Bannon said Ben Shapiro tried to take over Breitbart and t
 statement_id: "statement-114ba51be25b"
 speaker: "Steve Bannon"
 type: "accusation"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The source transcript and current AmericaFest report both record Bannon saying Shapiro tried to take over Breitbart and that Bannon ran him out. This verifies that Bannon made the accusation, not the accusation's underlying truth.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Bannon calls Ben Shapiro a cancer in Turning Point conference speech](https://www.washingtonexaminer.com/news/4074972/bannon-ben-shapiro-cancer-turning-point-conference-speech/)
+
+*Verified: 2026-08-27T19:42:39.589178*
 
 ---
 

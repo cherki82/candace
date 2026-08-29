@@ -11,7 +11,11 @@ object: "person-victor-marx"
 
 ## [Candace Owens](/entities/person-candace-owens) interviewed [Victor Marx](/entities/person-victor-marx)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
+
+**[LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8)**
+
+- [00:44:12](/episodes/ep-ChuWo-n49B8#t-00-44-12): _in the beginning and then a year on he admits that I was right and so watching him react to Victor Marx is like this is the door Piers (Piers Morgan) this is what we're saying TPUSA faith is something else what Erika (Erika Kirk) brought in around Charlie (Charlie Kirk) is something else and we noticed and I want to show you this clip of Piers Morgan questioning Victor Marx on you know just some details about his childhood that he also shared with us on this show take a listen_
 
 **[LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8)**
 

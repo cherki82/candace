@@ -1,6 +1,6 @@
 ---
 title: "YouTube"
-description: "YouTube (Organizations) - 149 mentions"
+description: "YouTube (Organizations) - 153 mentions"
 id: "org-youtube"
 type: "ORG"
 categories:
@@ -18,9 +18,9 @@ Source: [About YouTube](https://about.youtube/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-youtube-t-00-41-28">2025-09-18 · 00:42:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-youtube-t-00-38-55">2026-07-23 · 00:39:14</a></strong></div>
-<div><span>Episodes</span><strong>64</strong></div>
-<div><span>Mentions</span><strong>149</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-youtube-t-00-25-30">2026-08-21 · 00:25:41</a></strong></div>
+<div><span>Episodes</span><strong>67</strong></div>
+<div><span>Mentions</span><strong>153</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -53,8 +53,7 @@ Source: [About YouTube](https://about.youtube/)
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-youtube-t-00-08-59" style="--pulse-height:16%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 3 mentions" title="2025-12-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#t-00-38-03" style="--pulse-height:8%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-youtube-t-00-00-00" style="--pulse-height:11%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-youtube-t-00-20-03" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-youtube-t-00-51-47" style="--pulse-height:8%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-youtube-t-00-19-58" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-youtube-t-00-06-54" style="--pulse-height:11%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-youtube-t-00-31-13" style="--pulse-height:37%" aria-label="Myron Gaines x Candace Owens: 7 mentions" title="2026-01-16 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-youtube-t-00-19-45" style="--pulse-height:26%" aria-label="A Legal Turning Point? | Candace Ep 292: 5 mentions" title="2026-01-19 · 5 mentions"><span></span></a>
@@ -95,6 +94,10 @@ Source: [About YouTube](https://about.youtube/)
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-youtube-t-00-43-58" style="--pulse-height:16%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 3 mentions" title="2026-07-21 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-org-youtube-t-00-56-54" style="--pulse-height:8%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-org-youtube-t-00-38-55" style="--pulse-height:11%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-youtube-t-00-14-04" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-youtube-t-00-37-22" style="--pulse-height:8%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 1 mentions" title="2026-07-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-org-youtube-t-00-47-30" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-org-youtube-t-00-20-47" style="--pulse-height:11%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -122,8 +125,7 @@ Source: [About YouTube](https://about.youtube/)
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-org-youtube-t-00-08-59) | 3 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#t-00-38-03) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-youtube-t-00-00-00) | 2 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-youtube-t-00-20-03) | 1 |
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-org-youtube-t-00-51-47) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-youtube-t-00-19-58) | 1 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-youtube-t-00-06-54) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-youtube-t-00-31-13) | 7 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-youtube-t-00-19-45) | 5 |
@@ -164,6 +166,10 @@ Source: [About YouTube](https://about.youtube/)
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-youtube-t-00-43-58) | 3 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-youtube-t-00-56-54) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-youtube-t-00-38-55) | 2 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-org-youtube-t-00-14-04) | 1 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-org-youtube-t-00-37-22) | 1 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-org-youtube-t-00-47-30) | 1 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-youtube-t-00-20-47) | 2 |
 
 </details>
 </section>
@@ -171,7 +177,42 @@ Source: [About YouTube](https://about.youtube/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (149)</strong></summary>
+<summary><strong class="section-title">Raw mentions (153)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>
+
+**[00:21:17](/episodes/ep-_cNtgris8Ik.md#ent-org-youtube-t-00-20-47)**
+> "...that it is because, as Nissy (YouTube demonstrator; full identity unverified) demonstra..."
+
+**[00:25:41](/episodes/ep-_cNtgris8Ik.md#ent-org-youtube-t-00-25-30)**
+> "...following bigger followers on youtube whatever i so i knew that immediately there was g..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
+
+**[00:47:56](/episodes/ep-9hRcfSrri70.md#ent-org-youtube-t-00-47-30)**
+> "...mber how I came across you on YouTube, but I'm glad I did when I was working."
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (1 mentions)</summary>
+
+**[00:37:22](/episodes/ep-iB-YtO3UZOg.md#ent-org-youtube-t-00-37-22)**
+> "Um, the, I'm going to read one more of these comments actually from, from doctors that were writing on YouTube. One writes, I am a surgeon based on the medical examiner's report, the trajectory from the roof is not possible. Charlie was hit in the low neck. The medical examiner's report said much of his cervical spine was dramatically gone and that the left side of C2 to C7 was obliterated. To have affected up to C2, it would have had..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
+
+**[00:14:04](/episodes/ep-Vu6Y24pqhZs.md#ent-org-youtube-t-00-14-04)**
+> "So you will have to pivot over to YouTube, to Spotify, somewhere that provides the video because this is not something that we could just produce on an audio podcast here, unfortunately."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2 mentions)</summary>
@@ -698,17 +739,9 @@ Source: [About YouTube](https://about.youtube/)
 </details>
 
 <details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1 mentions)</summary>
-
-**[00:52:23](/episodes/ep-zSKrxIUMNqw.md#ent-org-youtube-t-00-51-47)**
-> "...ed from Australia, having our YouTube channel demonetized, people calling our sponsors."
-
-</details>
-
-<details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
 
-**[00:20:25](/episodes/ep-HYn0P-P1wUw.md#ent-org-youtube-t-00-20-03)**
+**[00:20:25](/episodes/ep-HYn0P-P1wUw.md#ent-org-youtube-t-00-19-58)**
 > "...came out and he had dropped a YouTube video of a live stream of him on a committee and ..."
 
 </details>
@@ -716,10 +749,10 @@ Source: [About YouTube](https://about.youtube/)
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (2 mentions)</summary>
 
-**[00:00:13](/episodes/ep-OEAHy3SsIiI.md#ent-org-youtube-t-00-00-00)**
+**[00:00:07](/episodes/ep-OEAHy3SsIiI.md#ent-org-youtube-t-00-00-00)**
 > "new YouTube and Rumble banner."
 
-**[00:30:55](/episodes/ep-OEAHy3SsIiI.md#ent-org-youtube-t-00-30-26)**
+**[00:30:51](/episodes/ep-OEAHy3SsIiI.md#ent-org-youtube-t-00-30-32)**
 > "... Wire had brought back my old YouTube channel."
 
 </details>
@@ -1019,6 +1052,14 @@ _No relationships extracted yet._
 </details>
 
 <details>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (1)</summary>
+
+- [00:58:59](/episodes/ep-xjzb_t5Tk9o.md#t-00-58-54) (Claim) **Candace Owens**: ["Candace Owens was banned from Australia, her YouTube channel was demon..."](/statements/statement-f6a05eb917b9.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Australia](/entities/gpe-australia.md)
+
+</details>
+
+<details>
 <summary>Myron Gaines x Candace Owens (1)</summary>
 
 - [00:40:30](/episodes/ep-2T39-oADLj0.md#t-00-40-23) (Accusation) **Candace Owens**: ["A campaign encouraged mass-reporting Candace Owens for violence, causi..."](/statements/statement-19ce4705cd6b.md)
@@ -1031,14 +1072,6 @@ _No relationships extracted yet._
 
 - [00:50:38](/episodes/ep-BKcOm32ZEGk.md#t-00-50-21) (Claim) **Candace Owens**: ["In 2024, YouTube demonetized Candace Owens."](/statements/statement-4fa9721c2695.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
-
-</details>
-
-<details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1)</summary>
-
-- [00:52:20](/episodes/ep-zSKrxIUMNqw.md#t-00-51-47) (Claim) **Candace Owens**: ["Candace Owens was banned from Australia, her YouTube channel was demon..."](/statements/statement-f6a05eb917b9.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Australia](/entities/gpe-australia.md)
 
 </details>
 

@@ -28,7 +28,7 @@ type: "citation"
 **Timestamp:** [00:14:52](/episodes/ep-LATnak75Si0.md#t-00-14-30) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(892);return false;">Play</a>
 
-> 32% is pretty insane for allegedly how anti-Israel he is...This is according to a CNN exit poll of about 4,700 people coming out.
+> 32% is pretty insane ... This is according to a CNN exit poll of about 4,700 people coming out.
 
 ## Verification
 

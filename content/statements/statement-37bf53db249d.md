@@ -1,6 +1,6 @@
 ---
-title: "Dan Flood was primarily and only concerned with the Hall of ..."
-description: "\"Dan Flood was primarily and only concerned with the Hall of Flags behind Charlie Kirk and wanted to make sure their SUVs had clear access\" — Candace Owens"
+title: "Dan Flood apparently cared primarily about making sure that ..."
+description: "\"Dan Flood apparently cared primarily about making sure that Turning Point USA's SUVs had clear access to the Hall of Flags behind Charlie Kirk.\" — Candace Owens"
 statement_id: "statement-37bf53db249d"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Dan Flood was primarily and only concerned with the Hall of Flags behind Charlie Kirk and wanted to make sure their SUVs had clear access
+> Dan Flood apparently cared primarily about making sure that Turning Point USA's SUVs had clear access to the Hall of Flags behind Charlie Kirk.
 
 ## Attribution
 

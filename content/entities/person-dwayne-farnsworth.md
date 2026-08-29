@@ -16,8 +16,8 @@ _Type: People_
 Source: [Visual Impulse LLC filing summary](https://www.bizprofile.net/az/mesa/visual-impulse-llc)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-dwayne-farnsworth-t-00-31-41">2026-01-06 · 00:31:41</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-dwayne-farnsworth-t-00-31-41">2026-01-06 · 00:32:12</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-dwayne-farnsworth-t-00-31-34">2026-01-06 · 00:31:41</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-dwayne-farnsworth-t-00-31-34">2026-01-06 · 00:32:12</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -28,15 +28,15 @@ Source: [Visual Impulse LLC filing summary](https://www.bizprofile.net/az/mesa/v
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-dwayne-farnsworth-t-00-31-41">BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-dwayne-farnsworth-t-00-31-34">BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-dwayne-farnsworth-t-00-31-41" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-dwayne-farnsworth-t-00-31-34" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-dwayne-farnsworth-t-00-31-41) | 2 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-dwayne-farnsworth-t-00-31-34) | 2 |
 
 </details>
 </section>
@@ -49,10 +49,10 @@ Source: [Visual Impulse LLC filing summary](https://www.bizprofile.net/az/mesa/v
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (2 mentions)</summary>
 
-**[00:31:41](/episodes/ep-HYn0P-P1wUw.md#ent-person-dwayne-farnsworth-t-00-31-41)**
+**[00:31:41](/episodes/ep-HYn0P-P1wUw.md#ent-person-dwayne-farnsworth-t-00-31-34)**
 > "...orth)'s father is a man named Dwayne Farnsworth."
 
-**[00:32:12](/episodes/ep-HYn0P-P1wUw.md#ent-person-dwayne-farnsworth-t-00-31-41)**
+**[00:32:12](/episodes/ep-HYn0P-P1wUw.md#ent-person-dwayne-farnsworth-t-00-31-34)**
 > "...others and first cousins with Dwayne Farnsworth,"
 
 </details>
@@ -68,14 +68,14 @@ Source: [Visual Impulse LLC filing summary](https://www.bizprofile.net/az/mesa/v
 - **[Eddie Farnsworth](/entities/person-eddie-farnsworth.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:31:41](/episodes/ep-HYn0P-P1wUw.md#t-00-30-58): “Terryl (Terryl Farnsworth)'s father is a man named Dwayne Farnsworth. And his first cousins are longtime Arizona congressman Eddie Farnsworth.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:31:41](/episodes/ep-HYn0P-P1wUw.md#t-00-31-34): “Terryl (Terryl Farnsworth)'s father is a man named Dwayne Farnsworth. And his first cousins are longtime Arizona congressman Eddie Farnsworth.”
 
 </details>
 
 - **[David Farnsworth](/entities/person-david-farnsworth.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:31:55](/episodes/ep-HYn0P-P1wUw.md#t-00-31-41): “Eddie (Eddie Farnsworth)'s brother is David Farnsworth. So just to reiterate that you have David, Senator David Farnsworth. He's still in office. You have Eddie Farnsworth, who was the chairman of the state house judiciary. And those two men are brothers and first cousins with Dwayne Farnsworth”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:31:55](/episodes/ep-HYn0P-P1wUw.md#t-00-31-34): “Eddie (Eddie Farnsworth)'s brother is David Farnsworth. So just to reiterate that you have David, Senator David Farnsworth. He's still in office. You have Eddie Farnsworth, who was the chairman of the state house judiciary. And those two men are brothers and first cousins with Dwayne Farnsworth”
 
 </details>
 
@@ -87,7 +87,7 @@ Source: [Visual Impulse LLC filing summary](https://www.bizprofile.net/az/mesa/v
 - **[Terryl Farnsworth](/entities/person-terryl-farnsworth.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:31:41](/episodes/ep-HYn0P-P1wUw.md#t-00-30-58): “Terryl (Terryl Farnsworth)'s father is a man named Dwayne Farnsworth.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:31:41](/episodes/ep-HYn0P-P1wUw.md#t-00-31-34): “Terryl (Terryl Farnsworth)'s father is a man named Dwayne Farnsworth.”
 
 </details>
 
@@ -99,21 +99,21 @@ Source: [Visual Impulse LLC filing summary](https://www.bizprofile.net/az/mesa/v
 - **[Terryl Farnsworth](/entities/person-terryl-farnsworth.md)** child of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:31:41](/episodes/ep-HYn0P-P1wUw.md#t-00-30-58): “Terryl (Terryl Farnsworth)'s father is a man named Dwayne Farnsworth.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:31:41](/episodes/ep-HYn0P-P1wUw.md#t-00-31-34): “Terryl (Terryl Farnsworth)'s father is a man named Dwayne Farnsworth.”
 
 </details>
 
 - **[Eddie Farnsworth](/entities/person-eddie-farnsworth.md)** cousin of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:31:41](/episodes/ep-HYn0P-P1wUw.md#t-00-30-58): “Terryl (Terryl Farnsworth)'s father is a man named Dwayne Farnsworth. And his first cousins are longtime Arizona congressman Eddie Farnsworth.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:31:41](/episodes/ep-HYn0P-P1wUw.md#t-00-31-34): “Terryl (Terryl Farnsworth)'s father is a man named Dwayne Farnsworth. And his first cousins are longtime Arizona congressman Eddie Farnsworth.”
 
 </details>
 
 - **[David Farnsworth](/entities/person-david-farnsworth.md)** cousin of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:31:55](/episodes/ep-HYn0P-P1wUw.md#t-00-31-41): “Eddie (Eddie Farnsworth)'s brother is David Farnsworth. So just to reiterate that you have David, Senator David Farnsworth. He's still in office. You have Eddie Farnsworth, who was the chairman of the state house judiciary. And those two men are brothers and first cousins with Dwayne Farnsworth”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:31:55](/episodes/ep-HYn0P-P1wUw.md#t-00-31-34): “Eddie (Eddie Farnsworth)'s brother is David Farnsworth. So just to reiterate that you have David, Senator David Farnsworth. He's still in office. You have Eddie Farnsworth, who was the chairman of the state house judiciary. And those two men are brothers and first cousins with Dwayne Farnsworth”
 
 </details>
 
@@ -127,7 +127,7 @@ Source: [Visual Impulse LLC filing summary](https://www.bizprofile.net/az/mesa/v
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1)</summary>
 
-- [00:31:41](/episodes/ep-HYn0P-P1wUw.md#t-00-30-58) (Claim) **Candace Owens**: ["Arizona politicians Eddie and David Farnsworth are brothers and first ..."](/statements/statement-3913ecc31109.md)
+- [00:31:41](/episodes/ep-HYn0P-P1wUw.md#t-00-31-34) (Claim) **Candace Owens**: ["Arizona politicians Eddie and David Farnsworth are brothers and first ..."](/statements/statement-3913ecc31109.md)
   - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Eddie Farnsworth](/entities/person-eddie-farnsworth.md), [David Farnsworth](/entities/person-david-farnsworth.md)
 
 </details>

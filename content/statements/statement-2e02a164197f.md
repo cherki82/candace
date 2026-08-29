@@ -20,13 +20,12 @@ type: "accusation"
 
 ## About
 
-- [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md) (org)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
-**Timestamp:** [00:16:33](/episodes/ep-HYn0P-P1wUw.md#t-00-15-58) 
+**Timestamp:** [00:16:33](/episodes/ep-HYn0P-P1wUw.md#t-00-16-07) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(993);return false;">Play</a>
 
 > We broke a story about the bomb dogs failing to detect the recently discharged weapon on September 10th and that it was actually the feds that then directed a rookie police officer, three rookie police officers to find it.

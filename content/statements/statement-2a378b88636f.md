@@ -1,6 +1,6 @@
 ---
-title: "Tyler Robinson wrote 'I had to leave it in a bush where I ch..."
-description: "\"Tyler Robinson wrote 'I had to leave it in a bush where I changed outfits' which is unusual phrasing because men don't say 'outfits'\" — Candace Owens"
+title: "Tyler Robinson allegedly wrote, 'I had to leave it in a bush..."
+description: "\"Tyler Robinson allegedly wrote, 'I had to leave it in a bush where I changed outfits'; Candace Owens said the phrasing was unusual because men do not ...\" — Candace Owens"
 statement_id: "statement-2a378b88636f"
 speaker: "Candace Owens"
 type: "opinion"
@@ -10,7 +10,7 @@ type: "opinion"
 
 ## Statement
 
-> Tyler Robinson wrote 'I had to leave it in a bush where I changed outfits' which is unusual phrasing because men don't say 'outfits'
+> Tyler Robinson allegedly wrote, 'I had to leave it in a bush where I changed outfits'; Candace Owens said the phrasing was unusual because men do not say 'outfits'.
 
 ## Attribution
 

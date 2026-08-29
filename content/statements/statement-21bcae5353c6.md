@@ -28,10 +28,10 @@ veracity: "mixed"
 ### 1. BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/1...
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
-**Timestamp:** [00:24:58](/episodes/ep-HYn0P-P1wUw.md#t-00-24-55) 
+**Timestamp:** [00:24:58](/episodes/ep-HYn0P-P1wUw.md#t-00-24-36) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1498);return false;">Play</a>
 
-> There was absolutely no blood on Charlie (Charlie Kirk). Not only did the bullet not go through, it didn't even cause any sort of destruction. And I follow that video until he goes down. There's nothing that we would expect to see from a .30-06.
+> a still image of the much longer video I have that was shown to me of Charlie (Charlie Kirk) from behind. ... There's no blood on Charlie (Charlie Kirk). There was absolutely no blood on Charlie (Charlie Kirk). Not only did the bullet not go through
 
 ### 2. EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace...
 

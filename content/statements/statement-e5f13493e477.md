@@ -4,9 +4,10 @@ description: "\"Rob O'Neill said the rooftop screwdriver probably would not have
 statement_id: "statement-e5f13493e477"
 speaker: "Rob O'Neill"
 type: "opinion"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -34,7 +35,20 @@ type: "opinion"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The source-scoped transcript contains O'Neill's quoted opinion about the screwdriver, rifle reassembly, placement in trees, and the sequence being shady. This verifies his expressed opinion, not the factual accuracy of his reconstruction.
+
+**Confidence:** High
+
+**Sources:**
+
+- [EXCLUSIVE: Ben Shapiro's 9/10 Lunch Date — Candace Ep. 365 transcript](https://podcasts.happyscribe.com/candace/10-lunch-date-more-text-messages-from-charlie-kirk)
+
+*Verified: 2026-08-27T19:42:39.589243*
 
 ---
 

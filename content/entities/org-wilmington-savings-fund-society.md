@@ -5,11 +5,19 @@ id: "org-wilmington-savings-fund-society"
 type: "ORG"
 aliases:
   - "WSFS"
+categories:
+  - "bank"
 ---
 
 _Type: Organizations_
 
 **Also known as:** WSFS
+
+**Categories:** bank
+
+**Entity verification:** verified
+> The bank's own site confirms the canonical institution identity.
+Source: [About WSFS Bank](https://www.wsfsbank.com/about-us/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-wilmington-savings-fund-society-t-00-31-13">2025-12-01 · 00:31:35</a></strong></div>

@@ -1,6 +1,6 @@
 ---
 title: "John F. Kennedy"
-description: "John F. Kennedy (People) - 99 mentions"
+description: "John F. Kennedy (People) - 107 mentions"
 id: "person-john-f-kennedy"
 type: "PERSON"
 aliases:
@@ -25,9 +25,9 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-john-f-kennedy-t-00-00-55">2025-09-19 · 00:01:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-john-f-kennedy-t-00-37-25">2026-08-14 · 00:37:25</a></strong></div>
-<div><span>Episodes</span><strong>53</strong></div>
-<div><span>Mentions</span><strong>99</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-john-f-kennedy-t-01-06-38">2026-08-17 · 01:06:38</a></strong></div>
+<div><span>Episodes</span><strong>59</strong></div>
+<div><span>Mentions</span><strong>107</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -61,6 +61,7 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-person-john-f-kennedy-t-00-47-54" style="--pulse-height:14%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-john-f-kennedy-t-00-01-20" style="--pulse-height:100%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 14 mentions" title="2025-12-08 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-person-john-f-kennedy-t-00-55-37" style="--pulse-height:43%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 6 mentions" title="2025-12-17 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-john-f-kennedy-t-00-36-43" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-john-f-kennedy-t-00-57-56" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-john-f-kennedy-t-00-52-31" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-john-f-kennedy-t-00-53-21" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
@@ -90,7 +91,12 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-john-f-kennedy-t-00-46-19" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-john-f-kennedy-t-00-28-38" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#t-01-00-50" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-person-john-f-kennedy-t-00-24-26" style="--pulse-height:14%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 2 mentions" title="2026-07-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-person-john-f-kennedy-t-00-49-55" style="--pulse-height:8%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-john-f-kennedy-t-00-25-59" style="--pulse-height:8%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-john-f-kennedy-t-00-37-25" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-john-f-kennedy-t-00-12-47" style="--pulse-height:8%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-john-f-kennedy-t-00-31-56" style="--pulse-height:14%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 2 mentions" title="2026-08-17 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -119,6 +125,7 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-person-john-f-kennedy-t-00-47-54) | 2 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-john-f-kennedy-t-00-01-20) | 14 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-john-f-kennedy-t-00-55-37) | 6 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-john-f-kennedy-t-00-36-43) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-john-f-kennedy-t-00-57-56) | 1 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-john-f-kennedy-t-00-52-31) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-john-f-kennedy-t-00-53-21) | 1 |
@@ -148,7 +155,12 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-john-f-kennedy-t-00-46-19) | 1 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-john-f-kennedy-t-00-28-38) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#t-01-00-50) | 1 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-person-john-f-kennedy-t-00-24-26) | 2 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-person-john-f-kennedy-t-00-49-55) | 1 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-person-john-f-kennedy-t-00-25-59) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-john-f-kennedy-t-00-37-25) | 1 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-john-f-kennedy-t-00-12-47) | 1 |
+| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-person-john-f-kennedy-t-00-31-56) | 2 |
 
 </details>
 </section>
@@ -156,13 +168,59 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (99)</strong></summary>
+<summary><strong class="section-title">Raw mentions (107)</strong></summary>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (2 mentions)</summary>
+
+**[00:31:56](/episodes/ep-E7P2ShoYDUA.md#ent-person-john-f-kennedy-t-00-31-56)**
+> "is me coming to you with the evidence that i have and expecting you to investigate it because that's your duty i mean that limitation it was really funny i what i saw a meme i think we're going to actually show it later of people just being like does he think that the if you think the fbi is involved and you think that they planned this assassination that the government's going to help you find the positive evidence for this stuff like well jfk i guess it was all above board board"
+
+**[01:06:38](/episodes/ep-E7P2ShoYDUA.md#ent-person-john-f-kennedy-t-01-06-38)**
+> "Did they Nixon JFK you because she has a full stylist and makeup cre..."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:37:25](/episodes/ep-nPhCKwJ6ye8.md#ent-person-john-f-kennedy-t-00-37-25)**
 > "...le after the assassination of JFK. So it's not exactly one that makes me nervous li..."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (1 mentions)</summary>
+
+**[00:12:47](/episodes/ep-aPOyk1i2LOc.md#ent-person-john-f-kennedy-t-00-12-47)**
+> "...le after the assassination of JFK so it's not exactly one that makes me nervous lik..."
+
+</details>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
+
+**[00:26:06](/episodes/ep-d7VsbEIWkP8.md#ent-person-john-f-kennedy-t-00-25-59)**
+> "JFK"
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>
+
+**[00:49:55](/episodes/ep-1CFDtD0IgEg.md#ent-person-john-f-kennedy-t-00-49-55)**
+> "...hing like this. Not even JFK (John F. Kennedy)'s story has these sorts of elements and threads ..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (2 mentions)</summary>
+
+**[00:24:26](/episodes/ep-Vu6Y24pqhZs.md#ent-person-john-f-kennedy-t-00-24-26)**
+> "It's just, it's all just so amazing how many new faces we had, so many things that were changed, people brought in in Utah, and the luck of all of these new people, biggest assassination since JFK. So, you know, just I guess congratulations are in order to the rookie cop and everybody involved."
+
+**[00:53:16](/episodes/ep-Vu6Y24pqhZs.md#ent-person-john-f-kennedy-t-00-53-16)**
+> "...rything was so new. You know, JFK was the TV president, so to speak, as technology ..."
 
 </details>
 
@@ -298,7 +356,7 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 > "...eded to match a bullet to the JFK case oh my gosh it's just so amazing it's amazing..."
 
 **[00:33:58](/episodes/ep-rupRLXmSndU.md#ent-person-john-f-kennedy-t-00-33-34)**
-> "...ecause we all know who killed JFK and it wasn't Lee Oswald Harvey."
+> "We needed to do this in 63 and we're going to do it again and kind of maybe all the same players are involved because we all know who killed JFK and it wasn't Lee Harvey Oswald."
 
 **[00:50:22](/episodes/ep-rupRLXmSndU.md#ent-person-john-f-kennedy-t-00-50-08)**
 > "...at he did, like LBJ did after JFK's death. She's forced to do that."
@@ -452,6 +510,14 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 
 **[00:58:11](/episodes/ep-HYn0P-P1wUw.md#ent-person-john-f-kennedy-t-00-57-56)**
 > "... be like having the limo that John Kennedy was shot in."
+
+</details>
+
+<details>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
+
+**[00:36:43](/episodes/ep-OEAHy3SsIiI.md#ent-person-john-f-kennedy-t-00-36-43)**
+> "...was the first candidate since JFK to actually want to declare war on the intel agen..."
 
 </details>
 

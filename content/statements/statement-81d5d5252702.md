@@ -1,6 +1,6 @@
 ---
-title: "Seth Dillon went back and forth with Charlie Kirk aggressive..."
-description: "\"Seth Dillon went back and forth with Charlie Kirk aggressively at the Hamptons retreat, saying criticizing Netanyahu would be antisemitic\" — Candace Owens"
+title: "Seth Dillon allegedly went back and forth aggressively with ..."
+description: "\"Seth Dillon allegedly went back and forth aggressively with Charlie Kirk at the Hamptons retreat, saying that criticizing Benjamin Netanyahu would be ...\" — Candace Owens"
 statement_id: "statement-81d5d5252702"
 speaker: "Candace Owens"
 type: "accusation"
@@ -10,7 +10,7 @@ type: "accusation"
 
 ## Statement
 
-> Seth Dillon went back and forth with Charlie Kirk aggressively at the Hamptons retreat, saying criticizing Netanyahu would be antisemitic
+> Seth Dillon allegedly went back and forth aggressively with Charlie Kirk at the Hamptons retreat, saying that criticizing Benjamin Netanyahu would be antisemitic.
 
 ## Attribution
 

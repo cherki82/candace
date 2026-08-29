@@ -1,6 +1,6 @@
 ---
 title: "Sandy Hook Elementary School shooting"
-description: "Sandy Hook Elementary School shooting (Events) - 20 mentions"
+description: "Sandy Hook Elementary School shooting (Events) - 22 mentions"
 id: "event-sandy-hook-elementary-school-shooting"
 type: "EVENT"
 aliases:
@@ -24,9 +24,9 @@ Source: [Connecticut DESPP — Sandy Hook Elementary School Shooting Reports](ht
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-event-sandy-hook-elementary-school-shooting-t-00-00-36">2026-07-21 · 00:00:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-event-sandy-hook-elementary-school-shooting-t-00-54-22">2026-07-23 · 00:54:39</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-event-sandy-hook-elementary-school-shooting-t-00-51-09">2026-08-19 · 00:51:21</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -40,6 +40,7 @@ Source: [Connecticut DESPP — Sandy Hook Elementary School Shooting Reports](ht
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-event-sandy-hook-elementary-school-shooting-t-00-00-36" style="--pulse-height:100%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 17 mentions" title="2026-07-21 · 17 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-event-sandy-hook-elementary-school-shooting-t-00-53-45" style="--pulse-height:12%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-event-sandy-hook-elementary-school-shooting-t-00-54-22" style="--pulse-height:8%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-event-sandy-hook-elementary-school-shooting-t-00-50-26" style="--pulse-height:12%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Connecticut DESPP — Sandy Hook Elementary School Shooting Reports](ht
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-event-sandy-hook-elementary-school-shooting-t-00-00-36) | 17 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-event-sandy-hook-elementary-school-shooting-t-00-53-45) | 2 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-event-sandy-hook-elementary-school-shooting-t-00-54-22) | 1 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-event-sandy-hook-elementary-school-shooting-t-00-50-26) | 2 |
 
 </details>
 </section>
@@ -55,7 +57,18 @@ Source: [Connecticut DESPP — Sandy Hook Elementary School Shooting Reports](ht
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (2 mentions)</summary>
+
+**[00:50:56](/episodes/ep-9hRcfSrri70.md#ent-event-sandy-hook-elementary-school-shooting-t-00-50-26)**
+> "...ike I showed you guys all the Sandy Hook references. Everybody is speaking about what happ..."
+
+**[00:51:21](/episodes/ep-9hRcfSrri70.md#ent-event-sandy-hook-elementary-school-shooting-t-00-51-09)**
+> "than they ever were about Sandy Hook. It was not global. People didn't follow that and..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>

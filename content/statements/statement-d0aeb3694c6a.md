@@ -39,7 +39,7 @@ type: "accusation"
 **Timestamp:** [00:17:09](/episodes/ep-eLgD5yUVbko.md#t-00-16-38) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1029);return false;">Play</a>
 
-> And to add to that totally unlikely scenario, they also kept insisting immediately and through various interviews that Erica was raised by a single mother, something that is objectively untrue. We have proven that a thousand times over it is objectively untrue for them to even suggest that Erica was raised by a single mother. It's not true.
+> And to add to that totally unlikely scenario, they also kept insisting immediately and through various interviews that Erika was raised by a single mother, something that is objectively untrue. We have proven that a thousand times over it is objectively untrue for them to even suggest that Erika was raised by a single mother. It's not true.
 
 ## Verification
 

@@ -11,7 +11,7 @@ date: "2025-09-09"
 
 > Text messages the day before Charlie Kirk's death in which he warned he thought he would be killed.
 
-## Mentioned In (23 times)
+## Mentioned In (25 times)
 
 ### 1. #1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candac...
 
@@ -196,3 +196,19 @@ date: "2025-09-09"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2138);return false;">▶️ Play</a>
 
 > he sends out messages declaring that an unknown 'they' are going to kill him
+
+### 24. Candace Owens vs Andrew Wilson: The Great Debate.
+
+**Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
+**Timestamp:** [00:05:43](/episodes/ep-aPOyk1i2LOc.md#event-event-2025-09-09-text-messages-the-day-before-charlie-kirk-s-death-t-00-05-43) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(343);return false;">▶️ Play</a>
+
+> Because I'm somewhat worried the left is trying to kill me. That was a message sent September 9th
+
+### 25. Behind The Scenes Of The Great Debate: TPUSA Is The Biggest ...
+
+**Episode:** [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md)
+**Timestamp:** [00:18:49](/episodes/ep-E7P2ShoYDUA.md#t-00-18-49) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1129);return false;">▶️ Play</a>
+
+> On September 9th, Charlie's security team wrote to him

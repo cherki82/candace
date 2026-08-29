@@ -1,6 +1,6 @@
 ---
 title: "Bill Ackman"
-description: "Bill Ackman (People) - 78 mentions"
+description: "Bill Ackman (People) - 84 mentions"
 id: "person-bill-ackman"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-bill-ackman-t-00-13-40">2025-09-15 · 00:14:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-bill-ackman-t-02-26-33">2026-08-14 · 02:26:42</a></strong></div>
-<div><span>Episodes</span><strong>25</strong></div>
-<div><span>Mentions</span><strong>78</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-bill-ackman-t-00-55-00">2026-08-21 · 00:55:00</a></strong></div>
+<div><span>Episodes</span><strong>27</strong></div>
+<div><span>Mentions</span><strong>84</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>23</strong></div>
+<div><span>Statements about</span><strong>25</strong></div>
 <div><span>Relationships</span><strong>22</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
@@ -60,7 +60,9 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-bill-ackman-t-00-06-55" style="--pulse-height:16%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-bill-ackman-t-00-39-47" style="--pulse-height:8%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-person-bill-ackman-t-00-21-52" style="--pulse-height:21%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 4 mentions" title="2026-07-22 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-person-bill-ackman-t-00-05-29" style="--pulse-height:21%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 4 mentions" title="2026-08-06 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-bill-ackman-t-02-26-33" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-person-bill-ackman-t-00-50-37" style="--pulse-height:11%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -90,7 +92,9 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-bill-ackman-t-00-06-55) | 3 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-bill-ackman-t-00-39-47) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-bill-ackman-t-00-21-52) | 4 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-bill-ackman-t-00-05-29) | 4 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-bill-ackman-t-02-26-33) | 1 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-bill-ackman-t-00-50-37) | 2 |
 
 </details>
 </section>
@@ -102,13 +106,41 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (78)</strong></summary>
+<summary><strong class="section-title">Raw mentions (84)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>
+
+**[00:50:44](/episodes/ep-_cNtgris8Ik.md#ent-person-bill-ackman-t-00-50-37)**
+> "...that was telling me about the Bill Ackman summit."
+
+**[00:55:00](/episodes/ep-_cNtgris8Ik.md#ent-person-bill-ackman-t-00-55-00)**
+> "...y mind what you've said about bill ackman staging an intervention what you said about charl..."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[02:26:42](/episodes/ep-nPhCKwJ6ye8.md#ent-person-bill-ackman-t-02-26-33)**
 > "...njamin Netanyahu) and Ackman (Bill Ackman), right?"
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (4 mentions)</summary>
+
+**[00:05:36](/episodes/ep-ChuWo-n49B8.md#ent-person-bill-ackman-t-00-05-29)**
+> "don't forget the Bill Ackman narrative in the background"
+
+**[00:05:44](/episodes/ep-ChuWo-n49B8.md#ent-person-bill-ackman-t-00-05-29)**
+> "mainstream that Bill Ackman tweeted that he was going to award this brave fat..."
+
+**[00:05:59](/episodes/ep-ChuWo-n49B8.md#ent-person-bill-ackman-t-00-05-29)**
+> "...d to be a lie. I'm not saying Bill Ackman lied. He could have been responding to the lie."
+
+**[00:06:04](/episodes/ep-ChuWo-n49B8.md#ent-person-bill-ackman-t-00-05-29)**
+> "...e Andrew Kolvet admitted that Bill Ackman did not give him $1 million."
 
 </details>
 
@@ -680,7 +712,23 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Bill Ackman (23)</strong></summary>
+<summary><strong class="section-title">Statements about Bill Ackman (25)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
+
+- [00:50:44](/episodes/ep-_cNtgris8Ik.md#t-00-50-37) (Claim) **Candace Owens** (via paraphrase): ["Owens said Kolvet told her about a Bill Ackman summit and a Benjamin N..."](/statements/statement-0f55bef1a565.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Michael McCoy](/entities/person-michael-mccoy.md)
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
+
+- [00:06:04](/episodes/ep-ChuWo-n49B8.md#t-00-05-29) (Claim) **Candace Owens** (via paraphrase): ["Owens said she believed Andrew Kolvet had admitted that Bill Ackman di..."](/statements/statement-49e3d46f6560.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Matt Robinson](/entities/person-matt-robinson.md)
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (2)</summary>

@@ -102,7 +102,7 @@ _Type: Organizations_
 <details>
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1)</summary>
 
-- [00:55:40](/episodes/ep-wcD2khO3rOA.md#t-00-54-55) (Claim) **The Washington Post** (via quoted article): ["Moon-affiliated entities helped bail out Liberty University, including..."](/statements/statement-bc6dd4b8b537.md)
+- [01:06:06](/episodes/ep-wcD2khO3rOA.md#t-01-05-32) (Claim) **The Washington Post** (via quoted article): ["Moon-affiliated entities helped bail out Liberty University, including..."](/statements/statement-bc6dd4b8b537.md)
   - Also about: [Liberty University](/entities/org-liberty-university.md), [Christian Heritage Foundation](/entities/org-christian-heritage-foundation.md)
 
 </details>

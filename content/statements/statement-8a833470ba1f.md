@@ -20,7 +20,7 @@ type: "factual_claim"
 
 ## About
 
-- [Satis](/entities/org-satis.md) (org)
+- [Satys](/entities/org-satys.md) (org)
 - [Wilmington](/entities/gpe-wilmington.md) (gpe)
 
 ## Source

@@ -1,6 +1,6 @@
 ---
 title: "Kathryn Nester"
-description: "Kathryn Nester (People) - 3 mentions"
+description: "Kathryn Nester (People) - 9 mentions"
 id: "person-kathryn-nester"
 type: "PERSON"
 aliases:
@@ -21,18 +21,56 @@ _Type: People_
 Source: [Attorneys clash over DNA evidence, media access in Tyler Robinson hearing](https://www.deseret.com/politics/2026/04/17/tyler-robinson-case-cameras-in-the-courtroom-juror-bias-argued/)
 
 <div class="entity-summary-grid">
-<div><span>Episodes</span><strong>0</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-kathryn-nester-t-01-22-11">2026-08-14 · 01:22:18</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-person-kathryn-nester-t-00-25-21">2026-08-18 · 00:25:47</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
+<section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
+<div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
+<p>Highest activity: <a href="/episodes/ep-4JxgOclKzqg.md#ent-person-kathryn-nester-t-00-24-37">Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377</a> (2 mentions)</p></div>
+<div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-kathryn-nester-t-01-22-11" style="--pulse-height:50%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-person-kathryn-nester-t-00-24-37" style="--pulse-height:100%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 2 mentions" title="2026-08-18 · 2 mentions"><span></span></a>
+</div>
+<details class="chart-table"><summary>View mention activity as a table</summary>
+
+| Source date | Source | Mentions |
+|---|---|---:|
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-kathryn-nester-t-01-22-11) | 1 |
+| 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-kathryn-nester-t-00-24-37) | 2 |
+
+</details>
+</section>
+
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (2 mentions)</summary>
+
+**[00:24:37](/episodes/ep-4JxgOclKzqg.md#ent-person-kathryn-nester-t-00-24-37)**
+> "... zoomed in the questions that Kathy Nester asked thereafter, things that she asserted about."
+
+**[00:25:47](/episodes/ep-4JxgOclKzqg.md#ent-person-kathryn-nester-t-00-25-21)**
+> "...ootage and whether or not, as Kathy Nester is asking, it was edited before it was given via ..."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (1 mentions)</summary>
+
+**[01:22:18](/episodes/ep-aPOyk1i2LOc.md#ent-person-kathryn-nester-t-01-22-11)**
+> "like we should now play the kathy nester clip because that that's from there so and they w..."
+
+</details>
 
 </details>
 
@@ -43,9 +81,10 @@ Source: [Attorneys clash over DNA evidence, media access in Tyler Robinson heari
 <summary>Represented (1)</summary>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:12:32](/episodes/ep-kaWtDuoY_ns.md#t-00-12-32): “And you're about to hear Kathy Nestor assert, that's another person on Tyler Robinson's team, that they have not yet even been given access to Tyler Robinson's phone.”
+- [Candace Owens vs Andrew Wilson: The Great Debate. @ 01:09:38](/episodes/ep-aPOyk1i2LOc.md#t-01-09-38): “yeah, Kathy first in court saying she didn't get her client's phone. Yeah. And then I think we'll go to the, if”
 
 </details>
 
@@ -55,9 +94,10 @@ Source: [Attorneys clash over DNA evidence, media access in Tyler Robinson heari
 <summary>Referenced By (1)</summary>
 
 - **[Tyler Robinson](/entities/person-tyler-robinson.md)** represented by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:12:32](/episodes/ep-kaWtDuoY_ns.md#t-00-12-32): “And you're about to hear Kathy Nestor assert, that's another person on Tyler Robinson's team, that they have not yet even been given access to Tyler Robinson's phone.”
+- [Candace Owens vs Andrew Wilson: The Great Debate. @ 01:09:38](/episodes/ep-aPOyk1i2LOc.md#t-01-09-38): “yeah, Kathy first in court saying she didn't get her client's phone. Yeah. And then I think we'll go to the, if”
 
 </details>
 

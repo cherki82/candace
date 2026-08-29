@@ -1,6 +1,6 @@
 ---
-title: "Ashley Reinsberg, a writer for The Free Press, lives in Tel ..."
-description: "\"Ashley Reinsberg, a writer for The Free Press, lives in Tel Aviv\" — Candace Owens"
+title: "Ashley Rindsberg, a writer for The Free Press, lives in Tel ..."
+description: "\"Ashley Rindsberg, a writer for The Free Press, lives in Tel Aviv\" — Candace Owens"
 statement_id: "statement-64a26bdcf6f0"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Ashley Reinsberg, a writer for The Free Press, lives in Tel Aviv
+> Ashley Rindsberg, a writer for The Free Press, lives in Tel Aviv
 
 ## Attribution
 
@@ -23,7 +23,7 @@ type: "factual_claim"
 
 - [Israel](/entities/gpe-israel.md) (gpe)
 - [The Free Press](/entities/org-the-free-press.md) (org)
-- [Ashley Reinsberg](/entities/person-ashley-reinsberg.md) (person)
+- [Ashley Rindsberg](/entities/person-ashley-rindsberg.md) (person)
 
 ## Source
 
@@ -31,7 +31,7 @@ type: "factual_claim"
 **Timestamp:** [00:31:34](/episodes/ep-mKXdKV-OBog.md#t-00-30-55) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1894);return false;">Play</a>
 
-> Are you shocked if I tell you that Ashley Reinsberg—he happens to live in Tel Aviv? He just cannot make it up. Like, just write your articles.
+> Are you shocked if I tell you that Ashley Rindsberg—he happens to live in Tel Aviv? He just cannot make it up. Like, just write your articles.
 
 ## Verification
 

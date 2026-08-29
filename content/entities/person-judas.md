@@ -3,9 +3,17 @@ title: "Judas"
 description: "Judas (People) - 7 mentions"
 id: "person-judas"
 type: "PERSON"
+categories:
+  - "religious figure"
 ---
 
 _Type: People_
+
+**Categories:** religious figure
+
+**Entity verification:** verified
+> Canonical name and identity for Judas confirmed by the cited direct external source.
+Source: [Judas Iscariot](https://en.wikipedia.org/wiki/Judas_Iscariot)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-person-judas-t-00-43-05">2025-10-27 · 00:43:36</a></strong></div>

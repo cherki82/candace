@@ -25,7 +25,7 @@ _Type: People_
 Source: [Robert F. Kennedy, Jr. - HHS](https://www.hhs.gov/about/leadership/robert-kennedy.html)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-robert-f-kennedy-jr-t-00-13-34">2026-01-05 · 00:13:59</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-robert-f-kennedy-jr-t-00-13-34">2026-01-05 · 00:13:58</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-robert-f-kennedy-jr-t-00-14-17">2026-01-05 · 00:14:19</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
@@ -58,11 +58,11 @@ Source: [Robert F. Kennedy, Jr. - HHS](https://www.hhs.gov/about/leadership/robe
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (2 mentions)</summary>
 
-**[00:13:59](/episodes/ep-OEAHy3SsIiI.md#ent-person-robert-f-kennedy-jr-t-00-13-34)**
-> "We're all in the Truman Show and everyone around us are actually robots and things have gotten so abnormal that even things that should be abnormal like RFK sexting, which is what Tim Dillon's about to describe,"
+**[00:13:58](/episodes/ep-OEAHy3SsIiI.md#ent-person-robert-f-kennedy-jr-t-00-13-34)**
+> "It feels like we're—we're all in the Truman Show, and everyone around us are actually robots. Things have gotten so abnormal that even things that should be abnormal, like RFK sexting, which is what Tim Dillon's about to describe, feel like that's the most normal thing going on."
 
 **[00:14:19](/episodes/ep-OEAHy3SsIiI.md#ent-person-robert-f-kennedy-jr-t-00-14-17)**
-> "...ber of this administration is rfk jr can you imagine he's the least scandal prone m..."
+> "There's nothing to look up to. There's no one to be excited about. Really, the least controversial member of this administration is RFK Jr. Can you imagine? He's the least scandal-prone member of the administration, and every three days there's another text leaking from him where he's like, open your mouth, I want to put my seed in you, and that's somehow..."
 
 </details>
 

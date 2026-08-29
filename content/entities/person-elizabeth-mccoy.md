@@ -1,6 +1,6 @@
 ---
 title: "Elizabeth McCoy"
-description: "Elizabeth McCoy (People) - 30 mentions"
+description: "Elizabeth McCoy (People) - 32 mentions"
 id: "person-elizabeth-mccoy"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-person-elizabeth-mccoy-t-00-42-01">2025-11-05 · 00:42:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-elizabeth-mccoy-t-00-16-52">2026-07-21 · 00:16:56</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>30</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-elizabeth-mccoy-t-00-16-30">2026-07-30 · 00:16:40</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>32</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -39,8 +39,8 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <a href="/episodes/ep-LATnak75Si0.md#ent-person-elizabeth-mccoy-t-00-42-01" style="--pulse-height:25%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKGUzGHymcI.md#ent-person-elizabeth-mccoy-t-00-29-52" style="--pulse-height:50%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 2 mentions" title="2025-11-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#t-00-18-23" style="--pulse-height:25%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-elizabeth-mccoy-t-00-11-36" style="--pulse-height:75%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 3 mentions" title="2026-01-05 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-elizabeth-mccoy-t-00-17-13" style="--pulse-height:25%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-elizabeth-mccoy-t-00-11-36" style="--pulse-height:50%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-elizabeth-mccoy-t-00-17-25" style="--pulse-height:25%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-elizabeth-mccoy-t-00-19-00" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 4 mentions" title="2026-01-19 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-elizabeth-mccoy-t-01-08-36" style="--pulse-height:25%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-elizabeth-mccoy-t-01-05-44" style="--pulse-height:25%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
@@ -51,9 +51,11 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-elizabeth-mccoy-t-00-09-57" style="--pulse-height:25%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-elizabeth-mccoy-t-00-16-48" style="--pulse-height:50%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-elizabeth-mccoy-t-00-15-28" style="--pulse-height:100%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 4 mentions" title="2026-03-26 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-51-08" style="--pulse-height:25%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-elizabeth-mccoy-t-00-25-48" style="--pulse-height:25%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-elizabeth-mccoy-t-00-23-21" style="--pulse-height:25%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-elizabeth-mccoy-t-00-12-46" style="--pulse-height:50%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 2 mentions" title="2026-07-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-elizabeth-mccoy-t-00-14-42" style="--pulse-height:50%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 2 mentions" title="2026-07-30 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -62,8 +64,8 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-elizabeth-mccoy-t-00-42-01) | 1 |
 | 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-person-elizabeth-mccoy-t-00-29-52) | 2 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#t-00-18-23) | 1 |
-| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-elizabeth-mccoy-t-00-11-36) | 3 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-elizabeth-mccoy-t-00-17-13) | 1 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-elizabeth-mccoy-t-00-11-36) | 2 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-elizabeth-mccoy-t-00-17-25) | 1 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-elizabeth-mccoy-t-00-19-00) | 4 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-elizabeth-mccoy-t-01-08-36) | 1 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-elizabeth-mccoy-t-01-05-44) | 1 |
@@ -74,9 +76,11 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-elizabeth-mccoy-t-00-09-57) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-elizabeth-mccoy-t-00-16-48) | 2 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-elizabeth-mccoy-t-00-15-28) | 4 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#t-00-51-08) | 1 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-elizabeth-mccoy-t-00-25-48) | 1 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-elizabeth-mccoy-t-00-23-21) | 1 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-elizabeth-mccoy-t-00-12-46) | 2 |
+| 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-person-elizabeth-mccoy-t-00-14-42) | 2 |
 
 </details>
 </section>
@@ -84,7 +88,18 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (2 mentions)</summary>
+
+**[00:15:03](/episodes/ep-AoYZel7_cGQ.md#ent-person-elizabeth-mccoy-t-00-14-42)**
+> "...ly been told it was allegedly Elizabeth McCoy that was recording Erika (Erika Kirk) in Charlie ..."
+
+**[00:16:40](/episodes/ep-AoYZel7_cGQ.md#ent-person-elizabeth-mccoy-t-00-16-30)**
+> "...oves to post the footage that Elizabeth McCoy..."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (2 mentions)</summary>
@@ -110,6 +125,14 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 **[00:26:07](/episodes/ep-3QJqtW_NOSI.md#ent-person-elizabeth-mccoy-t-00-25-48)**
 > "Elizabeth Kravchuk"
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
+
+**[00:51:29](/episodes/ep-q1NRQQAYS_Q.md#t-00-51-08)**
+> "Elizabeth McQuade"
 
 </details>
 
@@ -220,22 +243,19 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
 
-**[00:17:35](/episodes/ep-HYn0P-P1wUw.md#ent-person-elizabeth-mccoy-t-00-17-13)**
+**[00:17:35](/episodes/ep-HYn0P-P1wUw.md#ent-person-elizabeth-mccoy-t-00-17-25)**
 > "...a was initially brought up by Elizabeth McCoy, it was ultimately a group decision to move forwa..."
 
 </details>
 
 <details>
-<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (3 mentions)</summary>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (2 mentions)</summary>
 
 **[00:11:36](/episodes/ep-OEAHy3SsIiI.md#ent-person-elizabeth-mccoy-t-00-11-36)**
 > "And the answer that I got, you're not going to believe this or you will believe this, that the person who approved this tent was the amazing Elizabeth McCoy."
 
 **[00:11:46](/episodes/ep-OEAHy3SsIiI.md#ent-person-elizabeth-mccoy-t-00-11-36)**
 > "...an her husband Michael McCoy. Elizabeth McCoy was the person who approved this tent,"
-
-**[00:11:51](/episodes/ep-OEAHy3SsIiI.md#ent-person-elizabeth-mccoy-t-00-11-36)**
-> "...because she's very close with Elizabeth McCoy. She's very close with her."
 
 </details>
 
@@ -348,7 +368,15 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Elizabeth McCoy (11)</strong></summary>
+<summary><strong class="section-title">Statements about Elizabeth McCoy (12)</strong></summary>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (1)</summary>
+
+- [00:16:40](/episodes/ep-AoYZel7_cGQ.md#t-00-16-30) (Claim) **Candace Owens**: ["Candace Owens said Elizabeth McCoy recorded Erika Kirk leaning over Ch..."](/statements/statement-d05b6be70bfd.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Utah](/entities/gpe-utah.md)
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1)</summary>
@@ -386,7 +414,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1)</summary>
 
-- [00:17:30](/episodes/ep-HYn0P-P1wUw.md#t-00-17-13) (Claim) **Turning Point USA** (via paraphrase): ["Turning Point USA said the AmericaFest memorial-tent display was a gro..."](/statements/statement-c52944e46a39.md)
+- [00:17:30](/episodes/ep-HYn0P-P1wUw.md#t-00-17-25) (Claim) **Turning Point USA** (via paraphrase): ["Turning Point USA said the AmericaFest memorial-tent display was a gro..."](/statements/statement-c52944e46a39.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
@@ -394,7 +422,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (2)</summary>
 
-- [00:11:36](/episodes/ep-OEAHy3SsIiI.md#t-00-10-54) (Accusation) **Candace Owens**: ["Elizabeth McCoy approved the recreated tent displayed at AmericaFest."](/statements/statement-15d4a28f32e3.md)
+- [00:11:36](/episodes/ep-OEAHy3SsIiI.md#t-00-10-54) (Accusation) **Anonymous Source #12 (Ep OEAHy3SsIiI)** (via read message): ["An unnamed Turning Point USA contact told Candace Owens that Elizabeth..."](/statements/statement-15d4a28f32e3.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:11:51](/episodes/ep-OEAHy3SsIiI.md#t-00-11-36) (Accusation) **Candace Owens**: ["Erika Kirk knew about the recreated tent because she is close with Eli..."](/statements/statement-e9ca8cfc8aa5.md)

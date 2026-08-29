@@ -1,6 +1,6 @@
 ---
 title: "Paul the Apostle"
-description: "Paul the Apostle (People) - 2 mentions"
+description: "Paul the Apostle (People) - 3 mentions"
 id: "person-paul-the-apostle"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Solemnity of the Conversion of Saint Paul the Apostle | Vatican](https:
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Wjul6YV6izo.md#t-00-18-42">2026-01-30 · 00:19:00</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Wjul6YV6izo.md#t-00-22-23">2026-01-30 · 00:23:02</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HZvwbfePe7o.md#t-00-23-13">2026-07-27 · 00:23:31</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,12 +37,14 @@ Source: [Solemnity of the Conversion of Saint Paul the Apostle | Vatican](https:
 <p>Highest activity: <a href="/episodes/ep-Wjul6YV6izo.md#t-00-22-23">AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-Wjul6YV6izo.md#t-00-22-23" style="--pulse-height:100%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 2 mentions" title="2026-01-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#t-00-23-13" style="--pulse-height:50%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#t-00-22-23) | 2 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#t-00-23-13) | 1 |
 
 </details>
 </section>
@@ -50,7 +52,15 @@ Source: [Solemnity of the Conversion of Saint Paul the Apostle | Vatican](https:
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (1 mentions)</summary>
+
+**[00:23:31](/episodes/ep-HZvwbfePe7o.md#t-00-23-13)**
+> "Paul's letter to the Corinthians"
+
+</details>
 
 <details>
 <summary>AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 (2 mentions)</summary>

@@ -23,12 +23,11 @@ type: "factual_claim"
 - [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Turning Point USA](/entities/org-turning-point-usa.md) (org)
-- [Erika Kirk](/entities/person-erika-kirk.md) (person)
 
 ## Source
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
-**Timestamp:** [00:15:45](/episodes/ep-HYn0P-P1wUw.md#t-00-15-17) 
+**Timestamp:** [00:15:45](/episodes/ep-HYn0P-P1wUw.md#t-00-15-28) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(945);return false;">Play</a>
 
 > We broke the story that Netanyahu (Benjamin Netanyahu) called Charlie (Charlie Kirk) to make an offer to take Turning Point to the next level. That story is being disputed by Erika (Erika Kirk).

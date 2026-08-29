@@ -1,6 +1,6 @@
 ---
 title: "Pokémon"
-description: "Pokémon (Works & Media) - 1 mention"
+description: "Pokémon (Works & Media) - 2 mentions"
 id: "work-pokemon-franchise"
 type: "WORK"
 aliases:
@@ -22,9 +22,9 @@ Source: [About Pokémon](https://www.pokemon.com/us/about-pokemon/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-work-pokemon-franchise-t-00-01-21">2026-03-18 · 00:01:38</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-work-pokemon-franchise-t-00-01-21">2026-03-18 · 00:01:38</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-work-pokemon-franchise-t-00-40-37">2026-08-18 · 00:40:37</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,12 +36,14 @@ Source: [About Pokémon](https://www.pokemon.com/us/about-pokemon/)
 <p>Highest activity: <a href="/episodes/ep-_vg7ucP1E0g.md#ent-work-pokemon-franchise-t-00-01-21">Bride Of Charlie: Red Sparrow | Episode 8</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-work-pokemon-franchise-t-00-01-21" style="--pulse-height:100%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-work-pokemon-franchise-t-00-40-37" style="--pulse-height:100%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-work-pokemon-franchise-t-00-01-21) | 1 |
+| 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-work-pokemon-franchise-t-00-40-37) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [About Pokémon](https://www.pokemon.com/us/about-pokemon/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1 mentions)</summary>
+
+**[00:40:37](/episodes/ep-4JxgOclKzqg.md#ent-work-pokemon-franchise-t-00-40-37)**
+> "Who is that Pokemon?"
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Red Sparrow | Episode 8 (1 mentions)</summary>

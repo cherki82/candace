@@ -1,6 +1,6 @@
 ---
 title: "Lee Trotter"
-description: "Lee Trotter (People) - 22 mentions"
+description: "Lee Trotter (People) - 24 mentions"
 id: "person-lee-trotter"
 type: "PERSON"
 aliases:
@@ -25,7 +25,7 @@ Source: [MountainStar Healthcare — Lee Trotter, DO](https://www.mountainstar.c
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-lee-trotter-t-00-28-37">2025-10-28 · 00:29:11</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-69A8TzAGHlU.md#ent-person-lee-trotter-t-00-45-18">2026-04-30 · 00:45:51</a></strong></div>
 <div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -34,19 +34,19 @@ Source: [MountainStar Healthcare — Lee Trotter, DO](https://www.mountainstar.c
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-lee-trotter-t-00-28-37">Charlie Ripped A Hole In Reality | Candace Ep 253</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-lee-trotter-t-00-14-53">BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-lee-trotter-t-00-28-37" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 3 mentions" title="2025-10-28 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-mKXdKV-OBog.md#ent-person-lee-trotter-t-00-14-17" style="--pulse-height:33%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-lee-trotter-t-00-04-53" style="--pulse-height:100%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 3 mentions" title="2025-12-17 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-lee-trotter-t-00-14-33" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 3 mentions" title="2026-01-06 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-lee-trotter-t-00-19-58" style="--pulse-height:33%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-lee-trotter-t-00-02-52" style="--pulse-height:33%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-lee-trotter-t-00-12-58" style="--pulse-height:33%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-lee-trotter-t-00-09-30" style="--pulse-height:100%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 3 mentions" title="2026-03-31 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-rupRLXmSndU.md#ent-person-lee-trotter-t-00-19-19" style="--pulse-height:33%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-lee-trotter-t-01-01-45" style="--pulse-height:67%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-69A8TzAGHlU.md#ent-person-lee-trotter-t-00-45-18" style="--pulse-height:67%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 2 mentions" title="2026-04-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-lee-trotter-t-00-28-37" style="--pulse-height:60%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 3 mentions" title="2025-10-28 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-mKXdKV-OBog.md#ent-person-lee-trotter-t-00-14-17" style="--pulse-height:20%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-person-lee-trotter-t-00-04-53" style="--pulse-height:60%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 3 mentions" title="2025-12-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-lee-trotter-t-00-14-53" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 5 mentions" title="2026-01-06 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-person-lee-trotter-t-00-19-58" style="--pulse-height:20%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-lee-trotter-t-00-02-52" style="--pulse-height:20%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-person-lee-trotter-t-00-12-58" style="--pulse-height:20%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-lee-trotter-t-00-09-30" style="--pulse-height:60%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 3 mentions" title="2026-03-31 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-person-lee-trotter-t-00-19-19" style="--pulse-height:20%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-lee-trotter-t-01-01-45" style="--pulse-height:40%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-person-lee-trotter-t-00-45-18" style="--pulse-height:40%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 2 mentions" title="2026-04-30 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -55,7 +55,7 @@ Source: [MountainStar Healthcare — Lee Trotter, DO](https://www.mountainstar.c
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-lee-trotter-t-00-28-37) | 3 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-lee-trotter-t-00-14-17) | 1 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-lee-trotter-t-00-04-53) | 3 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-lee-trotter-t-00-14-33) | 3 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-lee-trotter-t-00-14-53) | 5 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-lee-trotter-t-00-19-58) | 1 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-lee-trotter-t-00-02-52) | 1 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-lee-trotter-t-00-12-58) | 1 |
@@ -70,7 +70,7 @@ Source: [MountainStar Healthcare — Lee Trotter, DO](https://www.mountainstar.c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331 (2 mentions)</summary>
@@ -106,7 +106,7 @@ Source: [MountainStar Healthcare — Lee Trotter, DO](https://www.mountainstar.c
 <summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (3 mentions)</summary>
 
 **[00:09:42](/episodes/ep-UYkXV9mYbT4.md#ent-person-lee-trotter-t-00-09-30)**
-> "...ey conferenced and called Dr. Lee Trotter. This is the single biggest lie that Erica Kirk w..."
+> "They conferenced and called Dr. Lee Trotter. This is the single biggest lie that Erika Kirk would later tell me."
 
 **[00:10:26](/episodes/ep-UYkXV9mYbT4.md#ent-person-lee-trotter-t-00-10-02)**
 > "Dr. Lee Trotter did not violate HIPAA. In fact, he could sue her ..."
@@ -141,16 +141,22 @@ Source: [MountainStar Healthcare — Lee Trotter, DO](https://www.mountainstar.c
 </details>
 
 <details>
-<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (3 mentions)</summary>
+<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (5 mentions)</summary>
 
-**[00:15:09](/episodes/ep-HYn0P-P1wUw.md#ent-person-lee-trotter-t-00-14-33)**
+**[00:15:09](/episodes/ep-HYn0P-P1wUw.md#ent-person-lee-trotter-t-00-14-53)**
 > "Trotter (Lee Trotter) from returning to his operating room,"
 
-**[00:15:20](/episodes/ep-HYn0P-P1wUw.md#ent-person-lee-trotter-t-00-15-17)**
+**[00:15:20](/episodes/ep-HYn0P-P1wUw.md#ent-person-lee-trotter-t-00-14-53)**
 > "Trotter (Lee Trotter) to go back into his operating room?"
 
-**[00:15:28](/episodes/ep-HYn0P-P1wUw.md#ent-person-lee-trotter-t-00-15-17)**
+**[00:15:28](/episodes/ep-HYn0P-P1wUw.md#ent-person-lee-trotter-t-00-15-28)**
 > "Lee Trotter at all."
+
+**[00:15:04](/episodes/ep-HYn0P-P1wUw.md#ent-person-lee-trotter-t-00-14-53)**
+> "...spital, that the feds blocked Dr. Trotter (Lee Trotter) from returning to his operating roo..."
+
+**[00:15:22](/episodes/ep-HYn0P-P1wUw.md#ent-person-lee-trotter-t-00-14-53)**
+> "...hat quotation never came from Dr. Lee Trotter at all. It allegedly came from Erika (Erika Kirk)..."
 
 </details>
 
@@ -300,10 +306,9 @@ Source: [MountainStar Healthcare — Lee Trotter, DO](https://www.mountainstar.c
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (2)</summary>
 
-- [00:15:04](/episodes/ep-HYn0P-P1wUw.md#t-00-14-33) (Accusation) **Candace Owens**: ["Federal investigators seized hospital cameras and blocked Dr. Lee Trot..."](/statements/statement-35ebb52a1ab1.md)
-  - Also about: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+- [00:15:04](/episodes/ep-HYn0P-P1wUw.md#t-00-14-53) (Accusation) **Candace Owens**: ["Federal investigators seized hospital cameras and blocked Dr. Lee Trot..."](/statements/statement-35ebb52a1ab1.md)
 
-- [00:15:22](/episodes/ep-HYn0P-P1wUw.md#t-00-15-17) (Accusation) **Candace Owens**: ["Andrew Kolvet falsely attributed the 'Superman' quotation to Dr. Lee T..."](/statements/statement-7e48b5178fb8.md)
+- [00:15:22](/episodes/ep-HYn0P-P1wUw.md#t-00-14-53) (Accusation) **Candace Owens**: ["Andrew Kolvet falsely attributed the 'Superman' quotation to Dr. Lee T..."](/statements/statement-7e48b5178fb8.md)
   - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>

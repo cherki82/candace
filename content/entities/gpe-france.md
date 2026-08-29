@@ -1,6 +1,6 @@
 ---
 title: "France"
-description: "France (Places) - 317 mentions"
+description: "France (Places) - 349 mentions"
 id: "gpe-france"
 type: "GPE"
 aliases:
@@ -22,11 +22,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-gpe-france-t-00-01-27">2025-10-06 · 00:01:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-04-01-26">2026-08-14 · 04:01:41</a></strong></div>
-<div><span>Episodes</span><strong>49</strong></div>
-<div><span>Mentions</span><strong>317</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-france-t-00-55-00">2026-08-21 · 00:55:00</a></strong></div>
+<div><span>Episodes</span><strong>55</strong></div>
+<div><span>Mentions</span><strong>349</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>36</strong></div>
+<div><span>Statements about</span><strong>39</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -52,8 +52,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-france-t-00-00-00" style="--pulse-height:28%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 20 mentions" title="2025-12-08 · 20 mentions"><span></span></a>
 <a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-france-t-00-37-32" style="--pulse-height:11%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 8 mentions" title="2025-12-09 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-france-t-00-19-44" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 3 mentions" title="2026-01-05 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-france-t-00-53-16" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 4 mentions" title="2026-01-06 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-france-t-00-56-00" style="--pulse-height:8%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-france-t-00-53-48" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 4 mentions" title="2026-01-06 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-france-t-00-40-14" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-france-t-00-22-34" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-france-t-01-00-11" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
@@ -83,7 +82,14 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-france-t-00-12-22" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 5 mentions" title="2026-06-26 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-france-t-00-00-42" style="--pulse-height:8%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 3 mentions" title="2026-07-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-gpe-france-t-00-33-28" style="--pulse-height:8%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-france-t-00-30-19" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 5 mentions" title="2026-07-29 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-gpe-france-t-00-41-57" style="--pulse-height:8%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 1 mentions" title="2026-07-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-france-t-00-00-46" style="--pulse-height:8%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 3 mentions" title="2026-08-07 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-02-21-59" style="--pulse-height:24%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 17 mentions" title="2026-08-14 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-gpe-france-t-01-40-57" style="--pulse-height:21%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 15 mentions" title="2026-08-14 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-gpe-france-t-00-30-39" style="--pulse-height:8%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 3 mentions" title="2026-08-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-gpe-france-t-00-23-47" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-france-t-00-45-36" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 5 mentions" title="2026-08-21 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -106,8 +112,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-france-t-00-00-00) | 20 |
 | 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-france-t-00-37-32) | 8 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-france-t-00-19-44) | 3 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-france-t-00-53-16) | 4 |
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-france-t-00-56-00) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-france-t-00-53-48) | 4 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-france-t-00-40-14) | 3 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-france-t-00-22-34) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-france-t-01-00-11) | 2 |
@@ -137,7 +142,14 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-france-t-00-12-22) | 5 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-gpe-france-t-00-00-42) | 3 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-gpe-france-t-00-33-28) | 1 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-france-t-00-30-19) | 5 |
+| 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-gpe-france-t-00-41-57) | 1 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-france-t-00-00-46) | 3 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-02-21-59) | 17 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-france-t-01-40-57) | 15 |
+| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-gpe-france-t-00-30-39) | 3 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-gpe-france-t-00-23-47) | 1 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-gpe-france-t-00-45-36) | 5 |
 
 </details>
 </section>
@@ -145,7 +157,49 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (317)</strong></summary>
+<summary><strong class="section-title">Raw mentions (349)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (5 mentions)</summary>
+
+**[00:45:43](/episodes/ep-_cNtgris8Ik.md#ent-gpe-france-t-00-45-36)**
+> "...you know she ended up in like france with kanye or something the next day"
+
+**[00:46:10](/episodes/ep-_cNtgris8Ik.md#ent-gpe-france-t-00-45-56)**
+> "...ers the moment that I went to France and I wore the White Lives Matter t-shirt. Obviou..."
+
+**[00:47:14](/episodes/ep-_cNtgris8Ik.md#ent-gpe-france-t-00-47-14)**
+> "... this come together and go to France. I called him and I said, And I said, Charlie, li..."
+
+**[00:48:07](/episodes/ep-_cNtgris8Ik.md#ent-gpe-france-t-00-47-52)**
+> "...to the team I'm just going to France to go shop and not that I had asked Charlie for p..."
+
+**[00:55:00](/episodes/ep-_cNtgris8Ik.md#ent-gpe-france-t-00-55-00)**
+> "about france and what was going on and why charlie agreed to i..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
+
+**[00:23:47](/episodes/ep-9hRcfSrri70.md#ent-gpe-france-t-00-23-47)**
+> "I mean, she's in France, but she's shopping in Delaware, but I'm in Tenne..."
+
+</details>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (3 mentions)</summary>
+
+**[00:30:39](/episodes/ep-E7P2ShoYDUA.md#ent-gpe-france-t-00-30-39)**
+> "and France were involved in the most traumatic public assassination of Gen Z's life? Lifetime is? She had no positive evidence Israel's involved in anything."
+
+**[00:30:48](/episodes/ep-E7P2ShoYDUA.md#ent-gpe-france-t-00-30-39)**
+> "No positive evidence that France is involved in anything. No positive evidence TPU..."
+
+**[01:23:51](/episodes/ep-E7P2ShoYDUA.md#ent-gpe-france-t-01-23-33)**
+> "...ly jumped into the Israel and France narrative, which by the way, people would add tha..."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (17 mentions)</summary>
@@ -200,6 +254,98 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[04:01:41](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-france-t-04-01-26)**
 > "...ckly and to speak to me about France and to talk about this penguin receipt and my tim..."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (15 mentions)</summary>
+
+**[01:40:57](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-france-t-01-40-57)**
+> "...omebody who is high up in the French government. I passed off that information to Tuls..."
+
+**[01:47:07](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-france-t-01-46-50)**
+> "How? Why? I think France and Israel are involved in Charlie Kirk's assassi..."
+
+**[01:47:22](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-france-t-01-47-22)**
+> "France"
+
+**[01:48:51](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-france-t-01-48-39)**
+> "... if you think that Israel and France were involved in the assassination of Charlie Kir..."
+
+**[01:50:35](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-france-t-01-50-35)**
+> "Israel and France were involved in the most traumatic public assass..."
+
+**[01:50:51](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-france-t-01-50-46)**
+> "...ce, where's your evidence for France doing this?"
+
+**[01:50:58](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-france-t-01-50-46)**
+> "...e who was high ranking in the French government, right?"
+
+**[01:51:58](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-france-t-01-51-58)**
+> "...you have full confidence that France and Israel were involved in the assassination of ..."
+
+**[01:52:17](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-france-t-01-52-17)**
+> "was going to kill there that France killed Charlie Kirk or just that you were in dang..."
+
+**[01:55:37](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-france-t-01-55-37)**
+> "...y Is that specifically to the French government or Israel's involvement in the killing"
+
+**[01:55:49](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-france-t-01-55-49)**
+> "... was they got were saying the French foreign, that person as a part of it was saying t..."
+
+**[01:56:06](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-france-t-01-56-06)**
+> "...nce I believe that Israel and French was involved."
+
+**[03:03:44](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-france-t-03-03-31)**
+> "No positive evidence that France is involved in anything. No positive evidence TPU..."
+
+**[03:04:59](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-france-t-03-04-51)**
+> "...ms that Israel's involved and France is involved and all these different players are i..."
+
+**[03:08:36](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-france-t-03-08-21)**
+> "...ckly and to speak to me about France and to talk about this Panguitch receipt and my t..."
+
+</details>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (3 mentions)</summary>
+
+**[00:00:46](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-france-t-00-00-46)**
+> "In French"
+
+**[00:00:55](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-france-t-00-00-46)**
+> "...text is being translated from French. Thanks for your great work."
+
+**[00:01:01](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-france-t-00-00-46)**
+> "Guys, obviously it's French pooch pooch French people always make things soun..."
+
+</details>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (1 mentions)</summary>
+
+**[00:41:57](/episodes/ep-AoYZel7_cGQ.md#ent-gpe-france-t-00-41-57)**
+> "what on earth is going on in France now we're wondering what on earth is happening in..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (5 mentions)</summary>
+
+**[00:30:41](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-france-t-00-30-19)**
+> "France, you haunt me. And six people whose names are redacted on the version of the manifest that was released in October 2025 by the United States House Committee, the one that Trump fought not to have released."
+
+**[00:31:02](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-france-t-00-31-02)**
+> "His French disgusting partner who Jeffrey Epstein invested i..."
+
+**[00:42:38](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-france-t-00-42-19)**
+> "... a suspiciously large pair of French hands, it may be time to stop carrying a surveill..."
+
+**[00:48:18](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-france-t-00-48-18)**
+> "...assionate about this story in France because of the obvious corruption at the top of p..."
+
+**[00:48:33](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-france-t-00-48-18)**
+> "in France to go after journalists who are just telling the ..."
 
 </details>
 
@@ -640,20 +786,12 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1 mentions)</summary>
-
-**[00:56:35](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-france-t-00-56-00)**
-> "...crazy things are happening in France."
-
-</details>
-
-<details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (4 mentions)</summary>
 
-**[00:53:48](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-france-t-00-53-16)**
+**[00:53:48](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-france-t-00-53-48)**
 > "...he vibe of what's going on in France right now."
 
-**[00:54:23](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-france-t-00-53-55)**
+**[00:54:23](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-france-t-00-54-23)**
 > "...hat's what's happening around France."
 
 **[00:55:50](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-france-t-00-55-50)**
@@ -667,14 +805,14 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (3 mentions)</summary>
 
-**[00:20:12](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-france-t-00-19-44)**
+**[00:19:58](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-france-t-00-19-44)**
 > "has successfully secured a conviction against 11 people in France for cyberbullying."
 
 **[00:20:26](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-france-t-00-20-26)**
 > "No, it is proof that France has now created laws and are willing to try peopl..."
 
-**[01:01:29](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-france-t-01-00-54)**
-> "...ow. It's just very sweet that France is selling Brigitte dolls It's very sweet. You ca..."
+**[01:01:29](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-france-t-01-01-29)**
+> "I don't know. It's just very sweet that France is selling Brigitte dolls. It's very sweet. You can collect them. They're collector's items, I would say. And whoever is selling this is about to be so sued by the French government. Top comments from the last episode at the end of last year—obviously, it was the midget horse, who did nothing wrong. Again, I apologize to the horse."
 
 </details>
 
@@ -1387,7 +1525,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details>
 <summary>Location Of (2)</summary>
 
-- **[Satis](/entities/org-satis.md)**
+- **[Satys](/entities/org-satys.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#t-00-23-42): “Satis, which is a French company”
@@ -1425,7 +1563,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 </details>
 
-- **[Satis](/entities/org-satis.md)** based in this
+- **[Satys](/entities/org-satys.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:23:42](/episodes/ep-tB5SXXmd9vU.md#t-00-23-42): “Satis, which is a French company”
@@ -1465,13 +1603,38 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about France (36)</strong></summary>
+<summary><strong class="section-title">Statements about France (39)</strong></summary>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1)</summary>
+
+- [00:30:39](/episodes/ep-E7P2ShoYDUA.md#t-00-30-39) (Claim) **Andrew Wilson**: ["Andrew Wilson said there was no positive evidence that Israel, France,..."](/statements/statement-111b4a14a165.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
 
 - [02:33:22](/episodes/ep-nPhCKwJ6ye8.md#t-02-33-18) (Accusation) **Anonymous Source #1 (Ep nPhCKwJ6ye8)** (via quoted speech): ["French Foreign Legion personnel were on the ground during Charlie Kirk..."](/statements/statement-0ccadf24fcfc.md)
   - Also about: [French Foreign Legion](/entities/org-french-foreign-legion.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (1)</summary>
+
+- [01:52:20](/episodes/ep-aPOyk1i2LOc.md#t-01-52-20) (Accusation) **Anonymous Source #2 (Ep aPOyk1i2LOc)** (via quoted speech): ["French Foreign Legion personnel were on the ground during Charlie Kirk..."](/statements/statement-f3f625166a18.md)
+  - Also about: [French Foreign Legion](/entities/org-french-foreign-legion.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (2)</summary>
+
+- [00:00:46](/episodes/ep-d7VsbEIWkP8.md#t-00-00-46) (Claim) **Anonymous Source #1 (Ep d7VsbEIWkP8)** (via read message): ["The anonymous email correspondent said the French phrase 'chien renifl..."](/statements/statement-65dabcf714b9.md)
+
+- [00:00:55](/episodes/ep-d7VsbEIWkP8.md#t-00-00-46) (Opinion) **Anonymous Source #1 (Ep d7VsbEIWkP8)** (via read message): ["The anonymous email correspondent said, 'I have a feeling this text is..."](/statements/statement-59779cb70b19.md)
 
 </details>
 
@@ -1570,27 +1733,19 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1)</summary>
-
-- [00:57:42](/episodes/ep-zSKrxIUMNqw.md#t-00-57-00) (Accusation) **Candace Owens**: ["Brigitte Macron is suing people to suppress the truth that she was bor..."](/statements/statement-802a4814cfb0.md)
-  - Also about: [Brigitte Macron](/entities/person-brigitte-macron.md)
-
-</details>
-
-<details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (4)</summary>
 
-- [00:53:55](/episodes/ep-HYn0P-P1wUw.md#t-00-53-16) (Claim) **Candace Owens**: ["A French court gave eight of ten defendants suspended sentences of fou..."](/statements/statement-deb756642d28.md)
+- [00:53:55](/episodes/ep-HYn0P-P1wUw.md#t-00-53-48) (Claim) **Candace Owens**: ["A French court gave eight of ten defendants suspended sentences of fou..."](/statements/statement-deb756642d28.md)
   - Also about: [Brigitte Macron](/entities/person-brigitte-macron.md)
 
-- [00:54:26](/episodes/ep-HYn0P-P1wUw.md#t-00-53-55) (Claim) **Candace Owens**: ["Three defendants in the Brigitte Macron cyberbullying case had their s..."](/statements/statement-4cf98422bb6d.md)
+- [00:54:26](/episodes/ep-HYn0P-P1wUw.md#t-00-54-23) (Claim) **Candace Owens**: ["Three defendants in the Brigitte Macron cyberbullying case had their s..."](/statements/statement-4cf98422bb6d.md)
   - Also about: [Brigitte Macron](/entities/person-brigitte-macron.md)
 
-- [00:55:03](/episodes/ep-HYn0P-P1wUw.md#t-00-54-39) (Claim) **Candace Owens**: ["Defendants in the Brigitte Macron cyberbullying case were ordered to p..."](/statements/statement-9ee6b03ef3c3.md)
+- [00:55:03](/episodes/ep-HYn0P-P1wUw.md#t-00-54-23) (Claim) **Candace Owens**: ["Defendants in the Brigitte Macron cyberbullying case were ordered to p..."](/statements/statement-9ee6b03ef3c3.md)
   - Also about: [Brigitte Macron](/entities/person-brigitte-macron.md)
 
-- [00:55:35](/episodes/ep-HYn0P-P1wUw.md#t-00-55-14) (Accusation) **Candace Owens**: ["Federal authorities are colluding with France to use Brigitte Macron's..."](/statements/statement-6246795a38fd.md)
-  - Also about: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md)
+- [00:55:35](/episodes/ep-HYn0P-P1wUw.md#t-00-55-03) (Accusation) **Candace Owens**: ["Candace Owens said she believes federal authorities are colluding with..."](/statements/statement-6246795a38fd.md)
+  - Also about: [Brigitte Macron](/entities/person-brigitte-macron.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
-title: "2025-07-25: Satis subsidiary in Hamburg, Germany underwent CEO..."
-description: "2025-07-25 - Satis subsidiary in Hamburg, Germany underwent CEO switch."
+title: "2025-07-25: Satys subsidiary in Hamburg, Germany underwent CEO..."
+description: "2025-07-25 - Satys subsidiary in Hamburg, Germany underwent CEO switch."
 event_id: "event-2025-07-25-satis-subsidiary-in-hamburg-germany-underwent-ceo"
 date: "2025-07-25"
 ---
@@ -9,7 +9,7 @@ date: "2025-07-25"
 
 ## Event
 
-> Satis subsidiary in Hamburg, Germany underwent CEO switch.
+> Satys subsidiary in Hamburg, Germany underwent CEO switch.
 
 ## Mentioned In
 

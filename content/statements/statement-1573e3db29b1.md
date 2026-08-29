@@ -30,7 +30,7 @@ type: "factual_claim"
 **Timestamp:** [00:07:00](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(420);return false;">Play</a>
 
-> Erika said that she has Charlie's phone, she's looking at his iMessages, and it turns out that he, like everybody else, communicates on signal, he communicates on telegram, and when she heard me say that, they then went and looked, and yes, what I said was true. Andrew received a message the night before, and Dan received a message the night before.
+> They owned that right away and explained, Erika (Erika Kirk) said that she has Charlie (Charlie Kirk)'s phone, she's looking at his iMessages, and it turns out that he, like everybody else, communicates on signal, he communicates on telegram, and when she heard me say that, they then went and looked, and yes, what I said was true. Andrew (Andrew Kolvet) received a message the night before, and Dan (Dan Flood) received a message the night before.
 
 ## Verification
 

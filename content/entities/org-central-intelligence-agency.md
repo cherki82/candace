@@ -1,6 +1,6 @@
 ---
 title: "Central Intelligence Agency"
-description: "Central Intelligence Agency (Organizations) - 169 mentions"
+description: "Central Intelligence Agency (Organizations) - 178 mentions"
 id: "org-central-intelligence-agency"
 type: "ORG"
 aliases:
@@ -23,12 +23,12 @@ Source: [About CIA](https://www.cia.gov/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-central-intelligence-agency-t-01-11-09">2025-09-16 · 01:11:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-central-intelligence-agency-t-00-37-25">2026-08-14 · 00:37:25</a></strong></div>
-<div><span>Episodes</span><strong>63</strong></div>
-<div><span>Mentions</span><strong>169</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-org-central-intelligence-agency-t-00-31-29">2026-08-18 · 00:31:35</a></strong></div>
+<div><span>Episodes</span><strong>69</strong></div>
+<div><span>Mentions</span><strong>178</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>58</strong></div>
-<div><span>Relationships</span><strong>22</strong></div>
+<div><span>Statements about</span><strong>61</strong></div>
+<div><span>Relationships</span><strong>24</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -98,7 +98,13 @@ Source: [About CIA](https://www.cia.gov/about/)
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-org-central-intelligence-agency-t-01-14-01" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-org-central-intelligence-agency-t-00-20-31" style="--pulse-height:8%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#t-00-58-19" style="--pulse-height:8%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-central-intelligence-agency-t-00-53-58" style="--pulse-height:18%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 3 mentions" title="2026-07-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-central-intelligence-agency-t-00-53-34" style="--pulse-height:12%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 2 mentions" title="2026-08-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-central-intelligence-agency-t-00-47-40" style="--pulse-height:8%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-central-intelligence-agency-t-00-37-25" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-central-intelligence-agency-t-00-12-47" style="--pulse-height:8%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-central-intelligence-agency-t-00-32-21" style="--pulse-height:8%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-org-central-intelligence-agency-t-00-31-29" style="--pulse-height:8%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -166,7 +172,13 @@ Source: [About CIA](https://www.cia.gov/about/)
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-central-intelligence-agency-t-01-14-01) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-central-intelligence-agency-t-00-20-31) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#t-00-58-19) | 1 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-org-central-intelligence-agency-t-00-53-58) | 3 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-org-central-intelligence-agency-t-00-53-34) | 2 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-org-central-intelligence-agency-t-00-47-40) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-central-intelligence-agency-t-00-37-25) | 1 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-central-intelligence-agency-t-00-12-47) | 1 |
+| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-org-central-intelligence-agency-t-00-32-21) | 1 |
+| 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-org-central-intelligence-agency-t-00-31-29) | 1 |
 
 </details>
 </section>
@@ -174,13 +186,70 @@ Source: [About CIA](https://www.cia.gov/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (169)</strong></summary>
+<summary><strong class="section-title">Raw mentions (178)</strong></summary>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1 mentions)</summary>
+
+**[00:31:35](/episodes/ep-4JxgOclKzqg.md#ent-org-central-intelligence-agency-t-00-31-29)**
+> "...John Kiriakou who is a former CIA officer who had a conscience back in 2007 during ..."
+
+</details>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1 mentions)</summary>
+
+**[00:32:21](/episodes/ep-E7P2ShoYDUA.md#ent-org-central-intelligence-agency-t-00-32-21)**
+> "because you have to have positive evidence and only the CIA can give you that positive evidence and they've blacked out the documents"
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:37:25](/episodes/ep-nPhCKwJ6ye8.md#ent-org-central-intelligence-agency-t-00-37-25)**
 > "...ntire term was created by the CIA to gaslight people after the assassination of JFK..."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (1 mentions)</summary>
+
+**[00:12:47](/episodes/ep-aPOyk1i2LOc.md#ent-org-central-intelligence-agency-t-00-12-47)**
+> "...ntire term was created by the CIA to gaslight people after the assassination of JFK..."
+
+</details>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
+
+**[00:47:48](/episodes/ep-d7VsbEIWkP8.md#ent-org-central-intelligence-agency-t-00-47-40)**
+> "CIA"
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (2 mentions)</summary>
+
+**[00:53:34](/episodes/ep-1CFDtD0IgEg.md#ent-org-central-intelligence-agency-t-00-53-34)**
+> "...) intelligent agency hats are CIA hats, but we are the decentralized intelligence a..."
+
+**[00:53:54](/episodes/ep-1CFDtD0IgEg.md#ent-org-central-intelligence-agency-t-00-53-34)**
+> "...ple think I'm actually in the CIA."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (3 mentions)</summary>
+
+**[00:53:58](/episodes/ep-Vu6Y24pqhZs.md#ent-org-central-intelligence-agency-t-00-53-58)**
+> "Do you go just submit and you just say that you see the thing that's not there? A literal CIA experiment, by the way, that took place. They were mixing what fruits they had up, but they had one person who was not in on it."
+
+**[00:54:10](/episodes/ep-Vu6Y24pqhZs.md#ent-org-central-intelligence-agency-t-00-53-58)**
+> "... let's say 26 people were all CIA agents and they held up a picture of a banana and..."
+
+**[00:55:19](/episodes/ep-Vu6Y24pqhZs.md#ent-org-central-intelligence-agency-t-00-54-42)**
+> "Of course, the CIA crew neck, Canada's intelligent agency is how we ..."
 
 </details>
 
@@ -368,7 +437,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 > "...t yeah, he contracts with the CIA. It's very interesting."
 
 **[00:27:57](/episodes/ep-rupRLXmSndU.md#ent-org-central-intelligence-agency-t-00-27-50)**
-> "...to work contractually for the CIA."
+> "Is it a fair question to ask if Andrew Zenger was, like his roommates over in Jerusalem, recruited to work contractually for the CIA?"
 
 **[00:30:44](/episodes/ep-rupRLXmSndU.md#ent-org-central-intelligence-agency-t-00-30-18)**
 > "... I have learned about how the CIA is paying these people, how they are approaching ..."
@@ -391,7 +460,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 <summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1 mentions)</summary>
 
 **[01:03:40](/episodes/ep-UYkXV9mYbT4.md#ent-org-central-intelligence-agency-t-01-03-14)**
-> "...row, I won't forget about the CIA restock of the Stannis Cups. I got to get that co..."
+> "The restock, I forgot, I got you tomorrow, I won't forget about the CIA restock of the Stanley Cups. I got to get that coming for you."
 
 </details>
 
@@ -678,22 +747,22 @@ Source: [About CIA](https://www.cia.gov/about/)
 **[00:35:51](/episodes/ep-OEAHy3SsIiI.md#ent-org-central-intelligence-agency-t-00-35-51)**
 > "regarding the CIA and MKUltra"
 
-**[00:36:10](/episodes/ep-OEAHy3SsIiI.md#ent-org-central-intelligence-agency-t-00-36-06)**
+**[00:36:06](/episodes/ep-OEAHy3SsIiI.md#ent-org-central-intelligence-agency-t-00-36-06)**
 > "which was another CIA program,"
 
 **[00:36:18](/episodes/ep-OEAHy3SsIiI.md#ent-org-central-intelligence-agency-t-00-36-06)**
 > "the Central Intelligence Agency is actively involved in mind manipulation of peop..."
 
-**[00:36:27](/episodes/ep-OEAHy3SsIiI.md#ent-org-central-intelligence-agency-t-00-36-06)**
-> "...nse which is the pentagon the central intelligence agency which is own thing out in langley the federal bur..."
+**[00:36:26](/episodes/ep-OEAHy3SsIiI.md#ent-org-central-intelligence-agency-t-00-36-06)**
+> "We must understand: we have Congress, and they're just kind of like a peanut gallery. And then we have a super-government that exists above Congress: the Department of Defense, which is the Pentagon; the Central Intelligence Agency, which is its own thing out in Langley; the Federal Bureau of Investigation. They run the country. The intel agencies run the country. The..."
 
 **[00:41:26](/episodes/ep-OEAHy3SsIiI.md#ent-org-central-intelligence-agency-t-00-41-26)**
 > "...d the Democratic Party of the CIA and MI6 and I see your ass."
 
-**[01:05:04](/episodes/ep-OEAHy3SsIiI.md#ent-org-central-intelligence-agency-t-01-04-36)**
+**[01:05:04](/episodes/ep-OEAHy3SsIiI.md#ent-org-central-intelligence-agency-t-01-04-58)**
 > "...the same thing, like the same CIA narrative that the reason why we're toppling all ..."
 
-**[01:06:13](/episodes/ep-OEAHy3SsIiI.md#ent-org-central-intelligence-agency-t-01-06-01)**
+**[01:06:13](/episodes/ep-OEAHy3SsIiI.md#ent-org-central-intelligence-agency-t-01-06-13)**
 > "I just recognize the CIA and the Mossad and what they keep doing over and ..."
 
 </details>
@@ -1063,14 +1132,14 @@ Source: [About CIA](https://www.cia.gov/about/)
 - **[Michael Sean Covey](/entities/person-michael-sean-covey.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:27:41](/episodes/ep-rupRLXmSndU.md#t-00-27-04): “Yes, Michael Sean Covey. That is correct. Sorry, Michael, to put you on blast, but yeah, he contracts with the CIA.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:27:41](/episodes/ep-rupRLXmSndU.md#t-00-27-04): “Yes, Michael Sean Covey. That is correct. Sorry, Michael (Michael Sean Covey), to put you on blast, but yeah, he contracts with the CIA. It's very interesting.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Formerly Employed (4)</summary>
+<summary>Formerly Employed (5)</summary>
 
 - **[Mike Pompeo](/entities/person-mike-pompeo.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1101,6 +1170,13 @@ Source: [About CIA](https://www.cia.gov/about/)
 
 </details>
 
+- **[John Kiriakou](/entities/person-john-kiriakou.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:31:35](/episodes/ep-4JxgOclKzqg.md#t-00-31-29): “There was a man named John Kiriakou who is a former CIA officer who had a conscience back in 2007 during the quote-unquote war on terror.”
+
+</details>
+
 </details>
 
 <details>
@@ -1116,7 +1192,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 </details>
 
 <details>
-<summary>Referenced By (10)</summary>
+<summary>Referenced By (11)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1168,6 +1244,13 @@ Source: [About CIA](https://www.cia.gov/about/)
 
 </details>
 
+- **[John Kiriakou](/entities/person-john-kiriakou.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:31:35](/episodes/ep-4JxgOclKzqg.md#t-00-31-29): “There was a man named John Kiriakou who is a former CIA officer who had a conscience back in 2007 during the quote-unquote war on terror.”
+
+</details>
+
 - **[TMZ](/entities/org-tmz.md)** operates this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -1185,7 +1268,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 - **[Michael Sean Covey](/entities/person-michael-sean-covey.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:27:41](/episodes/ep-rupRLXmSndU.md#t-00-27-04): “Yes, Michael Sean Covey. That is correct. Sorry, Michael, to put you on blast, but yeah, he contracts with the CIA.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:27:41](/episodes/ep-rupRLXmSndU.md#t-00-27-04): “Yes, Michael Sean Covey. That is correct. Sorry, Michael (Michael Sean Covey), to put you on blast, but yeah, he contracts with the CIA. It's very interesting.”
 
 </details>
 
@@ -1194,7 +1277,25 @@ Source: [About CIA](https://www.cia.gov/about/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Central Intelligence Agency (58)</strong></summary>
+<summary><strong class="section-title">Statements about Central Intelligence Agency (61)</strong></summary>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1)</summary>
+
+- [00:47:48](/episodes/ep-d7VsbEIWkP8.md#t-00-47-40) (Accusation) **Candace Owens**: ["Candace Owens rhetorically asked whether people knew about the CIA and..."](/statements/statement-73e33489e3a9.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Al-Nusra Front](/entities/org-al-nusra-front.md), [Islam](/entities/concept-islam.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (2)</summary>
+
+- [00:53:00](/episodes/ep-Vu6Y24pqhZs.md#t-00-52-32) (Accusation) **Candace Owens**: ["Owens accused independent creators using the same language of particip..."](/statements/statement-3393105ee778.md)
+  - Also about: [Operation Mockingbird](/entities/concept-operation-mockingbird.md)
+
+- [00:53:58](/episodes/ep-Vu6Y24pqhZs.md#t-00-53-58) (Claim) **Candace Owens**: ["Owens said the CIA conducted a conformity experiment in which 26 agent..."](/statements/statement-733cb89ad93d.md)
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1)</summary>

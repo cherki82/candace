@@ -1,6 +1,6 @@
 ---
-title: "Laura Loomer is not allowed to own a gun because of various ..."
-description: "\"Laura Loomer is not allowed to own a gun because of various psychotic events that required her hospitalization\" — Candace Owens"
+title: "Laura Loomer is apparently not allowed to own a gun because ..."
+description: "\"Laura Loomer is apparently not allowed to own a gun because of events that required her hospitalization.\" — Candace Owens"
 statement_id: "statement-bda0f50e6aaf"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "mixed"
 
 ## Statement
 
-> Laura Loomer is not allowed to own a gun because of various psychotic events that required her hospitalization
+> Laura Loomer is apparently not allowed to own a gun because of events that required her hospitalization.
 
 ## Attribution
 

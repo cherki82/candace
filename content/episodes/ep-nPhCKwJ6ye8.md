@@ -2751,7 +2751,7 @@ youtube_url: "https://www.youtube.com/watch?v=nPhCKwJ6ye8"
 ---
 **🎤 Patrick Bet-David**
 
-**<a href="/timestamps/ep-nPhCKwJ6ye8/t-01-11-02.md" class="timestamp-link">01:11:02</a> <a href="https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=4262" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Patrick Bet-David:** So a couple things we have. We have rule 801, Tyler's messages that says it's not hearsay. But first go to what <span id="ent-person-candace-owens-t-01-11-02"><a href="/entities/person-candace-owens.md">Candace</a></span> is asking about <span id="ent-person-schuyler-pryor-t-01-11-02"><a href="/entities/person-schuyler-pryor.md">Skylar</a></span>. I think you have it. You just texted me if you want to pull it up. You said you have the text. If we can put that up on the screen. ^t-01-11-02
+**<a href="/timestamps/ep-nPhCKwJ6ye8/t-01-11-02.md" class="timestamp-link">01:11:02</a> <a href="https://www.youtube.com/watch?v=nPhCKwJ6ye8&t=4262" class="youtube-timestamp-link" target="_blank" rel="noopener noreferrer" data-router-ignore title="Watch on YouTube at this timestamp">▶️</a> Patrick Bet-David:** So a couple things we have. We have rule 801, Tyler's messages that says it's not hearsay. But first go to what <span id="ent-person-candace-owens-t-01-11-02"><a href="/entities/person-candace-owens.md">Candace</a></span> is asking about Skylar. I think you have it. You just texted me if you want to pull it up. You said you have the text. If we can put that up on the screen. ^t-01-11-02
 
 ---
 **🎤 Candace Owens**
@@ -11773,7 +11773,7 @@ youtube_url: "https://www.youtube.com/watch?v=nPhCKwJ6ye8"
   - About: [FBI](/entities/org-fbi.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [02:00:33](#t-02-00-33) [◐] (Claim) **Candace Owens**: ["Some items Charlie Kirk was wearing were immediately returned to Erika Kirk rath..."](/statements/statement-89847e8b961f.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
-- [02:00:49](#t-02-00-33) [○] (Claim) **Candace Owens**: ["The car Charlie Kirk was transported in was taken to a towing facility and then ..."](/statements/statement-7fa57f7269ce.md)
+- [02:00:49](#t-02-00-33) [○] (Claim) **Candace Owens**: ["The car used to transport Charlie Kirk to the hospital was immediately towed, cl..."](/statements/statement-7fa57f7269ce.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [02:01:40](#t-02-01-40) [✓] (Citation) **Candace Owens**: ["The contractor who paved the crime scene said the call described a paver emergen..."](/statements/statement-e8088f9593f9.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [FBI](/entities/org-fbi.md)
@@ -11797,7 +11797,7 @@ youtube_url: "https://www.youtube.com/watch?v=nPhCKwJ6ye8"
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [03:03:15](#t-03-03-15) [○] (Opinion) **Candace Owens**: ["Candace Owens believes the theory that Charlie Kirk may have been killed by an e..."](/statements/statement-27a11cc63d15.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Jon Aaron Bray](/entities/person-jon-aaron-bray.md)
-- [03:09:20](#t-03-09-00) [○] (Opinion) **Rob O'Neill**: ["Rob O'Neill said the movement of Charlie Kirk's shirt looked like an explosion t..."](/statements/statement-349dd6aaaa90.md)
+- [03:09:20](#t-03-09-00) [✓] (Opinion) **Rob O'Neill**: ["Rob O'Neill said the movement of Charlie Kirk's shirt looked like an explosion t..."](/statements/statement-349dd6aaaa90.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [03:09:26](#t-03-09-00) [✓] (Accusation) **Rob O'Neill**: ["Rob O'Neill said people at the scene seemed more concerned with removing camera ..."](/statements/statement-59ffbe2ba8c0.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)

@@ -3,9 +3,17 @@ title: "Congo"
 description: "Congo (Places) - 2 mentions"
 id: "gpe-congo"
 type: "GPE"
+categories:
+  - "country"
 ---
 
 _Type: Places_
+
+**Categories:** country
+
+**Entity verification:** verified
+> Canonical name and identity for Congo confirmed by the cited direct external source.
+Source: [Democratic Republic of the Congo](https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-gpe-congo-t-00-51-43">2025-10-31 · 00:52:20</a></strong></div>

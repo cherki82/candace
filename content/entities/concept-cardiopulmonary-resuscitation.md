@@ -1,6 +1,6 @@
 ---
 title: "Cardiopulmonary resuscitation"
-description: "Cardiopulmonary resuscitation (Concepts) - 47 mentions"
+description: "Cardiopulmonary resuscitation (Concepts) - 52 mentions"
 id: "concept-cardiopulmonary-resuscitation"
 type: "CONCEPT"
 aliases:
@@ -22,9 +22,9 @@ Source: [CPR Steps | American Red Cross](https://www.redcross.org/take-a-class/c
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-G3zdOeHpvS0.md#ent-concept-cardiopulmonary-resuscitation-t-00-38-48">2026-06-17 · 00:38:48</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-concept-cardiopulmonary-resuscitation-t-00-34-45">2026-07-20 · 00:35:10</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>47</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-concept-cardiopulmonary-resuscitation-t-00-02-28">2026-08-03 · 00:02:28</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>52</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -41,6 +41,9 @@ Source: [CPR Steps | American Red Cross](https://www.redcross.org/take-a-class/c
 <a href="/episodes/ep-a2bZf4fic10.md#ent-concept-cardiopulmonary-resuscitation-t-00-17-40" style="--pulse-height:17%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-concept-cardiopulmonary-resuscitation-t-01-18-29" style="--pulse-height:25%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 3 mentions" title="2026-07-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-concept-cardiopulmonary-resuscitation-t-00-01-58" style="--pulse-height:100%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 12 mentions" title="2026-07-20 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-concept-cardiopulmonary-resuscitation-t-00-15-57" style="--pulse-height:17%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 2 mentions" title="2026-07-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-concept-cardiopulmonary-resuscitation-t-00-15-12" style="--pulse-height:17%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 2 mentions" title="2026-07-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-concept-cardiopulmonary-resuscitation-t-00-02-28" style="--pulse-height:8%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +55,9 @@ Source: [CPR Steps | American Red Cross](https://www.redcross.org/take-a-class/c
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-concept-cardiopulmonary-resuscitation-t-00-17-40) | 2 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-concept-cardiopulmonary-resuscitation-t-01-18-29) | 3 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-concept-cardiopulmonary-resuscitation-t-00-01-58) | 12 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-concept-cardiopulmonary-resuscitation-t-00-15-57) | 2 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-concept-cardiopulmonary-resuscitation-t-00-15-12) | 2 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-concept-cardiopulmonary-resuscitation-t-00-02-28) | 1 |
 
 </details>
 </section>
@@ -59,7 +65,37 @@ Source: [CPR Steps | American Red Cross](https://www.redcross.org/take-a-class/c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (47)</strong></summary>
+<summary><strong class="section-title">Raw mentions (52)</strong></summary>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
+
+**[00:02:28](/episodes/ep-AH1KVKkweUE.md#ent-concept-cardiopulmonary-resuscitation-t-00-02-28)**
+> "CPR that didn't happen but did happen but the memorie..."
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (2 mentions)</summary>
+
+**[00:15:22](/episodes/ep-iB-YtO3UZOg.md#ent-concept-cardiopulmonary-resuscitation-t-00-15-12)**
+> "while Frank was praying in the back. So we asked the question, how could these stories be so different where Frank says he did CPR and Brian says he didn't?"
+
+**[00:15:48](/episodes/ep-iB-YtO3UZOg.md#ent-concept-cardiopulmonary-resuscitation-t-00-15-48)**
+> "...an doesn't recall Frank doing CPR. Frank says Brian was distracted and just didn't ..."
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (2 mentions)</summary>
+
+**[00:16:25](/episodes/ep-HZvwbfePe7o.md#ent-concept-cardiopulmonary-resuscitation-t-00-15-57)**
+> "Right. They wanted to make everyone a hero. Frank (Frank Turek) maybe is or is not doing CPR while no one's looking."
+
+**[00:19:43](/episodes/ep-HZvwbfePe7o.md#ent-concept-cardiopulmonary-resuscitation-t-00-19-43)**
+> "... us what everybody was doing, CPR being amazing generally, Brian Harpole just getti..."
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (12 mentions)</summary>

@@ -4,9 +4,10 @@ description: "\"Candace Owens said Stephen 'tWitch' Boss's autopsy found no drug
 statement_id: "statement-65d956c9c533"
 speaker: "Candace Owens"
 type: "citation"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -34,7 +35,21 @@ type: "citation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The Los Angeles Times reports negative toxicology, a note alluding to past challenges, and the suicide determination; TMZ reports motel staff saw no visible distress and heard no gunfire. Together the current sources support each component of the citation statement.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Stephen 'tWitch' Boss' autopsy report sheds new light on details of his death](https://www.latimes.com/entertainment-arts/story/2023-05-25/stephen-twitch-boss-autopsy-report-sheds-new-light-on-details-of-his-death)
+- [DJ Stephen 'tWitch' Boss Checked Into Motel One Day Before Body Was Found](https://www.tmz.com/2022/12/14/ellen-dj-stephen-twitch-boss-hotel-dead-dies/)
+
+*Verified: 2026-08-27T19:42:39.589248*
 
 ---
 

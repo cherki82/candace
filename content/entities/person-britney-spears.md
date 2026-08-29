@@ -18,8 +18,8 @@ Source: [Britney Spears | Biography, Songs, Albums, Documentary, & Facts](https:
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-britney-spears-t-00-00-44">2025-11-15 · 00:00:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-britney-spears-t-00-57-38">2026-07-16 · 00:57:38</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-person-britney-spears-t-00-39-20">2026-08-06 · 00:39:43</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
 <div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>9</strong></div>
@@ -34,10 +34,11 @@ Source: [Britney Spears | Biography, Songs, Albums, Documentary, & Facts](https:
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-britney-spears-t-00-00-44" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 16 mentions" title="2025-11-15 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-britney-spears-t-00-45-28" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-person-britney-spears-t-00-02-57" style="--pulse-height:8%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-britney-spears-t-00-15-52" style="--pulse-height:12%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 2 mentions" title="2026-01-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-britney-spears-t-00-50-02" style="--pulse-height:12%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-britney-spears-t-00-40-25" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-britney-spears-t-00-57-15" style="--pulse-height:12%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#t-00-29-37" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-person-britney-spears-t-00-39-20" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,10 +47,11 @@ Source: [Britney Spears | Biography, Songs, Albums, Documentary, & Facts](https:
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-britney-spears-t-00-00-44) | 16 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-britney-spears-t-00-45-28) | 1 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-person-britney-spears-t-00-02-57) | 1 |
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-britney-spears-t-00-15-52) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-britney-spears-t-00-50-02) | 2 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-britney-spears-t-00-40-25) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-britney-spears-t-00-57-15) | 2 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#t-00-29-37) | 1 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-britney-spears-t-00-39-20) | 1 |
 
 </details>
 </section>
@@ -58,6 +60,22 @@ Source: [Britney Spears | Biography, Songs, Albums, Documentary, & Facts](https:
 
 <details>
 <summary><strong class="section-title">Raw mentions (25)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:39:43](/episodes/ep-ChuWo-n49B8.md#ent-person-britney-spears-t-00-39-20)**
+> "We saw what happened to Britney Spears. We saw what happened to Kanye West. We saw what happened to Michael Jackson."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
+
+**[00:29:37](/episodes/ep-Vu6Y24pqhZs.md#t-00-29-37)**
+> "regarding Jeffrey Epstein I kid you not I kid you not I can't I gotta shave my head like I just I'm I'm feeling like Britney in 2007 this just it can't always just be like this random Epstein thing anyways let's pull it up together because I can't make this stuff up right and here's what it tells us hopefully I can read this my vision always gets super bad when I'm pregnant it gets worse to get pregnant but like you can see that tab relationship with Jeffrey Epstein just a tab I never want you on Wikipedia."
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (2 mentions)</summary>
@@ -86,17 +104,6 @@ Source: [Britney Spears | Biography, Songs, Albums, Documentary, & Facts](https:
 
 **[00:50:17](/episodes/ep-2T39-oADLj0.md#ent-person-britney-spears-t-00-50-02)**
 > "...m Michael Jackson to Kanye to Britney Spears, these are hostile takeovers of companies."
-
-</details>
-
-<details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (2 mentions)</summary>
-
-**[00:15:56](/episodes/ep-zSKrxIUMNqw.md#ent-person-britney-spears-t-00-15-52)**
-> "Britney Spears,"
-
-**[00:37:01](/episodes/ep-zSKrxIUMNqw.md#ent-person-britney-spears-t-00-36-46)**
-> "...ych-5150 you like they did to Britney Spears,"
 
 </details>
 

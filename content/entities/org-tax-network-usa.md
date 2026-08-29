@@ -1,6 +1,6 @@
 ---
 title: "Tax Network USA"
-description: "Tax Network USA (Organizations) - 109 mentions"
+description: "Tax Network USA (Organizations) - 125 mentions"
 id: "org-tax-network-usa"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-05-24">2025-09-16 · 01:05:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-tax-network-usa-t-00-55-33">2026-07-21 · 00:55:33</a></strong></div>
-<div><span>Episodes</span><strong>37</strong></div>
-<div><span>Mentions</span><strong>109</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-tax-network-usa-t-01-15-56">2026-08-17 · 01:15:56</a></strong></div>
+<div><span>Episodes</span><strong>43</strong></div>
+<div><span>Mentions</span><strong>125</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -44,7 +44,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-org-tax-network-usa-t-00-49-44" style="--pulse-height:80%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 4 mentions" title="2025-12-17 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-tax-network-usa-t-00-23-39" style="--pulse-height:100%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 5 mentions" title="2025-12-18 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-tax-network-usa-t-00-28-53" style="--pulse-height:80%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 4 mentions" title="2025-12-20 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-tax-network-usa-t-00-56-34" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 5 mentions" title="2026-01-06 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-tax-network-usa-t-00-56-30" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 5 mentions" title="2026-01-06 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-tax-network-usa-t-01-13-46" style="--pulse-height:80%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 4 mentions" title="2026-01-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-org-tax-network-usa-t-00-49-50" style="--pulse-height:80%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-tax-network-usa-t-00-48-04" style="--pulse-height:80%" aria-label="Myron Gaines x Candace Owens: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
@@ -73,6 +73,12 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-tax-network-usa-t-00-49-08" style="--pulse-height:40%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-tax-network-usa-t-00-45-30" style="--pulse-height:40%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-tax-network-usa-t-00-55-33" style="--pulse-height:20%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-org-tax-network-usa-t-00-37-40" style="--pulse-height:40%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 2 mentions" title="2026-07-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-tax-network-usa-t-00-28-41" style="--pulse-height:80%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 4 mentions" title="2026-07-31 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-tax-network-usa-t-00-45-31" style="--pulse-height:40%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 2 mentions" title="2026-08-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#ent-org-tax-network-usa-t-00-25-23" style="--pulse-height:60%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 3 mentions" title="2026-08-10 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-tax-network-usa-t-02-30-51" style="--pulse-height:60%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-tax-network-usa-t-01-15-28" style="--pulse-height:40%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 2 mentions" title="2026-08-17 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -86,7 +92,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-tax-network-usa-t-00-49-44) | 4 |
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-tax-network-usa-t-00-23-39) | 5 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-tax-network-usa-t-00-28-53) | 4 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-tax-network-usa-t-00-56-34) | 5 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-tax-network-usa-t-00-56-30) | 5 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-tax-network-usa-t-01-13-46) | 4 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-tax-network-usa-t-00-49-50) | 4 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-tax-network-usa-t-00-48-04) | 4 |
@@ -115,6 +121,12 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-tax-network-usa-t-00-49-08) | 2 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-org-tax-network-usa-t-00-45-30) | 2 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-tax-network-usa-t-00-55-33) | 1 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-org-tax-network-usa-t-00-37-40) | 2 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-org-tax-network-usa-t-00-28-41) | 4 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-org-tax-network-usa-t-00-45-31) | 2 |
+| 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-org-tax-network-usa-t-00-25-23) | 3 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-tax-network-usa-t-02-30-51) | 3 |
+| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-org-tax-network-usa-t-01-15-28) | 2 |
 
 </details>
 </section>
@@ -122,7 +134,85 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (109)</strong></summary>
+<summary><strong class="section-title">Raw mentions (125)</strong></summary>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (2 mentions)</summary>
+
+**[01:15:36](/episodes/ep-E7P2ShoYDUA.md#ent-org-tax-network-usa-t-01-15-28)**
+> "Call Tax Network USA. They've been helping taxpayers nationwide for more than 15 years, resolving back taxes, unfiled returns, and serious IRS problems."
+
+**[01:15:56](/episodes/ep-E7P2ShoYDUA.md#ent-org-tax-network-usa-t-01-15-56)**
+> "So call 866-686-1651 or visit tnusa.com slash Candace (Candace Owens). Again, 51 or v..."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (3 mentions)</summary>
+
+**[02:31:23](/episodes/ep-aPOyk1i2LOc.md#ent-org-tax-network-usa-t-02-30-51)**
+> "...want to remind you guys about Tax Network USA because I know a lot of people owe back taxes."
+
+**[02:31:44](/episodes/ep-aPOyk1i2LOc.md#ent-org-tax-network-usa-t-02-31-28)**
+> "...ezing your bank account, call Tax Network USA."
+
+**[02:32:11](/episodes/ep-aPOyk1i2LOc.md#ent-org-tax-network-usa-t-02-32-11)**
+> "So call 866-686-1651 or visit tnusa.com slash Candace. Again, that's tnusa.com slash ..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (3 mentions)</summary>
+
+**[00:25:23](/episodes/ep-5zgkrOaCCj4.md#ent-org-tax-network-usa-t-00-25-23)**
+> "...want to remind you guys about Tax Network USA because I know a lot. No allowable back taxes."
+
+**[00:25:51](/episodes/ep-5zgkrOaCCj4.md#ent-org-tax-network-usa-t-00-25-23)**
+> "All Tax Network USA, they've been helping taxpayers nationwide for mo..."
+
+**[00:26:11](/episodes/ep-5zgkrOaCCj4.md#ent-org-tax-network-usa-t-00-26-05)**
+> "So call 866-686-1651 or visit tnusa.com slash candace. Again, Again, that's tnusa.com..."
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (2 mentions)</summary>
+
+**[00:45:38](/episodes/ep-1CFDtD0IgEg.md#ent-org-tax-network-usa-t-00-45-31)**
+> "Bank account call tax network USA. They've been helping taxpayers nationwide for mo..."
+
+**[00:46:00](/episodes/ep-1CFDtD0IgEg.md#ent-org-tax-network-usa-t-00-45-31)**
+> "...o call 866-686-1651. Or visit tnusa.com slash Candace (Candace Owens). Again, that's ..."
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (4 mentions)</summary>
+
+**[00:29:09](/episodes/ep-iB-YtO3UZOg.md#ent-org-tax-network-usa-t-00-28-41)**
+> "I also want to remind you guys about Tax Network USA because plenty of people owe back taxes. Maybe that's you."
+
+**[00:29:30](/episodes/ep-iB-YtO3UZOg.md#ent-org-tax-network-usa-t-00-29-25)**
+> "...ezing your bank account, call Tax Network USA. They have been helping taxpayers nationwide for ..."
+
+**[00:29:59](/episodes/ep-iB-YtO3UZOg.md#ent-org-tax-network-usa-t-00-29-25)**
+> "So call 866-686-1651 or visit tnusa.com slash candace."
+
+**[00:30:06](/episodes/ep-iB-YtO3UZOg.md#ent-org-tax-network-usa-t-00-30-06)**
+> "Again, that's tnusa.com slash Candace. I see someone already mentioni..."
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (2 mentions)</summary>
+
+**[00:38:02](/episodes/ep-HZvwbfePe7o.md#ent-org-tax-network-usa-t-00-37-40)**
+> "Before the IRS starts sending more letters garnishing wages or freezing your bank account, call Tax Network USA."
+
+**[00:38:28](/episodes/ep-HZvwbfePe7o.md#ent-org-tax-network-usa-t-00-38-21)**
+> "Call 866-686-1651 or visit tnusa.com slash Candace. Again, that's tnusa.com slash ..."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>
@@ -474,19 +564,19 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (5 mentions)</summary>
 
-**[00:56:35](/episodes/ep-HYn0P-P1wUw.md#ent-org-tax-network-usa-t-00-56-34)**
+**[00:56:35](/episodes/ep-HYn0P-P1wUw.md#ent-org-tax-network-usa-t-00-56-30)**
 > "...ing in here to tell you about Tax Network USA,"
 
-**[00:57:12](/episodes/ep-HYn0P-P1wUw.md#ent-org-tax-network-usa-t-00-57-12)**
+**[00:57:12](/episodes/ep-HYn0P-P1wUw.md#ent-org-tax-network-usa-t-00-57-11)**
 > "Tax Network USA is offering a completely free IRS research and di..."
 
-**[00:57:35](/episodes/ep-HYn0P-P1wUw.md#ent-org-tax-network-usa-t-00-57-12)**
+**[00:57:35](/episodes/ep-HYn0P-P1wUw.md#ent-org-tax-network-usa-t-00-57-11)**
 > "... protected the right way with Tax Network USA and start the process of settling your tax matter..."
 
-**[00:57:42](/episodes/ep-HYn0P-P1wUw.md#ent-org-tax-network-usa-t-00-57-12)**
+**[00:57:42](/episodes/ep-HYn0P-P1wUw.md#ent-org-tax-network-usa-t-00-57-11)**
 > "...your free discovery call with Tax Network USA."
 
-**[00:57:51](/episodes/ep-HYn0P-P1wUw.md#ent-org-tax-network-usa-t-00-57-12)**
+**[00:57:51](/episodes/ep-HYn0P-P1wUw.md#ent-org-tax-network-usa-t-00-57-11)**
 > "tnusa.com slash Candace see"
 
 </details>
@@ -639,7 +729,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:53:26](/episodes/ep-DdPjoy5W-wY.md#t-00-52-54): “stop what you're doing and call Tax Network USA.”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:55:17](/episodes/ep-I0OaY6Gryqk.md#t-00-55-09): “this upcoming tax year with no plan in place. Stop what you're doing and call Tax Network USA.”
@@ -649,6 +739,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:49:58](/episodes/ep-IqHsl7d2dos.md#t-00-49-52): “Call 866-686-1651 or visit TNUSA.com slash Candace. Again, that's TNUSA.com slash Candace.”
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:45:38](/episodes/ep-X3VKJVJ7cN4.md#t-00-45-30): “Call Tax Network USA. They've been helping taxpayers nationwide for more than 15 years, resolving back taxes, unfiled returns, and serious IRS problems.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:55:33](/episodes/ep-OgRyiOAVtWU.md#t-00-55-33): “Call Tax Network USA. They've been helping taxpayers nationwide for more than 15 years, resolving back taxes, unfiled returns, and serious IRS problems.”
+- [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:38:02](/episodes/ep-HZvwbfePe7o.md#t-00-37-40): “Before the IRS starts sending more letters garnishing wages or freezing your bank account, call Tax Network USA.”
 
 </details>
 
@@ -658,7 +749,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:53:26](/episodes/ep-DdPjoy5W-wY.md#t-00-52-54): “stop what you're doing and call Tax Network USA.”
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:55:17](/episodes/ep-I0OaY6Gryqk.md#t-00-55-09): “this upcoming tax year with no plan in place. Stop what you're doing and call Tax Network USA.”
@@ -668,6 +759,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:49:58](/episodes/ep-IqHsl7d2dos.md#t-00-49-52): “Call 866-686-1651 or visit TNUSA.com slash Candace. Again, that's TNUSA.com slash Candace.”
 - [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 @ 00:45:38](/episodes/ep-X3VKJVJ7cN4.md#t-00-45-30): “Call Tax Network USA. They've been helping taxpayers nationwide for more than 15 years, resolving back taxes, unfiled returns, and serious IRS problems.”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:55:33](/episodes/ep-OgRyiOAVtWU.md#t-00-55-33): “Call Tax Network USA. They've been helping taxpayers nationwide for more than 15 years, resolving back taxes, unfiled returns, and serious IRS problems.”
+- [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:38:02](/episodes/ep-HZvwbfePe7o.md#t-00-37-40): “Before the IRS starts sending more letters garnishing wages or freezing your bank account, call Tax Network USA.”
 
 </details>
 

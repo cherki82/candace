@@ -26,10 +26,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
-**Timestamp:** [00:42:08](/episodes/ep-q1NRQQAYS_Q.md#t-00-41-37) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2528);return false;">Play</a>
+**Timestamp:** [00:42:13](/episodes/ep-q1NRQQAYS_Q.md#t-00-42-13) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2533);return false;">Play</a>
 
-> On the other side of things, they certainly, I'm referring to him and his wife, told friends that Erica was in their office with a friend, to be clear, not with her mother, but with a friend.
+> And that is of some interest to me. On the other side of things, they certainly, I'm referring to him and his wife, told friends that Erica (Erika Kirk) was in their office with a friend, to be clear, not with her mother, but with a friend.
 
 ## Verification
 

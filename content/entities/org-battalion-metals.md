@@ -1,6 +1,6 @@
 ---
 title: "Battalion Metals"
-description: "Battalion Metals (Organizations) - 4 mentions"
+description: "Battalion Metals (Organizations) - 6 mentions"
 id: "org-battalion-metals"
 type: "ORG"
 categories:
@@ -18,12 +18,12 @@ Source: [The Great Gold Scam - Tucker Carlson Network](https://prod-cf.tuckercar
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-org-battalion-metals-t-00-34-46">2026-06-09 · 00:35:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-org-battalion-metals-t-00-30-51">2026-07-22 · 00:31:10</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-battalion-metals-t-00-22-14">2026-08-21 · 00:22:35</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>7</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -35,6 +35,8 @@ Source: [The Great Gold Scam - Tucker Carlson Network](https://prod-cf.tuckercar
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-battalion-metals-t-00-41-01" style="--pulse-height:100%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-org-battalion-metals-t-00-56-23" style="--pulse-height:100%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-org-battalion-metals-t-00-30-51" style="--pulse-height:100%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#ent-org-battalion-metals-t-00-23-09" style="--pulse-height:100%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-org-battalion-metals-t-00-22-14" style="--pulse-height:100%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +46,8 @@ Source: [The Great Gold Scam - Tucker Carlson Network](https://prod-cf.tuckercar
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-org-battalion-metals-t-00-41-01) | 1 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-battalion-metals-t-00-56-23) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-battalion-metals-t-00-30-51) | 1 |
+| 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-org-battalion-metals-t-00-23-09) | 1 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-battalion-metals-t-00-22-14) | 1 |
 
 </details>
 </section>
@@ -51,7 +55,23 @@ Source: [The Great Gold Scam - Tucker Carlson Network](https://prod-cf.tuckercar
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
+
+**[00:22:35](/episodes/ep-_cNtgris8Ik.md#ent-org-battalion-metals-t-00-22-14)**
+> "...t I trust is Tucker Carlson's Battalion Metals."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>
+
+**[00:23:47](/episodes/ep-5zgkrOaCCj4.md#ent-org-battalion-metals-t-00-23-09)**
+> "...t I trust is Tucker Carlson's Battalion Metals. They believe in honest, transparent pricing, whi..."
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
@@ -94,11 +114,12 @@ Source: [The Great Gold Scam - Tucker Carlson Network](https://prod-cf.tuckercar
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:35:10](/episodes/ep-YeEtS7nix3o.md#t-00-34-46): “Who you buy it from actually does matter, and that's why I am proud to partner with Battalion Metals, a company that I trust and that you can trust too.”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:56:43](/episodes/ep-EtLHqDbxqks.md#t-00-56-23): “I'm a proud partner with the most honest source for gold, which is Battalion Metals, the company that took that Tucker Carlson co-founded, visit battalionmedals.com slash Candace to explore their collection of fair-priced gold and silver.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:31:10](/episodes/ep-ds6umq1rHAw.md#t-00-30-51): “That's why Tucker Carlson co-founded Battalion Metals to give Americans an honest place to buy fair-priced gold and silver.”
+- [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:22:35](/episodes/ep-_cNtgris8Ik.md#t-00-22-14): “Even legendary investor Ray Dalio recommends keeping up. up to 15% of your portfolio in gold. If you're thinking about adding precious metals to your retirement or savings, the company that I trust is Tucker Carlson's Battalion Metals.”
 
 </details>
 
@@ -120,7 +141,19 @@ Source: [The Great Gold Scam - Tucker Carlson Network](https://prod-cf.tuckercar
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Owned By (1)</summary>
+
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:22:35](/episodes/ep-_cNtgris8Ik.md#t-00-22-14): “Even legendary investor Ray Dalio recommends keeping up. up to 15% of your portfolio in gold. If you're thinking about adding precious metals to your retirement or savings, the company that I trust is Tucker Carlson's Battalion Metals.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -131,11 +164,12 @@ Source: [The Great Gold Scam - Tucker Carlson Network](https://prod-cf.tuckercar
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:35:10](/episodes/ep-YeEtS7nix3o.md#t-00-34-46): “Who you buy it from actually does matter, and that's why I am proud to partner with Battalion Metals, a company that I trust and that you can trust too.”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:56:43](/episodes/ep-EtLHqDbxqks.md#t-00-56-23): “I'm a proud partner with the most honest source for gold, which is Battalion Metals, the company that took that Tucker Carlson co-founded, visit battalionmedals.com slash Candace to explore their collection of fair-priced gold and silver.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:31:10](/episodes/ep-ds6umq1rHAw.md#t-00-30-51): “That's why Tucker Carlson co-founded Battalion Metals to give Americans an honest place to buy fair-priced gold and silver.”
+- [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:22:35](/episodes/ep-_cNtgris8Ik.md#t-00-22-14): “Even legendary investor Ray Dalio recommends keeping up. up to 15% of your portfolio in gold. If you're thinking about adding precious metals to your retirement or savings, the company that I trust is Tucker Carlson's Battalion Metals.”
 
 </details>
 
@@ -146,6 +180,13 @@ Source: [The Great Gold Scam - Tucker Carlson Network](https://prod-cf.tuckercar
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 00:41:30](/episodes/ep-h76ZN-xXC6c.md#t-00-41-01): “Tucker (Tucker Carlson) founded Battalion because he couldn't find one that he trusted.”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:56:43](/episodes/ep-EtLHqDbxqks.md#t-00-56-23): “I'm a proud partner with the most honest source for gold, which is Battalion Metals, the company that took that Tucker Carlson co-founded, visit battalionmedals.com slash Candace to explore their collection of fair-priced gold and silver.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:31:10](/episodes/ep-ds6umq1rHAw.md#t-00-30-51): “That's why Tucker Carlson co-founded Battalion Metals to give Americans an honest place to buy fair-priced gold and silver.”
+
+</details>
+
+- **[Tucker Carlson](/entities/person-tucker-carlson.md)** owns this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:22:35](/episodes/ep-_cNtgris8Ik.md#t-00-22-14): “Even legendary investor Ray Dalio recommends keeping up. up to 15% of your portfolio in gold. If you're thinking about adding precious metals to your retirement or savings, the company that I trust is Tucker Carlson's Battalion Metals.”
 
 </details>
 

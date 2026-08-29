@@ -24,13 +24,23 @@ veracity: "true"
 - [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [00:31:26](/episodes/ep-nPhCKwJ6ye8.md#t-00-30-52) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1886);return false;">Play</a>
 
 > My theory is that the state is correct that Tyler Robinson is the killer, at least based on evidence so far
+
+### 2. Candace Owens vs Andrew Wilson: The Great Debate.
+
+**Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
+**Timestamp:** [00:06:48](/episodes/ep-aPOyk1i2LOc.md#t-00-06-23) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(408);return false;">Play</a>
+
+> My theory is that the state is correct, that Tyler Robinson is a killer, at least based on evidence so far
 
 ## Verification
 

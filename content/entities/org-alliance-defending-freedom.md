@@ -1,6 +1,6 @@
 ---
 title: "Alliance Defending Freedom"
-description: "Alliance Defending Freedom (Organizations) - 6 mentions"
+description: "Alliance Defending Freedom (Organizations) - 9 mentions"
 id: "org-alliance-defending-freedom"
 type: "ORG"
 aliases:
@@ -24,7 +24,7 @@ Source: [About Us | Alliance Defending Freedom](https://adflegal.org/about/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-alliance-defending-freedom-t-00-35-21">2026-03-11 · 00:35:35</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-org-alliance-defending-freedom-t-00-53-38">2026-06-09 · 00:54:08</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -33,18 +33,18 @@ Source: [About Us | Alliance Defending Freedom](https://adflegal.org/about/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-eLgD5yUVbko.md#ent-org-alliance-defending-freedom-t-00-20-58">Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-eLgD5yUVbko.md#ent-org-alliance-defending-freedom-t-00-20-58">Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-alliance-defending-freedom-t-00-35-21" style="--pulse-height:25%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-alliance-defending-freedom-t-00-20-58" style="--pulse-height:100%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 4 mentions" title="2026-04-13 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-YeEtS7nix3o.md#ent-org-alliance-defending-freedom-t-00-53-38" style="--pulse-height:25%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-alliance-defending-freedom-t-00-35-21" style="--pulse-height:14%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-alliance-defending-freedom-t-00-20-58" style="--pulse-height:100%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 7 mentions" title="2026-04-13 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-org-alliance-defending-freedom-t-00-53-38" style="--pulse-height:14%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-org-alliance-defending-freedom-t-00-35-21) | 1 |
-| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-alliance-defending-freedom-t-00-20-58) | 4 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-alliance-defending-freedom-t-00-20-58) | 7 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-org-alliance-defending-freedom-t-00-53-38) | 1 |
 
 </details>
@@ -53,7 +53,7 @@ Source: [About Us | Alliance Defending Freedom](https://adflegal.org/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1 mentions)</summary>
@@ -64,7 +64,7 @@ Source: [About Us | Alliance Defending Freedom](https://adflegal.org/about/)
 </details>
 
 <details>
-<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (4 mentions)</summary>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (7 mentions)</summary>
 
 **[00:20:58](/episodes/ep-eLgD5yUVbko.md#ent-org-alliance-defending-freedom-t-00-20-58)**
 > "Alliance Defending Freedom"
@@ -77,6 +77,15 @@ Source: [About Us | Alliance Defending Freedom](https://adflegal.org/about/)
 
 **[00:25:41](/episodes/ep-eLgD5yUVbko.md#ent-org-alliance-defending-freedom-t-00-25-41)**
 > "...lan the other three people at alliance defending freedom all said ben shapiro but um yeah it's just going ..."
+
+**[00:23:37](/episodes/ep-eLgD5yUVbko.md#ent-org-alliance-defending-freedom-t-00-23-07)**
+> "...he bus gunning for me through Alliance Defending Freedom."
+
+**[00:24:24](/episodes/ep-eLgD5yUVbko.md#ent-org-alliance-defending-freedom-t-00-24-24)**
+> "...suing me to get involved with Alliance Defending Freedom and to encourage other people to sue me as these ..."
+
+**[00:25:19](/episodes/ep-eLgD5yUVbko.md#ent-org-alliance-defending-freedom-t-00-25-06)**
+> "...if you're going to talk about Alliance Defending Freedom or people that are helping Christians, there shou..."
 
 </details>
 

@@ -21,13 +21,13 @@ _Type: People_
 Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs minutes](https://www.azleg.gov/legtext/51leg/2r/comm_min/house/031914%20psmra.doc.htm)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-lori-frantzve-t-00-27-36">2026-01-06 · 00:27:59</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-lori-frantzve-t-00-27-53">2026-01-06 · 00:27:59</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-person-lori-frantzve-t-00-27-18">2026-07-22 · 00:27:46</a></strong></div>
 <div><span>Episodes</span><strong>29</strong></div>
 <div><span>Mentions</span><strong>232</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>100</strong></div>
-<div><span>Relationships</span><strong>48</strong></div>
+<div><span>Relationships</span><strong>51</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -35,7 +35,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-cZxHqYsWRYg.md#ent-person-lori-frantzve-t-00-00-01">Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3</a> (59 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-lori-frantzve-t-00-27-36" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 5 mentions" title="2026-01-06 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-lori-frantzve-t-00-27-53" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 5 mentions" title="2026-01-06 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-lori-frantzve-t-00-10-47" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 4 mentions" title="2026-01-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-lori-frantzve-t-00-11-22" style="--pulse-height:15%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 9 mentions" title="2026-01-22 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-lori-frantzve-t-00-21-11" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
@@ -55,7 +55,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-lori-frantzve-t-00-01-46" style="--pulse-height:19%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 11 mentions" title="2026-03-18 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-person-lori-frantzve-t-00-32-04" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-lori-frantzve-t-00-52-28" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-41-37" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 5 mentions" title="2026-04-02 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-lori-frantzve-t-00-41-37" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 5 mentions" title="2026-04-02 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-lori-frantzve-t-00-15-52" style="--pulse-height:17%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 10 mentions" title="2026-04-21 · 10 mentions"><span></span></a>
 <a href="/episodes/ep--9MOUvgGyi4.md#ent-person-lori-frantzve-t-02-11-54" style="--pulse-height:8%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-lori-frantzve-t-00-50-18" style="--pulse-height:8%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 2 mentions" title="2026-05-13 · 2 mentions"><span></span></a>
@@ -69,7 +69,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-lori-frantzve-t-00-27-36) | 5 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-lori-frantzve-t-00-27-53) | 5 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-lori-frantzve-t-00-10-47) | 4 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-lori-frantzve-t-00-11-22) | 9 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-lori-frantzve-t-00-21-11) | 2 |
@@ -89,7 +89,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-lori-frantzve-t-00-01-46) | 11 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-person-lori-frantzve-t-00-32-04) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-lori-frantzve-t-00-52-28) | 1 |
-| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#t-00-41-37) | 5 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-lori-frantzve-t-00-41-37) | 5 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-lori-frantzve-t-00-15-52) | 10 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#ent-person-lori-frantzve-t-02-11-54) | 1 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-lori-frantzve-t-00-50-18) | 2 |
@@ -210,20 +210,20 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (5 mentions)</summary>
 
-**[00:41:37](/episodes/ep-q1NRQQAYS_Q.md#t-00-41-37)**
-> "Nobody would confirm Lori in the story."
+**[00:41:37](/episodes/ep-q1NRQQAYS_Q.md#ent-person-lori-frantzve-t-00-41-37)**
+> "...y. Nobody would confirm Lori (Lori Frantzve) in the story."
 
-**[00:42:40](/episodes/ep-q1NRQQAYS_Q.md#t-00-42-13)**
-> "...at she and not Erica was with Lori when when Lori got the news that her son-in-law h..."
+**[00:42:40](/episodes/ep-q1NRQQAYS_Q.md#ent-person-lori-frantzve-t-00-42-13)**
+> "...a (Erika Kirk) was with Lori (Lori Frantzve) when when Lori (Lori Frantzve) got the news that..."
 
-**[00:43:00](/episodes/ep-q1NRQQAYS_Q.md#t-00-42-54)**
-> "Erica and Lori are not together. I'm again going to also decline..."
+**[00:43:00](/episodes/ep-q1NRQQAYS_Q.md#ent-person-lori-frantzve-t-00-42-54)**
+> "Erica (Erika Kirk) and Lori (Lori Frantzve) are not together. I'm again going to also declin..."
 
-**[00:43:09](/episodes/ep-q1NRQQAYS_Q.md#t-00-42-54)**
-> "...f you will, is that Erica and Lori were apart on September 10th. So a couple of ques..."
+**[00:43:09](/episodes/ep-q1NRQQAYS_Q.md#ent-person-lori-frantzve-t-00-42-54)**
+> "... Erica (Erika Kirk) and Lori (Lori Frantzve) were apart on September 10th. So a couple of que..."
 
-**[00:59:28](/episodes/ep-q1NRQQAYS_Q.md#t-00-59-01)**
-> "...ore tips at CandaceOwens.com. Lori's whereabouts on September 10th. We think we're p..."
+**[00:59:28](/episodes/ep-q1NRQQAYS_Q.md#ent-person-lori-frantzve-t-00-59-01)**
+> "...ps at CandaceOwens.com. Lori (Lori Frantzve)'s whereabouts on September 10th. We think we're ..."
 
 </details>
 
@@ -931,19 +931,19 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (5 mentions)</summary>
 
-**[00:27:59](/episodes/ep-HYn0P-P1wUw.md#ent-person-lori-frantzve-t-00-27-36)**
+**[00:27:59](/episodes/ep-HYn0P-P1wUw.md#ent-person-lori-frantzve-t-00-27-53)**
 > "...hould mention also her mother Lori Frantzve is in the background. So the three of them have k..."
 
-**[00:32:49](/episodes/ep-HYn0P-P1wUw.md#ent-person-lori-frantzve-t-00-32-26)**
+**[00:32:49](/episodes/ep-HYn0P-P1wUw.md#ent-person-lori-frantzve-t-00-32-20)**
 > "...uld involve introducing Lori (Lori Frantzve),"
 
-**[00:33:04](/episodes/ep-HYn0P-P1wUw.md#ent-person-lori-frantzve-t-00-32-26)**
+**[00:33:04](/episodes/ep-HYn0P-P1wUw.md#ent-person-lori-frantzve-t-00-33-01)**
 > "Lori (Lori Frantzve),"
 
-**[00:33:36](/episodes/ep-HYn0P-P1wUw.md#ent-person-lori-frantzve-t-00-33-05)**
+**[00:33:36](/episodes/ep-HYn0P-P1wUw.md#ent-person-lori-frantzve-t-00-33-01)**
 > "and Lori Frantzve the CEO."
 
-**[00:58:11](/episodes/ep-HYn0P-P1wUw.md#ent-person-lori-frantzve-t-00-33-05)**
+**[00:58:11](/episodes/ep-HYn0P-P1wUw.md#ent-person-lori-frantzve-t-00-33-01)**
 > "...m yesterday's episode is from Lori Galio. She writes, having that tent at Amfest as ..."
 
 </details>
@@ -957,16 +957,11 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <summary>Ceo Of (1)</summary>
 
 - **[GTEC Industries](/entities/org-gtec-industries.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:32:49](/episodes/ep-HYn0P-P1wUw.md#t-00-32-26): “a bill which would involve introducing Lori (Lori Frantzve), who was then the CEO of GTEC Industries.”
-
-</details>
 
 </details>
 
 <details>
-<summary>Affiliated With (2)</summary>
+<summary>Affiliated With (3)</summary>
 
 - **[GTEC Industries](/entities/org-gtec-industries.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -977,9 +972,17 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 - **[United States Department of Defense](/entities/org-us-department-of-defense.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:32:19](/episodes/ep-B9TyCs-6o_0.md#t-00-32-04): “the department of defense which is all over the story for some reason Lori (Lori Frantzve) is part of the department of defense”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 01:04:35](/episodes/ep-HYn0P-P1wUw.md#t-01-04-06): “So she was her mother was working with the DOD. So she's been very open about that.”
+
+</details>
+
+- **[AZ-Tech International](/entities/org-az-tech-international.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 01:04:13](/episodes/ep-HYn0P-P1wUw.md#t-01-04-06): “We'll see what happens. Jamie Powell Lucci writes, looking into Erika (Erika Kirk)'s mom's company, AZ Tech and E3 Tech, having contracts with the DOD for EMP hardening and the testing that is done at Fort Huachuca. Yeah, I think that that's accurate.”
 
 </details>
 
@@ -989,9 +992,10 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <summary>Appeared With (1)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:07:31](/episodes/ep-_vg7ucP1E0g.md#t-00-06-53): “I'm just wondering how is she affording to live, okay? She's still dating. J.T. Massey. During this time, we also have that on July 11th, Lori Frantzve and Tyler Bowyer and Erika (Erika Kirk) are going to be behind Donald Trump for his presidential campaign rally.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:27:53](/episodes/ep-HYn0P-P1wUw.md#t-00-27-53): “Standing behind Donald Trump in Arizona at his 2015 July rally, which I should mention also her mother Lori Frantzve is in the background. So the three of them have known each other since at least July 2015 publicly.”
 
 </details>
 
@@ -1043,6 +1047,18 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:42:14](/episodes/ep-DdPjoy5W-wY.md#t-00-42-04): “Lori (Lori Frantzve) gives me scam artist”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:22:04](/episodes/ep-xi8SYJTUXPM.md#t-00-21-46): “I looked into Lori, I feel differently about her. Okay, so she learned everything from her mother. That should terrify you.”
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:50:40](/episodes/ep-4DvYXBn_5JI.md#t-00-50-18): “wife if you found out something about Lori Frantzve who um yeah I have a lot of question marks about her in general but I've expressed that throughout our Erika Kirk series Bride of Charlie”
+
+</details>
+
+</details>
+
+<details>
+<summary>Former Ceo Of (1)</summary>
+
+- **[GTEC Industries](/entities/org-gtec-industries.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:32:49](/episodes/ep-HYn0P-P1wUw.md#t-00-32-20): “a bill which would involve introducing Lori (Lori Frantzve), who was then the CEO of GTEC Industries.”
 
 </details>
 
@@ -1185,7 +1201,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (16)</summary>
 
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:32:32](/episodes/ep-HYn0P-P1wUw.md#t-00-32-26): “Senator David Farnsworth. introduced Erika (Erika Kirk)'s mother to the house floor with concerns over EMPs”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:32:32](/episodes/ep-HYn0P-P1wUw.md#t-00-32-20): “Senator David Farnsworth. introduced Erika (Erika Kirk)'s mother to the house floor with concerns over EMPs”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:11:59](/episodes/ep-gG4ZoYUjUc8.md#t-00-11-22): “Lori Frantzve. Erika (Erika Kirk)'s mom, Lori Frantzve.”
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:21:40](/episodes/ep-QRS_hR7NXaQ.md#t-00-21-11): “And these question marks are really regarding her mother, Lori Frantzve.”
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:27](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09): “Lori (Erika Kirk's mother; surname unverified) is Erica (Erika Kirk)'s real mother.”
@@ -1257,19 +1273,20 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 <details>
-<summary>Referenced By (20)</summary>
+<summary>Referenced By (21)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** appeared with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:07:31](/episodes/ep-_vg7ucP1E0g.md#t-00-06-53): “I'm just wondering how is she affording to live, okay? She's still dating. J.T. Massey. During this time, we also have that on July 11th, Lori Frantzve and Tyler Bowyer and Erika (Erika Kirk) are going to be behind Donald Trump for his presidential campaign rally.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:27:53](/episodes/ep-HYn0P-P1wUw.md#t-00-27-53): “Standing behind Donald Trump in Arizona at his 2015 July rally, which I should mention also her mother Lori Frantzve is in the background. So the three of them have known each other since at least July 2015 publicly.”
 
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** child of this
 <details class="relationship-evidence"><summary>Show all evidence (16)</summary>
 
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:32:32](/episodes/ep-HYn0P-P1wUw.md#t-00-32-26): “Senator David Farnsworth. introduced Erika (Erika Kirk)'s mother to the house floor with concerns over EMPs”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:32:32](/episodes/ep-HYn0P-P1wUw.md#t-00-32-20): “Senator David Farnsworth. introduced Erika (Erika Kirk)'s mother to the house floor with concerns over EMPs”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:11:59](/episodes/ep-gG4ZoYUjUc8.md#t-00-11-22): “Lori Frantzve. Erika (Erika Kirk)'s mom, Lori Frantzve.”
 - [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 @ 00:21:40](/episodes/ep-QRS_hR7NXaQ.md#t-00-21-11): “And these question marks are really regarding her mother, Lori Frantzve.”
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:20:27](/episodes/ep-1hcjQGgvxUY.md#t-00-20-09): “Lori (Erika Kirk's mother; surname unverified) is Erica (Erika Kirk)'s real mother.”
@@ -1375,11 +1392,6 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 </details>
 
 - **[GTEC Industries](/entities/org-gtec-industries.md)** has CEO this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
-
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:32:49](/episodes/ep-HYn0P-P1wUw.md#t-00-32-26): “a bill which would involve introducing Lori (Lori Frantzve), who was then the CEO of GTEC Industries.”
-
-</details>
 
 - **[Superfeed Technologies, Inc.](/entities/org-superfeed-technologies.md)** has board member this
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
@@ -1388,6 +1400,13 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:26:08](/episodes/ep-H9p2ZGHAs9A.md#t-00-25-53): “Superfeed incorporated where Erika (Erika Kirk)'s mother is serving as a board member with Tyler Bowyer?”
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:28:46](/episodes/ep-_vg7ucP1E0g.md#t-00-28-35): “We have that in November. Her mother establishes G-Tech Industries LLC. I know you're going to say, what is it do? ... You know, it's Lori (Lori Frantzve). So it's like this. She's doing this whole EMP thing and she's getting money and she's. ... Super Feed Technologies is the company that both Erika's (Erika Kirk's) mother and Tyler Bowyer are on the board of.”
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:49:57](/episodes/ep-4DvYXBn_5JI.md#t-00-49-36): “I'm blanking on the name of the company that she is on the board of with Tyler Bowyer. ... They act super feed. The super feed actually powers the Turning Point USA website. So the app, pardon me.”
+
+</details>
+
+- **[GTEC Industries](/entities/org-gtec-industries.md)** has former CEO this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:32:49](/episodes/ep-HYn0P-P1wUw.md#t-00-32-20): “a bill which would involve introducing Lori (Lori Frantzve), who was then the CEO of GTEC Industries.”
 
 </details>
 
@@ -1498,7 +1517,7 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 - [00:39:53](/episodes/ep-q1NRQQAYS_Q.md#t-00-39-48) (Claim) **Candace Owens**: ["Lori Frantzve received treatment at the Phoenix clinic on September 8,..."](/statements/statement-8be506596509.md)
   - Also about: [Phoenix, Arizona](/entities/gpe-phoenix-arizona.md)
 
-- [00:42:08](/episodes/ep-q1NRQQAYS_Q.md#t-00-41-37) (Claim) **Candace Owens** (via paraphrase): ["A doctor and his wife told friends that Erika Kirk was in the doctor's..."](/statements/statement-8f640ccb4258.md)
+- [00:42:13](/episodes/ep-q1NRQQAYS_Q.md#t-00-42-13) (Claim) **Candace Owens** (via paraphrase): ["A doctor and his wife told friends that Erika Kirk was in the doctor's..."](/statements/statement-8f640ccb4258.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:42:28](/episodes/ep-q1NRQQAYS_Q.md#t-00-42-13) (Claim) **Candace Owens** (via paraphrase): ["A source claimed Erika Kirk was with her security guard when she learn..."](/statements/statement-314eb75d5c16.md)
@@ -1817,13 +1836,13 @@ Source: [Arizona Legislature — Public Safety, Military and Regulatory Affairs 
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (3)</summary>
 
-- [00:32:32](/episodes/ep-HYn0P-P1wUw.md#t-00-32-26) (Claim) **Candace Owens**: ["In 2014, Arizona senator David Farnsworth introduced Lori Frantzve, th..."](/statements/statement-2d2b06ca4a8b.md)
+- [00:32:32](/episodes/ep-HYn0P-P1wUw.md#t-00-32-20) (Claim) **Candace Owens**: ["In 2014, Arizona senator David Farnsworth introduced Lori Frantzve, th..."](/statements/statement-2d2b06ca4a8b.md)
   - Also about: [David Farnsworth](/entities/person-david-farnsworth.md), [GTEC Industries](/entities/org-gtec-industries.md), [Eddie Farnsworth](/entities/person-eddie-farnsworth.md)
 
-- [00:33:39](/episodes/ep-HYn0P-P1wUw.md#t-00-33-05) (Claim) **Candace Owens**: ["The Farnsworth, Bowyer, and Frantzve families had documented connectio..."](/statements/statement-9253c69f0aeb.md)
+- [00:33:39](/episodes/ep-HYn0P-P1wUw.md#t-00-33-38) (Claim) **Candace Owens**: ["The Farnsworth, Bowyer, and Frantzve families had documented connectio..."](/statements/statement-9253c69f0aeb.md)
   - Also about: [Terryl Farnsworth](/entities/person-terryl-farnsworth.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
-- [01:04:26](/episodes/ep-HYn0P-P1wUw.md#t-01-03-41) (Claim) **Erika Kirk** (via paraphrase): ["Erika Kirk has said she moved to Arizona because her mother obtained U..."](/statements/statement-c50554fd1566.md)
+- [01:04:26](/episodes/ep-HYn0P-P1wUw.md#t-01-04-06) (Claim) **Erika Kirk** (via paraphrase): ["Erika Kirk has said she moved to Arizona because her mother obtained U..."](/statements/statement-c50554fd1566.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [United States Department of Defense](/entities/org-us-department-of-defense.md)
 
 </details>

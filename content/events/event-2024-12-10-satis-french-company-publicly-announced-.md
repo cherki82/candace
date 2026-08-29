@@ -1,6 +1,6 @@
 ---
-title: "2024-12-10: Satis French company publicly announced hangar lea..."
-description: "2024-12-10 - Satis French company publicly announced hangar lease deal in Wilmington Delaware"
+title: "2024-12-10: Satys French company publicly announced hangar lea..."
+description: "2024-12-10 - Satys French company publicly announced hangar lease deal in Wilmington Delaware"
 event_id: "event-2024-12-10-satis-french-company-publicly-announced-"
 date: "2024-12-10"
 ---
@@ -9,7 +9,7 @@ date: "2024-12-10"
 
 ## Event
 
-> Satis French company publicly announced hangar lease deal in Wilmington Delaware
+> Satys French company publicly announced hangar lease deal in Wilmington Delaware
 
 ## Mentioned In
 

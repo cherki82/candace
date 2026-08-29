@@ -1,6 +1,6 @@
 ---
 title: "Jon Aaron Bray"
-description: "Jon Aaron Bray (People) - 25 mentions"
+description: "Jon Aaron Bray (People) - 33 mentions"
 id: "person-jon-aaron-bray"
 type: "PERSON"
 aliases:
@@ -24,8 +24,8 @@ Source: [Forensic Evidence Summary](https://followtheepicenter.com/Forensic_Evid
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-person-jon-aaron-bray-t-01-18-09">2026-01-09 · 01:18:32</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-jon-aaron-bray-t-03-08-09">2026-08-14 · 03:08:15</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>33</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -42,7 +42,11 @@ Source: [Forensic Evidence Summary](https://followtheepicenter.com/Forensic_Evid
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-jon-aaron-bray-t-00-49-07" style="--pulse-height:14%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-jon-aaron-bray-t-00-12-43" style="--pulse-height:14%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-person-jon-aaron-bray-t-00-03-22" style="--pulse-height:100%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 7 mentions" title="2026-06-26 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-person-jon-aaron-bray-t-00-31-23" style="--pulse-height:14%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 1 mentions" title="2026-07-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-person-jon-aaron-bray-t-00-08-45" style="--pulse-height:14%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-person-jon-aaron-bray-t-00-26-41" style="--pulse-height:14%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-jon-aaron-bray-t-03-02-07" style="--pulse-height:71%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 5 mentions" title="2026-08-14 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-jon-aaron-bray-t-02-21-05" style="--pulse-height:71%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 5 mentions" title="2026-08-14 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -54,7 +58,11 @@ Source: [Forensic Evidence Summary](https://followtheepicenter.com/Forensic_Evid
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-jon-aaron-bray-t-00-49-07) | 1 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-jon-aaron-bray-t-00-12-43) | 1 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-jon-aaron-bray-t-00-03-22) | 7 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-person-jon-aaron-bray-t-00-31-23) | 1 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-person-jon-aaron-bray-t-00-08-45) | 1 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-person-jon-aaron-bray-t-00-26-41) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-jon-aaron-bray-t-03-02-07) | 5 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-jon-aaron-bray-t-02-21-05) | 5 |
 
 </details>
 </section>
@@ -62,7 +70,7 @@ Source: [Forensic Evidence Summary](https://followtheepicenter.com/Forensic_Evid
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (33)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (5 mentions)</summary>
@@ -81,6 +89,50 @@ Source: [Forensic Evidence Summary](https://followtheepicenter.com/Forensic_Evid
 
 **[03:08:15](/episodes/ep-nPhCKwJ6ye8.md#ent-person-jon-aaron-bray-t-03-08-09)**
 > "...ode that you're clipping said John Bray has done an unbelievable amount of work on this a..."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (5 mentions)</summary>
+
+**[02:21:30](/episodes/ep-aPOyk1i2LOc.md#ent-person-jon-aaron-bray-t-02-21-05)**
+> "So I'm walking them through John Bray's theory if we started to insert what we are actual..."
+
+**[02:22:07](/episodes/ep-aPOyk1i2LOc.md#ent-person-jon-aaron-bray-t-02-22-07)**
+> "john bray's theory should be explored yes"
+
+**[02:22:13](/episodes/ep-aPOyk1i2LOc.md#ent-person-jon-aaron-bray-t-02-22-13)**
+> "...he's done a lot of work on it john bray has done good work and i And I think that that's ..."
+
+**[02:27:07](/episodes/ep-aPOyk1i2LOc.md#ent-person-jon-aaron-bray-t-02-27-07)**
+> "...ou should debate someone like John Bray who's worked on that theory for 11 months."
+
+**[02:27:19](/episodes/ep-aPOyk1i2LOc.md#ent-person-jon-aaron-bray-t-02-27-07)**
+> "...ode that you're clipping said John Bray has done an unbelievable amount of work on this."
+
+</details>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
+
+**[00:26:41](/episodes/ep-HGtMfbePDKk.md#ent-person-jon-aaron-bray-t-00-26-41)**
+> "...ts super chats doing his, and John Bray sells kombucha."
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>
+
+**[00:08:45](/episodes/ep-1CFDtD0IgEg.md#ent-person-jon-aaron-bray-t-00-08-45)**
+> "Maybe member John Bray showed us that that glass for the road mic is ver..."
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (1 mentions)</summary>
+
+**[00:31:23](/episodes/ep-iB-YtO3UZOg.md#ent-person-jon-aaron-bray-t-00-31-23)**
+> "I agree with you and John Bray that the exploding mic theory is the best explanation of what we could grasp from the limited footage available."
 
 </details>
 

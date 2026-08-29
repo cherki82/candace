@@ -1,6 +1,6 @@
 ---
 title: "The Hamptons"
-description: "The Hamptons (Places) - 27 mentions"
+description: "The Hamptons (Places) - 29 mentions"
 id: "gpe-the-hamptons"
 type: "GPE"
 aliases:
@@ -26,8 +26,8 @@ Source: [Towns & Regions on Long Island | Discover Long Island](https://www.disc
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-the-hamptons-t-00-57-01">2026-01-20 · 00:57:01</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-the-hamptons-t-02-26-33">2026-08-14 · 02:26:42</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>27</strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>29</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -47,6 +47,7 @@ Source: [Towns & Regions on Long Island | Discover Long Island](https://www.disc
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-the-hamptons-t-00-22-24" style="--pulse-height:8%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-the-hamptons-t-00-06-07" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-the-hamptons-t-02-25-29" style="--pulse-height:14%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-gpe-the-hamptons-t-01-44-27" style="--pulse-height:14%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -61,6 +62,7 @@ Source: [Towns & Regions on Long Island | Discover Long Island](https://www.disc
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-gpe-the-hamptons-t-00-22-24) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-the-hamptons-t-00-06-07) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-the-hamptons-t-02-25-29) | 2 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-the-hamptons-t-01-44-27) | 2 |
 
 </details>
 </section>
@@ -72,7 +74,7 @@ Source: [Towns & Regions on Long Island | Discover Long Island](https://www.disc
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+<summary><strong class="section-title">Raw mentions (29)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -82,6 +84,17 @@ Source: [Towns & Regions on Long Island | Discover Long Island](https://www.disc
 
 **[02:26:42](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-the-hamptons-t-02-26-33)**
 > "The Hamptons thing was weird."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (2 mentions)</summary>
+
+**[01:44:42](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-the-hamptons-t-01-44-27)**
+> "...ch no one wants to discuss in the Hamptons."
+
+**[01:45:41](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-the-hamptons-t-01-45-31)**
+> "BBA ain't acting right. The Hamptons thing was weird. And the way they tried to shove ..."
 
 </details>
 

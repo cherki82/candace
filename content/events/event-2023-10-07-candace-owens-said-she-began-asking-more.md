@@ -11,7 +11,7 @@ date: "2023-10-07"
 
 > Candace Owens said she began asking more questions about Israel following October 7.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
 
@@ -28,3 +28,11 @@ date: "2023-10-07"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2216);return false;">▶️ Play</a>
 
 > after October 7th, it's reasonable that people are starting to re-examine our relationship
+
+### 3. Candace Owens vs Andrew Wilson: The Great Debate.
+
+**Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
+**Timestamp:** [00:11:45](/episodes/ep-aPOyk1i2LOc.md#event-event-2023-10-07-candace-owens-said-she-began-asking-more-t-00-11-45) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(705);return false;">▶️ Play</a>
+
+> actually on your show, it began since October 7th, which is when.

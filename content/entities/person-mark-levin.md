@@ -1,6 +1,6 @@
 ---
 title: "Mark Levin"
-description: "Mark Levin (People) - 24 mentions"
+description: "Mark Levin (People) - 27 mentions"
 id: "person-mark-levin"
 type: "PERSON"
 categories:
@@ -17,12 +17,12 @@ Source: [The Mark Levin Show: About](https://www.marklevinshow.com/about-the-sho
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qfwr08Ebczo.md#ent-person-mark-levin-t-00-37-10">2025-11-04 · 00:37:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-person-mark-levin-t-00-28-30">2026-06-09 · 00:28:53</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>24</strong></div>
-<div><span>Statements by</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-person-mark-levin-t-00-43-53">2026-08-04 · 00:43:53</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>27</strong></div>
+<div><span>Statements by</span><strong>6</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -41,6 +41,7 @@ Source: [The Mark Levin Show: About](https://www.marklevinshow.com/about-the-sho
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-mark-levin-t-00-24-24" style="--pulse-height:17%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#t-01-07-16" style="--pulse-height:17%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-person-mark-levin-t-00-28-30" style="--pulse-height:33%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-person-mark-levin-t-00-42-07" style="--pulse-height:50%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 3 mentions" title="2026-08-04 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,6 +58,7 @@ Source: [The Mark Levin Show: About](https://www.marklevinshow.com/about-the-sho
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-mark-levin-t-00-24-24) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#t-01-07-16) | 1 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-mark-levin-t-00-28-30) | 2 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-person-mark-levin-t-00-42-07) | 3 |
 
 </details>
 </section>
@@ -64,7 +66,21 @@ Source: [The Mark Levin Show: About](https://www.marklevinshow.com/about-the-sho
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (3 mentions)</summary>
+
+**[00:42:28](/episodes/ep-1CFDtD0IgEg.md#ent-person-mark-levin-t-00-42-07)**
+> "... like actual psychopaths like Mark Levin. who wants now people in Iran to be armed because..."
+
+**[00:42:42](/episodes/ep-1CFDtD0IgEg.md#ent-person-mark-levin-t-00-42-07)**
+> "Take a listen to Mark Levin being overtaken by a demon."
+
+**[00:43:53](/episodes/ep-1CFDtD0IgEg.md#ent-person-mark-levin-t-00-43-53)**
+> "...ens: "Whose idea was this?" / Mark Levin: "using firepower.""
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (2 mentions)</summary>
@@ -199,6 +215,18 @@ Source: [The Mark Levin Show: About](https://www.marklevinshow.com/about-the-sho
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Advisor To (1)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:44:18](/episodes/ep-1CFDtD0IgEg.md#t-00-44-18): “they're telling Trump (Donald J. Trump) who's already done this to arm protesters in Iran. ... Psychos, like actual psychopaths like Mark Levin. ... These are the people that are advising the president of the United States who actually believe that they were going to take Iran in two weeks.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Criticized (2)</summary>
 
 - **[Joe Kent](/entities/person-joe-kent.md)**
@@ -221,25 +249,34 @@ Source: [The Mark Levin Show: About](https://www.marklevinshow.com/about-the-sho
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:14:44](/episodes/ep-I0OaY6Gryqk.md#t-00-14-38): “Okay. Next up, we have Mark Levin, a resident psycho. I wonder if this guy Joe Kent was about to be fired.”
 - [Candace x Hunter Biden: The Interview @ 01:07:27](/episodes/ep-Ux1kzgQxkws.md#t-01-07-16): “people who have been against Trump the entire time who are lecturing us about this stuff, like the Mark Levins”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:28:41](/episodes/ep-YeEtS7nix3o.md#t-00-28-30): “Zionists in particular, like Ben Shapiro, like Mark Levin, they resent history. They rewrite history. They seek to control Christians.”
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:42:28](/episodes/ep-1CFDtD0IgEg.md#t-00-42-07): “Psychos, like actual psychopaths like Mark Levin.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)** advised by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:44:18](/episodes/ep-1CFDtD0IgEg.md#t-00-44-18): “they're telling Trump (Donald J. Trump) who's already done this to arm protesters in Iran. ... Psychos, like actual psychopaths like Mark Levin. ... These are the people that are advising the president of the United States who actually believe that they were going to take Iran in two weeks.”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:14:44](/episodes/ep-I0OaY6Gryqk.md#t-00-14-38): “Okay. Next up, we have Mark Levin, a resident psycho. I wonder if this guy Joe Kent was about to be fired.”
 - [Candace x Hunter Biden: The Interview @ 01:07:27](/episodes/ep-Ux1kzgQxkws.md#t-01-07-16): “people who have been against Trump the entire time who are lecturing us about this stuff, like the Mark Levins”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:28:41](/episodes/ep-YeEtS7nix3o.md#t-00-28-30): “Zionists in particular, like Ben Shapiro, like Mark Levin, they resent history. They rewrite history. They seek to control Christians.”
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:42:28](/episodes/ep-1CFDtD0IgEg.md#t-00-42-07): “Psychos, like actual psychopaths like Mark Levin.”
 
 </details>
 
@@ -262,7 +299,18 @@ Source: [The Mark Levin Show: About](https://www.marklevinshow.com/about-the-sho
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Mark Levin (4)</strong></summary>
+<summary><strong class="section-title">Statements by Mark Levin (6)</strong></summary>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (2)</summary>
+
+- [00:43:40](/episodes/ep-1CFDtD0IgEg.md#t-00-43-34) [✓] (Prediction) ["Mark Levin predicted that if Iranian opposition groups received the weapons they..."](/statements/statement-1eb9dc56d471.md)
+  - About: [Iran](/entities/gpe-iran.md)
+
+- [00:44:12](/episodes/ep-1CFDtD0IgEg.md#t-00-43-55) [✓] (Opinion) ["Mark Levin argued that the United States should arm Iranian opposition groups."](/statements/statement-fad7accff25b.md)
+  - About: [United States](/entities/gpe-united-states.md), [Iran](/entities/gpe-iran.md)
+
+</details>
 
 <details>
 <summary>HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 (2)</summary>

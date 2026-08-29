@@ -1,6 +1,6 @@
 ---
-title: "A photo of Tyler Robinson was taken at 6:38 p.m. at a Dairy ..."
-description: "\"A photo of Tyler Robinson was taken at 6:38 p.m. at a Dairy Queen near the campus\" — Candace Owens"
+title: "A photo of Tyler Robinson was allegedly taken at 6:38 p.m. a..."
+description: "\"A photo of Tyler Robinson was allegedly taken at 6:38 p.m. at a Dairy Queen near the campus.\" — Candace Owens"
 statement_id: "statement-5291407ca337"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> A photo of Tyler Robinson was taken at 6:38 p.m. at a Dairy Queen near the campus
+> A photo of Tyler Robinson was allegedly taken at 6:38 p.m. at a Dairy Queen near the campus.
 
 ## Attribution
 

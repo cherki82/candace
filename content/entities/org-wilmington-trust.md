@@ -5,11 +5,19 @@ id: "org-wilmington-trust"
 type: "ORG"
 aliases:
   - "Wilmington Trust at 1100 North Market"
+categories:
+  - "financial institution"
 ---
 
 _Type: Organizations_
 
 **Also known as:** Wilmington Trust at 1100 North Market
+
+**Categories:** financial institution
+
+**Entity verification:** verified
+> The institution's own site confirms the canonical financial-services identity.
+Source: [About Us — Wilmington Trust](https://www.wilmingtontrust.com/about-us)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-wilmington-trust-t-00-31-13">2025-12-01 · 00:31:39</a></strong></div>

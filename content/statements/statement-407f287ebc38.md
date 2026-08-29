@@ -24,7 +24,9 @@ type: "accusation"
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [00:30:12](/episodes/ep-nPhCKwJ6ye8.md#t-00-30-12) 
@@ -32,10 +34,18 @@ type: "accusation"
 
 > I have 11 on site. Charlie responded with this, okay, great. Remind them that they are there for one person's security only, because I'm somewhat worried the left is trying to kill me.
 
+### 2. Candace Owens vs Andrew Wilson: The Great Debate.
+
+**Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
+**Timestamp:** [00:05:34](/episodes/ep-aPOyk1i2LOc.md#t-00-04-58) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(334);return false;">Play</a>
+
+> I have 11 on site. Charlie responded with this, okay, great. Remind them that they are there for one person's security only. ... Because I'm somewhat worried the left is trying to kill me. That was a message sent September 9th.
+
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+_This statement has not yet been verified._
 
 ---
 
-**Type:** Accusation | **Verifiable:** No
+**Type:** Accusation | **Verifiable:** Yes

@@ -25,10 +25,10 @@ type: "accusation"
 ## Source
 
 **Episode:** [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md)
-**Timestamp:** [00:34:56](/episodes/ep-sImMM04XdWY.md#t-00-34-49) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2096);return false;">Play</a>
+**Timestamp:** [00:37:10](/episodes/ep-sImMM04XdWY.md#t-00-36-51) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2230);return false;">Play</a>
 
-> I can also tell you that this is a severe misrepresentation because the reason why he says Sorensen—and obviously many people picked up on this—like Lozier is supposedly where the student got up on the roof. So why would Sorensen even matter? Well, apparently—and again, I confirmed this with security inside of Turning Point—there somehow happened to be a leak
+> Something else that is very strange that I was told early on when all of these leaks were coming is that not only did Turning Point not walk the campus when they got there—I'm referring to the security
 
 ## Verification
 

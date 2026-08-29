@@ -1,6 +1,6 @@
 ---
 title: "Pierre Falcone"
-description: "Pierre Falcone (People) - 26 mentions"
+description: "Pierre Falcone (People) - 28 mentions"
 id: "person-pierre-falcone"
 type: "PERSON"
 aliases:
@@ -22,8 +22,8 @@ Source: [Global Witness — Time for Transparency](https://www.globalwitness.org
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-pierre-falcone-t-00-12-04">2025-12-08 · 00:12:17</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#t-02-27-56">2026-08-14 · 02:28:00</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>28</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>18</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -36,10 +36,11 @@ Source: [Global Witness — Time for Transparency](https://www.globalwitness.org
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-pierre-falcone-t-00-12-04" style="--pulse-height:50%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 7 mentions" title="2025-12-08 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-pierre-falcone-t-00-54-48" style="--pulse-height:8%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-pierre-falcone-t-00-16-33" style="--pulse-height:14%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-pierre-falcone-t-00-16-46" style="--pulse-height:14%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-person-pierre-falcone-t-00-12-40" style="--pulse-height:100%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 14 mentions" title="2026-02-05 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-pierre-falcone-t-00-00-00" style="--pulse-height:8%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#t-02-27-56" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#t-01-46-50" style="--pulse-height:14%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,10 +48,11 @@ Source: [Global Witness — Time for Transparency](https://www.globalwitness.org
 |---|---|---:|
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-pierre-falcone-t-00-12-04) | 7 |
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-person-pierre-falcone-t-00-54-48) | 1 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-pierre-falcone-t-00-16-33) | 2 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-pierre-falcone-t-00-16-46) | 2 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-person-pierre-falcone-t-00-12-40) | 14 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-pierre-falcone-t-00-00-00) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-02-27-56) | 1 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#t-01-46-50) | 2 |
 
 </details>
 </section>
@@ -58,13 +60,24 @@ Source: [Global Witness — Time for Transparency](https://www.globalwitness.org
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (28)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[02:28:00](/episodes/ep-nPhCKwJ6ye8.md#t-02-27-56)**
 > "Is Pierre Carrico?"
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (2 mentions)</summary>
+
+**[01:46:56](/episodes/ep-aPOyk1i2LOc.md#t-01-46-50)**
+> "My guess is Pierre."
+
+**[01:47:00](/episodes/ep-aPOyk1i2LOc.md#t-01-46-50)**
+> "Erica, I think that there's a reason Pierre knew that Charlie was dead first. I think there's a reason he was a priority."
 
 </details>
 
@@ -126,10 +139,10 @@ Source: [Global Witness — Time for Transparency](https://www.globalwitness.org
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (2 mentions)</summary>
 
-**[00:16:46](/episodes/ep-HYn0P-P1wUw.md#ent-person-pierre-falcone-t-00-16-33)**
+**[00:16:46](/episodes/ep-HYn0P-P1wUw.md#ent-person-pierre-falcone-t-00-16-46)**
 > "... (surname uncertain; possibly Pierre Falcone)."
 
-**[00:16:54](/episodes/ep-HYn0P-P1wUw.md#ent-person-pierre-falcone-t-00-16-33)**
+**[00:16:54](/episodes/ep-HYn0P-P1wUw.md#ent-person-pierre-falcone-t-00-16-46)**
 > "Is it Pierre DuPont? Is it Pierre Falcone? I think it's Pierre Falcone. I really do believe..."
 
 </details>
@@ -276,7 +289,7 @@ Source: [Global Witness — Time for Transparency](https://www.globalwitness.org
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1)</summary>
 
-- [00:16:46](/episodes/ep-HYn0P-P1wUw.md#t-00-16-33) (Claim) **Candace Owens**: ["A large payment to Turning Point USA was coming from Pierre Falcone."](/statements/statement-7513a08257cb.md)
+- [00:16:46](/episodes/ep-HYn0P-P1wUw.md#t-00-16-07) (Claim) **Candace Owens**: ["Candace Owens said she believes a large payment to Turning Point USA w..."](/statements/statement-7513a08257cb.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>

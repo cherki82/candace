@@ -11,7 +11,11 @@ object: "person-candace-owens"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (31 mentions)
+### Evidence (42 mentions)
+
+**[VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg)**
+
+- [00:13:41](/episodes/ep-1CFDtD0IgEg#t-00-13-41): _I can't figure out why us bringing forth more viable leads is so naturally upsetting to Turning Point USA._
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -33,6 +37,10 @@ object: "person-candace-owens"
 
 - [00:35:58](/episodes/ep-4DvYXBn_5JI#t-00-35-58): _why why are we doing this why are they being so weird why are they constantly adjusting telling lies gaslighting being consistent working behind the scenes to get out something that I was happy to just go ahead and debunk because like I said I was like ... that is what makes people not trust the Turning Point USA apparatus._
 
+**[Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg)**
+
+- [00:37:40](/episodes/ep-4JxgOclKzqg#t-00-37-40): _You just have to love Joe Rogan for having the courage to just have a boy's chat publicly which everyone's relating to and laughing to except for Turning Point USA because this has been their PR strategy, this bizarre strategy to go after the comedians for noticing,_
+
 **[Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM)**
 
 - [00:17:49](/episodes/ep-5m-Wn6Pr5rM#t-00-17-49): _It's Turning Point USA. You don't need to take anything they say as fact._
@@ -41,9 +49,29 @@ object: "person-candace-owens"
 
 - [00:21:33](/episodes/ep-7ERqbYElOfs#t-00-21-33): _almost like this TPUSA cult of people, which is unnatural._
 
+**[EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70)**
+
+- [00:17:30](/episodes/ep-9hRcfSrri70#t-00-17-30): _When it comes to Turning Point USA, it's just amazing. It feels like we're just being perpetually gaslit by them._
+
+**[Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE)**
+
+- [00:40:17](/episodes/ep-AH1KVKkweUE#t-00-40-17): _Pathologically insane to think that Turning Point USA is acting in good faith._
+
+**[A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ)**
+
+- [00:31:53](/episodes/ep-AoYZel7_cGQ#t-00-31-53): _I am sickened by Turning Point USA. I want to put that on record. I am sickened by them._
+
 **[EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0)**
 
 - [00:13:27](/episodes/ep-B9TyCs-6o_0#t-00-13-27): _angry because this made both them and the new CEO and chairman who also happens to be Charlie Kirk's wife look bad. ... Liars hate when they get caught._
+
+**[LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8)**
+
+- [00:47:58](/episodes/ep-ChuWo-n49B8#t-00-47-58): _These are, you're looking at turning point USA faith and they want access to children. They're all wacky. They're all crazy pastors. You got Frank Turek open saying, signaling that I should be struck down using the Bible, the good Bible, of course, to do it._
+
+**[Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA)**
+
+- [00:00:21](/episodes/ep-E7P2ShoYDUA#t-00-00-21): _Just terrible, terrible. I mean, without question, the biggest loser was Erika Kirk, Andrew Kolvet. Blake Neff, the Turning Point USA organization, more broadly speaking, because we seem to be reaching a new depth of their PR disaster._
 
 **[I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks)**
 
@@ -52,6 +80,14 @@ object: "person-candace-owens"
 **[EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A)**
 
 - [00:31:46](/episodes/ep-H9p2ZGHAs9A#t-00-31-46): _You should think again. You should remember that we're speaking about Turning Point USA. There's got to be money somewhere, right? There's got to be ka-ching, ka-ching somewhere._
+
+**[Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk)**
+
+- [00:23:29](/episodes/ep-HGtMfbePDKk#t-00-23-29): _It's perfect. And once again, people will blame me. For the fact that this backfires and people then recognize that Turning Point USA isn't just entirely fraudulent positions that they represent, why would they welcome her into the headquarters?_
+
+**[BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o)**
+
+- [00:03:50](/episodes/ep-HZvwbfePe7o#t-00-03-50): _But nothing he has done—nothing Turning Point USA has done or participated in—has been more evil to me than attempting to rewrite and, frankly, delete the very well-documented and storied history and friendship between me and Charlie Kirk._
 
 **[HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk)**
 
@@ -64,6 +100,10 @@ object: "person-candace-owens"
 **[Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs)**
 
 - [00:04:11](/episodes/ep-KpxIBWkNsSs#t-00-04-11): _Me, regarding that, I'm just forever amazed at what Turning Point USA and their execs choose to respond to and the more important things that they remain._
+
+**[You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI)**
+
+- [00:09:19](/episodes/ep-OEAHy3SsIiI#t-00-09-19): _Now, maybe Turning Point USA is not striving for relatability and that's fine. Money can, in fact, be your motive. But for me, when it moved toward becoming an abomination, abomination. The thing that sent me over the edge was when I saw the tent._
 
 **[Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU)**
 
@@ -83,7 +123,11 @@ object: "person-candace-owens"
 
 **[PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4)**
 
-- [00:02:02](/episodes/ep-UYkXV9mYbT4#t-00-02-02): _I have to go back to the beginning to fully comprehend how this case fell apart so quickly for Turning Point USA, for Erica Kirk, and what I think is fair to refer to as also their federal accomplices, because that's what it looks like to me._
+- [00:02:02](/episodes/ep-UYkXV9mYbT4#t-00-02-02): _I have to go back to the beginning to fully comprehend how this case fell apart so quickly for Turning Point USA, for Erika Kirk, and what I think is fair to refer to as also their federal accomplices, because that's what it looks like to me._
+
+**[EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs)**
+
+- [00:40:24](/episodes/ep-Vu6Y24pqhZs#t-00-40-24): _And I do believe Charlie (Charlie Kirk) found out something when he looked into his organization and wanted to know where the money was coming from and where it was going to. ... Established a doge audit, which helped the new leader of Turning Point USA obviously canceled. She feels good about it._
 
 **[Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4)**
 
@@ -127,7 +171,7 @@ object: "person-candace-owens"
 
 **[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
 
-- [00:18:38](/episodes/ep-q1NRQQAYS_Q#t-00-18-38): _So why is this particular one you're worried about people thinking it's AI? They even share outdated videos and try to pretend that he's supporting the Iranian war, like they're getting fact checked on X because they're sharing outdated videos and misrepresenting Charlie's._
+- [00:18:38](/episodes/ep-q1NRQQAYS_Q#t-00-18-38): _So why is this particular one you're worried about people thinking it's AI? They even share outdated videos and try to pretend that he's supporting the Iranian war, like they're getting fact checked on X because they're sharing outdated videos and misrepresenting Charlie (Charlie Kirk)'s._
 
 **[TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ)**
 

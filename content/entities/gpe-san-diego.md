@@ -1,6 +1,6 @@
 ---
 title: "San Diego, California"
-description: "San Diego, California (Places) - 2 mentions"
+description: "San Diego, California (Places) - 3 mentions"
 id: "gpe-san-diego"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [Key Facts and Figures | City of San Diego](https://www.sandiego.gov/eco
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-san-diego-t-00-02-55">2026-04-21 · 00:03:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-uC_GjKU8rs8.md#ent-gpe-san-diego-t-00-37-13">2026-05-04 · 00:37:42</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-gpe-san-diego-t-00-10-17">2026-08-18 · 00:10:51</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -37,6 +37,7 @@ Source: [Key Facts and Figures | City of San Diego](https://www.sandiego.gov/eco
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-gpe-san-diego-t-00-02-55" style="--pulse-height:100%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-gpe-san-diego-t-00-37-13" style="--pulse-height:100%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-gpe-san-diego-t-00-10-17" style="--pulse-height:100%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [Key Facts and Figures | City of San Diego](https://www.sandiego.gov/eco
 |---|---|---:|
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-gpe-san-diego-t-00-02-55) | 1 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-gpe-san-diego-t-00-37-13) | 1 |
+| 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-gpe-san-diego-t-00-10-17) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [Key Facts and Figures | City of San Diego](https://www.sandiego.gov/eco
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1 mentions)</summary>
+
+**[00:10:51](/episodes/ep-4JxgOclKzqg.md#ent-gpe-san-diego-t-00-10-17)**
+> "Here's San Francisco. Here's San Diego. Long Beach. Boise, Idaho. Washington State. Do y..."
+
+</details>
 
 <details>
 <summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (1 mentions)</summary>

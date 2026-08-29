@@ -31,7 +31,7 @@ veracity: "true"
 **Timestamp:** [00:21:20](/episodes/ep-9naMwS0kMBE.md#t-00-21-11) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1280);return false;">Play</a>
 
-> that the United States military is literally run by sexual deviants heavy on the homosexual side, True, truly.
+> that the United States military is literally run by sexual deviants heavy on the homosexual side,
 
 ## Verification
 

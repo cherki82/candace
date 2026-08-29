@@ -11,7 +11,11 @@ object: "org-turning-point-usa"
 
 ## [Terrell Farnsworth](/entities/person-terrell-farnsworth) works for [Turning Point USA](/entities/org-turning-point-usa)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
+
+**[Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg)**
+
+- [00:01:57](/episodes/ep-4JxgOclKzqg#t-00-01-57): _I would offer that it was when Terrell Farnsworth, Turning Point USA's audio and visual lead, he runs Visual Impulse, was seen taking..._
 
 **[Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE)**
 

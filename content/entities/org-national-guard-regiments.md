@@ -3,9 +3,17 @@ title: "National Guard regiments"
 description: "National Guard regiments (Organizations) - 1 mention"
 id: "org-national-guard-regiments"
 type: "ORG"
+categories:
+  - "U.S. National Guard units"
 ---
 
 _Type: Organizations_
+
+**Categories:** U.S. National Guard units
+
+**Entity verification:** verified
+> Canonical name and identity for National Guard regiments confirmed by the cited direct external source.
+Source: [About the National Guard](https://www.nationalguard.mil/About-the-Guard/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-national-guard-regiments-t-00-59-13">2025-12-01 · 00:59:13</a></strong></div>

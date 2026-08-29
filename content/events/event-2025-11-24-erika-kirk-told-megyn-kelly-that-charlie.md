@@ -17,4 +17,4 @@ date: "2025-11-24"
 **Timestamp:** [00:08:54](/episodes/ep-q1NRQQAYS_Q.md#event-event-2025-11-24-erika-kirk-told-megyn-kelly-that-charlie-t-00-08-54) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(534);return false;">▶️ Play</a>
 
-> And that's certainly what Erica Kirk told Megan Kelly on November 24th. Take a listen.
+> And that's certainly what Erika Kirk told Megyn Kelly on November 24th. Take a listen.

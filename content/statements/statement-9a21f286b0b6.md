@@ -1,6 +1,6 @@
 ---
-title: "Walid Mahmood came to Provo on May 27th, 2024 aboard Egyptia..."
-description: "\"Walid Mahmood came to Provo on May 27th, 2024 aboard Egyptian military plane SUBTU, departing June 2nd without transponding\" — Candace Owens"
+title: "Walid Mahmood came to Provo on May 27 aboard Egyptian milita..."
+description: "\"Walid Mahmood came to Provo on May 27 aboard Egyptian military plane SUBTU, which departed June 2 without transponding.\" — Candace Owens"
 statement_id: "statement-9a21f286b0b6"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Walid Mahmood came to Provo on May 27th, 2024 aboard Egyptian military plane SUBTU, departing June 2nd without transponding
+> Walid Mahmood came to Provo on May 27 aboard Egyptian military plane SUBTU, which departed June 2 without transponding.
 
 ## Attribution
 
@@ -27,10 +27,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md)
-**Timestamp:** [00:03:22](/episodes/ep-ZAuuSq_j2_w.md#t-00-03-07) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(202);return false;">Play</a>
+**Timestamp:** [00:15:12](/episodes/ep-ZAuuSq_j2_w.md#t-00-15-09) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(912);return false;">Play</a>
 
-> You know, everyone was just so brand-new on that day.
+> Specifically, Walid Mahmood came to Provo on May 27th of this year. ... Walid Mahmood came in, and we can also confirm that if you look up the plane that he was on, there is no transponder data which reflects that trip. ... He was aboard another Egyptian military plane, and the tail number for that plane is SUBTU. ... May 27th: SUBTU flies into Provo with Walid Mahmood aboard. ... Then we've got it departs on June 2nd, and it is not transponding, okay?
 
 ## Verification
 

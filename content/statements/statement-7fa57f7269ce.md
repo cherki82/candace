@@ -1,6 +1,6 @@
 ---
-title: "The car Charlie Kirk was transported in was taken to a towin..."
-description: "\"The car Charlie Kirk was transported in was taken to a towing facility and then picked up on Monday to be cleaned and put up for auction\" — Candace Owens"
+title: "The car used to transport Charlie Kirk to the hospital was i..."
+description: "\"The car used to transport Charlie Kirk to the hospital was immediately towed, cleaned, and prepared for resale.\" — Candace Owens"
 statement_id: "statement-7fa57f7269ce"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> The car Charlie Kirk was transported in was taken to a towing facility and then picked up on Monday to be cleaned and put up for auction
+> The car used to transport Charlie Kirk to the hospital was immediately towed, cleaned, and prepared for resale.
 
 ## Attribution
 
@@ -22,7 +22,7 @@ type: "factual_claim"
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Appearances (2)
+## Appearances (3)
 
 ### 1. BREAKING NEWS! We Received Photos Of Charlie's Car After The...
 
@@ -39,6 +39,14 @@ type: "factual_claim"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(7249);return false;">Play</a>
 
 > That's absurd. That is absurd. Everything should be in evidence. When you learn that the car that they carried Charlie in to go to the hospital, they had immediately towed, cleaned. ... and back up for resale
+
+### 3. Candace Owens vs Andrew Wilson: The Great Debate.
+
+**Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
+**Timestamp:** [01:30:05](/episodes/ep-aPOyk1i2LOc.md#t-01-29-49) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(5405);return false;">Play</a>
+
+> That's absurd. That is absurd. Everything should be in evidence. When you learn that the car that they carried Charlie in to go to the hospital, they had immediately towed clean and... ... and back up for resale, that's absurd.
 
 ## Verification
 

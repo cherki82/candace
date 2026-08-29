@@ -32,7 +32,7 @@ veracity: "mixed"
 **Timestamp:** [00:44:34](/episodes/ep-UYkXV9mYbT4.md#t-00-44-34) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2674);return false;">Play</a>
 
-> Bombshell should be on the cover of every mainstream news reporting that the FBI is bringing back an already debunked technique so that they can give Erica the evidence she needs. ... to connect this gun, which hasn't even been fired, to Tyler Robinson.
+> Bombshell should be on the cover of every mainstream news reporting that the FBI is bringing back an already debunked technique so that they can give Erika (Erika Kirk) the evidence she needs. ... to connect this gun, which hasn't even been fired, to Tyler Robinson.
 
 ## Verification
 

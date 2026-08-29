@@ -1,6 +1,6 @@
 ---
 title: "Victor Marx"
-description: "Victor Marx (People) - 236 mentions"
+description: "Victor Marx (People) - 242 mentions"
 id: "person-victor-marx"
 type: "PERSON"
 aliases:
@@ -27,12 +27,12 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-person-victor-marx-t-00-06-29">2026-04-14 · 00:06:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-victor-marx-t-00-40-10">2026-06-22 · 00:40:35</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>236</strong></div>
-<div><span>Statements by</span><strong>51</strong></div>
-<div><span>Statements about</span><strong>88</strong></div>
-<div><span>Relationships</span><strong>67</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#t-00-43-56">2026-08-10 · 00:43:56</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>242</strong></div>
+<div><span>Statements by</span><strong>53</strong></div>
+<div><span>Statements about</span><strong>91</strong></div>
+<div><span>Relationships</span><strong>75</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -54,6 +54,8 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-person-victor-marx-t-00-40-58" style="--pulse-height:8%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 3 mentions" title="2026-06-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#t-00-25-46" style="--pulse-height:8%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-victor-marx-t-00-33-11" style="--pulse-height:8%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-person-victor-marx-t-00-00-26" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 5 mentions" title="2026-08-06 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#t-00-43-56" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -73,6 +75,8 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-victor-marx-t-00-40-58) | 3 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#t-00-25-46) | 1 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-victor-marx-t-00-33-11) | 2 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-victor-marx-t-00-00-26) | 5 |
+| 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#t-00-43-56) | 1 |
 
 </details>
 </section>
@@ -80,7 +84,35 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (236)</strong></summary>
+<summary><strong class="section-title">Raw mentions (242)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>
+
+**[00:43:56](/episodes/ep-5zgkrOaCCj4.md#t-00-43-56)**
+> "Victor Marks"
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (5 mentions)</summary>
+
+**[00:00:26](/episodes/ep-ChuWo-n49B8.md#ent-person-victor-marx-t-00-00-26)**
+> "Piers Morgan interviewed one of her spiritual advisors Victor Marx"
+
+**[00:00:53](/episodes/ep-ChuWo-n49B8.md#ent-person-victor-marx-t-00-00-53)**
+> "... same conclusion that Victor (Victor Marx) is bizarre. Keep going, Piers (Piers Morgan). Yo..."
+
+**[00:43:45](/episodes/ep-ChuWo-n49B8.md#ent-person-victor-marx-t-00-43-45)**
+> "...perfect segue by the way into Victor Marx one of Erika's (Erika Kirk) spiritual advisors we..."
+
+**[00:44:12](/episodes/ep-ChuWo-n49B8.md#ent-person-victor-marx-t-00-44-12)**
+> "... and so watching him react to Victor Marx is like this is the door Piers (Piers Morgan) thi..."
+
+**[00:46:15](/episodes/ep-ChuWo-n49B8.md#ent-person-victor-marx-t-00-46-15)**
+> "...t be saying, come on, Victor (Victor Marx), this really happened?"
+
+</details>
 
 <details>
 <summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (2 mentions)</summary>
@@ -915,6 +947,18 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 <details>
+<summary>Advisor To (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:43:45](/episodes/ep-ChuWo-n49B8.md#t-00-43-45): “a perfect segue by the way into Victor Marx one of Erika's (Erika Kirk) spiritual advisors we all get the ick we all know something's wrong it's like we listen to Frank Turek we just go this doesn't feel godly but you keep telling me it is well Piers Morgan interviewed Victor Marx and tweeted that it was one of the most bizarre interviews of his career yeah well what's funny about this is Piers Morgan has been hosting people attacking me as he always does uh saying i'm wrong Erika (Erika Kirk) is the widow he always accepts the slop up”
+
+</details>
+
+</details>
+
+<details>
 <summary>Affiliated With (3)</summary>
 
 - **[Turning Point USA Faith](/entities/org-turning-point-usa-faith.md)**
@@ -992,10 +1036,10 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 <details>
-<summary>Criticized By (1)</summary>
+<summary>Criticized By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:23:59](/episodes/ep-jsqUIkszZd0.md#t-00-23-29): “Now, he did send that retooling prayer over to me, and I do want to let you know that Victor Marx—effectively, what he does is he pretends that he is going to summon and then extract information from demons that are inside...”
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:31:28](/episodes/ep-1mYNOqzAdXs.md#t-00-30-52): “I got to tell you guys, I'm a gut player and just listening to Victor Marx's explanation regarding his dealings with Corby Hall did not ring true to me.”
@@ -1005,6 +1049,14 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 - [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 01:18:26](/episodes/ep-Dkxa9OUA9K8.md#t-01-18-21): “Yeah, I was being sarcastic. I find you to be arrogant and off-putting, actually. It was a little bit of sarcasm of me basically pointing to the fact that you come across as very arrogant and it is off-putting that you make statements like you make. You stop what you're doing. You turn yourself out. You're constantly presenting yourself like you're some sort of an authority.”
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:10:29](/episodes/ep-cPidFQDJLbo.md#t-00-10-29): “Do you see the problem here, Victor (Victor Marx)? You're saying that you didn't do that. You didn't do that. You didn't text for an update. You had no idea what was going on. You just were sitting around.”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 01:19:24](/episodes/ep-YeEtS7nix3o.md#t-01-19-11): “Victor Marx, man, Greg Laurie, Erika Kirk, they're all creepy. They're all weird.”
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:47:24](/episodes/ep-ChuWo-n49B8.md#t-00-47-24): “it's possible he made everything up i'm glad he got to that point it's definitely possible he made everything up and yeah like i said Piers (Piers Morgan), keep going because we've done a lot of work on this and he's not the only one that make maybe has false memories everything about Erika's (Erika Kirk) past you start looking into it and you're just falling through a dark hole everything she presented herself to be to Charlie (Charlie Kirk) is and you just want us to let it go it's no this is who she was bringing around”
+
+</details>
+
+- **[Piers Morgan](/entities/person-piers-morgan.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:43:45](/episodes/ep-ChuWo-n49B8.md#t-00-43-45): “a perfect segue by the way into Victor Marx one of Erika's (Erika Kirk) spiritual advisors we all get the ick we all know something's wrong it's like we listen to Frank Turek we just go this doesn't feel godly but you keep telling me it is well Piers Morgan interviewed Victor Marx and tweeted that it was one of the most bizarre interviews of his career yeah well what's funny about this is Piers Morgan has been hosting people attacking me as he always does uh saying i'm wrong Erika (Erika Kirk) is the widow he always accepts the slop up”
 
 </details>
 
@@ -1083,7 +1135,19 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 <details>
-<summary>Interviewed By (3)</summary>
+<summary>Hired By (1)</summary>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 @ 00:43:56](/episodes/ep-5zgkrOaCCj4.md#t-00-43-56): “Like we brought him in and paid him. to teach our students to debate. So when I say to you guys, it's a very good idea if you're a parent not to allow your children to get involved with Turning Point USA because of the characters that are around, Victor Marks. This is the person who's going to be training people to debate and being paid to do that.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Interviewed By (4)</summary>
 
 - **[Sebastian Gorka](/entities/person-sebastian-gorka.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1100,11 +1164,19 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:16:05](/episodes/ep-Dkxa9OUA9K8.md#t-00-15-23): “All right, you guys, let's bring in Victor Marx. Victor Marx, welcome to The Candace Show. How are you doing?”
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:01:08](/episodes/ep-cPidFQDJLbo.md#t-00-00-44): “Anyway, the fallout from Victor Marx's interview yesterday is trending all across social media and it inspired me to send out a few preservation letters in my ongoing lawsuit with Brian Harpole.”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 01:19:14](/episodes/ep-YeEtS7nix3o.md#t-01-19-11): “Petal writes, thanks a lot, Candace. My husband has now been referring to me as my bride ever since your interview with the wackadoo Victor Marx.”
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:44:12](/episodes/ep-ChuWo-n49B8.md#t-00-44-12): “in the beginning and then a year on he admits that I was right and so watching him react to Victor Marx is like this is the door Piers (Piers Morgan) this is what we're saying TPUSA faith is something else what Erika (Erika Kirk) brought in around Charlie (Charlie Kirk) is something else and we noticed and I want to show you this clip of Piers Morgan questioning Victor Marx on you know just some details about his childhood that he also shared with us on this show take a listen”
+
+</details>
+
+- **[Piers Morgan](/entities/person-piers-morgan.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:00:26](/episodes/ep-ChuWo-n49B8.md#t-00-00-26): “don't watch it and i said okay then my husband said do not watch it after he saw it i can't even watch scary movies i've shared that with you i'm very like spiritually sensitive to that stuff i can't i can hardly make it through an Erika Kirk interview speaking of which in hilarious news Piers Morgan interviewed one of her spiritual advisors Victor Marx man that we interviewed and Piers Morgan is very confused this man who summons angels and demons into the room”
 
 </details>
 
@@ -1259,7 +1331,7 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 <details>
-<summary>Referenced By (31)</summary>
+<summary>Referenced By (35)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
@@ -1300,6 +1372,13 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 
 </details>
 
+- **[Erika Kirk](/entities/person-erika-kirk.md)** advised by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:43:45](/episodes/ep-ChuWo-n49B8.md#t-00-43-45): “a perfect segue by the way into Victor Marx one of Erika's (Erika Kirk) spiritual advisors we all get the ick we all know something's wrong it's like we listen to Frank Turek we just go this doesn't feel godly but you keep telling me it is well Piers Morgan interviewed Victor Marx and tweeted that it was one of the most bizarre interviews of his career yeah well what's funny about this is Piers Morgan has been hosting people attacking me as he always does uh saying i'm wrong Erika (Erika Kirk) is the widow he always accepts the slop up”
+
+</details>
+
 - **[Kenneth Breining](/entities/person-kenneth-breining.md)** attacked this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -1316,7 +1395,7 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 @ 00:23:59](/episodes/ep-jsqUIkszZd0.md#t-00-23-29): “Now, he did send that retooling prayer over to me, and I do want to let you know that Victor Marx—effectively, what he does is he pretends that he is going to summon and then extract information from demons that are inside...”
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:31:28](/episodes/ep-1mYNOqzAdXs.md#t-00-30-52): “I got to tell you guys, I'm a gut player and just listening to Victor Marx's explanation regarding his dealings with Corby Hall did not ring true to me.”
@@ -1326,6 +1405,14 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 - [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 01:18:26](/episodes/ep-Dkxa9OUA9K8.md#t-01-18-21): “Yeah, I was being sarcastic. I find you to be arrogant and off-putting, actually. It was a little bit of sarcasm of me basically pointing to the fact that you come across as very arrogant and it is off-putting that you make statements like you make. You stop what you're doing. You turn yourself out. You're constantly presenting yourself like you're some sort of an authority.”
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:10:29](/episodes/ep-cPidFQDJLbo.md#t-00-10-29): “Do you see the problem here, Victor (Victor Marx)? You're saying that you didn't do that. You didn't do that. You didn't text for an update. You had no idea what was going on. You just were sitting around.”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 01:19:24](/episodes/ep-YeEtS7nix3o.md#t-01-19-11): “Victor Marx, man, Greg Laurie, Erika Kirk, they're all creepy. They're all weird.”
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:47:24](/episodes/ep-ChuWo-n49B8.md#t-00-47-24): “it's possible he made everything up i'm glad he got to that point it's definitely possible he made everything up and yeah like i said Piers (Piers Morgan), keep going because we've done a lot of work on this and he's not the only one that make maybe has false memories everything about Erika's (Erika Kirk) past you start looking into it and you're just falling through a dark hole everything she presented herself to be to Charlie (Charlie Kirk) is and you just want us to let it go it's no this is who she was bringing around”
+
+</details>
+
+- **[Piers Morgan](/entities/person-piers-morgan.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:43:45](/episodes/ep-ChuWo-n49B8.md#t-00-43-45): “a perfect segue by the way into Victor Marx one of Erika's (Erika Kirk) spiritual advisors we all get the ick we all know something's wrong it's like we listen to Frank Turek we just go this doesn't feel godly but you keep telling me it is well Piers Morgan interviewed Victor Marx and tweeted that it was one of the most bizarre interviews of his career yeah well what's funny about this is Piers Morgan has been hosting people attacking me as he always does uh saying i'm wrong Erika (Erika Kirk) is the widow he always accepts the slop up”
 
 </details>
 
@@ -1393,6 +1480,13 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 
 </details>
 
+- **[Turning Point USA](/entities/org-turning-point-usa.md)** hired this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 @ 00:43:56](/episodes/ep-5zgkrOaCCj4.md#t-00-43-56): “Like we brought him in and paid him. to teach our students to debate. So when I say to you guys, it's a very good idea if you're a parent not to allow your children to get involved with Turning Point USA because of the characters that are around, Victor Marks. This is the person who's going to be training people to debate and being paid to do that.”
+
+</details>
+
 - **[Sebastian Gorka](/entities/person-sebastian-gorka.md)** interviewed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
@@ -1408,11 +1502,19 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** interviewed this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:16:05](/episodes/ep-Dkxa9OUA9K8.md#t-00-15-23): “All right, you guys, let's bring in Victor Marx. Victor Marx, welcome to The Candace Show. How are you doing?”
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:01:08](/episodes/ep-cPidFQDJLbo.md#t-00-00-44): “Anyway, the fallout from Victor Marx's interview yesterday is trending all across social media and it inspired me to send out a few preservation letters in my ongoing lawsuit with Brian Harpole.”
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 01:19:14](/episodes/ep-YeEtS7nix3o.md#t-01-19-11): “Petal writes, thanks a lot, Candace. My husband has now been referring to me as my bride ever since your interview with the wackadoo Victor Marx.”
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:44:12](/episodes/ep-ChuWo-n49B8.md#t-00-44-12): “in the beginning and then a year on he admits that I was right and so watching him react to Victor Marx is like this is the door Piers (Piers Morgan) this is what we're saying TPUSA faith is something else what Erika (Erika Kirk) brought in around Charlie (Charlie Kirk) is something else and we noticed and I want to show you this clip of Piers Morgan questioning Victor Marx on you know just some details about his childhood that he also shared with us on this show take a listen”
+
+</details>
+
+- **[Piers Morgan](/entities/person-piers-morgan.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:00:26](/episodes/ep-ChuWo-n49B8.md#t-00-00-26): “don't watch it and i said okay then my husband said do not watch it after he saw it i can't even watch scary movies i've shared that with you i'm very like spiritually sensitive to that stuff i can't i can hardly make it through an Erika Kirk interview speaking of which in hilarious news Piers Morgan interviewed one of her spiritual advisors Victor Marx man that we interviewed and Piers Morgan is very confused this man who summons angels and demons into the room”
 
 </details>
 
@@ -1510,7 +1612,18 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Victor Marx (51)</strong></summary>
+<summary><strong class="section-title">Statements by Victor Marx (53)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (2)</summary>
+
+- [00:45:49](/episodes/ep-ChuWo-n49B8.md#t-00-45-49) [✓] (Claim) ["Victor Marx said that when he was seven his stepfather forced him to shoot a han..."](/statements/statement-5de2c406298a.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md)
+
+- [00:47:02](/episodes/ep-ChuWo-n49B8.md#t-00-47-02) [✓] (Opinion) ["Victor Marx said it was possible that false memories explained his account, afte..."](/statements/statement-99b1c37798b5.md)
+  - About: [Victor Marx](/entities/person-victor-marx.md)
+
+</details>
 
 <details>
 <summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (2)</summary>
@@ -1703,7 +1816,18 @@ Source: [Colorado TRACER - Candidate Detail: Victor Marx](https://tracer.sos.col
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Victor Marx (88)</strong></summary>
+<summary><strong class="section-title">Statements about Victor Marx (91)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (3)</summary>
+
+- [00:45:49](/episodes/ep-ChuWo-n49B8.md#t-00-45-49) (Claim) **Victor Marx** (via quoted speech): ["Victor Marx said that when he was seven his stepfather forced him to s..."](/statements/statement-5de2c406298a.md)
+
+- [00:47:02](/episodes/ep-ChuWo-n49B8.md#t-00-47-02) (Opinion) **Victor Marx** (via quoted speech): ["Victor Marx said it was possible that false memories explained his acc..."](/statements/statement-99b1c37798b5.md)
+
+- [00:47:24](/episodes/ep-ChuWo-n49B8.md#t-00-47-24) (Accusation) **Candace Owens**: ["Owens said it was definitely possible that Victor Marx had made everyt..."](/statements/statement-fabfa54f56ff.md)
+
+</details>
 
 <details>
 <summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (7)</summary>

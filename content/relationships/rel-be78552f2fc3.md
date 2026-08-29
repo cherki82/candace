@@ -1,15 +1,15 @@
 ---
-title: "Satis has investor ACE Partners"
-description: "Evidence for the relationship: Satis has investor ACE Partners"
+title: "Satys has investor Ace Capital Partners (Israel)"
+description: "Evidence for the relationship: Satys has investor Ace Capital Partners (Israel)"
 relationship_id: "rel-be78552f2fc3"
-subject: "org-satis"
+subject: "org-satys"
 predicate: "has investor"
-object: "org-ace-partners"
+object: "org-ace-capital-partners-israel"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Satis](/entities/org-satis) has investor [ACE Partners](/entities/org-ace-partners)
+## [Satys](/entities/org-satys) has investor [Ace Capital Partners (Israel)](/entities/org-ace-capital-partners-israel)
 
 ### Evidence (1 mentions)
 
@@ -19,5 +19,5 @@ object: "org-ace-partners"
 
 ### Related
 
-- [Satis](/entities/org-satis)
-- [ACE Partners](/entities/org-ace-partners)
+- [Satys](/entities/org-satys)
+- [Ace Capital Partners (Israel)](/entities/org-ace-capital-partners-israel)

@@ -31,7 +31,7 @@ type: "factual_claim"
 **Timestamp:** [00:27:28](/episodes/ep-es7PWdFGoFI.md#t-00-27-24) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1648);return false;">Play</a>
 
-> he stayed on the phone with his wife for 10 minutes. And during those 10 minutes, he three-wayed Erika three minutes after the shot went off
+> And then he stayed on the phone with his wife for 10 minutes. And during those 10 minutes, he three-wayed Erika (Erika Kirk) three minutes after the shot went off.
 
 ### 2. Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From...
 

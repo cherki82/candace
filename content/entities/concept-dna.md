@@ -1,6 +1,6 @@
 ---
 title: "Deoxyribonucleic acid"
-description: "Deoxyribonucleic acid (Concepts) - 75 mentions"
+description: "Deoxyribonucleic acid (Concepts) - 106 mentions"
 id: "concept-dna"
 type: "CONCEPT"
 aliases:
@@ -22,9 +22,9 @@ Source: [NHGRI — Deoxyribonucleic Acid (DNA)](https://www.genome.gov/genetics-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-dna-t-00-02-59">2026-02-04 · 00:03:00</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-dna-t-03-32-34">2026-08-14 · 03:32:48</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>75</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-concept-dna-t-00-19-00">2026-08-19 · 00:19:08</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>106</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>19</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -48,7 +48,13 @@ Source: [NHGRI — Deoxyribonucleic Acid (DNA)](https://www.genome.gov/genetics-
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-concept-dna-t-00-10-29" style="--pulse-height:8%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-dna-t-00-03-06" style="--pulse-height:19%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 5 mentions" title="2026-07-16 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-concept-dna-t-00-10-57" style="--pulse-height:8%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-concept-dna-t-00-09-28" style="--pulse-height:8%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 2 mentions" title="2026-08-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-concept-dna-t-00-11-05" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-dna-t-00-20-44" style="--pulse-height:8%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-dna-t-00-43-25" style="--pulse-height:73%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 19 mentions" title="2026-08-14 · 19 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-concept-dna-t-00-18-46" style="--pulse-height:88%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 23 mentions" title="2026-08-14 · 23 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-concept-dna-t-00-24-13" style="--pulse-height:12%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 3 mentions" title="2026-08-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-concept-dna-t-00-19-00" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -67,7 +73,13 @@ Source: [NHGRI — Deoxyribonucleic Acid (DNA)](https://www.genome.gov/genetics-
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-concept-dna-t-00-10-29) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-concept-dna-t-00-03-06) | 5 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-concept-dna-t-00-10-57) | 2 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-concept-dna-t-00-09-28) | 2 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-concept-dna-t-00-11-05) | 1 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-concept-dna-t-00-20-44) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-dna-t-00-43-25) | 19 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-concept-dna-t-00-18-46) | 23 |
+| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-concept-dna-t-00-24-13) | 3 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-concept-dna-t-00-19-00) | 1 |
 
 </details>
 </section>
@@ -75,7 +87,29 @@ Source: [NHGRI — Deoxyribonucleic Acid (DNA)](https://www.genome.gov/genetics-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (75)</strong></summary>
+<summary><strong class="section-title">Raw mentions (106)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
+
+**[00:19:08](/episodes/ep-9hRcfSrri70.md#ent-concept-dna-t-00-19-00)**
+> "...ntest the camera footage, the DNA, the rifle, the cause of death, or Tyler (Tyler R..."
+
+</details>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (3 mentions)</summary>
+
+**[00:24:13](/episodes/ep-E7P2ShoYDUA.md#ent-concept-dna-t-00-24-13)**
+> "The fact that he is seen four other times on camera, the fact being just a standard white boy with brown hair walking upstairs, the DNA on the roof, we should discuss that, and on the screwdriver that he left behind, it's overwhelming, man."
+
+**[00:26:19](/episodes/ep-E7P2ShoYDUA.md#ent-concept-dna-t-00-26-19)**
+> "... I mentioned the screwdriver, DNA, all of these other things. You never mentioned a..."
+
+**[00:41:03](/episodes/ep-E7P2ShoYDUA.md#ent-concept-dna-t-00-40-33)**
+> "...d that Lance (Lance Twiggs)'s DNA was on the rifle. And so they just kind of played..."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (19 mentions)</summary>
@@ -136,6 +170,107 @@ Source: [NHGRI — Deoxyribonucleic Acid (DNA)](https://www.genome.gov/genetics-
 
 **[03:32:34](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-dna-t-03-32-34)**
 > "...ar this. has My CSTNA his own DNA told me what on it said about Charlie."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (23 mentions)</summary>
+
+**[00:18:46](/episodes/ep-aPOyk1i2LOc.md#ent-concept-dna-t-00-18-46)**
+> "...yeah, when they went into the DNA."
+
+**[00:20:18](/episodes/ep-aPOyk1i2LOc.md#ent-concept-dna-t-00-19-55)**
+> "explained painfully about the DNA, the prints."
+
+**[00:20:57](/episodes/ep-aPOyk1i2LOc.md#ent-concept-dna-t-00-20-34)**
+> "...aid, actually, you could have DNA on something that you've touched. You could have ..."
+
+**[00:21:14](/episodes/ep-aPOyk1i2LOc.md#ent-concept-dna-t-00-21-14)**
+> "And to get DNA degradation, they've looked at pieces of items 20..."
+
+**[00:22:24](/episodes/ep-aPOyk1i2LOc.md#ent-concept-dna-t-00-22-24)**
+> "...nt front But Tyler Robinson's DNA was on there. You made the claim that Lance Lance..."
+
+**[00:22:44](/episodes/ep-aPOyk1i2LOc.md#ent-concept-dna-t-00-22-44)**
+> "... going to be much more of the DNA analysis"
+
+**[00:23:37](/episodes/ep-aPOyk1i2LOc.md#ent-concept-dna-t-00-23-37)**
+> "...n analysis on fingerprints or DNA? Do you think that I work in a DNA laboratory wit..."
+
+**[00:26:01](/episodes/ep-aPOyk1i2LOc.md#ent-concept-dna-t-00-25-55)**
+> "...nce Twiggs or that he had any DNA there?"
+
+**[00:35:30](/episodes/ep-aPOyk1i2LOc.md#ent-concept-dna-t-00-35-30)**
+> "...s that somebody else had more DNA presence on that gun."
+
+**[00:39:52](/episodes/ep-aPOyk1i2LOc.md#ent-concept-dna-t-00-39-44)**
+> "The DNA on the roof, we should discuss that. That and on ..."
+
+**[01:39:34](/episodes/ep-aPOyk1i2LOc.md#ent-concept-dna-t-01-39-34)**
+> "... super easy. Was Lance Twiggs DNA on the rifle as far as you know?"
+
+**[02:33:25](/episodes/ep-aPOyk1i2LOc.md#ent-concept-dna-t-02-33-19)**
+> "...is important to me the Twiggs DNA clip and they're going to pull it up just to have..."
+
+**[02:33:40](/episodes/ep-aPOyk1i2LOc.md#ent-concept-dna-t-02-33-40)**
+> "... I thought that Lance Twiggs' DNA, like he was directly responding to that because ..."
+
+**[02:33:52](/episodes/ep-aPOyk1i2LOc.md#ent-concept-dna-t-02-33-40)**
+> "... Robinson, how they got their DNA samples."
+
+**[02:34:06](/episodes/ep-aPOyk1i2LOc.md#ent-concept-dna-t-02-33-40)**
+> "...d and they said Lance Twiggs' DNA was found on the screwdriver. When I went back an..."
+
+**[02:34:25](/episodes/ep-aPOyk1i2LOc.md#ent-concept-dna-t-02-34-25)**
+> "Yeah, DNA I'm saying is on that I the gun."
+
+**[02:34:59](/episodes/ep-aPOyk1i2LOc.md#ent-concept-dna-t-02-34-59)**
+> "...ou were very adamant that his DNA was on the gun itself."
+
+**[02:35:23](/episodes/ep-aPOyk1i2LOc.md#ent-concept-dna-t-02-35-05)**
+> "...w yet if Lance Twiggs has his DNA on the print, DNA on the gun officially just yet."
+
+**[02:42:30](/episodes/ep-aPOyk1i2LOc.md#ent-concept-dna-t-02-42-30)**
+> "...ear this. My brain has is his DNA like, show I'm me what it says a tall on here. It..."
+
+**[02:42:34](/episodes/ep-aPOyk1i2LOc.md#ent-concept-dna-t-02-42-34)**
+> "Lance twigs has his DNA on the rifle and"
+
+**[02:42:37](/episodes/ep-aPOyk1i2LOc.md#ent-concept-dna-t-02-42-37)**
+> "...e Oh, twigs rifle it says his DNA it says was he was four times, but not"
+
+**[02:42:42](/episodes/ep-aPOyk1i2LOc.md#ent-concept-dna-t-02-42-42)**
+> "as Tyler Robinson's DNA was"
+
+**[02:42:48](/episodes/ep-aPOyk1i2LOc.md#ent-concept-dna-t-02-42-48)**
+> "DNA"
+
+</details>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
+
+**[00:20:44](/episodes/ep-d7VsbEIWkP8.md#ent-concept-dna-t-00-20-44)**
+> "Lance Twiggs has his DNA"
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:11:05](/episodes/ep-ChuWo-n49B8.md#ent-concept-dna-t-00-11-05)**
+> "We were told Tyler Robinson's gun had had DNA all over it."
+
+</details>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (2 mentions)</summary>
+
+**[00:09:39](/episodes/ep-AH1KVKkweUE.md#ent-concept-dna-t-00-09-28)**
+> "... do know it has Lance Twiggs' DNA alongside Tyler Robinson's DNA. Unfortunately, we..."
+
+**[00:10:13](/episodes/ep-AH1KVKkweUE.md#ent-concept-dna-t-00-10-13)**
+> "...here we find Tyler Robinson's DNA?"
 
 </details>
 
@@ -332,7 +467,7 @@ Source: [NHGRI — Deoxyribonucleic Acid (DNA)](https://www.genome.gov/genetics-
 > "...summary, again, just summary, DNA reports produced by the FBI and the ATF indicate ..."
 
 **[00:44:56](/episodes/ep-UYkXV9mYbT4.md#ent-concept-dna-t-00-44-34)**
-> "...nd Georgia's prints on it and DNA on it because our prints carry oil and that's our..."
+> "That's common sense, people. If somebody comes to my house and steals a gun, it's going to have me and George (George Farmer)'s prints on it and DNA on it because our prints carry oil and that's our DNA."
 
 </details>
 

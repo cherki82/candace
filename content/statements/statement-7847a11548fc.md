@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:06:19](/episodes/ep-es7PWdFGoFI.md#t-00-06-11) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(379);return false;">Play</a>
 
-> I went on Jimmy on Friday, Jimmy show, and I clarified, I said, Andrew told me specifically that he was one of the people that received this text message. So I got that first person. I didn't get that from a source. I got that directly from Andrew.
+> And then I went on Jimmy (Jimmy Dore) on Friday, Jimmy (Jimmy Dore) show, and I clarified, I said, Andrew (Andrew Kolvet) told me specifically that he was one of the people that received this text message. So I got that first person. I didn't get that from a source. I got that directly from Andrew (Andrew Kolvet).
 
 ## Verification
 

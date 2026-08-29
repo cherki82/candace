@@ -4,9 +4,10 @@ description: "\"Pope Leo XIV is weak on crime and terrible for foreign policy, a
 statement_id: "statement-131150fb7620"
 speaker: "Donald J. Trump"
 type: "opinion"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -45,8 +46,22 @@ type: "opinion"
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Verified as a quotation and summary of Donald Trump's remarks, not as confirmation of the subjective characterizations or of his assertion about Pope Leo's position on a nuclear Iran. Trump's Truth Social post called Leo 'WEAK on Crime' and 'terrible for Foreign Policy' and said he did not want a pope who thinks an Iranian nuclear weapon is acceptable. Associated Press independently reported the same post and Trump's follow-up comments.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Donald J. Trump Truth Social post about Pope Leo XIV](https://truthsocial.com/@realDonaldTrump/posts/116394704213456431)
+- [Trump says he won't apologize to Pope Leo](https://apnews.com/article/trump-pope-leo-xiv-02f6b4554ea4b83af02af15987ae1f2d)
+
+*Verified: 2026-08-28T18:23:53.662023*
 
 ---
 
-**Type:** Opinion | **Verifiable:** No
+**Type:** Opinion | **Verifiable:** Yes

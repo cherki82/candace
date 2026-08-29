@@ -1,6 +1,6 @@
 ---
 title: "Glenn Beck"
-description: "Glenn Beck (People) - 36 mentions"
+description: "Glenn Beck (People) - 40 mentions"
 id: "person-glenn-beck"
 type: "PERSON"
 categories:
@@ -17,12 +17,12 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-glenn-beck-t-00-07-38">2025-09-23 · 00:07:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-person-glenn-beck-t-00-00-00">2026-06-09 · 00:00:35</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>36</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-glenn-beck-t-00-16-58">2026-08-19 · 00:16:58</a></strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>40</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -34,7 +34,7 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-person-glenn-beck-t-00-08-05" style="--pulse-height:25%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 2 mentions" title="2025-11-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-glenn-beck-t-00-16-17" style="--pulse-height:100%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 8 mentions" title="2025-12-12 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-es7PWdFGoFI.md#ent-person-glenn-beck-t-00-05-30" style="--pulse-height:25%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 2 mentions" title="2025-12-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-glenn-beck-t-00-35-11" style="--pulse-height:12%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-glenn-beck-t-00-35-27" style="--pulse-height:12%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-glenn-beck-t-00-16-42" style="--pulse-height:50%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 4 mentions" title="2026-01-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-glenn-beck-t-00-14-50" style="--pulse-height:12%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-glenn-beck-t-00-12-05" style="--pulse-height:12%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
@@ -49,6 +49,9 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-person-glenn-beck-t-00-50-52" style="--pulse-height:12%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-glenn-beck-t-01-06-05" style="--pulse-height:12%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-person-glenn-beck-t-00-00-00" style="--pulse-height:12%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-glenn-beck-t-00-19-58" style="--pulse-height:25%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 2 mentions" title="2026-08-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-person-glenn-beck-t-00-51-31" style="--pulse-height:12%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-person-glenn-beck-t-00-16-58" style="--pulse-height:12%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,7 +61,7 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-person-glenn-beck-t-00-08-05) | 2 |
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-person-glenn-beck-t-00-16-17) | 8 |
 | 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-glenn-beck-t-00-05-30) | 2 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-glenn-beck-t-00-35-11) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-glenn-beck-t-00-35-27) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-glenn-beck-t-00-16-42) | 4 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-glenn-beck-t-00-14-50) | 1 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-glenn-beck-t-00-12-05) | 1 |
@@ -73,6 +76,9 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-person-glenn-beck-t-00-50-52) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-glenn-beck-t-01-06-05) | 1 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-glenn-beck-t-00-00-00) | 1 |
+| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-person-glenn-beck-t-00-19-58) | 2 |
+| 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-glenn-beck-t-00-51-31) | 1 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-glenn-beck-t-00-16-58) | 1 |
 
 </details>
 </section>
@@ -80,7 +86,34 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (36)</strong></summary>
+<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
+
+**[00:16:58](/episodes/ep-9hRcfSrri70.md#ent-person-glenn-beck-t-00-16-58)**
+> "...cly stated with confidence on Glenn Beck's show that Charlie (Charlie Kirk) was not sending ..."
+
+</details>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1 mentions)</summary>
+
+**[00:51:31](/episodes/ep-4JxgOclKzqg.md#ent-person-glenn-beck-t-00-51-31)**
+> "...Erika (Erika Kirk) deny it on Glenn Beck—or rather, stayed mum on it for four months and t..."
+
+</details>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (2 mentions)</summary>
+
+**[00:19:58](/episodes/ep-E7P2ShoYDUA.md#ent-person-glenn-beck-t-00-19-58)**
+> "I said she's lying. There's no way that I know that this text message exists and that this text message was sent from Dan Flood and she doesn't. This is in December. This is in December that she's joining Glenn Beck, mid-December that she is joining Glenn Beck and asserting."
+
+**[00:21:36](/episodes/ep-E7P2ShoYDUA.md#ent-person-glenn-beck-t-00-21-21)**
+> "...nd Erika (Erika Kirk) went on Glenn Beck to debunk me and say I was a liar."
+
+</details>
 
 <details>
 <summary>I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 (1 mentions)</summary>
@@ -221,7 +254,7 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
 
-**[00:35:45](/episodes/ep-HYn0P-P1wUw.md#ent-person-glenn-beck-t-00-35-11)**
+**[00:35:45](/episodes/ep-HYn0P-P1wUw.md#ent-person-glenn-beck-t-00-35-27)**
 > "...ten donation and support from Glenn Beck."
 
 </details>
@@ -291,12 +324,24 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Appeared With (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:21:36](/episodes/ep-E7P2ShoYDUA.md#t-00-21-21): “Why didn't you share that with authorities when you were sharing messages? And Andrew (Andrew Wilson), we're supposed to believe you didn't tell her for four months, but you told me in September and Erika (Erika Kirk) went on Glenn Beck to debunk me and say I was a liar.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Funded (1)</summary>
 
 - **[Operation Underground Railroad](/entities/org-operation-underground-railroad.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:35:39](/episodes/ep-HYn0P-P1wUw.md#t-00-35-11): “Tim Ballard, he used to run Operation Underground Railroad because he had gotten donation and support from Glenn Beck. back for Operation Underground Railroad.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:35:39](/episodes/ep-HYn0P-P1wUw.md#t-00-35-27): “Tim Ballard, he used to run Operation Underground Railroad because he had gotten donation and support from Glenn Beck. back for Operation Underground Railroad.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:15:20](/episodes/ep-X92MllIHDzw.md#t-00-14-50): “how Phil Lyman went to see him the next day. Glenn Beck had funded that Operation Underground, which for Tim Ballard ended in scandal without question.”
 
 </details>
@@ -325,12 +370,19 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:21:36](/episodes/ep-E7P2ShoYDUA.md#t-00-21-21): “Why didn't you share that with authorities when you were sharing messages? And Andrew (Andrew Wilson), we're supposed to believe you didn't tell her for four months, but you told me in September and Erika (Erika Kirk) went on Glenn Beck to debunk me and say I was a liar.”
+
+</details>
 
 - **[Operation Underground Railroad](/entities/org-operation-underground-railroad.md)** funded by this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:35:39](/episodes/ep-HYn0P-P1wUw.md#t-00-35-11): “Tim Ballard, he used to run Operation Underground Railroad because he had gotten donation and support from Glenn Beck. back for Operation Underground Railroad.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:35:39](/episodes/ep-HYn0P-P1wUw.md#t-00-35-27): “Tim Ballard, he used to run Operation Underground Railroad because he had gotten donation and support from Glenn Beck. back for Operation Underground Railroad.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:15:20](/episodes/ep-X92MllIHDzw.md#t-00-14-50): “how Phil Lyman went to see him the next day. Glenn Beck had funded that Operation Underground, which for Tim Ballard ended in scandal without question.”
 
 </details>
@@ -357,7 +409,15 @@ Source: [Glenn Beck official website](https://www.glennbeck.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Glenn Beck (5)</strong></summary>
+<summary><strong class="section-title">Statements about Glenn Beck (6)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1)</summary>
+
+- [00:16:58](/episodes/ep-9hRcfSrri70.md#t-00-16-58) (Claim) **Candace Owens** (via paraphrase): ["Owens said Erika Kirk had publicly stated on Glenn Beck's show that Ch..."](/statements/statement-3fa5be000b78.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1)</summary>

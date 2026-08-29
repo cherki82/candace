@@ -1,6 +1,6 @@
 ---
 title: "United States"
-description: "United States (Places) - 1872 mentions"
+description: "United States (Places) - 1902 mentions"
 id: "gpe-united-states"
 type: "GPE"
 aliases:
@@ -25,11 +25,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-gpe-united-states-t-00-01-09">2025-09-15 · 00:01:48</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-01-19-17">2026-08-14 · 01:19:28</a></strong></div>
-<div><span>Episodes</span><strong>136</strong></div>
-<div><span>Mentions</span><strong>1,872</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-gpe-united-states-t-00-32-38">2026-08-19 · 00:32:38</a></strong></div>
+<div><span>Episodes</span><strong>149</strong></div>
+<div><span>Mentions</span><strong>1,902</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>149</strong></div>
+<div><span>Statements about</span><strong>161</strong></div>
 <div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -83,8 +83,8 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45" style="--pulse-height:8%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 3 mentions" title="2025-12-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-united-states-t-00-30-27" style="--pulse-height:8%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-united-states-t-00-28-53" style="--pulse-height:13%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 5 mentions" title="2025-12-20 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-united-states-t-00-11-36" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 3 mentions" title="2026-01-05 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-united-states-t-00-01-41" style="--pulse-height:13%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 5 mentions" title="2026-01-06 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-united-states-t-00-11-36" style="--pulse-height:11%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 4 mentions" title="2026-01-05 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-united-states-t-00-01-41" style="--pulse-height:11%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 4 mentions" title="2026-01-06 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-united-states-t-00-16-00" style="--pulse-height:55%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 21 mentions" title="2026-01-09 · 21 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-united-states-t-00-37-22" style="--pulse-height:13%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 5 mentions" title="2026-01-12 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-united-states-t-00-01-23" style="--pulse-height:21%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 8 mentions" title="2026-01-13 · 8 mentions"><span></span></a>
@@ -128,7 +128,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-united-states-t-00-01-33" style="--pulse-height:18%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 7 mentions" title="2026-03-30 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-gpe-united-states-t-00-52-00" style="--pulse-height:21%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 8 mentions" title="2026-03-31 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-united-states-t-00-35-02" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 3 mentions" title="2026-04-01 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-united-states-t-00-03-35" style="--pulse-height:26%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 10 mentions" title="2026-04-02 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-united-states-t-00-03-35" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-12-12" style="--pulse-height:61%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 23 mentions" title="2026-04-10 · 23 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-gpe-united-states-t-00-53-40" style="--pulse-height:26%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 10 mentions" title="2026-04-13 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-united-states-t-00-03-34" style="--pulse-height:34%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 13 mentions" title="2026-04-14 · 13 mentions"><span></span></a>
@@ -169,11 +169,24 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-gpe-united-states-t-00-55-41" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-gpe-united-states-t-00-23-19" style="--pulse-height:13%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 5 mentions" title="2026-07-16 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-gpe-united-states-t-00-50-45" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-united-states-t-00-00-42" style="--pulse-height:21%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 8 mentions" title="2026-07-20 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-united-states-t-00-00-42" style="--pulse-height:18%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 7 mentions" title="2026-07-20 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-gpe-united-states-t-00-40-04" style="--pulse-height:8%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 3 mentions" title="2026-07-21 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-united-states-t-00-31-29" style="--pulse-height:11%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 4 mentions" title="2026-07-22 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-united-states-t-00-15-02" style="--pulse-height:8%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-gpe-united-states-t-00-21-12" style="--pulse-height:8%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 2 mentions" title="2026-07-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-united-states-t-00-22-30" style="--pulse-height:11%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 4 mentions" title="2026-07-29 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-gpe-united-states-t-00-29-18" style="--pulse-height:8%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 2 mentions" title="2026-07-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-gpe-united-states-t-00-28-41" style="--pulse-height:8%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 3 mentions" title="2026-07-31 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-united-states-t-00-19-22" style="--pulse-height:21%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 8 mentions" title="2026-08-03 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-gpe-united-states-t-00-35-36" style="--pulse-height:29%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 11 mentions" title="2026-08-04 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-united-states-t-00-08-53" style="--pulse-height:13%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 5 mentions" title="2026-08-06 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-united-states-t-00-01-26" style="--pulse-height:11%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 4 mentions" title="2026-08-07 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-gpe-united-states-t-00-03-47" style="--pulse-height:8%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-00-28-12" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-gpe-united-states-t-00-03-34" style="--pulse-height:13%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 5 mentions" title="2026-08-14 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-gpe-united-states-t-00-57-37" style="--pulse-height:8%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-gpe-united-states-t-00-36-47" style="--pulse-height:8%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-gpe-united-states-t-00-32-38" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -224,8 +237,8 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-united-states-t-00-49-45) | 3 |
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-united-states-t-00-30-27) | 1 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-united-states-t-00-28-53) | 5 |
-| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-united-states-t-00-11-36) | 3 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-united-states-t-00-01-41) | 5 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-united-states-t-00-11-36) | 4 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-united-states-t-00-01-41) | 4 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-united-states-t-00-16-00) | 21 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-united-states-t-00-37-22) | 5 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-united-states-t-00-01-23) | 8 |
@@ -269,7 +282,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-gpe-united-states-t-00-01-33) | 7 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-united-states-t-00-52-00) | 8 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-gpe-united-states-t-00-35-02) | 3 |
-| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-united-states-t-00-03-35) | 10 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-united-states-t-00-03-35) | 2 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-12-12) | 23 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-gpe-united-states-t-00-53-40) | 10 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-gpe-united-states-t-00-03-34) | 13 |
@@ -310,11 +323,24 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-gpe-united-states-t-00-55-41) | 2 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-gpe-united-states-t-00-23-19) | 5 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-gpe-united-states-t-00-50-45) | 3 |
-| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-gpe-united-states-t-00-00-42) | 8 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-gpe-united-states-t-00-00-42) | 7 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-gpe-united-states-t-00-40-04) | 3 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-gpe-united-states-t-00-31-29) | 4 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-gpe-united-states-t-00-15-02) | 2 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-gpe-united-states-t-00-21-12) | 2 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-united-states-t-00-22-30) | 4 |
+| 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-gpe-united-states-t-00-29-18) | 2 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-gpe-united-states-t-00-28-41) | 3 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-gpe-united-states-t-00-19-22) | 8 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-united-states-t-00-35-36) | 11 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-gpe-united-states-t-00-08-53) | 5 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-united-states-t-00-01-26) | 4 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-gpe-united-states-t-00-03-47) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-00-28-12) | 3 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-united-states-t-00-03-34) | 5 |
+| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-gpe-united-states-t-00-57-37) | 1 |
+| 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-gpe-united-states-t-00-36-47) | 1 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-gpe-united-states-t-00-32-38) | 1 |
 
 </details>
 </section>
@@ -322,7 +348,31 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1872)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1902)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
+
+**[00:32:38](/episodes/ep-9hRcfSrri70.md#ent-gpe-united-states-t-00-32-38)**
+> "...t to the father and went to a U.S. marshal who was fantastic, by the way, and the pe..."
+
+</details>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1 mentions)</summary>
+
+**[00:36:47](/episodes/ep-4JxgOclKzqg.md#ent-gpe-united-states-t-00-36-47)**
+> "... i didn't i thought there was america"
+
+</details>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1 mentions)</summary>
+
+**[00:58:11](/episodes/ep-E7P2ShoYDUA.md#ent-gpe-united-states-t-00-57-37)**
+> "No contract necessary. It's just an insanely good offer to switch to a top-rated company. Pure Talk's dedicated U.S. customer service team is a huge part of why they have five stars for support."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (3 mentions)</summary>
@@ -335,6 +385,191 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[01:19:28](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-united-states-t-01-19-17)**
 > "Kits are available for United States residents only."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (5 mentions)</summary>
+
+**[00:03:43](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-united-states-t-00-03-34)**
+> "...s that Israel worked with the United States government to murder Charlie Kirk."
+
+**[00:53:45](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-united-states-t-00-53-21)**
+> "... an explosive outbreak in the U.S. this summer. More than 18,000 confirmed and suspe..."
+
+**[00:54:04](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-united-states-t-00-54-04)**
+> "United States deaths associated with that outbreak. The CDC say..."
+
+**[00:54:50](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-united-states-t-00-54-43)**
+> "...ndace. Kits are available for United States residents only."
+
+**[01:53:29](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-united-states-t-01-53-29)**
+> "... a question? If whoever's the U.S. government, why are you not,"
+
+</details>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
+
+**[00:03:47](/episodes/ep-HGtMfbePDKk.md#ent-gpe-united-states-t-00-03-47)**
+> "... LGBTQ rights organization in America because their CEO openly asserted that his perspe..."
+
+</details>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (4 mentions)</summary>
+
+**[00:01:26](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-united-states-t-00-01-26)**
+> "in America"
+
+**[00:08:32](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-united-states-t-00-08-32)**
+> "...angential to the leftist un-f america tour i've never so much as spoken to them but the..."
+
+**[00:43:33](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-united-states-t-00-43-21)**
+> "...ses pre-2016 data showing the U.S. the lowest food expenditure shares actually reinf..."
+
+**[00:46:40](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-united-states-t-00-46-33)**
+> "The great Satan, America, will fall."
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (5 mentions)</summary>
+
+**[00:09:22](/episodes/ep-ChuWo-n49B8.md#ent-gpe-united-states-t-00-08-53)**
+> "in Utah or in the United States or in the world"
+
+**[00:09:30](/episodes/ep-ChuWo-n49B8.md#ent-gpe-united-states-t-00-09-30)**
+> "in Utah or in the United States or in the world that drives that particular vehic..."
+
+**[00:15:05](/episodes/ep-ChuWo-n49B8.md#ent-gpe-united-states-t-00-15-05)**
+> "...ist supporters throughout the United States. They're obsessed with lying about the Charlie Ki..."
+
+**[00:27:23](/episodes/ep-ChuWo-n49B8.md#ent-gpe-united-states-t-00-26-55)**
+> "... there was an outbreak in the U.S. right now. The CDC has confirmed the culprit is a..."
+
+**[00:28:24](/episodes/ep-ChuWo-n49B8.md#ent-gpe-united-states-t-00-28-24)**
+> "...ndace. Kits are available for U.S. residents only. And I have to tell you guys about..."
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (11 mentions)</summary>
+
+**[00:35:36](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-united-states-t-00-35-36)**
+> "...to me to be inexplicable. The United States, at the instruction presumably of Israel, bombed ..."
+
+**[00:36:04](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-united-states-t-00-35-36)**
+> "...part of the story is that the United States tried to deny it. Like, I just wanted to process ..."
+
+**[00:36:34](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-united-states-t-00-36-17)**
+> "...d and that's only used by the united states that struck the school and then Pete Hegseth had ..."
+
+**[00:37:18](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-united-states-t-00-37-00)**
+> "...bunked every attempt that the U.S. tried to put out. It's like they never even said ..."
+
+**[00:37:35](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-united-states-t-00-37-35)**
+> "Mr. President, did the United States bomb a girl's elementary school in southern Iran ..."
+
+**[00:37:48](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-united-states-t-00-37-48)**
+> "... It was Iran who did that?" / U.S. Official: "We’re certainly investigating. Still i..."
+
+**[00:38:21](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-united-states-t-00-38-01)**
+> "America is the only force in this conflict that uses Toma..."
+
+**[00:38:30](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-united-states-t-00-38-01)**
+> "...cretary Pete Hegseth confirms America is conducting a formal military investigation."
+
+**[00:38:43](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-united-states-t-00-38-43)**
+> "...hat on the day of the attack, America had a carrier strike group in the area. This is, ..."
+
+**[00:41:19](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-united-states-t-00-40-52)**
+> "...e Middle East is the plan for America. I believe that from the bottom of my heart. That..."
+
+**[00:44:18](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-united-states-t-00-44-18)**
+> "...advising the president of the United States who actually believe that they were going to take..."
+
+</details>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (8 mentions)</summary>
+
+**[00:19:57](/episodes/ep-AH1KVKkweUE.md#ent-gpe-united-states-t-00-19-22)**
+> "... Alan Robertson is actually a United States Marine. Ah, that makes sense."
+
+**[00:33:19](/episodes/ep-AH1KVKkweUE.md#ent-gpe-united-states-t-00-33-19)**
+> "...of pocket as everything is in America, and they are obviously his VA benefits are not g..."
+
+**[00:35:09](/episodes/ep-AH1KVKkweUE.md#ent-gpe-united-states-t-00-34-40)**
+> "... incredible headline that the U.S. military is now asking troops for creative and un..."
+
+**[00:35:20](/episodes/ep-AH1KVKkweUE.md#ent-gpe-united-states-t-00-35-20)**
+> "... from a senior officer at the U.S. military command carrying out President Donald Tr..."
+
+**[00:35:32](/episodes/ep-AH1KVKkweUE.md#ent-gpe-united-states-t-00-35-20)**
+> "...this email. An officer in the U.S. Central Command's intelligence branch, if we're s..."
+
+**[00:36:57](/episodes/ep-AH1KVKkweUE.md#ent-gpe-united-states-t-00-36-38)**
+> "...ly being the president of the United States for like a day."
+
+**[00:38:37](/episodes/ep-AH1KVKkweUE.md#ent-gpe-united-states-t-00-38-37)**
+> "...where I stand. We do not want U.S. boots on the ground."
+
+**[00:39:31](/episodes/ep-AH1KVKkweUE.md#ent-gpe-united-states-t-00-39-19)**
+> "...pushing for Iran. But is that America's problem?"
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (3 mentions)</summary>
+
+**[00:28:49](/episodes/ep-iB-YtO3UZOg.md#ent-gpe-united-states-t-00-28-41)**
+> "...is indeed possible. Celebrate America's birthday with your $250 gift to Preborn today."
+
+**[00:38:51](/episodes/ep-iB-YtO3UZOg.md#ent-gpe-united-states-t-00-38-46)**
+> "Pure Talk's dedicated U.S. customer service team is a huge part of why they ..."
+
+**[00:50:02](/episodes/ep-iB-YtO3UZOg.md#ent-gpe-united-states-t-00-49-36)**
+> "...ou know, the President of the United States, like, tweets my face, like the most vile person ..."
+
+</details>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (2 mentions)</summary>
+
+**[00:29:30](/episodes/ep-AoYZel7_cGQ.md#ent-gpe-united-states-t-00-29-18)**
+> "Celebrate America's birthday with your $250 gift to Preborn today. To..."
+
+**[00:41:57](/episodes/ep-AoYZel7_cGQ.md#ent-gpe-united-states-t-00-41-57)**
+> "...what on earth is happening in America and yeah I'm just I'm you know very happy for you..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (4 mentions)</summary>
+
+**[00:22:30](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-united-states-t-00-22-30)**
+> "with other U.S. government agencies, they have a presence in more than 41 countries and on U.S. Navy vessels."
+
+**[00:20:28](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-united-states-t-00-20-28)**
+> "...hope freya bankrupts you real america first stuff trump but i digress back to our story..."
+
+**[00:30:41](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-united-states-t-00-30-19)**
+> "...leased in October 2025 by the United States House Committee, the one that Trump fought not to..."
+
+**[00:32:03](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-united-states-t-00-31-42)**
+> "...ook at the state of things in America right now."
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (2 mentions)</summary>
+
+**[00:21:12](/episodes/ep-HZvwbfePe7o.md#ent-gpe-united-states-t-00-21-12)**
+> "Celebrate America's birthday"
+
+**[00:25:50](/episodes/ep-HZvwbfePe7o.md#ent-gpe-united-states-t-00-25-22)**
+> "Look at this. This is one of America's favorite pastors. Look at that. Look at that righ..."
 
 </details>
 
@@ -381,7 +616,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (8 mentions)</summary>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (7 mentions)</summary>
 
 **[00:00:42](/episodes/ep-N4uM8Jdr410.md#ent-gpe-united-states-t-00-00-42)**
 > "You can't just root for Satan out of a love for country, right? That's why even me, I was off of the U.S. train."
@@ -399,9 +634,6 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > "...erhood is possible. Celebrate America's birthday with your $250 gift to Preborn today. To..."
 
 **[00:28:21](/episodes/ep-N4uM8Jdr410.md#ent-gpe-united-states-t-00-28-09)**
-> "...t there is an outbreak in the United States right now."
-
-**[00:28:30](/episodes/ep-N4uM8Jdr410.md#ent-gpe-united-states-t-00-28-09)**
 > "...t there is an outbreak in the United States right now."
 
 **[00:29:27](/episodes/ep-N4uM8Jdr410.md#ent-gpe-united-states-t-00-29-27)**
@@ -1700,10 +1932,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:51:58](/episodes/ep-eLgD5yUVbko.md#ent-gpe-united-states-t-00-53-40)**
 > "...en you just do it and you put American lives at risk."
 
-**[00:53:57](/episodes/ep-eLgD5yUVbko.md#ent-gpe-united-states-t-00-53-57)**
+**[00:53:57](/episodes/ep-eLgD5yUVbko.md#ent-gpe-united-states-t-00-53-40)**
 > "The president of the United States, because I'm doing exactly what I was elected in ..."
 
-**[00:54:14](/episodes/ep-eLgD5yUVbko.md#ent-gpe-united-states-t-00-53-57)**
+**[00:54:14](/episodes/ep-eLgD5yUVbko.md#ent-gpe-united-states-t-00-53-40)**
 > "... the church because he wasn't American and they thought that that would be the best way ..."
 
 **[01:03:27](/episodes/ep-eLgD5yUVbko.md#ent-gpe-united-states-t-01-03-27)**
@@ -1762,58 +1994,34 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:37:09](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-27-13)**
 > "...tle for decades to get Jewish Americans and Jewish people worldwide to recognize that, th..."
 
-**[00:38:36](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-38-28)**
+**[00:38:36](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-27-13)**
 > "...like it is uh we need to make america christian again that is the vibe that is why i se..."
 
-**[00:40:40](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-38-28)**
+**[00:40:40](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-27-13)**
 > "Also remind you guys about American financing because between groceries, travel and h..."
 
-**[00:40:48](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-38-28)**
+**[00:40:48](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-27-13)**
 > "...ve considered reaching out to American Financing, but hesitated because you don't want t..."
 
-**[00:41:19](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-38-28)**
+**[00:41:19](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-27-13)**
 > "...d out if you qualify, so call American Financing today at 800-795-1210."
 
-**[00:47:20](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-46-58)**
+**[00:47:20](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-27-13)**
 > "...we really love these new make america christian again hats because they look like they ..."
 
-**[00:47:30](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-47-30)**
+**[00:47:30](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-27-13)**
 > "...we really love these new make america christian again hats because they look like they ..."
 
 **[00:47:54](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-united-states-t-00-47-54)**
-> "... the sitting president of the united states who says we are so unimportant that he pens a lit..."
+> "You know, like I said, when we get attacked by everybody, including the sitting president of the United States, who says we are so unimportant that he pens a little novel about us, we just don't care. We just don't care. We are very happy with what we are doing. Also, to remind you guys, we have merged the subscription tier into one Club Candace tier for $11.99 a month on the website, or you can pay $120 for the entire year. And thank you to my book club people. We did bump the book club..."
 
 </details>
 
 <details>
-<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (10 mentions)</summary>
-
-**[00:48:51](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-united-states-t-00-03-35)**
-> "American"
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (2 mentions)</summary>
 
 **[00:03:52](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-united-states-t-00-03-35)**
-> "...n before the president of the united states that you're praying for charlie that will definit..."
-
-**[00:45:03](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-united-states-t-00-03-35)**
-> "...a saying Pam Bondi is a great American patriot, a loyal friend who faithfully served as ..."
-
-**[00:48:40](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-united-states-t-00-03-35)**
-> "...ver half a million dollars to America's warrior partnership, a fantastic organization tha..."
-
-**[00:49:09](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-united-states-t-00-03-35)**
-> "...every single day and creating American jobs."
-
-**[00:49:14](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-united-states-t-00-03-35)**
-> "...want to remind you guys about American financing because between groceries, travel and a..."
-
-**[00:49:30](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-united-states-t-00-03-35)**
-> "...be considered reaching out to American Financing, but hesitated because you don't want t..."
-
-**[00:49:38](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-united-states-t-00-03-35)**
-> "Well, that's why American Financing created the SMART Equity Loan, which is..."
-
-**[00:49:59](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-united-states-t-00-03-35)**
-> "...d out if you qualify, so call American Financing today at 800-795-1210."
+> "...n before the president of the united states that you're praying for charlie (Charlie Kirk) th..."
 
 **[00:53:28](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-united-states-t-00-53-01)**
 > "...eight if the president of the United States says it actually make it diminishes it. It dimini..."
@@ -1859,7 +2067,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > "...d out if you qualify, so call American Financing today at 800-795-1210. Again, that's 80..."
 
 **[01:03:49](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-united-states-t-00-52-00)**
-> "...eading The Secret Founding of America by Nicholas Hager."
+> "Otherwise, yeah, there's tons of stuff. You can also join the book club where we're getting a lot deeper on this Freemasonry stuff right now as we are reading The Secret Founding of America by Nicholas Hagger."
 
 </details>
 
@@ -3131,36 +3339,36 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (5 mentions)</summary>
+<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (4 mentions)</summary>
 
 **[00:01:52](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-united-states-t-00-01-41)**
 > "... skin care made right here in America with no ideological baggage,"
 
-**[00:36:15](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-united-states-t-00-35-55)**
+**[00:36:15](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-united-states-t-00-36-08)**
 > "U.S. Army missed the red flags about a civilian leader..."
 
-**[00:36:19](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-united-states-t-00-35-55)**
-> "... a child porn ring and risked U.S. security."
-
-**[00:36:25](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-united-states-t-00-35-55)**
+**[00:36:25](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-united-states-t-00-36-08)**
 > "...a top civilian commander at a U.S. air base in Afghanistan."
 
-**[00:40:42](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-united-states-t-00-40-20)**
+**[00:40:42](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-united-states-t-00-40-12)**
 > "and it's made right here in America."
 
 </details>
 
 <details>
-<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (3 mentions)</summary>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (4 mentions)</summary>
 
-**[00:12:08](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-united-states-t-00-11-36)**
+**[00:12:00](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-united-states-t-00-11-36)**
 > "disturbing is happening in America."
 
 **[00:20:54](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-united-states-t-00-20-26)**
 > "...trying to make happen here in America."
 
-**[01:04:58](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-united-states-t-01-04-36)**
+**[01:04:58](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-united-states-t-01-04-58)**
 > "...going to happen after that is America,"
+
+**[00:30:40](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-united-states-t-00-30-32)**
+> "Plus, there's free shipping. Open to U.S. residents only, I should say. Again, visit twc.health slash Candace and use code Candace at checkout."
 
 </details>
 
@@ -4205,9 +4413,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <summary>Attacked (1)</summary>
 
 - **[Iran](/entities/gpe-iran.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:42:00](/episodes/ep-i8m_6D4QGmk.md#t-00-41-20): “The United States is preemptively bombing Iran.”
+- [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:35:20](/episodes/ep-AH1KVKkweUE.md#t-00-35-20): “The request came from a senior officer at the U.S. military command carrying out President Donald Trump (Donald J. Trump)'s war with Iran”
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:35:36](/episodes/ep-1CFDtD0IgEg.md#t-00-35-36): “The United States, at the instruction presumably of Israel, bombed an elementary school in Iran, a primary school is an elementary school in Iran.”
 
 </details>
 
@@ -4241,12 +4451,13 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <summary>Has President (1)</summary>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
-- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:53:28](/episodes/ep-q1NRQQAYS_Q.md#t-00-53-01): “You know, somehow bear more weight if the president of the United States says it actually make it diminishes it. It diminishes it. That's not like you want Trump to mention your company.”
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:53:28](/episodes/ep-q1NRQQAYS_Q.md#t-00-53-01): “You know, somehow bear more weight if the president of the United States says it actually make it diminishes it. It diminishes it. That's not like you want Trump (Donald J. Trump) to mention your company.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:53:57](/episodes/ep-eLgD5yUVbko.md#t-00-53-40): “The president of the United States, because I'm doing exactly what I was elected in a landslide to do, setting record low numbers in crime and creating the greatest stock market in history, Leo should be thankful because, as everyone knows, he was a shocking surprise. He wasn't on any list to be pope and was only put there by the church because he wasn't American and they thought that that would be the best way to deal with President Donald J. Trump. Trump, if I wasn't in the White House, Leo wouldn't be in the Vatican.”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:17:14](/episodes/ep-WoXd4oLwd3w.md#t-00-17-07): “Why would Donald Trump, the president of the United States, call Charlie Kirk to scold him because people on stage are calling out a child rapist?”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:30:47](/episodes/ep-puuMVxEu5NU.md#t-00-30-34): “So if you had a message for President Trump (Donald Trump), what would it be?”
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:44:18](/episodes/ep-1CFDtD0IgEg.md#t-00-44-18): “they're telling Trump (Donald J. Trump) who's already done this to arm protesters in Iran. ... These are the people that are advising the president of the United States who actually believe that they were going to take Iran in two weeks.”
 
 </details>
 
@@ -4275,9 +4486,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 - **[Israel](/entities/gpe-israel.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Candace Owens x Ana Kasparian @ 00:14:21](/episodes/ep-SKNJPul29zU.md#t-00-14-10): “we have depleted 80 percent of our missile interceptors because we've given military aid to Israel, Ukraine”
+- [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:36:57](/episodes/ep-AH1KVKkweUE.md#t-00-36-38): “remove our ties from Israel, stop funding that demonic pedophilic state of Baal”
 
 </details>
 
@@ -4308,9 +4520,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 - **[Iran](/entities/gpe-iran.md)** attacked by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:42:00](/episodes/ep-i8m_6D4QGmk.md#t-00-41-20): “The United States is preemptively bombing Iran.”
+- [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:35:20](/episodes/ep-AH1KVKkweUE.md#t-00-35-20): “The request came from a senior officer at the U.S. military command carrying out President Donald Trump (Donald J. Trump)'s war with Iran”
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:35:36](/episodes/ep-1CFDtD0IgEg.md#t-00-35-36): “The United States, at the instruction presumably of Israel, bombed an elementary school in Iran, a primary school is an elementary school in Iran.”
 
 </details>
 
@@ -4322,12 +4536,13 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** president of this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
-- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:53:28](/episodes/ep-q1NRQQAYS_Q.md#t-00-53-01): “You know, somehow bear more weight if the president of the United States says it actually make it diminishes it. It diminishes it. That's not like you want Trump to mention your company.”
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:53:28](/episodes/ep-q1NRQQAYS_Q.md#t-00-53-01): “You know, somehow bear more weight if the president of the United States says it actually make it diminishes it. It diminishes it. That's not like you want Trump (Donald J. Trump) to mention your company.”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:53:57](/episodes/ep-eLgD5yUVbko.md#t-00-53-40): “The president of the United States, because I'm doing exactly what I was elected in a landslide to do, setting record low numbers in crime and creating the greatest stock market in history, Leo should be thankful because, as everyone knows, he was a shocking surprise. He wasn't on any list to be pope and was only put there by the church because he wasn't American and they thought that that would be the best way to deal with President Donald J. Trump. Trump, if I wasn't in the White House, Leo wouldn't be in the Vatican.”
 - [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 @ 00:17:14](/episodes/ep-WoXd4oLwd3w.md#t-00-17-07): “Why would Donald Trump, the president of the United States, call Charlie Kirk to scold him because people on stage are calling out a child rapist?”
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:30:47](/episodes/ep-puuMVxEu5NU.md#t-00-30-34): “So if you had a message for President Trump (Donald Trump), what would it be?”
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:44:18](/episodes/ep-1CFDtD0IgEg.md#t-00-44-18): “they're telling Trump (Donald J. Trump) who's already done this to arm protesters in Iran. ... These are the people that are advising the president of the United States who actually believe that they were going to take Iran in two weeks.”
 
 </details>
 
@@ -4339,9 +4554,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 - **[Israel](/entities/gpe-israel.md)** supported by this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Candace Owens x Ana Kasparian @ 00:14:21](/episodes/ep-SKNJPul29zU.md#t-00-14-10): “we have depleted 80 percent of our missile interceptors because we've given military aid to Israel, Ukraine”
+- [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:36:57](/episodes/ep-AH1KVKkweUE.md#t-00-36-38): “remove our ties from Israel, stop funding that demonic pedophilic state of Baal”
 
 </details>
 
@@ -4357,7 +4573,61 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States (149)</strong></summary>
+<summary><strong class="section-title">Statements about United States (161)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
+
+- [00:22:32](/episodes/ep-ChuWo-n49B8.md#t-00-22-05) (Accusation) **Candace Owens**: ["Owens said she and others had a sense that the state murdered Charlie ..."](/statements/statement-19b76f096b36.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Israel](/entities/gpe-israel.md)
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (7)</summary>
+
+- [00:35:36](/episodes/ep-1CFDtD0IgEg.md#t-00-35-36) (Accusation) **Candace Owens**: ["Candace Owens claimed the United States, presumably acting at Israel's..."](/statements/statement-941695a8f84a.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Iran](/entities/gpe-iran.md)
+
+- [00:38:10](/episodes/ep-1CFDtD0IgEg.md#t-00-38-01) (Claim) **Sky News** (via quoted speech): ["Sky News reported that footage from the day the school was struck show..."](/statements/statement-ff8a2e3bc4a7.md)
+  - Also about: [Tomahawk cruise missile](/entities/concept-tomahawk-cruise-missile.md), [Sky News](/entities/org-sky-news.md)
+
+- [00:38:43](/episodes/ep-1CFDtD0IgEg.md#t-00-38-43) (Claim) **Sky News** (via quoted speech): ["Sky News reported that a U.S. carrier strike group centered on the USS..."](/statements/statement-1548da41e7ec.md)
+  - Also about: [USS Abraham Lincoln (CVN-72)](/entities/vehicle-uss-abraham-lincoln-cvn-72.md), [Minab](/entities/gpe-minab.md)
+
+- [00:39:22](/episodes/ep-1CFDtD0IgEg.md#t-00-39-22) (Claim) **Sky News** (via quoted speech): ["Sky News said the U.S. weapons were precision-guided missiles capable ..."](/statements/statement-032bea1352c8.md)
+  - Also about: [Tomahawk cruise missile](/entities/concept-tomahawk-cruise-missile.md)
+
+- [00:40:22](/episodes/ep-1CFDtD0IgEg.md#t-00-40-22) (Opinion) **Candace Owens**: ["Candace Owens said it was her honest belief that the school bombing wa..."](/statements/statement-806798036f9a.md)
+  - Also about: [Baal](/entities/concept-baal.md)
+
+- [00:41:49](/episodes/ep-1CFDtD0IgEg.md#t-00-41-31) (Prediction) **Candace Owens**: ["Candace Owens predicted that U.S. attacks killing Iranian children and..."](/statements/statement-61895a5117f2.md)
+  - Also about: [Iran](/entities/gpe-iran.md)
+
+- [00:44:12](/episodes/ep-1CFDtD0IgEg.md#t-00-43-55) (Opinion) **Mark Levin** (via quoted speech): ["Mark Levin argued that the United States should arm Iranian opposition..."](/statements/statement-fad7accff25b.md)
+  - Also about: [Iran](/entities/gpe-iran.md)
+
+</details>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (5)</summary>
+
+- [00:35:56](/episodes/ep-AH1KVKkweUE.md#t-00-35-20) (Opinion) **Candace Owens**: ["Owens argued that the United States was losing the war with Iran becau..."](/statements/statement-55be4a960b63.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md)
+
+- [00:36:57](/episodes/ep-AH1KVKkweUE.md#t-00-36-38) (Opinion) **Candace Owens**: ["Owens urged Trump to admit he was wrong, apologize, end U.S. funding a..."](/statements/statement-d107e74ffd0f.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Israel](/entities/gpe-israel.md)
+
+- [00:38:08](/episodes/ep-AH1KVKkweUE.md#t-00-38-08) (Opinion) **Erika Kirk** (via quoted speech): ["Erika Kirk said she would not answer whether the United States should ..."](/statements/statement-6b121e761598.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Iran](/entities/gpe-iran.md)
+
+- [00:38:37](/episodes/ep-AH1KVKkweUE.md#t-00-38-37) (Opinion) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said he opposed U.S. boots on the ground, American kineti..."](/statements/statement-d3367b8daa78.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Iran](/entities/gpe-iran.md)
+
+- [00:39:05](/episodes/ep-AH1KVKkweUE.md#t-00-38-37) (Opinion) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said U.S. intelligence claims about Iran should be verifi..."](/statements/statement-5b5f82829786.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Iran](/entities/gpe-iran.md), [Israel](/entities/gpe-israel.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1)</summary>
@@ -4610,7 +4880,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1)</summary>
 
-- [00:51:58](/episodes/ep-eLgD5yUVbko.md#t-00-51-17) (Opinion) **Candace Owens**: ["Candace Owens said the war against Iran is unjust and morally contempt..."](/statements/statement-1fa070e7f5a4.md)
+- [00:51:58](/episodes/ep-eLgD5yUVbko.md#t-00-51-25) (Opinion) **Candace Owens**: ["Candace Owens said the war against Iran is unjust and morally contempt..."](/statements/statement-1fa070e7f5a4.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Iran](/entities/gpe-iran.md), [Middle East](/entities/gpe-middle-east.md)
 
 </details>
@@ -4984,14 +5254,6 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 - [00:16:00](/episodes/ep-wcD2khO3rOA.md#t-00-15-39) (Claim) **Candace Owens**: ["Andrew Piscadlo, a photographer initially suspected online after the C..."](/statements/statement-55e395695fbb.md)
   - Also about: [Andrew Piscadlo](/entities/person-andrew-piscadlo.md), [Ukraine](/entities/gpe-ukraine.md)
-
-</details>
-
-<details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1)</summary>
-
-- [00:36:07](/episodes/ep-zSKrxIUMNqw.md#t-00-36-02) (Claim) **Candace Owens**: ["Nimi Skincare is made in the United States."](/statements/statement-4c8a5b1e7092.md)
-  - Also about: [Nimi Skincare](/entities/org-nimi-skincare.md)
 
 </details>
 

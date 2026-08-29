@@ -6,11 +6,19 @@ type: "ORG"
 aliases:
   - "4th Company"
   - "the 4th Company"
+categories:
+  - "French military company"
 ---
 
 _Type: Organizations_
 
 **Also known as:** 4th Company, the 4th Company
+
+**Categories:** French military company
+
+**Entity verification:** verified
+> Canonical name and identity for 4th Company, 2nd Foreign Infantry Regiment confirmed by the cited direct external source.
+Source: [French Foreign Legion official site](https://www.legion-etrangere.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-4th-company-2nd-foreign-infantry-regiment-t-00-16-09">2025-12-01 · 00:16:09</a></strong></div>

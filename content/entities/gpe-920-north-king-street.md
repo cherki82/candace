@@ -7,11 +7,19 @@ aliases:
   - "920 King Street"
   - "920 N King St"
   - "920 N. King Street"
+categories:
+  - "Wilmington address"
 ---
 
 _Type: Places_
 
 **Also known as:** 920 King Street, 920 N King St, 920 N. King Street
+
+**Categories:** Wilmington address
+
+**Entity verification:** verified
+> The episode transcript supports this address label. This verifies the graph identity only, not alleged tenants or activity.
+Source: [Charlie Kirk And Brigitte's Legionnaires — source episode](https://www.youtube.com/watch?v=tB5SXXmd9vU)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-920-north-king-street-t-00-08-19">2025-11-19 · 00:08:27</a></strong></div>

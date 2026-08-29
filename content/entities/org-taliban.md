@@ -1,6 +1,6 @@
 ---
 title: "Taliban"
-description: "Taliban (Organizations) - 2 mentions"
+description: "Taliban (Organizations) - 3 mentions"
 id: "org-taliban"
 type: "ORG"
 categories:
@@ -17,9 +17,9 @@ Source: [UN Security Council 1988 Sanctions Committee](https://main.un.org/secur
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-org-taliban-t-00-41-31">2026-04-14 · 00:41:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-jsqUIkszZd0.md#ent-org-taliban-t-00-45-11">2026-04-14 · 00:45:33</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-org-taliban-t-00-39-19">2026-08-03 · 00:39:36</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -31,12 +31,14 @@ Source: [UN Security Council 1988 Sanctions Committee](https://main.un.org/secur
 <p>Highest activity: <a href="/episodes/ep-jsqUIkszZd0.md#ent-org-taliban-t-00-41-31">BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-org-taliban-t-00-41-31" style="--pulse-height:100%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 2 mentions" title="2026-04-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-org-taliban-t-00-39-19" style="--pulse-height:50%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-taliban-t-00-41-31) | 2 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-org-taliban-t-00-39-19) | 1 |
 
 </details>
 </section>
@@ -44,7 +46,15 @@ Source: [UN Security Council 1988 Sanctions Committee](https://main.un.org/secur
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
+
+**[00:39:36](/episodes/ep-AH1KVKkweUE.md#ent-org-taliban-t-00-39-19)**
+> "...an, they were wrong about the Taliban, they were wrong about Libya, they were wrong abo..."
+
+</details>
 
 <details>
 <summary>BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324 (2 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "January 6th"
-description: "January 6th (Events) - 11 mentions"
+description: "January 6th (Events) - 13 mentions"
 id: "event-january-6th"
 type: "EVENT"
 ---
@@ -9,11 +9,11 @@ _Type: Events_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YaZfwLQ7vrI.md#ent-event-january-6th-t-00-01-21">2025-11-10 · 00:01:21</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-YaZfwLQ7vrI.md#ent-event-january-6th-t-00-13-01">2025-11-10 · 00:13:04</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-event-january-6th-t-00-38-25">2026-08-19 · 00:38:40</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -23,12 +23,14 @@ _Type: Events_
 <p>Highest activity: <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-event-january-6th-t-00-01-21">Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262</a> (11 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-event-january-6th-t-00-01-21" style="--pulse-height:100%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 11 mentions" title="2025-11-10 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-event-january-6th-t-00-38-25" style="--pulse-height:18%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-event-january-6th-t-00-01-21) | 11 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-event-january-6th-t-00-38-25) | 2 |
 
 </details>
 </section>
@@ -36,7 +38,18 @@ _Type: Events_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (2 mentions)</summary>
+
+**[00:38:32](/episodes/ep-9hRcfSrri70.md#ent-event-january-6th-t-00-38-25)**
+> "...nto what actually happened on January 6th. You took the bait. The left took the bait. OK, t..."
+
+**[00:38:40](/episodes/ep-9hRcfSrri70.md#ent-event-january-6th-t-00-38-25)**
+> "...nk that's when that happened, January 6th, 2020. It was different worlds. We were all more ..."
+
+</details>
 
 <details>
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (11 mentions)</summary>
@@ -86,7 +99,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about January 6th (3)</strong></summary>
+<summary><strong class="section-title">Statements about January 6th (5)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (2)</summary>
+
+- [00:38:17](/episodes/ep-9hRcfSrri70.md#t-00-37-43) (Accusation) **Candace Owens**: ["Owens suggested January 6 could allegedly have been coordinated by 'th..."](/statements/statement-fc88d34a6bfc.md)
+  - Also about: [Democratic Party](/entities/org-democratic-party.md), [Republican Party](/entities/org-republican-party.md)
+
+- [00:39:09](/episodes/ep-9hRcfSrri70.md#t-00-39-09) (Accusation) **Candace Owens**: ["Owens said people who had been encouraged to enter the U.S. Capitol on..."](/statements/statement-56509d81e877.md)
+  - Also about: [United States Capitol](/entities/gpe-united-states-capitol.md)
+
+</details>
 
 <details>
 <summary>Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262 (3)</summary>

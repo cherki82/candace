@@ -1,6 +1,6 @@
 ---
 title: "Amanda Bakker"
-description: "Amanda Bakker (People) - 5 mentions"
+description: "Amanda Bakker (People) - 6 mentions"
 id: "person-amanda-bakker"
 type: "PERSON"
 categories:
@@ -19,8 +19,8 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-amanda-bakker-t-00-17-55">2026-07-16 · 00:18:22</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#t-01-59-17">2026-08-14 · 01:59:45</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -33,6 +33,7 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-amanda-bakker-t-00-18-35" style="--pulse-height:100%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 4 mentions" title="2026-07-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#t-01-59-17" style="--pulse-height:25%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#t-01-28-33" style="--pulse-height:25%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +41,7 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 |---|---|---:|
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-amanda-bakker-t-00-18-35) | 4 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-01-59-17) | 1 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#t-01-28-33) | 1 |
 
 </details>
 </section>
@@ -47,13 +49,21 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[01:59:45](/episodes/ep-nPhCKwJ6ye8.md#t-01-59-17)**
 > "this was the testimony of Amanda Baker"
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (1 mentions)</summary>
+
+**[01:29:01](/episodes/ep-aPOyk1i2LOc.md#t-01-28-33)**
+> "this was the testimony of Amanda Baker, I believe her last name is, but you might want to fact check that because I think I'm blending last names."
 
 </details>
 
@@ -83,9 +93,10 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 <summary>Works For (1)</summary>
 
 - **[FBI](/entities/org-fbi.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 @ 00:18:22](/episodes/ep-mLvJqdxS-FY.md#t-00-17-55): “And apparently the FBI listened to her, but she doesn't remember that. Now, it is likely that we're going to now hear from a different testimony from an FBI agent, Amanda Bakker, on day two, that they're referring to the exact same items.”
+- [Candace Owens vs Andrew Wilson: The Great Debate. @ 01:29:01](/episodes/ep-aPOyk1i2LOc.md#t-01-28-33): “this was the testimony of Amanda Baker, I believe her last name is, but you might want to fact check that because I think I'm blending last names. So she was the forensics for the FBI.”
 
 </details>
 
@@ -95,9 +106,10 @@ Source: [Investigator details surveillance of Tyler Robinson on the day Charlie 
 <summary>Referenced By (1)</summary>
 
 - **[FBI](/entities/org-fbi.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 @ 00:18:22](/episodes/ep-mLvJqdxS-FY.md#t-00-17-55): “And apparently the FBI listened to her, but she doesn't remember that. Now, it is likely that we're going to now hear from a different testimony from an FBI agent, Amanda Bakker, on day two, that they're referring to the exact same items.”
+- [Candace Owens vs Andrew Wilson: The Great Debate. @ 01:29:01](/episodes/ep-aPOyk1i2LOc.md#t-01-28-33): “this was the testimony of Amanda Baker, I believe her last name is, but you might want to fact check that because I think I'm blending last names. So she was the forensics for the FBI.”
 
 </details>
 

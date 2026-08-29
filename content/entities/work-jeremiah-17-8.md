@@ -3,9 +3,17 @@ title: "Jeremiah 17:8"
 description: "Jeremiah 17:8 (Works & Media) - 1 mention"
 id: "work-jeremiah-17-8"
 type: "WORK"
+categories:
+  - "biblical passage"
 ---
 
 _Type: Works & Media_
+
+**Categories:** biblical passage
+
+**Entity verification:** verified
+> The direct passage page confirms the canonical scripture reference.
+Source: [Jeremiah 17:8 — Bible Gateway](https://www.biblegateway.com/passage/?search=Jeremiah%2017%3A8&version=NIV)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-work-jeremiah-17-8-t-00-58-43">2025-12-01 · 00:58:45</a></strong></div>

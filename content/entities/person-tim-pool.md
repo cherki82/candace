@@ -1,6 +1,6 @@
 ---
 title: "Tim Pool"
-description: "Tim Pool (People) - 45 mentions"
+description: "Tim Pool (People) - 48 mentions"
 id: "person-tim-pool"
 type: "PERSON"
 aliases:
@@ -23,10 +23,10 @@ Source: [Timcast](https://timcast.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#ent-person-tim-pool-t-00-52-11">2025-11-18 · 00:52:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-tim-pool-t-00-43-58">2026-07-21 · 00:44:36</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>45</strong></div>
-<div><span>Statements by</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-tim-pool-t-00-07-21">2026-07-30 · 00:07:40</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>48</strong></div>
+<div><span>Statements by</span><strong>5</strong></div>
 <div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -49,6 +49,7 @@ Source: [Timcast](https://timcast.com/)
 <a href="/episodes/ep-Ux1kzgQxkws.md#t-00-56-59" style="--pulse-height:8%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#t-01-06-30" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-tim-pool-t-00-43-58" style="--pulse-height:17%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 2 mentions" title="2026-07-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-tim-pool-t-00-06-38" style="--pulse-height:25%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 3 mentions" title="2026-07-30 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -67,6 +68,7 @@ Source: [Timcast](https://timcast.com/)
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#t-00-56-59) | 1 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#t-01-06-30) | 1 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-tim-pool-t-00-43-58) | 2 |
+| 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-person-tim-pool-t-00-06-38) | 3 |
 
 </details>
 </section>
@@ -74,7 +76,21 @@ Source: [Timcast](https://timcast.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (45)</strong></summary>
+<summary><strong class="section-title">Raw mentions (48)</strong></summary>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (3 mentions)</summary>
+
+**[00:06:55](/episodes/ep-AoYZel7_cGQ.md#ent-person-tim-pool-t-00-06-38)**
+> "...y of laughing at, by the way, Tim Pool, he obviously just says whatever the state themes..."
+
+**[00:07:27](/episodes/ep-AoYZel7_cGQ.md#ent-person-tim-pool-t-00-07-21)**
+> "And Tim Pool tweeted this in response to Alex Jones. He said, ..."
+
+**[00:07:40](/episodes/ep-AoYZel7_cGQ.md#ent-person-tim-pool-t-00-07-21)**
+> "Nope, Tim Pool. Nope. That's not what happened here, actually. T..."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (2 mentions)</summary>
@@ -342,9 +358,10 @@ Source: [Timcast](https://timcast.com/)
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 01:06:44](/episodes/ep-EtLHqDbxqks.md#t-01-06-30): “Tim Poole is lying through his teeth. He did not receive updates from somebody in that car about Charlie (Charlie Kirk)'s status.”
+- [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:07:40](/episodes/ep-AoYZel7_cGQ.md#t-00-07-21): “Nope, Tim Pool. Nope. That's not what happened here, actually.”
 
 </details>
 
@@ -387,9 +404,10 @@ Source: [Timcast](https://timcast.com/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 01:06:44](/episodes/ep-EtLHqDbxqks.md#t-01-06-30): “Tim Poole is lying through his teeth. He did not receive updates from somebody in that car about Charlie (Charlie Kirk)'s status.”
+- [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:07:40](/episodes/ep-AoYZel7_cGQ.md#t-00-07-21): “Nope, Tim Pool. Nope. That's not what happened here, actually.”
 
 </details>
 
@@ -419,7 +437,15 @@ Source: [Timcast](https://timcast.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Tim Pool (4)</strong></summary>
+<summary><strong class="section-title">Statements by Tim Pool (5)</strong></summary>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (1)</summary>
+
+- [00:07:27](/episodes/ep-AoYZel7_cGQ.md#t-00-07-21) [✓] (Opinion) ["Tim Pool called the rooftop interpretation conjecture and said it surprisingly c..."](/statements/statement-9f9bd8ea3843.md)
+  - About: [Losee Center](/entities/org-losee-center.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1)</summary>

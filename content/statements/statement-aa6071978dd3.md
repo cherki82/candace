@@ -32,7 +32,7 @@ veracity: "unverifiable"
 **Timestamp:** [00:27:04](/episodes/ep-rupRLXmSndU.md#t-00-27-04) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1624);return false;">Play</a>
 
-> I am telling you that his roommates were he's got a roommate who did contract work, went on to do contract work for the CIA as well. ... Yes, Michael Sean Covey. That is correct. Sorry, Michael, to put you on blast, but yeah, he contracts with the CIA.
+> he's got a roommate who did contract work, went on to do contract work for the CIA as well. ... who was Andrew Zenger's roommate who went on to work for the CIA. ... Yes, Michael Sean Covey. That is correct. Sorry, Michael (Michael Sean Covey), to put you on blast, but yeah, he contracts with the CIA.
 
 ## Verification
 

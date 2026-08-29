@@ -4,9 +4,10 @@ description: "\"Ben Shapiro said visual timelines showed Charlie Kirk was carrie
 statement_id: "statement-aa3d27736563"
 speaker: "Ben Shapiro"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -36,7 +37,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The episode clip directly records Shapiro saying visual timelines showed Kirk moved to a vehicle within minutes, that Kirk was apparently alive, and that the security-team call was his basis. This verifies the quotation and its qualifiers.
+
+**Confidence:** High
+
+**Sources:**
+
+- [EXCLUSIVE: Ben Shapiro's 9/10 Lunch Date — Candace Ep. 365 transcript](https://podcasts.happyscribe.com/candace/10-lunch-date-more-text-messages-from-charlie-kirk)
+
+*Verified: 2026-08-27T19:42:39.589210*
 
 ---
 

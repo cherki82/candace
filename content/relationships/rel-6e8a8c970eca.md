@@ -11,7 +11,11 @@ object: "person-tyler-bowyer"
 
 ## [Donald J. Trump](/entities/person-donald-trump) appeared with [Tyler Bowyer](/entities/person-tyler-bowyer)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw)**
+
+- [00:29:07](/episodes/ep-HYn0P-P1wUw#t-00-29-07): _It was a hard sell at first, and that was until I hosted the first Trump (Donald Trump) rally in Trump (Donald Trump) rally history right here in Arizona in 2015._
 
 **[Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g)**
 

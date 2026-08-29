@@ -1,6 +1,6 @@
 ---
 title: "Individual Retirement Arrangement"
-description: "Individual Retirement Arrangement (Concepts) - 37 mentions"
+description: "Individual Retirement Arrangement (Concepts) - 43 mentions"
 id: "concept-individual-retirement-arrangement"
 type: "CONCEPT"
 aliases:
@@ -23,9 +23,9 @@ Source: [Individual retirement arrangements (IRAs) - Internal Revenue Service](h
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mFuno0TuuQQ.md#ent-concept-individual-retirement-arrangement-t-00-36-10">2026-02-05 · 00:36:40</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-concept-individual-retirement-arrangement-t-00-54-55">2026-07-21 · 00:55:16</a></strong></div>
-<div><span>Episodes</span><strong>27</strong></div>
-<div><span>Mentions</span><strong>37</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-concept-individual-retirement-arrangement-t-01-14-47">2026-08-17 · 01:15:18</a></strong></div>
+<div><span>Episodes</span><strong>33</strong></div>
+<div><span>Mentions</span><strong>43</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -63,6 +63,12 @@ Source: [Individual retirement arrangements (IRAs) - Internal Revenue Service](h
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-individual-retirement-arrangement-t-00-49-08" style="--pulse-height:33%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-concept-individual-retirement-arrangement-t-00-44-49" style="--pulse-height:33%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-concept-individual-retirement-arrangement-t-00-54-55" style="--pulse-height:33%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-concept-individual-retirement-arrangement-t-00-37-40" style="--pulse-height:33%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-concept-individual-retirement-arrangement-t-00-28-41" style="--pulse-height:33%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 1 mentions" title="2026-07-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-concept-individual-retirement-arrangement-t-00-44-53" style="--pulse-height:33%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#ent-concept-individual-retirement-arrangement-t-00-25-23" style="--pulse-height:33%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-concept-individual-retirement-arrangement-t-02-31-28" style="--pulse-height:33%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-concept-individual-retirement-arrangement-t-01-14-47" style="--pulse-height:33%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -95,6 +101,12 @@ Source: [Individual retirement arrangements (IRAs) - Internal Revenue Service](h
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-concept-individual-retirement-arrangement-t-00-49-08) | 1 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-concept-individual-retirement-arrangement-t-00-44-49) | 1 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-concept-individual-retirement-arrangement-t-00-54-55) | 1 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-concept-individual-retirement-arrangement-t-00-37-40) | 1 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-concept-individual-retirement-arrangement-t-00-28-41) | 1 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-concept-individual-retirement-arrangement-t-00-44-53) | 1 |
+| 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-concept-individual-retirement-arrangement-t-00-25-23) | 1 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-concept-individual-retirement-arrangement-t-02-31-28) | 1 |
+| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-concept-individual-retirement-arrangement-t-01-14-47) | 1 |
 
 </details>
 </section>
@@ -102,7 +114,55 @@ Source: [Individual retirement arrangements (IRAs) - Internal Revenue Service](h
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+<summary><strong class="section-title">Raw mentions (43)</strong></summary>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1 mentions)</summary>
+
+**[01:15:18](/episodes/ep-E7P2ShoYDUA.md#ent-concept-individual-retirement-arrangement-t-01-14-47)**
+> "Maybe you withdrew money from a 401k or an IRA and something got hit with a tax bill that you never expected."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (1 mentions)</summary>
+
+**[02:31:28](/episodes/ep-aPOyk1i2LOc.md#ent-concept-individual-retirement-arrangement-t-02-31-28)**
+> "...withdrew money from a 401k or IRA and suddenly got hit with a tax bill that you did..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>
+
+**[00:25:33](/episodes/ep-5zgkrOaCCj4.md#ent-concept-individual-retirement-arrangement-t-00-25-23)**
+> "...withdrew money from a 401k or IRA and suddenly got hit with a tax bill that you did..."
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>
+
+**[00:45:20](/episodes/ep-1CFDtD0IgEg.md#ent-concept-individual-retirement-arrangement-t-00-44-53)**
+> "...hdrew money from a 401k or an IRA and suddenly got hit with a massive tax bill that..."
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (1 mentions)</summary>
+
+**[00:29:20](/episodes/ep-iB-YtO3UZOg.md#ent-concept-individual-retirement-arrangement-t-00-28-41)**
+> "Maybe you withdrew money for a 401k or an IRA and suddenly got hit with a tax bill that you never expected."
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (1 mentions)</summary>
+
+**[00:37:48](/episodes/ep-HZvwbfePe7o.md#ent-concept-individual-retirement-arrangement-t-00-37-40)**
+> "Maybe you withdrew money from a 401k or an IRA and suddenly you got hit with a tax bill that you did not expect."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>

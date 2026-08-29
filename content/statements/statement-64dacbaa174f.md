@@ -30,7 +30,7 @@ type: "opinion"
 **Timestamp:** [01:00:00](/episodes/ep-9k2xrAC0H88.md#t-00-59-52) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3600);return false;">Play</a>
 
-> no one felt fit to mention that it was a three-way call. It makes Blake Neff's story especially weird because he makes it seem like they have this moment and he's got a quivering lip and he looks at him and he says, I have to call Erika. But why would he say that to Blake Neff if he's on the phone with his wife?
+> I find it remarkably suspicious that no one has mentioned, no one felt fit to mention that it was a three-way call. It makes Blake Neff's story especially weird because he makes it seem like they have this moment and he's got a quivering lip and he looks at him and he says, I have to call Erika (Erika Kirk). But why would he say that to Blake Neff if he's on the phone with his wife?
 
 ## Verification
 

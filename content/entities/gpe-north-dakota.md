@@ -3,9 +3,17 @@ title: "North Dakota"
 description: "North Dakota (Places) - 9 mentions"
 id: "gpe-north-dakota"
 type: "GPE"
+categories:
+  - "U.S. state"
 ---
 
 _Type: Places_
+
+**Categories:** U.S. state
+
+**Entity verification:** verified
+> Canonical name and identity for North Dakota confirmed by the cited direct external source.
+Source: [North Dakota](https://en.wikipedia.org/wiki/North_Dakota)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-north-dakota-t-00-19-07">2025-10-30 · 00:19:07</a></strong></div>

@@ -11,7 +11,15 @@ object: "person-andrew-wilson"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) trained by [Andrew Wilson](/entities/person-andrew-wilson)
 
-### Evidence (1 mentions)
+### Evidence (3 mentions)
+
+**[Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc)**
+
+- [02:12:37](/episodes/ep-aPOyk1i2LOc#t-02-12-37): _Rogan. No, no, no, no, no. Hang on. I'll explain what happened just so that you understand. So I was invited there to do some debate training. That's literally what I was invited there to do on recommendation. So I went down and did some debate. That's the first time I ever met anybody at TPUSA._
+
+**[A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8)**
+
+- [00:11:23](/episodes/ep-d7VsbEIWkP8#t-00-11-23): _I mean, Charlie Kirk's brand was clean and respectable. Here is Andrew Wilson, who I'm not getting turning point USA says they welcomed him to teach others how to debate._
 
 **[Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8)**
 

@@ -319,7 +319,7 @@ youtube_url: "https://www.youtube.com/watch?v=581dILVcEE4"
   - About: [Blake Neff](/entities/person-blake-neff.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:37:58](#t-00-37-46) [○] (Claim) **Candace Owens**: ["Charlie Kirk was shot at 12:23"](/statements/statement-3ab294a30f69.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
-- [00:38:41](#t-00-38-23) [✓] (Claim) **Candace Owens**: ["Rob McCoy was in Jerusalem on November 16th at an event billed as a celebration ..."](/statements/statement-33885f09bdfa.md)
+- [00:38:41](#t-00-38-23) [✓] (Claim) **Candace Owens**: ["Rob McCoy was apparently in Jerusalem on November 16 at an event billed as a cel..."](/statements/statement-33885f09bdfa.md)
   - About: [Jerusalem](/entities/gpe-jerusalem.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Rob McCoy](/entities/person-rob-mccoy.md)
 - [00:42:45](#t-00-42-16) [○] (Claim) **Candace Owens**: ["Benjamin Netanyahu had a relationship with Bob Coy from the Fort Lauderdale Calv..."](/statements/statement-edd63ae5246d.md)
   - About: [Calvary Chapel](/entities/org-calvary-chapel.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bob Coy](/entities/person-bob-coy.md)

@@ -25,7 +25,7 @@ type: "factual_claim"
 **Timestamp:** [00:32:13](/episodes/ep-YA1FxrDWNIo.md#t-00-31-28) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1933);return false;">Play</a>
 
-> He fired the chief—among other people—and replaced her with Robert Bowles in August
+> He fired the chief—among other people—and replaced her with Robert Bohls in August.
 
 ## Verification
 

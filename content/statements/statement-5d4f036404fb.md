@@ -24,13 +24,23 @@ veracity: "true"
 - [Andrew Wilson](/entities/person-andrew-wilson.md) (person)
 - [National Rifle Association](/entities/org-national-rifle-association.md) (org)
 
-## Source
+## Appearances (2)
+
+### 1. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [00:44:21](/episodes/ep-nPhCKwJ6ye8.md#t-00-44-16) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2661);return false;">Play</a>
 
 > No, I taught rifles as a private citizen ... And I was an NRA instructor for many, ... many, many years
+
+### 2. Candace Owens vs Andrew Wilson: The Great Debate.
+
+**Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
+**Timestamp:** [00:19:43](/episodes/ep-aPOyk1i2LOc.md#t-00-19-43) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1183);return false;">Play</a>
+
+> no i didn't teach rifle no i taught rifles as a private citizen ... Mm-hmm. And I was an NRA instructor for many, ... many, many years alongside my gun ... shop.
 
 ## Verification
 

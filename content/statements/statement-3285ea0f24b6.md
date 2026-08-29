@@ -4,9 +4,10 @@ description: "\"Rob O'Neill said a .30-06 round would have caused more damage, t
 statement_id: "statement-3285ea0f24b6"
 speaker: "Rob O'Neill"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The episode clip records O'Neill making the summarized claims about a .30-06 round, an apparent left-side exit wound, and left-to-right travel. Verification is of O'Neill's statement; the underlying wound path and ballistics were not independently established by a public autopsy or official report found in this search.
+
+**Confidence:** High
+
+**Sources:**
+
+- [EXCLUSIVE: Ben Shapiro's 9/10 Lunch Date — Candace Ep. 365 transcript](https://podcasts.happyscribe.com/candace/10-lunch-date-more-text-messages-from-charlie-kirk)
+
+*Verified: 2026-08-27T19:42:39.589244*
 
 ---
 

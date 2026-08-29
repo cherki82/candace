@@ -31,7 +31,7 @@ veracity: "mixed"
 **Timestamp:** [00:21:42](/episodes/ep-eLgD5yUVbko.md#t-00-20-58) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1302);return false;">Play</a>
 
-> And they said, Candace, I can prove it. I said, okay. And sure enough, they sent me an internal video of their CEO at first just discussing the fact that they were working with Erica regarding me.
+> And they said, Candace, I can prove it. I said, okay. And sure enough, they sent me an internal video of their CEO at first just discussing the fact that they were working with Erika regarding me.
 
 ## Verification
 

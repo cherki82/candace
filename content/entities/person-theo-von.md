@@ -1,6 +1,6 @@
 ---
 title: "Theo Von"
-description: "Theo Von (People) - 30 mentions"
+description: "Theo Von (People) - 41 mentions"
 id: "person-theo-von"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-theo-von-t-00-46-32">2025-10-02 · 00:46:59</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-cPidFQDJLbo.md#ent-person-theo-von-t-00-45-16">2026-05-20 · 00:45:16</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>30</strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>41</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -37,11 +37,14 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-theo-von-t-00-46-32" style="--pulse-height:27%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 3 mentions" title="2025-10-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-SKGUzGHymcI.md#ent-person-theo-von-t-00-36-19" style="--pulse-height:27%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 3 mentions" title="2025-11-19 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-6DhWawD4ZiM.md#t-00-23-32" style="--pulse-height:27%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 3 mentions" title="2025-12-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#t-01-14-29" style="--pulse-height:9%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-theo-von-t-01-01-12" style="--pulse-height:9%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-theo-von-t-01-30-41" style="--pulse-height:9%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-theo-von-t-00-00-42" style="--pulse-height:45%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 5 mentions" title="2026-03-17 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-theo-von-t-00-02-27" style="--pulse-height:9%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-theo-von-t-00-52-31" style="--pulse-height:27%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#t-00-16-31" style="--pulse-height:64%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 7 mentions" title="2026-05-04 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-theo-von-t-01-03-15" style="--pulse-height:18%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-person-theo-von-t-00-37-43" style="--pulse-height:100%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 11 mentions" title="2026-05-20 · 11 mentions"><span></span></a>
 </div>
@@ -51,11 +54,14 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 |---|---|---:|
 | 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-person-theo-von-t-00-46-32) | 3 |
 | 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-person-theo-von-t-00-36-19) | 3 |
+| 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#t-00-23-32) | 3 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#t-01-14-29) | 1 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-theo-von-t-01-01-12) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-theo-von-t-01-30-41) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-theo-von-t-00-00-42) | 5 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-theo-von-t-00-02-27) | 1 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-theo-von-t-00-52-31) | 3 |
+| 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#t-00-16-31) | 7 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-theo-von-t-01-03-15) | 2 |
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-person-theo-von-t-00-37-43) | 11 |
 
@@ -65,7 +71,7 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+<summary><strong class="section-title">Raw mentions (41)</strong></summary>
 
 <details>
 <summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (11 mentions)</summary>
@@ -117,6 +123,32 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 </details>
 
 <details>
+<summary>Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 (7 mentions)</summary>
+
+**[00:16:31](/episodes/ep-uC_GjKU8rs8.md#t-00-16-31)**
+> "So here's the thing. Theo Vaughn is a low IQ conspiracist. He has himself routinel..."
+
+**[00:16:39](/episodes/ep-uC_GjKU8rs8.md#t-00-16-31)**
+> "Theo Vaughn is basically just a Bernie Sanders leftist who do..."
+
+**[00:18:10](/episodes/ep-uC_GjKU8rs8.md#t-00-18-10)**
+> "...s just not normal to go after Theo Vaughn everybody loves Theo Vaughn he's just a person th..."
+
+**[00:27:26](/episodes/ep-uC_GjKU8rs8.md#t-00-27-26)**
+> "... for listening and supporting Theo Vaughn."
+
+**[00:46:33](/episodes/ep-uC_GjKU8rs8.md#t-00-46-33)**
+> "...t's happening in Gaza and say Theo Vaughn is bad for recognizing that and having a heart an..."
+
+**[00:52:19](/episodes/ep-uC_GjKU8rs8.md#t-00-52-19)**
+> "...e cat for candace in honor of theo using his god-given platform for truth and purpos..."
+
+**[00:52:46](/episodes/ep-uC_GjKU8rs8.md#t-00-52-19)**
+> "He is like, to be around Theo Vaughn, I am telling you, there is a light that emanates..."
+
+</details>
+
+<details>
 <summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (3 mentions)</summary>
 
 **[00:52:31](/episodes/ep-1mYNOqzAdXs.md#ent-person-theo-von-t-00-52-31)**
@@ -127,6 +159,14 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 
 **[00:54:03](/episodes/ep-1mYNOqzAdXs.md#ent-person-theo-von-t-00-53-47)**
 > "... they're like taking shots at Theo Von, which is just dumb, like objectively on its face..."
+
+</details>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>
+
+**[00:02:38](/episodes/ep-eLgD5yUVbko.md#ent-person-theo-von-t-00-02-27)**
+> "We're going to this outdoor market. We're going to meet up with Theo Von. My kids love Theo Von."
 
 </details>
 
@@ -171,6 +211,20 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 
 **[01:14:29](/episodes/ep-9naMwS0kMBE.md#t-01-14-29)**
 > "which is amazing it's just gonna be me you and Theo Vaughn"
+
+</details>
+
+<details>
+<summary>UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278 (3 mentions)</summary>
+
+**[00:23:45](/episodes/ep-6DhWawD4ZiM.md#t-00-23-32)**
+> "He joined Theo (Theo Vaughn) and here is what he had to say, take a listen."
+
+**[00:29:30](/episodes/ep-6DhWawD4ZiM.md#t-00-29-16)**
+> "He joined Theo (Theo Vaughn) and here is what he had to say"
+
+**[00:30:30](/episodes/ep-6DhWawD4ZiM.md#t-00-29-58)**
+> "Theo (Theo Vaughn), we are in this garden, okay?"
 
 </details>
 
@@ -223,9 +277,22 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 <summary>Criticized By (1)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:52:31](/episodes/ep-1mYNOqzAdXs.md#t-00-52-31): “i mean this is the guy that sits down with Bibi (Benjamin Netanyahu) and then tells us that Theo Von is a threat to civilization”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:16:31](/episodes/ep-uC_GjKU8rs8.md#t-00-16-31): “So here's the thing. Theo Vaughn is a low IQ conspiracist. He has himself routinely propped up Candace Owens, is lending credence to her insanity.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Defended By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:52:46](/episodes/ep-uC_GjKU8rs8.md#t-00-52-19): “He is like, to be around Theo Vaughn, I am telling you, there is a light that emanates from him.”
 
 </details>
 
@@ -235,8 +302,9 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 <summary>Friend Of (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:16:39](/episodes/ep-uC_GjKU8rs8.md#t-00-16-31): “Theo Vaughn is basically just a Bernie Sanders leftist who does not like the censorious impulses of the left and engages in all the same conspiracy theories and, of course, is good friends with Candace Owens and all the rest of it.”
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:38:22](/episodes/ep-cPidFQDJLbo.md#t-00-37-43): “I obviously like Joe Rogan. I am friends with Theo Von. He's literally one of the best people that I know.”
 
 </details>
@@ -251,18 +319,27 @@ Source: [About | Theo Von](https://www.theovon.com/about)
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (5)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 @ 00:52:31](/episodes/ep-1mYNOqzAdXs.md#t-00-52-31): “i mean this is the guy that sits down with Bibi (Benjamin Netanyahu) and then tells us that Theo Von is a threat to civilization”
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:16:31](/episodes/ep-uC_GjKU8rs8.md#t-00-16-31): “So here's the thing. Theo Vaughn is a low IQ conspiracist. He has himself routinely propped up Candace Owens, is lending credence to her insanity.”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** defended this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:52:46](/episodes/ep-uC_GjKU8rs8.md#t-00-52-19): “He is like, to be around Theo Vaughn, I am telling you, there is a light that emanates from him.”
 
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** friend of this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
+- [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:16:39](/episodes/ep-uC_GjKU8rs8.md#t-00-16-31): “Theo Vaughn is basically just a Bernie Sanders leftist who does not like the censorious impulses of the left and engages in all the same conspiracy theories and, of course, is good friends with Candace Owens and all the rest of it.”
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:38:22](/episodes/ep-cPidFQDJLbo.md#t-00-37-43): “I obviously like Joe Rogan. I am friends with Theo Von. He's literally one of the best people that I know.”
 
 </details>

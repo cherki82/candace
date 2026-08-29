@@ -1,17 +1,30 @@
 ---
 title: "University of Mississippi"
-description: "University of Mississippi (Organizations) - 2 mentions"
+description: "University of Mississippi (Organizations) - 3 mentions"
 id: "org-university-of-mississippi"
 type: "ORG"
+aliases:
+  - "Ole Miss"
+categories:
+  - "higher education"
+  - "Mississippi"
 ---
 
 _Type: Organizations_
 
+**Also known as:** Ole Miss
+
+**Categories:** higher education, Mississippi
+
+**Entity verification:** verified
+> The university’s official site confirms University of Mississippi as the canonical institutional name and Ole Miss as its established synonymous name.
+Source: [Campus Culture and Traditions | Ole Miss](https://olemiss.edu/who-we-are/campus-culture-and-traditions/)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-university-of-mississippi-t-00-06-26">2025-11-06 · 00:06:55</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-university-of-mississippi-t-00-14-49">2025-11-06 · 00:15:23</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-AoYZel7_cGQ.md#ent-org-university-of-mississippi-t-00-23-27">2026-07-30 · 00:24:01</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -23,12 +36,14 @@ _Type: Organizations_
 <p>Highest activity: <a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-university-of-mississippi-t-00-06-26">#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-university-of-mississippi-t-00-06-26" style="--pulse-height:100%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 2 mentions" title="2025-11-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-org-university-of-mississippi-t-00-23-27" style="--pulse-height:50%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 1 mentions" title="2026-07-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-org-university-of-mississippi-t-00-06-26) | 2 |
+| 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-org-university-of-mississippi-t-00-23-27) | 1 |
 
 </details>
 </section>
@@ -36,7 +51,15 @@ _Type: Organizations_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (1 mentions)</summary>
+
+**[00:24:01](/episodes/ep-AoYZel7_cGQ.md#ent-org-university-of-mississippi-t-00-23-27)**
+> "...eatured the vice president at Ole Miss on October 29th."
+
+</details>
 
 <details>
 <summary>#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260 (2 mentions)</summary>

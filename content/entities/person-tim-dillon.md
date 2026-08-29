@@ -23,7 +23,7 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 <div><span>Mentions</span><strong>55</strong></div>
 <div><span>Statements by</span><strong>6</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -255,13 +255,13 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 **[00:04:39](/episodes/ep-OEAHy3SsIiI.md#ent-person-tim-dillon-t-00-04-13)**
 > "...ind you, you should be mad at Tim Dillon and not at me."
 
-**[00:07:41](/episodes/ep-OEAHy3SsIiI.md#ent-person-tim-dillon-t-00-07-38)**
+**[00:07:38](/episodes/ep-OEAHy3SsIiI.md#ent-person-tim-dillon-t-00-07-38)**
 > "...t take. And you can be mad at Tim Dillon. You can be mad at me for playing Tim Dillon on t..."
 
 **[00:13:34](/episodes/ep-OEAHy3SsIiI.md#ent-person-tim-dillon-t-00-13-34)**
 > "...at's happening right now, and Tim Dillon is about to explain this, and I have a lot of Tim..."
 
-**[00:13:59](/episodes/ep-OEAHy3SsIiI.md#ent-person-tim-dillon-t-00-13-34)**
+**[00:13:58](/episodes/ep-OEAHy3SsIiI.md#ent-person-tim-dillon-t-00-13-34)**
 > "...ke RFK sexting, which is what Tim Dillon's about to describe,"
 
 **[00:14:15](/episodes/ep-OEAHy3SsIiI.md#ent-person-tim-dillon-t-00-13-34)**
@@ -270,7 +270,7 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 **[00:21:09](/episodes/ep-OEAHy3SsIiI.md#ent-person-tim-dillon-t-00-21-09)**
 > "... dark comedic brilliance from Tim Dillon,"
 
-**[00:21:24](/episodes/ep-OEAHy3SsIiI.md#ent-person-tim-dillon-t-00-21-09)**
+**[00:21:23](/episodes/ep-OEAHy3SsIiI.md#ent-person-tim-dillon-t-00-21-09)**
 > "essentially Tim (Tim Dillon) is discussing how our modern world and culture w..."
 
 </details>
@@ -359,7 +359,7 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 </details>
 
 <details>
-<summary>Criticized (1)</summary>
+<summary>Criticized (2)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -368,10 +368,17 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 
 </details>
 
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:01](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “It's absolutely hell. And Erika Kirk, God bless, tragic, and I'm sorry for what happened, but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -384,6 +391,13 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:04:48](/episodes/ep-OEAHy3SsIiI.md#t-00-04-13): “This turning point kind of abomination that the right wing of this country has turned into like a bad reality show.”
+
+</details>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:01](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01): “It's absolutely hell. And Erika Kirk, God bless, tragic, and I'm sorry for what happened, but nobody knows why she's out there in a glittering pantsuit in a recreated tent that her husband tragically was murdered in throwing merch out.”
 
 </details>
 
@@ -416,10 +430,10 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (2)</summary>
 
-- [00:07:03](/episodes/ep-OEAHy3SsIiI.md#t-00-06-50) [○] (Opinion) ["Turning Point USA's AmericaFest was a coordinated and choreographed spectacle de..."](/statements/statement-15a77f5932c6.md)
+- [00:07:03](/episodes/ep-OEAHy3SsIiI.md#t-00-06-32) [○] (Opinion) ["Tim Dillon said Turning Point USA's AmericaFest felt like a coordinated and chor..."](/statements/statement-15a77f5932c6.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:07:32](/episodes/ep-OEAHy3SsIiI.md#t-00-06-50) [○] (Accusation) ["Turning Point USA wants the audience's money and wants to be associated with cel..."](/statements/statement-453f89695768.md)
+- [00:07:32](/episodes/ep-OEAHy3SsIiI.md#t-00-07-17) [○] (Accusation) ["Turning Point USA wants the audience's money and wants to be associated with cel..."](/statements/statement-453f89695768.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>

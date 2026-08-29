@@ -1,6 +1,6 @@
 ---
 title: "Delaware"
-description: "Delaware (Places) - 92 mentions"
+description: "Delaware (Places) - 94 mentions"
 id: "gpe-delaware"
 type: "GPE"
 aliases:
@@ -21,9 +21,9 @@ Source: [State of Delaware official website](https://delaware.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#t-00-15-42">2025-10-30 · 00:16:16</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-delaware-t-00-16-54">2026-07-22 · 00:17:19</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>92</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-gpe-delaware-t-00-23-47">2026-08-19 · 00:23:47</a></strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>94</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -45,13 +45,14 @@ Source: [State of Delaware official website](https://delaware.gov/)
 <a href="/episodes/ep-his-JBjlkh8.md#ent-gpe-delaware-t-00-49-40" style="--pulse-height:8%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-delaware-t-00-13-44" style="--pulse-height:13%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 3 mentions" title="2025-12-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-6DhWawD4ZiM.md#t-00-35-31" style="--pulse-height:13%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 3 mentions" title="2025-12-10 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-delaware-t-00-55-14" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-delaware-t-00-55-03" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-delaware-t-00-46-57" style="--pulse-height:9%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-gpe-delaware-t-00-20-05" style="--pulse-height:8%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#t-00-20-39" style="--pulse-height:8%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-delaware-t-00-11-13" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-gpe-delaware-t-00-36-29" style="--pulse-height:9%" aria-label="Candace x Hunter Biden: The Interview: 2 mentions" title="2026-05-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-delaware-t-00-16-54" style="--pulse-height:8%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-gpe-delaware-t-00-23-05" style="--pulse-height:9%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,13 +69,14 @@ Source: [State of Delaware official website](https://delaware.gov/)
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-gpe-delaware-t-00-49-40) | 1 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-delaware-t-00-13-44) | 3 |
 | 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#t-00-35-31) | 3 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-delaware-t-00-55-14) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-delaware-t-00-55-03) | 1 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-delaware-t-00-46-57) | 2 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-delaware-t-00-20-05) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#t-00-20-39) | 1 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-gpe-delaware-t-00-11-13) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-delaware-t-00-36-29) | 2 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-gpe-delaware-t-00-16-54) | 1 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-gpe-delaware-t-00-23-05) | 2 |
 
 </details>
 </section>
@@ -82,7 +84,18 @@ Source: [State of Delaware official website](https://delaware.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (92)</strong></summary>
+<summary><strong class="section-title">Raw mentions (94)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (2 mentions)</summary>
+
+**[00:23:41](/episodes/ep-9hRcfSrri70.md#ent-gpe-delaware-t-00-23-05)**
+> "... even talking about? She's in Delaware. I'm in Tennessee."
+
+**[00:23:47](/episodes/ep-9hRcfSrri70.md#ent-gpe-delaware-t-00-23-47)**
+> "...France, but she's shopping in Delaware, but I'm in Tennessee. That is what it means. You..."
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
@@ -141,7 +154,7 @@ Source: [State of Delaware official website](https://delaware.gov/)
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
 
-**[00:55:40](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-delaware-t-00-55-14)**
+**[00:55:40](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-delaware-t-00-55-03)**
 > "...pertaining to this lawsuit in Delaware."
 
 </details>

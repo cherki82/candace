@@ -16,20 +16,12 @@ date: "2025-09-09"
 ### 1. You Won't Believe What Happened While We Were Off Air... | C...
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
-**Timestamp:** [00:38:35](/episodes/ep-OEAHy3SsIiI.md#event-event-2025-09-09-mitch-snow-alleged-that-he-saw-brian-har-t-00-38-27) 
+**Timestamp:** [00:38:35](/episodes/ep-OEAHy3SsIiI.md#event-event-2025-09-09-mitch-snow-alleged-that-he-saw-brian-har-t-00-38-26) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2315);return false;">▶️ Play</a>
 
 > And he's basically 100% certain he saw Brian Harpole at this top brass meeting.
 
-### 2. BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/1...
-
-**Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
-**Timestamp:** [00:16:07](/episodes/ep-HYn0P-P1wUw.md#t-00-15-58) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(967);return false;">▶️ Play</a>
-
-> We broke the story about Fort Huachuca, and we're not done with that. We presented the military police report back that up with evidence that Mitch was telling the truth about what happened on September 9th.
-
-### 3. VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Ca...
+### 2. VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Ca...
 
 **Episode:** [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md)
 **Timestamp:** [00:32:57](/episodes/ep-DEtFh2Ff-58.md#event-event-2025-09-09-mitch-snow-alleged-that-he-saw-brian-har-t-00-32-41) 
@@ -37,7 +29,7 @@ date: "2025-09-09"
 
 > he saw Brian Harpole at Fort Huachuca. He felt he had almost certainly seen Brian Harpole
 
-### 4. BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331
+### 3. BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331
 
 **Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
 **Timestamp:** [01:12:28](/episodes/ep-69A8TzAGHlU.md#t-01-12-28) 
@@ -45,7 +37,7 @@ date: "2025-09-09"
 
 > Mitch says the meeting concluded at 730 a.m.
 
-### 5. Update! Erika Did Not Go Home. Source Confirms AI Voice Tact...
+### 4. Update! Erika Did Not Go Home. Source Confirms AI Voice Tact...
 
 **Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
 **Timestamp:** [00:46:27](/episodes/ep-KpxIBWkNsSs.md#event-event-2025-09-09-mitch-snow-alleged-that-he-saw-brian-har-t-00-46-01) 
@@ -53,10 +45,18 @@ date: "2025-09-09"
 
 > Brian Harpole he saw on the 9th and he was leaving the meeting on Fort Huachuca base
 
-### 6. The Whistleblower: Did Epstein’s Network Reemerge In Charlie...
+### 5. The Whistleblower: Did Epstein’s Network Reemerge In Charlie...
 
 **Episode:** [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md)
 **Timestamp:** [00:09:40](/episodes/ep-3QJqtW_NOSI.md#event-event-2025-09-09-mitch-snow-alleged-that-he-saw-brian-har-t-00-09-33) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(580);return false;">▶️ Play</a>
 
 > the meeting in which Mitch Snow believes that he saw Brian Harpole. Okay. Maybe, maybe he didn't.
+
+### 6. BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/1...
+
+**Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
+**Timestamp:** [00:16:07](/episodes/ep-HYn0P-P1wUw.md#t-00-16-07) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(967);return false;">▶️ Play</a>
+
+> evidence that Mitch was telling the truth about what happened on September 9th.

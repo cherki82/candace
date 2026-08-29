@@ -1,6 +1,6 @@
 ---
 title: "Stephen \"tWitch\" Boss"
-description: "Stephen \"tWitch\" Boss (People) - 8 mentions"
+description: "Stephen \"tWitch\" Boss (People) - 9 mentions"
 id: "person-stephen-twitch-boss"
 type: "PERSON"
 aliases:
@@ -18,18 +18,20 @@ _Type: People_
 
 **Categories:** dance, television, The Ellen DeGeneres Show
 
+> **Possibly overlapping entity records:** [Twitch](/entities/org-twitch). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > CBS News identifies Stephen “tWitch” Boss as the Ellen DJ and co-executive producer discussed in the transcript.
 Source: [CBS News — Stephen “tWitch” Boss family interview](https://www.cbsnews.com/news/stephen-twitch-boss-family-allison-holkers-memoir/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-person-stephen-twitch-boss-t-00-38-55">2026-07-23 · 00:39:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-person-stephen-twitch-boss-t-00-46-45">2026-07-23 · 00:46:45</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HZvwbfePe7o.md#ent-person-stephen-twitch-boss-t-00-41-10">2026-07-27 · 00:41:18</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>8</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -38,12 +40,14 @@ Source: [CBS News — Stephen “tWitch” Boss family interview](https://www.cb
 <p>Highest activity: <a href="/episodes/ep-amqTMimDr0A.md#ent-person-stephen-twitch-boss-t-00-38-55">EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-amqTMimDr0A.md#ent-person-stephen-twitch-boss-t-00-38-55" style="--pulse-height:100%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 8 mentions" title="2026-07-23 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-person-stephen-twitch-boss-t-00-41-10" style="--pulse-height:12%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-stephen-twitch-boss-t-00-38-55) | 8 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-person-stephen-twitch-boss-t-00-41-10) | 1 |
 
 </details>
 </section>
@@ -51,7 +55,15 @@ Source: [CBS News — Stephen “tWitch” Boss family interview](https://www.cb
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (1 mentions)</summary>
+
+**[00:41:18](/episodes/ep-HZvwbfePe7o.md#ent-person-stephen-twitch-boss-t-00-41-10)**
+> "They are just fighting me for trying to investigate this. But I am in a different place now, and I feel stronger. I want you guys to know that I am ready for this. Just bring it on. We are at Matrix installment two—The Matrix Reloaded. I am ready for these games from these mockingbirds. Okay, Sophia (commenter; surname unverified) writes, “Forcing someone to sign an NDA to attend their own son’s funeral is the most diabolical thing that I have ever heard.” She is referring to tWitch (Stephen "tWitch" Boss)’s wife. I got so many emails about that."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (8 mentions)</summary>
@@ -86,6 +98,18 @@ Source: [CBS News — Stephen “tWitch” Boss family interview](https://www.cb
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
+
+<details>
+<summary>Authored (1)</summary>
+
+- **[Keep Dancing Through](/entities/work-keep-dancing-through.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:46:20](/episodes/ep-amqTMimDr0A.md#t-00-46-02): “she also released a children's book that she said that she co-authored with Twitch (Stephen "tWitch" Boss) just before he died, and that was called Keep Dancing Through, Boss Family Groove.”
+
+</details>
+
+</details>
 
 <details>
 <summary>Child Of (1)</summary>
@@ -124,7 +148,14 @@ Source: [CBS News — Stephen “tWitch” Boss family interview](https://www.cb
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
+
+- **[Keep Dancing Through](/entities/work-keep-dancing-through.md)** authored by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:46:20](/episodes/ep-amqTMimDr0A.md#t-00-46-02): “she also released a children's book that she said that she co-authored with Twitch (Stephen "tWitch" Boss) just before he died, and that was called Keep Dancing Through, Boss Family Groove.”
+
+</details>
 
 - **[The Ellen DeGeneres Show](/entities/work-the-ellen-degeneres-show.md)** formerly employed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>

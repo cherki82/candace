@@ -3,9 +3,17 @@ title: "National Gendarmerie Intervention Group"
 description: "National Gendarmerie Intervention Group (Organizations) - 2 mentions"
 id: "org-national-gendarmerie-intervention-group"
 type: "ORG"
+categories:
+  - "French tactical police unit"
 ---
 
 _Type: Organizations_
+
+**Categories:** French tactical police unit
+
+**Entity verification:** verified
+> Canonical name and identity for National Gendarmerie Intervention Group confirmed by the cited direct external source.
+Source: [GIGN](https://en.wikipedia.org/wiki/GIGN)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-national-gendarmerie-intervention-group-t-00-03-07">2025-12-01 · 00:03:25</a></strong></div>

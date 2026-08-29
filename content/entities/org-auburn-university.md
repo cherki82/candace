@@ -3,9 +3,17 @@ title: "Auburn University"
 description: "Auburn University (Organizations) - 1 mention"
 id: "org-auburn-university"
 type: "ORG"
+categories:
+  - "university"
 ---
 
 _Type: Organizations_
+
+**Categories:** university
+
+**Entity verification:** verified
+> Canonical name and identity for Auburn University confirmed by the cited direct external source.
+Source: [About Auburn University](https://www.auburn.edu/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-r1PS67aRmcA.md#ent-org-auburn-university-t-00-39-03">2025-11-08 · 00:39:11</a></strong></div>

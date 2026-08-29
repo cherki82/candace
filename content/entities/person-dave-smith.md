@@ -1,6 +1,6 @@
 ---
 title: "Dave Smith"
-description: "Dave Smith (People) - 33 mentions"
+description: "Dave Smith (People) - 35 mentions"
 id: "person-dave-smith"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Part of the Problem - About](https://partoftheproblem.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-dave-smith-t-00-11-22">2025-09-15 · 00:11:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-7ERqbYElOfs.md#ent-person-dave-smith-t-00-22-24">2026-03-30 · 00:22:24</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>33</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-dave-smith-t-00-49-04">2026-08-19 · 00:49:04</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -51,6 +51,8 @@ Source: [Part of the Problem - About](https://partoftheproblem.com/about)
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-dave-smith-t-00-13-18" style="--pulse-height:29%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-person-dave-smith-t-00-58-48" style="--pulse-height:29%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 2 mentions" title="2026-03-24 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-dave-smith-t-00-22-24" style="--pulse-height:14%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-dave-smith-t-01-27-52" style="--pulse-height:14%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-person-dave-smith-t-00-49-04" style="--pulse-height:14%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -71,6 +73,8 @@ Source: [Part of the Problem - About](https://partoftheproblem.com/about)
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-dave-smith-t-00-13-18) | 2 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-person-dave-smith-t-00-58-48) | 2 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-dave-smith-t-00-22-24) | 1 |
+| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-person-dave-smith-t-01-27-52) | 1 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-dave-smith-t-00-49-04) | 1 |
 
 </details>
 </section>
@@ -78,7 +82,23 @@ Source: [Part of the Problem - About](https://partoftheproblem.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
+
+**[00:49:04](/episodes/ep-9hRcfSrri70.md#ent-person-dave-smith-t-00-49-04)**
+> "... did um dave's show yesterday dave smith's show and a lot of people keep saying this like he..."
+
+</details>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1 mentions)</summary>
+
+**[01:27:56](/episodes/ep-E7P2ShoYDUA.md#ent-person-dave-smith-t-01-27-52)**
+> "I think I have, I'm doing Dave Smith's show, right?"
+
+</details>
 
 <details>
 <summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1 mentions)</summary>

@@ -30,7 +30,7 @@ type: "factual_claim"
 **Timestamp:** [00:05:02](/episodes/ep-es7PWdFGoFI.md#t-00-04-52) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(302);return false;">Play</a>
 
-> by no means did Erika give any person the authority to go out and say that the false something was a lie
+> And by no means did Erika (Erika Kirk) give any person the authority to go out and say that the false something was a lie.
 
 ## Verification
 

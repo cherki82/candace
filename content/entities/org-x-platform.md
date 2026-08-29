@@ -1,6 +1,6 @@
 ---
 title: "X"
-description: "X (Organizations) - 30 mentions"
+description: "X (Organizations) - 34 mentions"
 id: "org-x-platform"
 type: "ORG"
 aliases:
@@ -22,10 +22,10 @@ _Type: Organizations_
 Source: [About X — X Corp.](https://about.x.com/en)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#t-00-20-03">2026-01-06 · 00:20:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-x-platform-t-04-01-26">2026-08-14 · 04:02:03</a></strong></div>
-<div><span>Episodes</span><strong>18</strong></div>
-<div><span>Mentions</span><strong>30</strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#t-00-19-58">2026-01-06 · 00:20:25</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-x-platform-t-00-24-49">2026-08-17 · 00:24:49</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>34</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,7 +36,7 @@ Source: [About X — X Corp.](https://about.x.com/en)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-x-platform-t-01-01-06">Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-HYn0P-P1wUw.md#t-00-20-03" style="--pulse-height:20%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#t-00-19-58" style="--pulse-height:20%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-x-platform-t-00-43-14" style="--pulse-height:20%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-org-x-platform-t-00-08-18" style="--pulse-height:80%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#t-00-58-15" style="--pulse-height:20%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
@@ -53,13 +53,15 @@ Source: [About X — X Corp.](https://about.x.com/en)
 <a href="/episodes/ep-WoXd4oLwd3w.md#t-00-00-00" style="--pulse-height:20%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-x-platform-t-00-00-00" style="--pulse-height:40%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 2 mentions" title="2026-06-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#t-00-38-45" style="--pulse-height:20%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#t-00-00-01" style="--pulse-height:40%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 2 mentions" title="2026-08-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-x-platform-t-01-01-06" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 5 mentions" title="2026-08-14 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-x-platform-t-00-24-49" style="--pulse-height:40%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 2 mentions" title="2026-08-17 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#t-00-20-03) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#t-00-19-58) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-x-platform-t-00-43-14) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-org-x-platform-t-00-08-18) | 4 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#t-00-58-15) | 1 |
@@ -76,7 +78,9 @@ Source: [About X — X Corp.](https://about.x.com/en)
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#t-00-00-00) | 1 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-org-x-platform-t-00-00-00) | 2 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#t-00-38-45) | 1 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#t-00-00-01) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-x-platform-t-01-01-06) | 5 |
+| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-org-x-platform-t-00-24-49) | 2 |
 
 </details>
 </section>
@@ -84,7 +88,18 @@ Source: [About X — X Corp.](https://about.x.com/en)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+<summary><strong class="section-title">Raw mentions (34)</strong></summary>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (2 mentions)</summary>
+
+**[00:03:10](/episodes/ep-E7P2ShoYDUA.md#ent-org-x-platform-t-00-24-49)**
+> "Andrew Wilson demanded that I publicly negotiate the terms of the agreement on X."
+
+**[00:24:49](/episodes/ep-E7P2ShoYDUA.md#ent-org-x-platform-t-00-24-49)**
+> "You listed on your own Twitter that what you found to be convincing was somethin..."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (5 mentions)</summary>
@@ -103,6 +118,17 @@ Source: [About X — X Corp.](https://about.x.com/en)
 
 **[04:02:03](/episodes/ep-nPhCKwJ6ye8.md#ent-org-x-platform-t-04-01-26)**
 > "... every single day trending on Twitter."
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (2 mentions)</summary>
+
+**[00:00:08](/episodes/ep-1CFDtD0IgEg.md#t-00-00-01)**
+> "Frank Turek is actually going viral right now, trending on X"
+
+**[00:13:48](/episodes/ep-1CFDtD0IgEg.md#t-00-13-22)**
+> "Blake Neff comes at us like this on X."
 
 </details>
 
@@ -258,7 +284,7 @@ Source: [About X — X Corp.](https://about.x.com/en)
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
 
-**[00:20:25](/episodes/ep-HYn0P-P1wUw.md#t-00-20-03)**
+**[00:20:25](/episodes/ep-HYn0P-P1wUw.md#t-00-19-58)**
 > "Then Mark Amodei came out and he had dropped a YouTube video of a live stream of him on a committee and then X came back and said he actually missed the first two roll calls."
 
 </details>

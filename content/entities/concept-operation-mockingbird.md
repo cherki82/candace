@@ -1,6 +1,6 @@
 ---
 title: "Operation Mockingbird"
-description: "Operation Mockingbird (Concepts) - 16 mentions"
+description: "Operation Mockingbird (Concepts) - 18 mentions"
 id: "concept-operation-mockingbird"
 type: "CONCEPT"
 aliases:
@@ -22,11 +22,11 @@ Source: [CIA FOIA Case Logs referencing Operation Mockingbird](https://www.cia.g
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-concept-operation-mockingbird-t-00-11-44">2025-09-18 · 00:12:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-operation-mockingbird-t-01-01-34">2026-06-26 · 01:01:34</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#ent-concept-operation-mockingbird-t-00-52-32">2026-07-29 · 00:53:00</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -44,6 +44,7 @@ Source: [CIA FOIA Case Logs referencing Operation Mockingbird](https://www.cia.g
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-concept-operation-mockingbird-t-00-36-06" style="--pulse-height:20%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-concept-operation-mockingbird-t-00-02-24" style="--pulse-height:20%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-operation-mockingbird-t-01-01-34" style="--pulse-height:20%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-concept-operation-mockingbird-t-00-52-32" style="--pulse-height:40%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 2 mentions" title="2026-07-29 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +59,7 @@ Source: [CIA FOIA Case Logs referencing Operation Mockingbird](https://www.cia.g
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-concept-operation-mockingbird-t-00-36-06) | 1 |
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-operation-mockingbird-t-00-02-24) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-concept-operation-mockingbird-t-01-01-34) | 1 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-concept-operation-mockingbird-t-00-52-32) | 2 |
 
 </details>
 </section>
@@ -65,7 +67,18 @@ Source: [CIA FOIA Case Logs referencing Operation Mockingbird](https://www.cia.g
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (2 mentions)</summary>
+
+**[00:52:32](/episodes/ep-Vu6Y24pqhZs.md#ent-concept-operation-mockingbird-t-00-52-32)**
+> "in particular so anyways but what do i know what do i know we're just um you know on the internet dreaming or whatever i think i got all i got all of these messages um nope ali writes jfk was murdered over 60 years ago and there are still so many unanswered questions so why are they so mad at people for asking questions and speculating about the possibilities by their logic you needed hard evidence to question jfk narrative six years ago yes of course that's why they launched operation mockingbird then and why they launched it again this time"
+
+**[00:53:00](/episodes/ep-Vu6Y24pqhZs.md#ent-concept-operation-mockingbird-t-00-52-32)**
+> "...these influencers are. That's Operation Mockingbird. You can't just all say the same word, the same a..."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
@@ -86,7 +99,7 @@ Source: [CIA FOIA Case Logs referencing Operation Mockingbird](https://www.cia.g
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
 
-**[00:36:07](/episodes/ep-OEAHy3SsIiI.md#ent-concept-operation-mockingbird-t-00-36-06)**
+**[00:36:06](/episodes/ep-OEAHy3SsIiI.md#ent-concept-operation-mockingbird-t-00-36-06)**
 > "And I mean, also we have Operation Mockingbird, too,"
 
 </details>
@@ -170,7 +183,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Operation Mockingbird (6)</strong></summary>
+<summary><strong class="section-title">Statements about Operation Mockingbird (7)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1)</summary>
+
+- [00:53:00](/episodes/ep-Vu6Y24pqhZs.md#t-00-52-32) (Accusation) **Candace Owens**: ["Owens accused independent creators using the same language of particip..."](/statements/statement-3393105ee778.md)
+  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
+
+</details>
 
 <details>
 <summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1)</summary>

@@ -31,7 +31,7 @@ veracity: "mixed"
 **Timestamp:** [00:44:50](/episodes/ep-rupRLXmSndU.md#t-00-44-50) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2690);return false;">Play</a>
 
-> I did not realize how quickly turning point like 48 hours later sent out text messages it was like hi I'm Erica and for Charlie's legacy please give
+> I did not realize how quickly turning point like 48 hours later sent out text messages it was like hi I'm Erika (Erika Kirk) and for Charlie (Charlie Kirk)'s legacy please give
 
 ## Verification
 

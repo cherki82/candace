@@ -1,6 +1,6 @@
 ---
-title: "there is definitely something military that happened when Ch..."
-description: "\"there is definitely something military that happened when Charlie got assassinated\" — Candace Owens"
+title: "Candace Owens said she believed that something military happ..."
+description: "\"Candace Owens said she believed that something military happened when Charlie Kirk was assassinated.\" — Candace Owens"
 statement_id: "statement-7271d94f508c"
 speaker: "Candace Owens"
 type: "accusation"
@@ -10,7 +10,7 @@ type: "accusation"
 
 ## Statement
 
-> there is definitely something military that happened when Charlie got assassinated
+> Candace Owens said she believed that something military happened when Charlie Kirk was assassinated.
 
 ## Attribution
 

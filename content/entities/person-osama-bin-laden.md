@@ -1,6 +1,6 @@
 ---
 title: "Osama bin Laden"
-description: "Osama bin Laden (People) - 6 mentions"
+description: "Osama bin Laden (People) - 7 mentions"
 id: "person-osama-bin-laden"
 type: "PERSON"
 aliases:
@@ -24,8 +24,8 @@ Source: [Osama bin Laden | Biography, al-Qaeda, Terrorist Attacks, Death, & Fact
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-person-osama-bin-laden-t-01-01-35">2025-10-06 · 01:01:50</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-osama-bin-laden-t-03-04-28">2026-08-14 · 03:04:28</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -41,6 +41,7 @@ Source: [Osama bin Laden | Biography, al-Qaeda, Terrorist Attacks, Death, & Fact
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-person-osama-bin-laden-t-00-51-11" style="--pulse-height:50%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-person-osama-bin-laden-t-00-03-28" style="--pulse-height:100%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-osama-bin-laden-t-03-04-28" style="--pulse-height:50%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-osama-bin-laden-t-02-23-27" style="--pulse-height:50%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ Source: [Osama bin Laden | Biography, al-Qaeda, Terrorist Attacks, Death, & Fact
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-osama-bin-laden-t-00-51-11) | 1 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-osama-bin-laden-t-00-03-28) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-osama-bin-laden-t-03-04-28) | 1 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-osama-bin-laden-t-02-23-27) | 1 |
 
 </details>
 </section>
@@ -58,13 +60,21 @@ Source: [Osama bin Laden | Biography, al-Qaeda, Terrorist Attacks, Death, & Fact
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[03:04:28](/episodes/ep-nPhCKwJ6ye8.md#ent-person-osama-bin-laden-t-03-04-28)**
 > "...'Neill is the man that killed Osama"
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (1 mentions)</summary>
+
+**[02:23:27](/episodes/ep-aPOyk1i2LOc.md#ent-person-osama-bin-laden-t-02-23-27)**
+> "is the man that killed Osama bin Laden."
 
 </details>
 

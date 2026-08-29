@@ -64,7 +64,7 @@ _No relationships extracted yet._
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (1)</summary>
 
-- [00:18:15](/episodes/ep-Cq7nj9rxPdo.md#t-00-17-56) (Claim) **Candace Owens**: ["Rick Rubin got involved to facilitate meetings between Candace/Charlie..."](/statements/statement-de37231349d4.md)
+- [00:12:27](/episodes/ep-Cq7nj9rxPdo.md#t-00-12-11) (Claim) **Candace Owens**: ["Rick Rubin got involved to facilitate meetings between Candace/Charlie..."](/statements/statement-de37231349d4.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Kanye West](/entities/person-kanye-west.md)
 
 </details>

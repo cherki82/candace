@@ -1,6 +1,6 @@
 ---
 title: "Miss Arizona USA"
-description: "Miss Arizona USA (Organizations) - 13 mentions"
+description: "Miss Arizona USA (Organizations) - 14 mentions"
 id: "org-miss-arizona-usa"
 type: "ORG"
 aliases:
@@ -22,10 +22,10 @@ _Type: Organizations_
 Source: [Miss Arizona USA — Official site](https://missarizonausa.com/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-miss-arizona-usa-t-00-48-23">2026-02-27 · 00:48:23</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-miss-arizona-usa-t-00-28-51">2026-01-06 · 00:29:20</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9CuC1yf8-PU.md#ent-org-miss-arizona-usa-t-00-42-45">2026-06-23 · 00:42:56</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,6 +36,7 @@ Source: [Miss Arizona USA — Official site](https://missarizonausa.com/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-y8lak3CRwDw.md#ent-org-miss-arizona-usa-t-00-24-29">Bride Of Charlie: What Happened In Romania? | Episode 6</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-miss-arizona-usa-t-00-28-51" style="--pulse-height:25%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-miss-arizona-usa-t-00-48-23" style="--pulse-height:25%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-org-miss-arizona-usa-t-00-32-26" style="--pulse-height:25%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-miss-arizona-usa-t-00-15-23" style="--pulse-height:50%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
@@ -49,6 +50,7 @@ Source: [Miss Arizona USA — Official site](https://missarizonausa.com/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-miss-arizona-usa-t-00-28-51) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-miss-arizona-usa-t-00-48-23) | 1 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-org-miss-arizona-usa-t-00-32-26) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-org-miss-arizona-usa-t-00-15-23) | 2 |
@@ -64,7 +66,7 @@ Source: [Miss Arizona USA — Official site](https://missarizonausa.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
 
 <details>
 <summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (2 mentions)</summary>
@@ -142,6 +144,14 @@ Source: [Miss Arizona USA — Official site](https://missarizonausa.com/)
 
 **[00:48:23](/episodes/ep-1IY2oD-_xVA.md#ent-org-miss-arizona-usa-t-00-48-23)**
 > "that was my thing ever since I was five like that was my I wanted to play and that's um that was all I wanted to do I was a gym rat for lack of better term and um I remember getting something in the mail when I had come home from um school one summer and it was like hey you should compete at Miss Arizona USA someone nominated you and I was like I don't know who would nominate me for that but okay Okay."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
+
+**[00:29:20](/episodes/ep-HYn0P-P1wUw.md#ent-org-miss-arizona-usa-t-00-28-51)**
+> "... a call from Miss Erika Kirk. Miss Arizona 2012. I just want to help, she said."
 
 </details>
 

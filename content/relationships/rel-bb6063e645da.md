@@ -1,15 +1,15 @@
 ---
-title: "U.S. Navy employs Roy Edgar McCoy"
-description: "Evidence for the relationship: U.S. Navy employs Roy Edgar McCoy"
+title: "United States Navy employs Roy Edgar McCoy"
+description: "Evidence for the relationship: United States Navy employs Roy Edgar McCoy"
 relationship_id: "rel-bb6063e645da"
-subject: "org-us-navy"
+subject: "org-united-states-navy"
 predicate: "employs"
 object: "person-roy-edgar-mccoy"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [U.S. Navy](/entities/org-us-navy) employs [Roy Edgar McCoy](/entities/person-roy-edgar-mccoy)
+## [United States Navy](/entities/org-united-states-navy) employs [Roy Edgar McCoy](/entities/person-roy-edgar-mccoy)
 
 ### Evidence (1 mentions)
 
@@ -19,5 +19,5 @@ object: "person-roy-edgar-mccoy"
 
 ### Related
 
-- [U.S. Navy](/entities/org-us-navy)
+- [United States Navy](/entities/org-united-states-navy)
 - [Roy Edgar McCoy](/entities/person-roy-edgar-mccoy)

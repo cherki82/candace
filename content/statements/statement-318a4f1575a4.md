@@ -29,7 +29,7 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
-**Timestamp:** [00:46:06](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-06) 
+**Timestamp:** [00:46:06](/episodes/ep-q1NRQQAYS_Q.md#t-00-45-55) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2766);return false;">Play</a>
 
 > They even released a fake, a deep fake video of Jeffrey Epstein in his cell committing suicide. ... They released a fake video. And they got clocked on the fake video and then they removed the fake video and refused to comment on it.

@@ -1,6 +1,6 @@
 ---
 title: "Aspen, Colorado"
-description: "Aspen, Colorado (Places) - 49 mentions"
+description: "Aspen, Colorado (Places) - 51 mentions"
 id: "gpe-aspen-colorado"
 type: "GPE"
 aliases:
@@ -22,11 +22,11 @@ Source: [City of Aspen](https://www.aspen.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-aspen-colorado-t-00-54-01">2026-01-20 · 00:54:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#ent-gpe-aspen-colorado-t-00-32-26">2026-06-22 · 00:33:02</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>49</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-aspen-colorado-t-00-28-38">2026-07-29 · 00:28:46</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>51</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -51,6 +51,8 @@ Source: [City of Aspen](https://www.aspen.gov/)
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-aspen-colorado-t-01-03-16" style="--pulse-height:75%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 6 mentions" title="2026-06-09 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-aspen-colorado-t-00-32-14" style="--pulse-height:25%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-gpe-aspen-colorado-t-00-20-16" style="--pulse-height:25%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 2 mentions" title="2026-06-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-gpe-aspen-colorado-t-00-15-17" style="--pulse-height:12%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-aspen-colorado-t-00-28-38" style="--pulse-height:12%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -72,6 +74,8 @@ Source: [City of Aspen](https://www.aspen.gov/)
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-gpe-aspen-colorado-t-01-03-16) | 6 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-gpe-aspen-colorado-t-00-32-14) | 2 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-aspen-colorado-t-00-20-16) | 2 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-gpe-aspen-colorado-t-00-15-17) | 1 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-aspen-colorado-t-00-28-38) | 1 |
 
 </details>
 </section>
@@ -79,7 +83,23 @@ Source: [City of Aspen](https://www.aspen.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (49)</strong></summary>
+<summary><strong class="section-title">Raw mentions (51)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
+
+**[00:28:46](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-aspen-colorado-t-00-28-38)**
+> "Um, Goldman Sachs, Merrill Lynch, then runs his own—his own shop. And I'm just confused. Like, why would Trump do this? What qualifies him? Well, it's Trump. He likes money, right? So John (John C. Phelan), he's extraordinarily wealthy on top of everything, but also crucially, he helped Trump raise a ton of money ahead of his second term by hosting this private fundraiser for Trump in Aspen, which featured billionaire guests like Steve Wynn in attendance, and they all sort of cut Trump these big checks."
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (1 mentions)</summary>
+
+**[00:15:17](/episodes/ep-HZvwbfePe7o.md#ent-gpe-aspen-colorado-t-00-15-17)**
+> "on stage in Aspen"
+
+</details>
 
 <details>
 <summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (2 mentions)</summary>
@@ -247,7 +267,7 @@ Source: [City of Aspen](https://www.aspen.gov/)
 > "...ors who were in attendance in Aspen are telling me that Charlie never said this. Not ..."
 
 **[00:15:28](/episodes/ep-eLgD5yUVbko.md#ent-gpe-aspen-colorado-t-00-15-12)**
-> "Apparently, Erica was up in Aspen, but was not at this exact presentation when the ..."
+> "Apparently, Erika was up in Aspen, but was not at this exact presentation when the questions were asked."
 
 **[00:15:53](/episodes/ep-eLgD5yUVbko.md#ent-gpe-aspen-colorado-t-00-15-53)**
 > "...g. This did not happen at the Aspen events. It would be very easy for them to drop th..."
@@ -258,13 +278,13 @@ Source: [City of Aspen](https://www.aspen.gov/)
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (3 mentions)</summary>
 
 **[00:10:25](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-aspen-colorado-t-00-10-21)**
-> "took place ... in Aspen."
+> "...om August 15th to the 17th in Aspen. So this was a mere three weeks before."
 
 **[00:16:44](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-aspen-colorado-t-00-16-28)**
 > "...se the video that you shot in Aspen of him naming her as his successor a couple of we..."
 
 **[00:21:12](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-aspen-colorado-t-00-21-12)**
-> "...ith charlie including ones in aspen never heard this question ever"
+> "...arlie Kirk) including ones in aspen never heard this question ever"
 
 </details>
 
@@ -318,7 +338,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Aspen, Colorado (6)</strong></summary>
+<summary><strong class="section-title">Statements about Aspen, Colorado (7)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1)</summary>
+
+- [00:28:46](/episodes/ep-Vu6Y24pqhZs.md#t-00-28-38) (Claim) **Candace Owens**: ["Owens said John C. Phelan hosted a private Aspen fundraiser that raise..."](/statements/statement-5ddae29f0aad.md)
+  - Also about: [John C. Phelan](/entities/person-john-c-phelan.md), [Donald J. Trump](/entities/person-donald-trump.md), [Steve Wynn](/entities/person-steve-wynn.md)
+
+</details>
 
 <details>
 <summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1)</summary>

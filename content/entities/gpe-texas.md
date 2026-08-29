@@ -1,6 +1,6 @@
 ---
 title: "Texas"
-description: "Texas (Places) - 104 mentions"
+description: "Texas (Places) - 110 mentions"
 id: "gpe-texas"
 type: "GPE"
 categories:
@@ -17,11 +17,11 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-texas-t-00-37-12">2025-10-09 · 00:37:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-texas-t-00-43-12">2026-06-18 · 00:43:12</a></strong></div>
-<div><span>Episodes</span><strong>28</strong></div>
-<div><span>Mentions</span><strong>104</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-gpe-texas-t-00-06-02">2026-08-17 · 00:06:02</a></strong></div>
+<div><span>Episodes</span><strong>31</strong></div>
+<div><span>Mentions</span><strong>110</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -58,6 +58,9 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-texas-t-00-12-35" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-gpe-texas-t-00-43-32" style="--pulse-height:8%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-texas-t-00-08-50" style="--pulse-height:12%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 3 mentions" title="2026-06-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-texas-t-00-29-14" style="--pulse-height:8%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 2 mentions" title="2026-08-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-gpe-texas-t-00-33-19" style="--pulse-height:8%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 2 mentions" title="2026-08-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-gpe-texas-t-00-05-23" style="--pulse-height:8%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 2 mentions" title="2026-08-17 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -91,6 +94,9 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-texas-t-00-12-35) | 1 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-gpe-texas-t-00-43-32) | 1 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-texas-t-00-08-50) | 3 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-texas-t-00-29-14) | 2 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-gpe-texas-t-00-33-19) | 2 |
+| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-gpe-texas-t-00-05-23) | 2 |
 
 </details>
 </section>
@@ -98,7 +104,40 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (104)</strong></summary>
+<summary><strong class="section-title">Raw mentions (110)</strong></summary>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (2 mentions)</summary>
+
+**[00:05:36](/episodes/ep-E7P2ShoYDUA.md#ent-gpe-texas-t-00-05-23)**
+> "And suddenly we receive an email from the Crucible team. The Crucible team. It's actually saying, never mind, Joe Rogan has now made an offer to host this discussion down in Texas."
+
+**[00:06:02](/episodes/ep-E7P2ShoYDUA.md#ent-gpe-texas-t-00-06-02)**
+> "...hey're asking me to travel to Texas. They offer me a luxury car to accommodate my pre..."
+
+</details>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (2 mentions)</summary>
+
+**[00:33:19](/episodes/ep-HGtMfbePDKk.md#ent-gpe-texas-t-00-33-19)**
+> "...and said he would host out in Texas."
+
+**[00:33:32](/episodes/ep-HGtMfbePDKk.md#ent-gpe-texas-t-00-33-19)**
+> "In Texas, I've already said my one thing is I'm not travel..."
+
+</details>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (2 mentions)</summary>
+
+**[00:29:14](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-texas-t-00-29-14)**
+> "down in Texas"
+
+**[00:41:14](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-texas-t-00-41-14)**
+> "...s gratefully out of office in Texas. No one has has."
+
+</details>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (3 mentions)</summary>
@@ -562,7 +601,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Texas (6)</strong></summary>
+<summary><strong class="section-title">Statements about Texas (7)</strong></summary>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1)</summary>
+
+- [00:33:19](/episodes/ep-HGtMfbePDKk.md#t-00-33-19) (Claim) **Candace Owens**: ["Owens said Joe Rogan offered to host her debate with Andrew Wilson in ..."](/statements/statement-891ae07e6bf2.md)
+  - Also about: [Joe Rogan](/entities/person-joe-rogan.md), [Andrew Wilson](/entities/person-andrew-wilson.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (1)</summary>

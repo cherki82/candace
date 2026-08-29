@@ -21,12 +21,11 @@ type: "accusation"
 ## About
 
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
-- [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md) (org)
 
 ## Source
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
-**Timestamp:** [00:14:53](/episodes/ep-HYn0P-P1wUw.md#t-00-14-33) 
+**Timestamp:** [00:14:53](/episodes/ep-HYn0P-P1wUw.md#t-00-14-14) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(893);return false;">Play</a>
 
 > I also presented to you guys the photos from inside Charlie (Charlie Kirk)'s SUV after assassination. I broke the story that the feds did not impound that vehicle.

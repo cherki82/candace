@@ -3,9 +3,17 @@ title: "Azov Battalion"
 description: "Azov Battalion (Organizations) - 3 mentions"
 id: "org-azov-battalion"
 type: "ORG"
+categories:
+  - "Ukrainian military unit"
 ---
 
 _Type: Organizations_
+
+**Categories:** Ukrainian military unit
+
+**Entity verification:** verified
+> Canonical name and identity for Azov Battalion confirmed by the cited direct external source.
+Source: [Azov Brigade](https://en.wikipedia.org/wiki/Azov_Brigade)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-org-azov-battalion-t-00-18-55">2025-10-01 · 00:18:55</a></strong></div>

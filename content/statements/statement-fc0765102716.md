@@ -24,7 +24,7 @@ type: "factual_claim"
 **Timestamp:** [00:33:07](/episodes/ep-es7PWdFGoFI.md#t-00-32-51) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1987);return false;">Play</a>
 
-> I never said 150 million ever, not once on the show
+> I never said $150 million ever, not once on the show.
 
 ## Verification
 

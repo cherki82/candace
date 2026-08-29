@@ -1,6 +1,6 @@
 ---
 title: "West Bank"
-description: "West Bank (Places) - 10 mentions"
+description: "West Bank (Places) - 11 mentions"
 id: "gpe-west-bank"
 type: "GPE"
 aliases:
@@ -21,9 +21,9 @@ Source: [West Bank](https://en.wikipedia.org/wiki/West_Bank)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-r1PS67aRmcA.md#ent-gpe-west-bank-t-00-39-41">2025-11-08 · 00:40:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-west-bank-t-01-01-38">2026-07-23 · 01:01:38</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-aPOyk1i2LOc.md#ent-gpe-west-bank-t-00-51-56">2026-08-14 · 00:52:10</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -40,6 +40,7 @@ Source: [West Bank](https://en.wikipedia.org/wiki/West_Bank)
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-west-bank-t-01-09-51" style="--pulse-height:25%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-gpe-west-bank-t-00-52-08" style="--pulse-height:25%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-west-bank-t-01-01-38" style="--pulse-height:25%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-gpe-west-bank-t-00-51-56" style="--pulse-height:25%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ Source: [West Bank](https://en.wikipedia.org/wiki/West_Bank)
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-west-bank-t-01-09-51) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-gpe-west-bank-t-00-52-08) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-gpe-west-bank-t-01-01-38) | 1 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-west-bank-t-00-51-56) | 1 |
 
 </details>
 </section>
@@ -58,7 +60,15 @@ Source: [West Bank](https://en.wikipedia.org/wiki/West_Bank)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (1 mentions)</summary>
+
+**[00:52:10](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-west-bank-t-00-51-56)**
+> "One father in the West Bank put it simply. He said, quote, I don't want to le..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>

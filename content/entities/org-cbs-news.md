@@ -26,7 +26,7 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 <div><span>Episodes</span><strong>14</strong></div>
 <div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -40,7 +40,7 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-org-cbs-news-t-00-51-00" style="--pulse-height:33%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-org-cbs-news-t-00-06-08" style="--pulse-height:100%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 3 mentions" title="2025-12-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-cbs-news-t-00-15-33" style="--pulse-height:67%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-cbs-news-t-00-35-55" style="--pulse-height:33%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-cbs-news-t-00-36-08" style="--pulse-height:33%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-cbs-news-t-01-12-16" style="--pulse-height:67%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-cbs-news-t-00-12-12" style="--pulse-height:33%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-cbs-news-t-00-02-31" style="--pulse-height:100%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
@@ -59,7 +59,7 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-org-cbs-news-t-00-51-00) | 1 |
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-org-cbs-news-t-00-06-08) | 3 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-cbs-news-t-00-15-33) | 2 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-cbs-news-t-00-35-55) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-cbs-news-t-00-36-08) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-cbs-news-t-01-12-16) | 2 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-cbs-news-t-00-12-12) | 1 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-cbs-news-t-00-02-31) | 3 |
@@ -156,7 +156,7 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
 
-**[00:36:12](/episodes/ep-HYn0P-P1wUw.md#ent-org-cbs-news-t-00-35-55)**
+**[00:36:12](/episodes/ep-HYn0P-P1wUw.md#ent-org-cbs-news-t-00-36-08)**
 > "...showing you this article from CBS News."
 
 </details>
@@ -164,10 +164,10 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (2 mentions)</summary>
 
-**[00:15:58](/episodes/ep-OEAHy3SsIiI.md#ent-org-cbs-news-t-00-15-33)**
+**[00:15:53](/episodes/ep-OEAHy3SsIiI.md#ent-org-cbs-news-t-00-15-33)**
 > "But actually, the most effed up part about that interview was CBS's decision to bring Hunter Kozak to ask Erika (Erika Kirk) a question."
 
-**[00:16:23](/episodes/ep-OEAHy3SsIiI.md#ent-org-cbs-news-t-00-16-14)**
+**[00:16:21](/episodes/ep-OEAHy3SsIiI.md#ent-org-cbs-news-t-00-16-11)**
 > "... and then a team of people at CBS approve it."
 
 </details>
@@ -281,29 +281,21 @@ Source: [Our publishing principles at CBS News](https://www.cbsnews.com/news/cbs
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1)</summary>
 
-- [00:36:12](/episodes/ep-HYn0P-P1wUw.md#t-00-35-55) [✓] (Accusation) ["The U.S. Army missed warning signs that civilian commander David Frodsham led a ..."](/statements/statement-72052cf2c4f3.md)
-  - About: [David Frodsham](/entities/person-david-frodsham.md), [United States Army](/entities/org-united-states-army.md), [CBS News](/entities/org-cbs-news.md)
+- [00:36:12](/episodes/ep-HYn0P-P1wUw.md#t-00-36-08) [✓] (Accusation) ["The U.S. Army missed warning signs that civilian commander David Frodsham led a ..."](/statements/statement-72052cf2c4f3.md)
+  - About: [David Frodsham](/entities/person-david-frodsham.md), [United States Army](/entities/org-united-states-army.md)
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about CBS News (8)</strong></summary>
+<summary><strong class="section-title">Statements about CBS News (7)</strong></summary>
 
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1)</summary>
 
 - [00:12:28](/episodes/ep-ZIH5-V6UPkg.md#t-00-12-12) (Accusation) **Candace Owens**: ["Is the United States "hot" because officials lied about six servicemen..."](/statements/statement-b0935f34fce0.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [United States](/entities/gpe-united-states.md)
-
-</details>
-
-<details>
-<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1)</summary>
-
-- [00:36:12](/episodes/ep-HYn0P-P1wUw.md#t-00-35-55) (Accusation) **CBS News** (via quoted article): ["The U.S. Army missed warning signs that civilian commander David Frods..."](/statements/statement-72052cf2c4f3.md)
-  - Also about: [David Frodsham](/entities/person-david-frodsham.md), [United States Army](/entities/org-united-states-army.md)
 
 </details>
 

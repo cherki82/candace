@@ -5,11 +5,19 @@ id: "org-891st-missile-security-forces-squadron"
 type: "ORG"
 aliases:
   - "891st Squadron"
+categories:
+  - "U.S. Air Force unit"
 ---
 
 _Type: Organizations_
 
 **Also known as:** 891st Squadron
+
+**Categories:** U.S. Air Force unit
+
+**Entity verification:** verified
+> Canonical name and identity for 891st Missile Security Forces Squadron confirmed by the cited direct external source.
+Source: [891 Missile Security Forces Squadron](https://www.dafhistory.af.mil/Sandbox/Fact-Sheets/Display/Article/2529109/891-missile-security-forces-squadron-afgsc/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-org-891st-missile-security-forces-squadron-t-00-06-30">2025-11-21 · 00:06:40</a></strong></div>

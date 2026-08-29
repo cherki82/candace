@@ -31,7 +31,7 @@ type: "factual_claim"
 **Timestamp:** [00:05:47](/episodes/ep-DqGNvi36ol8.md#t-00-05-37) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(347);return false;">Play</a>
 
-> At the direction and approval of of Erika because she heads this
+> I made it at the request of Erika. All of this has been
 
 ## Verification
 

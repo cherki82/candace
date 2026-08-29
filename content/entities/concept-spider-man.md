@@ -1,6 +1,6 @@
 ---
 title: "Spider-Man"
-description: "Spider-Man (Concepts) - 2 mentions"
+description: "Spider-Man (Concepts) - 3 mentions"
 id: "concept-spider-man"
 type: "CONCEPT"
 aliases:
@@ -22,9 +22,9 @@ Source: [Spider-Man (Peter Parker) | Characters | Marvel](https://www.marvel.com
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-spider-man-t-00-19-29">2026-05-26 · 00:19:53</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-spider-man-t-00-25-40">2026-05-26 · 00:25:40</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-concept-spider-man-t-00-14-49">2026-08-04 · 00:15:02</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,12 +36,14 @@ Source: [Spider-Man (Peter Parker) | Characters | Marvel](https://www.marvel.com
 <p>Highest activity: <a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-spider-man-t-00-19-29">The World Is A Stage: Trump Survives...Again? | Ep 343</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-spider-man-t-00-19-29" style="--pulse-height:100%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-concept-spider-man-t-00-14-49" style="--pulse-height:50%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-concept-spider-man-t-00-19-29) | 2 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-concept-spider-man-t-00-14-49) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [Spider-Man (Peter Parker) | Characters | Marvel](https://www.marvel.com
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>
+
+**[00:15:02](/episodes/ep-1CFDtD0IgEg.md#ent-concept-spider-man-t-00-14-49)**
+> "...er jumping from the roof like Spider-Man."
+
+</details>
 
 <details>
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (2 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
-title: "Federal agents planted the gun when they arrived."
-description: "\"Federal agents planted the gun when they arrived.\" — Anonymous Source #2 (Ep UYkXV9mYbT4)"
+title: "The sources said they were convinced that federal agents pla..."
+description: "\"The sources said they were convinced that federal agents planted the gun when they arrived.\" — Anonymous Source #2 (Ep UYkXV9mYbT4)"
 statement_id: "statement-8694331bb2fc"
 speaker: "Anonymous Source #2 (Ep UYkXV9mYbT4)"
 type: "accusation"
@@ -10,7 +10,7 @@ type: "accusation"
 
 ## Statement
 
-> Federal agents planted the gun when they arrived.
+> The sources said they were convinced that federal agents planted the gun when they arrived.
 
 ## Attribution
 

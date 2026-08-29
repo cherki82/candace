@@ -4,9 +4,10 @@ description: "\"Charlie Kirk wrote that 'the war is on,' called people close to 
 statement_id: "statement-8dd20b737ff2"
 speaker: "Charlie Kirk"
 type: "accusation"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The source context contains Owens reading a Kirk-attributed message with 'the war is on,' 'snakes in the garden,' and 'they are not our friends.' Verification is of the quoted accusation as presented, with no independent authentication of the private message.
+
+**Confidence:** High
+
+**Sources:**
+
+- [EXCLUSIVE: Ben Shapiro's 9/10 Lunch Date — Candace Ep. 365 transcript](https://podcasts.happyscribe.com/candace/10-lunch-date-more-text-messages-from-charlie-kirk)
+
+*Verified: 2026-08-27T19:42:39.589204*
 
 ---
 

@@ -27,7 +27,7 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
-**Timestamp:** [00:19:39](/episodes/ep-HYn0P-P1wUw.md#t-00-19-20) 
+**Timestamp:** [00:19:39](/episodes/ep-HYn0P-P1wUw.md#t-00-19-25) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1179);return false;">Play</a>
 
 > No response at all from Brian Harpole. I've told you that several times. Or relatedly, Dan Flood. Now, Dan Flood was not seen at Fort Huachuca, but he does have communication with Brian Harpole.

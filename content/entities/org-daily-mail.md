@@ -1,6 +1,6 @@
 ---
 title: "Daily Mail"
-description: "Daily Mail (Organizations) - 70 mentions"
+description: "Daily Mail (Organizations) - 73 mentions"
 id: "org-daily-mail"
 type: "ORG"
 categories:
@@ -18,12 +18,12 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-daily-mail-t-00-43-40">2025-09-18 · 00:44:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-daily-mail-t-00-52-29">2026-07-23 · 00:52:29</a></strong></div>
-<div><span>Episodes</span><strong>25</strong></div>
-<div><span>Mentions</span><strong>70</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-org-daily-mail-t-00-21-34">2026-08-06 · 00:21:34</a></strong></div>
+<div><span>Episodes</span><strong>28</strong></div>
+<div><span>Mentions</span><strong>73</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>21</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>24</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -56,6 +56,9 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-daily-mail-t-00-00-01" style="--pulse-height:43%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 6 mentions" title="2026-07-21 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-org-daily-mail-t-00-00-01" style="--pulse-height:100%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 14 mentions" title="2026-07-22 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-org-daily-mail-t-00-30-59" style="--pulse-height:21%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 3 mentions" title="2026-07-23 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-org-daily-mail-t-00-03-04" style="--pulse-height:8%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-daily-mail-t-00-14-49" style="--pulse-height:8%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-org-daily-mail-t-00-21-34" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -86,6 +89,9 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-daily-mail-t-00-00-01) | 6 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-daily-mail-t-00-00-01) | 14 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-daily-mail-t-00-30-59) | 3 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-org-daily-mail-t-00-03-04) | 1 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-org-daily-mail-t-00-14-49) | 1 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-org-daily-mail-t-00-21-34) | 1 |
 
 </details>
 </section>
@@ -93,7 +99,31 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (70)</strong></summary>
+<summary><strong class="section-title">Raw mentions (73)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:21:34](/episodes/ep-ChuWo-n49B8.md#ent-org-daily-mail-t-00-21-34)**
+> "They know that I know know, okay? We got another bizarre request today, this time from the Daily Mail, Charlie Spiering, the one who worked on the Trust Us, bro."
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>
+
+**[00:15:02](/episodes/ep-1CFDtD0IgEg.md#ent-org-daily-mail-t-00-14-49)**
+> "...ived a press request from the Daily Mail yesterday regarding the footage that we released ..."
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (1 mentions)</summary>
+
+**[00:03:04](/episodes/ep-HZvwbfePe7o.md#ent-org-daily-mail-t-00-03-04)**
+> "He's a spokesperson, right? By the way, a fun update on that Daily Mail article wherein direct quotations were used to assert a family friend of Erika (Erika Kirk)'s confirmed, and Erika (Erika Kirk) refers to me as the B word in private."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (3 mentions)</summary>
@@ -463,12 +493,19 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 </details>
 
 <details>
-<summary>Employs (1)</summary>
+<summary>Employs (2)</summary>
 
 - **[Victoria Churchill](/entities/person-victoria-churchill.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 @ 00:24:35](/episodes/ep-aDlhjfW6hz8.md#t-00-24-00): “The Daily Mail put out this headline about me...Victoria Churchill, who reached out”
+
+</details>
+
+- **[Charlie Spiering](/entities/person-charlie-spiering.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:21:34](/episodes/ep-ChuWo-n49B8.md#t-00-21-34): “They know that I know know, okay? We got another bizarre request today, this time from the Daily Mail, Charlie Spiering, the one who worked on the Trust Us, bro.”
 
 </details>
 
@@ -494,7 +531,7 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -534,6 +571,13 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 
 </details>
 
+- **[Charlie Spiering](/entities/person-charlie-spiering.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:21:34](/episodes/ep-ChuWo-n49B8.md#t-00-21-34): “They know that I know know, okay? We got another bizarre request today, this time from the Daily Mail, Charlie Spiering, the one who worked on the Trust Us, bro.”
+
+</details>
+
 </details>
 
 </details>
@@ -552,7 +596,26 @@ Source: [Daily Mail Online](https://www.dailymail.co.uk/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Daily Mail (21)</strong></summary>
+<summary><strong class="section-title">Statements about Daily Mail (24)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
+
+- [00:21:54](/episodes/ep-ChuWo-n49B8.md#t-00-21-34) (Accusation) **Charlie Spiering** (via read message): ["Charlie Spiering wrote that Daily Mail sources believed Candace Owens ..."](/statements/statement-08bbe428fef3.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (2)</summary>
+
+- [00:03:04](/episodes/ep-HZvwbfePe7o.md#t-00-03-04) (Citation) **Candace Owens**: ["Owens cited a Daily Mail article that contained direct quotations from..."](/statements/statement-152a2f074020.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:03:32](/episodes/ep-HZvwbfePe7o.md#t-00-03-04) (Accusation) **Candace Owens**: ["Owens accused Erika Kirk and a close family friend of planting the Dai..."](/statements/statement-5ba21a3daa22.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md), [DARVO](/entities/concept-darvo.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2)</summary>

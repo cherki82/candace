@@ -89,7 +89,7 @@ Source: [BILT Founders to Speak at DFW Leadership Series](https://churchofjesusc
 - **[BILT Incorporated](/entities/org-bilt-incorporated.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:16:39](/episodes/ep-rupRLXmSndU.md#t-00-16-05): “Because Ahmed, remember, Zachariah's dad, he's listed as a co-founder of Built. Who did he co-found this with? Who was his business partner? Who was the other half of this intelligence app that got a nice injection of cash from the Air Force in June? That would be a man named Nathan Henderson.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:16:39](/episodes/ep-rupRLXmSndU.md#t-00-16-05): “Because Ahmed (Ahmed Qureshi), remember, Zachariah (Zachariah Qureshi)'s dad, he's listed as a co-founder of Built. Who did he co-found this with? Who was his business partner? Who was the other half of this intelligence app that got a nice injection of cash from the Air Force in June? That would be a man named Nathan Henderson. And don't worry, guys, I, of course, will have a graphic for you at the end so you can screenshot and save it and study it and it'll look really clean because it's very significant that you know these names.”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 01:10:33](/episodes/ep-h76ZN-xXC6c.md#t-01-10-33): “We're looking into Zachariah Qureshi. His father was one half of the built organization along with someone Henderson and their sons lived at some point in the same house.”
 
 </details>
@@ -102,7 +102,7 @@ Source: [BILT Founders to Speak at DFW Leadership Series](https://churchofjesusc
 - **[Gina Romney Henderson](/entities/person-gina-romney-henderson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:17:38](/episodes/ep-rupRLXmSndU.md#t-00-17-20): “But what is not up for debate is that both families were living in the same house down in Keller, Texas, and that Nathan Henderson, the co-founder, is married to a woman named Gina Romney.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:17:38](/episodes/ep-rupRLXmSndU.md#t-00-17-20): “vice versa. But what is not up for debate is that both families were living in the same house down in Keller, Texas, and that Nathan Henderson, the co-founder, is married to a woman named Gina (Gina Romney Henderson).”
 
 </details>
 
@@ -114,7 +114,7 @@ Source: [BILT Founders to Speak at DFW Leadership Series](https://churchofjesusc
 - **[Connor Henderson](/entities/person-connor-henderson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:17:38](/episodes/ep-rupRLXmSndU.md#t-00-17-20): “Nathan Henderson, the co-founder, is married to a woman named Gina Romney. Okay. Gina Romney Henderson is relevant because she too works at the built corporation. She's the vice president of their user experience. You can see that here on her LinkedIn. And they also have a son, a young man named Connor Henderson.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:17:38](/episodes/ep-rupRLXmSndU.md#t-00-17-20): “vice versa. But what is not up for debate is that both families were living in the same house down in Keller, Texas, and that Nathan Henderson, the co-founder, is married to a woman named Gina (Gina Romney Henderson). Okay. Gina Romney Henderson is relevant because she too works at the built corporation. She's the vice president of their user experience. You can see that here on her LinkedIn. And they also have a son, a young man named Connor Henderson.”
 
 </details>
 
@@ -126,14 +126,14 @@ Source: [BILT Founders to Speak at DFW Leadership Series](https://churchofjesusc
 - **[Connor Henderson](/entities/person-connor-henderson.md)** child of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:17:38](/episodes/ep-rupRLXmSndU.md#t-00-17-20): “Nathan Henderson, the co-founder, is married to a woman named Gina Romney. Okay. Gina Romney Henderson is relevant because she too works at the built corporation. She's the vice president of their user experience. You can see that here on her LinkedIn. And they also have a son, a young man named Connor Henderson.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:17:38](/episodes/ep-rupRLXmSndU.md#t-00-17-20): “vice versa. But what is not up for debate is that both families were living in the same house down in Keller, Texas, and that Nathan Henderson, the co-founder, is married to a woman named Gina (Gina Romney Henderson). Okay. Gina Romney Henderson is relevant because she too works at the built corporation. She's the vice president of their user experience. You can see that here on her LinkedIn. And they also have a son, a young man named Connor Henderson.”
 
 </details>
 
 - **[BILT Incorporated](/entities/org-bilt-incorporated.md)** founded by this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:16:39](/episodes/ep-rupRLXmSndU.md#t-00-16-05): “Because Ahmed, remember, Zachariah's dad, he's listed as a co-founder of Built. Who did he co-found this with? Who was his business partner? Who was the other half of this intelligence app that got a nice injection of cash from the Air Force in June? That would be a man named Nathan Henderson.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:16:39](/episodes/ep-rupRLXmSndU.md#t-00-16-05): “Because Ahmed (Ahmed Qureshi), remember, Zachariah (Zachariah Qureshi)'s dad, he's listed as a co-founder of Built. Who did he co-found this with? Who was his business partner? Who was the other half of this intelligence app that got a nice injection of cash from the Air Force in June? That would be a man named Nathan Henderson. And don't worry, guys, I, of course, will have a graphic for you at the end so you can screenshot and save it and study it and it'll look really clean because it's very significant that you know these names.”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 01:10:33](/episodes/ep-h76ZN-xXC6c.md#t-01-10-33): “We're looking into Zachariah Qureshi. His father was one half of the built organization along with someone Henderson and their sons lived at some point in the same house.”
 
 </details>

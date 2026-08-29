@@ -26,7 +26,7 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
-**Timestamp:** [00:09:03](/episodes/ep-OEAHy3SsIiI.md#t-00-08-38) 
+**Timestamp:** [00:09:03](/episodes/ep-OEAHy3SsIiI.md#t-00-08-35) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(543);return false;">Play</a>
 
 > but he gave us a million dollars.

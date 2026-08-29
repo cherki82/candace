@@ -46,7 +46,7 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-seth-dillon-t-00-23-50" style="--pulse-height:18%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-sImMM04XdWY.md#ent-person-seth-dillon-t-00-19-39" style="--pulse-height:9%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#t-00-45-56" style="--pulse-height:9%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-seth-dillon-t-00-53-16" style="--pulse-height:9%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-seth-dillon-t-00-52-45" style="--pulse-height:9%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-seth-dillon-t-00-40-43" style="--pulse-height:9%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#t-00-57-40" style="--pulse-height:9%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-seth-dillon-t-00-56-36" style="--pulse-height:9%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
@@ -77,7 +77,7 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-person-seth-dillon-t-00-23-50) | 2 |
 | 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-seth-dillon-t-00-19-39) | 1 |
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#t-00-45-56) | 1 |
-| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-seth-dillon-t-00-53-16) | 1 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-seth-dillon-t-00-52-45) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-seth-dillon-t-00-40-43) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#t-00-57-40) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-seth-dillon-t-00-56-36) | 1 |
@@ -220,7 +220,7 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
 
-**[00:53:16](/episodes/ep-OEAHy3SsIiI.md#ent-person-seth-dillon-t-00-53-16)**
+**[00:53:12](/episodes/ep-OEAHy3SsIiI.md#ent-person-seth-dillon-t-00-52-45)**
 > "Another thing that I said to the public was that Seth Dillon was pressing Charlie (Charlie Kirk)."
 
 </details>
@@ -846,7 +846,7 @@ Source: [About - The Babylon Bee](https://babylonbee.com/about)
 <details>
 <summary>Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236 (1)</summary>
 
-- [00:42:34](/episodes/ep-q7f8r-THr84.md#t-00-42-21) (Accusation) **Candace Owens**: ["Seth Dillon went back and forth with Charlie Kirk aggressively at the ..."](/statements/statement-81d5d5252702.md)
+- [00:42:34](/episodes/ep-q7f8r-THr84.md#t-00-42-21) (Accusation) **Candace Owens**: ["Seth Dillon allegedly went back and forth aggressively with Charlie Ki..."](/statements/statement-81d5d5252702.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

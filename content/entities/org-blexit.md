@@ -1,6 +1,6 @@
 ---
 title: "Blexit"
-description: "Blexit (Organizations) - 14 mentions"
+description: "Blexit (Organizations) - 15 mentions"
 id: "org-blexit"
 type: "ORG"
 aliases:
@@ -25,7 +25,7 @@ Source: [BLEXIT, 'Black Exit' Foundation Now Powered By Turning Point USA](https
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-blexit-t-00-16-36">2025-09-11 · 00:17:05</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-blexit-t-00-28-00">2026-03-18 · 00:28:20</a></strong></div>
 <div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>15</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -56,7 +56,7 @@ Source: [BLEXIT, 'Black Exit' Foundation Now Powered By Turning Point USA](https
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (15)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: Red Sparrow | Episode 8 (3 mentions)</summary>

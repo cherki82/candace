@@ -31,7 +31,7 @@ type: "opinion"
 **Timestamp:** [00:36:27](/episodes/ep-OEAHy3SsIiI.md#t-00-36-06) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2187);return false;">Play</a>
 
-> we have congress and they're just kind of like a peanut gallery and then we have a super government that exists above congress of the department of defense which is the pentagon the central intelligence agency which is own thing out in langley the federal bureau of investigation they run the country the intel agencies run the country the
+> We must understand: we have Congress, and they're just kind of like a peanut gallery. And then we have a super-government that exists above Congress: the Department of Defense, which is the Pentagon; the Central Intelligence Agency, which is its own thing out in Langley; the Federal Bureau of Investigation. They run the country. The intel agencies run the country. The...
 
 ## Verification
 

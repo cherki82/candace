@@ -1,6 +1,6 @@
 ---
 title: "LinkedIn"
-description: "LinkedIn (Organizations) - 21 mentions"
+description: "LinkedIn (Organizations) - 23 mentions"
 id: "org-linkedin"
 type: "ORG"
 categories:
@@ -18,9 +18,9 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-org-linkedin-t-00-07-42">2025-10-01 · 00:08:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-linkedin-t-00-22-42">2026-07-14 · 00:22:42</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-org-linkedin-t-00-20-04">2026-08-03 · 00:20:04</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>23</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -44,6 +44,8 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 <a href="/episodes/ep-SubDoZWHARo.md#ent-org-linkedin-t-00-52-23" style="--pulse-height:20%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-linkedin-t-00-18-00" style="--pulse-height:100%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 5 mentions" title="2026-05-11 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-linkedin-t-00-18-34" style="--pulse-height:40%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-linkedin-t-00-13-05" style="--pulse-height:20%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 1 mentions" title="2026-07-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-org-linkedin-t-00-20-04" style="--pulse-height:20%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -62,6 +64,8 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-linkedin-t-00-52-23) | 1 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-org-linkedin-t-00-18-00) | 5 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-org-linkedin-t-00-18-34) | 2 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-org-linkedin-t-00-13-05) | 1 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-org-linkedin-t-00-20-04) | 1 |
 
 </details>
 </section>
@@ -69,7 +73,23 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
+
+**[00:20:04](/episodes/ep-AH1KVKkweUE.md#ent-org-linkedin-t-00-20-04)**
+> "And according to his LinkedIn, he was the marksmanship instructor for the Marin..."
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (1 mentions)</summary>
+
+**[00:13:14](/episodes/ep-iB-YtO3UZOg.md#ent-org-linkedin-t-00-13-05)**
+> "Ashley Brown Guajardo and her husband have both—they've now gone to New York. He's accepted—now he's going to be the chief medical examiner in New York, and she's going to be teaching at NYU. We should pull up her LinkedIn, by the way."
+
+</details>
 
 <details>
 <summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (2 mentions)</summary>
@@ -122,16 +142,16 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (4 mentions)</summary>
 
 **[00:10:19](/episodes/ep-rupRLXmSndU.md#ent-org-linkedin-t-00-10-19)**
-> "But let's take a look at Ahmed's LinkedIn because it is relevant. Again, this is decoy boy number two's dad."
+> "But let's take a look at Ahmed (Ahmed Qureshi)'s LinkedIn because it is relevant. Again, this is decoy boy number two's dad."
 
 **[00:12:27](/episodes/ep-rupRLXmSndU.md#ent-org-linkedin-t-00-12-27)**
-> "...b in the military because his LinkedIn also informs us that Ahmed co-founded BILT back i..."
+> "In fact, we can further assume that BILT is somehow related to his job in the military because his LinkedIn also informs us that Ahmed (Ahmed Qureshi) co-founded BILT back in 2015 when he was full time as an 05."
 
 **[00:18:00](/episodes/ep-rupRLXmSndU.md#ent-org-linkedin-t-00-18-00)**
 > "You can see that here on her LinkedIn. And they also have a son, a young man named Conn..."
 
 **[00:19:00](/episodes/ep-rupRLXmSndU.md#ent-org-linkedin-t-00-18-41)**
-> "...ntil, and that's only because LinkedIn is to be believed, just before Charlie's assassin..."
+> "That was Connor Henderson's job from 2024 until—and that's only if LinkedIn is to be believed—just before Charlie (Charlie Kirk)'s assassination, or maybe even just after Charlie (Charlie Kirk)'s assassination."
 
 </details>
 

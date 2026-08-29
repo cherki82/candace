@@ -21,37 +21,39 @@ _Type: People_
 Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/mesa/profile/video-production-services/visual-impulse-llc-1126-1000043623)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-13-56">2026-01-06 · 00:14:21</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-G3zdOeHpvS0.md#t-00-00-01">2026-06-17 · 00:00:27</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-14-14">2026-01-06 · 00:14:21</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-person-terryl-farnsworth-t-00-11-51">2026-08-06 · 00:11:59</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
 <div><span>Mentions</span><strong>39</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>21</strong></div>
-<div><span>Relationships</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>22</strong></div>
+<div><span>Relationships</span><strong>19</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-13-56">BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285</a> (15 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-terryl-farnsworth-t-00-00-42">Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328</a> (14 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-13-56" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 15 mentions" title="2026-01-06 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-14-14" style="--pulse-height:93%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 13 mentions" title="2026-01-06 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-terryl-farnsworth-t-00-16-47" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-terryl-farnsworth-t-00-37-47" style="--pulse-height:8%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-terryl-farnsworth-t-00-00-42" style="--pulse-height:93%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 14 mentions" title="2026-04-21 · 14 mentions"><span></span></a>
-<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-terryl-farnsworth-t-00-21-21" style="--pulse-height:47%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 7 mentions" title="2026-06-16 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-terryl-farnsworth-t-00-00-42" style="--pulse-height:100%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 14 mentions" title="2026-04-21 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-terryl-farnsworth-t-00-21-21" style="--pulse-height:50%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 7 mentions" title="2026-06-16 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#t-00-00-01" style="--pulse-height:8%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-person-terryl-farnsworth-t-00-11-51" style="--pulse-height:14%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 2 mentions" title="2026-08-06 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-13-56) | 15 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-14-14) | 13 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-terryl-farnsworth-t-00-16-47) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-terryl-farnsworth-t-00-37-47) | 1 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-terryl-farnsworth-t-00-00-42) | 14 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-terryl-farnsworth-t-00-21-21) | 7 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#t-00-00-01) | 1 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-terryl-farnsworth-t-00-11-51) | 2 |
 
 </details>
 </section>
@@ -60,6 +62,17 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 
 <details>
 <summary><strong class="section-title">Raw mentions (39)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (2 mentions)</summary>
+
+**[00:11:51](/episodes/ep-ChuWo-n49B8.md#ent-person-terryl-farnsworth-t-00-11-51)**
+> "Terryl Farnsworth immediately turned over the footage to police."
+
+**[00:11:59](/episodes/ep-ChuWo-n49B8.md#ent-person-terryl-farnsworth-t-00-11-51)**
+> "...ie by severe omission because Terryl Farnsworth took out, we watched him take out an SD card."
+
+</details>
 
 <details>
 <summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1 mentions)</summary>
@@ -159,18 +172,18 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 </details>
 
 <details>
-<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (15 mentions)</summary>
+<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (13 mentions)</summary>
 
-**[00:14:21](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-13-56)**
+**[00:14:21](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-14-14)**
 > "...e the story regarding Terryl (Terryl Farnsworth)'s strange behavior moments after the assassinati..."
 
-**[00:22:10](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-22-10)**
+**[00:22:10](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-22-03)**
 > "... I have never felt good about Terryl Farnsworth,"
 
-**[00:23:27](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-22-55)**
+**[00:23:27](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-23-20)**
 > "..., and I'm following my gut on Terryl Farnsworth,"
 
-**[00:23:50](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-23-32)**
+**[00:23:50](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-23-20)**
 > "...tion that I have with Terryl (Terryl Farnsworth) to be extremely suspicious is not, of course, an..."
 
 **[00:29:56](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-29-32)**
@@ -185,25 +198,19 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 **[00:30:28](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-30-15)**
 > "And then Tyler Bowyer and Terryl Farnsworth went to high school together."
 
-**[00:31:10](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-30-58)**
+**[00:31:10](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-30-56)**
 > "...ainted obviously with Terryl (Terryl Farnsworth) on a familial basis"
 
-**[00:31:34](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-30-58)**
-> "...e was very close with Terryl (Terryl Farnsworth)'s family,"
-
-**[00:31:38](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-30-58)**
-> "particularly Terryl (Terryl Farnsworth)'s uncles and cousins."
-
-**[00:31:41](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-31-41)**
+**[00:31:41](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-31-34)**
 > "Terryl (Terryl Farnsworth)'s father is a man named Dwayne Farnsworth."
 
-**[00:32:16](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-31-41)**
+**[00:32:16](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-31-34)**
 > "who is Terryl (Terryl Farnsworth)'s father."
 
-**[00:39:48](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-39-39)**
+**[00:39:48](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-39-34)**
 > "...g way when I spoke to Terryl (Terryl Farnsworth) and I can't let that feeling go."
 
-**[00:39:55](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-39-39)**
+**[00:39:55](/episodes/ep-HYn0P-P1wUw.md#ent-person-terryl-farnsworth-t-00-39-34)**
 > "...'s there I think that Terryl (Terryl Farnsworth) knows more."
 
 </details>
@@ -231,7 +238,7 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:23:03](/episodes/ep-HYn0P-P1wUw.md#t-00-22-55): “that man is guilty of something. He's guilty of something. He's lying about weird stuff.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:22:03](/episodes/ep-HYn0P-P1wUw.md#t-00-22-03): “Follow one lead. If it doesn't lead where we think it's going to go, we can pivot and something interesting has come up. Now, I will start by restating I have never felt good about Terryl Farnsworth, okay? Not since that very first phone call I had with him. In fact, the phone call I had with him, I can say, was the very first moment that I went, something's not right here. I told you guys, he just started lying to me. Repeatedly weird. His energy was weird. I was like, what's going on? Why are you being weird? I'm calling you because I'm just trying to let the public know, like, you know, why you took the cameras out. I'm sure there's a logical reason. It is kind of weird that you're there. Why are you there? He's all over the place. And again, this is not an immediate aftermath. This is not first 48. We've got the jitters. Charlie Kirk's killed. This is like a week past that. and I expressed repeatedly to my audience that something was not right with that phone call. As soon as I hung up, I said to my team, and I'm quoting myself here, that man is guilty of something. He's guilty of something. He's lying about weird stuff. I don't know how to send a file. What do you mean?”
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:37:47](/episodes/ep-DYD_QHMPwqM.md#t-00-37-47): “that's why Terryl (Terryl Farnsworth) was supposed to get those cameras down”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:04:26](/episodes/ep-xi8SYJTUXPM.md#t-00-04-11): “And you know what, Nisscee? I was actually remarking to my team that it certainly seemed to me that Terryl (Terryl Farnsworth) may have at the very least edited the video.”
 
@@ -247,12 +254,24 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 </details>
 
 <details>
+<summary>Attended (1)</summary>
+
+- **[Gilbert High School](/entities/org-gilbert-high-school.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:30:28](/episodes/ep-HYn0P-P1wUw.md#t-00-30-15): “And then Tyler Bowyer and Terryl Farnsworth went to high school together. They graduated, it looks like two years apart, from Gilbert High School.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Child Of (1)</summary>
 
 - **[Dwayne Farnsworth](/entities/person-dwayne-farnsworth.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:31:41](/episodes/ep-HYn0P-P1wUw.md#t-00-30-58): “Terryl (Terryl Farnsworth)'s father is a man named Dwayne Farnsworth.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:31:41](/episodes/ep-HYn0P-P1wUw.md#t-00-31-34): “Terryl (Terryl Farnsworth)'s father is a man named Dwayne Farnsworth.”
 
 </details>
 
@@ -285,6 +304,18 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 </details>
 
 <details>
+<summary>Son-In-Law Of (1)</summary>
+
+- **[Tom Burt](/entities/person-tom-burt.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:38:59](/episodes/ep-HYn0P-P1wUw.md#t-00-38-59): “just be a coincidence but it's interesting it would give them an excuse to be in that region and so i'd like to know more because the farnsworth family is coming up too much tarot farnsworth's wife by the way people on the internet discovered this um and i'm gonna get the name i don't want to get this name right i'm gonna get this name right i mean i don't want to get it wrong his father-in-law It's Tom Burt, who ran Duncan Aviation.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Worked With (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
@@ -309,12 +340,12 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (9)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:23:03](/episodes/ep-HYn0P-P1wUw.md#t-00-22-55): “that man is guilty of something. He's guilty of something. He's lying about weird stuff.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:22:03](/episodes/ep-HYn0P-P1wUw.md#t-00-22-03): “Follow one lead. If it doesn't lead where we think it's going to go, we can pivot and something interesting has come up. Now, I will start by restating I have never felt good about Terryl Farnsworth, okay? Not since that very first phone call I had with him. In fact, the phone call I had with him, I can say, was the very first moment that I went, something's not right here. I told you guys, he just started lying to me. Repeatedly weird. His energy was weird. I was like, what's going on? Why are you being weird? I'm calling you because I'm just trying to let the public know, like, you know, why you took the cameras out. I'm sure there's a logical reason. It is kind of weird that you're there. Why are you there? He's all over the place. And again, this is not an immediate aftermath. This is not first 48. We've got the jitters. Charlie Kirk's killed. This is like a week past that. and I expressed repeatedly to my audience that something was not right with that phone call. As soon as I hung up, I said to my team, and I'm quoting myself here, that man is guilty of something. He's guilty of something. He's lying about weird stuff. I don't know how to send a file. What do you mean?”
 - [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302 @ 00:37:47](/episodes/ep-DYD_QHMPwqM.md#t-00-37-47): “that's why Terryl (Terryl Farnsworth) was supposed to get those cameras down”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:04:26](/episodes/ep-xi8SYJTUXPM.md#t-00-04-11): “And you know what, Nisscee? I was actually remarking to my team that it certainly seemed to me that Terryl (Terryl Farnsworth) may have at the very least edited the video.”
 
@@ -324,6 +355,13 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:03:49](/episodes/ep-xi8SYJTUXPM.md#t-00-03-37): “So either that day at UVU, they had changed things up and they had zoomed in the camera so that you couldn't see the area around Charlie or Terryl (Terryl Farnsworth) had zoomed in after the fact and he was showing a cropped version.”
+
+</details>
+
+- **[Gilbert High School](/entities/org-gilbert-high-school.md)** attended by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:30:28](/episodes/ep-HYn0P-P1wUw.md#t-00-30-15): “And then Tyler Bowyer and Terryl Farnsworth went to high school together. They graduated, it looks like two years apart, from Gilbert High School.”
 
 </details>
 
@@ -360,7 +398,14 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 - **[Dwayne Farnsworth](/entities/person-dwayne-farnsworth.md)** parent of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:31:41](/episodes/ep-HYn0P-P1wUw.md#t-00-30-58): “Terryl (Terryl Farnsworth)'s father is a man named Dwayne Farnsworth.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:31:41](/episodes/ep-HYn0P-P1wUw.md#t-00-31-34): “Terryl (Terryl Farnsworth)'s father is a man named Dwayne Farnsworth.”
+
+</details>
+
+- **[Tom Burt](/entities/person-tom-burt.md)** parent-in-law of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:38:59](/episodes/ep-HYn0P-P1wUw.md#t-00-38-59): “just be a coincidence but it's interesting it would give them an excuse to be in that region and so i'd like to know more because the farnsworth family is coming up too much tarot farnsworth's wife by the way people on the internet discovered this um and i'm gonna get the name i don't want to get this name right i'm gonna get this name right i mean i don't want to get it wrong his father-in-law It's Tom Burt, who ran Duncan Aviation.”
 
 </details>
 
@@ -382,7 +427,15 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Terryl Farnsworth (21)</strong></summary>
+<summary><strong class="section-title">Statements about Terryl Farnsworth (22)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
+
+- [00:11:59](/episodes/ep-ChuWo-n49B8.md#t-00-11-51) (Accusation) **Candace Owens**: ["Owens said the transfer of Terryl Farnsworth's camera footage from an ..."](/statements/statement-3b9179f3fe4a.md)
+  - Also about: [FBI](/entities/org-fbi.md)
+
+</details>
 
 <details>
 <summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (3)</summary>
@@ -448,21 +501,21 @@ Source: [BBB Business Profile — Visual Impulse LLC](https://www.bbb.org/us/az/
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (6)</summary>
 
-- [00:22:30](/episodes/ep-HYn0P-P1wUw.md#t-00-22-10) (Accusation) **Candace Owens**: ["Terryl Farnsworth repeatedly lied to Candace Owens during their phone ..."](/statements/statement-7bd8112aa504.md)
+- [00:22:30](/episodes/ep-HYn0P-P1wUw.md#t-00-22-03) (Accusation) **Candace Owens**: ["Terryl Farnsworth repeatedly lied to Candace Owens during their phone ..."](/statements/statement-7bd8112aa504.md)
 
 - [00:30:10](/episodes/ep-HYn0P-P1wUw.md#t-00-29-32) (Claim) **Candace Owens**: ["Terryl Farnsworth's and Tyler Bowyer's parents attended high school to..."](/statements/statement-2681791717af.md)
   - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
-- [00:31:41](/episodes/ep-HYn0P-P1wUw.md#t-00-30-58) (Claim) **Candace Owens**: ["Arizona politicians Eddie and David Farnsworth are brothers and first ..."](/statements/statement-3913ecc31109.md)
+- [00:31:41](/episodes/ep-HYn0P-P1wUw.md#t-00-31-34) (Claim) **Candace Owens**: ["Arizona politicians Eddie and David Farnsworth are brothers and first ..."](/statements/statement-3913ecc31109.md)
   - Also about: [Dwayne Farnsworth](/entities/person-dwayne-farnsworth.md), [Eddie Farnsworth](/entities/person-eddie-farnsworth.md), [David Farnsworth](/entities/person-david-farnsworth.md)
 
-- [00:33:39](/episodes/ep-HYn0P-P1wUw.md#t-00-33-05) (Claim) **Candace Owens**: ["The Farnsworth, Bowyer, and Frantzve families had documented connectio..."](/statements/statement-9253c69f0aeb.md)
+- [00:33:39](/episodes/ep-HYn0P-P1wUw.md#t-00-33-38) (Claim) **Candace Owens**: ["The Farnsworth, Bowyer, and Frantzve families had documented connectio..."](/statements/statement-9253c69f0aeb.md)
   - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 - [00:39:19](/episodes/ep-HYn0P-P1wUw.md#t-00-38-59) (Claim) **Candace Owens**: ["Terryl Farnsworth's father-in-law, Tom Burt, served as executive vice ..."](/statements/statement-5ef95466efa5.md)
   - Also about: [Tom Burt](/entities/person-tom-burt.md), [Duncan Aviation](/entities/org-duncan-aviation.md)
 
-- [00:39:39](/episodes/ep-HYn0P-P1wUw.md#t-00-38-59) (Accusation) **Candace Owens**: ["Terryl Farnsworth knows more about Charlie Kirk's death than he disclo..."](/statements/statement-7a9a96c32e13.md)
+- [00:39:39](/episodes/ep-HYn0P-P1wUw.md#t-00-39-34) (Opinion) **Candace Owens**: ["Candace Owens said she thinks Terryl Farnsworth knows more about Charl..."](/statements/statement-7a9a96c32e13.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

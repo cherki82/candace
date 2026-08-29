@@ -3,9 +3,17 @@ title: "Orem Police Department"
 description: "Orem Police Department (Organizations) - 5 mentions"
 id: "org-orem-police-department"
 type: "ORG"
+categories:
+  - "municipal police department"
 ---
 
 _Type: Organizations_
+
+**Categories:** municipal police department
+
+**Entity verification:** verified
+> Canonical name and identity for Orem Police Department confirmed by the cited direct external source.
+Source: [Orem Police Department](https://orem.org/police/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-org-orem-police-department-t-00-15-27">2025-09-25 · 00:15:46</a></strong></div>

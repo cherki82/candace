@@ -138,7 +138,7 @@ Source: [Navy Veteran Survived Las Vegas Shooting Only to Be Killed in the Borde
 > "...ting happens. He says, "I was his pastor." But also I had received a tip that Rob McCoy—who is from Thousand Oaks, which happens to be a very corrupt place—was very involved in a shooting that happened in 2018. Wh..."
 
 **[00:15:28](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-thousand-oaks-t-00-14-58)**
-> "...rephrase that. I don't mean like he shot anybody. What I mean is that he was the nearby pastor of a Thousand Oaks shooting that happened at some bar where a veteran shot up a bar. Skylar, can you pull this up? Bec..."
+> "What I mean is that he was the nearby pastor of a Thousand Oaks shooting that happened at some bar where a veteran shot up a bar."
 
 **[00:16:02](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-thousand-oaks-t-00-15-41)**
 > "...ive me one second, guys. Just want to make sure that we have the facts of when this happened. 2018, Thousand Oaks. Shooting. I can't hear you for talking in my ear, but yeah, there was a shooting here at the Borde..."

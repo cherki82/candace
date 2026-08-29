@@ -32,7 +32,7 @@ Source: [Bride Of Charlie: What Happened In Romania? | Episode 6](https://www.yo
 <p>Highest activity: <a href="/episodes/ep-y8lak3CRwDw.md#ent-person-sheldon-adelson-t-00-53-53">Bride Of Charlie: What Happened In Romania? | Episode 6</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-person-sheldon-adelson-t-00-53-53" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZIH5-V6UPkg.md#t-00-32-10" style="--pulse-height:100%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-sheldon-adelson-t-00-32-10" style="--pulse-height:100%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-sheldon-adelson-t-00-26-49" style="--pulse-height:100%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-person-sheldon-adelson-t-00-21-07" style="--pulse-height:100%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 </div>
@@ -41,7 +41,7 @@ Source: [Bride Of Charlie: What Happened In Romania? | Episode 6](https://www.yo
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-person-sheldon-adelson-t-00-53-53) | 1 |
-| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#t-00-32-10) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-sheldon-adelson-t-00-32-10) | 1 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-sheldon-adelson-t-00-26-49) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-sheldon-adelson-t-00-21-07) | 1 |
 
@@ -72,8 +72,8 @@ Source: [Bride Of Charlie: What Happened In Romania? | Episode 6](https://www.yo
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
 
-**[00:32:18](/episodes/ep-ZIH5-V6UPkg.md#t-00-32-10)**
-> "I'm talking about Sheldon."
+**[00:32:18](/episodes/ep-ZIH5-V6UPkg.md#ent-person-sheldon-adelson-t-00-32-10)**
+> "A family of, I would say, gangsters, right? You're in gambling. It's not exactly an industry. I'm talking about Sheldon (Sheldon Adelson)."
 
 </details>
 

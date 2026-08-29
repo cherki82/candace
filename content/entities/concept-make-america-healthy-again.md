@@ -99,7 +99,7 @@ _No relationships extracted yet._
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1)</summary>
 
 - [00:59:47](/episodes/ep-eLgD5yUVbko.md#t-00-59-43) (Claim) **Candace Owens**: ["Candace Owens said Donald Trump had lost support from the Make America..."](/statements/statement-cdcdb0b37222.md)
-  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Candace Owens](/entities/person-candace-owens.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Alex Jones](/entities/person-alex-jones.md)
 
 </details>
 

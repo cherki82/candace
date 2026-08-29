@@ -12,7 +12,7 @@ time: "12:22"
 
 > Anonymous witness recorded a person on the Losee Center roof shortly before Charlie Kirk was shot; the video later circulated widely.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
 
@@ -29,3 +29,11 @@ time: "12:22"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(828);return false;">▶️ Play</a>
 
 > captured the gunman on Losee Center in a video as he began lying prone for the shot.
+
+### 3. EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rook...
+
+**Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
+**Timestamp:** [00:05:03](/episodes/ep-Vu6Y24pqhZs.md#event-event-2025-09-10-losee-center-rooftop-video-t-00-04-43) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(303);return false;">▶️ Play</a>
+
+> He recorded the individual on his iPhone. He then reported what he saw to police dutifully.

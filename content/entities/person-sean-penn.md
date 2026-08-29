@@ -3,9 +3,17 @@ title: "Sean Penn"
 description: "Sean Penn (People) - 2 mentions"
 id: "person-sean-penn"
 type: "PERSON"
+categories:
+  - "actor"
 ---
 
 _Type: People_
+
+**Categories:** actor
+
+**Entity verification:** verified
+> Canonical name and identity for Sean Penn confirmed by the cited direct external source.
+Source: [Sean Penn](https://en.wikipedia.org/wiki/Sean_Penn)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-sean-penn-t-00-46-47">2025-10-01 · 00:46:47</a></strong></div>

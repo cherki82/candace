@@ -11,7 +11,11 @@ object: "org-fatty15"
 
 ## [Candace Owens](/entities/person-candace-owens) endorsed [fatty15](/entities/org-fatty15)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
+
+**[Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE)**
+
+- [00:41:32](/episodes/ep-AH1KVKkweUE#t-00-41-32): _Well, that's why I'm very excited to tell you guys about Fatty 15, a science-based supplement that's built around C15, which is the first essential fatty acid that's been discovered in more than 90 years._
 
 **[Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY)**
 

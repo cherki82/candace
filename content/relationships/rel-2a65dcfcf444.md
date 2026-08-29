@@ -39,7 +39,7 @@ object: "person-jesse-watters"
 
 **[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
 
-- [00:36:46](/episodes/ep-q1NRQQAYS_Q#t-00-36-46): _Then we heard straight from Erica in November, a little more detail during her sit down with Jesse Waters._
+- [00:36:46](/episodes/ep-q1NRQQAYS_Q#t-00-36-46): _Then we heard straight from Erica (Erika Kirk) in November, a little more detail during her sit down with Jesse Watters._
 
 **[#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ)**
 

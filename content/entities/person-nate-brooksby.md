@@ -1,6 +1,6 @@
 ---
 title: "Nate Brooksby"
-description: "Nate Brooksby (People) - 24 mentions"
+description: "Nate Brooksby (People) - 27 mentions"
 id: "person-nate-brooksby"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Washington County Campaign Financial Reports](https://www.washco.utah.g
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-nate-brooksby-t-00-08-57">2025-09-29 · 00:08:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-nate-brooksby-t-01-38-59">2026-08-14 · 01:39:03</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>24</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-nate-brooksby-t-00-30-29">2026-08-19 · 00:30:57</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>27</strong></div>
 <div><span>Statements by</span><strong>6</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
@@ -41,7 +41,10 @@ Source: [Washington County Campaign Financial Reports](https://www.washco.utah.g
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-nate-brooksby-t-00-28-14" style="--pulse-height:89%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 8 mentions" title="2026-03-30 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-nate-brooksby-t-00-38-00" style="--pulse-height:44%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 4 mentions" title="2026-04-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-nate-brooksby-t-00-02-47" style="--pulse-height:11%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-person-nate-brooksby-t-00-10-31" style="--pulse-height:11%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-nate-brooksby-t-01-38-59" style="--pulse-height:11%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-nate-brooksby-t-01-08-16" style="--pulse-height:11%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-person-nate-brooksby-t-00-30-29" style="--pulse-height:11%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,7 +55,10 @@ Source: [Washington County Campaign Financial Reports](https://www.washco.utah.g
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-nate-brooksby-t-00-28-14) | 8 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-nate-brooksby-t-00-38-00) | 4 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-nate-brooksby-t-00-02-47) | 1 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-person-nate-brooksby-t-00-10-31) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-nate-brooksby-t-01-38-59) | 1 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-nate-brooksby-t-01-08-16) | 1 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-nate-brooksby-t-00-30-29) | 1 |
 
 </details>
 </section>
@@ -60,13 +66,37 @@ Source: [Washington County Campaign Financial Reports](https://www.washco.utah.g
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
+
+**[00:30:57](/episodes/ep-9hRcfSrri70.md#ent-person-nate-brooksby-t-00-30-29)**
+> "...the family friend who Sheriff Brooksby was like, I got a call from Mike Mitchell saying ..."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[01:39:03](/episodes/ep-nPhCKwJ6ye8.md#ent-person-nate-brooksby-t-01-38-59)**
 > "... happened in terms of Sheriff Brooksby who was present there and gave a press conference..."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (1 mentions)</summary>
+
+**[01:08:19](/episodes/ep-aPOyk1i2LOc.md#ent-person-nate-brooksby-t-01-08-16)**
+> "... happened in terms of Sheriff Brooksby who was present there and gave a press conference..."
+
+</details>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
+
+**[00:10:45](/episodes/ep-HGtMfbePDKk.md#ent-person-nate-brooksby-t-00-10-31)**
+> "...which is exactly what Sheriff Brooksby shared, the truth."
 
 </details>
 
@@ -176,7 +206,7 @@ Source: [Washington County Campaign Financial Reports](https://www.washco.utah.g
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:17:02](/episodes/ep-ZGxnf5cj4Uw.md#t-00-16-40): “Even in that press conference, by the way—Brooksby—I don't like the way he's moving. I don't like the way Nate Brooksby is breathing.”
-- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:38:41](/episodes/ep-eLgD5yUVbko.md#t-00-38-00): “They tell us at nine o'clock that Tyler arrives at the police station. That's according to the press conference that is given by Sheriff Nate Brooksby. That's not going to track everything. Everything just falls apart. It almost feels like they're trying to fit it in to make it seem that it was in the 33rd hour. That Tyler Robinson was booked. cash fatal will later say that they're all saying in the 33rd hour this feels entirely fictitious to me i have said i feel like they just wanted to say 33 hours because it seems to me like they were signaling to one another um 33 33 yes that stuff exists yes freemasonry exists yes this exists globally we just proved that a couple of weeks ago france assassin squads tied to freemasonry so we can stop pretending that that's a figment of I mean, if anyone's imagination, least of all mine, something that Blake Neff was cutting apart about, you think there's symbolism with 30? Yes, I know that there is symbolism. That symbolism is crucial to Freemasonry. I know that Freemasonic gangs exist and they carry out hits and they murder people. And if you don't know that, I would be pretty surprised, Blake. You wouldn't be so, so angry if you didn't know that. At 1026, the search warrants. For instance, Tyler Robinson arrived at Washington County Sheriff's Office with his parents. So we already have this disparity. It's good to see these timelines because once you start plotting it, you're like, wait a second. So why did Sheriff Brooksby tell us that he arrived at nine? Now we hear that he arrived at 1026. And by the way, the tape is apparently lost of when he arrived.”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:38:41](/episodes/ep-eLgD5yUVbko.md#t-00-38-41): “They tell us at nine o'clock that Tyler arrives at the police station. That's according to the press conference that is given by Sheriff Nate Brooksby. That's not going to track everything. Everything just falls apart. It almost feels like they're trying to fit it in to make it seem that it was in the 33rd hour. That Tyler Robinson was booked. Kash Patel will later say that they're all saying in the 33rd hour this feels entirely fictitious to me i have said i feel like they just wanted to say 33 hours because it seems to me like they were signaling to one another um 33 33 yes that stuff exists yes freemasonry exists yes this exists globally we just proved that a couple of weeks ago france assassin squads tied to freemasonry so we can stop pretending that that's a figment of I mean, if anyone's imagination,”
 
 </details>
 
@@ -244,7 +274,7 @@ Source: [Washington County Campaign Financial Reports](https://www.washco.utah.g
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [They Are Lying About Tyler Robinson. | Candace Ep 244 @ 00:17:02](/episodes/ep-ZGxnf5cj4Uw.md#t-00-16-40): “Even in that press conference, by the way—Brooksby—I don't like the way he's moving. I don't like the way Nate Brooksby is breathing.”
-- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:38:41](/episodes/ep-eLgD5yUVbko.md#t-00-38-00): “They tell us at nine o'clock that Tyler arrives at the police station. That's according to the press conference that is given by Sheriff Nate Brooksby. That's not going to track everything. Everything just falls apart. It almost feels like they're trying to fit it in to make it seem that it was in the 33rd hour. That Tyler Robinson was booked. cash fatal will later say that they're all saying in the 33rd hour this feels entirely fictitious to me i have said i feel like they just wanted to say 33 hours because it seems to me like they were signaling to one another um 33 33 yes that stuff exists yes freemasonry exists yes this exists globally we just proved that a couple of weeks ago france assassin squads tied to freemasonry so we can stop pretending that that's a figment of I mean, if anyone's imagination, least of all mine, something that Blake Neff was cutting apart about, you think there's symbolism with 30? Yes, I know that there is symbolism. That symbolism is crucial to Freemasonry. I know that Freemasonic gangs exist and they carry out hits and they murder people. And if you don't know that, I would be pretty surprised, Blake. You wouldn't be so, so angry if you didn't know that. At 1026, the search warrants. For instance, Tyler Robinson arrived at Washington County Sheriff's Office with his parents. So we already have this disparity. It's good to see these timelines because once you start plotting it, you're like, wait a second. So why did Sheriff Brooksby tell us that he arrived at nine? Now we hear that he arrived at 1026. And by the way, the tape is apparently lost of when he arrived.”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:38:41](/episodes/ep-eLgD5yUVbko.md#t-00-38-41): “They tell us at nine o'clock that Tyler arrives at the police station. That's according to the press conference that is given by Sheriff Nate Brooksby. That's not going to track everything. Everything just falls apart. It almost feels like they're trying to fit it in to make it seem that it was in the 33rd hour. That Tyler Robinson was booked. Kash Patel will later say that they're all saying in the 33rd hour this feels entirely fictitious to me i have said i feel like they just wanted to say 33 hours because it seems to me like they were signaling to one another um 33 33 yes that stuff exists yes freemasonry exists yes this exists globally we just proved that a couple of weeks ago france assassin squads tied to freemasonry so we can stop pretending that that's a figment of I mean, if anyone's imagination,”
 
 </details>
 

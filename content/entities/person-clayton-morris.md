@@ -3,9 +3,18 @@ title: "Clayton Morris"
 description: "Clayton Morris (People) - 1 mention"
 id: "person-clayton-morris"
 type: "PERSON"
+categories:
+  - "media host"
+  - "interviewer"
 ---
 
 _Type: People_
+
+**Categories:** media host, interviewer
+
+**Entity verification:** verified
+> The episode transcript directly addresses Clayton as the interviewer. This is narrow source-context verification only.
+Source: [INSANITY! Guess Who Kash Patel Sent — source episode](https://www.youtube.com/watch?v=t1YtLS1n8Vs)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#t-00-29-07">2025-10-02 · 00:29:07</a></strong></div>

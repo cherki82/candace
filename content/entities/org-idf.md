@@ -6,13 +6,21 @@ type: "ORG"
 aliases:
   - "Israel Defense Forces"
   - "Israeli Defense Forces"
+categories:
+  - "Israeli military"
 ---
 
 _Type: Organizations_
 
 **Also known as:** Israel Defense Forces, Israeli Defense Forces
 
+**Categories:** Israeli military
+
 > **Possibly overlapping entity records:** [Israel Defense Forces](/entities/org-israel-defense-forces). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> Canonical name and identity for IDF confirmed by the cited direct external source.
+Source: [Israel Defense Forces](https://www.idf.il/en/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-idf-t-01-02-48">2025-09-15 · 01:03:26</a></strong></div>
@@ -132,7 +140,7 @@ _Type: Organizations_
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (3 mentions)</summary>
 
 **[00:44:06](/episodes/ep-adJ4LNGp84I.md#ent-org-idf-t-00-44-06)**
-> "...t. There is a note here for my producer from Erica Mendel, who is an American-Israeli Jewish former IDF soldier currently serving as the—oh, that's her name, right? Erica Mendel. She is the public policy..."
+> "There is a note here for my producer from Erica Mindel, who is an American-Israeli Jewish former IDF soldier currently serving as the—oh, that's her name, right? Erica Mindel."
 
 **[00:44:21](/episodes/ep-adJ4LNGp84I.md#ent-org-idf-t-00-44-06)**
 > "...te speech. And she's been at TikTok since July of this year, and she's like, yeah, whatever, I'm an IDF soldier and it's now war, and we own this space. So of course the deal is going to go through if th..."

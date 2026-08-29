@@ -3,9 +3,17 @@ title: "James Comey"
 description: "James Comey (People) - 1 mention"
 id: "person-james-comey"
 type: "PERSON"
+categories:
+  - "former FBI director"
 ---
 
 _Type: People_
+
+**Categories:** former FBI director
+
+**Entity verification:** verified
+> The FBI's official history page confirms the canonical name and former director role.
+Source: [James B. Comey — FBI History](https://www.fbi.gov/history/directors/james-b-comey)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-james-comey-t-00-09-05">2025-10-02 · 00:09:33</a></strong></div>

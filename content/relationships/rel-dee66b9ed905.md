@@ -11,7 +11,7 @@ object: "person-erika-kirk"
 
 ## [Turning Point USA](/entities/org-turning-point-usa) has chairman [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (15 mentions)
+### Evidence (16 mentions)
 
 **[Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg)**
 
@@ -28,6 +28,10 @@ object: "person-erika-kirk"
 **[Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY)**
 
 - [00:10:28](/episodes/ep-DdPjoy5W-wY#t-00-10-28): _Oh, how are you doing this? Well, of course, because God so willed it. She must continue Charlie (Charlie Kirk)'s company. ... By her kids not only have one parent, by dividing her time to be a CEO and a chairman. ... She's just going to take on Turning Point USA and she wants us to believe that she's both putting her children first and putting the company first._
+
+**[Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA)**
+
+- [00:01:13](/episodes/ep-E7P2ShoYDUA#t-00-01-13): _Erika Kirk, the CEO and chairwoman, ruined this organization in under a year, which is incredible._
 
 **[IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ)**
 

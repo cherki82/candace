@@ -1,6 +1,6 @@
 ---
 title: "James Norman Rawlinson Jr."
-description: "James Norman Rawlinson Jr. (People) - 12 mentions"
+description: "James Norman Rawlinson Jr. (People) - 13 mentions"
 id: "person-james-norman-rawlinson-jr"
 type: "PERSON"
 aliases:
@@ -24,11 +24,11 @@ Source: [Utah National Guard Minuteman - Winter/Fall 2013](https://guard.utah.go
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-person-james-norman-rawlinson-jr-t-00-05-38">2026-06-26 · 00:05:38</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-person-james-norman-rawlinson-jr-t-00-48-02">2026-06-26 · 00:48:02</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-person-james-norman-rawlinson-jr-t-00-02-09">2026-08-06 · 00:02:23</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -38,12 +38,14 @@ Source: [Utah National Guard Minuteman - Winter/Fall 2013](https://guard.utah.go
 <p>Highest activity: <a href="/episodes/ep-IqHsl7d2dos.md#ent-person-james-norman-rawlinson-jr-t-00-05-38">TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356</a> (12 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-person-james-norman-rawlinson-jr-t-00-05-38" style="--pulse-height:100%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 12 mentions" title="2026-06-26 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-person-james-norman-rawlinson-jr-t-00-02-09" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-james-norman-rawlinson-jr-t-00-05-38) | 12 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-james-norman-rawlinson-jr-t-00-02-09) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [Utah National Guard Minuteman - Winter/Fall 2013](https://guard.utah.go
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:02:23](/episodes/ep-ChuWo-n49B8.md#ent-person-james-norman-rawlinson-jr-t-00-02-09)**
+> "He goes by David Sprague, but he actually changed his name. It used to be James Rawlinson."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (12 mentions)</summary>
@@ -178,7 +188,14 @@ Source: [Utah National Guard Minuteman - Winter/Fall 2013](https://guard.utah.go
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about James Norman Rawlinson Jr. (5)</strong></summary>
+<summary><strong class="section-title">Statements about James Norman Rawlinson Jr. (6)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
+
+- [00:02:23](/episodes/ep-ChuWo-n49B8.md#t-00-02-09) (Claim) **Candace Owens**: ["The man using the name David Sprague had changed his name from James N..."](/statements/statement-eada5a6721ed.md)
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (5)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "TMZ"
-description: "TMZ (Organizations) - 42 mentions"
+description: "TMZ (Organizations) - 44 mentions"
 id: "org-tmz"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [About TMZ](https://www.tmz.com/pages/about-us/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-tmz-t-00-39-23">2025-09-15 · 00:39:09</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-tmz-t-00-40-09">2026-07-23 · 00:40:45</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>42</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#ent-org-tmz-t-00-14-25">2026-08-10 · 00:14:25</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>44</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -51,6 +51,8 @@ Source: [About TMZ](https://www.tmz.com/pages/about-us/)
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-org-tmz-t-00-44-18" style="--pulse-height:9%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-tmz-t-00-21-06" style="--pulse-height:27%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 3 mentions" title="2026-05-19 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-org-tmz-t-00-40-09" style="--pulse-height:9%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-tmz-t-00-18-53" style="--pulse-height:9%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#ent-org-tmz-t-00-14-25" style="--pulse-height:9%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -72,6 +74,8 @@ Source: [About TMZ](https://www.tmz.com/pages/about-us/)
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-tmz-t-00-44-18) | 1 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-tmz-t-00-21-06) | 3 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-tmz-t-00-40-09) | 1 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-org-tmz-t-00-18-53) | 1 |
+| 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-org-tmz-t-00-14-25) | 1 |
 
 </details>
 </section>
@@ -79,7 +83,23 @@ Source: [About TMZ](https://www.tmz.com/pages/about-us/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (42)</strong></summary>
+<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>
+
+**[00:14:25](/episodes/ep-5zgkrOaCCj4.md#ent-org-tmz-t-00-14-25)**
+> "...ouse at 8.07 a.m. That's that TMZ released footage, 8.07 a.m."
+
+</details>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
+
+**[00:18:53](/episodes/ep-d7VsbEIWkP8.md#ent-org-tmz-t-00-18-53)**
+> "TMZ's cameras"
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>

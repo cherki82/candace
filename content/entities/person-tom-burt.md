@@ -26,7 +26,7 @@ Source: [Duncan Aviation — Tom Burt retirement](https://www.duncanaviation.aer
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -67,21 +67,49 @@ Source: [Duncan Aviation — Tom Burt retirement](https://www.duncanaviation.aer
 <summary>Coo Of (1)</summary>
 
 - **[Duncan Aviation](/entities/org-duncan-aviation.md)**
+
+</details>
+
+<details>
+<summary>Formerly Worked For (1)</summary>
+
+- **[Duncan Aviation](/entities/org-duncan-aviation.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:39:19](/episodes/ep-HYn0P-P1wUw.md#t-00-38-59): “It's Tom Burt, who ran Duncan Aviation. The FBO, I told you, that rented the cars for the feds, he actually ran Duncan Aviation as the executive vice president and COO for 22 years.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:39:19](/episodes/ep-HYn0P-P1wUw.md#t-00-38-59): “It's Tom Burt, who ran Duncan Aviation. The FBO, I told you, that rented the cars for the feds, he actually ran Duncan Aviation as the executive vice president and COO for 22 years. Now, he did retire. He retired in 2019.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Parent-In-Law Of (1)</summary>
 
-- **[Duncan Aviation](/entities/org-duncan-aviation.md)** has COO this
+- **[Terryl Farnsworth](/entities/person-terryl-farnsworth.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:39:19](/episodes/ep-HYn0P-P1wUw.md#t-00-38-59): “It's Tom Burt, who ran Duncan Aviation. The FBO, I told you, that rented the cars for the feds, he actually ran Duncan Aviation as the executive vice president and COO for 22 years.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:38:59](/episodes/ep-HYn0P-P1wUw.md#t-00-38-59): “just be a coincidence but it's interesting it would give them an excuse to be in that region and so i'd like to know more because the farnsworth family is coming up too much tarot farnsworth's wife by the way people on the internet discovered this um and i'm gonna get the name i don't want to get this name right i'm gonna get this name right i mean i don't want to get it wrong his father-in-law It's Tom Burt, who ran Duncan Aviation.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (3)</summary>
+
+- **[Duncan Aviation](/entities/org-duncan-aviation.md)** formerly employed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:39:19](/episodes/ep-HYn0P-P1wUw.md#t-00-38-59): “It's Tom Burt, who ran Duncan Aviation. The FBO, I told you, that rented the cars for the feds, he actually ran Duncan Aviation as the executive vice president and COO for 22 years. Now, he did retire. He retired in 2019.”
+
+</details>
+
+- **[Duncan Aviation](/entities/org-duncan-aviation.md)** has COO this
+
+- **[Terryl Farnsworth](/entities/person-terryl-farnsworth.md)** son-in-law of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:38:59](/episodes/ep-HYn0P-P1wUw.md#t-00-38-59): “just be a coincidence but it's interesting it would give them an excuse to be in that region and so i'd like to know more because the farnsworth family is coming up too much tarot farnsworth's wife by the way people on the internet discovered this um and i'm gonna get the name i don't want to get this name right i'm gonna get this name right i mean i don't want to get it wrong his father-in-law It's Tom Burt, who ran Duncan Aviation.”
 
 </details>
 

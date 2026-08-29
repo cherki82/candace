@@ -3,9 +3,17 @@ title: "Eminem"
 description: "Eminem (People) - 3 mentions"
 id: "person-eminem"
 type: "PERSON"
+categories:
+  - "musician"
 ---
 
 _Type: People_
+
+**Categories:** musician
+
+**Entity verification:** verified
+> Canonical name and identity for Eminem confirmed by the cited direct external source.
+Source: [Eminem](https://en.wikipedia.org/wiki/Eminem)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-person-eminem-t-00-50-14">2025-10-27 · 00:50:31</a></strong></div>

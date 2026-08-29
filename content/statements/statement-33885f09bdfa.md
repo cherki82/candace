@@ -1,6 +1,6 @@
 ---
-title: "Rob McCoy was in Jerusalem on November 16th at an event bill..."
-description: "\"Rob McCoy was in Jerusalem on November 16th at an event billed as a celebration of the life of Charlie Kirk\" — Candace Owens"
+title: "Rob McCoy was apparently in Jerusalem on November 16 at an e..."
+description: "\"Rob McCoy was apparently in Jerusalem on November 16 at an event billed as a celebration of Charlie Kirk's life.\" — Candace Owens"
 statement_id: "statement-33885f09bdfa"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> Rob McCoy was in Jerusalem on November 16th at an event billed as a celebration of the life of Charlie Kirk
+> Rob McCoy was apparently in Jerusalem on November 16 at an event billed as a celebration of Charlie Kirk's life.
 
 ## Attribution
 
@@ -25,23 +25,13 @@ veracity: "true"
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Rob McCoy](/entities/person-rob-mccoy.md) (person)
 
-## Appearances (2)
-
-### 1. The Great Exodus From Utah? Where Did The "Egyptians" Go On ...
+## Source
 
 **Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
 **Timestamp:** [00:38:41](/episodes/ep-581dILVcEE4.md#t-00-38-23) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2321);return false;">Play</a>
 
 > So America's Pastor Rob McCoy was in Jerusalem on November 16th, apparently. A couple days ago, he was at an event. It was billed as a celebration of the life of Charlie (Charlie Kirk).
-
-### 2. The Great Exodus From Utah? Where Did The "Egyptians" Go On ...
-
-**Episode:** [The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267](/episodes/ep-581dILVcEE4.md)
-**Timestamp:** [00:38:37](/episodes/ep-581dILVcEE4.md#t-00-38-23) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2317);return false;">Play</a>
-
-> Chapel Church movement. So America's Pastor Rob McCoy was in Jerusalem on November 16th, apparently. A couple days ago, he was at an
 
 ## Verification
 

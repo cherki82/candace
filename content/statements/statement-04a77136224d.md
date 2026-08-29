@@ -31,7 +31,7 @@ type: "factual_claim"
 **Timestamp:** [00:42:40](/episodes/ep-q1NRQQAYS_Q.md#t-00-42-13) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2560);return false;">Play</a>
 
-> OK, and lastly, we were given the name of a woman from Dassault, Minnesota, who has claimed that she and not Erica was with Lori when when Lori got the news that her son-in-law had been shot again.
+> OK, and lastly, we were given the name of a woman from Dassault, Minnesota, who has claimed that she and not Erica (Erika Kirk) was with Lori (Lori Frantzve) when when Lori (Lori Frantzve) got the news that her son-in-law had been shot again.
 
 ## Verification
 

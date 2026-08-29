@@ -1,6 +1,6 @@
 ---
 title: "Bible"
-description: "Bible (Works & Media) - 83 mentions"
+description: "Bible (Works & Media) - 87 mentions"
 id: "work-bible"
 type: "WORK"
 aliases:
@@ -22,9 +22,9 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-work-bible-t-00-38-18">2025-10-30 · 00:38:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-work-bible-t-00-50-45">2026-07-16 · 00:50:45</a></strong></div>
-<div><span>Episodes</span><strong>22</strong></div>
-<div><span>Mentions</span><strong>83</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#ent-work-bible-t-00-47-58">2026-08-10 · 00:48:08</a></strong></div>
+<div><span>Episodes</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>87</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -57,6 +57,9 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-work-bible-t-00-58-53" style="--pulse-height:11%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 2 mentions" title="2026-06-24 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-work-bible-t-00-51-16" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-work-bible-t-00-50-45" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-work-bible-t-00-42-30" style="--pulse-height:8%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 1 mentions" title="2026-07-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-work-bible-t-00-00-01" style="--pulse-height:11%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 2 mentions" title="2026-08-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#ent-work-bible-t-00-47-58" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -84,6 +87,9 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-work-bible-t-00-58-53) | 2 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-work-bible-t-00-51-16) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-work-bible-t-00-50-45) | 1 |
+| 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-work-bible-t-00-42-30) | 1 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-work-bible-t-00-00-01) | 2 |
+| 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-work-bible-t-00-47-58) | 1 |
 
 </details>
 </section>
@@ -91,7 +97,34 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (83)</strong></summary>
+<summary><strong class="section-title">Raw mentions (87)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>
+
+**[00:48:08](/episodes/ep-5zgkrOaCCj4.md#ent-work-bible-t-00-47-58)**
+> "...t their constant usage of the Bible and biblical Proverbs to somehow essentially, and..."
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (2 mentions)</summary>
+
+**[00:00:08](/episodes/ep-1CFDtD0IgEg.md#ent-work-bible-t-00-00-01)**
+> "... on X for seemingly using the Bible to message that I should be struck down."
+
+**[00:04:54](/episodes/ep-1CFDtD0IgEg.md#ent-work-bible-t-00-04-38)**
+> "...you need two witnesses in the bible right you need evidence you don't falsely accuse ..."
+
+</details>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (1 mentions)</summary>
+
+**[00:42:30](/episodes/ep-AoYZel7_cGQ.md#ent-work-bible-t-00-42-30)**
+> "...ry clearly represented in the Bible as messages from God."
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>

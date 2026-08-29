@@ -5,11 +5,20 @@ id: "person-skordas"
 type: "PERSON"
 aliases:
   - "Skordas"
+categories:
+  - "attorney"
+  - "former prosecutor"
 ---
 
 _Type: People_
 
 **Also known as:** Skordas
+
+**Categories:** attorney, former prosecutor
+
+**Entity verification:** verified
+> The source confirms attorney and former-prosecutor Greg Skordas; the graph retains the transcript's partial-name canonical label.
+Source: [Greg Skordas — KSL NewsRadio](https://kslnewsradio.com/our-team-members/greg-skordas/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-skordas-t-00-31-51">2025-10-02 · 00:31:51</a></strong></div>

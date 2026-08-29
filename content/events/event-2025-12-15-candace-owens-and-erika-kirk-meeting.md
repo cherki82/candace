@@ -11,7 +11,7 @@ date: "2025-12-15"
 
 > Candace Owens and Erika Kirk meeting
 
-## Mentioned In (9 times)
+## Mentioned In (10 times)
 
 ### 1. Erika And I Sat Down. Here’s What Happened. | Candace Ep 280
 
@@ -37,15 +37,7 @@ date: "2025-12-15"
 
 > Didn't start covering Erika until Erika lied to my face in December, but that doesn't matter.
 
-### 4. SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | ...
-
-**Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
-**Timestamp:** [00:04:40](/episodes/ep-q1NRQQAYS_Q.md#event-event-2025-12-15-candace-owens-and-erika-kirk-meeting-t-00-04-21) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(280);return false;">▶️ Play</a>
-
-> when I sat down with Erica Kirk on December 15th, I had a very short list of questions
-
-### 5. EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His ...
+### 4. EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His ...
 
 **Episode:** [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md)
 **Timestamp:** [00:08:50](/episodes/ep-kaWtDuoY_ns.md#t-00-08-50) 
@@ -53,7 +45,7 @@ date: "2025-12-15"
 
 > That is what I was told by Erika's lawyer on December 15th.
 
-### 6. TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330
+### 5. TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330
 
 **Episode:** [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md)
 **Timestamp:** [00:52:45](/episodes/ep-qZ8RWfyuewQ.md#t-00-52-45) 
@@ -61,7 +53,7 @@ date: "2025-12-15"
 
 > what questions I planned to ask Erica when we met up at the end of December.
 
-### 7. BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331
+### 6. BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331
 
 **Episode:** [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md)
 **Timestamp:** [00:47:39](/episodes/ep-69A8TzAGHlU.md#t-00-47-14) 
@@ -69,7 +61,7 @@ date: "2025-12-15"
 
 > went into that conversation with Erica on December 15th, already convinced of her guilt
 
-### 8. Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing I...
+### 7. Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing I...
 
 **Episode:** [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md)
 **Timestamp:** [00:19:20](/episodes/ep-k1b1NDCrNFs.md#t-00-19-07) 
@@ -77,10 +69,26 @@ date: "2025-12-15"
 
 > Erika and I had just sat down on December 15th.
 
-### 9. Update! Erika Did Not Go Home. Source Confirms AI Voice Tact...
+### 8. Update! Erika Did Not Go Home. Source Confirms AI Voice Tact...
 
 **Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
 **Timestamp:** [00:48:52](/episodes/ep-KpxIBWkNsSs.md#t-00-48-33) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2932);return false;">▶️ Play</a>
 
 > then Erika comes and we sit down they scheduled it for Monday
+
+### 9. Behind The Scenes Of The Great Debate: TPUSA Is The Biggest ...
+
+**Episode:** [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md)
+**Timestamp:** [00:20:15](/episodes/ep-E7P2ShoYDUA.md#t-00-19-58) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1215);return false;">▶️ Play</a>
+
+> days after that is when Erika then came to Nashville and we had this summit
+
+### 10. SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | ...
+
+**Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
+**Timestamp:** [00:04:40](/episodes/ep-q1NRQQAYS_Q.md#event-event-2025-12-15-candace-owens-and-erika-kirk-meeting-t-00-04-21) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(280);return false;">▶️ Play</a>
+
+> when I sat down with Erika Kirk on December 15th, I had a very short list of questions

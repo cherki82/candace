@@ -1,6 +1,6 @@
 ---
 title: "iMessage"
-description: "iMessage (Works & Media) - 5 mentions"
+description: "iMessage (Works & Media) - 7 mentions"
 id: "work-imessage"
 type: "WORK"
 categories:
@@ -16,12 +16,12 @@ _Type: Works & Media_
 Source: [About iMessage - Apple Support](https://support.apple.com/guide/iphone/about-imessage-iph4e9799206/26/ios/26)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-work-imessage-t-00-23-27">2026-02-11 · 00:23:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-work-imessage-t-01-06-06">2026-05-28 · 01:06:06</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#t-00-51-00">2026-01-05 · 00:51:00</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-work-imessage-t-00-21-59">2026-08-17 · 00:21:59</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -30,17 +30,21 @@ Source: [About iMessage - Apple Support](https://support.apple.com/guide/iphone/
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-eLgD5yUVbko.md#ent-work-imessage-t-00-43-00">Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-OEAHy3SsIiI.md#t-00-51-00" style="--pulse-height:50%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-work-imessage-t-00-23-27" style="--pulse-height:50%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-work-imessage-t-00-43-00" style="--pulse-height:100%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-work-imessage-t-01-06-06" style="--pulse-height:50%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-work-imessage-t-00-21-59" style="--pulse-height:50%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#t-00-51-00) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-work-imessage-t-00-23-27) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-work-imessage-t-00-43-00) | 2 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-work-imessage-t-01-06-06) | 1 |
+| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-work-imessage-t-00-21-59) | 1 |
 
 </details>
 </section>
@@ -48,7 +52,15 @@ Source: [About iMessage - Apple Support](https://support.apple.com/guide/iphone/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1 mentions)</summary>
+
+**[00:21:59](/episodes/ep-E7P2ShoYDUA.md#ent-work-imessage-t-00-21-59)**
+> "who has promised that he's going to release this on his show because he's got evidence actually does release that message, which is supposed to be on Signal, but I know for a fact is on iMessage."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
@@ -77,6 +89,14 @@ Source: [About iMessage - Apple Support](https://support.apple.com/guide/iphone/
 
 </details>
 
+<details>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
+
+**[00:51:00](/episodes/ep-OEAHy3SsIiI.md#t-00-51-00)**
+> "Erika (Erika Kirk) didn't know this information and she was looking in his iMessages."
+
+</details>
+
 </details>
 
 <details open>
@@ -87,7 +107,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about iMessage (4)</strong></summary>
+<summary><strong class="section-title">Statements about iMessage (5)</strong></summary>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1)</summary>
+
+- [00:20:59](/episodes/ep-E7P2ShoYDUA.md#t-00-20-43) (Accusation) **Candace Owens**: ["Owens accused Erika Kirk of falsely saying Charlie Kirk's security-tea..."](/statements/statement-99d90f2849ce.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Signal Messenger](/entities/org-signal-messenger.md)
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (2)</summary>

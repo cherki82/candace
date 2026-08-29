@@ -1,6 +1,6 @@
 ---
 title: "Taylor Swift"
-description: "Taylor Swift (People) - 38 mentions"
+description: "Taylor Swift (People) - 40 mentions"
 id: "person-taylor-swift"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-taylor-swift-t-00-38-16">2025-11-06 · 00:38:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-taylor-swift-t-00-47-56">2026-07-14 · 00:48:16</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>38</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-taylor-swift-t-00-50-26">2026-08-19 · 00:50:40</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>40</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>7</strong></div>
@@ -46,6 +46,8 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-taylor-swift-t-00-44-12" style="--pulse-height:25%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 4 mentions" title="2026-05-05 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-person-taylor-swift-t-00-43-24" style="--pulse-height:12%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-taylor-swift-t-00-47-56" style="--pulse-height:8%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-taylor-swift-t-00-31-08" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-person-taylor-swift-t-00-50-26" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -62,6 +64,8 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-taylor-swift-t-00-44-12) | 4 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-taylor-swift-t-00-43-24) | 2 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-taylor-swift-t-00-47-56) | 1 |
+| 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-person-taylor-swift-t-00-31-08) | 1 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-taylor-swift-t-00-50-26) | 1 |
 
 </details>
 </section>
@@ -69,7 +73,23 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
+
+**[00:50:40](/episodes/ep-9hRcfSrri70.md#ent-person-taylor-swift-t-00-50-26)**
+> "Was I playing the Taylor Swift game when I said I'm not going to get myself in a..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>
+
+**[00:31:08](/episodes/ep-5zgkrOaCCj4.md#ent-person-taylor-swift-t-00-31-08)**
+> "...women because it gave me like Taylor Swift's fan club and why I always critique her when she's..."
+
+</details>
 
 <details>
 <summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1 mentions)</summary>

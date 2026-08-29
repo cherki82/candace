@@ -371,7 +371,7 @@ Source: [United States Secret Service - About Us](https://www.secretservice.gov/
 - [00:11:00](/episodes/ep-SKGUzGHymcI.md#t-00-10-15) (Claim) **Candace Owens**: ["The DEA and United States Secret Service are both currently located at..."](/statements/statement-b9552222e57e.md)
   - Also about: [DEA](/entities/org-dea.md), [Wilmington](/entities/gpe-wilmington.md)
 
-- [00:15:36](/episodes/ep-SKGUzGHymcI.md#t-00-14-53) (Claim) **Candace Owens**: ["920 North King Street in Wilmington is a joint DOJ-DHS site that house..."](/statements/statement-ecdfdd6a0965.md)
+- [00:16:00](/episodes/ep-SKGUzGHymcI.md#t-00-15-37) (Claim) **Candace Owens**: ["Candace Owens said 920 North King Street in Wilmington appeared to be ..."](/statements/statement-ecdfdd6a0965.md)
   - Also about: [FBI](/entities/org-fbi.md), [DEA](/entities/org-dea.md), [Wilmington](/entities/gpe-wilmington.md)
 
 - [00:22:01](/episodes/ep-SKGUzGHymcI.md#t-00-21-36) (Claim) **Candace Owens**: ["The government agencies involved in the Egyptian plane operations conf..."](/statements/statement-709846473549.md)

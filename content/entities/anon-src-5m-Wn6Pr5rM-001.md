@@ -3,12 +3,16 @@ title: "Frank (TPUSA lawyer; surname unverified)"
 description: "Frank (TPUSA lawyer; surname unverified) (Anonymous Sources) - 1 mention"
 id: "anon-src-5m-Wn6Pr5rM-001"
 type: "ANONYMOUS_SOURCE"
+aliases:
+  - "Frank (TPUSA in-house lawyer; surname unverified)"
 categories:
   - "Turning Point USA"
   - "legal staff"
 ---
 
 _Type: Anonymous Sources_
+
+**Also known as:** Frank (TPUSA in-house lawyer; surname unverified)
 
 **Categories:** Turning Point USA, legal staff
 
@@ -60,9 +64,10 @@ _Type: Anonymous Sources_
 <summary>Works For (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:12:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-33): “Frank (TPUSA lawyer; surname unverified), who is the lawyer at Turning Point USA”
+- [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:34:25](/episodes/ep-HZvwbfePe7o.md#t-00-33-46): “Then your orbit is pretty solid, and I may be able to even produce a receipt tomorrow, so I'm just going to ask again to Andrew (Andrew Kolvet) openly, did you have a meeting scheduled at the White House, you and Marina Minas and Frank (TPUSA in-house lawyer; surname unverified), the in-house lawyer, and I'm actually hearing there could be some more people.”
 
 </details>
 
@@ -72,9 +77,10 @@ _Type: Anonymous Sources_
 <summary>Referenced By (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:12:47](/episodes/ep-5m-Wn6Pr5rM.md#t-00-12-33): “Frank (TPUSA lawyer; surname unverified), who is the lawyer at Turning Point USA”
+- [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:34:25](/episodes/ep-HZvwbfePe7o.md#t-00-33-46): “Then your orbit is pretty solid, and I may be able to even produce a receipt tomorrow, so I'm just going to ask again to Andrew (Andrew Kolvet) openly, did you have a meeting scheduled at the White House, you and Marina Minas and Frank (TPUSA in-house lawyer; surname unverified), the in-house lawyer, and I'm actually hearing there could be some more people.”
 
 </details>
 

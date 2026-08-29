@@ -5,13 +5,21 @@ id: "org-cdc"
 type: "ORG"
 aliases:
   - "Centers for Disease Control"
+categories:
+  - "U.S. public health agency"
 ---
 
 _Type: Organizations_
 
 **Also known as:** Centers for Disease Control
 
+**Categories:** U.S. public health agency
+
 > **Possibly overlapping entity records:** [Centers for Disease Control and Prevention](/entities/org-centers-for-disease-control-and-prevention). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> Canonical name and identity for CDC confirmed by the cited direct external source.
+Source: [About CDC](https://www.cdc.gov/about/cdc/index.html)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-cdc-t-00-22-34">2025-09-19 · 00:23:03</a></strong></div>

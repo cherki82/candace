@@ -269,7 +269,7 @@ youtube_url: "https://www.youtube.com/watch?v=mFuno0TuuQQ"
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:12:26](#t-00-11-55) [○] (Accusation) **Candace Owens**: ["Erika Kirk and Justin Streiff lied about knowing Pierre Falcone, even though bot..."](/statements/statement-171d680155e3.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Justin Streiff](/entities/person-justin-streiff.md), [Pierre Falcone](/entities/person-pierre-falcone.md)
-- [00:13:09](#t-00-12-40) [○] (Claim) **Candace Owens**: ["A large payment to Turning Point USA was coming from Pierre Falcone."](/statements/statement-7513a08257cb.md)
+- [00:13:09](#t-00-12-40) [○] (Claim) **Candace Owens**: ["Candace Owens said she believes a large payment to Turning Point USA was coming ..."](/statements/statement-7513a08257cb.md)
   - About: [Pierre Falcone](/entities/person-pierre-falcone.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 - [00:13:27](#t-00-13-22) [○] (Claim) **Candace Owens**: ["Pierre Falcone spoke with Justin Streiff and another Turning Point USA represent..."](/statements/statement-71178c913be4.md)
   - About: [Pierre Falcone](/entities/person-pierre-falcone.md), [Justin Streiff](/entities/person-justin-streiff.md), [Turning Point USA](/entities/org-turning-point-usa.md)

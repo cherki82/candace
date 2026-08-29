@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:15:08](/episodes/ep-9k2xrAC0H88.md#t-00-14-36) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(908);return false;">Play</a>
 
-> federal officers direct three police officers who I'm told between the three of these officers, they had less than a year and a half on the force
+> And what happens then is that federal officers direct three police officers who I'm told between the three of these officers, they had less than a year and a half. on the force, okay?
 
 ## Verification
 

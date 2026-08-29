@@ -1,6 +1,6 @@
 ---
 title: "Better Business Bureau"
-description: "Better Business Bureau (Organizations) - 24 mentions"
+description: "Better Business Bureau (Organizations) - 28 mentions"
 id: "org-better-business-bureau"
 type: "ORG"
 aliases:
@@ -21,9 +21,9 @@ Source: [Better Business Bureau — About BBB](https://www.bbb.org/all/about-bbb
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-org-better-business-bureau-t-00-25-49">2025-09-25 · 00:25:49</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-better-business-bureau-t-00-27-45">2026-07-23 · 00:28:10</a></strong></div>
-<div><span>Episodes</span><strong>24</strong></div>
-<div><span>Mentions</span><strong>24</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-org-better-business-bureau-t-00-27-24">2026-08-19 · 00:27:40</a></strong></div>
+<div><span>Episodes</span><strong>28</strong></div>
+<div><span>Mentions</span><strong>28</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -39,7 +39,7 @@ Source: [Better Business Bureau — About BBB](https://www.bbb.org/all/about-bbb
 <a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-better-business-bureau-t-00-28-01" style="--pulse-height:100%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-better-business-bureau-t-00-35-40" style="--pulse-height:100%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-better-business-bureau-t-00-48-38" style="--pulse-height:100%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-better-business-bureau-t-00-42-29" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-better-business-bureau-t-00-42-40" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-better-business-bureau-t-00-31-02" style="--pulse-height:100%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-better-business-bureau-t-00-17-40" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-org-better-business-bureau-t-00-25-13" style="--pulse-height:100%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
@@ -58,6 +58,10 @@ Source: [Better Business Bureau — About BBB](https://www.bbb.org/all/about-bbb
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-better-business-bureau-t-00-29-45" style="--pulse-height:100%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-better-business-bureau-t-00-27-41" style="--pulse-height:100%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-org-better-business-bureau-t-00-27-45" style="--pulse-height:100%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-better-business-bureau-t-00-25-11" style="--pulse-height:100%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-better-business-bureau-t-00-33-54" style="--pulse-height:100%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-better-business-bureau-t-00-53-21" style="--pulse-height:100%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-org-better-business-bureau-t-00-27-24" style="--pulse-height:100%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,7 +72,7 @@ Source: [Better Business Bureau — About BBB](https://www.bbb.org/all/about-bbb
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-org-better-business-bureau-t-00-28-01) | 1 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-org-better-business-bureau-t-00-35-40) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-org-better-business-bureau-t-00-48-38) | 1 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-better-business-bureau-t-00-42-29) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-better-business-bureau-t-00-42-40) | 1 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-better-business-bureau-t-00-31-02) | 1 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-better-business-bureau-t-00-17-40) | 1 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-better-business-bureau-t-00-25-13) | 1 |
@@ -87,6 +91,10 @@ Source: [Better Business Bureau — About BBB](https://www.bbb.org/all/about-bbb
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-better-business-bureau-t-00-29-45) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-better-business-bureau-t-00-27-41) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-better-business-bureau-t-00-27-45) | 1 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-org-better-business-bureau-t-00-25-11) | 1 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-org-better-business-bureau-t-00-33-54) | 1 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-better-business-bureau-t-00-53-21) | 1 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-org-better-business-bureau-t-00-27-24) | 1 |
 
 </details>
 </section>
@@ -94,7 +102,39 @@ Source: [Better Business Bureau — About BBB](https://www.bbb.org/all/about-bbb
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
+
+**[00:27:40](/episodes/ep-9hRcfSrri70.md#ent-org-better-business-bureau-t-00-27-24)**
+> "...s and an A-plus rating on the BBB."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (1 mentions)</summary>
+
+**[00:53:34](/episodes/ep-aPOyk1i2LOc.md#ent-org-better-business-bureau-t-00-53-21)**
+> "... a... an A plus rating on the BBB. So get your free 30-second personalized assessme..."
+
+</details>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
+
+**[00:33:54](/episodes/ep-d7VsbEIWkP8.md#ent-org-better-business-bureau-t-00-33-54)**
+> "BBB"
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
+
+**[00:25:38](/episodes/ep-Vu6Y24pqhZs.md#ent-org-better-business-bureau-t-00-25-11)**
+> "There's no minimum credit score that's required. PSDAT is the top rated company in the industry with thousands of five-star reviews and an A-plus rating on the BBB. So get your free 30-second personalized assessment today at pdsdebt.com slash candace. Again, that's pdsdebt.com slash candace."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>
@@ -243,7 +283,7 @@ Source: [Better Business Bureau — About BBB](https://www.bbb.org/all/about-bbb
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
 
-**[00:42:43](/episodes/ep-HYn0P-P1wUw.md#ent-org-better-business-bureau-t-00-42-29)**
+**[00:42:43](/episodes/ep-HYn0P-P1wUw.md#ent-org-better-business-bureau-t-00-42-40)**
 > "...S debt is A-plus rated by the Better Business Bureau. It boasts thousands of five-star reviews on Goog..."
 
 </details>

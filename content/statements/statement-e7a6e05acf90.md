@@ -4,9 +4,10 @@ description: "\"Pope Leo XIV said the Gospel's message is \"blessed are the peac
 statement_id: "statement-e7a6e05acf90"
 speaker: "Pope Leo XIV"
 type: "opinion"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -28,15 +29,29 @@ type: "opinion"
 ## Source
 
 **Episode:** [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md)
-**Timestamp:** [00:57:53](/episodes/ep-eLgD5yUVbko.md#t-00-57-35) 
+**Timestamp:** [00:57:53](/episodes/ep-eLgD5yUVbko.md#t-00-57-11) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3473);return false;">Play</a>
 
 > I basically said that the message of the church, my message, the message of the gospel, blessed are the peacemakers. ... And I will continue to speak out loud against war, looking to promote peace, promoting dialogue and multilateral relationships among the states to look for just solutions to problems. ... Too many people are suffering in the world today. Too many innocent people are being killed, and I think someone has to stand up and say there's a better way to do it.
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Verified. The source transcript at 3473.610-3507.394 seconds records Pope Leo saying the Gospel's message is 'blessed are the peacemakers' and that he would continue speaking strongly against war while promoting peace, dialogue, multilateral relations, and just solutions. Vatican News's contemporaneous account independently confirms the substance of those remarks.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Pope on board plane to Algeria: 'I am not a politician, I speak of the Gospel'](https://www.vaticannews.va/en/pope/news/2026-04/pope-on-board-plane-to-algeria-i-am-not-a-politician.html)
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](https://www.youtube.com/watch?v=eLgD5yUVbko)
+
+*Verified: 2026-08-28T18:23:53.662029*
 
 ---
 
-**Type:** Opinion | **Verifiable:** No
+**Type:** Opinion | **Verifiable:** Yes

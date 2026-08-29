@@ -1,6 +1,6 @@
 ---
 title: "The Washington Post"
-description: "The Washington Post (Organizations) - 13 mentions"
+description: "The Washington Post (Organizations) - 12 mentions"
 id: "org-washington-post"
 type: "ORG"
 aliases:
@@ -21,10 +21,10 @@ _Type: Organizations_
 Source: [About The Washington Post](https://www.washingtonpost.com/about-the-post/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-washington-post-t-00-26-10">2026-01-07 · 00:26:10</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-washington-post-t-00-44-01">2026-01-09 · 00:44:37</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-washington-post-t-00-25-29">2026-06-22 · 00:25:57</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -35,7 +35,6 @@ Source: [About The Washington Post](https://www.washingtonpost.com/about-the-pos
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-washington-post-t-00-44-01">The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-washington-post-t-00-26-10" style="--pulse-height:33%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-washington-post-t-00-44-01" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-washington-post-t-00-50-52" style="--pulse-height:33%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-washington-post-t-00-39-51" style="--pulse-height:67%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
@@ -47,7 +46,6 @@ Source: [About The Washington Post](https://www.washingtonpost.com/about-the-pos
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-org-washington-post-t-00-26-10) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-washington-post-t-00-44-01) | 3 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-washington-post-t-00-50-52) | 1 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-org-washington-post-t-00-39-51) | 2 |
@@ -61,7 +59,7 @@ Source: [About The Washington Post](https://www.washingtonpost.com/about-the-pos
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
 
 <details>
 <summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (3 mentions)</summary>
@@ -129,14 +127,6 @@ Source: [About The Washington Post](https://www.washingtonpost.com/about-the-pos
 
 </details>
 
-<details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1 mentions)</summary>
-
-**[00:26:10](/episodes/ep-zSKrxIUMNqw.md#ent-org-washington-post-t-00-26-10)**
-> "eyewitness testimony from the Washington Post's Ben Terris, physical bruises and a videotape. Bot..."
-
-</details>
-
 </details>
 
 <details open>
@@ -199,11 +189,11 @@ Source: [About The Washington Post](https://www.washingtonpost.com/about-the-pos
 - [00:52:51](/episodes/ep-wcD2khO3rOA.md#t-00-52-18) [✓] (Claim) ["Moon’s network was a sprawling collection of churches, nonprofit foundations, an..."](/statements/statement-5b5828e1394e.md)
   - About: [Sun Myung Moon](/entities/person-sun-myung-moon.md), [Moon Inc.](/entities/concept-moon-inc.md), [Unification Church](/entities/org-unification-church.md)
 
-- [00:55:40](/episodes/ep-wcD2khO3rOA.md#t-00-54-55) [✓] (Claim) ["Moon-affiliated entities helped bail out Liberty University, including a $3.5 mi..."](/statements/statement-bc6dd4b8b537.md)
-  - About: [Liberty University](/entities/org-liberty-university.md), [Christian Heritage Foundation](/entities/org-christian-heritage-foundation.md), [News World Communications](/entities/org-news-world-communications.md)
-
 - [00:55:51](/episodes/ep-wcD2khO3rOA.md#t-00-55-40) [✓] (Claim) ["Money from Japan and Korea funded Moon-affiliated U.S. operations, but investiga..."](/statements/statement-29a1b0212d1b.md)
   - About: [Unification Church](/entities/org-unification-church.md), [Japan](/entities/gpe-japan.md), [South Korea](/entities/gpe-south-korea.md)
+
+- [01:06:06](/episodes/ep-wcD2khO3rOA.md#t-01-05-32) [✓] (Claim) ["Moon-affiliated entities helped bail out Liberty University, including a $3.5 mi..."](/statements/statement-bc6dd4b8b537.md)
+  - About: [Liberty University](/entities/org-liberty-university.md), [Christian Heritage Foundation](/entities/org-christian-heritage-foundation.md), [News World Communications](/entities/org-news-world-communications.md)
 
 </details>
 

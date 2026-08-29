@@ -29,7 +29,7 @@ Source: [Penguin Random House — Keep Dancing Through](https://www.penguinrando
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -67,9 +67,16 @@ Source: [Penguin Random House — Keep Dancing Through](https://www.penguinrando
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Authored By (1)</summary>
+<summary>Authored By (2)</summary>
 
 - **[Allison Holker](/entities/person-allison-holker.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:46:20](/episodes/ep-amqTMimDr0A.md#t-00-46-02): “she also released a children's book that she said that she co-authored with Twitch (Stephen "tWitch" Boss) just before he died, and that was called Keep Dancing Through, Boss Family Groove.”
+
+</details>
+
+- **[Stephen "tWitch" Boss](/entities/person-stephen-twitch-boss.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:46:20](/episodes/ep-amqTMimDr0A.md#t-00-46-02): “she also released a children's book that she said that she co-authored with Twitch (Stephen "tWitch" Boss) just before he died, and that was called Keep Dancing Through, Boss Family Groove.”
@@ -79,9 +86,16 @@ Source: [Penguin Random House — Keep Dancing Through](https://www.penguinrando
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
 
 - **[Allison Holker](/entities/person-allison-holker.md)** authored this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:46:20](/episodes/ep-amqTMimDr0A.md#t-00-46-02): “she also released a children's book that she said that she co-authored with Twitch (Stephen "tWitch" Boss) just before he died, and that was called Keep Dancing Through, Boss Family Groove.”
+
+</details>
+
+- **[Stephen "tWitch" Boss](/entities/person-stephen-twitch-boss.md)** authored this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:46:20](/episodes/ep-amqTMimDr0A.md#t-00-46-02): “she also released a children's book that she said that she co-authored with Twitch (Stephen "tWitch" Boss) just before he died, and that was called Keep Dancing Through, Boss Family Groove.”

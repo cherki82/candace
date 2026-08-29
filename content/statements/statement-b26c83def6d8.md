@@ -4,9 +4,10 @@ description: "\"Candace Owens said the ADL annually argues that antisemitism cau
 statement_id: "statement-b26c83def6d8"
 speaker: "Candace Owens"
 type: "accusation"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -34,7 +35,21 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+ADL materials do argue that antisemitism influenced Frank's conviction and describe efforts that produced a posthumous pardon; the pardon did not exonerate him. The broader claims that ADL makes this argument annually and has sought every year for decades to overturn the conviction were not substantiated by the available sources.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Seeking Justice: The Pardon of Leo Frank — ADL](https://www.adl.org/resources/article/seeking-justice-pardon-leo-frank)
+- [Trial and Lynching of Leo Frank — Library of Congress](https://guides.loc.gov/chronicling-america-leo-frank)
+
+*Verified: 2026-08-27T19:42:39.589221*
 
 ---
 

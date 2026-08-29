@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:05:07](/episodes/ep-es7PWdFGoFI.md#t-00-04-52) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(307);return false;">Play</a>
 
-> I will say I was immediately refreshed by the fact that one of the first things that Erika did was she owned the lies, the lies or rather I guess they would cage it as miscommunications that were coming from various people at the company, like look this is a company with 650 people that are employed. everybody at this time is exceedingly emotional
+> I will say I was immediately refreshed by the fact that one of the first things that Erika (Erika Kirk) did was she owned the lies, the lies or rather I guess they would cage it as miscommunications that were coming from various people at the company, like look this is a company with 650 people that are employed.
 
 ## Verification
 

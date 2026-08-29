@@ -24,11 +24,21 @@ veracity: "true"
 - [Chris Bagley](/entities/person-chris-bagley.md) (person)
 - [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [03:44:08](/episodes/ep-nPhCKwJ6ye8.md#t-03-43-56) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(13448);return false;">Play</a>
+
+> I do think that it's possible, it's at least plausible that the screwdriver was planted. I don't believe him. ... his body cam died just the right time
+
+### 2. Candace Owens vs Andrew Wilson: The Great Debate.
+
+**Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
+**Timestamp:** [02:54:01](/episodes/ep-aPOyk1i2LOc.md#t-02-53-50) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(10441);return false;">Play</a>
 
 > I do think that it's possible, it's at least plausible that the screwdriver was planted. I don't believe him. ... his body cam died just the right time
 

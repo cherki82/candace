@@ -1,6 +1,6 @@
 ---
 title: "Remington Ammunition"
-description: "Remington Ammunition (Organizations) - 2 mentions"
+description: "Remington Ammunition (Organizations) - 4 mentions"
 id: "org-remington-ammunition"
 type: "ORG"
 aliases:
@@ -21,10 +21,10 @@ _Type: Organizations_
 Source: [About Remington](https://www.remington.com/about-us.html)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-remington-ammunition-t-00-41-45">2026-08-14 · 00:42:03</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-remington-ammunition-t-00-17-07">2026-08-14 · 00:17:25</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-remington-ammunition-t-00-42-21">2026-08-14 · 00:42:21</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,12 +36,14 @@ Source: [About Remington](https://www.remington.com/about-us.html)
 <p>Highest activity: <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-remington-ammunition-t-00-41-45">Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-remington-ammunition-t-00-41-45" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-remington-ammunition-t-00-17-07" style="--pulse-height:100%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-remington-ammunition-t-00-41-45) | 2 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-remington-ammunition-t-00-17-07) | 2 |
 
 </details>
 </section>
@@ -49,7 +51,7 @@ Source: [About Remington](https://www.remington.com/about-us.html)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -59,6 +61,17 @@ Source: [About Remington](https://www.remington.com/about-us.html)
 
 **[00:42:21](/episodes/ep-nPhCKwJ6ye8.md#ent-org-remington-ammunition-t-00-42-21)**
 > "...ft point round from 150 grain Remington core lock,"
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (2 mentions)</summary>
+
+**[00:17:25](/episodes/ep-aPOyk1i2LOc.md#ent-org-remington-ammunition-t-00-17-07)**
+> "...that that's absurd. 150 grain Remington core lock absolutely could shatter when it hits t..."
+
+**[00:17:43](/episodes/ep-aPOyk1i2LOc.md#ent-org-remington-ammunition-t-00-17-43)**
+> "...ft point round from 150 grain Remington core lock, that's just a small jacket."
 
 </details>
 

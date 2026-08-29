@@ -6,13 +6,21 @@ type: "ORG"
 aliases:
   - "DuPont"
   - "du Pont"
+categories:
+  - "business family"
 ---
 
 _Type: Organizations_
 
 **Also known as:** DuPont, du Pont
 
+**Categories:** business family
+
 > **Possibly overlapping entity records:** [DuPont](/entities/org-dupont). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> Canonical name and identity for DuPont family confirmed by the cited direct external source.
+Source: [Du Pont family](https://en.wikipedia.org/wiki/Du_Pont_family)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-dupont-family-t-00-29-47">2025-12-01 · 00:29:28</a></strong></div>

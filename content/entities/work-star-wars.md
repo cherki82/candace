@@ -1,6 +1,6 @@
 ---
 title: "Star Wars"
-description: "Star Wars (Works & Media) - 4 mentions"
+description: "Star Wars (Works & Media) - 5 mentions"
 id: "work-star-wars"
 type: "WORK"
 categories:
@@ -17,9 +17,9 @@ Source: [StarWars.com](https://www.starwars.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-star-wars-t-00-24-39">2026-01-13 · 00:24:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-qZ8RWfyuewQ.md#ent-work-star-wars-t-00-50-08">2026-04-29 · 00:50:08</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-iB-YtO3UZOg.md#ent-work-star-wars-t-00-11-32">2026-07-31 · 00:11:32</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,6 +33,7 @@ Source: [StarWars.com](https://www.starwars.com/)
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-star-wars-t-00-24-39" style="--pulse-height:50%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-work-star-wars-t-00-58-24" style="--pulse-height:100%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-work-star-wars-t-00-50-08" style="--pulse-height:50%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-work-star-wars-t-00-11-32" style="--pulse-height:50%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 1 mentions" title="2026-07-31 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -41,6 +42,7 @@ Source: [StarWars.com](https://www.starwars.com/)
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-work-star-wars-t-00-24-39) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-work-star-wars-t-00-58-24) | 2 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-work-star-wars-t-00-50-08) | 1 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-work-star-wars-t-00-11-32) | 1 |
 
 </details>
 </section>
@@ -48,7 +50,15 @@ Source: [StarWars.com](https://www.starwars.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (1 mentions)</summary>
+
+**[00:11:32](/episodes/ep-iB-YtO3UZOg.md#ent-work-star-wars-t-00-11-32)**
+> "They are playing the role of a character, perhaps in a fantasy world, perhaps from a popular franchise like Star Wars, or just their own original character. But they are playing this character that is different from them, with different wants, needs, hopes, and dreams, and they're engaging with erotic content. So cybersex, on the other hand, would be when people want to engage with sexual content"
+
+</details>
 
 <details>
 <summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>

@@ -18,7 +18,7 @@ _Type: Concepts_
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>1</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -87,7 +87,15 @@ _Type: Concepts_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mainstream media (1)</strong></summary>
+<summary><strong class="section-title">Statements about Mainstream media (2)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1)</summary>
+
+- [00:07:16](/episodes/ep-5zgkrOaCCj4.md#t-00-07-02) (Accusation) **Candace Owens**: ["Owens alleged that news media intentionally selected maroon-shirt phot..."](/statements/statement-6cc7e1038e76.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
 
 <details>
 <summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1)</summary>

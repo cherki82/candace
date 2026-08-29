@@ -11,11 +11,15 @@ object: "person-charlie-kirk"
 
 ## [Erika Kirk](/entities/person-erika-kirk) widow of [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (57 mentions)
+### Evidence (67 mentions)
 
 **[OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA)**
 
 - [00:32:43](/episodes/ep-19vHhjF7-NA#t-00-32-43): _I appoint my wife to run Turning Point USA if something happens to me. Erika (Erika Kirk) would do a great job._
+
+**[VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg)**
+
+- [00:02:01](/episodes/ep-1CFDtD0IgEg#t-00-02-01): _can we really make them believe that a grieving widow gave her husband's killer took over the entire company and is on a corporate Zoom call laughing at emojis within six days of her husband's public assassination?_
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -37,6 +41,10 @@ object: "person-charlie-kirk"
 
 - [00:02:48](/episodes/ep-4DvYXBn_5JI#t-00-02-48): _Also, when and how did he get so close to Erika? Dr. Kirk, so close in fact that he was in her immediate circle of comfort after her husband was brutally murdered in front of the entire world. As soon as she flew back home to Arizona, he was there to offer her a hug in her home._
 
+**[Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg)**
+
+- [00:38:47](/episodes/ep-4JxgOclKzqg#t-00-38-47): _I'd like to remind everybody I was the last to comment publicly about the strange behavior of Erika Kirk, and I only weighed in beginning in December when she went on to a press tour and explicitly shared something that was untrue, that the night before Charlie (Charlie Kirk) was not sending messages saying that he feared for his life. So we are to believe that Charlie (Charlie Kirk) did not share his fear with his wife at all._
+
 **[Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708)**
 
 - [00:15:10](/episodes/ep-4YgrOhhy708#t-00-15-10): _Erika (Erika Kirk) first addressed the nation, ... and she did this in Charlie (Charlie Kirk)'s studio. ... waiting to see what she was going to say as the widow._
@@ -57,13 +65,25 @@ object: "person-charlie-kirk"
 
 - [00:54:22](/episodes/ep-9CuC1yf8-PU#t-00-54-22): _Charlie (Charlie Kirk) ... everything ... given to Erika (Erika Kirk) ... they were establishing the widow narrative._
 
+**[EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70)**
+
+- [00:25:23](/episodes/ep-9hRcfSrri70#t-00-25-23): _Like they needed me to clearly accuse Erika (Erika Kirk) of killing her husband because they know that I've never actually done that. They wanted to get me, oh, you said complicit. You said straight to jail out of context._
+
 **[EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM)**
 
 - [00:12:47](/episodes/ep-A39g5oqB_eM#t-00-12-47): _20-hour days for a week during the time of us grieving the loss of my husband and honestly I know several staff that didn't even sleep um again you guys are breathing angels and I'm so grateful for all of you and obviously a huge thank you to the Mosaic team VI you guys are 10 out of 10 like there's we have ... Just lay it to rest and we are moving forward turning point USA 2.0 with Charlie (Charlie Kirk) in our hearts and that's what he would want._
 
+**[A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ)**
+
+- [00:23:35](/episodes/ep-AoYZel7_cGQ#t-00-23-35): _Erika (Erika Kirk) is apparently so close to this priest despite the fact that she's not Catholic. or participating Catholic, whatever it is Andrew (Andrew Kolvet) was saying there, but that priest who winds up performing that Catholic funeral mass, she's so close to him that rather than bringing her family members to Utah after she finds out that her husband is shot, after she finds out that her husband is assassinated, rather than flying her family members out there, she coordinated to bring the priest._
+
 **[EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0)**
 
 - [00:00:28](/episodes/ep-B9TyCs-6o_0#t-00-00-28): _something made Erika Kirk, Charlie's wife, look very foolish. ... The one that's been living inside of me since Charlie's death._
+
+**[LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8)**
+
+- [00:43:45](/episodes/ep-ChuWo-n49B8#t-00-43-45): _a perfect segue by the way into Victor Marx one of Erika's (Erika Kirk) spiritual advisors we all get the ick we all know something's wrong it's like we listen to Frank Turek we just go this doesn't feel godly but you keep telling me it is well Piers Morgan interviewed Victor Marx and tweeted that it was one of the most bizarre interviews of his career yeah well what's funny about this is Piers Morgan has been hosting people attacking me as he always does uh saying i'm wrong Erika (Erika Kirk) is the widow he always accepts the slop up_
 
 **[VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58)**
 
@@ -76,6 +96,10 @@ object: "person-charlie-kirk"
 **[LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8)**
 
 - [00:01:50](/episodes/ep-Dkxa9OUA9K8#t-00-01-50): _The first that we could find to publicly announce that Charlie Kirk had passed away on September 10th on social media, I believe it was on Instagram, it was an hour and a half before the President of the United States made the announcement, even though he has since deleted that Instagram post. We then know that when Erika (Erika Kirk) came home after bringing back Charlie (Charlie Kirk)'s body in a casket aboard Air Force Two. Victor Marx and his wife Eileen (Eileen Marx) were among the small circle of people who were welcomed into Erika (Erika Kirk)'s home to comfort her and to take photos of the grieving widow._
+
+**[Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA)**
+
+- [00:32:46](/episodes/ep-E7P2ShoYDUA#t-00-32-46): _that he thinks that Erika Kirk is too retarded to kill her husband. So I'm like, well, what's your positive evidence for that?_
 
 **[I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks)**
 
@@ -92,6 +116,14 @@ object: "person-charlie-kirk"
 **[EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A)**
 
 - [00:04:37](/episodes/ep-H9p2ZGHAs9A#t-00-04-37): _And his wife did a complete 180 like LBJ, inviting, frankly, deranged Zionists into the fold immediately._
+
+**[Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk)**
+
+- [00:21:04](/episodes/ep-HGtMfbePDKk#t-00-21-04): _So, yeah, suffice to say that never in a million years when I penned that response to her, could I have fathomed that Erika Kirk, the dear widow, after Charlie's assassination would open the doors literally to Brandy, who Charlie could not stand._
+
+**[BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o)**
+
+- [00:13:42](/episodes/ep-HZvwbfePe7o#t-00-13-42): _We will be building the most beautiful memorial for my husband at Turning Point USA, and it will be for the world to see, and it will be spectacular, and it will have basically museum style for our Charlie (Charlie Kirk), for my Charlie (Charlie Kirk)._
 
 **[Coming soon...](/episodes/ep-LKR94FQ5p3o)**
 
@@ -135,7 +167,7 @@ object: "person-charlie-kirk"
 
 **[PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4)**
 
-- [00:05:28](/episodes/ep-UYkXV9mYbT4#t-00-05-28): _He was telling me he was trying to save Erica from seeing her husband die, but yet this was the most mild shot of all. There was not a drop of blood on Charlie's back as he went down._
+- [00:05:28](/episodes/ep-UYkXV9mYbT4#t-00-05-28): _He was telling me he was trying to save Erika (Erika Kirk) from seeing her husband die, but yet this was the most mild shot of all. There was not a drop of blood on Charlie (Charlie Kirk)'s back as he went down._
 
 **[I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8)**
 
@@ -169,13 +201,21 @@ object: "person-charlie-kirk"
 
 - [00:32:42](/episodes/ep-_vg7ucP1E0g#t-00-32-42): _There may have been this billion dollar motive to have Charlie Kirk killed that Erika (Erika Kirk) lied about the fact her husband texted multiple people the night before he said he feared he was going to be killed. His overriding point is that._
 
+**[Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc)**
+
+- [02:16:37](/episodes/ep-aPOyk1i2LOc#t-02-16-37): _would say that you are making a comparison that cannot be compared because because Erica's husband was just assassinated in front of the world._
+
 **[TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo)**
 
 - [00:21:28](/episodes/ep-cPidFQDJLbo#t-00-21-28): _He could have listed desires, his corporate will, his personal will, if he wanted Erika (Erika Kirk) to become a CEO and chairman since everybody is telling the Daily Mail. ... The real thing is that that every time everywhere in every place people had side conversations with him and he would just mention it like just like it's just uh charlie you want some coffee no what i actually want is for my wife to take over my company in the event that i get shot that was it everyone knows it it's just a no known let me tell you guys something again as sufferers of chronic common sense_
 
+**[A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8)**
+
+- [00:06:48](/episodes/ep-d7VsbEIWkP8#t-00-06-48): _Erika Kirk, taking over her late husband's company_
+
 **[Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko)**
 
-- [00:10:17](/episodes/ep-eLgD5yUVbko#t-00-10-17): _That's a totally normal question to ask that Charlie declared that he wanted to appoint Erica as the CEO and the chairman of his company. Didn't pass the sniff test for obvious reasons. Okay, number one, no husband ever, no man ever would say if I am killed on the job, I want my wife to assume the dangerous position that I just occupied, right?_
+- [00:09:57](/episodes/ep-eLgD5yUVbko#t-00-09-57): _A mere weeks before his untimely death, literally weeks before, took the stage in Aspen at this investor retreat where he was giving an update on the company and he stood in front of a bunch of donors and for some reason after somebody asked him a question about what would happen if you died. That's a totally normal question to ask that Charlie declared that he wanted to appoint Erika as the CEO and the chairman of his company. Didn't pass the sniff test for obvious reasons. Okay, number one, no husband ever, no man ever would say if I am killed on the job, I want my wife to assume the dangerous position that I just occupied, right?_
 
 **[Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8)**
 
@@ -215,7 +255,7 @@ object: "person-charlie-kirk"
 
 **[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
 
-- [00:14:57](/episodes/ep-q1NRQQAYS_Q#t-00-14-57): _They were on the same wavelength. I saw how much that relationship, I didn't know Erica as well prior to Charlie's death, but especially in the wake of it, I saw how much everything he'd done meant to her and how completely committed she was._
+- [00:14:57](/episodes/ep-q1NRQQAYS_Q#t-00-14-57): _Charlie (Charlie Kirk) and Erica (Erika Kirk) were partners. They were husband and wife in a deep way. Their marriage was incredibly admirable. I've seen a lot of marriages. Some of them are good. Some of them are bad. Charlie (Charlie Kirk) and Erica (Erika Kirk)'s was exceptional. They were on the same wavelength. I saw how much that relationship, I didn't know Erica (Erika Kirk) as well prior to Charlie (Charlie Kirk)'s death, but especially in the wake of it, I saw how much everything he'd done meant to her and how completely committed she was._
 
 **[TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ)**
 

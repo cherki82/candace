@@ -22,12 +22,11 @@ veracity: "false"
 ## About
 
 - [Albert Farnsworth](/entities/person-albert-farnsworth.md) (person)
-- [Eddie Farnsworth](/entities/person-eddie-farnsworth.md) (person)
 
 ## Source
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
-**Timestamp:** [00:34:31](/episodes/ep-HYn0P-P1wUw.md#t-00-33-47) 
+**Timestamp:** [00:34:31](/episodes/ep-HYn0P-P1wUw.md#t-00-34-22) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2071);return false;">Play</a>
 
 > he had been in the news years earlier because his nephew, Albert Farnsworth, had raped a 13 year old.

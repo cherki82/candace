@@ -4,9 +4,10 @@ description: "\"Candace Owens said Donald Trump is not a Christian and that the 
 statement_id: "statement-ecb6b851885c"
 speaker: "Candace Owens"
 type: "opinion"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,8 +36,21 @@ type: "opinion"
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Verified as an accurate attribution of Owens's religious and political opinion. At 3401.342-3420.000 seconds, she calls the comparison blasphemous, says Trump is not a Christian, and says the Catholic Church should step in 'in a really big way.' The result confirms what she said and does not independently adjudicate religious identity or doctrine.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](https://www.youtube.com/watch?v=eLgD5yUVbko)
+
+*Verified: 2026-08-28T18:23:53.662025*
 
 ---
 
-**Type:** Opinion | **Verifiable:** No
+**Type:** Opinion | **Verifiable:** Yes

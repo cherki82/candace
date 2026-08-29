@@ -1,16 +1,16 @@
 ---
-title: "Terryl Farnsworth knows more about Charlie Kirk's death than..."
-description: "\"Terryl Farnsworth knows more about Charlie Kirk's death than he disclosed to Candace Owens.\" — Candace Owens"
+title: "Candace Owens said she thinks Terryl Farnsworth knows more a..."
+description: "\"Candace Owens said she thinks Terryl Farnsworth knows more about Charlie Kirk's death than he disclosed to her.\" — Candace Owens"
 statement_id: "statement-7a9a96c32e13"
 speaker: "Candace Owens"
-type: "accusation"
+type: "opinion"
 ---
 
 **Status:** ○ Not yet verified
 
 ## Statement
 
-> Terryl Farnsworth knows more about Charlie Kirk's death than he disclosed to Candace Owens.
+> Candace Owens said she thinks Terryl Farnsworth knows more about Charlie Kirk's death than he disclosed to her.
 
 ## Attribution
 
@@ -26,7 +26,7 @@ type: "accusation"
 ## Source
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
-**Timestamp:** [00:39:39](/episodes/ep-HYn0P-P1wUw.md#t-00-38-59) 
+**Timestamp:** [00:39:39](/episodes/ep-HYn0P-P1wUw.md#t-00-39-34) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2379);return false;">Play</a>
 
 > There's just a lot of connections here that I think should be explored more about the Farnsworth family and the Bowyer family. And I want to put this out here because something just, like I said, rubbed me the wrong way when I spoke to Terryl (Terryl Farnsworth) and I can't let that feeling go. There's there I think that Terryl (Terryl Farnsworth) knows more.
@@ -37,4 +37,4 @@ _This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Accusation | **Verifiable:** No
+**Type:** Opinion | **Verifiable:** No

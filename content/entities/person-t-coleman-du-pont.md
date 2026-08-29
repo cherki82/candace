@@ -3,9 +3,18 @@ title: "T. Coleman du Pont"
 description: "T. Coleman du Pont (People) - 1 mention"
 id: "person-t-coleman-du-pont"
 type: "PERSON"
+categories:
+  - "industrialist"
+  - "bank founder"
 ---
 
 _Type: People_
+
+**Categories:** industrialist, bank founder
+
+**Entity verification:** verified
+> The episode transcript gives the T. Coleman du Pont name and banking context. This is source-context identity verification only.
+Source: [Charlie Kirk And Brigitte's Legionnaires — source episode](https://www.youtube.com/watch?v=tB5SXXmd9vU)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-t-coleman-du-pont-t-00-31-48">2025-12-01 · 00:31:48</a></strong></div>

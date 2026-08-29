@@ -1,6 +1,6 @@
 ---
 title: "Epstein Files"
-description: "Epstein Files (Works & Media) - 35 mentions"
+description: "Epstein Files (Works & Media) - 43 mentions"
 id: "work-epstein-files"
 type: "WORK"
 aliases:
@@ -22,11 +22,11 @@ Source: [Epstein Library | U.S. Department of Justice](https://www.justice.gov/e
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-work-epstein-files-t-00-18-05">2026-01-16 · 00:18:05</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-work-epstein-files-t-00-46-05">2026-06-26 · 00:46:13</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>35</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-work-epstein-files-t-00-37-05">2026-08-19 · 00:37:30</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>43</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -46,8 +46,11 @@ Source: [Epstein Library | U.S. Department of Justice](https://www.justice.gov/e
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-work-epstein-files-t-00-06-31" style="--pulse-height:33%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-work-epstein-files-t-00-50-39" style="--pulse-height:17%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-work-epstein-files-t-00-50-50" style="--pulse-height:17%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-work-epstein-files-t-00-10-49" style="--pulse-height:50%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 3 mentions" title="2026-04-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-work-epstein-files-t-00-35-04" style="--pulse-height:67%" aria-label="Candace x Hunter Biden: The Interview: 4 mentions" title="2026-05-21 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-work-epstein-files-t-00-45-23" style="--pulse-height:50%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-work-epstein-files-t-00-29-37" style="--pulse-height:50%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 3 mentions" title="2026-07-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-work-epstein-files-t-00-37-05" style="--pulse-height:33%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -64,8 +67,11 @@ Source: [Epstein Library | U.S. Department of Justice](https://www.justice.gov/e
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-work-epstein-files-t-00-06-31) | 2 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-work-epstein-files-t-00-50-39) | 1 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-work-epstein-files-t-00-50-50) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-work-epstein-files-t-00-10-49) | 3 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-work-epstein-files-t-00-35-04) | 4 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-work-epstein-files-t-00-45-23) | 3 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-work-epstein-files-t-00-29-37) | 3 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-work-epstein-files-t-00-37-05) | 2 |
 
 </details>
 </section>
@@ -73,7 +79,32 @@ Source: [Epstein Library | U.S. Department of Justice](https://www.justice.gov/e
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+<summary><strong class="section-title">Raw mentions (43)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (2 mentions)</summary>
+
+**[00:37:05](/episodes/ep-9hRcfSrri70.md#ent-work-epstein-files-t-00-37-05)**
+> "... pedophilia on the right. The Epstein files mattered and we weren't accepting this idea of ge..."
+
+**[00:37:30](/episodes/ep-9hRcfSrri70.md#ent-work-epstein-files-t-00-37-05)**
+> "...at we're going to do with the Epstein files, Kash Patel. His administration was running on so..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (3 mentions)</summary>
+
+**[00:30:07](/episodes/ep-Vu6Y24pqhZs.md#ent-work-epstein-files-t-00-29-37)**
+> "So it says passenger manifests that were released as part of the Epstein files indicate that Phelan flew twice on the plane of Jeffrey Epstein several months before Epstein's first arrest on sex charges."
+
+**[00:32:12](/episodes/ep-Vu6Y24pqhZs.md#ent-work-epstein-files-t-00-31-42)**
+> "... in the eye and pretended the Epstein files were nothing."
+
+**[00:32:22](/episodes/ep-Vu6Y24pqhZs.md#ent-work-epstein-files-t-00-32-22)**
+> "...re we still talking about the Epstein files? He thought himself a king that could just mandat..."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (3 mentions)</summary>
@@ -107,10 +138,24 @@ Source: [Epstein Library | U.S. Department of Justice](https://www.justice.gov/e
 </details>
 
 <details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (3 mentions)</summary>
+
+**[00:10:49](/episodes/ep-ZIH5-V6UPkg.md#ent-work-epstein-files-t-00-10-49)**
+> "...st you saying, what about the Epstein files? That seems to be a theme with you, protecting pe..."
+
+**[00:19:57](/episodes/ep-ZIH5-V6UPkg.md#ent-work-epstein-files-t-00-19-57)**
+> "...im to win just because of the Epstein files and being at war with Iran for Israel. They didn'..."
+
+**[00:41:46](/episodes/ep-ZIH5-V6UPkg.md#ent-work-epstein-files-t-00-41-46)**
+> "...comfortable. What is in those Epstein files?"
+
+</details>
+
+<details>
 <summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1 mentions)</summary>
 
 **[00:51:15](/episodes/ep-UYkXV9mYbT4.md#ent-work-epstein-files-t-00-50-50)**
-> "...u, his network of people, the Epstein files, where people's money was coming from."
+> "And. Further on the basis of what Tucker Carlson said on stage, questioning Bibi (Benjamin Netanyahu), his network of people, the Epstein files, where people's money was coming from."
 
 </details>
 
@@ -255,7 +300,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Epstein Files (15)</strong></summary>
+<summary><strong class="section-title">Statements about Epstein Files (17)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (2)</summary>
+
+- [00:30:07](/episodes/ep-Vu6Y24pqhZs.md#t-00-29-37) (Citation) **Candace Owens**: ["Owens cited released passenger manifests as indicating that John C. Ph..."](/statements/statement-70ffefcce5fb.md)
+  - Also about: [John C. Phelan](/entities/person-john-c-phelan.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Jean-Luc Brunel](/entities/person-jean-luc-brunel.md)
+
+- [00:33:31](/episodes/ep-Vu6Y24pqhZs.md#t-00-33-31) (Opinion) **Candace Owens**: ["Owens said it seemed Trump had abandoned the American people in order ..."](/statements/statement-da21b1c47850.md)
+  - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Israel](/entities/gpe-israel.md)
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1)</summary>

@@ -7,11 +7,15 @@ aliases:
   - "Emanuel Bierer"
   - "Emmanuel Behrer"
   - "Behrer"
+categories:
+  - "Charlie Kirk case eyewitness"
 ---
 
 _Type: People_
 
 **Also known as:** Emanuel Bierer, Emmanuel Behrer, Behrer
+
+**Categories:** Charlie Kirk case eyewitness
 
 **Entity verification:** verified
 > PBS identifies the eyewitness as Emmanuel Bierer, a Utah resident.

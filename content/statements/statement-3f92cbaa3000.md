@@ -30,7 +30,7 @@ type: "factual_claim"
 **Timestamp:** [00:30:59](/episodes/ep-es7PWdFGoFI.md#t-00-30-46) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1859);return false;">Play</a>
 
-> Seth Dillon definitively pressed Charlie at this event. Whether it was in a hypothetical, which it was in a hypothetical, but he got fired up in the hypothetical, of Charlie discussing, potentially tweeting something against Bibi Netanyahu, it did lead to this firecracker moment
+> Like, Seth Dillon definitively pressed Charlie (Charlie Kirk) at this event. Whether it was in a hypothetical, which it was in a hypothetical, but he got fired up in the hypothetical, of Charlie (Charlie Kirk) discussing, potentially tweeting something against Bibi Netanyahu, it did lead to this firecracker moment.
 
 ## Verification
 

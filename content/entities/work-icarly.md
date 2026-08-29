@@ -17,8 +17,8 @@ _Type: Works & Media_
 Source: [iCarly - Paramount+](https://www.paramountplus.com/shows/icarly/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-work-icarly-t-00-33-19">2026-01-05 · 00:33:19</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-work-icarly-t-00-45-34">2026-01-06 · 00:45:49</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#t-00-33-19">2026-01-05 · 00:33:19</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-work-icarly-t-00-45-33">2026-01-06 · 00:45:49</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -29,17 +29,17 @@ Source: [iCarly - Paramount+](https://www.paramountplus.com/shows/icarly/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-HYn0P-P1wUw.md#ent-work-icarly-t-00-45-34">BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-HYn0P-P1wUw.md#ent-work-icarly-t-00-45-33">BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-work-icarly-t-00-33-19" style="--pulse-height:50%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-work-icarly-t-00-45-34" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#t-00-33-19" style="--pulse-height:50%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-work-icarly-t-00-45-33" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-work-icarly-t-00-33-19) | 1 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-work-icarly-t-00-45-34) | 2 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#t-00-33-19) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-work-icarly-t-00-45-33) | 2 |
 
 </details>
 </section>
@@ -52,10 +52,10 @@ Source: [iCarly - Paramount+](https://www.paramountplus.com/shows/icarly/)
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (2 mentions)</summary>
 
-**[00:45:39](/episodes/ep-HYn0P-P1wUw.md#ent-work-icarly-t-00-45-34)**
+**[00:45:39](/episodes/ep-HYn0P-P1wUw.md#ent-work-icarly-t-00-45-33)**
 > "...give it sort of a Nickelodeon iCarly vibe, but it's the Daily Wire."
 
-**[00:45:49](/episodes/ep-HYn0P-P1wUw.md#ent-work-icarly-t-00-45-34)**
+**[00:45:49](/episodes/ep-HYn0P-P1wUw.md#ent-work-icarly-t-00-45-33)**
 > "...els like Nickelodeon but it's iCarly meets politics which is just kind of wrong and th..."
 
 </details>
@@ -63,8 +63,8 @@ Source: [iCarly - Paramount+](https://www.paramountplus.com/shows/icarly/)
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
 
-**[00:33:19](/episodes/ep-OEAHy3SsIiI.md#ent-work-icarly-t-00-33-19)**
-> "they want hell or high water because it turns out the reason they're doing this and doing it on my channel is because they are trying to hard launch a young woman named Madison Bransford okay now she's apparently an intern at the Daily Wire and they're basically dropping like an I could an iCarly type Nickelodeon feel show where she's gonna make fun of me and the show"
+**[00:33:19](/episodes/ep-OEAHy3SsIiI.md#t-00-33-19)**
+> "they want hell or high water, because it turns out the reason they're doing this, and doing it on my channel, is because they are trying to hard-launch a young woman named Madison Bransford. Okay, now she's apparently an intern at the Daily Wire, and they're basically dropping, like, an iCarly-type, Nickelodeon-feel show where she's going to make fun of me, and the show..."
 
 </details>
 

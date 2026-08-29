@@ -101,7 +101,7 @@ _Type: Organizations_
 <details>
 <summary>Headquartered In (1)</summary>
 
-- **[Bridge Complex](/entities/org-bridge-complex.md)**
+- **[Bracebridge Complex](/entities/org-bracebridge-complex.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:12:24](/episodes/ep-a-e7HC6SeK8.md#t-00-11-53): “...that's Bridge Complex, which is supposed to house Insight headquarters...”
@@ -113,7 +113,7 @@ _Type: Organizations_
 <details>
 <summary>Referenced By (1)</summary>
 
-- **[Bridge Complex](/entities/org-bridge-complex.md)** headquarters of this
+- **[Bracebridge Complex](/entities/org-bracebridge-complex.md)** headquarters of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272 @ 00:12:24](/episodes/ep-a-e7HC6SeK8.md#t-00-11-53): “...that's Bridge Complex, which is supposed to house Insight headquarters...”

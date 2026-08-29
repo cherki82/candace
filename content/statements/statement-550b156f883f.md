@@ -30,7 +30,7 @@ veracity: "true"
 ### 1. You Won't Believe What Happened While We Were Off Air... | C...
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
-**Timestamp:** [00:09:05](/episodes/ep-OEAHy3SsIiI.md#t-00-08-38) 
+**Timestamp:** [00:09:05](/episodes/ep-OEAHy3SsIiI.md#t-00-08-35) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(545);return false;">Play</a>
 
 > So he's going to be at AmFest and he's not only just going to be at AmFest, he's going to walk out right after Erika Kirk opens up AmFest. And we just sort of expect the public to be fine with that.

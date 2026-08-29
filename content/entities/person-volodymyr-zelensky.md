@@ -1,6 +1,6 @@
 ---
 title: "Volodymyr Zelensky"
-description: "Volodymyr Zelensky (People) - 8 mentions"
+description: "Volodymyr Zelensky (People) - 9 mentions"
 id: "person-volodymyr-zelensky"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Volodymyr Zelenskyy's biography | President of Ukraine](https://www.pre
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-person-volodymyr-zelensky-t-00-07-32">2025-10-31 · 00:07:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-volodymyr-zelensky-t-00-52-31">2026-04-16 · 00:52:31</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HZvwbfePe7o.md#ent-person-volodymyr-zelensky-t-00-35-08">2026-07-27 · 00:35:08</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -41,6 +41,7 @@ Source: [Volodymyr Zelenskyy's biography | President of Ukraine](https://www.pre
 <a href="/episodes/ep-sImMM04XdWY.md#ent-person-volodymyr-zelensky-t-00-20-22" style="--pulse-height:100%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 2 mentions" title="2025-11-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-volodymyr-zelensky-t-00-39-28" style="--pulse-height:100%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 2 mentions" title="2025-12-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-volodymyr-zelensky-t-00-52-31" style="--pulse-height:50%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-person-volodymyr-zelensky-t-00-35-08" style="--pulse-height:50%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ Source: [Volodymyr Zelenskyy's biography | President of Ukraine](https://www.pre
 | 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-volodymyr-zelensky-t-00-20-22) | 2 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-volodymyr-zelensky-t-00-39-28) | 2 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-volodymyr-zelensky-t-00-52-31) | 1 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-person-volodymyr-zelensky-t-00-35-08) | 1 |
 
 </details>
 </section>
@@ -58,7 +60,15 @@ Source: [Volodymyr Zelenskyy's biography | President of Ukraine](https://www.pre
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (1 mentions)</summary>
+
+**[00:35:08](/episodes/ep-HZvwbfePe7o.md#ent-person-volodymyr-zelensky-t-00-35-08)**
+> "Let us know. The timing seems particular. Now, Bibi (Benjamin Netanyahu) Netanyahu is saying that he is flying in for the same reason Zelensky is flying in. When these killers come to D.C., it's to dictate their terms."
+
+</details>
 
 <details>
 <summary>Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326 (1 mentions)</summary>

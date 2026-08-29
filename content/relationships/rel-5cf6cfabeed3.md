@@ -15,7 +15,7 @@ object: "person-pam-bondi"
 
 **[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
 
-- [00:45:03](/episodes/ep-q1NRQQAYS_Q#t-00-45-03): _Trump made the announcement on social media saying Pam Bondi is a great American patriot, a loyal friend who faithfully served as my attorney general over the past year._
+- [00:45:03](/episodes/ep-q1NRQQAYS_Q#t-00-45-03): _Trump (Donald J. Trump) made the announcement on social media saying Pam Bondi is a great American patriot, a loyal friend who faithfully served as my attorney general over the past year._
 
 ### Related
 

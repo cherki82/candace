@@ -11,11 +11,15 @@ object: "person-candace-owens"
 
 ## [Lindsey Graham](/entities/person-lindsey-graham) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
 
 **[The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs)**
 
 - [00:43:36](/episodes/ep-7ERqbYElOfs#t-00-43-36): _the disgusting Lindsey Graham. ... who's just a traitor he's treacherous he's disgusting_
+
+**[BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o)**
+
+- [00:35:35](/episodes/ep-HZvwbfePe7o#t-00-35-35): _Disgusting, by the way. Anybody trying to pretend that Lindsey Graham was not an absolute creep who was clearly blackmailed is deluding themselves. But that funeral is just the guise. Like I said, it is just the guise. And I find that timing particular, because we know Andrew Kolvet is on record—he does not like Lindsey Graham—so they are not going in_
 
 **[HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk)**
 

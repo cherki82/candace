@@ -3,7 +3,7 @@ title: "The 2025 Arizona Commanders Summit began at Davis-Monthan Ai..."
 description: "\"The 2025 Arizona Commanders Summit began at Davis-Monthan Air Force Base on September 9 and brought Arizona community leaders together with military c...\" — Candace Owens"
 statement_id: "statement-2cc4f07e72bb"
 speaker: "Candace Owens"
-type: "factual_claim"
+type: "citation"
 veracity: "true"
 ---
 
@@ -17,8 +17,7 @@ veracity: "true"
 
 **Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
-**Delivery:** Quoted from document
-**Original Source:** Davis-Monthan Air Force Base website
+**Delivery:** Made directly
 
 ## About
 
@@ -51,4 +50,4 @@ The official Davis-Monthan Air Force Base release says the summit began there Se
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Citation | **Verifiable:** Yes

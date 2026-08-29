@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:37:40](/episodes/ep-ewBzjVe3LNQ.md#t-00-37-20) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2260);return false;">Play</a>
 
-> And this is on September 8th, the evening of September 8th at the Candlewood Inn and Suites, which you have given me all of the documentation for.
+> And this is on September 8th, the evening of September 8th at the Candlewood Suites, which you have given me all of the documentation for.
 
 ## Verification
 

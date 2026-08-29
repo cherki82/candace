@@ -1,6 +1,6 @@
 ---
 title: "Islam"
-description: "Islam (Concepts) - 51 mentions"
+description: "Islam (Concepts) - 56 mentions"
 id: "concept-islam"
 type: "CONCEPT"
 aliases:
@@ -18,12 +18,12 @@ _Type: Concepts_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-islam-t-00-04-51">2026-01-12 · 00:05:24</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-concept-islam-t-00-36-37">2026-05-28 · 00:36:37</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>51</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-islam-t-00-48-49">2026-08-07 · 00:48:49</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>56</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -46,6 +46,7 @@ _Type: Concepts_
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-concept-islam-t-00-40-00" style="--pulse-height:8%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-cPidFQDJLbo.md#ent-concept-islam-t-00-53-46" style="--pulse-height:17%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 3 mentions" title="2026-05-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-concept-islam-t-00-00-38" style="--pulse-height:50%" aria-label="Candace Owens x Ana Kasparian: 9 mentions" title="2026-05-28 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-islam-t-00-44-42" style="--pulse-height:28%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 5 mentions" title="2026-08-07 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -66,6 +67,7 @@ _Type: Concepts_
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-concept-islam-t-00-40-00) | 1 |
 | 2026-05-20 | [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342](/episodes/ep-cPidFQDJLbo.md#ent-concept-islam-t-00-53-46) | 3 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-concept-islam-t-00-00-38) | 9 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-concept-islam-t-00-44-42) | 5 |
 
 </details>
 </section>
@@ -73,7 +75,27 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (51)</strong></summary>
+<summary><strong class="section-title">Raw mentions (56)</strong></summary>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (5 mentions)</summary>
+
+**[00:44:51](/episodes/ep-d7VsbEIWkP8.md#ent-concept-islam-t-00-44-42)**
+> "radical Islam"
+
+**[00:45:01](/episodes/ep-d7VsbEIWkP8.md#ent-concept-islam-t-00-45-01)**
+> "...1 has been propaganda against muslims okay they refuse to tell this story for three dec..."
+
+**[00:46:09](/episodes/ep-d7VsbEIWkP8.md#ent-concept-islam-t-00-46-09)**
+> "There are three ways Islam will conquer the West."
+
+**[00:48:30](/episodes/ep-d7VsbEIWkP8.md#ent-concept-islam-t-00-48-13)**
+> "...e gonna have to fight radical islam so your options are you just you gotta"
+
+**[00:48:49](/episodes/ep-d7VsbEIWkP8.md#ent-concept-islam-t-00-48-49)**
+> "...gnize that the threat here is Islam. It's not Zionism. Very clear by that trailer."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (9 mentions)</summary>
@@ -133,7 +155,7 @@ _Type: Concepts_
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
 
 **[00:34:48](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-islam-t-00-34-48)**
-> "... death cult ideology known as islam so i just hope that he knows that yes tucker ther..."
+> "Lying about him, and you are smearing him, and you are saying the most vile things about our country and our president, and you are creating so much chaos. You're going to cause the Democrats to take the House and the Senate, and you are endangering our national security by whitewashing this barbaric death-cult ideology known as Islam. So I just hope that he knows that, yes, Tucker (Tucker Carlson), there are people out there who actually..."
 
 </details>
 
@@ -308,12 +330,45 @@ _Type: Concepts_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Target Of Criticism From (1)</summary>
+
+- **[Laura Loomer](/entities/person-laura-loomer.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:34:48](/episodes/ep-ZIH5-V6UPkg.md#t-00-34-48): “You are endangering our national security by whitewashing this barbaric death-cult ideology known as Islam.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Laura Loomer](/entities/person-laura-loomer.md)** critic of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:34:48](/episodes/ep-ZIH5-V6UPkg.md#t-00-34-48): “You are endangering our national security by whitewashing this barbaric death-cult ideology known as Islam.”
+
+</details>
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Islam (3)</strong></summary>
+<summary><strong class="section-title">Statements about Islam (5)</strong></summary>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (2)</summary>
+
+- [00:44:51](/episodes/ep-d7VsbEIWkP8.md#t-00-44-42) (Claim) **Ben Shapiro** (via quoted tweet): ["Ben Shapiro wrote that radical Islam is a real threat and that Hollywo..."](/statements/statement-3e0c0129e51c.md)
+  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Hollywood](/entities/gpe-hollywood.md)
+
+- [00:47:48](/episodes/ep-d7VsbEIWkP8.md#t-00-47-40) (Accusation) **Candace Owens**: ["Candace Owens rhetorically asked whether people knew about the CIA and..."](/statements/statement-73e33489e3a9.md)
+  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Israel](/entities/gpe-israel.md), [Al-Nusra Front](/entities/org-al-nusra-front.md)
+
+</details>
 
 <details>
 <summary>VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306 (1)</summary>

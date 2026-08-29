@@ -273,7 +273,7 @@ youtube_url: "https://www.youtube.com/watch?v=6J6lRZPQ4jk"
   - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:11:47](#t-00-11-13) [○] (Claim) **Candace Owens**: ["Terrell Farnsworth was told to remove SD cards by police"](/statements/statement-b07a3c119fa6.md)
   - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
-- [00:11:49](#t-00-11-13) [○] (Claim) **Candace Owens**: ["Terrell Farnsworth removed SD cards because people were stealing hats"](/statements/statement-3f343073013d.md)
+- [00:11:49](#t-00-11-13) [◐] (Claim) **Candace Owens**: ["Terrell Farnsworth removed SD cards because people were stealing hats"](/statements/statement-3f343073013d.md)
   - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
 - [00:12:12](#t-00-11-55) [○] (Claim) **Candace Owens**: ["Brian Harpole said Charlie Kirk's security team did not fly drones"](/statements/statement-61598fd25150.md)
   - About: [Brian Harpole](/entities/person-brian-harpole.md), [Charlie Kirk](/entities/person-charlie-kirk.md)

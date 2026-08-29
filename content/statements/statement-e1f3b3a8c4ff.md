@@ -32,7 +32,7 @@ type: "factual_claim"
 **Timestamp:** [00:17:41](/episodes/ep-t4U7NjnUEgc.md#t-00-17-13) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1061);return false;">Play</a>
 
-> The next morning, now we're September 9th ... the old Joint Task Force Six is now being continued and it's known as JTF, Joint Task Force Southern Border. ... It is now around 7.37 a.m. when he enters the new or temporary JTF headquarters ... at this point he sees that the person that is with him and he is, he said certain that the person that is with him is Brian Harpole (Brian Harpole). ... So, and again, I'm going to say allegedly because I wasn't there, but I have spoken to this guy and I very much trust what he is saying.
+> The next morning, now we're September 9th ... the old Joint Task Force Six is now being continued and it's known as JTF, Joint Task Force Southern Border. ... It is now around 7.37 a.m. when he enters the new or temporary JTF headquarters ... at this point he sees that the person that is with him and he is, he said certain that the person that is with him is Brian Harpole (Brian Harpole).
 
 ## Verification
 

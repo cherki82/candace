@@ -1,6 +1,6 @@
 ---
 title: "Valuetainment"
-description: "Valuetainment (Organizations) - 4 mentions"
+description: "Valuetainment (Organizations) - 5 mentions"
 id: "org-valuetainment"
 type: "ORG"
 categories:
@@ -17,10 +17,10 @@ _Type: Organizations_
 Source: [About Valuetainment](https://valuetainment.com/about-us/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-valuetainment-t-03-13-42">2026-08-14 · 03:13:42</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-org-valuetainment-t-00-31-24">2026-08-11 · 00:31:44</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-valuetainment-t-03-52-17">2026-08-14 · 03:52:22</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -31,12 +31,14 @@ Source: [About Valuetainment](https://valuetainment.com/about-us/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-valuetainment-t-03-13-42">Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-org-valuetainment-t-00-31-24" style="--pulse-height:25%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-valuetainment-t-03-13-42" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-org-valuetainment-t-00-31-24) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-valuetainment-t-03-13-42) | 4 |
 
 </details>
@@ -45,7 +47,7 @@ Source: [About Valuetainment](https://valuetainment.com/about-us/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -61,6 +63,14 @@ Source: [About Valuetainment](https://valuetainment.com/about-us/)
 
 **[03:52:22](/episodes/ep-nPhCKwJ6ye8.md#ent-org-valuetainment-t-03-52-17)**
 > "...ess of what it is, working at Valuetainment, every day is a surprise."
+
+</details>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
+
+**[00:31:44](/episodes/ep-HGtMfbePDKk.md#ent-org-valuetainment-t-00-31-24)**
+> "...at David and his crew over at Valuetainment have not been very kind to me. And no, you are co..."
 
 </details>
 

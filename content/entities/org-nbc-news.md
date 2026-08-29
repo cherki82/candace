@@ -1,6 +1,6 @@
 ---
 title: "NBC News"
-description: "NBC News (Organizations) - 2 mentions"
+description: "NBC News (Organizations) - 5 mentions"
 id: "org-nbc-news"
 type: "ORG"
 categories:
@@ -20,10 +20,10 @@ Source: [About NBC News Digital | NBC News](https://www.nbcnews.com/information/
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-nbc-news-t-00-11-34">2026-02-03 · 00:12:13</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-nbc-news-t-00-16-17">2026-06-22 · 00:16:47</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -47,7 +47,7 @@ Source: [About NBC News Digital | NBC News](https://www.nbcnews.com/information/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
 
 <details>
 <summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1 mentions)</summary>
@@ -70,6 +70,28 @@ Source: [About NBC News Digital | NBC News](https://www.nbcnews.com/information/
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Formerly Employed (1)</summary>
+
+- **[Brandy Zadrozny](/entities/person-brandy-zadrozny.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. @ 00:16:17](/episodes/ep-HGtMfbePDKk.md#t-00-15-39): “It was Charlie and I were very green. We were excited that somebody in the press, I think at the time she was working for NBC, wanted to do a piece on us.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Brandy Zadrozny](/entities/person-brandy-zadrozny.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. @ 00:16:17](/episodes/ep-HGtMfbePDKk.md#t-00-15-39): “It was Charlie and I were very green. We were excited that somebody in the press, I think at the time she was working for NBC, wanted to do a piece on us.”
+
+</details>
+
+</details>
 
 </details>

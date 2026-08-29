@@ -31,7 +31,7 @@ type: "factual_claim"
 **Timestamp:** [00:29:58](/episodes/ep-ZIH5-V6UPkg.md#t-00-29-38) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1798);return false;">Play</a>
 
-> I was told by Charlie that he and Andrew Colvette were present for that meeting with Donald Trump.
+> I was told by Charlie (Charlie Kirk) that he and Andrew Kolvet were present for that meeting with Donald Trump.
 
 ## Verification
 

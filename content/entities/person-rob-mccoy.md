@@ -1,6 +1,6 @@
 ---
 title: "Rob McCoy"
-description: "Rob McCoy (People) - 175 mentions"
+description: "Rob McCoy (People) - 177 mentions"
 id: "person-rob-mccoy"
 type: "PERSON"
 aliases:
@@ -26,9 +26,9 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-rob-mccoy-t-00-56-12">2025-09-17 · 00:56:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-person-rob-mccoy-t-00-45-30">2026-07-22 · 00:45:41</a></strong></div>
-<div><span>Episodes</span><strong>44</strong></div>
-<div><span>Mentions</span><strong>175</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-person-rob-mccoy-t-00-54-01">2026-08-11 · 00:54:18</a></strong></div>
+<div><span>Episodes</span><strong>45</strong></div>
+<div><span>Mentions</span><strong>177</strong></div>
 <div><span>Statements by</span><strong>14</strong></div>
 <div><span>Statements about</span><strong>37</strong></div>
 <div><span>Relationships</span><strong>52</strong></div>
@@ -83,6 +83,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-rob-mccoy-t-00-23-21" style="--pulse-height:8%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-rob-mccoy-t-00-15-37" style="--pulse-height:17%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 2 mentions" title="2026-07-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-person-rob-mccoy-t-00-45-30" style="--pulse-height:8%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-person-rob-mccoy-t-00-54-01" style="--pulse-height:17%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 2 mentions" title="2026-08-11 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -132,6 +133,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-rob-mccoy-t-00-23-21) | 1 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-rob-mccoy-t-00-15-37) | 2 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-rob-mccoy-t-00-45-30) | 1 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-person-rob-mccoy-t-00-54-01) | 2 |
 
 </details>
 </section>
@@ -139,7 +141,18 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (175)</strong></summary>
+<summary><strong class="section-title">Raw mentions (177)</strong></summary>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (2 mentions)</summary>
+
+**[00:54:11](/episodes/ep-HGtMfbePDKk.md#ent-person-rob-mccoy-t-00-54-01)**
+> "...hts. Can we please talk about Rob McCoy telling Darren Tyler a couple of days ago that Ch..."
+
+**[00:54:18](/episodes/ep-HGtMfbePDKk.md#ent-person-rob-mccoy-t-00-54-01)**
+> "...oice. I forgot to get to that Rob McCoy interview."
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
@@ -1564,7 +1577,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1)</summary>
 
-- [00:38:41](/episodes/ep-581dILVcEE4.md#t-00-38-23) (Claim) **Candace Owens**: ["Rob McCoy was in Jerusalem on November 16th at an event billed as a ce..."](/statements/statement-33885f09bdfa.md)
+- [00:38:41](/episodes/ep-581dILVcEE4.md#t-00-38-23) (Claim) **Candace Owens**: ["Rob McCoy was apparently in Jerusalem on November 16 at an event bille..."](/statements/statement-33885f09bdfa.md)
   - Also about: [Jerusalem](/entities/gpe-jerusalem.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "JD Vance"
-description: "JD Vance (People) - 76 mentions"
+description: "JD Vance (People) - 80 mentions"
 id: "person-jd-vance"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-person-jd-vance-t-00-45-07">2025-09-18 · 00:45:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-person-jd-vance-t-00-46-05">2026-06-26 · 00:46:24</a></strong></div>
-<div><span>Episodes</span><strong>28</strong></div>
-<div><span>Mentions</span><strong>76</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-jd-vance-t-00-48-48">2026-08-21 · 00:48:55</a></strong></div>
+<div><span>Episodes</span><strong>30</strong></div>
+<div><span>Mentions</span><strong>80</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
-<div><span>Statements about</span><strong>17</strong></div>
+<div><span>Statements about</span><strong>18</strong></div>
 <div><span>Relationships</span><strong>18</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -43,7 +43,7 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 <a href="/episodes/ep-LATnak75Si0.md#ent-person-jd-vance-t-00-45-37" style="--pulse-height:8%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-jd-vance-t-00-06-26" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-person-jd-vance-t-00-38-25" style="--pulse-height:31%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 5 mentions" title="2025-12-17 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-jd-vance-t-00-05-24" style="--pulse-height:12%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-jd-vance-t-00-05-17" style="--pulse-height:19%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 3 mentions" title="2026-01-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-jd-vance-t-00-42-32" style="--pulse-height:8%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-jd-vance-t-00-25-10" style="--pulse-height:31%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 5 mentions" title="2026-02-02 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#t-00-38-27" style="--pulse-height:8%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
@@ -64,6 +64,8 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-jd-vance-t-00-38-39" style="--pulse-height:44%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 7 mentions" title="2026-06-23 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-person-jd-vance-t-00-46-05" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-person-jd-vance-t-00-41-51" style="--pulse-height:8%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-person-jd-vance-t-00-37-05" style="--pulse-height:8%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-person-jd-vance-t-00-48-48" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -76,7 +78,7 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 | 2025-11-05 | [Mamdani Wins. Charlie Kirk Questions Haunt "MAGA". | Candace Ep 259](/episodes/ep-LATnak75Si0.md#ent-person-jd-vance-t-00-45-37) | 1 |
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-jd-vance-t-00-06-26) | 1 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-jd-vance-t-00-38-25) | 5 |
-| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-jd-vance-t-00-05-24) | 2 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-jd-vance-t-00-05-17) | 3 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-jd-vance-t-00-42-32) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-jd-vance-t-00-25-10) | 5 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#t-00-38-27) | 1 |
@@ -97,6 +99,8 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-jd-vance-t-00-38-39) | 7 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-jd-vance-t-00-46-05) | 1 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-jd-vance-t-00-41-51) | 1 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-jd-vance-t-00-37-05) | 1 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-jd-vance-t-00-48-48) | 1 |
 
 </details>
 </section>
@@ -104,7 +108,23 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (76)</strong></summary>
+<summary><strong class="section-title">Raw mentions (80)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
+
+**[00:48:55](/episodes/ep-_cNtgris8Ik.md#ent-person-jd-vance-t-00-48-48)**
+> "We had J.D. Vance hosted Charlie's show on that Monday after. So Ch..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
+
+**[00:37:30](/episodes/ep-9hRcfSrri70.md#ent-person-jd-vance-t-00-37-05)**
+> "...ou could certainly say Vance (JD Vance), everyone around him constantly said, as soon as..."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
@@ -384,13 +404,16 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 </details>
 
 <details>
-<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (2 mentions)</summary>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (3 mentions)</summary>
 
-**[00:05:24](/episodes/ep-OEAHy3SsIiI.md#ent-person-jd-vance-t-00-05-24)**
+**[00:05:17](/episodes/ep-OEAHy3SsIiI.md#ent-person-jd-vance-t-00-05-17)**
 > "I'm saying the guy got shot three months ago and she walks out to a pyrotechnic display and then she goes we're going to elect J.D. Vance. It's weird that that's where her head is at."
 
-**[00:06:06](/episodes/ep-OEAHy3SsIiI.md#ent-person-jd-vance-t-00-06-06)**
-> "...tsuit and talk about electing J.D. Vance. Three months after your husband was killed, many..."
+**[00:06:03](/episodes/ep-OEAHy3SsIiI.md#ent-person-jd-vance-t-00-06-03)**
+> "And to go out through a stream of fireworks and sparklers and stand there in a glittering pantsuit and talk about electing J.D. Vance three months after your husband was killed—many people feel that there is something off about that, and we're starting to see that political people..."
+
+**[01:06:24](/episodes/ep-OEAHy3SsIiI.md#ent-person-jd-vance-t-01-06-13)**
+> "... tent, Nicki Minaj, the tent, J.D. Vance, the tent, the fireworks, the tent."
 
 </details>
 
@@ -661,7 +684,15 @@ Source: [Vice President JD Vance - White House](https://www.whitehouse.gov/admin
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about JD Vance (17)</strong></summary>
+<summary><strong class="section-title">Statements about JD Vance (18)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1)</summary>
+
+- [00:26:18](/episodes/ep-9hRcfSrri70.md#t-00-25-58) (Accusation) **Candace Owens**: ["Owens said Vice President JD Vance was also complicit in seeding the n..."](/statements/statement-4ced550f83c5.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (1)</summary>

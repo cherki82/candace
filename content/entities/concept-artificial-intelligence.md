@@ -1,6 +1,6 @@
 ---
 title: "Artificial intelligence"
-description: "Artificial intelligence (Concepts) - 146 mentions"
+description: "Artificial intelligence (Concepts) - 153 mentions"
 id: "concept-artificial-intelligence"
 type: "CONCEPT"
 aliases:
@@ -21,10 +21,10 @@ _Type: Concepts_
 Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary/term/artificial_intelligence)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#t-00-11-36">2026-01-05 · 00:12:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9CuC1yf8-PU.md#t-00-55-06">2026-06-23 · 00:55:06</a></strong></div>
-<div><span>Episodes</span><strong>40</strong></div>
-<div><span>Mentions</span><strong>146</strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#t-00-12-10">2026-01-05 · 00:12:10</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#t-00-15-47">2026-08-21 · 00:15:47</a></strong></div>
+<div><span>Episodes</span><strong>43</strong></div>
+<div><span>Mentions</span><strong>153</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>28</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,8 +35,7 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-4DvYXBn_5JI.md#t-00-36-33">September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337</a> (14 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-OEAHy3SsIiI.md#t-00-11-36" style="--pulse-height:14%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#t-00-07-28" style="--pulse-height:57%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 8 mentions" title="2026-01-07 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#t-00-12-10" style="--pulse-height:14%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#t-00-25-30" style="--pulse-height:14%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#t-00-37-57" style="--pulse-height:14%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#t-00-51-59" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
@@ -75,13 +74,16 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 <a href="/episodes/ep-19vHhjF7-NA.md#t-00-32-49" style="--pulse-height:14%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#t-00-50-04" style="--pulse-height:14%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 2 mentions" title="2026-06-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#t-00-55-06" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#t-00-05-02" style="--pulse-height:43%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 6 mentions" title="2026-08-11 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#t-01-01-26" style="--pulse-height:29%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 4 mentions" title="2026-08-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#t-00-42-55" style="--pulse-height:21%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 3 mentions" title="2026-08-19 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#t-00-15-06" style="--pulse-height:14%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#t-00-11-36) | 2 |
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#t-00-07-28) | 8 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#t-00-12-10) | 2 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#t-00-25-30) | 2 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#t-00-37-57) | 2 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#t-00-51-59) | 1 |
@@ -120,6 +122,10 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#t-00-32-49) | 2 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#t-00-50-04) | 2 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#t-00-55-06) | 1 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#t-00-05-02) | 6 |
+| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#t-01-01-26) | 4 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#t-00-42-55) | 3 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#t-00-15-06) | 2 |
 
 </details>
 </section>
@@ -127,7 +133,72 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (146)</strong></summary>
+<summary><strong class="section-title">Raw mentions (153)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>
+
+**[00:15:06](/episodes/ep-_cNtgris8Ik.md#t-00-15-06)**
+> "...n lawyer claiming that I used AI, claiming that I'm lying, that I'm essentially co..."
+
+**[00:15:47](/episodes/ep-_cNtgris8Ik.md#t-00-15-47)**
+> "...y're like, oh, well, she used AI to do that."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (3 mentions)</summary>
+
+**[00:43:14](/episodes/ep-9hRcfSrri70.md#t-00-42-55)**
+> "...obably already know this, but AI can clone your voice, forge your signature, and e..."
+
+**[00:43:30](/episodes/ep-9hRcfSrri70.md#t-00-42-55)**
+> "...mmer pulls your records, uses AI to forge a transfer document, files it with your ..."
+
+**[00:50:07](/episodes/ep-9hRcfSrri70.md#t-00-49-45)**
+> "... and being a coward and using AI."
+
+</details>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (4 mentions)</summary>
+
+**[01:01:26](/episodes/ep-E7P2ShoYDUA.md#t-01-01-26)**
+> "Wait! Wait! I can explain!"
+
+**[00:59:58](/episodes/ep-E7P2ShoYDUA.md#t-00-59-39)**
+> "And he did tweet this, every AI source will say I won. This was never in question..."
+
+**[01:00:05](/episodes/ep-E7P2ShoYDUA.md#t-00-59-39)**
+> "...people explained that this is AI scraping from establishment sources."
+
+**[01:01:03](/episodes/ep-E7P2ShoYDUA.md#t-01-01-03)**
+> "... video that they created this AI video, which went viral this weekend and which is..."
+
+</details>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (6 mentions)</summary>
+
+**[00:05:18](/episodes/ep-HGtMfbePDKk.md#t-00-05-02)**
+> "...sharing what appears to be an AI enhanced photo from the original video evidence?"
+
+**[00:05:33](/episodes/ep-HGtMfbePDKk.md#t-00-05-02)**
+> "...e just flat out accuses us of AI enhancing the photo of tampering with tampering w..."
+
+**[00:05:52](/episodes/ep-HGtMfbePDKk.md#t-00-05-47)**
+> "...eal. You can't wish that it's AI enhanced and make it so."
+
+**[00:06:29](/episodes/ep-HGtMfbePDKk.md#t-00-06-29)**
+> "...re, quote, not enhanced using AI technology."
+
+**[00:06:54](/episodes/ep-HGtMfbePDKk.md#t-00-06-29)**
+> "We didn't use AI tools. We didn't use anything to alter, enhance, ..."
+
+**[00:47:47](/episodes/ep-HGtMfbePDKk.md#t-00-47-47)**
+> "...ace is manipulating them with AI enhancement. It's irresponsible people to share t..."
+
+</details>
 
 <details>
 <summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1 mentions)</summary>
@@ -722,38 +793,9 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 </details>
 
 <details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (8 mentions)</summary>
-
-**[00:07:56](/episodes/ep-zSKrxIUMNqw.md#t-00-07-28)**
-> "He sent the script and an AI video along with it as to what they wanted me to ..."
-
-**[00:08:42](/episodes/ep-zSKrxIUMNqw.md#t-00-08-12)**
-> "...for me. Attached below is the AI video that they sent me and the text that I sent ..."
-
-**[00:09:02](/episodes/ep-zSKrxIUMNqw.md#t-00-08-55)**
-> "I was told not to share the AI video the day after you announced on your show th..."
-
-**[00:09:29](/episodes/ep-zSKrxIUMNqw.md#t-00-08-55)**
-> "...'m just going to show you the AI video that they sent out to people,"
-
-**[00:09:30](/episodes/ep-zSKrxIUMNqw.md#t-00-08-55)**
-> "show you the AI video that they sent out to people,"
-
-**[00:09:44](/episodes/ep-zSKrxIUMNqw.md#t-00-09-39)**
-> "but this is an AI video sample of the show that Ben (Ben Shapiro) w..."
-
-**[00:34:25](/episodes/ep-zSKrxIUMNqw.md#t-00-33-59)**
-> "...hy I actually use magisterium AI,"
-
-**[00:34:37](/episodes/ep-zSKrxIUMNqw.md#t-00-34-37)**
-> "And unlike the other AI that's out there, Magisterium AI actually brings ..."
-
-</details>
-
-<details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (2 mentions)</summary>
 
-**[00:12:12](/episodes/ep-OEAHy3SsIiI.md#t-00-11-36)**
+**[00:12:10](/episodes/ep-OEAHy3SsIiI.md#t-00-12-10)**
 > "or what it did for me was it contributed to my realization that the future, the dark future that everyone's always predicting, like the AI future,"
 
 **[00:36:05](/episodes/ep-OEAHy3SsIiI.md#t-00-36-05)**
@@ -772,6 +814,17 @@ _No relationships extracted yet._
 
 <details open>
 <summary><strong class="section-title">Statements about Artificial intelligence (28)</strong></summary>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (2)</summary>
+
+- [00:05:12](/episodes/ep-HGtMfbePDKk.md#t-00-05-02) (Opinion) **David Freiheit** (via quoted tweet): ["David Freiheit wrote that he agreed the pictured person did not look l..."](/statements/statement-f1bfa74990b9.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:06:47](/episodes/ep-HGtMfbePDKk.md#t-00-06-29) (Claim) **Candace Owens**: ["Candace Owens said her team did not alter, enhance, edit, or change th..."](/statements/statement-3a066543f71e.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (1)</summary>
@@ -895,7 +948,7 @@ _No relationships extracted yet._
 - [00:14:10](/episodes/ep-eLgD5yUVbko.md#t-00-13-39) (Claim) **Andrew Kolvet** (via quoted speech): ["Andrew Kolvet said Turning Point USA had been pitched multiple times o..."](/statements/statement-516fcc69ba15.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:16:38](/episodes/ep-eLgD5yUVbko.md#t-00-15-53) (Accusation) **Candace Owens**: ["Candace Owens suggested that the released Aspen succession audio may h..."](/statements/statement-d983a9e98b02.md)
+- [00:16:38](/episodes/ep-eLgD5yUVbko.md#t-00-15-53) (Accusation) **Candace Owens**: ["Candace Owens suggested that, if true, the released Aspen succession a..."](/statements/statement-d983a9e98b02.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
@@ -912,17 +965,6 @@ _No relationships extracted yet._
 
 - [00:46:18](/episodes/ep-xjzb_t5Tk9o.md#t-00-46-04) (Accusation) **Bassem Youssef**: ["Peter Thiel, Alex Karp, and Larry Ellison use technology to kill Pales..."](/statements/statement-ae788c4a1be2.md)
   - Also about: [Peter Thiel](/entities/person-peter-thiel.md), [Alexander Karp](/entities/person-alex-karp.md), [Larry Ellison](/entities/person-larry-ellison.md)
-
-</details>
-
-<details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (2)</summary>
-
-- [00:08:02](/episodes/ep-zSKrxIUMNqw.md#t-00-07-28) (Claim) **Maggie Wegner** (via read message): ["The audition script and AI sample focused entirely on mocking Candace ..."](/statements/statement-30d7c5a773f6.md)
-  - Also about: [Maggie Wegner](/entities/person-maggie-wegner.md), [Candace Owens](/entities/person-candace-owens.md), [The More You No-No](/entities/work-the-more-you-no-no.md)
-
-- [00:34:37](/episodes/ep-zSKrxIUMNqw.md#t-00-33-59) (Claim) **Candace Owens**: ["Magisterium AI's answers cite original sources and its knowledge base ..."](/statements/statement-231e04766484.md)
-  - Also about: [Magisterium AI](/entities/org-magisterium-ai.md)
 
 </details>
 

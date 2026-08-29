@@ -95,9 +95,6 @@ _No relationships extracted yet._
 <details>
 <summary>Shocking Revelation About The Egyptian Planes... | Candace Ep 274 (5)</summary>
 
-- [00:03:22](/episodes/ep-ZAuuSq_j2_w.md#t-00-03-07) (Claim) **Candace Owens**: ["Walid Mahmood came to Provo on May 27th, 2024 aboard Egyptian military..."](/statements/statement-9a21f286b0b6.md)
-  - Also about: [Provo](/entities/gpe-provo.md)
-
 - [00:14:06](/episodes/ep-ZAuuSq_j2_w.md#t-00-13-44) (Claim) **Candace Owens**: ["Walid Mahmood was one of four people aboard the Egyptian plane that fl..."](/statements/statement-4e84712d393b.md)
   - Also about: [Provo](/entities/gpe-provo.md), [Wilmington](/entities/gpe-wilmington.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
@@ -106,6 +103,9 @@ _No relationships extracted yet._
 
 - [00:15:12](/episodes/ep-ZAuuSq_j2_w.md#t-00-15-09) (Claim) **Candace Owens**: ["Walid Mahmood came to Provo on May 27th of this year aboard another Eg..."](/statements/statement-c65701d7dc38.md)
   - Also about: [SU-BTU](/entities/vehicle-su-btu.md)
+
+- [00:15:12](/episodes/ep-ZAuuSq_j2_w.md#t-00-15-09) (Claim) **Candace Owens**: ["Walid Mahmood came to Provo on May 27 aboard Egyptian military plane S..."](/statements/statement-9a21f286b0b6.md)
+  - Also about: [Provo](/entities/gpe-provo.md)
 
 - [00:18:38](/episodes/ep-ZAuuSq_j2_w.md#t-00-18-21) (Opinion) **Candace Owens**: ["Walid Mahmood is not the president of Egypt, but is almost certainly w..."](/statements/statement-0c0772a6830c.md)
   - Also about: [Abdel Fattah el-Sisi](/entities/person-abdel-fattah-el-sisi.md)

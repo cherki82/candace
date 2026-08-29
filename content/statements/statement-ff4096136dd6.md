@@ -28,7 +28,7 @@ type: "accusation"
 **Timestamp:** [00:09:36](/episodes/ep-es7PWdFGoFI.md#t-00-09-22) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(576);return false;">Play</a>
 
-> Terrell lied to me several times
+> He lied to me several times.
 
 ## Verification
 

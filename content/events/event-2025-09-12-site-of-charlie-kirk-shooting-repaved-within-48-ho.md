@@ -11,7 +11,7 @@ date: "2025-09-12"
 
 > Site of Charlie Kirk shooting repaved within 48 hours.
 
-## Mentioned In (146 times)
+## Mentioned In (147 times)
 
 ### 1. Erika Kirk Forgives. The Feds Forget... | Candace Ep 240
 
@@ -1180,3 +1180,11 @@ date: "2025-09-12"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(637);return false;">▶️ Play</a>
 
 > een seeing a lot of vitriol that's been thrown at Andrew Kolvet's way because he is doing press. He is carrying on Charlie Kirk's show. He was already seated on Cha
+
+### 147. Candace Owens vs Andrew Wilson: The Great Debate.
+
+**Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
+**Timestamp:** [02:28:31](/episodes/ep-aPOyk1i2LOc.md#event-event-2025-09-12-site-of-charlie-kirk-shooting-repaved-within-48-ho-t-02-27-59) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(8911);return false;">▶️ Play</a>
+
+> I've been told they paved it over a couple days later.

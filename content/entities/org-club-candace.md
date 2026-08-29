@@ -1,6 +1,6 @@
 ---
 title: "Club Candace"
-description: "Club Candace (Organizations) - 101 mentions"
+description: "Club Candace (Organizations) - 102 mentions"
 id: "org-club-candace"
 type: "ORG"
 aliases:
@@ -26,8 +26,8 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-club-candace-t-01-01-30">2025-09-15 · 01:01:51</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-club-candace-t-01-01-38">2026-07-23 · 01:01:51</a></strong></div>
-<div><span>Episodes</span><strong>37</strong></div>
-<div><span>Mentions</span><strong>101</strong></div>
+<div><span>Episodes</span><strong>38</strong></div>
+<div><span>Mentions</span><strong>102</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -70,6 +70,7 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-club-candace-t-00-55-39" style="--pulse-height:20%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 2 mentions" title="2026-03-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-club-candace-t-00-56-25" style="--pulse-height:10%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-org-club-candace-t-00-04-41" style="--pulse-height:60%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 6 mentions" title="2026-03-30 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-club-candace-t-00-47-54" style="--pulse-height:10%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-club-candace-t-00-43-49" style="--pulse-height:20%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 2 mentions" title="2026-04-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-club-candace-t-00-52-39" style="--pulse-height:20%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 2 mentions" title="2026-05-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-org-club-candace-t-00-46-17" style="--pulse-height:20%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
@@ -112,6 +113,7 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-club-candace-t-00-55-39) | 2 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-club-candace-t-00-56-25) | 1 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-club-candace-t-00-04-41) | 6 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-club-candace-t-00-47-54) | 1 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-club-candace-t-00-43-49) | 2 |
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-org-club-candace-t-00-52-39) | 2 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-org-club-candace-t-00-46-17) | 2 |
@@ -124,7 +126,7 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (101)</strong></summary>
+<summary><strong class="section-title">Raw mentions (102)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (3 mentions)</summary>
@@ -181,6 +183,14 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 
 **[00:44:08](/episodes/ep-xi8SYJTUXPM.md#ent-org-club-candace-t-00-43-49)**
 > "And like I often say on our book club, all roads lead to France somehow, which is incre..."
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
+
+**[00:47:54](/episodes/ep-ZIH5-V6UPkg.md#ent-org-club-candace-t-00-47-54)**
+> "...he subscription tier into one Club Candace tier for $11.99 a month on the website, or you ca..."
 
 </details>
 

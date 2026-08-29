@@ -1,6 +1,6 @@
 ---
 title: "Africa"
-description: "Africa (Places) - 12 mentions"
+description: "Africa (Places) - 13 mentions"
 id: "gpe-africa"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-africa-t-00-13-15">2025-12-01 · 00:13:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-africa-t-00-56-54">2026-06-26 · 00:57:00</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-africa-t-00-51-51">2026-07-29 · 00:52:06</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,6 +38,7 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-africa-t-00-39-33" style="--pulse-height:20%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-gpe-africa-t-00-12-32" style="--pulse-height:20%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-africa-t-00-56-54" style="--pulse-height:20%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-africa-t-00-51-51" style="--pulse-height:20%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +52,7 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-gpe-africa-t-00-39-33) | 1 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-gpe-africa-t-00-12-32) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-africa-t-00-56-54) | 1 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-africa-t-00-51-51) | 1 |
 
 </details>
 </section>
@@ -58,7 +60,15 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
+
+**[00:52:06](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-africa-t-00-51-51)**
+> "to show for it he'd have antlers he'd have maybe some buffalo from Africa I don't know he'd have just a lot going on there to show that he was that skilled because I would say my husband's a darn good hunter he's a very good hunter and I've only gone hunting with him once in Africa and he's not taken that shot that fast nor have I ever seen him do that tactical move"
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>

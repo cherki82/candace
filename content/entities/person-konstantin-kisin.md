@@ -3,9 +3,17 @@ title: "Konstantin Kisin"
 description: "Konstantin Kisin (People) - 6 mentions"
 id: "person-konstantin-kisin"
 type: "PERSON"
+categories:
+  - "commentator"
 ---
 
 _Type: People_
+
+**Categories:** commentator
+
+**Entity verification:** verified
+> Canonical name and identity for Konstantin Kisin confirmed by the cited direct external source.
+Source: [Konstantin Kisin](https://en.wikipedia.org/wiki/Konstantin_Kisin)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-konstantin-kisin-t-00-34-15">2025-10-01 · 00:34:15</a></strong></div>

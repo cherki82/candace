@@ -3,9 +3,17 @@ title: "Brutus"
 description: "Brutus (People) - 5 mentions"
 id: "person-brutus"
 type: "PERSON"
+categories:
+  - "historical political figure"
 ---
 
 _Type: People_
+
+**Categories:** historical political figure
+
+**Entity verification:** verified
+> Canonical name and identity for Brutus confirmed by the cited direct external source.
+Source: [Marcus Junius Brutus](https://en.wikipedia.org/wiki/Marcus_Junius_Brutus)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-person-brutus-t-00-02-52">2025-11-21 · 00:03:19</a></strong></div>

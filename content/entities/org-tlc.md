@@ -12,6 +12,8 @@ _Type: Organizations_
 
 **Categories:** television network, media
 
+> **Possibly overlapping entity records:** [TLC (music group)](/entities/org-tlc-music-group). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > The network's official site identifies the television network as TLC.
 Source: [TLC | TLC.com](https://www.tlc.com/)

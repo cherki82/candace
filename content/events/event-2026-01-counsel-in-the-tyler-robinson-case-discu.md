@@ -17,4 +17,4 @@ date: "2026-01"
 **Timestamp:** [00:27:08](/episodes/ep-UYkXV9mYbT4.md#event-event-2026-01-counsel-in-the-tyler-robinson-case-discu-t-00-27-01) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1628);return false;">▶️ Play</a>
 
-> held back in January, the Council for the Parties discussed the status of the lab files
+> It then tells us that during the hearing, which was held back in January, the counsel for the

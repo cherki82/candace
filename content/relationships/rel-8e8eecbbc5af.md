@@ -1,15 +1,15 @@
 ---
-title: "Tel Aviv location of ACE Partners"
-description: "Evidence for the relationship: Tel Aviv location of ACE Partners"
+title: "Tel Aviv location of Ace Capital Partners (Israel)"
+description: "Evidence for the relationship: Tel Aviv location of Ace Capital Partners (Israel)"
 relationship_id: "rel-8e8eecbbc5af"
 subject: "gpe-tel-aviv"
 predicate: "location of"
-object: "org-ace-partners"
+object: "org-ace-capital-partners-israel"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Tel Aviv](/entities/gpe-tel-aviv) location of [ACE Partners](/entities/org-ace-partners)
+## [Tel Aviv](/entities/gpe-tel-aviv) location of [Ace Capital Partners (Israel)](/entities/org-ace-capital-partners-israel)
 
 ### Evidence (1 mentions)
 
@@ -20,4 +20,4 @@ object: "org-ace-partners"
 ### Related
 
 - [Tel Aviv](/entities/gpe-tel-aviv)
-- [ACE Partners](/entities/org-ace-partners)
+- [Ace Capital Partners (Israel)](/entities/org-ace-capital-partners-israel)

@@ -4,9 +4,10 @@ description: "\"Candace Owens said Stephen Boss died without a will, Allison Hol
 statement_id: "statement-ab8d5b7b839d"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -33,7 +34,21 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The Los Angeles Times confirms Boss died without a will and Holker filed a spousal-property petition. Reporting based on the court documents confirms a Los Angeles Superior Court judge signed off in April and granted her property-passing rights.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Stephen 'tWitch' Boss' autopsy report sheds new light on details of his death](https://www.latimes.com/entertainment-arts/story/2023-05-25/stephen-twitch-boss-autopsy-report-sheds-new-light-on-details-of-his-death)
+- [Allison Holker Granted Half of Stephen 'tWitch' Boss' Estate](https://www.usmagazine.com/celebrity-news/news/allison-holker-granted-half-of-stephen-twitch-boss-estate/)
+
+*Verified: 2026-08-27T19:42:39.589251*
 
 ---
 

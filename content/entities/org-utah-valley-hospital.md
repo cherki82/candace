@@ -1,6 +1,6 @@
 ---
 title: "Utah Valley Hospital"
-description: "Utah Valley Hospital (Organizations) - 11 mentions"
+description: "Utah Valley Hospital (Organizations) - 14 mentions"
 id: "org-utah-valley-hospital"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [Utah Valley Hospital | Intermountain Health](https://prod.intermountain
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-utah-valley-hospital-t-00-39-20">2025-10-28 · 00:32:00</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-utah-valley-hospital-t-00-57-43">2026-04-20 · 00:57:54</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-utah-valley-hospital-t-00-26-05">2026-07-31 · 00:26:12</a></strong></div>
+<div><span>Episodes</span><strong>8</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -38,6 +38,7 @@ Source: [Utah Valley Hospital | Intermountain Health](https://prod.intermountain
 <a href="/episodes/ep-UYkXV9mYbT4.md#t-00-56-25" style="--pulse-height:33%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-org-utah-valley-hospital-t-00-05-56" style="--pulse-height:33%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-utah-valley-hospital-t-00-57-43" style="--pulse-height:33%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-utah-valley-hospital-t-00-23-19" style="--pulse-height:100%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 3 mentions" title="2026-07-31 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [Utah Valley Hospital | Intermountain Health](https://prod.intermountain
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#t-00-56-25) | 1 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-utah-valley-hospital-t-00-05-56) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-utah-valley-hospital-t-00-57-43) | 1 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-org-utah-valley-hospital-t-00-23-19) | 3 |
 
 </details>
 </section>
@@ -57,7 +59,21 @@ Source: [Utah Valley Hospital | Intermountain Health](https://prod.intermountain
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (3 mentions)</summary>
+
+**[00:23:40](/episodes/ep-iB-YtO3UZOg.md#ent-org-utah-valley-hospital-t-00-23-19)**
+> "That's Utah Valley Hospital. And that's what happened."
+
+**[00:25:25](/episodes/ep-iB-YtO3UZOg.md#ent-org-utah-valley-hospital-t-00-25-25)**
+> "...s a hospital file that was at Utah Valley Hospital."
+
+**[00:26:12](/episodes/ep-iB-YtO3UZOg.md#ent-org-utah-valley-hospital-t-00-26-05)**
+> "...arlie actually secretly go to Utah Valley Hospital?"
+
+</details>
 
 <details>
 <summary>EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 (1 mentions)</summary>
@@ -137,7 +153,24 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah Valley Hospital (3)</strong></summary>
+<summary><strong class="section-title">Statements about Utah Valley Hospital (7)</strong></summary>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (4)</summary>
+
+- [00:23:29](/episodes/ep-iB-YtO3UZOg.md#t-00-23-19) (Claim) **Anonymous Timpanogos Hospital source (Ep iB-YtO3UZOg)** (via read message): ["An anonymous hospital source alleged that at approximately 11:30 a.m. ..."](/statements/statement-3c7d3394bb8e.md)
+  - Also about: [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+- [00:23:45](/episodes/ep-iB-YtO3UZOg.md#t-00-23-19) (Claim) **Anonymous Timpanogos Hospital source (Ep iB-YtO3UZOg)** (via read message): ["An anonymous hospital source alleged that all emergency-room patients ..."](/statements/statement-e7bc4a96b0d4.md)
+  - Also about: [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md)
+
+- [00:25:25](/episodes/ep-iB-YtO3UZOg.md#t-00-25-25) (Claim) **Anonymous Timpanogos Hospital source (Ep iB-YtO3UZOg)** (via read message): ["An anonymous hospital source reported that Charlie Kirk had a file at ..."](/statements/statement-6cf88ca4975c.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:26:20](/episodes/ep-iB-YtO3UZOg.md#t-00-26-05) (Citation) **Candace Owens**: ["Owens said the Timpanogos Regional Hospital Epic system did not commun..."](/statements/statement-1cb874aaa5b9.md)
+  - Also about: [Timpanogos Regional Hospital](/entities/org-timpanogos-regional-hospital.md), [Epic Systems](/entities/org-epic-systems.md), [Intermountain Health](/entities/org-intermountain-health.md)
+
+</details>
 
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2)</summary>

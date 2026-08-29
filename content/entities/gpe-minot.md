@@ -3,9 +3,17 @@ title: "Minot"
 description: "Minot (Places) - 15 mentions"
 id: "gpe-minot"
 type: "GPE"
+categories:
+  - "North Dakota city"
 ---
 
 _Type: Places_
+
+**Categories:** North Dakota city
+
+**Entity verification:** verified
+> Canonical name and identity for Minot confirmed by the cited direct external source.
+Source: [Minot, North Dakota](https://en.wikipedia.org/wiki/Minot,_North_Dakota)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-minot-t-00-19-07">2025-10-30 · 00:19:07</a></strong></div>

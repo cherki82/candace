@@ -11,7 +11,7 @@ date: "1963-11-22"
 
 > President John F. Kennedy was assassinated in Dallas.
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. Myron Gaines x Candace Owens
 
@@ -36,3 +36,11 @@ date: "1963-11-22"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2614);return false;">▶️ Play</a>
 
 > since LBJ helped murder JFK, set him up and then I think cleaned house
+
+### 4. EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rook...
+
+**Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
+**Timestamp:** [00:52:32](/episodes/ep-Vu6Y24pqhZs.md#event-event-1963-11-22-president-john-f-kennedy-was-assassinate-t-00-52-32) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3152);return false;">▶️ Play</a>
+
+> jfk was murdered over 60 years ago and there are still so many unanswered questions

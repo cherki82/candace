@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:50:09](/episodes/ep-ewBzjVe3LNQ.md#t-00-49-43) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3009);return false;">Play</a>
 
-> There were police officers from different levels of the government. I couldn't tell you all the different types of, of, um, law enforcement that were there, uh, surrounding me. And sort of putting up a wall between me and the front door.
+> There were police officers from different levels of the government. Um, I couldn't tell you all the different types of, of, um, law enforcement that were there, uh, surrounding me. And sort of putting up a wall between me and the front door.
 
 ## Verification
 

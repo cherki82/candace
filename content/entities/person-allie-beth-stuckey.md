@@ -44,7 +44,7 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-allie-beth-stuckey-t-00-19-44" style="--pulse-height:13%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-6DhWawD4ZiM.md#t-00-20-39" style="--pulse-height:8%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 1 mentions" title="2025-12-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#t-00-34-50" style="--pulse-height:8%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 1 mentions" title="2025-12-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-allie-beth-stuckey-t-01-06-43" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-allie-beth-stuckey-t-01-06-13" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-person-allie-beth-stuckey-t-00-42-04" style="--pulse-height:8%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-person-allie-beth-stuckey-t-00-59-45" style="--pulse-height:20%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 3 mentions" title="2026-04-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-allie-beth-stuckey-t-00-04-44" style="--pulse-height:13%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
@@ -63,7 +63,7 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-person-allie-beth-stuckey-t-00-19-44) | 2 |
 | 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#t-00-20-39) | 1 |
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#t-00-34-50) | 1 |
-| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-allie-beth-stuckey-t-01-06-43) | 1 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-allie-beth-stuckey-t-01-06-13) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-person-allie-beth-stuckey-t-00-42-04) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-person-allie-beth-stuckey-t-00-59-45) | 3 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-allie-beth-stuckey-t-00-04-44) | 2 |
@@ -130,7 +130,7 @@ Source: [Allie Beth Stuckey - Official Website](https://alliebethstuckey.com/)
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
 
-**[01:06:43](/episodes/ep-OEAHy3SsIiI.md#ent-person-allie-beth-stuckey-t-01-06-43)**
+**[01:06:43](/episodes/ep-OEAHy3SsIiI.md#ent-person-allie-beth-stuckey-t-01-06-13)**
 > "So our punishment is they're going to make a lot of videos and call us demonic and Allie Stuckey is going to hit the Bible verses and tell us why we can't feel the way we feel."
 
 </details>

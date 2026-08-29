@@ -149,7 +149,7 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 **[00:45:03](/episodes/ep-q1NRQQAYS_Q.md#ent-person-pam-bondi-t-00-44-43)**
 > "...cement on social media saying Pam Bondi is a great American patriot, a loyal friend who f..."
 
-**[00:45:46](/episodes/ep-q1NRQQAYS_Q.md#ent-person-pam-bondi-t-00-45-32)**
+**[00:45:46](/episodes/ep-q1NRQQAYS_Q.md#ent-person-pam-bondi-t-00-45-19)**
 > "Please do not put that on Pam Bondi. Pam Bondi was doing as she was instructed to do ..."
 
 </details>
@@ -260,7 +260,7 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:46:57](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-50): “And so, yeah. This is not the reason she's being fired. We then learn actually that the reason that Trump fired her is because he's upset with her because he believes that she is the one that tipped off Eric Swalwell regarding an investigation into his relationship.”
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:46:57](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-37): “And so, yeah. This is not the reason she's being fired. We then learn actually that the reason that Trump (Donald J. Trump) fired her is because he's upset with her because he believes that she is the one that tipped off Eric Swalwell regarding an investigation into his relationship.”
 
 </details>
 
@@ -272,7 +272,7 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:45:03](/episodes/ep-q1NRQQAYS_Q.md#t-00-44-43): “Trump made the announcement on social media saying Pam Bondi is a great American patriot, a loyal friend who faithfully served as my attorney general over the past year.”
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:45:03](/episodes/ep-q1NRQQAYS_Q.md#t-00-44-43): “Trump (Donald J. Trump) made the announcement on social media saying Pam Bondi is a great American patriot, a loyal friend who faithfully served as my attorney general over the past year.”
 
 </details>
 
@@ -304,14 +304,14 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 - **[Donald J. Trump](/entities/person-donald-trump.md)** fired this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:46:57](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-50): “And so, yeah. This is not the reason she's being fired. We then learn actually that the reason that Trump fired her is because he's upset with her because he believes that she is the one that tipped off Eric Swalwell regarding an investigation into his relationship.”
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:46:57](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-37): “And so, yeah. This is not the reason she's being fired. We then learn actually that the reason that Trump (Donald J. Trump) fired her is because he's upset with her because he believes that she is the one that tipped off Eric Swalwell regarding an investigation into his relationship.”
 
 </details>
 
 - **[Donald J. Trump](/entities/person-donald-trump.md)** formerly employed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:45:03](/episodes/ep-q1NRQQAYS_Q.md#t-00-44-43): “Trump made the announcement on social media saying Pam Bondi is a great American patriot, a loyal friend who faithfully served as my attorney general over the past year.”
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:45:03](/episodes/ep-q1NRQQAYS_Q.md#t-00-44-43): “Trump (Donald J. Trump) made the announcement on social media saying Pam Bondi is a great American patriot, a loyal friend who faithfully served as my attorney general over the past year.”
 
 </details>
 
@@ -407,13 +407,13 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 - [00:45:03](/episodes/ep-q1NRQQAYS_Q.md#t-00-44-43) (Claim) **Donald J. Trump** (via quoted post): ["Pam Bondi would leave the attorney-general role for a private-sector j..."](/statements/statement-0223ff995031.md)
   - Also about: [Todd Blanche](/entities/person-todd-blanche.md), [Donald J. Trump](/entities/person-donald-trump.md)
 
-- [00:45:46](/episodes/ep-q1NRQQAYS_Q.md#t-00-45-32) (Accusation) **Candace Owens**: ["Pam Bondi acted on Donald Trump's instructions regarding the Epstein f..."](/statements/statement-2d7928bb1128.md)
+- [00:45:46](/episodes/ep-q1NRQQAYS_Q.md#t-00-45-19) (Accusation) **Candace Owens**: ["Pam Bondi acted on Donald Trump's instructions regarding the Epstein f..."](/statements/statement-2d7928bb1128.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
 
-- [00:46:06](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-06) (Accusation) **Candace Owens**: ["Officials released a deepfake video of Jeffrey Epstein in his cell, th..."](/statements/statement-318a4f1575a4.md)
+- [00:46:06](/episodes/ep-q1NRQQAYS_Q.md#t-00-45-55) (Accusation) **Candace Owens**: ["Officials released a deepfake video of Jeffrey Epstein in his cell, th..."](/statements/statement-318a4f1575a4.md)
   - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [FBI](/entities/org-fbi.md), [Kash Patel](/entities/person-kash-patel.md)
 
-- [00:46:57](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-50) (Accusation) **Candace Owens**: ["Donald Trump fired Pam Bondi because he believed she tipped off Eric S..."](/statements/statement-3d9873b599c9.md)
+- [00:46:57](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-37) (Accusation) **Candace Owens**: ["Donald Trump fired Pam Bondi because he believed she tipped off Eric S..."](/statements/statement-3d9873b599c9.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Eric Swalwell](/entities/person-eric-swalwell.md), [Christine Fang](/entities/person-christine-fang.md)
 
 </details>

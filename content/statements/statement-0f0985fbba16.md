@@ -28,7 +28,7 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
-**Timestamp:** [01:03:51](/episodes/ep-OEAHy3SsIiI.md#t-01-03-08) 
+**Timestamp:** [01:03:51](/episodes/ep-OEAHy3SsIiI.md#t-01-03-38) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3831);return false;">Play</a>
 
 > Israel wanted Assad gone because they want to expand their borders for the greater Israel project.

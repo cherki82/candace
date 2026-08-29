@@ -22,7 +22,7 @@ _Type: Concepts_
 Source: [CISA — Electromagnetic Pulse and Geomagnetic Disturbance](https://www.cisa.gov/topics/risk-management/electromagnetic-pulse-and-geomagnetic-disturbance)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-electromagnetic-pulse-t-00-33-05">2026-01-06 · 00:32:38</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-electromagnetic-pulse-t-00-33-01">2026-01-06 · 00:32:38</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-concept-electromagnetic-pulse-t-00-18-56">2026-04-21 · 00:19:10</a></strong></div>
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>15</strong></div>
@@ -36,7 +36,7 @@ Source: [CISA — Electromagnetic Pulse and Geomagnetic Disturbance](https://www
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-_vg7ucP1E0g.md#ent-concept-electromagnetic-pulse-t-00-08-01">Bride Of Charlie: Red Sparrow | Episode 8</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-electromagnetic-pulse-t-00-33-05" style="--pulse-height:50%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 3 mentions" title="2026-01-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-electromagnetic-pulse-t-00-33-01" style="--pulse-height:50%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 3 mentions" title="2026-01-06 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-concept-electromagnetic-pulse-t-00-40-56" style="--pulse-height:17%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-concept-electromagnetic-pulse-t-00-08-01" style="--pulse-height:100%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 6 mentions" title="2026-03-18 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-concept-electromagnetic-pulse-t-00-42-16" style="--pulse-height:33%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 2 mentions" title="2026-03-23 · 2 mentions"><span></span></a>
@@ -46,7 +46,7 @@ Source: [CISA — Electromagnetic Pulse and Geomagnetic Disturbance](https://www
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-concept-electromagnetic-pulse-t-00-33-05) | 3 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-concept-electromagnetic-pulse-t-00-33-01) | 3 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-concept-electromagnetic-pulse-t-00-40-56) | 1 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-concept-electromagnetic-pulse-t-00-08-01) | 6 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-concept-electromagnetic-pulse-t-00-42-16) | 2 |
@@ -116,13 +116,13 @@ Source: [CISA — Electromagnetic Pulse and Geomagnetic Disturbance](https://www
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (3 mentions)</summary>
 
-**[00:32:38](/episodes/ep-HYn0P-P1wUw.md#ent-concept-electromagnetic-pulse-t-00-33-05)**
+**[00:32:38](/episodes/ep-HYn0P-P1wUw.md#ent-concept-electromagnetic-pulse-t-00-33-01)**
 > "...ouse floor with concerns over EMPs, okay?"
 
-**[00:33:18](/episodes/ep-HYn0P-P1wUw.md#ent-concept-electromagnetic-pulse-t-00-33-05)**
+**[00:33:18](/episodes/ep-HYn0P-P1wUw.md#ent-concept-electromagnetic-pulse-t-00-33-01)**
 > "...rned about a potential for an EMP event a short time ago,"
 
-**[01:04:19](/episodes/ep-HYn0P-P1wUw.md#ent-concept-electromagnetic-pulse-t-01-03-41)**
+**[01:04:19](/episodes/ep-HYn0P-P1wUw.md#ent-concept-electromagnetic-pulse-t-01-04-06)**
 > "...ng contracts with the DOD for EMP hardening and the testing that is done at Fort Hu..."
 
 </details>

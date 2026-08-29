@@ -30,7 +30,7 @@ veracity: "false"
 **Timestamp:** [00:50:38](/episodes/ep-q1NRQQAYS_Q.md#t-00-50-38) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3038);return false;">Play</a>
 
-> i there's actually more evidence i'm not even kidding or you could say the same amount of evidence an absence of evidence that charlie there's no evidence charlie was even shot there's no evidence charlie was even shot
+> there's no evidence charlie (Charlie Kirk) was even shot there's no evidence charlie (Charlie Kirk) was even shot
 
 ## Verification
 

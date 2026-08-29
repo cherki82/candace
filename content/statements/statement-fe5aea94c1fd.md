@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:57:45](/episodes/ep-ewBzjVe3LNQ.md#t-00-57-34) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3465);return false;">Play</a>
 
-> There's a picture of Erica Kirk with a ponytail from her past. That person matches who I saw at Fort Huachuca in the lobby the night before, and she was with that man in the lobby. And that man, he was present at that meeting.
+> There's a picture of Erika Kirk with a ponytail from her past. That person matches who I saw at Fort Huachuca in the lobby the night before, and she was with that man in the lobby. And that man, he was present at that meeting.
 
 ## Verification
 

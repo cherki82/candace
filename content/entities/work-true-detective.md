@@ -12,6 +12,8 @@ _Type: Works & Media_
 
 **Categories:** television series, crime drama
 
+> **Possibly overlapping entity records:** [True Detective (commenter; identity unverified)](/entities/anon-src-iB-YtO3UZOg-true-detective). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > HBO's official series catalog identifies True Detective as an HBO crime drama series.
 Source: [All Series | HBO | Stream on Max](https://www.hbo.com/series/a-z)

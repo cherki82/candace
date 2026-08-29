@@ -1,6 +1,6 @@
 ---
 title: "Internal Revenue Service"
-description: "Internal Revenue Service (Organizations) - 149 mentions"
+description: "Internal Revenue Service (Organizations) - 171 mentions"
 id: "org-internal-revenue-service"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-internal-revenue-service-t-01-06-07">2025-09-16 · 01:06:16</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-internal-revenue-service-t-00-55-33">2026-07-21 · 00:55:48</a></strong></div>
-<div><span>Episodes</span><strong>43</strong></div>
-<div><span>Mentions</span><strong>149</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-internal-revenue-service-t-01-15-28">2026-08-17 · 01:15:51</a></strong></div>
+<div><span>Episodes</span><strong>49</strong></div>
+<div><span>Mentions</span><strong>171</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -49,7 +49,7 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-org-internal-revenue-service-t-00-49-03" style="--pulse-height:83%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 5 mentions" title="2025-12-17 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-internal-revenue-service-t-00-22-55" style="--pulse-height:100%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 6 mentions" title="2025-12-18 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-internal-revenue-service-t-00-28-53" style="--pulse-height:83%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 5 mentions" title="2025-12-20 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-internal-revenue-service-t-00-56-34" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 6 mentions" title="2026-01-06 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-internal-revenue-service-t-00-56-30" style="--pulse-height:83%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 5 mentions" title="2026-01-06 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-internal-revenue-service-t-01-13-46" style="--pulse-height:83%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 5 mentions" title="2026-01-09 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-org-internal-revenue-service-t-00-49-07" style="--pulse-height:83%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 5 mentions" title="2026-01-16 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-internal-revenue-service-t-00-48-04" style="--pulse-height:83%" aria-label="Myron Gaines x Candace Owens: 5 mentions" title="2026-01-16 · 5 mentions"><span></span></a>
@@ -78,6 +78,12 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-internal-revenue-service-t-00-49-08" style="--pulse-height:67%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 4 mentions" title="2026-06-26 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-internal-revenue-service-t-00-44-49" style="--pulse-height:67%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 4 mentions" title="2026-07-14 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-internal-revenue-service-t-00-54-55" style="--pulse-height:67%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 4 mentions" title="2026-07-21 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-org-internal-revenue-service-t-00-37-40" style="--pulse-height:67%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 4 mentions" title="2026-07-27 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-internal-revenue-service-t-00-29-25" style="--pulse-height:50%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 3 mentions" title="2026-07-31 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-internal-revenue-service-t-00-44-53" style="--pulse-height:67%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 4 mentions" title="2026-08-04 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#ent-org-internal-revenue-service-t-00-25-23" style="--pulse-height:67%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 4 mentions" title="2026-08-10 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-internal-revenue-service-t-02-31-28" style="--pulse-height:67%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-internal-revenue-service-t-01-14-47" style="--pulse-height:67%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 4 mentions" title="2026-08-17 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -97,7 +103,7 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-internal-revenue-service-t-00-49-03) | 5 |
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-internal-revenue-service-t-00-22-55) | 6 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-internal-revenue-service-t-00-28-53) | 5 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-internal-revenue-service-t-00-56-34) | 6 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-internal-revenue-service-t-00-56-30) | 5 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-internal-revenue-service-t-01-13-46) | 5 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-internal-revenue-service-t-00-49-07) | 5 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-internal-revenue-service-t-00-48-04) | 5 |
@@ -126,6 +132,12 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-internal-revenue-service-t-00-49-08) | 4 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-org-internal-revenue-service-t-00-44-49) | 4 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-internal-revenue-service-t-00-54-55) | 4 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-org-internal-revenue-service-t-00-37-40) | 4 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-org-internal-revenue-service-t-00-29-25) | 3 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-org-internal-revenue-service-t-00-44-53) | 4 |
+| 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-org-internal-revenue-service-t-00-25-23) | 4 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-internal-revenue-service-t-02-31-28) | 4 |
+| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-org-internal-revenue-service-t-01-14-47) | 4 |
 
 </details>
 </section>
@@ -133,7 +145,106 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (149)</strong></summary>
+<summary><strong class="section-title">Raw mentions (171)</strong></summary>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (4 mentions)</summary>
+
+**[01:15:23](/episodes/ep-E7P2ShoYDUA.md#ent-org-internal-revenue-service-t-01-14-47)**
+> "Whatever caused the problem, one thing is certain, the IRS penalties and the interest keep adding up every single month."
+
+**[01:15:28](/episodes/ep-E7P2ShoYDUA.md#ent-org-internal-revenue-service-t-01-15-28)**
+> "...e next tax season. Before the IRS starts sending more letters garnishing wages or f..."
+
+**[01:15:36](/episodes/ep-E7P2ShoYDUA.md#ent-org-internal-revenue-service-t-01-15-28)**
+> "... unfiled returns, and serious IRS problems."
+
+**[01:15:51](/episodes/ep-E7P2ShoYDUA.md#ent-org-internal-revenue-service-t-01-15-28)**
+> "... now, they're offering a free IRS investigative call to find out exactly what you o..."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (4 mentions)</summary>
+
+**[02:31:38](/episodes/ep-aPOyk1i2LOc.md#ent-org-internal-revenue-service-t-02-31-28)**
+> "...em, one thing is certain, the IRS penalties and interest keep... Keep adding up eve..."
+
+**[02:31:44](/episodes/ep-aPOyk1i2LOc.md#ent-org-internal-revenue-service-t-02-31-28)**
+> "...e next tax season. Before the IRS starts sending more letters, garnishing wages, or..."
+
+**[02:31:53](/episodes/ep-aPOyk1i2LOc.md#ent-org-internal-revenue-service-t-02-31-28)**
+> "... unfiled returns, and serious IRS problems."
+
+**[02:32:06](/episodes/ep-aPOyk1i2LOc.md#ent-org-internal-revenue-service-t-02-31-28)**
+> "...t now they're offering a free IRS investigative call to find out exactly what you o..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (4 mentions)</summary>
+
+**[00:25:38](/episodes/ep-5zgkrOaCCj4.md#ent-org-internal-revenue-service-t-00-25-23)**
+> "...em, one thing is certain, the IRS penalties and interest keep adding up every singl..."
+
+**[00:25:43](/episodes/ep-5zgkrOaCCj4.md#ent-org-internal-revenue-service-t-00-25-23)**
+> "...e next tax season. Before the IRS starts sending more letters, garnishing wages, or..."
+
+**[00:25:51](/episodes/ep-5zgkrOaCCj4.md#ent-org-internal-revenue-service-t-00-25-23)**
+> "... unfiled returns, and serious IRS problems."
+
+**[00:26:05](/episodes/ep-5zgkrOaCCj4.md#ent-org-internal-revenue-service-t-00-26-05)**
+> "...t now they're offering a free IRS investigative call to find out exactly what you o..."
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (4 mentions)</summary>
+
+**[00:45:26](/episodes/ep-1CFDtD0IgEg.md#ent-org-internal-revenue-service-t-00-44-53)**
+> "...em, one thing is certain, the IRS penalties and interest keep adding up every singl..."
+
+**[00:45:31](/episodes/ep-1CFDtD0IgEg.md#ent-org-internal-revenue-service-t-00-45-31)**
+> "...e next tax season. Before the IRS starts sending more letters, garnishing wages or ..."
+
+**[00:45:38](/episodes/ep-1CFDtD0IgEg.md#ent-org-internal-revenue-service-t-00-45-31)**
+> "... unfiled returns, and serious IRS problems."
+
+**[00:45:47](/episodes/ep-1CFDtD0IgEg.md#ent-org-internal-revenue-service-t-00-45-31)**
+> "...t now they're offering a free IRS investigative call to find out exactly what you o..."
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (3 mentions)</summary>
+
+**[00:29:25](/episodes/ep-iB-YtO3UZOg.md#ent-org-internal-revenue-service-t-00-29-25)**
+> "Whatever caused the problem, one thing is certain, the IRS penalties and interest keep adding up every single month."
+
+**[00:29:30](/episodes/ep-iB-YtO3UZOg.md#ent-org-internal-revenue-service-t-00-29-25)**
+> "...e next tax season. Before the IRS starts sending more letters, garnishing wages, or..."
+
+**[00:29:53](/episodes/ep-iB-YtO3UZOg.md#ent-org-internal-revenue-service-t-00-29-25)**
+> "...t now they're offering a free IRS investigative call to find out exactly what you o..."
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (4 mentions)</summary>
+
+**[00:37:53](/episodes/ep-HZvwbfePe7o.md#ent-org-internal-revenue-service-t-00-37-40)**
+> "Whatever caused the problem, one thing is certain. The IRS penalties and interest keep adding up every single month."
+
+**[00:38:02](/episodes/ep-HZvwbfePe7o.md#ent-org-internal-revenue-service-t-00-37-40)**
+> "Before the IRS starts sending more letters garnishing wages or f..."
+
+**[00:38:08](/episodes/ep-HZvwbfePe7o.md#ent-org-internal-revenue-service-t-00-37-40)**
+> "... unfiled returns, and serious IRS problems."
+
+**[00:38:21](/episodes/ep-HZvwbfePe7o.md#ent-org-internal-revenue-service-t-00-38-21)**
+> "... now, they're offering a free IRS investigative call to find out exactly what you o..."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (4 mentions)</summary>
@@ -585,24 +696,21 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 </details>
 
 <details>
-<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (6 mentions)</summary>
+<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (5 mentions)</summary>
 
-**[00:56:48](/episodes/ep-HYn0P-P1wUw.md#ent-org-internal-revenue-service-t-00-56-34)**
+**[00:56:48](/episodes/ep-HYn0P-P1wUw.md#ent-org-internal-revenue-service-t-00-56-30)**
 > "the IRS is fighting back and proving that it is here to s..."
 
-**[00:56:59](/episodes/ep-HYn0P-P1wUw.md#ent-org-internal-revenue-service-t-00-56-34)**
-> "The IRS can take your wages,"
-
-**[00:57:00](/episodes/ep-HYn0P-P1wUw.md#ent-org-internal-revenue-service-t-00-56-34)**
+**[00:57:00](/episodes/ep-HYn0P-P1wUw.md#ent-org-internal-revenue-service-t-00-56-30)**
 > "First, the IRS can take your wages,"
 
-**[00:57:08](/episodes/ep-HYn0P-P1wUw.md#ent-org-internal-revenue-service-t-00-56-34)**
+**[00:57:08](/episodes/ep-HYn0P-P1wUw.md#ent-org-internal-revenue-service-t-00-56-30)**
 > "...t is not a question of if the IRS is going to act or rather when."
 
-**[00:57:12](/episodes/ep-HYn0P-P1wUw.md#ent-org-internal-revenue-service-t-00-57-12)**
+**[00:57:12](/episodes/ep-HYn0P-P1wUw.md#ent-org-internal-revenue-service-t-00-57-11)**
 > "...is offering a completely free IRS research and discovery call to show you exactly w..."
 
-**[00:57:26](/episodes/ep-HYn0P-P1wUw.md#ent-org-internal-revenue-service-t-00-57-12)**
+**[00:57:26](/episodes/ep-HYn0P-P1wUw.md#ent-org-internal-revenue-service-t-00-57-11)**
 > "...nting yourself or calling the IRS on your own. Waiving your rights can cost you eve..."
 
 </details>

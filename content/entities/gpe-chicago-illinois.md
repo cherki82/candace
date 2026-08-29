@@ -1,6 +1,6 @@
 ---
 title: "Chicago, Illinois"
-description: "Chicago, Illinois (Places) - 29 mentions"
+description: "Chicago, Illinois (Places) - 28 mentions"
 id: "gpe-chicago-illinois"
 type: "GPE"
 aliases:
@@ -23,12 +23,12 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-chicago-illinois-t-00-28-51">2026-01-06 · 00:28:55</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-chicago-illinois-t-00-49-39">2026-07-14 · 00:49:57</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#ent-gpe-chicago-illinois-t-00-20-42">2026-08-10 · 00:20:42</a></strong></div>
 <div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>29</strong></div>
+<div><span>Mentions</span><strong>28</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -36,8 +36,7 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-chicago-illinois-t-00-20-38">Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-chicago-illinois-t-00-28-51" style="--pulse-height:38%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 3 mentions" title="2026-01-06 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-chicago-illinois-t-00-42-29" style="--pulse-height:12%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-chicago-illinois-t-00-28-51" style="--pulse-height:25%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-chicago-illinois-t-00-08-25" style="--pulse-height:12%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-chicago-illinois-t-00-27-58" style="--pulse-height:38%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 3 mentions" title="2026-01-27 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-chicago-illinois-t-00-01-26" style="--pulse-height:12%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
@@ -48,13 +47,13 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-chicago-illinois-t-00-25-53" style="--pulse-height:12%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-chicago-illinois-t-00-23-40" style="--pulse-height:25%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 2 mentions" title="2026-03-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-chicago-illinois-t-00-20-38" style="--pulse-height:100%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 8 mentions" title="2026-07-14 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#ent-gpe-chicago-illinois-t-00-20-42" style="--pulse-height:12%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-chicago-illinois-t-00-28-51) | 3 |
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-chicago-illinois-t-00-42-29) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-chicago-illinois-t-00-28-51) | 2 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-chicago-illinois-t-00-08-25) | 1 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-gpe-chicago-illinois-t-00-27-58) | 3 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-chicago-illinois-t-00-01-26) | 1 |
@@ -65,6 +64,7 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-chicago-illinois-t-00-25-53) | 1 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-chicago-illinois-t-00-23-40) | 2 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-chicago-illinois-t-00-20-38) | 8 |
+| 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-gpe-chicago-illinois-t-00-20-42) | 1 |
 
 </details>
 </section>
@@ -72,7 +72,15 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>
+
+**[00:20:42](/episodes/ep-5zgkrOaCCj4.md#ent-gpe-chicago-illinois-t-00-20-42)**
+> "...rom New Orleans, Louisiana to Chicago in that time frame."
+
+</details>
 
 <details>
 <summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (8 mentions)</summary>
@@ -200,23 +208,12 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 </details>
 
 <details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1 mentions)</summary>
-
-**[00:42:51](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-chicago-illinois-t-00-42-29)**
-> "...as an older guy that was from Chicago."
-
-</details>
-
-<details>
-<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (3 mentions)</summary>
+<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (2 mentions)</summary>
 
 **[00:28:55](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-chicago-illinois-t-00-28-51)**
 > "He was an adamant Chicago boy."
 
-**[00:31:04](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-chicago-illinois-t-00-30-58)**
-> "Charlie (Charlie Kirk)'s from Chicago,"
-
-**[00:31:07](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-chicago-illinois-t-00-30-58)**
+**[00:31:07](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-chicago-illinois-t-00-30-56)**
 > "... started Turning Point USA in Chicago."
 
 </details>
@@ -226,7 +223,29 @@ Source: [City of Chicago official website](https://www.chicago.gov/city/en.html)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Former Base Of (1)</summary>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:31:04](/episodes/ep-HYn0P-P1wUw.md#t-00-30-56): “Charlie (Charlie Kirk)'s from Chicago, right? He that's where they first started Turning Point USA in Chicago.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Turning Point USA](/entities/org-turning-point-usa.md)** formerly based in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:31:04](/episodes/ep-HYn0P-P1wUw.md#t-00-30-56): “Charlie (Charlie Kirk)'s from Chicago, right? He that's where they first started Turning Point USA in Chicago.”
+
+</details>
+
+</details>
 
 </details>
 

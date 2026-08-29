@@ -1,6 +1,6 @@
 ---
 title: "CNN"
-description: "CNN (Organizations) - 48 mentions"
+description: "CNN (Organizations) - 54 mentions"
 id: "org-cnn"
 type: "ORG"
 aliases:
@@ -23,11 +23,11 @@ Source: [About CNN](https://www.cnn.com/about)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-org-cnn-t-00-20-16">2025-10-27 · 00:20:54</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-cnn-t-02-38-31">2026-08-14 · 02:38:34</a></strong></div>
-<div><span>Episodes</span><strong>23</strong></div>
-<div><span>Mentions</span><strong>48</strong></div>
+<div><span>Episodes</span><strong>26</strong></div>
+<div><span>Mentions</span><strong>54</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -57,7 +57,10 @@ Source: [About CNN](https://www.cnn.com/about)
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-cnn-t-00-09-29" style="--pulse-height:14%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-org-cnn-t-00-26-09" style="--pulse-height:14%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-cnn-t-00-53-59" style="--pulse-height:14%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-org-cnn-t-00-34-40" style="--pulse-height:14%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-cnn-t-00-16-57" style="--pulse-height:29%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 2 mentions" title="2026-08-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-cnn-t-01-37-04" style="--pulse-height:57%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-cnn-t-01-06-21" style="--pulse-height:43%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 3 mentions" title="2026-08-14 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -85,7 +88,10 @@ Source: [About CNN](https://www.cnn.com/about)
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-org-cnn-t-00-09-29) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-cnn-t-00-26-09) | 1 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-org-cnn-t-00-53-59) | 1 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-org-cnn-t-00-34-40) | 1 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-org-cnn-t-00-16-57) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-cnn-t-01-37-04) | 4 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-cnn-t-01-06-21) | 3 |
 
 </details>
 </section>
@@ -93,7 +99,7 @@ Source: [About CNN](https://www.cnn.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (48)</strong></summary>
+<summary><strong class="section-title">Raw mentions (54)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -109,6 +115,39 @@ Source: [About CNN](https://www.cnn.com/about)
 
 **[02:38:31](/episodes/ep-nPhCKwJ6ye8.md#ent-org-cnn-t-02-38-31)**
 > "...ing news. is funny So well is CNN allowed to have sources, hang on but i have we ca..."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (3 mentions)</summary>
+
+**[01:06:21](/episodes/ep-aPOyk1i2LOc.md#ent-org-cnn-t-01-06-21)**
+> "..., do you mean you saw this on CNN or you saw this play out in the hearing?"
+
+**[01:16:38](/episodes/ep-aPOyk1i2LOc.md#ent-org-cnn-t-01-16-32)**
+> "... They would be shouting it on CNN. They would be shouting it from the rooftops. The..."
+
+**[01:57:29](/episodes/ep-aPOyk1i2LOc.md#ent-org-cnn-t-01-57-29)**
+> "...hing news is funny so well is CNN allowed to have sources hang on but i have we can..."
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (2 mentions)</summary>
+
+**[00:16:57](/episodes/ep-1CFDtD0IgEg.md#ent-org-cnn-t-00-16-57)**
+> "... from September 11th. Here is CNN."
+
+**[00:17:04](/episodes/ep-1CFDtD0IgEg.md#ent-org-cnn-t-00-16-57)**
+> "... have, you don't have to like CNN to recognize that they are a state apparatus, par..."
+
+</details>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
+
+**[00:35:09](/episodes/ep-AH1KVKkweUE.md#ent-org-cnn-t-00-34-40)**
+> "But CNN came out today with just an incredible headline t..."
 
 </details>
 
@@ -360,6 +399,18 @@ Source: [About CNN](https://www.cnn.com/about)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Criticized By (1)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:11:33](/episodes/ep-ZIH5-V6UPkg.md#t-00-11-33): “Now, the fake news CNN, the failing New York Times and all of the other radical left news organizations are hailing them and giving them positive press for the first time in their lives.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Employs (1)</summary>
 
 - **[Sara Sidner](/entities/person-sara-sidner.md)**
@@ -385,7 +436,14 @@ Source: [About CNN](https://www.cnn.com/about)
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:11:33](/episodes/ep-ZIH5-V6UPkg.md#t-00-11-33): “Now, the fake news CNN, the failing New York Times and all of the other radical left news organizations are hailing them and giving them positive press for the first time in their lives.”
+
+</details>
 
 - **[Tucker Carlson](/entities/person-tucker-carlson.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -407,7 +465,23 @@ Source: [About CNN](https://www.cnn.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about CNN (8)</strong></summary>
+<summary><strong class="section-title">Statements about CNN (10)</strong></summary>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1)</summary>
+
+- [00:17:14](/episodes/ep-1CFDtD0IgEg.md#t-00-16-57) (Citation) **Candace Owens**: ["Candace Owens cited a CNN report saying authorities recovered a screwd..."](/statements/statement-a774c5a66764.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1)</summary>
+
+- [00:35:09](/episodes/ep-AH1KVKkweUE.md#t-00-34-40) (Citation) **Candace Owens**: ["Owens said CNN reported that a U.S. Central Command intelligence offic..."](/statements/statement-b9732abe5e61.md)
+  - Also about: [United States Central Command](/entities/org-united-states-central-command.md), [Iran](/entities/gpe-iran.md)
+
+</details>
 
 <details>
 <summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1)</summary>

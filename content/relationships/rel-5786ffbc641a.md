@@ -11,7 +11,11 @@ object: "person-kathryn-nester"
 
 ## [Tyler Robinson](/entities/person-tyler-robinson) represented by [Kathryn Nester](/entities/person-kathryn-nester)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc)**
+
+- [01:09:38](/episodes/ep-aPOyk1i2LOc#t-01-09-38): _yeah, Kathy first in court saying she didn't get her client's phone. Yeah. And then I think we'll go to the, if_
 
 **[EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns)**
 

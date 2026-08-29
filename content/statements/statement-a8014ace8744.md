@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:20:19](/episodes/ep-9k2xrAC0H88.md#t-00-20-09) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1219);return false;">Play</a>
 
-> The officer pulls over the Toyota RAV4. And when the officer gets to the window, the driver of the RAV4 flashes an FBI badge
+> The officer pulls over the Toyota RAV4 And when the officer gets to the window, the driver of the RAV4 flashes an FBI badge.
 
 ## Verification
 

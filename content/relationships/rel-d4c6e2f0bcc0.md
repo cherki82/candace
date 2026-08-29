@@ -11,7 +11,7 @@ object: "person-charlie-kirk"
 
 ## [Candace Owens](/entities/person-candace-owens) appeared with [Charlie Kirk](/entities/person-charlie-kirk)
 
-### Evidence (7 mentions)
+### Evidence (8 mentions)
 
 **[EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A)**
 
@@ -24,6 +24,10 @@ object: "person-charlie-kirk"
 **[Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo)**
 
 - [00:17:55](/episodes/ep-SubDoZWHARo#t-00-17-55): _I was doing an event in Nashville with Charlie (Charlie Kirk)._
+
+**[Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik)**
+
+- [00:35:58](/episodes/ep-_cNtgris8Ik#t-00-35-58): _said okay what like I watched that clip and that's not what was happening then they obviously move on and by the way he says oh well then later on she gets obsessed with Jews first off he's talking about a gap of 2018 when I was speaking about nationalism on stage with Charlie by the way they're leaving that part out as well I was with Charlie and journalists were in the room and nobody had a problem with it at all and then BuzzFeed pulls the clip months later And then he fast forward and says, oh,_
 
 **[Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw)**
 

@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:08:08](/episodes/ep-ewBzjVe3LNQ.md#t-00-07-39) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(488);return false;">Play</a>
 
-> the footage of Tyler Robinson turning himself in is apparently missing.
+> the footage of Tyler Robinson (accused shooter) turning himself in is apparently missing.
 
 ## Verification
 

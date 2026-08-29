@@ -25,10 +25,10 @@ type: "opinion"
 ## Source
 
 **Episode:** [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md)
-**Timestamp:** [00:20:42](/episodes/ep-es7PWdFGoFI.md#t-00-20-30) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1242);return false;">Play</a>
+**Timestamp:** [00:20:30](/episodes/ep-es7PWdFGoFI.md#t-00-20-30) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1230);return false;">Play</a>
 
-> I don't believe that Tyler Robinson pulled the trigger
+> Until then. ... I am very confident stating the opposite of all of my, I guess, well-paid peers in that I don't believe that Tyler (Tyler (Tyler Robinson)) Robinson pulled the trigger.
 
 ## Verification
 

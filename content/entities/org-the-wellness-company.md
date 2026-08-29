@@ -1,6 +1,6 @@
 ---
 title: "The Wellness Company"
-description: "The Wellness Company (Organizations) - 76 mentions"
+description: "The Wellness Company (Organizations) - 85 mentions"
 id: "org-the-wellness-company"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-the-wellness-company-t-00-59-29">2025-09-17 · 00:59:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-the-wellness-company-t-01-18-41">2026-08-14 · 01:18:56</a></strong></div>
-<div><span>Episodes</span><strong>31</strong></div>
-<div><span>Mentions</span><strong>76</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-org-the-wellness-company-t-00-29-09">2026-08-18 · 00:29:20</a></strong></div>
+<div><span>Episodes</span><strong>35</strong></div>
+<div><span>Mentions</span><strong>85</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -34,7 +34,7 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-the-wellness-company-t-00-30-47">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-the-wellness-company-t-00-29-20">You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-the-wellness-company-t-00-59-29" style="--pulse-height:75%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 3 mentions" title="2025-09-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-the-wellness-company-t-00-28-31" style="--pulse-height:75%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 3 mentions" title="2025-09-24 · 3 mentions"><span></span></a>
@@ -47,6 +47,7 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 <a href="/episodes/ep-his-JBjlkh8.md#ent-org-the-wellness-company-t-00-35-51" style="--pulse-height:50%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 2 mentions" title="2025-12-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-the-wellness-company-t-00-21-26" style="--pulse-height:50%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 2 mentions" title="2025-12-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-the-wellness-company-t-00-28-09" style="--pulse-height:50%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-the-wellness-company-t-00-29-20" style="--pulse-height:100%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 4 mentions" title="2026-01-05 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-the-wellness-company-t-00-30-47" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 4 mentions" title="2026-01-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-the-wellness-company-t-00-19-55" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 4 mentions" title="2026-01-22 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-the-wellness-company-t-00-19-00" style="--pulse-height:50%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
@@ -64,9 +65,12 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-the-wellness-company-t-00-31-31" style="--pulse-height:50%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 2 mentions" title="2026-06-24 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-org-the-wellness-company-t-00-26-36" style="--pulse-height:50%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-the-wellness-company-t-00-29-02" style="--pulse-height:50%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-N4uM8Jdr410.md#ent-org-the-wellness-company-t-00-28-43" style="--pulse-height:75%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 3 mentions" title="2026-07-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-org-the-wellness-company-t-00-28-43" style="--pulse-height:50%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-org-the-wellness-company-t-00-31-29" style="--pulse-height:50%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-org-the-wellness-company-t-00-26-55" style="--pulse-height:50%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 2 mentions" title="2026-08-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-the-wellness-company-t-01-18-41" style="--pulse-height:25%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-the-wellness-company-t-00-53-21" style="--pulse-height:50%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-org-the-wellness-company-t-00-28-26" style="--pulse-height:50%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 2 mentions" title="2026-08-18 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -83,6 +87,7 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-the-wellness-company-t-00-35-51) | 2 |
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-the-wellness-company-t-00-21-26) | 2 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-wellness-company-t-00-28-09) | 2 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-the-wellness-company-t-00-29-20) | 4 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-the-wellness-company-t-00-30-47) | 4 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-the-wellness-company-t-00-19-55) | 4 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-org-the-wellness-company-t-00-19-00) | 2 |
@@ -100,9 +105,12 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-org-the-wellness-company-t-00-31-31) | 2 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-org-the-wellness-company-t-00-26-36) | 2 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-the-wellness-company-t-00-29-02) | 2 |
-| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-the-wellness-company-t-00-28-43) | 3 |
+| 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-the-wellness-company-t-00-28-43) | 2 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-the-wellness-company-t-00-31-29) | 2 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-org-the-wellness-company-t-00-26-55) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-the-wellness-company-t-01-18-41) | 1 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-the-wellness-company-t-00-53-21) | 2 |
+| 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-org-the-wellness-company-t-00-28-26) | 2 |
 
 </details>
 </section>
@@ -110,13 +118,46 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (76)</strong></summary>
+<summary><strong class="section-title">Raw mentions (85)</strong></summary>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (2 mentions)</summary>
+
+**[00:28:44](/episodes/ep-4JxgOclKzqg.md#ent-org-the-wellness-company-t-00-28-26)**
+> "...want to remind you guys about the wellness company because Americans love sushi. Over the last two d..."
+
+**[00:29:20](/episodes/ep-4JxgOclKzqg.md#ent-org-the-wellness-company-t-00-29-09)**
+> "Wellness Company offers a hard-to-access RX parasite cleanse, USA-..."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[01:18:56](/episodes/ep-nPhCKwJ6ye8.md#ent-org-the-wellness-company-t-01-18-41)**
 > "...ecommends Bactrim. That's why the wellness company created the medical emergency kit with generic Ba..."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (2 mentions)</summary>
+
+**[00:53:45](/episodes/ep-aPOyk1i2LOc.md#ent-org-the-wellness-company-t-00-53-21)**
+> "...t want to tell you guys about the wellness company because by now you've probably heard that there i..."
+
+**[00:54:18](/episodes/ep-aPOyk1i2LOc.md#ent-org-the-wellness-company-t-00-54-04)**
+> "...ecommends Bactrim. That's why the Wellness Company created the medical emergency kit with generic Ba..."
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (2 mentions)</summary>
+
+**[00:27:23](/episodes/ep-ChuWo-n49B8.md#ent-org-the-wellness-company-t-00-26-55)**
+> "preborn.com slash Candace. I also want to remind you guys about the Wellness Company because you've probably heard there was an outbreak in the U.S. right now. The CDC has confirmed the culprit is a new parasite found in grocery store fruits and vegetables, which has exposed hundreds of millions of Americans across 30 states."
+
+**[00:27:50](/episodes/ep-ChuWo-n49B8.md#ent-org-the-wellness-company-t-00-27-40)**
+> "...ecommends Bactrim. That's why the wellness company created the medical emergency kit because it come..."
 
 </details>
 
@@ -132,15 +173,12 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 </details>
 
 <details>
-<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (3 mentions)</summary>
+<summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2 mentions)</summary>
 
 **[00:28:54](/episodes/ep-N4uM8Jdr410.md#ent-org-the-wellness-company-t-00-28-43)**
 > "If you get sick, the CDC recommends Bactrim. That's why the Wellness Company created the medical emergency kit, because it comes with generic Bactrim plus seven additional prescription medications to help treat more than 25 common illnesses and medical emergencies, all prescribed before you need them."
 
 **[00:28:21](/episodes/ep-N4uM8Jdr410.md#ent-org-the-wellness-company-t-00-28-09)**
-> "...want to remind you guys about the wellness company because you have probably heard that there is an ..."
-
-**[00:28:30](/episodes/ep-N4uM8Jdr410.md#ent-org-the-wellness-company-t-00-28-09)**
 > "...want to remind you guys about the wellness company because you have probably heard that there is an ..."
 
 </details>
@@ -351,6 +389,23 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 </details>
 
 <details>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (4 mentions)</summary>
+
+**[00:29:20](/episodes/ep-OEAHy3SsIiI.md#ent-org-the-wellness-company-t-00-29-20)**
+> "...want to remind you guys about The Wellness Company, because the big medical hack of 2025 was several..."
+
+**[00:29:53](/episodes/ep-OEAHy3SsIiI.md#ent-org-the-wellness-company-t-00-29-53)**
+> "...ef scientific officer over at the wellness company and the world's most published cardiologist, says..."
+
+**[00:30:08](/episodes/ep-OEAHy3SsIiI.md#ent-org-the-wellness-company-t-00-29-53)**
+> "The Wellness Company's compounded ivermectin and mebendazole is a doctor..."
+
+**[00:30:15](/episodes/ep-OEAHy3SsIiI.md#ent-org-the-wellness-company-t-00-29-53)**
+> "...omplete four 21-day cleanses. The Wellness Company makes the process fully digital, so it's easy."
+
+</details>
+
+<details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (2 mentions)</summary>
 
 **[00:28:18](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-wellness-company-t-00-28-09)**
@@ -498,10 +553,11 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 <summary>Employs (1)</summary>
 
 - **[Peter A. McCullough](/entities/person-peter-mccullough.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:31:11](/episodes/ep-ZZGWo6oDscc.md#t-00-30-47): “They have admitted that millions of Americans suffer from parasitic infections that often go undetected or undiagnosed, which is why Dr. Peter McCullough, who's the chief scientific officer over at the Wellness Company and the world's most published cardiologist, says,”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:20:39](/episodes/ep-gG4ZoYUjUc8.md#t-00-19-55): “Peter McCullough, Chief Scientific Officer at the Wellness Company and the world's most popular Most published cardiologists says that these studies make a clear case to do at least one medical-grade parasite cleanse annually.”
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:29:53](/episodes/ep-OEAHy3SsIiI.md#t-00-29-53): “This is why Dr. Peter McCullough, the chief scientific officer over at the wellness company and the world's most published cardiologist, says, quote, these studies make a clear case to do at least one medical grade parasite cleanse annually, end quote.”
 
 </details>
 
@@ -544,10 +600,11 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 </details>
 
 - **[Peter A. McCullough](/entities/person-peter-mccullough.md)** works for this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:31:11](/episodes/ep-ZZGWo6oDscc.md#t-00-30-47): “They have admitted that millions of Americans suffer from parasitic infections that often go undetected or undiagnosed, which is why Dr. Peter McCullough, who's the chief scientific officer over at the Wellness Company and the world's most published cardiologist, says,”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:20:39](/episodes/ep-gG4ZoYUjUc8.md#t-00-19-55): “Peter McCullough, Chief Scientific Officer at the Wellness Company and the world's most popular Most published cardiologists says that these studies make a clear case to do at least one medical-grade parasite cleanse annually.”
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:29:53](/episodes/ep-OEAHy3SsIiI.md#t-00-29-53): “This is why Dr. Peter McCullough, the chief scientific officer over at the wellness company and the world's most published cardiologist, says, quote, these studies make a clear case to do at least one medical grade parasite cleanse annually, end quote.”
 
 </details>
 

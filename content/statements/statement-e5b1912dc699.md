@@ -1,6 +1,6 @@
 ---
-title: "Satis had a lack of a lease since 2021, proving there was no..."
-description: "\"Satis had a lack of a lease since 2021, proving there was no maintenance happening at the hangar\" — Candace Owens"
+title: "Satys had a lack of a lease since 2021, proving there was no..."
+description: "\"Satys had a lack of a lease since 2021, proving there was no maintenance happening at the hangar\" — Candace Owens"
 statement_id: "statement-e5b1912dc699"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Satis had a lack of a lease since 2021, proving there was no maintenance happening at the hangar
+> Satys had a lack of a lease since 2021, proving there was no maintenance happening at the hangar
 
 ## Attribution
 
@@ -20,7 +20,7 @@ type: "factual_claim"
 
 ## About
 
-- [Satis](/entities/org-satis.md) (org)
+- [Satys](/entities/org-satys.md) (org)
 
 ## Source
 

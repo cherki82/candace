@@ -1,6 +1,6 @@
 ---
 title: "Joan of Arc"
-description: "Joan of Arc (People) - 6 mentions"
+description: "Joan of Arc (People) - 7 mentions"
 id: "person-joan-of-arc"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [St. Joan of Arc - Britannica](https://www.britannica.com/biography/Sain
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-joan-of-arc-t-01-13-24">2026-04-29 · 01:13:24</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-a2bZf4fic10.md#ent-person-joan-of-arc-t-00-49-15">2026-06-26 · 00:49:36</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-joan-of-arc-t-01-22-04">2026-08-17 · 01:22:37</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -39,6 +39,7 @@ Source: [St. Joan of Arc - Britannica](https://www.britannica.com/biography/Sain
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-joan-of-arc-t-01-13-24" style="--pulse-height:67%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-joan-of-arc-t-00-59-08" style="--pulse-height:33%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-person-joan-of-arc-t-00-49-15" style="--pulse-height:100%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-joan-of-arc-t-01-22-04" style="--pulse-height:33%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +48,7 @@ Source: [St. Joan of Arc - Britannica](https://www.britannica.com/biography/Sain
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-joan-of-arc-t-01-13-24) | 2 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-joan-of-arc-t-00-59-08) | 1 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-joan-of-arc-t-00-49-15) | 3 |
+| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-person-joan-of-arc-t-01-22-04) | 1 |
 
 </details>
 </section>
@@ -54,7 +56,15 @@ Source: [St. Joan of Arc - Britannica](https://www.britannica.com/biography/Sain
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1 mentions)</summary>
+
+**[01:22:37](/episodes/ep-E7P2ShoYDUA.md#ent-person-joan-of-arc-t-01-22-04)**
+> "LOL, St. Joan of Arc, pray for us indeed. And that is my patron saint. And I hope that people did learn that just stay calm."
+
+</details>
 
 <details>
 <summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (3 mentions)</summary>

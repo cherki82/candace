@@ -1,6 +1,6 @@
 ---
 title: "Romania"
-description: "Romania (Places) - 151 mentions"
+description: "Romania (Places) - 152 mentions"
 id: "gpe-romania"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-romania-t-00-10-04">2026-01-09 · 00:10:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-romania-t-00-49-39">2026-07-14 · 00:49:57</a></strong></div>
-<div><span>Episodes</span><strong>24</strong></div>
-<div><span>Mentions</span><strong>151</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-romania-t-00-56-28">2026-08-06 · 00:56:28</a></strong></div>
+<div><span>Episodes</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>152</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>53</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -55,6 +55,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-romania-t-00-11-49" style="--pulse-height:59%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 17 mentions" title="2026-06-26 · 17 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-romania-t-00-47-09" style="--pulse-height:10%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-romania-t-00-24-47" style="--pulse-height:8%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-romania-t-00-56-28" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -84,6 +85,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-romania-t-00-11-49) | 17 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-gpe-romania-t-00-47-09) | 3 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-romania-t-00-24-47) | 2 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-gpe-romania-t-00-56-28) | 1 |
 
 </details>
 </section>
@@ -91,7 +93,15 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (151)</strong></summary>
+<summary><strong class="section-title">Raw mentions (152)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:56:28](/episodes/ep-ChuWo-n49B8.md#ent-gpe-romania-t-00-56-28)**
+> "I always felt like Romania was kind of"
+
+</details>
 
 <details>
 <summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (2 mentions)</summary>

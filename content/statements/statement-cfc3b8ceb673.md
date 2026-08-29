@@ -24,11 +24,21 @@ veracity: "mixed"
 - [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 - [Utah Constitution](/entities/law-utah-constitution.md) (law)
 
-## Source
+## Appearances (2)
+
+### 1. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [00:53:36](/episodes/ep-nPhCKwJ6ye8.md#t-00-53-31) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3216);return false;">Play</a>
+
+> the entire hearing was hearsay. It means none of that information that was presented is going to be allowed, the majority of it, the overwhelming majority of it is not going to be allowed at the trial.
+
+### 2. Candace Owens vs Andrew Wilson: The Great Debate.
+
+**Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
+**Timestamp:** [00:28:54](/episodes/ep-aPOyk1i2LOc.md#t-00-28-54) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1734);return false;">Play</a>
 
 > the entire hearing was hearsay. It means none of that information that was presented is going to be allowed, the majority of it, the overwhelming majority of it is not going to be allowed at the trial.
 

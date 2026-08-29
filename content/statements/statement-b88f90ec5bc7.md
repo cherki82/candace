@@ -31,7 +31,7 @@ type: "factual_claim"
 **Timestamp:** [01:11:07](/episodes/ep-es7PWdFGoFI.md#t-01-11-03) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(4267);return false;">Play</a>
 
-> Erika confirmed it. I was always telling the truth... Charlie was going to mass
+> Look, obviously, Erika (Erika Kirk) confirmed it. I was always telling the truth.
 
 ## Verification
 

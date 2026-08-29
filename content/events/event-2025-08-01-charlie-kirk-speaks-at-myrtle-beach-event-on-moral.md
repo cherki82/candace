@@ -11,7 +11,7 @@ date: "2025-08-01"
 
 > Charlie Kirk speaks at Myrtle Beach event on moral blackmail and friendships
 
-## Mentioned In (146 times)
+## Mentioned In (147 times)
 
 ### 1. Bearing False Witness: Who Made The Charlie Kirk Videos Go V...
 
@@ -1180,3 +1180,11 @@ date: "2025-08-01"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(637);return false;">▶️ Play</a>
 
 > een seeing a lot of vitriol that's been thrown at Andrew Kolvet's way because he is doing press. He is carrying on Charlie Kirk's show. He was already seated on Cha
+
+### 147. BREAKING: Charlie’s Team DID Call 911 En Route To The Hospit...
+
+**Episode:** [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md)
+**Timestamp:** [00:09:13](/episodes/ep-HZvwbfePe7o.md#event-event-2025-08-01-charlie-kirk-speaks-at-myrtle-beach-event-on-moral-t-00-09-04) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(553);return false;">▶️ Play</a>
+
+> he was back on stage referring to us as friends and saying that he would not be morally blackmailed

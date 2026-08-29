@@ -4,9 +4,10 @@ description: "\"Tracy Martin said she had never seen Erika Kirk go on a tirade, 
 statement_id: "statement-3cfaecef1d0e"
 speaker: "Tracy Martin"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The embedded Tracy Martin interview in the source transcript contains her denial that she had seen Erika Kirk go on a tirade and her favorable statements about Kirk's language and conduct. Verification is limited to what Martin said, not the universal truth of her personal observations.
+
+**Confidence:** High
+
+**Sources:**
+
+- [EXCLUSIVE: Ben Shapiro's 9/10 Lunch Date — Candace Ep. 365 transcript](https://podcasts.happyscribe.com/candace/10-lunch-date-more-text-messages-from-charlie-kirk)
+
+*Verified: 2026-08-27T19:42:39.589239*
 
 ---
 

@@ -14,7 +14,7 @@ date: "2025-12-28"
 ## Mentioned In
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
-**Timestamp:** [00:18:24](/episodes/ep-HYn0P-P1wUw.md#t-00-17-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1104);return false;">▶️ Play</a>
+**Timestamp:** [00:18:46](/episodes/ep-HYn0P-P1wUw.md#t-00-18-46) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1126);return false;">▶️ Play</a>
 
-> Erika has submitted another follow-up text regarding her whereabouts on the 8th. Now, you will recall, as I told you yesterday, that the issue with the first message that she provided, which was purportedly a conversation between her and Charlie. About dinner on the evening of the 8th, was that the contact name was blocked on the message, was blacked out on the message. I had received that, by the way, on December 28th.
+> blacked out on the message. I had received that, by the way, on December 28th.

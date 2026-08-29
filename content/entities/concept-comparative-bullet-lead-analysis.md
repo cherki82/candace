@@ -28,7 +28,7 @@ Source: [FBI Laboratory to Increase Outreach in Bullet Lead Cases](https://archi
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -102,7 +102,15 @@ Source: [FBI Laboratory to Increase Outreach in Bullet Lead Cases](https://archi
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Comparative bullet lead analysis (3)</strong></summary>
+<summary><strong class="section-title">Statements about Comparative bullet lead analysis (4)</strong></summary>
+
+<details>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1)</summary>
+
+- [00:33:08](/episodes/ep-rupRLXmSndU.md#t-00-32-56) (Claim) **Candace Owens**: ["The FBI abandoned comparative bullet lead analysis in 2005."](/statements/statement-377b703daf79.md)
+  - Also about: [FBI](/entities/org-fbi.md)
+
+</details>
 
 <details>
 <summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (3)</summary>

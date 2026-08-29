@@ -4,9 +4,10 @@ description: "\"Candace Owens said Connie Boss Alexander filed a 2025 petition f
 statement_id: "statement-c9e04b65f745"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -34,7 +35,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Reporting based on court documents confirms Alexander filed the grandparent-visitation petition in September 2025, alleged retaliatory restrictions, and that a judge dismissed the entire action in February 2026 for lack of California personal and subject-matter jurisdiction.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Allison Holker and tWitch's Family Feud Over After Case Dismissed](https://www.usmagazine.com/celebrity-news/news/allison-holker-and-twtichs-family-feud-over-after-case-dismissed/)
+
+*Verified: 2026-08-27T19:42:39.589259*
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Candace Owens said Donald Trump had lost support from the Ma..."
-description: "\"Candace Owens said Donald Trump had lost support from the Make America Healthy Again movement, Megyn Kelly, Candace Owens, Alex Jones, and others over...\" — Candace Owens"
+description: "\"Candace Owens said Donald Trump had lost support from the Make America Healthy Again movement, Megyn Kelly, Alex Jones, an unintelligible named commen...\" — Candace Owens"
 statement_id: "statement-cdcdb0b37222"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "mixed"
 
 ## Statement
 
-> Candace Owens said Donald Trump had lost support from the Make America Healthy Again movement, Megyn Kelly, Candace Owens, Alex Jones, and others over his Middle East policy.
+> Candace Owens said Donald Trump had lost support from the Make America Healthy Again movement, Megyn Kelly, Alex Jones, an unintelligible named commentator, and others over his Middle East policy.
 
 ## Attribution
 
@@ -24,7 +24,6 @@ veracity: "mixed"
 - [Donald J. Trump](/entities/person-donald-trump.md) (person)
 - [Make America Healthy Again](/entities/concept-make-america-healthy-again.md) (concept)
 - [Megyn Kelly](/entities/person-megyn-kelly.md) (person)
-- [Candace Owens](/entities/person-candace-owens.md) (person)
 - [Alex Jones](/entities/person-alex-jones.md) (person)
 - [Middle East](/entities/gpe-middle-east.md) (gpe)
 
@@ -34,7 +33,7 @@ veracity: "mixed"
 **Timestamp:** [00:59:47](/episodes/ep-eLgD5yUVbko.md#t-00-59-43) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3587);return false;">Play</a>
 
-> Everybody is telling you that you've lost a large portion of your base. You have lost Maha. You've lost Meghan Kelly. ... You've lost B. You've lost Alex Jones.
+> Everybody is telling you that you've lost a large portion of your base. You have lost MAHA. You've lost Megyn Kelly. ... You've lost [unintelligible name]. You've lost Alex Jones. You've lost—and that's just in terms of the commentariat, if you will.
 
 ## Verification
 

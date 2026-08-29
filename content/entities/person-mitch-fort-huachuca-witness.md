@@ -11,8 +11,6 @@ _Type: People_
 
 **Also known as:** Mitch
 
-> **Possibly overlapping entity records:** [Mitch Snow](/entities/person-mitch-snow). These records share a name or alias; compare their histories before treating either count as complete.
-
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-mitch-fort-huachuca-witness-t-00-00-00">2025-12-18 · 00:00:34</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-mitch-fort-huachuca-witness-t-00-51-30">2025-12-20 · 00:52:00</a></strong></div>

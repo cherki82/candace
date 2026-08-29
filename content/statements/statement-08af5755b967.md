@@ -30,7 +30,7 @@ type: "factual_claim"
 **Timestamp:** [00:05:41](/episodes/ep-rupRLXmSndU.md#t-00-05-14) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(341);return false;">Play</a>
 
-> when Cash Patel arrived, he had the FBI immediately seize the footage from inside the hospital.
+> when Kash Patel arrived, he had the FBI immediately seize the footage from inside the hospital.
 
 ## Verification
 

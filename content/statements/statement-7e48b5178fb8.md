@@ -29,7 +29,7 @@ type: "accusation"
 ### 1. BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/1...
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
-**Timestamp:** [00:15:22](/episodes/ep-HYn0P-P1wUw.md#t-00-15-17) 
+**Timestamp:** [00:15:22](/episodes/ep-HYn0P-P1wUw.md#t-00-14-53) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(922);return false;">Play</a>
 
 > We broke the story that Andrew Kolvet lied about the Superman quote. That quotation never came from Dr. Lee Trotter at all. It allegedly came from Erika (Erika Kirk) in a moment of upset.

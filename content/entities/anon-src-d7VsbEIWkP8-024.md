@@ -1,0 +1,61 @@
+---
+title: "Anonymous Source #24 (Ep d7VsbEIWkP8)"
+description: "Anonymous Source #24 (Ep d7VsbEIWkP8) (Anonymous Sources) - 1 mention"
+id: "anon-src-d7VsbEIWkP8-024"
+type: "ANONYMOUS_SOURCE"
+aliases:
+  - "Tyler Robinson and Lance Twiggs family members and schoolmates"
+categories:
+  - "unnamed background sources"
+---
+
+_Type: Anonymous Sources_
+
+**Also known as:** Tyler Robinson and Lance Twiggs family members and schoolmates
+
+**Categories:** unnamed background sources
+
+**Entity verification:** verified
+> Source-local anonymous participant; the episode supplies the role or handle but does not establish a legal identity. The identity-unverified caveat is intentional.
+Source: [A Shocking Truth Revealed In The 4K Footage | Ep 373](https://www.youtube.com/watch?v=d7VsbEIWkP8)
+
+<div class="entity-summary-grid">
+<div><span>Episodes</span><strong>0</strong></div>
+<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Statements by</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Threads</span><strong>0</strong></div>
+</div>
+
+> **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
+
+<details>
+<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Relationships</strong></summary>
+
+_No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements by Anonymous Source #24 (Ep d7VsbEIWkP8) (1)</strong></summary>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1)</summary>
+
+- [00:21:31](/episodes/ep-d7VsbEIWkP8.md#t-00-21-21) [○] (Claim) ["Unnamed family-member and schoolmate sources described Tyler Robinson as quiet a..."](/statements/statement-93a82396e059.md)
+  - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md)
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Anonymous Source Details</strong></summary>
+
+</details>

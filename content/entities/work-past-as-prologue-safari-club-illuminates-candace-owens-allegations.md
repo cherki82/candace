@@ -5,11 +5,19 @@ id: "work-past-as-prologue-safari-club-illuminates-candace-owens-allegations"
 type: "WORK"
 aliases:
   - "Past as Prologue: Safari Club Illuminates Candace Owens' Allegations (article)"
+categories:
+  - "news article"
 ---
 
 _Type: Works & Media_
 
 **Also known as:** Past as Prologue: Safari Club Illuminates Candace Owens' Allegations (article)
+
+**Categories:** news article
+
+**Entity verification:** verified
+> The episode transcript reads the exact article title and author attribution. This is source-context work-title verification only.
+Source: [Charlie Kirk And Brigitte's Legionnaires — source episode](https://www.youtube.com/watch?v=tB5SXXmd9vU)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-work-past-as-prologue-safari-club-illuminates-candace-owens-allegations-t-00-11-17">2025-12-01 · 00:11:47</a></strong></div>

@@ -1,6 +1,6 @@
 ---
-title: "Tucker Carlson was broken after being fired from Fox and sho..."
-description: "\"Tucker Carlson was broken after being fired from Fox and should see a psychiatrist.\" — Donald J. Trump"
+title: "Tucker Carlson was broken after being fired from Fox and per..."
+description: "\"Tucker Carlson was broken after being fired from Fox and perhaps should see a good psychiatrist.\" — Donald J. Trump"
 statement_id: "statement-6fefc965fff7"
 speaker: "Donald J. Trump"
 type: "opinion"
@@ -10,7 +10,7 @@ type: "opinion"
 
 ## Statement
 
-> Tucker Carlson was broken after being fired from Fox and should see a psychiatrist.
+> Tucker Carlson was broken after being fired from Fox and perhaps should see a good psychiatrist.
 
 ## Attribution
 

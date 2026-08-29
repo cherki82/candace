@@ -11,7 +11,7 @@ object: "person-candace-owens"
 
 ## [The Daily Wire](/entities/org-the-daily-wire) formerly employed [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (20 mentions)
+### Evidence (19 mentions)
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
@@ -20,6 +20,10 @@ object: "person-candace-owens"
 **[Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708)**
 
 - [00:32:41](/episodes/ep-4YgrOhhy708#t-00-32-41): _going back to Candace Owens ... she worked for Daily Wire, your friend Ben (Ben Shapiro) fired her because she said Christ is king._
+
+**[EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4)**
+
+- [00:30:50](/episodes/ep-5zgkrOaCCj4#t-00-30-50): _So I used to work at the Daily Wire, obviously didn't end well, and they had a very bizarre superfan community, meaning like it was just kind of weird that anybody would dedicate this much time to podcasters, and it turned out that the then CEO flew._
 
 **[Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE)**
 
@@ -32,10 +36,6 @@ object: "person-candace-owens"
 **[A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0)**
 
 - [00:11:19](/episodes/ep-G3zdOeHpvS0#t-00-11-19): _the external Zionist peer pressure since me leaving the Daily Wire._
-
-**[BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw)**
-
-- [00:48:55](/episodes/ep-HYn0P-P1wUw#t-00-48-55): _Nothing that has happened since I have left that company is normal._
 
 **[You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI)**
 
@@ -88,10 +88,6 @@ object: "person-candace-owens"
 **[Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o)**
 
 - [00:09:42](/episodes/ep-xjzb_t5Tk9o#t-00-09-42): _This is after I left Daily Wire._
-
-**[DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw)**
-
-- [00:00:45](/episodes/ep-zSKrxIUMNqw#t-00-00-45): _two entire years of my life that I have been effectively fighting just to, you know, go on living against the Daily Wire after leaving a job._
 
 ### Related
 

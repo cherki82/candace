@@ -30,7 +30,7 @@ type: "factual_claim"
 **Timestamp:** [00:28:26](/episodes/ep-es7PWdFGoFI.md#t-00-28-04) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1706);return false;">Play</a>
 
-> Mikey called Erika after Blake and I ended that phone call with his mother
+> Okay, Mikey called Erika (Erika Kirk) after Blake and I ended that phone call with his mother.
 
 ## Verification
 

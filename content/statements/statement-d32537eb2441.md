@@ -23,11 +23,21 @@ type: "opinion"
 - [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [03:57:47](/episodes/ep-nPhCKwJ6ye8.md#t-03-57-15) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(14267);return false;">Play</a>
+
+> But what has been very made very clear to me is that there's nobody with an alternative theory that has any evidence for it at all.
+
+### 2. Candace Owens vs Andrew Wilson: The Great Debate.
+
+**Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
+**Timestamp:** [03:04:42](/episodes/ep-aPOyk1i2LOc.md#t-03-04-09) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(11082);return false;">Play</a>
 
 > But what has been very made very clear to me is that there's nobody with an alternative theory that has any evidence for it at all.
 

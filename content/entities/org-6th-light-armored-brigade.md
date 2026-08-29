@@ -3,9 +3,17 @@ title: "6th Light Armored Brigade"
 description: "6th Light Armored Brigade (Organizations) - 1 mention"
 id: "org-6th-light-armored-brigade"
 type: "ORG"
+categories:
+  - "French military brigade"
 ---
 
 _Type: Organizations_
+
+**Categories:** French military brigade
+
+**Entity verification:** verified
+> Canonical name and identity for 6th Light Armored Brigade confirmed by the cited direct external source.
+Source: [6th Light Armoured Brigade](https://en.wikipedia.org/wiki/6th_Light_Armoured_Brigade)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-6th-light-armored-brigade-t-00-16-09">2025-12-01 · 00:16:09</a></strong></div>

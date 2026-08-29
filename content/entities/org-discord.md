@@ -1,6 +1,6 @@
 ---
 title: "Discord"
-description: "Discord (Organizations) - 35 mentions"
+description: "Discord (Organizations) - 44 mentions"
 id: "org-discord"
 type: "ORG"
 aliases:
@@ -23,8 +23,8 @@ Source: [Discord — About Discord](https://discord.com/company)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-discord-t-00-51-44">2025-09-15 · 00:52:03</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-discord-t-01-48-55">2026-08-14 · 01:48:55</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>35</strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>44</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -47,6 +47,8 @@ Source: [Discord — About Discord](https://discord.com/company)
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-org-discord-t-00-40-55" style="--pulse-height:100%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 8 mentions" title="2026-04-13 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-discord-t-00-11-53" style="--pulse-height:25%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-org-discord-t-00-08-38" style="--pulse-height:12%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-discord-t-00-02-45" style="--pulse-height:100%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 8 mentions" title="2026-07-31 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-discord-t-00-25-14" style="--pulse-height:12%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-discord-t-01-32-20" style="--pulse-height:25%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -65,6 +67,8 @@ Source: [Discord — About Discord](https://discord.com/company)
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-discord-t-00-40-55) | 8 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-discord-t-00-11-53) | 2 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-discord-t-00-08-38) | 1 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-org-discord-t-00-02-45) | 8 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-org-discord-t-00-25-14) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-discord-t-01-32-20) | 2 |
 
 </details>
@@ -73,7 +77,7 @@ Source: [Discord — About Discord](https://discord.com/company)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+<summary><strong class="section-title">Raw mentions (44)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2 mentions)</summary>
@@ -83,6 +87,43 @@ Source: [Discord — About Discord](https://discord.com/company)
 
 **[01:48:55](/episodes/ep-nPhCKwJ6ye8.md#ent-org-discord-t-01-48-55)**
 > "...ying in fact i've had tons of discord calls about this My position's always been clear."
+
+</details>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
+
+**[00:25:21](/episodes/ep-d7VsbEIWkP8.md#ent-org-discord-t-00-25-14)**
+> "on Discord"
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (8 mentions)</summary>
+
+**[00:03:14](/episodes/ep-iB-YtO3UZOg.md#ent-org-discord-t-00-02-45)**
+> "We were also told that he confessed to his crime to his friends, his fellow gamers on Discord."
+
+**[00:03:22](/episodes/ep-iB-YtO3UZOg.md#ent-org-discord-t-00-02-45)**
+> "...aking to people: Jug Barnaby (Discord display name), Marina (Discord participant; surna..."
+
+**[00:04:13](/episodes/ep-iB-YtO3UZOg.md#ent-org-discord-t-00-04-13)**
+> "...t over the text messages, the discord confessions, even more so after seeing the Spider..."
+
+**[00:04:37](/episodes/ep-iB-YtO3UZOg.md#ent-org-discord-t-00-04-37)**
+> "...ve a login to his boyfriend's discord that wouldn't be strange when you're dating someo..."
+
+**[00:05:06](/episodes/ep-iB-YtO3UZOg.md#ent-org-discord-t-00-04-37)**
+> "The discord element just feels a little fetty, right? Just a ..."
+
+**[00:12:28](/episodes/ep-iB-YtO3UZOg.md#ent-org-discord-t-00-12-28)**
+> "...her gamers to join her on her Discord, to follow her Twitch, her streamer account."
+
+**[00:12:58](/episodes/ep-iB-YtO3UZOg.md#ent-org-discord-t-00-12-28)**
+> "... identified everybody on this Discord chat? I'm wondering, is this a coincidence?"
+
+**[00:13:52](/episodes/ep-iB-YtO3UZOg.md#ent-org-discord-t-00-13-43)**
+> "...tside of yourself? Join me on Discord Twitch community in Utah."
 
 </details>
 
@@ -294,7 +335,7 @@ _No relationships extracted yet._
 
 - [00:17:13](/episodes/ep-2WEHTk0Xewg.md#t-00-16-59) (Claim) **Candace Owens**: ["Discord confirmed that the text messages between Tyler Robinson and La..."](/statements/statement-b50c8cf5571a.md)
 
-- [00:31:46](/episodes/ep-2WEHTk0Xewg.md#t-00-31-35) (Claim) **Candace Owens** (via paraphrase): ["Discord said the messages attributed to Tyler Robinson and Lance Twigg..."](/statements/statement-48a69a1c0de4.md)
+- [00:31:46](/episodes/ep-2WEHTk0Xewg.md#t-00-31-35) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens said Discord denied that the messages existed on its ser..."](/statements/statement-48a69a1c0de4.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md)
 
 </details>

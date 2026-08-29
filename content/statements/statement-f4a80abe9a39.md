@@ -31,7 +31,7 @@ type: "factual_claim"
 **Timestamp:** [00:06:40](/episodes/ep-es7PWdFGoFI.md#t-00-06-11) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(400);return false;">Play</a>
 
-> And then somebody who had access to Dan's communications, said that Dan similarly received a text message.
+> And then somebody who had access to Dan (Dan Flood)'s communications, said that Dan (Dan Flood) similarly received a text message.
 
 ## Verification
 

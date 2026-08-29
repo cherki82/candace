@@ -23,11 +23,21 @@ veracity: "true"
 
 - [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [03:41:36](/episodes/ep-nPhCKwJ6ye8.md#t-03-41-36) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(13296);return false;">Play</a>
+
+> I think speaking to the owner, knowing that there's a receipt, seeing the receipt is good enough to put on our timeline.
+
+### 2. Candace Owens vs Andrew Wilson: The Great Debate.
+
+**Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
+**Timestamp:** [02:51:30](/episodes/ep-aPOyk1i2LOc.md#t-02-51-30) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(10290);return false;">Play</a>
 
 > I think speaking to the owner, knowing that there's a receipt, seeing the receipt is good enough to put on our timeline.
 

@@ -3,9 +3,17 @@ title: "Longwood Foundation"
 description: "Longwood Foundation (Organizations) - 1 mention"
 id: "org-longwood-foundation"
 type: "ORG"
+categories:
+  - "philanthropic foundation"
 ---
 
 _Type: Organizations_
+
+**Categories:** philanthropic foundation
+
+**Entity verification:** verified
+> Canonical name and identity for Longwood Foundation confirmed by the cited direct external source.
+Source: [Longwood Foundation](https://longwoodfoundation.org/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-longwood-foundation-t-00-29-13">2025-12-01 · 00:29:28</a></strong></div>

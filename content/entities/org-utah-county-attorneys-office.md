@@ -1,6 +1,6 @@
 ---
 title: "Utah County Attorney's Office"
-description: "Utah County Attorney's Office (Organizations) - 2 mentions"
+description: "Utah County Attorney's Office (Organizations) - 3 mentions"
 id: "org-utah-county-attorneys-office"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [Utah County Attorney](https://atty.utahcounty.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-utah-county-attorneys-office-t-00-27-01">2026-03-31 · 00:27:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-utah-county-attorneys-office-t-00-29-32">2026-03-31 · 00:29:32</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-utah-county-attorneys-office-t-00-19-30">2026-08-21 · 00:19:30</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -36,12 +36,14 @@ Source: [Utah County Attorney](https://atty.utahcounty.gov/)
 <p>Highest activity: <a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-utah-county-attorneys-office-t-00-27-01">PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-utah-county-attorneys-office-t-00-27-01" style="--pulse-height:100%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 2 mentions" title="2026-03-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-org-utah-county-attorneys-office-t-00-19-30" style="--pulse-height:50%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-org-utah-county-attorneys-office-t-00-27-01) | 2 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-utah-county-attorneys-office-t-00-19-30) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [Utah County Attorney](https://atty.utahcounty.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
+
+**[00:19:30](/episodes/ep-_cNtgris8Ik.md#ent-org-utah-county-attorneys-office-t-00-19-30)**
+> "Uh the Utah County Attorney's Office."
+
+</details>
 
 <details>
 <summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (2 mentions)</summary>
@@ -72,7 +82,17 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah County Attorney's Office (4)</strong></summary>
+<summary><strong class="section-title">Statements about Utah County Attorney's Office (6)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2)</summary>
+
+- [00:19:28](/episodes/ep-_cNtgris8Ik.md#t-00-19-28) (Claim) **David Hull** (via quoted speech): ["Hull testified that he did not prepare the video compilation and ident..."](/statements/statement-dcf825f6bc57.md)
+
+- [00:19:35](/episodes/ep-_cNtgris8Ik.md#t-00-19-35) (Accusation) **Candace Owens**: ["Owens said the prosecution may have decreased the compilation's aspect..."](/statements/statement-055c8b81926e.md)
+  - Also about: [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md)
+
+</details>
 
 <details>
 <summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (4)</summary>

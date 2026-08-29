@@ -3,9 +3,18 @@ title: "Kayleigh McEnany"
 description: "Kayleigh McEnany (People) - 2 mentions"
 id: "person-kayleigh-mcenany"
 type: "PERSON"
+categories:
+  - "former White House press secretary"
+  - "political commentator"
 ---
 
 _Type: People_
+
+**Categories:** former White House press secretary, political commentator
+
+**Entity verification:** verified
+> An archived White House primary source confirms the canonical name and press-secretary role.
+Source: [Remarks by Press Secretary Kayleigh McEnany — archived White House](https://trumpwhitehouse.archives.gov/briefings-statements/remarks-press-secretary-kayleigh-mcenany/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-kayleigh-mcenany-t-00-28-37">2025-09-29 · 00:28:46</a></strong></div>

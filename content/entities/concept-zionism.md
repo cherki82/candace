@@ -1,6 +1,6 @@
 ---
 title: "Zionism"
-description: "Zionism (Concepts) - 337 mentions"
+description: "Zionism (Concepts) - 344 mentions"
 id: "concept-zionism"
 type: "CONCEPT"
 aliases:
@@ -28,9 +28,9 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-concept-zionism-t-00-31-15">2025-09-18 · 00:31:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-concept-zionism-t-00-13-14">2026-07-23 · 00:13:14</a></strong></div>
-<div><span>Episodes</span><strong>77</strong></div>
-<div><span>Mentions</span><strong>337</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-zionism-t-00-48-49">2026-08-07 · 00:49:00</a></strong></div>
+<div><span>Episodes</span><strong>79</strong></div>
+<div><span>Mentions</span><strong>344</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>31</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -118,6 +118,8 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-concept-zionism-t-00-26-10" style="--pulse-height:8%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-concept-zionism-t-00-20-35" style="--pulse-height:8%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-concept-zionism-t-00-04-04" style="--pulse-height:21%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 3 mentions" title="2026-07-23 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-concept-zionism-t-00-42-07" style="--pulse-height:8%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-zionism-t-00-35-15" style="--pulse-height:43%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 6 mentions" title="2026-08-07 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -200,6 +202,8 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-concept-zionism-t-00-26-10) | 1 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-concept-zionism-t-00-20-35) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-concept-zionism-t-00-04-04) | 3 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-concept-zionism-t-00-42-07) | 1 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-concept-zionism-t-00-35-15) | 6 |
 
 </details>
 </section>
@@ -207,7 +211,38 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (337)</strong></summary>
+<summary><strong class="section-title">Raw mentions (344)</strong></summary>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (6 mentions)</summary>
+
+**[00:35:32](/episodes/ep-d7VsbEIWkP8.md#ent-concept-zionism-t-00-35-15)**
+> "these Zionists"
+
+**[00:39:34](/episodes/ep-d7VsbEIWkP8.md#ent-concept-zionism-t-00-39-34)**
+> "...e of again just their general zionist bloodthirst and needing to make it seem like it's..."
+
+**[00:40:26](/episodes/ep-d7VsbEIWkP8.md#ent-concept-zionism-t-00-40-03)**
+> "... lose sight of how fraudulent Zionists are. They just they just want war."
+
+**[00:45:38](/episodes/ep-d7VsbEIWkP8.md#ent-concept-zionism-t-00-45-38)**
+> "...against the Americans and the Zionists from the scourge of secularism and the lands of u..."
+
+**[00:48:49](/episodes/ep-d7VsbEIWkP8.md#ent-concept-zionism-t-00-48-49)**
+> "...hreat here is Islam. It's not Zionism. Very clear by that trailer."
+
+**[00:49:00](/episodes/ep-d7VsbEIWkP8.md#ent-concept-zionism-t-00-48-49)**
+> "...t representatives of what the Zionist lobby is, constantly harassing people, threatenin..."
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>
+
+**[00:42:07](/episodes/ep-1CFDtD0IgEg.md#ent-concept-zionism-t-00-42-07)**
+> "...s being there outside of like Zionist rage and ambition. It's completely crazy. And yes..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (3 mentions)</summary>

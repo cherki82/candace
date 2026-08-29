@@ -26,7 +26,7 @@ veracity: "mixed"
 **Timestamp:** [00:29:47](/episodes/ep-MUA9ebCF4Ow.md#t-00-29-28) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1787);return false;">Play</a>
 
-> Now, we had wondered if perhaps the two hospitals shared information because that's a plausibility if you're using the same tech or maybe you're within the same healthcare system. ... We can now confirm that those two hospitals do not. ... They do not share information. ... Timpanogos Hospital is owned by HCA, which uses a charting system called VDI. ... Utah Valley Hospital is owned by IHC, and they run on a system called Epic—which many of you guys emailed me about. ... They had recently implemented Epic. ... They are not interlinked. ... These two hospitals do not speak to each other. ... If a patient has never been to Timpanogos Hospital but they have been to Utah Valley, their info would not come up at all in Timpanogos' system.
+> We can now confirm that those two hospitals do not. ... They do not share information. ... Timpanogos Hospital is owned by HCA, which uses a charting system called VDI. ... Utah Valley Hospital is owned by IHC, and they run on a system called Epic—which many of you guys emailed me about. ... They are not interlinked. ... These two hospitals do not speak to each other. ... If a patient has never been to Timpanogos Hospital but they have been to Utah Valley, their info would not come up at all in Timpanogos' system.
 
 ## Verification
 

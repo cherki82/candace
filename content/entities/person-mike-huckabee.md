@@ -3,9 +3,17 @@ title: "Mike Huckabee"
 description: "Mike Huckabee (People) - 10 mentions"
 id: "person-mike-huckabee"
 type: "PERSON"
+categories:
+  - "politician and diplomat"
 ---
 
 _Type: People_
+
+**Categories:** politician and diplomat
+
+**Entity verification:** verified
+> Canonical name and identity for Mike Huckabee confirmed by the cited direct external source.
+Source: [Mike Huckabee](https://en.wikipedia.org/wiki/Mike_Huckabee)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-person-mike-huckabee-t-00-18-27">2025-11-05 · 00:19:04</a></strong></div>

@@ -11,7 +11,15 @@ object: "person-amber-robinson"
 
 ## [Tyler Robinson](/entities/person-tyler-robinson) child of [Amber Robinson](/entities/person-amber-robinson)
 
-### Evidence (1 mentions)
+### Evidence (3 mentions)
+
+**[EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70)**
+
+- [00:31:54](/episodes/ep-9hRcfSrri70#t-00-31-54): _was the one who recognized thought that he recognized Tyler Robinson from the stairwell photo and then as we said he is the one that then contacted the parents and who knows what happened thereafter maybe he then says he showed the mom and said don't think kind of looks like him and the mom said yes and then when he later on wrote his statement he was like I showed this to Amber Robinson and they she she said that it could it could be him be him or something._
+
+**[Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc)**
+
+- [01:04:42](/episodes/ep-aPOyk1i2LOc#t-01-04-42): _They went to the parents as well to Matt Robinson and Amber basically said your life's at risk._
 
 **[Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8)**
 

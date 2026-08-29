@@ -3,9 +3,17 @@ title: "French Foreign Legionnaires"
 description: "French Foreign Legionnaires (Organizations) - 1 mention"
 id: "org-french-foreign-legionnaires"
 type: "ORG"
+categories:
+  - "French military personnel"
 ---
 
 _Type: Organizations_
+
+**Categories:** French military personnel
+
+**Entity verification:** verified
+> Canonical name and identity for French Foreign Legionnaires confirmed by the cited direct external source.
+Source: [French Foreign Legion official site](https://www.legion-etrangere.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-french-foreign-legionnaires-t-00-59-13">2025-12-01 · 00:59:13</a></strong></div>

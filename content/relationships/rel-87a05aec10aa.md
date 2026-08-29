@@ -11,7 +11,11 @@ object: "person-joe-rogan"
 
 ## [Erika Kirk](/entities/person-erika-kirk) criticized by [Joe Rogan](/entities/person-joe-rogan)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70)**
+
+- [00:01:28](/episodes/ep-9hRcfSrri70#t-00-01-28): _Oh, would you say everybody's jealous of Erika (Erika Kirk)? Anybody that critiques her? Shawn Ryan, Joe Rogan. This is consensus. Is everyone just, you're just jealous. It's like mean girls or something._
 
 **[EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0)**
 

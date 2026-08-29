@@ -1,15 +1,15 @@
 ---
-title: "Skyler works for Candace Owens"
-description: "Evidence for the relationship: Skyler works for Candace Owens"
+title: "Skyler Broderick works for Candace Owens"
+description: "Evidence for the relationship: Skyler Broderick works for Candace Owens"
 relationship_id: "rel-4a9fc42ba58a"
-subject: "person-skyler"
+subject: "person-skyler-broderick"
 predicate: "works for"
 object: "person-candace-owens"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Skyler](/entities/person-skyler) works for [Candace Owens](/entities/person-candace-owens)
+## [Skyler Broderick](/entities/person-skyler-broderick) works for [Candace Owens](/entities/person-candace-owens)
 
 ### Evidence (1 mentions)
 
@@ -19,5 +19,5 @@ object: "person-candace-owens"
 
 ### Related
 
-- [Skyler](/entities/person-skyler)
+- [Skyler Broderick](/entities/person-skyler-broderick)
 - [Candace Owens](/entities/person-candace-owens)

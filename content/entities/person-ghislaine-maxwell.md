@@ -37,7 +37,7 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-ghislaine-maxwell-t-00-15-24" style="--pulse-height:33%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-ghislaine-maxwell-t-00-36-11" style="--pulse-height:33%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-ghislaine-maxwell-t-00-41-41" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 3 mentions" title="2026-02-13 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-ghislaine-maxwell-t-00-46-50" style="--pulse-height:33%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-ghislaine-maxwell-t-00-46-37" style="--pulse-height:33%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-ghislaine-maxwell-t-00-39-05" style="--pulse-height:100%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-ghislaine-maxwell-t-00-10-39" style="--pulse-height:33%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-person-ghislaine-maxwell-t-00-03-05" style="--pulse-height:33%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
@@ -53,7 +53,7 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-ghislaine-maxwell-t-00-15-24) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-ghislaine-maxwell-t-00-36-11) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-ghislaine-maxwell-t-00-41-41) | 3 |
-| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-ghislaine-maxwell-t-00-46-50) | 1 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-ghislaine-maxwell-t-00-46-37) | 1 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-ghislaine-maxwell-t-00-39-05) | 3 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-ghislaine-maxwell-t-00-10-39) | 1 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-person-ghislaine-maxwell-t-00-03-05) | 1 |
@@ -114,7 +114,7 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
 
-**[00:46:50](/episodes/ep-q1NRQQAYS_Q.md#ent-person-ghislaine-maxwell-t-00-46-50)**
+**[00:46:50](/episodes/ep-q1NRQQAYS_Q.md#ent-person-ghislaine-maxwell-t-00-46-37)**
 > "Ghislaine Maxwell"
 
 </details>

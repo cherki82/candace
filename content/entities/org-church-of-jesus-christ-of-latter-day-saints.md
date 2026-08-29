@@ -1,6 +1,6 @@
 ---
 title: "The Church of Jesus Christ of Latter-day Saints"
-description: "The Church of Jesus Christ of Latter-day Saints (Organizations) - 18 mentions"
+description: "The Church of Jesus Christ of Latter-day Saints (Organizations) - 20 mentions"
 id: "org-church-of-jesus-christ-of-latter-day-saints"
 type: "ORG"
 aliases:
@@ -26,12 +26,12 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-17-09">2025-09-24 · 00:17:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-23-47">2026-07-22 · 00:24:10</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-33-04">2026-08-19 · 00:33:04</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -42,12 +42,14 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 <a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-17-09" style="--pulse-height:100%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 5 mentions" title="2025-09-24 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-28-10" style="--pulse-height:20%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-27-13" style="--pulse-height:20%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-47-19" style="--pulse-height:40%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-47-19" style="--pulse-height:20%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-14-31" style="--pulse-height:20%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-44-13" style="--pulse-height:20%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-37-39" style="--pulse-height:20%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 1 mentions" title="2026-03-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-16-59" style="--pulse-height:20%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-19-50" style="--pulse-height:80%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 4 mentions" title="2026-07-22 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-41-47" style="--pulse-height:40%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 2 mentions" title="2026-07-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-33-04" style="--pulse-height:20%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,12 +58,14 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 | 2025-09-24 | [BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242](/episodes/ep-QZWSsq8ZWzw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-17-09) | 5 |
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-28-10) | 1 |
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-27-13) | 1 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-47-19) | 2 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-47-19) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-14-31) | 1 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-44-13) | 1 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-37-39) | 1 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-16-59) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-19-50) | 4 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-41-47) | 2 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-33-04) | 1 |
 
 </details>
 </section>
@@ -69,7 +73,26 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
+
+**[00:33:04](/episodes/ep-9hRcfSrri70.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-33-04)**
+> "... he is also a minister at the Mormon church."
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (2 mentions)</summary>
+
+**[00:41:47](/episodes/ep-HZvwbfePe7o.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-41-47)**
+> "the Church of Latter-day Saints"
+
+**[00:42:13](/episodes/ep-HZvwbfePe7o.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-41-47)**
+> "... well, they prefer to say the Church of Latter-day Saints have a lot of questions, too, because they're in ..."
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (4 mentions)</summary>
@@ -121,13 +144,10 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 </details>
 
 <details>
-<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (2 mentions)</summary>
+<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
 
 **[00:47:32](/episodes/ep-HYn0P-P1wUw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-47-19)**
 > "It relates to the Mormon church,"
-
-**[00:47:36](/episodes/ep-HYn0P-P1wUw.md#ent-org-church-of-jesus-christ-of-latter-day-saints-t-00-47-19)**
-> "the Church of Latter-day Saints."
 
 </details>
 
@@ -209,7 +229,19 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Has Pastor (1)</summary>
+
+- **[Mike Mitchell](/entities/person-mike-mitchell.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:33:04](/episodes/ep-9hRcfSrri70.md#t-00-33-04): “He's describing Mike Mitchell. Mike Mitchell is not just his Boy Scout leader. He's not just the former police officer, undercover police officer, and all the evidence points to the fact that he did work undercover in sex crimes, which is a running theme in this story, but he is also a minister at the Mormon church.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (4)</summary>
 
 - **[Frank William Gay](/entities/person-frank-william-gay.md)** formerly member of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -232,12 +264,27 @@ Source: [The Church of Jesus Christ of Latter-day Saints — About Us](https://w
 
 </details>
 
+- **[Mike Mitchell](/entities/person-mike-mitchell.md)** pastor of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:33:04](/episodes/ep-9hRcfSrri70.md#t-00-33-04): “He's describing Mike Mitchell. Mike Mitchell is not just his Boy Scout leader. He's not just the former police officer, undercover police officer, and all the evidence points to the fact that he did work undercover in sex crimes, which is a running theme in this story, but he is also a minister at the Mormon church.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about The Church of Jesus Christ of Latter-day Saints (5)</strong></summary>
+<summary><strong class="section-title">Statements about The Church of Jesus Christ of Latter-day Saints (6)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1)</summary>
+
+- [00:33:04](/episodes/ep-9hRcfSrri70.md#t-00-33-04) (Claim) **Candace Owens**: ["Owens said all the evidence pointed to Mike Mitchell having worked und..."](/statements/statement-6a5e6f2df28f.md)
+  - Also about: [Mike Mitchell](/entities/person-mike-mitchell.md)
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (2)</summary>

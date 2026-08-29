@@ -15,7 +15,7 @@ object: "person-donald-trump"
 
 **[An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg)**
 
-- [00:25:48](/episodes/ep-ZIH5-V6UPkg#t-00-25-48): _Bibi Netanyahu, who was seated as an equal... Trump sat at the side of the table and Bibi was across from him as an equal in the American situation room._
+- [00:25:46](/episodes/ep-ZIH5-V6UPkg#t-00-25-46): _And so what led Trump? What, at 79 years old, to sit in there in that situation room when Bibi Netanyahu, who was seated as an equal, ... Trump sat at the side of the table and Bibi (Benjamin Netanyahu) was across from him as an equal in the American situation room._
 
 ### Related
 

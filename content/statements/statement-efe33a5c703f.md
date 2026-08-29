@@ -4,9 +4,10 @@ description: "\"Charlie Kirk wrote that he and Candace Owens were on the same te
 statement_id: "statement-efe33a5c703f"
 speaker: "Charlie Kirk"
 type: "opinion"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "opinion"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The transcript context contains Owens reading Kirk-attributed messages saying they were on the same team and that few would stand up to what he called the cabal. Verification is confined to the quoted opinion as presented in the source.
+
+**Confidence:** High
+
+**Sources:**
+
+- [EXCLUSIVE: Ben Shapiro's 9/10 Lunch Date — Candace Ep. 365 transcript](https://podcasts.happyscribe.com/candace/10-lunch-date-more-text-messages-from-charlie-kirk)
+
+*Verified: 2026-08-27T19:42:39.589196*
 
 ---
 

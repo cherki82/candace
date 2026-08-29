@@ -30,7 +30,7 @@ type: "factual_claim"
 **Timestamp:** [00:06:55](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(415);return false;">Play</a>
 
-> Andrew received a message the night before, and Dan Flood received a message the night before
+> Andrew (Andrew Kolvet) received a message the night before, and Dan (Dan Flood) received a message the night before.
 
 ## Verification
 

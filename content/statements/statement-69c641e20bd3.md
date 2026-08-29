@@ -31,7 +31,7 @@ veracity: "true"
 **Timestamp:** [00:47:49](/episodes/ep-eLgD5yUVbko.md#t-00-47-08) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2869);return false;">Play</a>
 
-> The state does not intend to offer evidence obtained through forensic stick extractions of electronics seized in this case. ... It does, however, intend to offer two exhibits which used cameras to record the contents of text messages.
+> The state does not intend to offer evidence obtained through forensic extractions of electronics seized in this case. ... It does, however, intend to offer two exhibits which used cameras to record the contents of text messages.
 
 ## Verification
 

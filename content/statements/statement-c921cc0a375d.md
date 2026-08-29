@@ -4,9 +4,10 @@ description: "\"Candace Owens accused Ben Shapiro of trying to stop Charlie Kirk
 statement_id: "statement-c921cc0a375d"
 speaker: "Candace Owens"
 type: "accusation"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -33,7 +34,20 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The source-scoped transcript context at approximately 00:07:05 records Owens accusing Shapiro of trying to stop Kirk's rise and causing him trouble. This verifies the conveyance only; no independent evidence established the underlying allegation.
+
+**Confidence:** High
+
+**Sources:**
+
+- [EXCLUSIVE: Ben Shapiro's 9/10 Lunch Date — Candace Ep. 365 transcript](https://podcasts.happyscribe.com/candace/10-lunch-date-more-text-messages-from-charlie-kirk)
+
+*Verified: 2026-08-27T19:42:39.589184*
 
 ---
 

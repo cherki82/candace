@@ -11,7 +11,7 @@ date: "2024-03-19"
 
 > Candace Owens fired from The Daily Wire
 
-## Mentioned In (5 times)
+## Mentioned In (6 times)
 
 ### 1. Another French Front: Did Charlie Kirk Save My Life? | Canda...
 
@@ -52,3 +52,11 @@ date: "2024-03-19"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(819);return false;">▶️ Play</a>
 
 > I've always told you guys the truth from the beginning that after that, when I got fired
+
+### 6. Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigan...
+
+**Episode:** [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md)
+**Timestamp:** [00:43:23](/episodes/ep-_cNtgris8Ik.md#event-event-2024-03-19-candace-owens-fired-from-the-daily-wire-t-00-43-23) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2603);return false;">▶️ Play</a>
+
+> i was fired in march of 2024 so how long are you trying to say that we weren't friends for

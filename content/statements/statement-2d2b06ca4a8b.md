@@ -29,7 +29,7 @@ veracity: "true"
 ## Source
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
-**Timestamp:** [00:32:32](/episodes/ep-HYn0P-P1wUw.md#t-00-32-26) 
+**Timestamp:** [00:32:32](/episodes/ep-HYn0P-P1wUw.md#t-00-32-20) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1952);return false;">Play</a>
 
 > in 2014, Senator David Farnsworth. introduced Erika (Erika Kirk)'s mother to the house floor with concerns over EMPs, okay? At the time, David Farnsworth was actually sponsoring the bill, a bill which would involve introducing Lori (Lori Frantzve), who was then the CEO of GTEC Industries. And Eddie Farnsworth is also listed as having voted on this particular bill.

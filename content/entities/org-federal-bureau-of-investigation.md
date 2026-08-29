@@ -23,12 +23,12 @@ _Type: Organizations_
 Source: [About - FBI](https://www.fbi.gov/about)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-federal-bureau-of-investigation-t-00-14-17">2026-01-05 · 00:14:50</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-federal-bureau-of-investigation-t-00-14-17">2026-01-05 · 00:14:44</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-org-federal-bureau-of-investigation-t-00-22-06">2026-07-20 · 00:22:39</a></strong></div>
 <div><span>Episodes</span><strong>19</strong></div>
 <div><span>Mentions</span><strong>55</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>30</strong></div>
+<div><span>Statements about</span><strong>29</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -341,11 +341,11 @@ Source: [About - FBI](https://www.fbi.gov/about)
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (2 mentions)</summary>
 
-**[00:14:50](/episodes/ep-OEAHy3SsIiI.md#ent-org-federal-bureau-of-investigation-t-00-14-17)**
+**[00:14:44](/episodes/ep-OEAHy3SsIiI.md#ent-org-federal-bureau-of-investigation-t-00-14-17)**
 > "you know, scandalous is like Kash Patel, the FBI director,"
 
-**[00:36:27](/episodes/ep-OEAHy3SsIiI.md#ent-org-federal-bureau-of-investigation-t-00-36-06)**
-> "... own thing out in langley the federal bureau of investigation they run the country the intel agencies run the c..."
+**[00:36:26](/episodes/ep-OEAHy3SsIiI.md#ent-org-federal-bureau-of-investigation-t-00-36-06)**
+> "We must understand: we have Congress, and they're just kind of like a peanut gallery. And then we have a super-government that exists above Congress: the Department of Defense, which is the Pentagon; the Central Intelligence Agency, which is its own thing out in Langley; the Federal Bureau of Investigation. They run the country. The intel agencies run the country. The..."
 
 </details>
 
@@ -452,7 +452,24 @@ Source: [About - FBI](https://www.fbi.gov/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Federal Bureau of Investigation (30)</strong></summary>
+<summary><strong class="section-title">Statements about Federal Bureau of Investigation (29)</strong></summary>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (4)</summary>
+
+- [00:15:05](/episodes/ep-4JxgOclKzqg.md#t-00-14-40) (Claim) **Andrew Kolvet** (via quoted speech): ["Andrew Kolvet said the SD cards Farnsworth removed were in the FBI's p..."](/statements/statement-80bc48bd9f7b.md)
+  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+
+- [00:31:17](/episodes/ep-4JxgOclKzqg.md#t-00-30-48) (Claim) **Candace Owens**: ["Owens said the Utah State Bureau of Investigation could ask the FBI to..."](/statements/statement-603f5577441d.md)
+  - Also about: [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md)
+
+- [00:32:04](/episodes/ep-4JxgOclKzqg.md#t-00-32-04) (Claim) **John Kiriakou** (via quoted speech): ["Kiriakou said that because a kid from Utah allegedly shot Charlie Kirk..."](/statements/statement-c34029d141ff.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+- [00:33:26](/episodes/ep-4JxgOclKzqg.md#t-00-33-14) (Accusation) **Candace Owens**: ["Owens said it was very strange that Kash Patel apparently shut down Jo..."](/statements/statement-b00f742e4138.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [Joe Kent](/entities/person-joe-kent.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (5)</summary>
@@ -573,25 +590,10 @@ Source: [About - FBI](https://www.fbi.gov/about)
 </details>
 
 <details>
-<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (6)</summary>
-
-- [00:07:07](/episodes/ep-HYn0P-P1wUw.md#t-00-06-45) (Accusation) **Candace Owens**: ["Federal investigators did not visit Cowboy Smokehouse to interview sta..."](/statements/statement-a8acb595a9d6.md)
-  - Also about: [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1)</summary>
 
 - [00:08:38](/episodes/ep-HYn0P-P1wUw.md#t-00-08-14) (Claim) **Candace Owens**: ["The FBI possesses the Cowboy Smokehouse receipt documenting Tyler Robi..."](/statements/statement-dff1d8971892.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Cowboy Smokehouse/Steakhouse](/entities/org-cowboy-smokehouse-steakhouse.md)
-
-- [00:14:53](/episodes/ep-HYn0P-P1wUw.md#t-00-14-33) (Accusation) **Candace Owens**: ["Federal investigators did not impound the SUV used to transport Charli..."](/statements/statement-37d5607a312a.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:15:04](/episodes/ep-HYn0P-P1wUw.md#t-00-14-33) (Accusation) **Candace Owens**: ["Federal investigators seized hospital cameras and blocked Dr. Lee Trot..."](/statements/statement-35ebb52a1ab1.md)
-  - Also about: [Lee Trotter](/entities/person-lee-trotter.md)
-
-- [00:16:33](/episodes/ep-HYn0P-P1wUw.md#t-00-15-58) (Accusation) **Candace Owens**: ["Bomb-detection dogs failed to find the recently fired weapon after Cha..."](/statements/statement-2e02a164197f.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:55:35](/episodes/ep-HYn0P-P1wUw.md#t-00-55-14) (Accusation) **Candace Owens**: ["Federal authorities are colluding with France to use Brigitte Macron's..."](/statements/statement-6246795a38fd.md)
-  - Also about: [Brigitte Macron](/entities/person-brigitte-macron.md), [France](/entities/gpe-france.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
 

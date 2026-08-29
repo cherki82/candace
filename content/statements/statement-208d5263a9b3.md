@@ -31,7 +31,7 @@ veracity: "mixed"
 **Timestamp:** [00:18:38](/episodes/ep-q1NRQQAYS_Q.md#t-00-18-38) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1118);return false;">Play</a>
 
-> They even share outdated videos and try to pretend that he's supporting the Iranian war, like they're getting fact checked on X because they're sharing outdated videos and misrepresenting Charlie's. ... these actual beliefs about the Iranian war
+> They even share outdated videos and try to pretend that he's supporting the Iranian war, like they're getting fact checked on X because they're sharing outdated videos and misrepresenting Charlie (Charlie Kirk)'s. ... these actual beliefs about the Iranian war
 
 ## Verification
 

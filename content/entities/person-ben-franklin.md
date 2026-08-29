@@ -5,11 +5,19 @@ id: "person-ben-franklin"
 type: "PERSON"
 aliases:
   - "Ben Franklin"
+categories:
+  - "historical political figure"
 ---
 
 _Type: People_
 
 **Also known as:** Ben Franklin
+
+**Categories:** historical political figure
+
+**Entity verification:** verified
+> Canonical name and identity for Benjamin Franklin confirmed by the cited direct external source.
+Source: [Benjamin Franklin](https://en.wikipedia.org/wiki/Benjamin_Franklin)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-person-ben-franklin-t-00-01-47">2025-11-21 · 00:01:54</a></strong></div>

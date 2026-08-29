@@ -32,7 +32,7 @@ type: "factual_claim"
 **Timestamp:** [00:31:28](/episodes/ep-es7PWdFGoFI.md#t-00-31-26) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1888);return false;">Play</a>
 
-> Erika said she was not aware of that happening
+> At which point Erika (Erika Kirk) said she was not aware of that happening.
 
 ## Verification
 

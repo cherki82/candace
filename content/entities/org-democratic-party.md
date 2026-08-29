@@ -1,6 +1,6 @@
 ---
 title: "Democratic Party"
-description: "Democratic Party (Organizations) - 14 mentions"
+description: "Democratic Party (Organizations) - 17 mentions"
 id: "org-democratic-party"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [Democratic National Committee](https://democrats.org/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-democratic-party-t-00-41-26">2026-01-05 · 00:41:26</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-org-democratic-party-t-00-06-56">2026-07-22 · 00:07:13</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-democratic-party-t-00-46-33">2026-08-21 · 00:46:33</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -38,6 +38,7 @@ Source: [Democratic National Committee](https://democrats.org/)
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-democratic-party-t-00-41-26" style="--pulse-height:33%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#t-00-13-34" style="--pulse-height:33%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#t-00-14-54" style="--pulse-height:33%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-democratic-party-t-00-34-48" style="--pulse-height:33%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-democratic-party-t-00-33-58" style="--pulse-height:67%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-69A8TzAGHlU.md#t-00-58-45" style="--pulse-height:33%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-democratic-party-t-01-40-08" style="--pulse-height:33%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
@@ -45,6 +46,8 @@ Source: [Democratic National Committee](https://democrats.org/)
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-democratic-party-t-00-22-56" style="--pulse-height:33%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#t-00-04-57" style="--pulse-height:33%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-org-democratic-party-t-00-06-56" style="--pulse-height:33%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-org-democratic-party-t-00-41-11" style="--pulse-height:33%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-org-democratic-party-t-00-46-33" style="--pulse-height:33%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -53,6 +56,7 @@ Source: [Democratic National Committee](https://democrats.org/)
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-democratic-party-t-00-41-26) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#t-00-13-34) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#t-00-14-54) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-democratic-party-t-00-34-48) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-democratic-party-t-00-33-58) | 2 |
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#t-00-58-45) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-org-democratic-party-t-01-40-08) | 1 |
@@ -60,6 +64,8 @@ Source: [Democratic National Committee](https://democrats.org/)
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-org-democratic-party-t-00-22-56) | 1 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#t-00-04-57) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-democratic-party-t-00-06-56) | 1 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-org-democratic-party-t-00-41-11) | 1 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-democratic-party-t-00-46-33) | 1 |
 
 </details>
 </section>
@@ -67,7 +73,23 @@ Source: [Democratic National Committee](https://democrats.org/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
+
+**[00:46:33](/episodes/ep-_cNtgris8Ik.md#ent-org-democratic-party-t-00-46-33)**
+> "...waking Black people up to the Democratic Party and some of the lies, you know, this constantly b..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
+
+**[00:41:11](/episodes/ep-9hRcfSrri70.md#ent-org-democratic-party-t-00-41-11)**
+> "...re is Satanism on both sides, Democrats and Republican, a minor few who rule over us and ..."
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
@@ -135,6 +157,14 @@ Source: [Democratic National Committee](https://democrats.org/)
 </details>
 
 <details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
+
+**[00:34:48](/episodes/ep-ZIH5-V6UPkg.md#ent-org-democratic-party-t-00-34-48)**
+> "...os. You're going to cause the Democrats to take the House and the Senate, and you are end..."
+
+</details>
+
+<details>
 <summary>Myron Gaines x Candace Owens (1 mentions)</summary>
 
 **[00:14:54](/episodes/ep-2T39-oADLj0.md#t-00-14-54)**
@@ -168,7 +198,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Democratic Party (4)</strong></summary>
+<summary><strong class="section-title">Statements about Democratic Party (5)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1)</summary>
+
+- [00:38:17](/episodes/ep-9hRcfSrri70.md#t-00-37-43) (Accusation) **Candace Owens**: ["Owens suggested January 6 could allegedly have been coordinated by 'th..."](/statements/statement-fc88d34a6bfc.md)
+  - Also about: [January 6th](/entities/event-january-6th.md), [Republican Party](/entities/org-republican-party.md)
+
+</details>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1)</summary>

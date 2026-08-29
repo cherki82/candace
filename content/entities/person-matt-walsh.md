@@ -1,6 +1,6 @@
 ---
 title: "Matt Walsh"
-description: "Matt Walsh (People) - 28 mentions"
+description: "Matt Walsh (People) - 35 mentions"
 id: "person-matt-walsh"
 type: "PERSON"
 categories:
@@ -18,36 +18,38 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-matt-walsh-t-00-13-03">2025-10-08 · 00:13:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-matt-walsh-t-00-22-40">2026-07-21 · 00:22:40</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>28</strong></div>
-<div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-matt-walsh-t-00-43-21">2026-08-07 · 00:43:55</a></strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
+<div><span>Statements by</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-matt-walsh-t-00-52-05">REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-matt-walsh-t-00-35-59">A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-matt-walsh-t-00-13-03" style="--pulse-height:50%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 2 mentions" title="2025-10-08 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-matt-walsh-t-00-52-05" style="--pulse-height:100%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 4 mentions" title="2025-10-09 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-matt-walsh-t-00-19-50" style="--pulse-height:75%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 3 mentions" title="2025-11-03 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-matt-walsh-t-00-30-42" style="--pulse-height:25%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-matt-walsh-t-00-36-46" style="--pulse-height:50%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 2 mentions" title="2025-12-12 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-matt-walsh-t-00-31-00" style="--pulse-height:50%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-matt-walsh-t-00-44-50" style="--pulse-height:25%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-cZxHqYsWRYg.md#ent-person-matt-walsh-t-01-00-26" style="--pulse-height:25%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-matt-walsh-t-00-51-19" style="--pulse-height:25%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-matt-walsh-t-00-00-28" style="--pulse-height:75%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 3 mentions" title="2026-03-18 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-matt-walsh-t-00-19-00" style="--pulse-height:25%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-matt-walsh-t-00-10-44" style="--pulse-height:50%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 2 mentions" title="2026-05-04 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-matt-walsh-t-00-35-32" style="--pulse-height:25%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-matt-walsh-t-00-21-55" style="--pulse-height:25%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-matt-walsh-t-00-42-32" style="--pulse-height:25%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-matt-walsh-t-01-00-30" style="--pulse-height:25%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-matt-walsh-t-00-22-40" style="--pulse-height:25%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-matt-walsh-t-00-13-03" style="--pulse-height:33%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 2 mentions" title="2025-10-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-matt-walsh-t-00-52-05" style="--pulse-height:67%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 4 mentions" title="2025-10-09 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-matt-walsh-t-00-19-50" style="--pulse-height:50%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 3 mentions" title="2025-11-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-matt-walsh-t-00-30-42" style="--pulse-height:17%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-6J6lRZPQ4jk.md#ent-person-matt-walsh-t-00-36-46" style="--pulse-height:33%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 2 mentions" title="2025-12-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-matt-walsh-t-00-31-00" style="--pulse-height:33%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-matt-walsh-t-00-44-50" style="--pulse-height:17%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-person-matt-walsh-t-01-00-26" style="--pulse-height:17%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-matt-walsh-t-00-51-19" style="--pulse-height:17%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-matt-walsh-t-00-00-28" style="--pulse-height:50%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 3 mentions" title="2026-03-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-matt-walsh-t-00-19-00" style="--pulse-height:17%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-matt-walsh-t-00-10-44" style="--pulse-height:33%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 2 mentions" title="2026-05-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-matt-walsh-t-00-35-32" style="--pulse-height:17%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-matt-walsh-t-00-21-55" style="--pulse-height:17%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-matt-walsh-t-00-42-32" style="--pulse-height:17%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-matt-walsh-t-01-00-30" style="--pulse-height:17%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-matt-walsh-t-00-22-40" style="--pulse-height:17%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-person-matt-walsh-t-00-07-31" style="--pulse-height:17%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-matt-walsh-t-00-35-59" style="--pulse-height:100%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 6 mentions" title="2026-08-07 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -70,6 +72,8 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-matt-walsh-t-00-42-32) | 1 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-matt-walsh-t-01-00-30) | 1 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-matt-walsh-t-00-22-40) | 1 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-matt-walsh-t-00-07-31) | 1 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-person-matt-walsh-t-00-35-59) | 6 |
 
 </details>
 </section>
@@ -77,7 +81,38 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (6 mentions)</summary>
+
+**[00:36:25](/episodes/ep-d7VsbEIWkP8.md#ent-person-matt-walsh-t-00-35-59)**
+> "Matt Walsh"
+
+**[00:38:38](/episodes/ep-d7VsbEIWkP8.md#ent-person-matt-walsh-t-00-38-38)**
+> "...w people are living. So Matt (Matt Walsh) responds to Joel (Joel Berry) and he says,"
+
+**[00:40:03](/episodes/ep-d7VsbEIWkP8.md#ent-person-matt-walsh-t-00-40-03)**
+> "...unny about this is that Matt (Matt Walsh) obviously alludes to the fact that it just shows..."
+
+**[00:40:32](/episodes/ep-d7VsbEIWkP8.md#ent-person-matt-walsh-t-00-40-32)**
+> "...en it's problematic when when matt walsh says the same thing and keeps the same energy no ..."
+
+**[00:43:47](/episodes/ep-d7VsbEIWkP8.md#ent-person-matt-walsh-t-00-43-21)**
+> "forced Matt (Matt Walsh)'s point about how much things have shifted over ..."
+
+**[00:43:55](/episodes/ep-d7VsbEIWkP8.md#ent-person-matt-walsh-t-00-43-21)**
+> "...dterms. I have a feeling that Matt Walsh is going to be proven correct."
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:07:38](/episodes/ep-ChuWo-n49B8.md#ent-person-matt-walsh-t-00-07-31)**
+> "If this was like Matt Walsh during what is a woman documentary"
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>
@@ -318,7 +353,24 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Matt Walsh (2)</strong></summary>
+<summary><strong class="section-title">Statements by Matt Walsh (6)</strong></summary>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (4)</summary>
+
+- [00:36:25](/episodes/ep-d7VsbEIWkP8.md#t-00-35-59) [✓] (Claim) ["Matt Walsh wrote that grocery prices were 'insane' and still rising."](/statements/statement-032b3f7a8fca.md)
+  - About: [Matt Walsh](/entities/person-matt-walsh.md)
+
+- [00:36:33](/episodes/ep-d7VsbEIWkP8.md#t-00-35-59) [✓] (Opinion) ["Matt Walsh wrote that addressing grocery prices should be every elected leader's..."](/statements/statement-c9aaa8ecedba.md)
+  - About: [Matt Walsh](/entities/person-matt-walsh.md)
+
+- [00:39:07](/episodes/ep-d7VsbEIWkP8.md#t-00-39-07) [✓] (Claim) ["Matt Walsh wrote that grocery prices had gone up 30 or more during the decade an..."](/statements/statement-7defeb81eabe.md)
+  - About: [Matt Walsh](/entities/person-matt-walsh.md)
+
+- [00:39:34](/episodes/ep-d7VsbEIWkP8.md#t-00-39-34) [✓] (Prediction) ["Matt Walsh predicted that conservatives would be 'absolutely crushed' if their a..."](/statements/statement-6eec26271004.md)
+  - About: [Matt Walsh](/entities/person-matt-walsh.md), [Republican Party](/entities/org-republican-party.md)
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Red Sparrow | Episode 8 (1)</summary>
@@ -338,7 +390,21 @@ Source: [The Daily Wire — Matt Walsh author page](https://www.dailywire.com/au
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Matt Walsh (2)</strong></summary>
+<summary><strong class="section-title">Statements about Matt Walsh (6)</strong></summary>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (4)</summary>
+
+- [00:36:25](/episodes/ep-d7VsbEIWkP8.md#t-00-35-59) (Claim) **Matt Walsh** (via quoted tweet): ["Matt Walsh wrote that grocery prices were 'insane' and still rising."](/statements/statement-032b3f7a8fca.md)
+
+- [00:36:33](/episodes/ep-d7VsbEIWkP8.md#t-00-35-59) (Opinion) **Matt Walsh** (via quoted tweet): ["Matt Walsh wrote that addressing grocery prices should be every electe..."](/statements/statement-c9aaa8ecedba.md)
+
+- [00:39:07](/episodes/ep-d7VsbEIWkP8.md#t-00-39-07) (Claim) **Matt Walsh** (via quoted tweet): ["Matt Walsh wrote that grocery prices had gone up 30 or more during the..."](/statements/statement-7defeb81eabe.md)
+
+- [00:39:34](/episodes/ep-d7VsbEIWkP8.md#t-00-39-34) (Prediction) **Matt Walsh** (via quoted tweet): ["Matt Walsh predicted that conservatives would be 'absolutely crushed' ..."](/statements/statement-6eec26271004.md)
+  - Also about: [Republican Party](/entities/org-republican-party.md)
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1)</summary>

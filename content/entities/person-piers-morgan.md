@@ -1,6 +1,6 @@
 ---
 title: "Piers Morgan"
-description: "Piers Morgan (People) - 23 mentions"
+description: "Piers Morgan (People) - 33 mentions"
 id: "person-piers-morgan"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-person-piers-morgan-t-01-01-35">2025-10-06 · 01:01:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-piers-morgan-t-00-25-12">2026-04-10 · 00:25:39</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-piers-morgan-t-01-10-52">2026-08-17 · 01:11:23</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>33</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>14</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -43,6 +43,9 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-person-piers-morgan-t-00-17-11" style="--pulse-height:38%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 3 mentions" title="2026-02-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-piers-morgan-t-00-03-32" style="--pulse-height:38%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 3 mentions" title="2026-03-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-person-piers-morgan-t-00-25-12" style="--pulse-height:12%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-person-piers-morgan-t-00-00-26" style="--pulse-height:88%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 7 mentions" title="2026-08-06 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-person-piers-morgan-t-00-34-58" style="--pulse-height:12%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-piers-morgan-t-01-10-52" style="--pulse-height:25%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 2 mentions" title="2026-08-17 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +59,9 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-person-piers-morgan-t-00-17-11) | 3 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-piers-morgan-t-00-03-32) | 3 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-person-piers-morgan-t-00-25-12) | 1 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-piers-morgan-t-00-00-26) | 7 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-person-piers-morgan-t-00-34-58) | 1 |
+| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-person-piers-morgan-t-01-10-52) | 2 |
 
 </details>
 </section>
@@ -63,7 +69,52 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (2 mentions)</summary>
+
+**[01:11:17](/episodes/ep-E7P2ShoYDUA.md#ent-person-piers-morgan-t-01-10-52)**
+> "I always do my annual debates with Piers Morgan. They're for free. Been debating all across college campus."
+
+**[01:11:23](/episodes/ep-E7P2ShoYDUA.md#ent-person-piers-morgan-t-01-10-52)**
+> "...hmuley, who I can't stand, on Piers Morgan for free."
+
+</details>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
+
+**[00:34:58](/episodes/ep-HGtMfbePDKk.md#ent-person-piers-morgan-t-00-34-58)**
+> "...around to call Candace out on Piers Morgan and Joe Rogan and so the public can take from tha..."
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (7 mentions)</summary>
+
+**[00:00:26](/episodes/ep-ChuWo-n49B8.md#ent-person-piers-morgan-t-00-00-26)**
+> "Piers Morgan interviewed one of her spiritual advisors Victor Marx"
+
+**[00:00:53](/episodes/ep-ChuWo-n49B8.md#ent-person-piers-morgan-t-00-00-53)**
+> "From Piers (Piers Morgan) has sort of landed upon the same conclusion that..."
+
+**[00:43:45](/episodes/ep-ChuWo-n49B8.md#ent-person-piers-morgan-t-00-43-45)**
+> "...ou keep telling me it is well Piers Morgan interviewed Victor Marx and tweeted that it was o..."
+
+**[00:44:12](/episodes/ep-ChuWo-n49B8.md#ent-person-piers-morgan-t-00-44-12)**
+> "... like this is the door Piers (Piers Morgan) this is what we're saying TPUSA faith is somethi..."
+
+**[00:47:24](/episodes/ep-ChuWo-n49B8.md#ent-person-piers-morgan-t-00-47-24)**
+> "...p and yeah like i said Piers (Piers Morgan), keep going because we've done a lot of work on ..."
+
+**[00:47:30](/episodes/ep-ChuWo-n49B8.md#ent-person-piers-morgan-t-00-47-24)**
+> "like I said Piers (Piers Morgan), keep going because we've done a lot of work on ..."
+
+**[00:48:14](/episodes/ep-ChuWo-n49B8.md#ent-person-piers-morgan-t-00-47-58)**
+> "Yeah. Keep going, Piers (Piers Morgan). I think eventually you will start to realize wh..."
+
+</details>
 
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
@@ -180,6 +231,18 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Criticized (1)</summary>
+
+- **[Victor Marx](/entities/person-victor-marx.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:43:45](/episodes/ep-ChuWo-n49B8.md#t-00-43-45): “a perfect segue by the way into Victor Marx one of Erika's (Erika Kirk) spiritual advisors we all get the ick we all know something's wrong it's like we listen to Frank Turek we just go this doesn't feel godly but you keep telling me it is well Piers Morgan interviewed Victor Marx and tweeted that it was one of the most bizarre interviews of his career yeah well what's funny about this is Piers Morgan has been hosting people attacking me as he always does uh saying i'm wrong Erika (Erika Kirk) is the widow he always accepts the slop up”
+
+</details>
+
+</details>
+
+<details>
 <summary>Criticized By (1)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)**
@@ -192,7 +255,19 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 </details>
 
 <details>
-<summary>Interviewed (3)</summary>
+<summary>Debated (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 01:11:17](/episodes/ep-E7P2ShoYDUA.md#t-01-10-52): “I always do my annual debates with Piers Morgan. They're for free. Been debating all across college campus.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Interviewed (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -213,19 +288,40 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:19:38](/episodes/ep-ti5Fxrvegno.md#t-00-19-38): “And just on Candace Owens, you've been very supportive of her, not critical”
-- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:25:39](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-12): “Who is guiding that? Meghan Kelly is asking the right questions on Piers Morgan. Take a listen.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:25:39](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-12): “Who is guiding that? Megyn Kelly is asking the right questions on Piers Morgan. Take a listen.”
+
+</details>
+
+- **[Victor Marx](/entities/person-victor-marx.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:00:26](/episodes/ep-ChuWo-n49B8.md#t-00-00-26): “don't watch it and i said okay then my husband said do not watch it after he saw it i can't even watch scary movies i've shared that with you i'm very like spiritually sensitive to that stuff i can't i can hardly make it through an Erika Kirk interview speaking of which in hilarious news Piers Morgan interviewed one of her spiritual advisors Victor Marx man that we interviewed and Piers Morgan is very confused this man who summons angels and demons into the room”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (4)</summary>
+<summary>Referenced By (7)</summary>
 
 - **[Ben Shapiro](/entities/person-ben-shapiro.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 @ 00:04:46](/episodes/ep-k8ueJdPFel4.md#t-00-04-16): “He calls Megyn Kelly a coward and Piers Morgan a clickbait whore or something. And what is their crime?”
+
+</details>
+
+- **[Victor Marx](/entities/person-victor-marx.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:43:45](/episodes/ep-ChuWo-n49B8.md#t-00-43-45): “a perfect segue by the way into Victor Marx one of Erika's (Erika Kirk) spiritual advisors we all get the ick we all know something's wrong it's like we listen to Frank Turek we just go this doesn't feel godly but you keep telling me it is well Piers Morgan interviewed Victor Marx and tweeted that it was one of the most bizarre interviews of his career yeah well what's funny about this is Piers Morgan has been hosting people attacking me as he always does uh saying i'm wrong Erika (Erika Kirk) is the widow he always accepts the slop up”
+
+</details>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** debated this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 01:11:17](/episodes/ep-E7P2ShoYDUA.md#t-01-10-52): “I always do my annual debates with Piers Morgan. They're for free. Been debating all across college campus.”
 
 </details>
 
@@ -248,7 +344,14 @@ Source: [Piers Morgan | Official Website](https://www.piersmorgan.com/)
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305 @ 00:19:38](/episodes/ep-ti5Fxrvegno.md#t-00-19-38): “And just on Candace Owens, you've been very supportive of her, not critical”
-- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:25:39](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-12): “Who is guiding that? Meghan Kelly is asking the right questions on Piers Morgan. Take a listen.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:25:39](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-12): “Who is guiding that? Megyn Kelly is asking the right questions on Piers Morgan. Take a listen.”
+
+</details>
+
+- **[Victor Marx](/entities/person-victor-marx.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:00:26](/episodes/ep-ChuWo-n49B8.md#t-00-00-26): “don't watch it and i said okay then my husband said do not watch it after he saw it i can't even watch scary movies i've shared that with you i'm very like spiritually sensitive to that stuff i can't i can hardly make it through an Erika Kirk interview speaking of which in hilarious news Piers Morgan interviewed one of her spiritual advisors Victor Marx man that we interviewed and Piers Morgan is very confused this man who summons angels and demons into the room”
 
 </details>
 

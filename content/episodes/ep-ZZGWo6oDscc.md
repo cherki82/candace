@@ -325,7 +325,7 @@ youtube_url: "https://www.youtube.com/watch?v=ZZGWo6oDscc"
   - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [United States Army](/entities/org-united-states-army.md), [Psychological operations](/entities/concept-psychological-operations.md)
 - [00:28:47](#t-00-28-05) [○] (Accusation) **Mitch Snow**: ["Mitch Snow said he saw Erika Kirk leave the Candlewood Suites hotel at Fort Huac..."](/statements/statement-c5db04c0161f.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Cabot Phillips](/entities/person-cabot-phillips.md), [Candlewood Suites Building 44420](/entities/gpe-candlewood-suites-fort-huachuca.md)
-- [00:28:47](#t-00-28-05) [○] (Accusation) **Mitch Snow**: ["Mitch Snow said he was completely certain he saw Brian Harpole at a senior-level..."](/statements/statement-f6873a467bc9.md)
+- [00:28:47](#t-00-28-05) [○] (Accusation) **Mitch Snow**: ["Mitch Snow was described by Candace Owens as 'basically 100% certain' that he sa..."](/statements/statement-f6873a467bc9.md)
   - About: [Brian Harpole](/entities/person-brian-harpole.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 - [00:30:47](#t-00-30-03) [◐] (Claim) **Candace Owens**: ["Peer-reviewed studies identified direct connections between antiparasitic medica..."](/statements/statement-bad3e03873d9.md)
 - [00:31:08](#t-00-30-47) [✓] (Citation) **Candace Owens**: ["The CDC has admitted that millions of Americans suffer parasitic infections that..."](/statements/statement-468ada009e16.md)

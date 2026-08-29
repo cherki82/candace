@@ -1,6 +1,6 @@
 ---
 title: "Japan"
-description: "Japan (Places) - 23 mentions"
+description: "Japan (Places) - 24 mentions"
 id: "gpe-japan"
 type: "GPE"
 aliases:
@@ -22,11 +22,11 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-gpe-japan-t-00-46-48">2025-11-06 · 00:46:52</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-gpe-japan-t-01-01-23">2026-05-06 · 01:01:23</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-japan-t-00-20-04">2026-08-03 · 00:20:15</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -44,6 +44,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-japan-t-00-26-28" style="--pulse-height:20%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-japan-t-00-20-16" style="--pulse-height:20%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-gpe-japan-t-01-01-23" style="--pulse-height:20%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-japan-t-00-20-04" style="--pulse-height:20%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -58,6 +59,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-japan-t-00-26-28) | 1 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-japan-t-00-20-16) | 1 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-japan-t-01-01-23) | 1 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-gpe-japan-t-00-20-04) | 1 |
 
 </details>
 </section>
@@ -65,7 +67,15 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
+
+**[00:20:15](/episodes/ep-AH1KVKkweUE.md#ent-gpe-japan-t-00-20-04)**
+> "...loyed in humanitarian work in Japan for the Marines before he arrived into Utah."
+
+</details>
 
 <details>
 <summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1 mentions)</summary>
@@ -191,7 +201,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Japan (3)</strong></summary>
+<summary><strong class="section-title">Statements about Japan (4)</strong></summary>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1)</summary>
+
+- [00:19:57](/episodes/ep-AH1KVKkweUE.md#t-00-19-22) (Citation) **Candace Owens**: ["Owens said Robertson's LinkedIn listed him as a Marine Corps marksmans..."](/statements/statement-b0e6dd9b87ec.md)
+  - Also about: [Alan Edward Robertson](/entities/person-alan-edward-robertson.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md), [Afghanistan](/entities/gpe-afghanistan.md)
+
+</details>
 
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (1)</summary>

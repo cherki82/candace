@@ -3,9 +3,17 @@ title: "David Hogg"
 description: "David Hogg (People) - 6 mentions"
 id: "person-david-hogg"
 type: "PERSON"
+categories:
+  - "political activist"
 ---
 
 _Type: People_
+
+**Categories:** political activist
+
+**Entity verification:** verified
+> Canonical name and identity for David Hogg confirmed by the cited direct external source.
+Source: [David Hogg](https://en.wikipedia.org/wiki/David_Hogg)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-person-david-hogg-t-00-00-00">2025-10-06 · 00:00:00</a></strong></div>

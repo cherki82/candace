@@ -1,6 +1,6 @@
 ---
 title: "United States Congress"
-description: "United States Congress (Organizations) - 28 mentions"
+description: "United States Congress (Organizations) - 30 mentions"
 id: "org-united-states-congress"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-united-states-congress-t-00-30-27">2025-09-15 · 00:30:36</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-19vHhjF7-NA.md#ent-org-united-states-congress-t-00-11-23">2026-06-11 · 00:11:23</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>28</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-org-united-states-congress-t-01-02-03">2026-08-06 · 01:02:29</a></strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
+<div><span>Mentions</span><strong>30</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -44,6 +44,7 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-united-states-congress-t-00-13-15" style="--pulse-height:33%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-united-states-congress-t-00-14-05" style="--pulse-height:67%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-united-states-congress-t-00-03-53" style="--pulse-height:33%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-united-states-congress-t-00-36-06" style="--pulse-height:33%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-united-states-congress-t-00-43-53" style="--pulse-height:67%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-org-united-states-congress-t-00-40-47" style="--pulse-height:33%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-united-states-congress-t-00-53-21" style="--pulse-height:33%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
@@ -57,6 +58,7 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-united-states-congress-t-00-11-23" style="--pulse-height:67%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-org-united-states-congress-t-00-05-57" style="--pulse-height:67%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-org-united-states-congress-t-00-00-01" style="--pulse-height:67%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 2 mentions" title="2026-06-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-org-united-states-congress-t-01-02-03" style="--pulse-height:33%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -69,6 +71,7 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-org-united-states-congress-t-00-13-15) | 1 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-org-united-states-congress-t-00-14-05) | 2 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-united-states-congress-t-00-03-53) | 1 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-united-states-congress-t-00-36-06) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-united-states-congress-t-00-43-53) | 2 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-united-states-congress-t-00-40-47) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-united-states-congress-t-00-53-21) | 1 |
@@ -82,6 +85,7 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-united-states-congress-t-00-11-23) | 2 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-united-states-congress-t-00-05-57) | 2 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-org-united-states-congress-t-00-00-01) | 2 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-org-united-states-congress-t-01-02-03) | 1 |
 
 </details>
 </section>
@@ -89,7 +93,15 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[01:02:29](/episodes/ep-ChuWo-n49B8.md#ent-org-united-states-congress-t-01-02-03)**
+> "We need laws passed in Congress."
+
+</details>
 
 <details>
 <summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (2 mentions)</summary>
@@ -213,6 +225,14 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 
 **[00:50:07](/episodes/ep-ZZGWo6oDscc.md#ent-org-united-states-congress-t-00-49-46)**
 > "standing ovations at Congress."
+
+</details>
+
+<details>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
+
+**[00:36:26](/episodes/ep-OEAHy3SsIiI.md#ent-org-united-states-congress-t-00-36-06)**
+> "We must understand: we have Congress, and they're just kind of like a peanut gallery. ..."
 
 </details>
 

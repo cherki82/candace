@@ -1,6 +1,6 @@
 ---
 title: "Michael Knowles"
-description: "Michael Knowles (People) - 19 mentions"
+description: "Michael Knowles (People) - 24 mentions"
 id: "person-michael-knowles"
 type: "PERSON"
 categories:
@@ -18,11 +18,11 @@ Source: [Michael Knowles — The Daily Wire](https://www.dailywire.com/author/mi
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#ent-person-michael-knowles-t-00-34-06">2025-09-23 · 00:34:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-michael-knowles-t-00-26-33">2026-08-14 · 00:26:59</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>19</strong></div>
-<div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-michael-knowles-t-00-47-14">2026-08-21 · 00:47:38</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>24</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -41,7 +41,12 @@ Source: [Michael Knowles — The Daily Wire](https://www.dailywire.com/author/mi
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-michael-knowles-t-00-20-19" style="--pulse-height:14%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-michael-knowles-t-00-19-27" style="--pulse-height:14%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-person-michael-knowles-t-00-21-55" style="--pulse-height:14%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-michael-knowles-t-00-36-19" style="--pulse-height:14%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-person-michael-knowles-t-00-30-28" style="--pulse-height:14%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-michael-knowles-t-00-26-33" style="--pulse-height:14%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-michael-knowles-t-00-02-20" style="--pulse-height:14%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-michael-knowles-t-00-06-47" style="--pulse-height:14%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-person-michael-knowles-t-00-47-14" style="--pulse-height:14%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,7 +62,12 @@ Source: [Michael Knowles — The Daily Wire](https://www.dailywire.com/author/mi
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-michael-knowles-t-00-20-19) | 1 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-michael-knowles-t-00-19-27) | 1 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-person-michael-knowles-t-00-21-55) | 1 |
+| 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-person-michael-knowles-t-00-36-19) | 1 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-person-michael-knowles-t-00-30-28) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-michael-knowles-t-00-26-33) | 1 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-michael-knowles-t-00-02-20) | 1 |
+| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-person-michael-knowles-t-00-06-47) | 1 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-michael-knowles-t-00-47-14) | 1 |
 
 </details>
 </section>
@@ -65,13 +75,53 @@ Source: [Michael Knowles — The Daily Wire](https://www.dailywire.com/author/mi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (19)</strong></summary>
+<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
+
+**[00:47:38](/episodes/ep-_cNtgris8Ik.md#ent-person-michael-knowles-t-00-47-14)**
+> "I then called Michael Knowles and asked him if he would sub for me. And I was u..."
+
+</details>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1 mentions)</summary>
+
+**[00:07:02](/episodes/ep-E7P2ShoYDUA.md#ent-person-michael-knowles-t-00-06-47)**
+> "Andrew (Andrew Wilson) then calls PBD (Patrick Bet-David) and asks him to moderate because Michael Knowles said that he wasn't going to moderate."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:26:59](/episodes/ep-nPhCKwJ6ye8.md#ent-person-michael-knowles-t-00-26-33)**
 > "kudos to Michael Knowles. Your name was mentioned a lot. You missed that r..."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (1 mentions)</summary>
+
+**[00:02:20](/episodes/ep-aPOyk1i2LOc.md#ent-person-michael-knowles-t-00-02-20)**
+> "...ith that being said, kudos to Michael Knowles. Your name was mentioned a lot. You missed that r..."
+
+</details>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
+
+**[00:30:28](/episodes/ep-HGtMfbePDKk.md#ent-person-michael-knowles-t-00-30-28)**
+> "... know that his first pick was Michael Knowles. Michael Knowles politely declined on his own sho..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>
+
+**[00:36:19](/episodes/ep-5zgkrOaCCj4.md#ent-person-michael-knowles-t-00-36-19)**
+> "a second pick Michael Knowles declined to do it respectfully as i knew he would..."
 
 </details>
 
@@ -253,7 +303,15 @@ Source: [Michael Knowles — The Daily Wire](https://www.dailywire.com/author/mi
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Michael Knowles (1)</strong></summary>
+<summary><strong class="section-title">Statements by Michael Knowles (2)</strong></summary>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1)</summary>
+
+- [00:31:19](/episodes/ep-HGtMfbePDKk.md#t-00-31-19) [✓] (Claim) ["Michael Knowles said that after serious consideration he was declining the invit..."](/statements/statement-83a2f8d422dc.md)
+  - About: [Michael Knowles](/entities/person-michael-knowles.md), [Candace Owens](/entities/person-candace-owens.md), [Andrew Wilson](/entities/person-andrew-wilson.md)
+
+</details>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1)</summary>
@@ -266,7 +324,31 @@ Source: [Michael Knowles — The Daily Wire](https://www.dailywire.com/author/mi
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Michael Knowles (2)</strong></summary>
+<summary><strong class="section-title">Statements about Michael Knowles (5)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
+
+- [00:45:56](/episodes/ep-_cNtgris8Ik.md#t-00-45-56) (Claim) **Candace Owens**: ["Owens said the France trip was the only event she ever canceled with T..."](/statements/statement-e25d5c54d462.md)
+  - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Kanye West](/entities/person-kanye-west.md)
+
+</details>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1)</summary>
+
+- [00:07:02](/episodes/ep-E7P2ShoYDUA.md#t-00-06-47) (Claim) **Candace Owens**: ["Andrew Wilson called Patrick Bet-David to moderate after Michael Knowl..."](/statements/statement-0d17c0f89589.md)
+  - Also about: [Andrew Wilson](/entities/person-andrew-wilson.md), [Patrick Bet-David](/entities/person-patrick-bet-david.md)
+
+</details>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1)</summary>
+
+- [00:31:19](/episodes/ep-HGtMfbePDKk.md#t-00-31-19) (Claim) **Michael Knowles** (via quoted speech): ["Michael Knowles said that after serious consideration he was declining..."](/statements/statement-83a2f8d422dc.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Andrew Wilson](/entities/person-andrew-wilson.md)
+
+</details>
 
 <details>
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>

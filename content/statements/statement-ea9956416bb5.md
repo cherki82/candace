@@ -29,7 +29,7 @@ type: "opinion"
 **Timestamp:** [00:25:10](/episodes/ep-9k2xrAC0H88.md#t-00-25-03) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1510);return false;">Play</a>
 
-> I have been wondering why Dan Bongino has been silent, I would say effectively silent on the Charlie Kirk situation. He has not been a part of the people that have been feeding us trash
+> I have been wondering why Dan (Dan Bongino) has been silent, I would say effectively silent on the Charlie Kirk situation. He has not been a part of the people that have been feeding us trash.
 
 ## Verification
 

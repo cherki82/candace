@@ -4,9 +4,10 @@ description: "\"Candace Owens claimed that less than 24 hours before Charlie Kir
 statement_id: "statement-cda1f7489271"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -34,7 +35,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The transcript context records Owens making exactly this claim about Kirk's position and messages shortly before his death. The result verifies that Owens made the claim; externally available reporting describes alleged leaked texts but does not independently authenticate every summarized message or timing detail.
+
+**Confidence:** High
+
+**Sources:**
+
+- [EXCLUSIVE: Ben Shapiro's 9/10 Lunch Date — Candace Ep. 365 transcript](https://podcasts.happyscribe.com/candace/10-lunch-date-more-text-messages-from-charlie-kirk)
+
+*Verified: 2026-08-27T19:42:39.589202*
 
 ---
 

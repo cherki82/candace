@@ -31,7 +31,7 @@ type: "factual_claim"
 **Timestamp:** [00:07:07](/episodes/ep-es7PWdFGoFI.md#t-00-06-43) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(427);return false;">Play</a>
 
-> the message that Dan received said the left is going to kill me
+> clarified that the message that Dan (Dan Flood) received said the left is going to kill me.
 
 ## Verification
 

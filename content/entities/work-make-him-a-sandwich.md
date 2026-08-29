@@ -1,6 +1,6 @@
 ---
 title: "Make Him a Sandwich"
-description: "Make Him a Sandwich (Works & Media) - 80 mentions"
+description: "Make Him a Sandwich (Works & Media) - 83 mentions"
 id: "work-make-him-a-sandwich"
 type: "WORK"
 aliases:
@@ -25,9 +25,9 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-work-make-him-a-sandwich-t-00-49-29">2025-10-27 · 00:49:41</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-work-make-him-a-sandwich-t-00-53-34">2026-07-16 · 00:53:34</a></strong></div>
-<div><span>Episodes</span><strong>50</strong></div>
-<div><span>Mentions</span><strong>80</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-work-make-him-a-sandwich-t-01-08-55">2026-08-21 · 01:09:05</a></strong></div>
+<div><span>Episodes</span><strong>52</strong></div>
+<div><span>Mentions</span><strong>83</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -60,7 +60,6 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-work-make-him-a-sandwich-t-00-42-12" style="--pulse-height:50%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-work-make-him-a-sandwich-t-00-54-53" style="--pulse-height:25%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-work-make-him-a-sandwich-t-00-57-56" style="--pulse-height:25%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-work-make-him-a-sandwich-t-00-56-00" style="--pulse-height:25%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-work-make-him-a-sandwich-t-01-16-51" style="--pulse-height:25%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-work-make-him-a-sandwich-t-00-46-33" style="--pulse-height:25%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-make-him-a-sandwich-t-00-41-33" style="--pulse-height:25%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
@@ -88,6 +87,9 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-work-make-him-a-sandwich-t-00-59-50" style="--pulse-height:25%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-work-make-him-a-sandwich-t-00-32-06" style="--pulse-height:50%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-work-make-him-a-sandwich-t-00-53-34" style="--pulse-height:25%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-work-make-him-a-sandwich-t-00-53-17" style="--pulse-height:25%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 1 mentions" title="2026-07-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-work-make-him-a-sandwich-t-00-53-02" style="--pulse-height:50%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 2 mentions" title="2026-08-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-work-make-him-a-sandwich-t-01-08-55" style="--pulse-height:25%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -115,7 +117,6 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-work-make-him-a-sandwich-t-00-42-12) | 2 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-work-make-him-a-sandwich-t-00-54-53) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-work-make-him-a-sandwich-t-00-57-56) | 1 |
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-work-make-him-a-sandwich-t-00-56-00) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-work-make-him-a-sandwich-t-01-16-51) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-work-make-him-a-sandwich-t-00-46-33) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-work-make-him-a-sandwich-t-00-41-33) | 1 |
@@ -143,6 +144,9 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-work-make-him-a-sandwich-t-00-59-50) | 1 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-work-make-him-a-sandwich-t-00-32-06) | 2 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-work-make-him-a-sandwich-t-00-53-34) | 1 |
+| 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-work-make-him-a-sandwich-t-00-53-17) | 1 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-work-make-him-a-sandwich-t-00-53-02) | 2 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-work-make-him-a-sandwich-t-01-08-55) | 1 |
 
 </details>
 </section>
@@ -150,7 +154,34 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (80)</strong></summary>
+<summary><strong class="section-title">Raw mentions (83)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
+
+**[01:09:05](/episodes/ep-_cNtgris8Ik.md#ent-work-make-him-a-sandwich-t-01-08-55)**
+> "...the book that we are reading, make him a sandwich. You can buy a stop anti-kandicism stand disc cup..."
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (2 mentions)</summary>
+
+**[00:53:10](/episodes/ep-1CFDtD0IgEg.md#ent-work-make-him-a-sandwich-t-00-53-02)**
+> "...igned bundles of Blackout and Make Him a Sandwich because we were sold out."
+
+**[00:53:19](/episodes/ep-1CFDtD0IgEg.md#ent-work-make-him-a-sandwich-t-00-53-02)**
+> "...urts. But yeah, we're reading Make Him a Sandwich right now. We're actually wrapping that up next w..."
+
+</details>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (1 mentions)</summary>
+
+**[00:53:17](/episodes/ep-AoYZel7_cGQ.md#ent-work-make-him-a-sandwich-t-00-53-17)**
+> "...odern-day Ukraine, Lithuania. Make Him a Sandwich—order it. If you don't want to join the book club..."
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
@@ -389,14 +420,6 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 
 **[01:16:51](/episodes/ep-wcD2khO3rOA.md#ent-work-make-him-a-sandwich-t-01-16-51)**
 > "...ble on our shop both my books make him a sandwich and blackout hand signed by me you can also be su..."
-
-</details>
-
-<details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1 mentions)</summary>
-
-**[00:56:00](/episodes/ep-zSKrxIUMNqw.md#ent-work-make-him-a-sandwich-t-00-56-00)**
-> "... time, available in the shop: Make Him a Sandwich and Blackout, both hand-signed by me. All right, ..."
 
 </details>
 
@@ -642,7 +665,7 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 <summary>Authored By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-33): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:51:49](/episodes/ep-X92MllIHDzw.md#t-00-51-13): “the hard copy autographed bundle, both of my books, Make Him a Sandwich and Blackout.”
@@ -658,6 +681,8 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:54:53](/episodes/ep-4DvYXBn_5JI.md#t-00-54-53): “Join the book club on Friday. We will be doing my book, which I'm very, very excited about. ... Make it a sandwich. This is the first time I'm reading my book.”
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:48:41](/episodes/ep-7FS1tUeSfdE.md#t-00-48-05): “Friday, we start the book club, my book, first time I'm reading my book in the book club, make him a sandwich.”
 - [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:37:56](/episodes/ep-3QJqtW_NOSI.md#t-00-37-47): “I'm reading my book right now, Make Him a Sandwich, and I describe these two competing and both wrong viewpoints of modern feminism”
+- [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:41:31](/episodes/ep-AoYZel7_cGQ.md#t-00-41-31): “my husband bought me your making a sandwich book as a gift”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:57:56](/episodes/ep-HYn0P-P1wUw.md#t-00-57-56): “All right, you guys telling you that we have our new merch up on the website. You can also buy a hard copy of the autographed bundle, which is now available on the shop. It's both of my books, Make Him a Sandwich and Blackout, hand signed by me.”
 
 </details>
 
@@ -667,7 +692,7 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** authored this
-<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (16)</summary>
 
 - [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-33): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:51:49](/episodes/ep-X92MllIHDzw.md#t-00-51-13): “the hard copy autographed bundle, both of my books, Make Him a Sandwich and Blackout.”
@@ -683,6 +708,8 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 - [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337 @ 00:54:53](/episodes/ep-4DvYXBn_5JI.md#t-00-54-53): “Join the book club on Friday. We will be doing my book, which I'm very, very excited about. ... Make it a sandwich. This is the first time I'm reading my book.”
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:48:41](/episodes/ep-7FS1tUeSfdE.md#t-00-48-05): “Friday, we start the book club, my book, first time I'm reading my book in the book club, make him a sandwich.”
 - [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:37:56](/episodes/ep-3QJqtW_NOSI.md#t-00-37-47): “I'm reading my book right now, Make Him a Sandwich, and I describe these two competing and both wrong viewpoints of modern feminism”
+- [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:41:31](/episodes/ep-AoYZel7_cGQ.md#t-00-41-31): “my husband bought me your making a sandwich book as a gift”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:57:56](/episodes/ep-HYn0P-P1wUw.md#t-00-57-56): “All right, you guys telling you that we have our new merch up on the website. You can also buy a hard copy of the autographed bundle, which is now available on the shop. It's both of my books, Make Him a Sandwich and Blackout, hand signed by me.”
 
 </details>
 

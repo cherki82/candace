@@ -1,6 +1,6 @@
 ---
 title: "Saudi Arabia"
-description: "Saudi Arabia (Places) - 9 mentions"
+description: "Saudi Arabia (Places) - 10 mentions"
 id: "gpe-saudi-arabia"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-saudi-arabia-t-01-15-59">2025-09-16 · 01:16:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-gpe-saudi-arabia-t-01-11-13">2026-05-21 · 01:11:22</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-saudi-arabia-t-00-39-19">2026-08-03 · 00:39:36</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -41,6 +41,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-saudi-arabia-t-00-13-15" style="--pulse-height:100%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 2 mentions" title="2025-12-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-saudi-arabia-t-00-04-47" style="--pulse-height:100%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-gpe-saudi-arabia-t-01-11-13" style="--pulse-height:50%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-saudi-arabia-t-00-39-19" style="--pulse-height:50%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-saudi-arabia-t-00-13-15) | 2 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-saudi-arabia-t-00-04-47) | 2 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-saudi-arabia-t-01-11-13) | 1 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-gpe-saudi-arabia-t-00-39-19) | 1 |
 
 </details>
 </section>
@@ -59,7 +61,15 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
+
+**[00:39:36](/episodes/ep-AH1KVKkweUE.md#ent-gpe-saudi-arabia-t-00-39-19)**
+> "...bout the 9-11 hijackers being Saudi Arabian, but hey, 10th time's a charm."
+
+</details>
 
 <details>
 <summary>Candace x Hunter Biden: The Interview (1 mentions)</summary>

@@ -25,12 +25,11 @@ veracity: "true"
 
 - [David Frodsham](/entities/person-david-frodsham.md) (person)
 - [United States Army](/entities/org-united-states-army.md) (org)
-- [CBS News](/entities/org-cbs-news.md) (org)
 
 ## Source
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
-**Timestamp:** [00:36:12](/episodes/ep-HYn0P-P1wUw.md#t-00-35-55) 
+**Timestamp:** [00:36:12](/episodes/ep-HYn0P-P1wUw.md#t-00-36-08) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2172);return false;">Play</a>
 
 > And I'm showing you this article from CBS News. U.S. Army missed the red flags about a civilian leader. who led a child porn ring and risked U.S. security. That person's name was David Frodsham.

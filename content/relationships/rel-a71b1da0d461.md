@@ -15,7 +15,7 @@ object: "person-norma-jean-ates"
 
 **[PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4)**
 
-- [00:41:49](/episodes/ep-UYkXV9mYbT4#t-00-41-49): _In 1991, 45-year-old Norma Jean Aates was found inside this home, shot to death seven times. ... Her death, a defining event in the life of her husband, Jimmy Aates, because six years later, a jury convicted._
+- [00:41:49](/episodes/ep-UYkXV9mYbT4#t-00-41-49): _In 1991, 45-year-old Norma Jean Ates was found inside this home, shot to death seven times. ... Her death, a defining event in the life of her husband, Jimmy Ates, because six years later, a jury convicted._
 
 ### Related
 

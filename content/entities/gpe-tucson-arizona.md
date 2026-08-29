@@ -28,7 +28,7 @@ Source: [City of Tucson official website](https://www.tucsonaz.gov/)
 <div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -155,7 +155,29 @@ Source: [City of Tucson official website](https://www.tucsonaz.gov/)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Location Of (1)</summary>
+
+- **[Davis-Monthan Air Force Base](/entities/org-davis-monthan-air-force-base.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:38:09](/episodes/ep-HYn0P-P1wUw.md#t-00-38-09): “Connecting a final dot here. Arizona politicians happened to travel down to the Davis-Monthan base for their annual Commanders Summit where Arizona community leaders meet with military men. ... It's a little over an hour north in Tucson.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Davis-Monthan Air Force Base](/entities/org-davis-monthan-air-force-base.md)** based in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:38:09](/episodes/ep-HYn0P-P1wUw.md#t-00-38-09): “Connecting a final dot here. Arizona politicians happened to travel down to the Davis-Monthan base for their annual Commanders Summit where Arizona community leaders meet with military men. ... It's a little over an hour north in Tucson.”
+
+</details>
+
+</details>
 
 </details>
 

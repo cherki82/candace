@@ -15,7 +15,7 @@ object: "person-gina-romney-henderson"
 
 **[Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU)**
 
-- [00:17:38](/episodes/ep-rupRLXmSndU#t-00-17-38): _But what is not up for debate is that both families were living in the same house down in Keller, Texas, and that Nathan Henderson, the co-founder, is married to a woman named Gina Romney._
+- [00:17:38](/episodes/ep-rupRLXmSndU#t-00-17-38): _vice versa. But what is not up for debate is that both families were living in the same house down in Keller, Texas, and that Nathan Henderson, the co-founder, is married to a woman named Gina (Gina Romney Henderson)._
 
 ### Related
 

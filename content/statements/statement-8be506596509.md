@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:39:53](/episodes/ep-q1NRQQAYS_Q.md#t-00-39-48) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2393);return false;">Play</a>
 
-> And for sure, Erica's mother has in the past received treatments there. Okay, I was able to determine that factually she had. ... In fact, she went in for a treatment two days earlier on September 8th because people sent me records of that.
+> And for sure, Erica (Erika Kirk)'s mother has in the past received treatments there. Okay, I was able to determine that factually she had. In fact, she went in for a treatment two days earlier on September 8th because people sent me records of that.
 
 ## Verification
 

@@ -140,7 +140,7 @@ Source: [BCG History](https://www.bcg.com/about/overview/our-history)
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi Netanyahu, their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi (Benjamin Netanyahu), their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group.”
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:10:26](/episodes/ep-MhakwJxK-Zk.md#t-00-09-54): “We reminded you that they met at the Boston Consulting Group where they both worked”
 
 </details>
@@ -148,7 +148,7 @@ Source: [BCG History](https://www.bcg.com/about/overview/our-history)
 - **[Mitt Romney](/entities/person-mitt-romney.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi Netanyahu, their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi (Benjamin Netanyahu), their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group.”
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:10:26](/episodes/ep-MhakwJxK-Zk.md#t-00-09-54): “We reminded you that they met at the Boston Consulting Group where they both worked”
 
 </details>
@@ -212,7 +212,7 @@ Source: [BCG History](https://www.bcg.com/about/overview/our-history)
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi Netanyahu, their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi (Benjamin Netanyahu), their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group.”
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:10:26](/episodes/ep-MhakwJxK-Zk.md#t-00-09-54): “We reminded you that they met at the Boston Consulting Group where they both worked”
 
 </details>
@@ -220,7 +220,7 @@ Source: [BCG History](https://www.bcg.com/about/overview/our-history)
 - **[Mitt Romney](/entities/person-mitt-romney.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi Netanyahu, their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi (Benjamin Netanyahu), their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group.”
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:10:26](/episodes/ep-MhakwJxK-Zk.md#t-00-09-54): “We reminded you that they met at the Boston Consulting Group where they both worked”
 
 </details>

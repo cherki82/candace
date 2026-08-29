@@ -1,6 +1,6 @@
 ---
 title: "Justin Davis"
-description: "Justin Davis (People) - 7 mentions"
+description: "Justin Davis (People) - 8 mentions"
 id: "person-justin-davis"
 type: "PERSON"
 categories:
@@ -18,9 +18,9 @@ Source: [KSL: Security chief recounts on podcast harrowing moments after Charlie
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-justin-davis-t-00-09-14">2026-06-24 · 00:09:24</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-person-justin-davis-t-00-34-03">2026-07-20 · 00:34:03</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HZvwbfePe7o.md#ent-person-justin-davis-t-00-19-43">2026-07-27 · 00:19:43</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -34,6 +34,7 @@ Source: [KSL: Security chief recounts on podcast harrowing moments after Charlie
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-justin-davis-t-00-09-14" style="--pulse-height:100%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 4 mentions" title="2026-06-24 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-justin-davis-t-01-03-52" style="--pulse-height:50%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-person-justin-davis-t-00-34-03" style="--pulse-height:25%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-person-justin-davis-t-00-19-43" style="--pulse-height:25%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -42,6 +43,7 @@ Source: [KSL: Security chief recounts on podcast harrowing moments after Charlie
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-justin-davis-t-00-09-14) | 4 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-justin-davis-t-01-03-52) | 2 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-justin-davis-t-00-34-03) | 1 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-person-justin-davis-t-00-19-43) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [KSL: Security chief recounts on podcast harrowing moments after Charlie
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (1 mentions)</summary>
+
+**[00:19:43](/episodes/ep-HZvwbfePe7o.md#ent-person-justin-davis-t-00-19-43)**
+> "That's what it appears to be. It was mysteriously purged. And why the Turning Point team who loved to tell us what everybody was doing, CPR being amazing generally, Brian Harpole just getting to work, doing a medical, as he says, Rick Cutler with the tattoo, the mean tattoo, Justin Davis doing a thousand on the freeway."
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1 mentions)</summary>

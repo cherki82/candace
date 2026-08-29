@@ -5,11 +5,20 @@ id: "person-zohran-mamdani"
 type: "PERSON"
 aliases:
   - "Mamdani"
+categories:
+  - "politician"
+  - "New York City mayor"
 ---
 
 _Type: People_
 
 **Also known as:** Mamdani
+
+**Categories:** politician, New York City mayor
+
+**Entity verification:** verified
+> The official mayoral site confirms the current public-office context for the canonical identity.
+Source: [Office of the Mayor — New York City](https://www.nyc.gov/mayors-office)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-person-zohran-mamdani-t-00-00-00">2025-11-05 · 00:00:05</a></strong></div>

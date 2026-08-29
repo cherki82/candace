@@ -29,7 +29,7 @@ type: "opinion"
 **Timestamp:** [00:17:02](/episodes/ep-ZIH5-V6UPkg.md#t-00-17-02) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1022);return false;">Play</a>
 
-> Bibi is your master. Maybe it's Miriam Adelson that lights the fire and Bibi that makes the shadows on the wall.
+> Bibi (Benjamin Netanyahu) is your master. Maybe it's Miriam Adelson that lights the fire and Bibi (Benjamin Netanyahu) that makes the shadows on the wall.
 
 ## Verification
 

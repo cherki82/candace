@@ -305,7 +305,7 @@ youtube_url: "https://www.youtube.com/watch?v=ti5Fxrvegno"
 - [00:27:38](#t-00-27-38) [○] (Accusation) **TikTok Creator (Ep ti5Fxrvegno; name unverified)**: ["Calling it a 'tinfoil hot conspiracy theory,' the TikTok creator speculated that..."](/statements/statement-6ca73503bd98.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [The Corcoran Group](/entities/org-corcoran-group.md)
 - [00:28:47](#t-00-28-47) [✓] (Claim) **Tyler Bowyer**: ["Tyler Bowyer said Erika Kirk called him before Donald Trump's first Arizona rall..."](/statements/statement-30810f35d750.md)
-  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 - [00:29:01](#t-00-28-47) [✓] (Claim) **Tyler Bowyer**: ["Tyler Bowyer wanted to hire Erika Kirk, but Charlie Kirk wanted to date her."](/statements/statement-7b048b377f79.md)
   - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:29:56](#t-00-29-56) [✓] (Claim) **Erika Kirk**: ["Erika Kirk said she initially met Charlie Kirk because she believed she was inte..."](/statements/statement-af9dfaf7d6f3.md)

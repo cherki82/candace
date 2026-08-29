@@ -27,10 +27,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md)
-**Timestamp:** [00:01:08](/episodes/ep-DqGNvi36ol8.md#t-00-00-41) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(68);return false;">Play</a>
+**Timestamp:** [00:05:38](/episodes/ep-DqGNvi36ol8.md#t-00-05-37) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(338);return false;">Play</a>
 
-> I made it at the request of Erika. All of this has been At the direction and approval of of Erika because she heads this
+> So first of all, our initial statement, it was on the show on Wednesday. ... I made it at the request of Erika. ... At the direction and approval of Erika because she heads this
 
 ## Verification
 

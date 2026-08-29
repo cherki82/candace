@@ -3,9 +3,17 @@ title: "Blanding"
 description: "Blanding (Places) - 2 mentions"
 id: "gpe-blanding"
 type: "GPE"
+categories:
+  - "Utah city"
 ---
 
 _Type: Places_
+
+**Categories:** Utah city
+
+**Entity verification:** verified
+> Canonical name and identity for Blanding confirmed by the cited direct external source.
+Source: [Blanding, Utah](https://en.wikipedia.org/wiki/Blanding,_Utah)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-gpe-blanding-t-00-34-49">2025-09-29 · 00:34:49</a></strong></div>

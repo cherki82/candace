@@ -1,6 +1,6 @@
 ---
-title: "I spoke at TPUSA’s 2024 Young Women’s Leadership Summit on J..."
-description: "\"I spoke at TPUSA’s 2024 Young Women’s Leadership Summit on June 7, about eleven weeks after I was fired from The Daily Wire on March 22.\" — Candace Owens"
+title: "Candace Owens said she spoke at TPUSA's 2024 Young Women's L..."
+description: "\"Candace Owens said she spoke at TPUSA's 2024 Young Women's Leadership Summit shortly after she was fired from The Daily Wire.\" — Candace Owens"
 statement_id: "statement-88c57051e040"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> I spoke at TPUSA’s 2024 Young Women’s Leadership Summit on June 7, about eleven weeks after I was fired from The Daily Wire on March 22.
+> Candace Owens said she spoke at TPUSA's 2024 Young Women's Leadership Summit shortly after she was fired from The Daily Wire.
 
 ## Attribution
 
@@ -31,7 +31,7 @@ veracity: "true"
 **Timestamp:** [00:25:18](/episodes/ep-r1PS67aRmcA.md#t-00-25-16) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1518);return false;">Play</a>
 
-> You might remember, maybe you forgot, but I spoke at YWLS in 2024, right after I was fired from the Daily Wire, and a big thing happened and we should never forget it, okay?
+> I spoke at YWLS in 2024, right after I was fired from the Daily Wire
 
 ## Verification
 

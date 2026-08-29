@@ -1,6 +1,6 @@
 ---
 title: "Miami"
-description: "Miami (Places) - 15 mentions"
+description: "Miami (Places) - 18 mentions"
 id: "gpe-miami"
 type: "GPE"
 categories:
@@ -18,12 +18,12 @@ Source: [City of Miami](https://www.miami.gov/Home)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-miami-t-00-22-23">2026-01-16 · 00:22:53</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-miami-t-00-55-48">2026-06-26 · 00:55:48</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>15</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-miami-t-00-43-16">2026-08-06 · 00:43:32</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -36,6 +36,7 @@ Source: [City of Miami](https://www.miami.gov/Home)
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-miami-t-00-57-00" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 6 mentions" title="2026-01-29 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-miami-t-00-06-20" style="--pulse-height:33%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 2 mentions" title="2026-03-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-miami-t-00-55-06" style="--pulse-height:33%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-miami-t-00-38-00" style="--pulse-height:50%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 3 mentions" title="2026-08-06 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [City of Miami](https://www.miami.gov/Home)
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-miami-t-00-57-00) | 6 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-miami-t-00-06-20) | 2 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-gpe-miami-t-00-55-06) | 2 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-gpe-miami-t-00-38-00) | 3 |
 
 </details>
 </section>
@@ -53,7 +55,21 @@ Source: [City of Miami](https://www.miami.gov/Home)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (15)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (3 mentions)</summary>
+
+**[00:38:00](/episodes/ep-ChuWo-n49B8.md#ent-gpe-miami-t-00-38-00)**
+> "he moved back to Miami after living in Las Vegas"
+
+**[00:37:14](/episodes/ep-ChuWo-n49B8.md#ent-gpe-miami-t-00-36-50)**
+> "...id that they responded to his Miami area home of the celebrity blogger and podcaster ..."
+
+**[00:43:32](/episodes/ep-ChuWo-n49B8.md#ent-gpe-miami-t-00-43-16)**
+> "...n't know that I would live in Miami if this is what I was living with or going throug..."
+
+</details>
 
 <details>
 <summary>EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 (2 mentions)</summary>
@@ -130,6 +146,28 @@ Source: [City of Miami](https://www.miami.gov/Home)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Residence Of (1)</summary>
+
+- **[Perez Hilton](/entities/person-perez-hilton.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:38:00](/episodes/ep-ChuWo-n49B8.md#t-00-38-00): “being a knife and in the video viewers pleaded with him and asked for his phone number so that they could alert authorities and they note that he's a single father with three children born via surrogacy and he moved back to Miami after living in Las Vegas for three and a half years now I want to share my personal opinion on this I think Perez Hilton is on drugs I do it's an opinion not a fact obviously but I as soon as I I heard about this as soon as I heard about the sepsis thing.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Perez Hilton](/entities/person-perez-hilton.md)** lives in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:38:00](/episodes/ep-ChuWo-n49B8.md#t-00-38-00): “being a knife and in the video viewers pleaded with him and asked for his phone number so that they could alert authorities and they note that he's a single father with three children born via surrogacy and he moved back to Miami after living in Las Vegas for three and a half years now I want to share my personal opinion on this I think Perez Hilton is on drugs I do it's an opinion not a fact obviously but I as soon as I I heard about this as soon as I heard about the sepsis thing.”
+
+</details>
+
+</details>
 
 </details>

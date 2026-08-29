@@ -3,9 +3,17 @@ title: "Warren Commission"
 description: "Warren Commission (Organizations) - 2 mentions"
 id: "org-warren-commission"
 type: "ORG"
+categories:
+  - "government commission"
 ---
 
 _Type: Organizations_
+
+**Categories:** government commission
+
+**Entity verification:** verified
+> The National Archives confirms the canonical commission identity and official report.
+Source: [Warren Commission Report — National Archives](https://www.archives.gov/research/jfk/warren-commission-report)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-org-warren-commission-t-00-28-16">2025-10-02 · 00:28:16</a></strong></div>

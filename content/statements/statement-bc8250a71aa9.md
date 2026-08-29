@@ -25,7 +25,7 @@ type: "promise"
 **Timestamp:** [00:55:04](/episodes/ep-czVBmqZP6Ss.md#t-00-54-20) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3304);return false;">Play</a>
 
-> And so, ladies and gentlemen, we are obviously going to continue to follow this, to tighten up this timeline with the most up-to-date information that we can possibly have, everything that we could possibly learn about the father that is involved in this
+> we are obviously going to continue to follow this, to tighten up this timeline with the most up-to-date information that we can
 
 ## Verification
 

@@ -11,7 +11,7 @@ object: "person-george-farmer"
 
 ## [Candace Owens](/entities/person-candace-owens) married to [George Farmer](/entities/person-george-farmer)
 
-### Evidence (12 mentions)
+### Evidence (15 mentions)
 
 **[EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg)**
 
@@ -20,6 +20,10 @@ object: "person-george-farmer"
 **[The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs)**
 
 - [00:57:24](/episodes/ep-7ERqbYElOfs#t-00-57-24): _the boss man's a husband ... I'll talk to George (George Farmer) about that._
+
+**[A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ)**
+
+- [00:47:45](/episodes/ep-AoYZel7_cGQ#t-00-47-45): _your husband, George Farmer_
 
 **[PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk)**
 
@@ -39,11 +43,19 @@ object: "person-george-farmer"
 
 **[PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4)**
 
-- [00:07:25](/episodes/ep-UYkXV9mYbT4#t-00-07-25): _Do you want to know how I know that it caused panic? Because the very next day on September 20th, Justin Strife was contacting my husband several times while asking him if I had recorded that FaceTime call with Terrell. It came across like an urgent matter. I was sitting in my living room. George came to me and said, hey, I don't know what's going on, but like Justin Strife is hitting me up._
+- [00:07:25](/episodes/ep-UYkXV9mYbT4#t-00-07-25): _Do you want to know how I know that it caused panic? Because the very next day on September 20th, Justin Streiff was contacting my husband several times while asking him if I had recorded that FaceTime call with Terrell (Terrell Farnsworth). ... It came across like an urgent matter. I was sitting in my living room. George (George Farmer) came to me and said, hey, I don't know what's going on, but like Justin Streiff is hitting me up. He's asking me if he recorded, what was he talking about?_
 
 **[I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o)**
 
 - [00:06:53](/episodes/ep-YeEtS7nix3o#t-00-06-53): _Candace and her husband allegedly previously met with Dugin in Italy. ... her husband George Farmer's bank accounts should be flagged by FinCEN while she is in Russia._
+
+**[Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik)**
+
+- [00:42:33](/episodes/ep-_cNtgris8Ik#t-00-42-33): _your priority and also has you have to have respect for his wife which I did he was married and he has respect for my husband George became close to Charlie the whole year of our engagement we traveled around with Charlie and we have so many memories he has so many messages with Charlie and so I don't know it just makes me laugh they think that they can do this it's just not going to be possible we just spent such a good great time together and whenever we think about it you see it on_
+
+**[Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc)**
+
+- [01:01:51](/episodes/ep-aPOyk1i2LOc#t-01-01-51): _George could be sending text messages right now. We are married. He has every login that I have. And remember, he's up for a death sentence._
 
 **[Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs)**
 

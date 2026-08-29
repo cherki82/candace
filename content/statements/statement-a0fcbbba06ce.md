@@ -34,7 +34,7 @@ veracity: "true"
 **Timestamp:** [00:12:56](/episodes/ep-eLgD5yUVbko.md#t-00-12-41) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(776);return false;">Play</a>
 
-> I appoint my wife to run 20 Point USA if something happens to me. ... Erica would do a great job.
+> But we have a great board and God forbid if something happens, they'll figure it out. I appoint my wife to run Turning Point USA if something happens to me. ... Erika would do a great job.
 
 ### 2. STAGED? Erika’s VIRAL White House Correspondents Moment Come...
 

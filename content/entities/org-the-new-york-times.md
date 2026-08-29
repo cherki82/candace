@@ -26,7 +26,7 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 <div><span>Mentions</span><strong>71</strong></div>
 <div><span>Statements by</span><strong>9</strong></div>
 <div><span>Statements about</span><strong>12</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -58,7 +58,7 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-the-new-york-times-t-00-16-14" style="--pulse-height:100%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 9 mentions" title="2026-03-26 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-org-the-new-york-times-t-00-47-08" style="--pulse-height:33%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-org-the-new-york-times-t-00-04-03" style="--pulse-height:11%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-the-new-york-times-t-00-34-48" style="--pulse-height:33%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 3 mentions" title="2026-04-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-the-new-york-times-t-00-24-07" style="--pulse-height:33%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 3 mentions" title="2026-04-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-the-new-york-times-t-00-11-33" style="--pulse-height:11%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-org-the-new-york-times-t-00-19-00" style="--pulse-height:11%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#t-00-34-52" style="--pulse-height:11%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
@@ -97,7 +97,7 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-org-the-new-york-times-t-00-16-14) | 9 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-the-new-york-times-t-00-47-08) | 3 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-the-new-york-times-t-00-04-03) | 1 |
-| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-the-new-york-times-t-00-34-48) | 3 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-the-new-york-times-t-00-24-07) | 3 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-the-new-york-times-t-00-11-33) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-the-new-york-times-t-00-19-00) | 1 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#t-00-34-52) | 1 |
@@ -224,14 +224,14 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (3 mentions)</summary>
 
-**[00:35:14](/episodes/ep-q1NRQQAYS_Q.md#ent-org-the-new-york-times-t-00-34-48)**
-> "New York Times"
-
 **[00:24:34](/episodes/ep-q1NRQQAYS_Q.md#ent-org-the-new-york-times-t-00-24-07)**
 > "...ld mention she tried to do at the New York Times book summit when someone raised it."
 
+**[00:35:14](/episodes/ep-q1NRQQAYS_Q.md#ent-org-the-new-york-times-t-00-34-48)**
+> "...ca (Erika Kirk) sat down with the New York Times, as we have many times covered over, just days fo..."
+
 **[00:56:43](/episodes/ep-q1NRQQAYS_Q.md#ent-org-the-new-york-times-t-00-56-07)**
-> "...he toast to Erica's answer at the New York Times book summit."
+> "...rica (Erika Kirk)'s answer at the New York Times book summit."
 
 </details>
 
@@ -517,6 +517,18 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 </details>
 
 <details>
+<summary>Criticized By (1)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:11:33](/episodes/ep-ZIH5-V6UPkg.md#t-00-11-33): “Now, the fake news CNN, the failing New York Times and all of the other radical left news organizations are hailing them and giving them positive press for the first time in their lives.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Formerly Employed (1)</summary>
 
 - **[Bari Weiss](/entities/person-bari-weiss.md)**
@@ -538,7 +550,7 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:16:35](/episodes/ep-ZAsV0fHGBiM.md#t-00-16-24): “Erica (Erika Kirk) sat down for an in-person interview with the New York Times days after Charlie (Charlie Kirk) was publicly assassinated”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:23:25](/episodes/ep-i8m_6D4QGmk.md#t-00-23-14): “After her husband's public assassination, offer a raise to Dan Flood. The security guard who failed Charlie in every possible manner and way on September 10th, only a psychopath who does not experience human emotions in the way that humans experience them would be capable of offering and then giving an in-home interview to the New York Times in the immediate days following her husband's assassination.”
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:16:27](/episodes/ep-DEtFh2Ff-58.md#t-00-16-14): “that infamous New York Times article that she did, interview that she did immediately following Charlie's assassination where she welcomed them, the enemy of Charlie Kirk, into their condo and granted them the first interview.”
-- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:35:14](/episodes/ep-q1NRQQAYS_Q.md#t-00-34-48): “Erica sat down with the New York Times, as we have many times covered over, just days following the assassination, welcomed them into her and Charlie's apartment, and here is what they published verbatim. They wrote, it had been miss...”
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:35:14](/episodes/ep-q1NRQQAYS_Q.md#t-00-34-48): “Erica (Erika Kirk) sat down with the New York Times, as we have many times covered over, just days following the assassination, welcomed them into her and Charlie (Charlie Kirk)'s apartment, and here is what they published verbatim. They wrote, it had been miss...”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:13:18](/episodes/ep-OgRyiOAVtWU.md#t-00-13-18): “Everyone, he was trained to exactly what he was supposed to do, immediately called Erika (Erika Kirk). Erika (Erika Kirk), even in the New York Times interview that she gave eight days later, said that at 11.23, obviously adjusting for time, 12.23, I guess, in local time, Utah, 11.23, her time.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:28:56](/episodes/ep-ds6umq1rHAw.md#t-00-28-41): “Erica (Erika Kirk) then goes on a Shabbat Shalom book tour immediately first thing. She sits down with Bari Weiss, the New York Times”
 
@@ -547,7 +559,14 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
+
+- **[Donald J. Trump](/entities/person-donald-trump.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:11:33](/episodes/ep-ZIH5-V6UPkg.md#t-00-11-33): “Now, the fake news CNN, the failing New York Times and all of the other radical left news organizations are hailing them and giving them positive press for the first time in their lives.”
+
+</details>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** criticized by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -570,7 +589,7 @@ Source: [The New York Times Company](https://www.nytco.com/company/)
 - [Bride Of Charlie: A Wrinkle In Time | Episode 1 @ 00:16:35](/episodes/ep-ZAsV0fHGBiM.md#t-00-16-24): “Erica (Erika Kirk) sat down for an in-person interview with the New York Times days after Charlie (Charlie Kirk) was publicly assassinated”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:23:25](/episodes/ep-i8m_6D4QGmk.md#t-00-23-14): “After her husband's public assassination, offer a raise to Dan Flood. The security guard who failed Charlie in every possible manner and way on September 10th, only a psychopath who does not experience human emotions in the way that humans experience them would be capable of offering and then giving an in-home interview to the New York Times in the immediate days following her husband's assassination.”
 - [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 @ 00:16:27](/episodes/ep-DEtFh2Ff-58.md#t-00-16-14): “that infamous New York Times article that she did, interview that she did immediately following Charlie's assassination where she welcomed them, the enemy of Charlie Kirk, into their condo and granted them the first interview.”
-- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:35:14](/episodes/ep-q1NRQQAYS_Q.md#t-00-34-48): “Erica sat down with the New York Times, as we have many times covered over, just days following the assassination, welcomed them into her and Charlie's apartment, and here is what they published verbatim. They wrote, it had been miss...”
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:35:14](/episodes/ep-q1NRQQAYS_Q.md#t-00-34-48): “Erica (Erika Kirk) sat down with the New York Times, as we have many times covered over, just days following the assassination, welcomed them into her and Charlie (Charlie Kirk)'s apartment, and here is what they published verbatim. They wrote, it had been miss...”
 - [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 @ 00:13:18](/episodes/ep-OgRyiOAVtWU.md#t-00-13-18): “Everyone, he was trained to exactly what he was supposed to do, immediately called Erika (Erika Kirk). Erika (Erika Kirk), even in the New York Times interview that she gave eight days later, said that at 11.23, obviously adjusting for time, 12.23, I guess, in local time, Utah, 11.23, her time.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:28:56](/episodes/ep-ds6umq1rHAw.md#t-00-28-41): “Erica (Erika Kirk) then goes on a Shabbat Shalom book tour immediately first thing. She sits down with Bari Weiss, the New York Times”
 

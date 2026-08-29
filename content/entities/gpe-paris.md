@@ -1,6 +1,6 @@
 ---
 title: "Paris"
-description: "Paris (Places) - 37 mentions"
+description: "Paris (Places) - 38 mentions"
 id: "gpe-paris"
 type: "GPE"
 categories:
@@ -19,9 +19,9 @@ Source: [L’action internationale de la Ville de Paris](https://www.paris.fr/pa
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-gpe-paris-t-01-01-35">2025-10-06 · 01:01:56</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-paris-t-00-18-51">2026-06-26 · 00:19:15</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>37</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-paris-t-00-55-45">2026-08-06 · 00:56:13</a></strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>38</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -46,6 +46,7 @@ Source: [L’action internationale de la Ville de Paris](https://www.paris.fr/pa
 <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-paris-t-00-43-11" style="--pulse-height:17%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-paris-t-00-19-54" style="--pulse-height:17%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-paris-t-00-17-36" style="--pulse-height:67%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 4 mentions" title="2026-06-26 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-paris-t-00-55-45" style="--pulse-height:17%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -65,6 +66,7 @@ Source: [L’action internationale de la Ville de Paris](https://www.paris.fr/pa
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-paris-t-00-43-11) | 1 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-paris-t-00-19-54) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-gpe-paris-t-00-17-36) | 4 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-gpe-paris-t-00-55-45) | 1 |
 
 </details>
 </section>
@@ -72,7 +74,15 @@ Source: [L’action internationale de la Ville de Paris](https://www.paris.fr/pa
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:56:13](/episodes/ep-ChuWo-n49B8.md#ent-gpe-paris-t-00-55-45)**
+> "a free ride to Paris or London"
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (4 mentions)</summary>

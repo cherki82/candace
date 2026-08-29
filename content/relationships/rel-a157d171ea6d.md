@@ -11,7 +11,11 @@ object: "org-fbi"
 
 ## [Candace Owens](/entities/person-candace-owens) accused [FBI](/entities/org-fbi)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
+
+**[Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg)**
+
+- [00:31:29](/episodes/ep-4JxgOclKzqg#t-00-31-29): _So why the FBI interjected so quickly is in and of itself kind of a conspiracy._
 
 **[TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos)**
 

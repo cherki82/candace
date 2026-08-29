@@ -1,6 +1,6 @@
 ---
 title: "Sweden"
-description: "Sweden (Places) - 8 mentions"
+description: "Sweden (Places) - 9 mentions"
 id: "gpe-sweden"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [Sweden.se — official site of Sweden](https://sweden.se/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-sweden-t-00-28-06">2026-02-25 · 00:28:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-sweden-t-00-51-08">2026-03-06 · 00:51:08</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-sweden-t-00-48-51">2026-08-03 · 00:48:51</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -34,6 +34,7 @@ Source: [Sweden.se — official site of Sweden](https://sweden.se/)
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-sweden-t-00-28-06" style="--pulse-height:100%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 6 mentions" title="2026-02-25 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-gpe-sweden-t-00-00-01" style="--pulse-height:17%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-sweden-t-00-51-08" style="--pulse-height:17%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-sweden-t-00-48-51" style="--pulse-height:17%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -42,6 +43,7 @@ Source: [Sweden.se — official site of Sweden](https://sweden.se/)
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-gpe-sweden-t-00-28-06) | 6 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-sweden-t-00-00-01) | 1 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-sweden-t-00-51-08) | 1 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-gpe-sweden-t-00-48-51) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [Sweden.se — official site of Sweden](https://sweden.se/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
+
+**[00:48:51](/episodes/ep-AH1KVKkweUE.md#ent-gpe-sweden-t-00-48-51)**
+> "...t's a donation thank you from sweden wow uh yeah everywhere it's just everywhere they ..."
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: Crazy In Love | Episode 7 (1 mentions)</summary>

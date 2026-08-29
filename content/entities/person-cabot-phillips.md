@@ -1,6 +1,6 @@
 ---
 title: "Cabot Phillips"
-description: "Cabot Phillips (People) - 35 mentions"
+description: "Cabot Phillips (People) - 36 mentions"
 id: "person-cabot-phillips"
 type: "PERSON"
 aliases:
@@ -24,7 +24,7 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-cabot-phillips-t-00-41-05">2025-12-20 · 00:41:42</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-cabot-phillips-t-00-56-33">2026-06-22 · 00:57:11</a></strong></div>
 <div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>35</strong></div>
+<div><span>Mentions</span><strong>36</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
@@ -36,7 +36,7 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 <p>Highest activity: <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-cabot-phillips-t-00-04-21">Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323</a> (12 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-cabot-phillips-t-00-41-49" style="--pulse-height:75%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 9 mentions" title="2025-12-20 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-cabot-phillips-t-00-37-47" style="--pulse-height:33%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 4 mentions" title="2026-01-05 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-cabot-phillips-t-00-37-47" style="--pulse-height:42%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 5 mentions" title="2026-01-05 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-cabot-phillips-t-00-06-24" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-person-cabot-phillips-t-00-18-36" style="--pulse-height:8%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-person-cabot-phillips-t-00-16-56" style="--pulse-height:25%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 3 mentions" title="2026-03-18 · 3 mentions"><span></span></a>
@@ -49,7 +49,7 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-cabot-phillips-t-00-41-49) | 9 |
-| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-cabot-phillips-t-00-37-47) | 4 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-cabot-phillips-t-00-37-47) | 5 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-cabot-phillips-t-00-06-24) | 1 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-cabot-phillips-t-00-18-36) | 1 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-person-cabot-phillips-t-00-16-56) | 3 |
@@ -63,7 +63,7 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+<summary><strong class="section-title">Raw mentions (36)</strong></summary>
 
 <details>
 <summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (3 mentions)</summary>
@@ -162,19 +162,22 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 </details>
 
 <details>
-<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (4 mentions)</summary>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (5 mentions)</summary>
 
-**[00:38:11](/episodes/ep-OEAHy3SsIiI.md#ent-person-cabot-phillips-t-00-37-47)**
+**[00:38:04](/episodes/ep-OEAHy3SsIiI.md#ent-person-cabot-phillips-t-00-37-47)**
 > "somebody who looked similar to Cabot Phillips"
 
-**[00:38:27](/episodes/ep-OEAHy3SsIiI.md#ent-person-cabot-phillips-t-00-38-27)**
-> "Then he says he sees that Cabot Phillips looking special force type person the next day wi..."
+**[00:38:26](/episodes/ep-OEAHy3SsIiI.md#ent-person-cabot-phillips-t-00-38-26)**
+> "then they were just leaving the hotel. Then he says he sees that Cabot Phillips-looking, special-forces-type person the next day with Brian Harpole."
 
-**[00:58:48](/episodes/ep-OEAHy3SsIiI.md#ent-person-cabot-phillips-t-00-58-06)**
+**[00:58:50](/episodes/ep-OEAHy3SsIiI.md#ent-person-cabot-phillips-t-00-58-16)**
 > "We're going to talk about Cabot Phillips."
 
-**[00:58:53](/episodes/ep-OEAHy3SsIiI.md#ent-person-cabot-phillips-t-00-58-50)**
+**[00:58:53](/episodes/ep-OEAHy3SsIiI.md#ent-person-cabot-phillips-t-00-58-16)**
 > "...and again, remember regarding Cabot Phillips and Mark Amodei, I was not contacted about them i..."
+
+**[00:58:44](/episodes/ep-OEAHy3SsIiI.md#ent-person-cabot-phillips-t-00-58-16)**
+> "...er. We're going to talk about Cabot Phillips."
 
 </details>
 
@@ -234,7 +237,7 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:17:06](/episodes/ep-_vg7ucP1E0g.md#t-00-16-56): “This year, Erika (Erika Kirk) is dating Cabot Phillips, by the way. I told you she has a boyfriend.”
-- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:04:38](/episodes/ep-eLgD5yUVbko.md#t-00-04-21): “Erica's ex-boyfriend, one of the many current Daily Wire employee who was featured on my podcast when Mitch gave a description of a guy that he believed that he saw with Erica at Fort Wachuka back in September.”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:04:38](/episodes/ep-eLgD5yUVbko.md#t-00-04-21): “Erika's ex-boyfriend, one of the many current Daily Wire employee who was featured on my podcast when Mitch gave a description of a guy that he believed that he saw with Erika at Fort Huachuca back in September.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:20:20](/episodes/ep-xi8SYJTUXPM.md#t-00-20-20): “At this time, according to our timeline, Erika was dating Cabot Phillips.”
 
 </details>
@@ -248,7 +251,7 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:42:04](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49): “I know that he does the morning wire at Daily Wire”
-- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:04:38](/episodes/ep-eLgD5yUVbko.md#t-00-04-21): “Erica's ex-boyfriend, one of the many current Daily Wire employee who was featured on my podcast when Mitch gave a description of a guy that he believed that he saw with Erica at Fort Wachuka back in September.”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:04:38](/episodes/ep-eLgD5yUVbko.md#t-00-04-21): “Erika's ex-boyfriend, one of the many current Daily Wire employee who was featured on my podcast when Mitch gave a description of a guy that he believed that he saw with Erika at Fort Huachuca back in September.”
 
 </details>
 
@@ -261,7 +264,7 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 @ 00:42:04](/episodes/ep-w1oqQbR_bYs.md#t-00-41-49): “I know that he does the morning wire at Daily Wire”
-- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:04:38](/episodes/ep-eLgD5yUVbko.md#t-00-04-21): “Erica's ex-boyfriend, one of the many current Daily Wire employee who was featured on my podcast when Mitch gave a description of a guy that he believed that he saw with Erica at Fort Wachuka back in September.”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:04:38](/episodes/ep-eLgD5yUVbko.md#t-00-04-21): “Erika's ex-boyfriend, one of the many current Daily Wire employee who was featured on my podcast when Mitch gave a description of a guy that he believed that he saw with Erika at Fort Huachuca back in September.”
 
 </details>
 
@@ -269,7 +272,7 @@ Source: [Cabot Phillips - TPUSA Students](https://www.tpusastudents.com/speakers
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Bride Of Charlie: Red Sparrow | Episode 8 @ 00:17:06](/episodes/ep-_vg7ucP1E0g.md#t-00-16-56): “This year, Erika (Erika Kirk) is dating Cabot Phillips, by the way. I told you she has a boyfriend.”
-- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:04:38](/episodes/ep-eLgD5yUVbko.md#t-00-04-21): “Erica's ex-boyfriend, one of the many current Daily Wire employee who was featured on my podcast when Mitch gave a description of a guy that he believed that he saw with Erica at Fort Wachuka back in September.”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:04:38](/episodes/ep-eLgD5yUVbko.md#t-00-04-21): “Erika's ex-boyfriend, one of the many current Daily Wire employee who was featured on my podcast when Mitch gave a description of a guy that he believed that he saw with Erika at Fort Huachuca back in September.”
 - [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 @ 00:20:20](/episodes/ep-xi8SYJTUXPM.md#t-00-20-20): “At this time, according to our timeline, Erika was dating Cabot Phillips.”
 
 </details>

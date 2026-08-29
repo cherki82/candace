@@ -1,6 +1,6 @@
 ---
 title: "Massachusetts"
-description: "Massachusetts (Places) - 9 mentions"
+description: "Massachusetts (Places) - 10 mentions"
 id: "gpe-massachusetts"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [Massachusetts facts | Mass.gov](https://www.mass.gov/info-details/massa
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-massachusetts-t-00-21-55">2026-02-03 · 00:22:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2tFYJf1klgY.md#t-00-07-17">2026-03-03 · 00:07:17</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-massachusetts-t-00-56-06">2026-08-07 · 00:56:31</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -40,6 +40,7 @@ Source: [Massachusetts facts | Mass.gov](https://www.mass.gov/info-details/massa
 <a href="/episodes/ep-1IY2oD-_xVA.md#t-00-11-17" style="--pulse-height:33%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#t-00-27-32" style="--pulse-height:100%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 3 mentions" title="2026-02-28 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#t-00-07-17" style="--pulse-height:33%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-massachusetts-t-00-56-06" style="--pulse-height:33%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -50,6 +51,7 @@ Source: [Massachusetts facts | Mass.gov](https://www.mass.gov/info-details/massa
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#t-00-11-17) | 1 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#t-00-27-32) | 3 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#t-00-07-17) | 1 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-massachusetts-t-00-56-06) | 1 |
 
 </details>
 </section>
@@ -57,7 +59,15 @@ Source: [Massachusetts facts | Mass.gov](https://www.mass.gov/info-details/massa
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
+
+**[00:56:31](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-massachusetts-t-00-56-06)**
+> "in Massachusetts"
+
+</details>
 
 <details>
 <summary>Bride Of Charlie: The Lost Years... | Episode 5 (1 mentions)</summary>

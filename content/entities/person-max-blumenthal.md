@@ -36,7 +36,7 @@ Source: [Max Blumenthal - The Grayzone](https://thegrayzone.com/author/max-blume
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-person-max-blumenthal-t-00-37-04" style="--pulse-height:67%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 2 mentions" title="2025-10-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5autG89PW6w.md#ent-person-max-blumenthal-t-00-27-17" style="--pulse-height:33%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-max-blumenthal-t-00-52-41" style="--pulse-height:100%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 3 mentions" title="2025-10-08 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-max-blumenthal-t-00-53-16" style="--pulse-height:33%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-max-blumenthal-t-00-53-29" style="--pulse-height:33%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-person-max-blumenthal-t-00-30-13" style="--pulse-height:67%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-max-blumenthal-t-00-15-14" style="--pulse-height:33%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-max-blumenthal-t-00-19-58" style="--pulse-height:33%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
@@ -50,7 +50,7 @@ Source: [Max Blumenthal - The Grayzone](https://thegrayzone.com/author/max-blume
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-person-max-blumenthal-t-00-37-04) | 2 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-person-max-blumenthal-t-00-27-17) | 1 |
 | 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-person-max-blumenthal-t-00-52-41) | 3 |
-| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-max-blumenthal-t-00-53-16) | 1 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-max-blumenthal-t-00-53-29) | 1 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-max-blumenthal-t-00-30-13) | 2 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-max-blumenthal-t-00-15-14) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-max-blumenthal-t-00-19-58) | 1 |
@@ -93,7 +93,7 @@ Source: [Max Blumenthal - The Grayzone](https://thegrayzone.com/author/max-blume
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
 
-**[00:53:34](/episodes/ep-OEAHy3SsIiI.md#ent-person-max-blumenthal-t-00-53-16)**
+**[00:53:29](/episodes/ep-OEAHy3SsIiI.md#ent-person-max-blumenthal-t-00-53-29)**
 > "Max Blumenthal is crazy."
 
 </details>

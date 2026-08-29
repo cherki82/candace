@@ -19,7 +19,7 @@ _Type: Concepts_
 <div><span>Episodes</span><strong>12</strong></div>
 <div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -214,7 +214,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Doge (2)</strong></summary>
+<summary><strong class="section-title">Statements about Doge (3)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1)</summary>
+
+- [00:40:33](/episodes/ep-Vu6Y24pqhZs.md#t-00-40-06) (Claim) **Candace Owens**: ["Owens said Charlie Kirk established a DOGE audit that Turning Point US..."](/statements/statement-3569c918b532.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+</details>
 
 <details>
 <summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (1)</summary>

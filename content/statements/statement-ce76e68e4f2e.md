@@ -22,7 +22,7 @@ type: "accusation"
 
 - [Terrell Farnsworth](/entities/person-terrell-farnsworth.md) (person)
 
-## Appearances (2)
+## Appearances (3)
 
 ### 1. Erika And I Sat Down. Here’s What Happened. | Candace Ep 280
 
@@ -39,6 +39,14 @@ type: "accusation"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1996);return false;">Play</a>
 
 > That all changed after I had a phone call with Terrell Farnsworth. I recognized he was acting very strange, very strange on the phone, lying, saying he didn't know how to send a file. ... Just excuse after excuse. And I didn't understand why there would be any reason he was lying, saying he didn't know how to send a file.
+
+### 3. EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critica...
+
+**Episode:** [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md)
+**Timestamp:** [00:04:55](/episodes/ep-9hRcfSrri70.md#t-00-04-34) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(295);return false;">Play</a>
+
+> Anyway, yesterday I demonstrated to you all that Terrell Farnsworth lied to me. That's just a fact. He lied to me about not knowing how to send a clip.
 
 ## Verification
 

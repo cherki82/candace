@@ -11,7 +11,11 @@ object: "person-candace-owens"
 
 ## [Erika Kirk](/entities/person-erika-kirk) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (50 mentions)
+### Evidence (60 mentions)
+
+**[VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg)**
+
+- [00:02:01](/episodes/ep-1CFDtD0IgEg#t-00-02-01): _can we really make them believe that a grieving widow gave her husband's killer took over the entire company and is on a corporate Zoom call laughing at emojis within six days of her husband's public assassination?_
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -37,6 +41,10 @@ object: "person-candace-owens"
 
 - [00:50:52](/episodes/ep-4DvYXBn_5JI#t-00-50-52): _Ali writes or Ali pardon writes Erika went on Glenn Beck and said Charlie wasn't texting people that he was going to be killed the day before when she privately admitted to that this was false why didn't she correct the record publicly isn't that weird yes you are correct that is weird_
 
+**[Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg)**
+
+- [00:38:47](/episodes/ep-4JxgOclKzqg#t-00-38-47): _I'd like to remind everybody I was the last to comment publicly about the strange behavior of Erika Kirk, and I only weighed in beginning in December when she went on to a press tour and explicitly shared something that was untrue_
+
 **[Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM)**
 
 - [00:11:03](/episodes/ep-5m-Wn6Pr5rM#t-00-11-03): _She allows Andrew to look like a fool and like he's a liar, but in reality, it's Erika that's lying._
@@ -57,9 +65,17 @@ object: "person-candace-owens"
 
 - [00:23:00](/episodes/ep-A39g5oqB_eM#t-00-23-00): _I don't know what to say. ... all of this makes my skin crawl. ... It genuinely makes my skin crawl. I'm going to go ahead and say that._
 
+**[Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE)**
+
+- [00:40:23](/episodes/ep-AH1KVKkweUE#t-00-40-23): _Pathologically insane to believe a single word. That comes out of Erika Kirk's mouth._
+
 **[EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0)**
 
 - [00:48:34](/episodes/ep-B9TyCs-6o_0#t-00-48-34): _Have you paid attention to my Erika timeline? I can't find a moment when she wasn't seeking the limelight._
+
+**[LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8)**
+
+- [00:47:24](/episodes/ep-ChuWo-n49B8#t-00-47-24): _it's possible he made everything up i'm glad he got to that point it's definitely possible he made everything up and yeah like i said Piers (Piers Morgan), keep going because we've done a lot of work on this and he's not the only one that make maybe has false memories everything about Erika's (Erika Kirk) past you start looking into it and you're just falling through a dark hole everything she presented herself to be to Charlie (Charlie Kirk) is and you just want us to let it go it's no this is who she was bringing around_
 
 **[VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58)**
 
@@ -68,6 +84,10 @@ object: "person-candace-owens"
 **[Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY)**
 
 - [00:03:56](/episodes/ep-DdPjoy5W-wY#t-00-03-56): _Erika (Erika Kirk) is completely full of it_
+
+**[Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA)**
+
+- [00:00:21](/episodes/ep-E7P2ShoYDUA#t-00-00-21): _Just terrible, terrible. I mean, without question, the biggest loser was Erika Kirk, Andrew Kolvet. Blake Neff, the Turning Point USA organization, more broadly speaking, because we seem to be reaching a new depth of their PR disaster._
 
 **[I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks)**
 
@@ -80,6 +100,14 @@ object: "person-candace-owens"
 **[EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A)**
 
 - [00:00:22](/episodes/ep-H9p2ZGHAs9A#t-00-00-22): _I'll vote for somebody's pet fish before I vote for Erika Kirk. I am done. I have seen enough. I can no longer bear people defending Erika Kirk in any way, any shape, any form. It has to end. It has to stop._
+
+**[Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk)**
+
+- [00:27:21](/episodes/ep-HGtMfbePDKk#t-00-27-21): _You are spectacularly terrible. at pr it's like it is something how bad he is at pr it is something to be noticed a sight to behold is andrew colvette and erica kirk sitting there going this is going to be good for pr_
+
+**[BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o)**
+
+- [00:27:59](/episodes/ep-HZvwbfePe7o#t-00-27-59): _Anyway, I want you to take a listen to what Erika (Erika Kirk) says. If you are not fluent in Christianese, this may confuse you because people just keep applauding and pretending that there's something profound in what she's delivering._
 
 **[HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk)**
 
@@ -115,11 +143,15 @@ object: "person-candace-owens"
 
 **[PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4)**
 
-- [00:10:17](/episodes/ep-UYkXV9mYbT4#t-00-10-17): _Erica lied. Erica and Andrew colluded. on how to message to the public about this little fact that was never meant to be known to us._
+- [00:10:17](/episodes/ep-UYkXV9mYbT4#t-00-10-17): _Erika (Erika Kirk) lied. Erika (Erika Kirk) and Andrew (Andrew Kolvet) colluded. on how to message to the public about this little fact that was never meant to be known to us._
 
 **[I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8)**
 
 - [00:27:44](/episodes/ep-VMNWMXX1vO8#t-00-27-44): _Erika (Erika Kirk) can't get through a speech that's pre-written without a blunder, without saying something ridiculous._
+
+**[EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs)**
+
+- [00:40:40](/episodes/ep-Vu6Y24pqhZs#t-00-40-40): _Not interested, not as interested or maybe just honestly doesn't obviously possess the intellect that Charlie (Charlie Kirk) possessed. What did Charlie (Charlie Kirk) find out in his last days?_
 
 **[REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w)**
 
@@ -157,13 +189,17 @@ object: "person-candace-owens"
 
 - [00:23:28](/episodes/ep-cZxHqYsWRYg#t-00-23-28): _I think these people are sick in the head. There is something very wrong with Lori (Lori Frantzve). There is something very wrong with Erika (Erika Kirk)._
 
+**[A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8)**
+
+- [00:55:41](/episodes/ep-d7VsbEIWkP8#t-00-55-41): _off at three is a legitimate follow-up question to Erika (Erika Kirk)'s pastor in 2026 is somehow still less weird than the fact that Erika (Erika Kirk)'s inner circle includes a man who has to explain toddler cat-beheading logistics on national television._
+
 **[Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw)**
 
 - [00:41:31](/episodes/ep-ds6umq1rHAw#t-00-41-31): _Erica (Erika Kirk) really is a nun behind the scenes. I have told you explicitly she's nasty behind the scenes._
 
 **[Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko)**
 
-- [00:17:09](/episodes/ep-eLgD5yUVbko#t-00-17-09): _And it's unlikely. And to add to that totally unlikely scenario, they also kept insisting immediately and through various interviews that Erica was raised by a single mother, something that is objectively untrue. We have proven that a thousand times over it is objectively untrue for them to even suggest that Erica was raised by a single mother. It's not true. And by the way, it's weird that she describes herself as a single mother. You would say you're a widow. Just totally different vibe there. This feels evil to me. I have a troubling sense, a growing troubling sense that Charli never said it. Now being deepened further by donors with direct knowledge of this event. And speaking of a growing and troubling sense of evil, there is a relationship that is... That needs to be further explained, I think, or further understood between Erica Kirk and Ben Shapiro. It's beginning to make me uncomfortable._
+- [00:17:09](/episodes/ep-eLgD5yUVbko#t-00-17-09): _And it's unlikely. And to add to that totally unlikely scenario, they also kept insisting immediately and through various interviews that Erika was raised by a single mother, something that is objectively untrue. We have proven that a thousand times over it is objectively untrue for them to even suggest that Erika was raised by a single mother. It's not true._
 
 **[Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8)**
 
@@ -176,6 +212,10 @@ object: "person-candace-owens"
 **[Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk)**
 
 - [00:24:54](/episodes/ep-i8m_6D4QGmk#t-00-24-54): _Erika lies pathologically, and the media is trying to tell us that it's perfectly understandable—relatable, even._
+
+**[An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg)**
+
+- [00:46:22](/episodes/ep-iB-YtO3UZOg#t-00-46-22): _In retrospect, what Erika was doing was so evil. She was actually saying, I convict him._
 
 **[Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w)**
 
@@ -199,7 +239,7 @@ object: "person-candace-owens"
 
 **[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
 
-- [00:31:46](/episodes/ep-q1NRQQAYS_Q#t-00-31-46): _All right, you guys, let's get into Erica's story regarding her whereabouts on September 10th. Now, we've already established Erica lies and she pivots and she edits and then a bunch of people come out to protect her._
+- [00:31:46](/episodes/ep-q1NRQQAYS_Q#t-00-31-46): _All right, you guys, let's get into Erica (Erika Kirk)'s story regarding her whereabouts on September 10th. Now, we've already established Erica (Erika Kirk) lies and she pivots and she edits and then a bunch of people come out to protect her._
 
 **[TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ)**
 

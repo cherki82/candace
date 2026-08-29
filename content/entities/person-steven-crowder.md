@@ -1,6 +1,6 @@
 ---
 title: "Steven Crowder"
-description: "Steven Crowder (People) - 9 mentions"
+description: "Steven Crowder (People) - 18 mentions"
 id: "person-steven-crowder"
 type: "PERSON"
 aliases:
@@ -21,24 +21,26 @@ Source: [Steven Crowder Joins Rumble Exclusives](https://s3.amazonaws.com/b2icon
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-steven-crowder-t-00-04-16">2025-11-17 · 00:04:51</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-steven-crowder-t-00-51-31">2026-05-06 · 00:52:11</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-person-steven-crowder-t-00-00-27">2026-08-18 · 00:00:27</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-steven-crowder-t-00-04-16">Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-steven-crowder-t-00-13-20">Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-steven-crowder-t-00-04-16" style="--pulse-height:100%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 3 mentions" title="2025-11-17 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-steven-crowder-t-00-47-39" style="--pulse-height:67%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 2 mentions" title="2025-12-01 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-steven-crowder-t-00-12-00" style="--pulse-height:33%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-steven-crowder-t-00-57-11" style="--pulse-height:67%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-steven-crowder-t-00-51-31" style="--pulse-height:33%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-person-steven-crowder-t-00-04-16" style="--pulse-height:38%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 3 mentions" title="2025-11-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-steven-crowder-t-00-47-39" style="--pulse-height:25%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 2 mentions" title="2025-12-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-steven-crowder-t-00-12-00" style="--pulse-height:12%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-steven-crowder-t-00-57-11" style="--pulse-height:25%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-steven-crowder-t-00-51-31" style="--pulse-height:12%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-steven-crowder-t-00-13-20" style="--pulse-height:100%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 8 mentions" title="2026-08-17 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-person-steven-crowder-t-00-00-27" style="--pulse-height:12%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -49,6 +51,8 @@ Source: [Steven Crowder Joins Rumble Exclusives](https://s3.amazonaws.com/b2icon
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-steven-crowder-t-00-12-00) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-steven-crowder-t-00-57-11) | 2 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-steven-crowder-t-00-51-31) | 1 |
+| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-person-steven-crowder-t-00-13-20) | 8 |
+| 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-steven-crowder-t-00-00-27) | 1 |
 
 </details>
 </section>
@@ -56,7 +60,44 @@ Source: [Steven Crowder Joins Rumble Exclusives](https://s3.amazonaws.com/b2icon
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1 mentions)</summary>
+
+**[00:00:27](/episodes/ep-4JxgOclKzqg.md#ent-person-steven-crowder-t-00-00-27)**
+> "...g the permanent creep Stephen Crowder sneak his CEO into my home to join Stephen's show..."
+
+</details>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (8 mentions)</summary>
+
+**[00:13:28](/episodes/ep-E7P2ShoYDUA.md#ent-person-steven-crowder-t-00-13-20)**
+> "disrespectful. And then we figure out why. And then it starts to make sense because he shows up with Steven Crowder's team."
+
+**[00:13:36](/episodes/ep-E7P2ShoYDUA.md#ent-person-steven-crowder-t-00-13-20)**
+> "Steven Crowder's producer, CEO, regular on-air talent feature who ..."
+
+**[00:13:47](/episodes/ep-E7P2ShoYDUA.md#ent-person-steven-crowder-t-00-13-20)**
+> "If you don't know who Steven Crowder is, he's basically a child actor who never stoppe..."
+
+**[00:14:58](/episodes/ep-E7P2ShoYDUA.md#ent-person-steven-crowder-t-00-14-44)**
+> "...never have been interested in steven crowder i genuinely like i don't follow his stuff i've ne..."
+
+**[00:33:46](/episodes/ep-E7P2ShoYDUA.md#ent-person-steven-crowder-t-00-33-46)**
+> "this is very Steven Crowder coded like to have clips just to you guys in the ..."
+
+**[01:06:05](/episodes/ep-E7P2ShoYDUA.md#ent-person-steven-crowder-t-01-06-05)**
+> "...s hilarious because obviously Steven Crowder is somehow invested in this and, you know, just n..."
+
+**[01:20:48](/episodes/ep-E7P2ShoYDUA.md#ent-person-steven-crowder-t-01-20-33)**
+> "He's almost 50. Steven Crowder's 40. Like grow up, be professional. What are you, ..."
+
+**[01:21:00](/episodes/ep-E7P2ShoYDUA.md#ent-person-steven-crowder-t-01-21-00)**
+> "...zy I literally have never met Steven Crowder so that entire obsession with me is just because ..."
+
+</details>
 
 <details>
 <summary>Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 (1 mentions)</summary>
@@ -131,9 +172,11 @@ Source: [Steven Crowder Joins Rumble Exclusives](https://s3.amazonaws.com/b2icon
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:57:19](/episodes/ep-1hcjQGgvxUY.md#t-00-57-11): “I think he knew he was ... Stop shoveling out Fed slop.”
+- [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:13:47](/episodes/ep-E7P2ShoYDUA.md#t-00-13-20): “If you don't know who Steven Crowder is, he's basically a child actor who never stopped being a child actor.”
+- [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:00:27](/episodes/ep-4JxgOclKzqg.md#t-00-00-27): “Misdemeanor offense, they ran afoul of CO code 92784 colluding with debate bro slobs to attack me, violating my personal space, ignoring the rules, having the permanent creep Stephen Crowder sneak his CEO into my home to join Stephen's show from my children's playroom without my consent, without my knowledge.”
 
 </details>
 
@@ -143,9 +186,11 @@ Source: [Steven Crowder Joins Rumble Exclusives](https://s3.amazonaws.com/b2icon
 <summary>Referenced By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Okay…These Text Messages Are Crazy! | Candace Ep 307 @ 00:57:19](/episodes/ep-1hcjQGgvxUY.md#t-00-57-11): “I think he knew he was ... Stop shoveling out Fed slop.”
+- [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:13:47](/episodes/ep-E7P2ShoYDUA.md#t-00-13-20): “If you don't know who Steven Crowder is, he's basically a child actor who never stopped being a child actor.”
+- [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 @ 00:00:27](/episodes/ep-4JxgOclKzqg.md#t-00-00-27): “Misdemeanor offense, they ran afoul of CO code 92784 colluding with debate bro slobs to attack me, violating my personal space, ignoring the rules, having the permanent creep Stephen Crowder sneak his CEO into my home to join Stephen's show from my children's playroom without my consent, without my knowledge.”
 
 </details>
 
@@ -177,7 +222,15 @@ Source: [Steven Crowder Joins Rumble Exclusives](https://s3.amazonaws.com/b2icon
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Steven Crowder (3)</strong></summary>
+<summary><strong class="section-title">Statements about Steven Crowder (4)</strong></summary>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1)</summary>
+
+- [00:13:28](/episodes/ep-E7P2ShoYDUA.md#t-00-13-20) (Claim) **Candace Owens**: ["Owens said Andrew Wilson arrived at her home with Steven Crowder's tea..."](/statements/statement-bc77ee3a3faf.md)
+  - Also about: [Andrew Wilson](/entities/person-andrew-wilson.md)
+
+</details>
 
 <details>
 <summary>Okay…These Text Messages Are Crazy! | Candace Ep 307 (1)</summary>

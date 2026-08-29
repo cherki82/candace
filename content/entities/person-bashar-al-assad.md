@@ -1,6 +1,6 @@
 ---
 title: "Bashar al-Assad"
-description: "Bashar al-Assad (People) - 9 mentions"
+description: "Bashar al-Assad (People) - 7 mentions"
 id: "person-bashar-al-assad"
 type: "PERSON"
 aliases:
@@ -23,9 +23,9 @@ Source: [Former Syrian President Assad - Associated Press](https://apnews.com/ar
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-bashar-al-assad-t-00-49-02">2025-10-09 · 00:49:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-bashar-al-assad-t-01-06-01">2026-01-05 · 01:06:05</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-bashar-al-assad-t-01-05-36">2026-01-05 · 01:06:01</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -34,11 +34,11 @@ Source: [Former Syrian President Assad - Associated Press](https://apnews.com/ar
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-bashar-al-assad-t-01-03-08">You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284</a> (5 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-bashar-al-assad-t-00-42-29">Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-bashar-al-assad-t-00-49-02" style="--pulse-height:20%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 1 mentions" title="2025-10-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-bashar-al-assad-t-00-42-29" style="--pulse-height:60%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 3 mentions" title="2025-12-02 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-bashar-al-assad-t-01-03-08" style="--pulse-height:100%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 5 mentions" title="2026-01-05 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-person-bashar-al-assad-t-00-49-02" style="--pulse-height:33%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 1 mentions" title="2025-10-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-bashar-al-assad-t-00-42-29" style="--pulse-height:100%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 3 mentions" title="2025-12-02 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-bashar-al-assad-t-01-03-38" style="--pulse-height:100%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 3 mentions" title="2026-01-05 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,7 +46,7 @@ Source: [Former Syrian President Assad - Associated Press](https://apnews.com/ar
 |---|---|---:|
 | 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-person-bashar-al-assad-t-00-49-02) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-person-bashar-al-assad-t-00-42-29) | 3 |
-| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-bashar-al-assad-t-01-03-08) | 5 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-bashar-al-assad-t-01-03-38) | 3 |
 
 </details>
 </section>
@@ -54,24 +54,18 @@ Source: [Former Syrian President Assad - Associated Press](https://apnews.com/ar
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
 
 <details>
-<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (5 mentions)</summary>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (3 mentions)</summary>
 
-**[01:03:45](/episodes/ep-OEAHy3SsIiI.md#ent-person-bashar-al-assad-t-01-03-08)**
-> "No, this is the same thing that happened with Assad."
+**[01:03:45](/episodes/ep-OEAHy3SsIiI.md#ent-person-bashar-al-assad-t-01-03-38)**
+> "No, this is the same thing that happened with Assad, and I was proven correct in Syria."
 
-**[01:03:48](/episodes/ep-OEAHy3SsIiI.md#ent-person-bashar-al-assad-t-01-03-08)**
-> "Assad and I was proven correct in Syria."
-
-**[01:03:51](/episodes/ep-OEAHy3SsIiI.md#ent-person-bashar-al-assad-t-01-03-51)**
-> "Israel wanted Assad gone because they want to expand their borders fo..."
-
-**[01:03:56](/episodes/ep-OEAHy3SsIiI.md#ent-person-bashar-al-assad-t-01-03-51)**
+**[01:03:51](/episodes/ep-OEAHy3SsIiI.md#ent-person-bashar-al-assad-t-01-03-38)**
 > "...d possibly happen would be if Assad continued to be the president of Syria."
 
-**[01:06:05](/episodes/ep-OEAHy3SsIiI.md#ent-person-bashar-al-assad-t-01-06-01)**
+**[01:06:01](/episodes/ep-OEAHy3SsIiI.md#ent-person-bashar-al-assad-t-01-05-36)**
 > "...m Maduro, nor do I think that Assad was some perfect president of Syria."
 
 </details>
@@ -113,7 +107,7 @@ _No relationships extracted yet._
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1)</summary>
 
-- [01:03:51](/episodes/ep-OEAHy3SsIiI.md#t-01-03-08) (Accusation) **Candace Owens**: ["Israel wanted Bashar al-Assad removed so it could expand its borders u..."](/statements/statement-0f0985fbba16.md)
+- [01:03:51](/episodes/ep-OEAHy3SsIiI.md#t-01-03-38) (Accusation) **Candace Owens**: ["Israel wanted Bashar al-Assad removed so it could expand its borders u..."](/statements/statement-0f0985fbba16.md)
   - Also about: [Israel](/entities/gpe-israel.md), [Syria](/entities/gpe-syria.md)
 
 </details>

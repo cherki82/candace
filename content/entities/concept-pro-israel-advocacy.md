@@ -1,6 +1,6 @@
 ---
 title: "Pro-Israel advocacy"
-description: "Pro-Israel advocacy (Concepts) - 65 mentions"
+description: "Pro-Israel advocacy (Concepts) - 71 mentions"
 id: "concept-pro-israel-advocacy"
 type: "CONCEPT"
 aliases:
@@ -22,11 +22,11 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YFmRH8p5lt0.md#ent-concept-pro-israel-advocacy-t-00-12-27">2025-10-31 · 00:12:40</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-pro-israel-advocacy-t-00-28-12">2026-08-14 · 00:28:48</a></strong></div>
-<div><span>Episodes</span><strong>27</strong></div>
-<div><span>Mentions</span><strong>65</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-concept-pro-israel-advocacy-t-00-51-04">2026-08-21 · 00:51:24</a></strong></div>
+<div><span>Episodes</span><strong>31</strong></div>
+<div><span>Mentions</span><strong>71</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>28</strong></div>
+<div><span>Statements about</span><strong>31</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -36,7 +36,7 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 <p>Highest activity: <a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-pro-israel-advocacy-t-00-15-41">The World Is A Stage: Trump Survives...Again? | Ep 343</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-concept-pro-israel-advocacy-t-00-12-27" style="--pulse-height:86%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 6 mentions" title="2025-10-31 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-pro-israel-advocacy-t-00-12-29" style="--pulse-height:14%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-pro-israel-advocacy-t-00-12-20" style="--pulse-height:14%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-pro-israel-advocacy-t-00-38-55" style="--pulse-height:29%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-concept-pro-israel-advocacy-t-00-55-36" style="--pulse-height:29%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-pro-israel-advocacy-t-00-06-27" style="--pulse-height:14%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
@@ -46,7 +46,7 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-concept-pro-israel-advocacy-t-00-44-06" style="--pulse-height:14%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-concept-pro-israel-advocacy-t-00-04-23" style="--pulse-height:14%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-concept-pro-israel-advocacy-t-00-03-17" style="--pulse-height:14%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-rupRLXmSndU.md#ent-concept-pro-israel-advocacy-t-00-49-25" style="--pulse-height:29%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-concept-pro-israel-advocacy-t-00-49-25" style="--pulse-height:43%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 3 mentions" title="2026-04-01 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-concept-pro-israel-advocacy-t-00-36-07" style="--pulse-height:43%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 3 mentions" title="2026-05-04 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-concept-pro-israel-advocacy-t-00-14-21" style="--pulse-height:57%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 4 mentions" title="2026-05-05 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-pro-israel-advocacy-t-01-14-45" style="--pulse-height:29%" aria-label="Candace x Hunter Biden: The Interview: 2 mentions" title="2026-05-21 · 2 mentions"><span></span></a>
@@ -61,14 +61,18 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-concept-pro-israel-advocacy-t-00-41-05" style="--pulse-height:29%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-concept-pro-israel-advocacy-t-00-25-58" style="--pulse-height:29%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-concept-pro-israel-advocacy-t-00-12-40" style="--pulse-height:71%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 5 mentions" title="2026-07-23 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-concept-pro-israel-advocacy-t-00-42-23" style="--pulse-height:14%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#ent-concept-pro-israel-advocacy-t-00-29-53" style="--pulse-height:14%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-pro-israel-advocacy-t-00-28-12" style="--pulse-height:14%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-concept-pro-israel-advocacy-t-00-03-34" style="--pulse-height:29%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-concept-pro-israel-advocacy-t-00-51-04" style="--pulse-height:14%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-concept-pro-israel-advocacy-t-00-12-27) | 6 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-concept-pro-israel-advocacy-t-00-12-29) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-concept-pro-israel-advocacy-t-00-12-20) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-pro-israel-advocacy-t-00-38-55) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-pro-israel-advocacy-t-00-55-36) | 2 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-pro-israel-advocacy-t-00-06-27) | 1 |
@@ -78,7 +82,7 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-concept-pro-israel-advocacy-t-00-44-06) | 1 |
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-concept-pro-israel-advocacy-t-00-04-23) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-concept-pro-israel-advocacy-t-00-03-17) | 1 |
-| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-concept-pro-israel-advocacy-t-00-49-25) | 2 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-concept-pro-israel-advocacy-t-00-49-25) | 3 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-concept-pro-israel-advocacy-t-00-36-07) | 3 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-concept-pro-israel-advocacy-t-00-14-21) | 4 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-concept-pro-israel-advocacy-t-01-14-45) | 2 |
@@ -93,7 +97,11 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-concept-pro-israel-advocacy-t-00-41-05) | 2 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-concept-pro-israel-advocacy-t-00-25-58) | 2 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-concept-pro-israel-advocacy-t-00-12-40) | 5 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-concept-pro-israel-advocacy-t-00-42-23) | 1 |
+| 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-concept-pro-israel-advocacy-t-00-29-53) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-pro-israel-advocacy-t-00-28-12) | 1 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-concept-pro-israel-advocacy-t-00-03-34) | 2 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-concept-pro-israel-advocacy-t-00-51-04) | 1 |
 
 </details>
 </section>
@@ -101,13 +109,48 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (65)</strong></summary>
+<summary><strong class="section-title">Raw mentions (71)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
+
+**[00:51:24](/episodes/ep-_cNtgris8Ik.md#ent-concept-pro-israel-advocacy-t-00-51-04)**
+> "...lie saying I'm abandoning the pro-Israel cause."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:28:48](/episodes/ep-nPhCKwJ6ye8.md#ent-concept-pro-israel-advocacy-t-00-28-12)**
 > "...me no choice but to leave the pro-Israel cause."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (2 mentions)</summary>
+
+**[00:04:09](/episodes/ep-aPOyk1i2LOc.md#ent-concept-pro-israel-advocacy-t-00-03-34)**
+> "...me no choice but to leave the pro-Israel cause."
+
+**[01:57:54](/episodes/ep-aPOyk1i2LOc.md#ent-concept-pro-israel-advocacy-t-01-57-50)**
+> "...him saying he was leaving the pro-Israel cause when everyone was lying about that then the..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>
+
+**[00:30:18](/episodes/ep-5zgkrOaCCj4.md#ent-concept-pro-israel-advocacy-t-00-29-53)**
+> "...she has been very involved on pro-Israel causes long before Charlie (Charlie Kirk) was ass..."
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (1 mentions)</summary>
+
+**[00:42:36](/episodes/ep-HZvwbfePe7o.md#ent-concept-pro-israel-advocacy-t-00-42-23)**
+> "So I do want to thank them. A comment under today’s episode: Robin Phillips writes, “I’m no Ye (Kanye West), but I like how you think, too. Andrew Kolvet and Blake Neff are falling down their own mountain of evidence against Tyler Robinson. They want to distract you from your investigation. You must be close, and they are scared. The preacher looks like he is fresh from a prison yard. I do not know what that outfit is. Absurd. It is absurd. Have some respect. You are older—put on a collar. By the way, he obviously works for every pro-Israel—”"
 
 </details>
 
@@ -305,13 +348,16 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 </details>
 
 <details>
-<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2 mentions)</summary>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (3 mentions)</summary>
 
 **[00:49:25](/episodes/ep-rupRLXmSndU.md#ent-concept-pro-israel-advocacy-t-00-49-25)**
 > "They're lying about what he was going through. He was under immense pressure and he was done, as he wrote, as he said, he was done with the pro-Israel cause."
 
 **[00:49:33](/episodes/ep-rupRLXmSndU.md#ent-concept-pro-israel-advocacy-t-00-49-25)**
 > "... no choice but to abandon the pro-Israel cause."
+
+**[00:49:54](/episodes/ep-rupRLXmSndU.md#ent-concept-pro-israel-advocacy-t-00-49-25)**
+> "...e was actually abandoning the pro-Israel cause because my husband was under a tremendous a..."
 
 </details>
 
@@ -405,7 +451,7 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
 
-**[00:12:39](/episodes/ep-HYn0P-P1wUw.md#ent-concept-pro-israel-advocacy-t-00-12-29)**
+**[00:12:39](/episodes/ep-HYn0P-P1wUw.md#ent-concept-pro-israel-advocacy-t-00-12-20)**
 > "...he was in fact abandoning the pro-Israel cause 48 hours before he was assassinated, despit..."
 
 </details>
@@ -443,7 +489,26 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Pro-Israel advocacy (28)</strong></summary>
+<summary><strong class="section-title">Statements about Pro-Israel advocacy (31)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2)</summary>
+
+- [00:50:44](/episodes/ep-_cNtgris8Ik.md#t-00-50-37) (Claim) **Candace Owens** (via paraphrase): ["Owens said Kolvet told her about a Bill Ackman summit and a Benjamin N..."](/statements/statement-0f55bef1a565.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Bill Ackman](/entities/person-bill-ackman.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
+
+- [00:51:24](/episodes/ep-_cNtgris8Ik.md#t-00-51-04) (Claim) **Candace Owens** (via paraphrase): ["Owens said Kolvet told her about a chat in which Kirk said he was aban..."](/statements/statement-bbd5533d9014.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (1)</summary>
+
+- [00:06:24](/episodes/ep-HZvwbfePe7o.md#t-00-06-16) (Accusation) **Candace Owens**: ["Owens alleged that during the last year and a half of Charlie Kirk's l..."](/statements/statement-ed3569c19255.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (3)</summary>

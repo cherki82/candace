@@ -1,6 +1,6 @@
 ---
 title: "Al-Nusra Front"
-description: "Al-Nusra Front (Organizations) - 1 mention"
+description: "Al-Nusra Front (Organizations) - 3 mentions"
 id: "org-al-nusra-front"
 type: "ORG"
 aliases:
@@ -24,27 +24,31 @@ _Type: Organizations_
 Source: [United Nations Al-Qaida Sanctions Monitoring Report](https://documents.un.org/doc/undoc/gen/n25/041/59/pdf/n2504159.pdf)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-org-al-nusra-front-t-01-22-29">2026-05-28 · 01:22:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-org-al-nusra-front-t-01-22-29">2026-05-28 · 01:22:29</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-al-nusra-front-t-01-04-13">2026-01-05 · 01:04:13</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-al-nusra-front-t-00-47-40">2026-08-07 · 00:47:48</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-SKNJPul29zU.md#ent-org-al-nusra-front-t-01-22-29">Candace Owens x Ana Kasparian</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-al-nusra-front-t-01-04-13">You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-al-nusra-front-t-01-04-13" style="--pulse-height:100%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-org-al-nusra-front-t-01-22-29" style="--pulse-height:100%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-al-nusra-front-t-00-47-40" style="--pulse-height:100%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-al-nusra-front-t-01-04-13) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-al-nusra-front-t-01-22-29) | 1 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-org-al-nusra-front-t-00-47-40) | 1 |
 
 </details>
 </section>
@@ -52,13 +56,29 @@ Source: [United Nations Al-Qaida Sanctions Monitoring Report](https://documents.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
+
+**[00:47:48](/episodes/ep-d7VsbEIWkP8.md#ent-org-al-nusra-front-t-00-47-40)**
+> "Al Nusra"
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1 mentions)</summary>
 
 **[01:22:29](/episodes/ep-SKNJPul29zU.md#ent-org-al-nusra-front-t-01-22-29)**
 > "Al-Nusra exactly"
+
+</details>
+
+<details>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
+
+**[01:04:13](/episodes/ep-OEAHy3SsIiI.md#ent-org-al-nusra-front-t-01-04-13)**
+> "...Qaeda-adjacent group. I think Al-Nusra is the name of the group, because they do—they wo..."
 
 </details>
 
@@ -113,7 +133,15 @@ Source: [United Nations Al-Qaida Sanctions Monitoring Report](https://documents.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Al-Nusra Front (1)</strong></summary>
+<summary><strong class="section-title">Statements about Al-Nusra Front (2)</strong></summary>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1)</summary>
+
+- [00:47:48](/episodes/ep-d7VsbEIWkP8.md#t-00-47-40) (Accusation) **Candace Owens**: ["Candace Owens rhetorically asked whether people knew about the CIA and..."](/statements/statement-73e33489e3a9.md)
+  - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Israel](/entities/gpe-israel.md), [Islam](/entities/concept-islam.md)
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1)</summary>

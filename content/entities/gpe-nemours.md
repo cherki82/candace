@@ -5,11 +5,19 @@ id: "gpe-nemours"
 type: "GPE"
 aliases:
   - "Nemours, France"
+categories:
+  - "French commune"
 ---
 
 _Type: Places_
 
 **Also known as:** Nemours, France
+
+**Categories:** French commune
+
+**Entity verification:** verified
+> Canonical name and identity for Nemours confirmed by the cited direct external source.
+Source: [Nemours](https://en.wikipedia.org/wiki/Nemours)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-nemours-t-00-44-08">2025-12-01 · 00:29:47</a></strong></div>

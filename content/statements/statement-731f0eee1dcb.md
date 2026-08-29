@@ -1,6 +1,6 @@
 ---
-title: "the FBI quickly releases Lance. And I'm told that he is drop..."
-description: "\"the FBI quickly releases Lance. And I'm told that he is dropped off at his parents' home\" — Candace Owens"
+title: "Candace Owens said the FBI quickly released Lance Twiggs and..."
+description: "\"Candace Owens said the FBI quickly released Lance Twiggs and that she was told, allegedly, that he was dropped off at his parents' home.\" — Candace Owens"
 statement_id: "statement-731f0eee1dcb"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> the FBI quickly releases Lance. And I'm told that he is dropped off at his parents' home
+> Candace Owens said the FBI quickly released Lance Twiggs and that she was told, allegedly, that he was dropped off at his parents' home.
 
 ## Attribution
 

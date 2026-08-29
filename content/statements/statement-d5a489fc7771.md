@@ -1,6 +1,6 @@
 ---
-title: "Ahmed Qureshi, Zachariah Qureshi's father, is an O-6 in the ..."
-description: "\"Ahmed Qureshi, Zachariah Qureshi's father, is an O-6 in the U.S. Navy and a commanding officer.\" — Candace Owens"
+title: "Ahmed Qureshi, Zachariah Qureshi's father, is an 06 in the U..."
+description: "\"Ahmed Qureshi, Zachariah Qureshi's father, is an 06 in the U.S. Navy and a commanding officer.\" — Candace Owens"
 statement_id: "statement-d5a489fc7771"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "mixed"
 
 ## Statement
 
-> Ahmed Qureshi, Zachariah Qureshi's father, is an O-6 in the U.S. Navy and a commanding officer.
+> Ahmed Qureshi, Zachariah Qureshi's father, is an 06 in the U.S. Navy and a commanding officer.
 
 ## Attribution
 
@@ -31,7 +31,7 @@ veracity: "mixed"
 **Timestamp:** [00:09:45](/episodes/ep-rupRLXmSndU.md#t-00-09-38) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(585);return false;">Play</a>
 
-> Zach's father, Zachariah's father, is actually an 06 in the military. ... Ahmed Qureshi, that is Zachariah's father, he is an 06 in the Navy. ... That means he's a commanding officer.
+> Ahmed Qureshi, that is Zachariah (Zachariah Qureshi)'s father, he is an 06 in the Navy. ... That means he's a commanding officer.
 
 ## Verification
 

@@ -39,7 +39,7 @@ object: "org-the-new-york-times"
 
 **[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
 
-- [00:35:14](/episodes/ep-q1NRQQAYS_Q#t-00-35-14): _Erica sat down with the New York Times, as we have many times covered over, just days following the assassination, welcomed them into her and Charlie's apartment, and here is what they published verbatim. They wrote, it had been miss..._
+- [00:35:14](/episodes/ep-q1NRQQAYS_Q#t-00-35-14): _Erica (Erika Kirk) sat down with the New York Times, as we have many times covered over, just days following the assassination, welcomed them into her and Charlie (Charlie Kirk)'s apartment, and here is what they published verbatim. They wrote, it had been miss..._
 
 ### Related
 

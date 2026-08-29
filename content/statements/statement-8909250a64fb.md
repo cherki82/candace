@@ -4,9 +4,10 @@ description: "\"Charlie Kirk wrote that pro-Israel support was transactional, th
 statement_id: "statement-8909250a64fb"
 speaker: "Charlie Kirk"
 type: "opinion"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -36,7 +37,20 @@ type: "opinion"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The source context records Owens reading the Kirk-attributed message with each summarized element: transactional support, repulsion, and the contrast between being called a Jewish shill and a Hamas agent. Verification is of the quoted opinion as presented.
+
+**Confidence:** High
+
+**Sources:**
+
+- [EXCLUSIVE: Ben Shapiro's 9/10 Lunch Date — Candace Ep. 365 transcript](https://podcasts.happyscribe.com/candace/10-lunch-date-more-text-messages-from-charlie-kirk)
+
+*Verified: 2026-08-27T19:42:39.589198*
 
 ---
 

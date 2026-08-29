@@ -61,7 +61,7 @@ Source: [Warren Commission Report, Chapter 5 | National Archives](https://www.ar
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1 mentions)</summary>
 
 **[00:33:58](/episodes/ep-rupRLXmSndU.md#ent-person-lee-harvey-oswald-t-00-33-34)**
-> "Lee Oswald Harvey"
+> "We needed to do this in 63 and we're going to do it again and kind of maybe all the same players are involved because we all know who killed JFK and it wasn't Lee Harvey Oswald."
 
 </details>
 

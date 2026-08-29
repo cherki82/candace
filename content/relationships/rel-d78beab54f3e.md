@@ -23,7 +23,7 @@ object: "person-erika-kirk"
 
 **[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
 
-- [00:32:10](/episodes/ep-q1NRQQAYS_Q#t-00-32-10): _The opinion, which was shared by Elizabeth Lane, that Erica has psychopathic tendencies. By the way, Blake, looking back at you, buddy, I'm not the one who had an employer that got allegedly shot in front of my face and I didn't think to call 911._
+- [00:32:10](/episodes/ep-q1NRQQAYS_Q#t-00-32-10): _The opinion, which was shared by Elizabeth Lane, that Erica (Erika Kirk) has psychopathic tendencies. By the way, Blake (Blake Neff), looking back at you, buddy, I'm not the one who had an employer that got allegedly shot in front of my face and I didn't think to call 911._
 
 ### Related
 

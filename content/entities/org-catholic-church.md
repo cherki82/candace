@@ -1,6 +1,6 @@
 ---
 title: "Catholic Church"
-description: "Catholic Church (Organizations) - 23 mentions"
+description: "Catholic Church (Organizations) - 29 mentions"
 id: "org-catholic-church"
 type: "ORG"
 aliases:
@@ -22,12 +22,12 @@ Source: [The Holy See](https://www.vatican.va/content/vatican/en.html)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-catholic-church-t-00-34-29">2026-02-03 · 00:34:49</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-9CuC1yf8-PU.md#ent-org-catholic-church-t-00-45-59">2026-06-23 · 00:46:13</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-catholic-church-t-01-14-05">2026-08-17 · 01:14:22</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>29</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
-<div><span>Relationships</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>11</strong></div>
+<div><span>Relationships</span><strong>6</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -49,6 +49,9 @@ Source: [The Holy See](https://www.vatican.va/content/vatican/en.html)
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-org-catholic-church-t-00-01-26" style="--pulse-height:14%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-org-catholic-church-t-00-13-15" style="--pulse-height:14%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-org-catholic-church-t-00-45-59" style="--pulse-height:14%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-org-catholic-church-t-00-17-17" style="--pulse-height:29%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 2 mentions" title="2026-07-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-org-catholic-church-t-00-53-08" style="--pulse-height:29%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 2 mentions" title="2026-08-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-catholic-church-t-01-13-21" style="--pulse-height:29%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 2 mentions" title="2026-08-17 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,6 +71,9 @@ Source: [The Holy See](https://www.vatican.va/content/vatican/en.html)
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-org-catholic-church-t-00-01-26) | 1 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-org-catholic-church-t-00-13-15) | 1 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-org-catholic-church-t-00-45-59) | 1 |
+| 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-org-catholic-church-t-00-17-17) | 2 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-org-catholic-church-t-00-53-08) | 2 |
+| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-org-catholic-church-t-01-13-21) | 2 |
 
 </details>
 </section>
@@ -75,7 +81,40 @@ Source: [The Holy See](https://www.vatican.va/content/vatican/en.html)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (29)</strong></summary>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (2 mentions)</summary>
+
+**[01:13:33](/episodes/ep-E7P2ShoYDUA.md#ent-org-catholic-church-t-01-13-21)**
+> "I'm going to look out for those people, people like my sister. Um, if you want an organization that's going to get money from me, it's going to be the Catholic church, the priests that took care of me emotionally when I was coming apart with the realization that, uh, Charlie (Charlie Kirk) and everything that he had worked for, he was being, he's been betrayed."
+
+**[01:14:22](/episodes/ep-E7P2ShoYDUA.md#ent-org-catholic-church-t-01-14-05)**
+> "...'m going to give money to the Catholic Church and I'm going to decide what I want to do."
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (2 mentions)</summary>
+
+**[00:53:13](/episodes/ep-ChuWo-n49B8.md#ent-org-catholic-church-t-00-53-08)**
+> "be baptized in the Roman Catholic Church"
+
+**[00:53:35](/episodes/ep-ChuWo-n49B8.md#ent-org-catholic-church-t-00-53-08)**
+> "... opposite desired effect. The Catholic church grew so much after Charlie's (Charlie Kirk) assas..."
+
+</details>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (2 mentions)</summary>
+
+**[00:17:17](/episodes/ep-AoYZel7_cGQ.md#ent-org-catholic-church-t-00-17-17)**
+> "...uneral mass that is held at a Catholic church that Charlie (Charlie Kirk) regularly attends."
+
+**[00:23:10](/episodes/ep-AoYZel7_cGQ.md#ent-org-catholic-church-t-00-22-44)**
+> "...imately, they landed upon the Catholic Church because of Erika (Erika Kirk)'s very strong ties ..."
+
+</details>
 
 <details>
 <summary>Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354 (1 mentions)</summary>
@@ -162,7 +201,7 @@ Source: [The Holy See](https://www.vatican.va/content/vatican/en.html)
 > "...n't mention the fear that the Catholic church and all other Christian organizations had during ..."
 
 **[00:55:21](/episodes/ep-eLgD5yUVbko.md#ent-org-catholic-church-t-00-55-21)**
-> "...rayers of like she's like the catholic church should thank you for pope the 14 what"
+> "that's what laura loomer said to him i think that is she text him and she's telling the truth and she's like he wouldn't even be pope if it wasn't for you she's like been very borderline lately like she's like feels like she should probably be put in another hold but like she's still out there tweeting crazy things i feel like that's what paula white said to him like in a couple of her her blasphemous prayers of like she's like the catholic church should thank you for Pope Leo XIV what"
 
 </details>
 
@@ -222,14 +261,15 @@ Source: [The Holy See](https://www.vatican.va/content/vatican/en.html)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Has Member (2)</summary>
+<summary>Has Member (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 01:06:35](/episodes/ep-qZ8RWfyuewQ.md#t-01-06-24): “it was a planned trip to Rome, which I actually sort of announced back in March at the Catholics for Catholics event when I said this. ... I was confirmed by in the old Latin rite by a cardinal. My priest flew in from London.”
 - [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:36:09](/episodes/ep-Dkxa9OUA9K8.md#t-00-36-07): “So I'm Catholic. So the idea of you not being a priest and being able to exorcise demons is something that I'm interested in.”
 - [Candace x Hunter Biden: The Interview @ 01:03:14](/episodes/ep-Ux1kzgQxkws.md#t-01-03-14): “I'm Catholic. I have, you know, there's nothing that has changed.”
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:52:27](/episodes/ep-ChuWo-n49B8.md#t-00-52-27): “And so the person links that. So I want to issue that correction. and also plead ignorance because I told you guys that when I was baptized Catholic, it was done in the traditional Latin rights.”
 
 </details>
 
@@ -240,17 +280,25 @@ Source: [The Holy See](https://www.vatican.va/content/vatican/en.html)
 
 </details>
 
+- **[True Detective (commenter; identity unverified)](/entities/anon-src-iB-YtO3UZOg-true-detective.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:53:13](/episodes/ep-ChuWo-n49B8.md#t-00-53-08): “This led me to enroll in OCIA and be baptized in the Roman Catholic Church this past Easter.”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (2)</summary>
+<summary>Referenced By (3)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** member of this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 01:06:35](/episodes/ep-qZ8RWfyuewQ.md#t-01-06-24): “it was a planned trip to Rome, which I actually sort of announced back in March at the Catholics for Catholics event when I said this. ... I was confirmed by in the old Latin rite by a cardinal. My priest flew in from London.”
 - [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 @ 00:36:09](/episodes/ep-Dkxa9OUA9K8.md#t-00-36-07): “So I'm Catholic. So the idea of you not being a priest and being able to exorcise demons is something that I'm interested in.”
 - [Candace x Hunter Biden: The Interview @ 01:03:14](/episodes/ep-Ux1kzgQxkws.md#t-01-03-14): “I'm Catholic. I have, you know, there's nothing that has changed.”
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:52:27](/episodes/ep-ChuWo-n49B8.md#t-00-52-27): “And so the person links that. So I want to issue that correction. and also plead ignorance because I told you guys that when I was baptized Catholic, it was done in the traditional Latin rights.”
 
 </details>
 
@@ -261,12 +309,37 @@ Source: [The Holy See](https://www.vatican.va/content/vatican/en.html)
 
 </details>
 
+- **[True Detective (commenter; identity unverified)](/entities/anon-src-iB-YtO3UZOg-true-detective.md)** member of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:53:13](/episodes/ep-ChuWo-n49B8.md#t-00-53-08): “This led me to enroll in OCIA and be baptized in the Roman Catholic Church this past Easter.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Catholic Church (8)</strong></summary>
+<summary><strong class="section-title">Statements about Catholic Church (11)</strong></summary>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1)</summary>
+
+- [01:14:22](/episodes/ep-E7P2ShoYDUA.md#t-01-14-05) (Promise) **Candace Owens**: ["Owens promised to use some of her debate money to support her sisters ..."](/statements/statement-b47540fb8443.md)
+
+</details>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (2)</summary>
+
+- [00:22:01](/episodes/ep-AoYZel7_cGQ.md#t-00-22-01) (Claim) **Anonymous Source #1 (Ep AoYZel7_cGQ)** (via read message): ["An anonymous source alleged that Hansen Mortuaries refused to particip..."](/statements/statement-40e87edc7551.md)
+  - Also about: [Hansen Mortuaries](/entities/org-hansen-mortuaries.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:25:11](/episodes/ep-AoYZel7_cGQ.md#t-00-24-53) (Claim) **Candace Owens**: ["Candace Owens asserted that Charlie Kirk's casket was closed during th..."](/statements/statement-65cf5d497790.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1)</summary>
@@ -287,13 +360,13 @@ Source: [The Holy See](https://www.vatican.va/content/vatican/en.html)
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (3)</summary>
 
-- [00:53:57](/episodes/ep-eLgD5yUVbko.md#t-00-53-40) (Claim) **Donald J. Trump** (via quoted post): ["Donald Trump claimed that Pope Leo XIV was chosen because he was Ameri..."](/statements/statement-4b315897c442.md)
+- [00:53:57](/episodes/ep-eLgD5yUVbko.md#t-00-53-40) (Claim) **Donald J. Trump** (via quoted post): ["Donald Trump claimed that Pope Leo XIV was "only put there by the Chur..."](/statements/statement-4b315897c442.md)
   - Also about: [Pope Leo XIV](/entities/person-pope-leo-xiv.md), [Donald J. Trump](/entities/person-donald-trump.md), [Holy See](/entities/org-holy-see.md)
 
 - [00:56:41](/episodes/ep-eLgD5yUVbko.md#t-00-56-25) (Opinion) **Candace Owens**: ["Candace Owens said Donald Trump is not a Christian and that the Cathol..."](/statements/statement-ecb6b851885c.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Jesus Christ](/entities/person-jesus-christ.md), [Christianity](/entities/concept-christianity.md)
 
-- [00:57:53](/episodes/ep-eLgD5yUVbko.md#t-00-57-35) (Opinion) **Pope Leo XIV** (via quoted speech): ["Pope Leo XIV said the Gospel's message is "blessed are the peacemakers..."](/statements/statement-e7a6e05acf90.md)
+- [00:57:53](/episodes/ep-eLgD5yUVbko.md#t-00-57-11) (Opinion) **Pope Leo XIV** (via quoted speech): ["Pope Leo XIV said the Gospel's message is "blessed are the peacemakers..."](/statements/statement-e7a6e05acf90.md)
   - Also about: [Christianity](/entities/concept-christianity.md)
 
 </details>

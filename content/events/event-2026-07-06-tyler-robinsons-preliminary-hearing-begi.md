@@ -11,7 +11,7 @@ date: "2026-07-06"
 
 > Tyler Robinson's preliminary hearing begins in Provo, Utah
 
-## Mentioned In (2 times)
+## Mentioned In (4 times)
 
 ### 1. I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 3...
 
@@ -28,3 +28,19 @@ date: "2026-07-06"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1720);return false;">▶️ Play</a>
 
 > Erika arrived in a tiny Utah courtroom earlier this month
+
+### 3. BREAKING: Charlie’s Team DID Call 911 En Route To The Hospit...
+
+**Episode:** [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md)
+**Timestamp:** [00:04:38](/episodes/ep-HZvwbfePe7o.md#event-event-2026-07-06-tyler-robinsons-preliminary-hearing-begi-t-00-04-15) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(278);return false;">▶️ Play</a>
+
+> And during the Tyler Robinson preliminary hearing, he took it far, far.
+
+### 4. Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On Th...
+
+**Episode:** [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md)
+**Timestamp:** [00:10:22](/episodes/ep-AH1KVKkweUE.md#event-event-2026-07-06-tyler-robinsons-preliminary-hearing-begi-t-00-10-13) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(622);return false;">▶️ Play</a>
+
+> some of his less than compelling moments from his testimony at the preliminary hearing

@@ -5,11 +5,20 @@ id: "org-staples-center"
 type: "ORG"
 aliases:
   - "Staples"
+categories:
+  - "arena"
+  - "Los Angeles venue"
 ---
 
 _Type: Organizations_
 
 **Also known as:** Staples
+
+**Categories:** arena, Los Angeles venue
+
+**Entity verification:** verified
+> The venue's official history confirms Staples as its naming-rights partner and the arena identity now known as Crypto.com Arena.
+Source: [Vital Stats — Crypto.com Arena](https://www.cryptoarena.com/vital-stats)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-581dILVcEE4.md#ent-org-staples-center-t-00-48-37">2025-11-18 · 00:49:13</a></strong></div>

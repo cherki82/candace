@@ -1,15 +1,15 @@
 ---
-title: "Insight headquartered in Bridge Complex"
-description: "Evidence for the relationship: Insight headquartered in Bridge Complex"
+title: "Insight headquartered in Bracebridge Complex"
+description: "Evidence for the relationship: Insight headquartered in Bracebridge Complex"
 relationship_id: "rel-24dfa33f444e"
 subject: "org-insight"
 predicate: "headquartered in"
-object: "org-bridge-complex"
+object: "org-bracebridge-complex"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [Insight](/entities/org-insight) headquartered in [Bridge Complex](/entities/org-bridge-complex)
+## [Insight](/entities/org-insight) headquartered in [Bracebridge Complex](/entities/org-bracebridge-complex)
 
 ### Evidence (1 mentions)
 
@@ -20,4 +20,4 @@ object: "org-bridge-complex"
 ### Related
 
 - [Insight](/entities/org-insight)
-- [Bridge Complex](/entities/org-bridge-complex)
+- [Bracebridge Complex](/entities/org-bracebridge-complex)

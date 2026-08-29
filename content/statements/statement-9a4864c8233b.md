@@ -4,9 +4,10 @@ description: "\"Candace Owens accused Leo Frank of assaulting and murdering 13-y
 statement_id: "statement-9a4864c8233b"
 speaker: "Candace Owens"
 type: "accusation"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -34,7 +35,21 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The episode verifies that Owens made the accusation, and Library of Congress sources confirm Frank's conviction for Mary Phagan's murder and the central role of janitor Jim Conley's testimony. But the categorical assertion that Frank assaulted and murdered Phagan exceeds what current authoritative history supports: the Library of Congress describes a sensational, flawed trial, prejudice, uncertainty about guilt, and later evidence supporting innocence. This result preserves the distinction between conviction and proven guilt.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Trial and Lynching of Leo Frank — Library of Congress](https://guides.loc.gov/chronicling-america-leo-frank)
+- [Confronting Challenges: The Lynching of Leo Frank — Library of Congress](https://www.loc.gov/exhibits/haventohome/haven-challenges.html)
+
+*Verified: 2026-08-27T19:42:39.589219*
 
 ---
 

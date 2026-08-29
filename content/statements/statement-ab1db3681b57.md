@@ -4,9 +4,10 @@ description: "\"Candace Owens said Gary Javitch had been executive director of B
 statement_id: "statement-ab1db3681b57"
 speaker: "Candace Owens"
 type: "citation"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -33,7 +34,21 @@ type: "citation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+B'nai B'rith records support Javitch's international executive-board service and 2019 President's Award, and other reporting identifies him as director of the Omaha lodge. However, official reports name Daniel Mariaschin—not Javitch—as B'nai B'rith International's executive vice president/CEO, so the statement incorrectly elevates a local director and board member to international executive director.
+
+**Confidence:** High
+
+**Sources:**
+
+- [B'nai B'rith International 2016 Annual Report](https://www.bnaibrith.org/wp-content/uploads/attachments/2016_annualreport_printpdf4.pdf)
+- [B'nai B'rith Magazine Winter 2019](https://www.bnaibrith.org/wp-content/uploads/2021/11/2019_bbm_winter_printmag_vol135-4.pdf)
+
+*Verified: 2026-08-27T19:42:39.589215*
 
 ---
 

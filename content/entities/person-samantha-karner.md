@@ -1,6 +1,6 @@
 ---
 title: "Samantha Karner"
-description: "Samantha Karner (People) - 2 mentions"
+description: "Samantha Karner (People) - 4 mentions"
 id: "person-samantha-karner"
 type: "PERSON"
 categories:
@@ -19,8 +19,8 @@ Source: [UT v. Tyler Robinson Preliminary Hearing Day 4 Transcript](https://www.
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-person-samantha-karner-t-00-38-55">2026-07-14 · 00:39:24</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-samantha-karner-t-00-44-33">2026-08-14 · 00:44:33</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -29,10 +29,11 @@ Source: [UT v. Tyler Robinson Preliminary Hearing Day 4 Transcript](https://www.
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-samantha-karner-t-00-38-55">I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-samantha-karner-t-00-18-31">Candace Owens vs Andrew Wilson: The Great Debate.</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-samantha-karner-t-00-38-55" style="--pulse-height:100%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-samantha-karner-t-00-44-33" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-EtLHqDbxqks.md#ent-person-samantha-karner-t-00-38-55" style="--pulse-height:50%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-samantha-karner-t-00-44-33" style="--pulse-height:50%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-samantha-karner-t-00-18-31" style="--pulse-height:100%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -40,6 +41,7 @@ Source: [UT v. Tyler Robinson Preliminary Hearing Day 4 Transcript](https://www.
 |---|---|---:|
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-samantha-karner-t-00-38-55) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-samantha-karner-t-00-44-33) | 1 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-samantha-karner-t-00-18-31) | 2 |
 
 </details>
 </section>
@@ -47,13 +49,24 @@ Source: [UT v. Tyler Robinson Preliminary Hearing Day 4 Transcript](https://www.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:44:33](/episodes/ep-nPhCKwJ6ye8.md#ent-person-samantha-karner-t-00-44-33)**
 > "Samantha Karner, that there was dust and there was debris that wa..."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (2 mentions)</summary>
+
+**[00:18:31](/episodes/ep-aPOyk1i2LOc.md#ent-person-samantha-karner-t-00-18-31)**
+> "...aitlin Oliver, the ATF woman, Samantha Karner, any of those people who went into the science of..."
+
+**[00:19:55](/episodes/ep-aPOyk1i2LOc.md#ent-person-samantha-karner-t-00-19-55)**
+> "... gave testimony on the stand, Samantha Karner, that there was dust and there was debris that wa..."
 
 </details>
 

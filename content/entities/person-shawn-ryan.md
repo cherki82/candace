@@ -1,6 +1,6 @@
 ---
 title: "Shawn Ryan"
-description: "Shawn Ryan (People) - 60 mentions"
+description: "Shawn Ryan (People) - 66 mentions"
 id: "person-shawn-ryan"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-person-shawn-ryan-t-00-22-50">2025-11-05 · 00:23:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-person-shawn-ryan-t-00-35-22">2026-07-20 · 00:35:31</a></strong></div>
-<div><span>Episodes</span><strong>24</strong></div>
-<div><span>Mentions</span><strong>60</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-shawn-ryan-t-00-22-24">2026-08-19 · 00:22:45</a></strong></div>
+<div><span>Episodes</span><strong>29</strong></div>
+<div><span>Mentions</span><strong>66</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>6</strong></div>
+<div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -59,6 +59,11 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-shawn-ryan-t-00-34-08" style="--pulse-height:10%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-shawn-ryan-t-00-53-07" style="--pulse-height:40%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 4 mentions" title="2026-07-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-person-shawn-ryan-t-00-35-22" style="--pulse-height:10%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-person-shawn-ryan-t-00-29-12" style="--pulse-height:10%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-shawn-ryan-t-00-47-45" style="--pulse-height:10%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 1 mentions" title="2026-07-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-person-shawn-ryan-t-00-08-01" style="--pulse-height:10%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-person-shawn-ryan-t-00-34-59" style="--pulse-height:10%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-person-shawn-ryan-t-00-01-00" style="--pulse-height:20%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 2 mentions" title="2026-08-19 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -88,6 +93,11 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-shawn-ryan-t-00-34-08) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-shawn-ryan-t-00-53-07) | 4 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-person-shawn-ryan-t-00-35-22) | 1 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-person-shawn-ryan-t-00-29-12) | 1 |
+| 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-person-shawn-ryan-t-00-47-45) | 1 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-person-shawn-ryan-t-00-08-01) | 1 |
+| 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-shawn-ryan-t-00-34-59) | 1 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-shawn-ryan-t-00-01-00) | 2 |
 
 </details>
 </section>
@@ -95,7 +105,50 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (60)</strong></summary>
+<summary><strong class="section-title">Raw mentions (66)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (2 mentions)</summary>
+
+**[00:01:28](/episodes/ep-9hRcfSrri70.md#ent-person-shawn-ryan-t-00-01-00)**
+> "...? Anybody that critiques her? Shawn Ryan, Joe Rogan. This is consensus. Is everyone just, ..."
+
+**[00:22:45](/episodes/ep-9hRcfSrri70.md#ent-person-shawn-ryan-t-00-22-24)**
+> "...ng I found his interview with Shawn Ryan to be unconvincing. That's my constitutional righ..."
+
+</details>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1 mentions)</summary>
+
+**[00:34:59](/episodes/ep-4JxgOclKzqg.md#ent-person-shawn-ryan-t-00-34-59)**
+> "... in the world, whether that's Shawn Ryan or, more recently, Joe Rogan, who had a laugh alo..."
+
+</details>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
+
+**[00:08:32](/episodes/ep-AH1KVKkweUE.md#ent-person-shawn-ryan-t-00-08-01)**
+> "...n he describes things in that Shawn Ryan interview, he's like doing the medical."
+
+</details>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (1 mentions)</summary>
+
+**[00:47:55](/episodes/ep-AoYZel7_cGQ.md#ent-person-shawn-ryan-t-00-47-45)**
+> "...leman. I could see it hitting Shawn Ryan Candace Owens level views."
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (1 mentions)</summary>
+
+**[00:29:22](/episodes/ep-HZvwbfePe7o.md#ent-person-shawn-ryan-t-00-29-12)**
+> "This is why she can't debate. It's why she can't do four hours on a Shawn Ryan podcast because there's no substance here."
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1 mentions)</summary>
@@ -403,6 +456,18 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Criticized (1)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:01:28](/episodes/ep-9hRcfSrri70.md#t-00-01-00): “Oh, would you say everybody's jealous of Erika (Erika Kirk)? Anybody that critiques her? Shawn Ryan, Joe Rogan. This is consensus. Is everyone just, you're just jealous. It's like mean girls or something.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Interviewed (3)</summary>
 
 - **[Brian Harpole](/entities/person-brian-harpole.md)**
@@ -440,7 +505,14 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
+
+- **[Erika Kirk](/entities/person-erika-kirk.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:01:28](/episodes/ep-9hRcfSrri70.md#t-00-01-00): “Oh, would you say everybody's jealous of Erika (Erika Kirk)? Anybody that critiques her? Shawn Ryan, Joe Rogan. This is consensus. Is everyone just, you're just jealous. It's like mean girls or something.”
+
+</details>
 
 - **[Brian Harpole](/entities/person-brian-harpole.md)** interviewed by this
 <details class="relationship-evidence"><summary>Show all evidence (9)</summary>

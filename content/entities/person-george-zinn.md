@@ -1,6 +1,6 @@
 ---
 title: "George Zinn"
-description: "George Zinn (People) - 59 mentions"
+description: "George Zinn (People) - 67 mentions"
 id: "person-george-zinn"
 type: "PERSON"
 aliases:
@@ -23,11 +23,11 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-george-zinn-t-00-43-44">2025-09-15 · 00:44:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-person-george-zinn-t-00-51-01">2026-07-16 · 00:51:12</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>59</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-george-zinn-t-00-27-20">2026-08-10 · 00:27:37</a></strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
+<div><span>Mentions</span><strong>67</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>18</strong></div>
+<div><span>Statements about</span><strong>21</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -51,10 +51,14 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-george-zinn-t-00-14-50" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-george-zinn-t-01-06-38" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-person-george-zinn-t-00-07-03" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-george-zinn-t-00-46-23" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-person-george-zinn-t-00-47-18" style="--pulse-height:13%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-george-zinn-t-01-09-57" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-person-george-zinn-t-00-08-06" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-person-george-zinn-t-00-14-51" style="--pulse-height:13%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-person-george-zinn-t-00-03-59" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-person-george-zinn-t-00-02-09" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-george-zinn-t-00-23-09" style="--pulse-height:33%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 5 mentions" title="2026-08-10 · 5 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -75,10 +79,14 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-george-zinn-t-00-14-50) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-george-zinn-t-01-06-38) | 1 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-george-zinn-t-00-07-03) | 1 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-george-zinn-t-00-46-23) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-george-zinn-t-00-47-18) | 2 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-george-zinn-t-01-09-57) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-person-george-zinn-t-00-08-06) | 1 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-person-george-zinn-t-00-14-51) | 2 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-person-george-zinn-t-00-03-59) | 1 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-george-zinn-t-00-02-09) | 1 |
+| 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-person-george-zinn-t-00-23-09) | 5 |
 
 </details>
 </section>
@@ -86,7 +94,43 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (59)</strong></summary>
+<summary><strong class="section-title">Raw mentions (67)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (5 mentions)</summary>
+
+**[00:23:09](/episodes/ep-5zgkrOaCCj4.md#ent-person-george-zinn-t-00-23-09)**
+> "...something we discovered about George Zinn. All right, you guys, let's talk about how expens..."
+
+**[00:26:26](/episodes/ep-5zgkrOaCCj4.md#ent-person-george-zinn-t-00-26-05)**
+> "...u need to check this out with George Zinn. Like what's that falling out of his pants?"
+
+**[00:26:40](/episodes/ep-5zgkrOaCCj4.md#ent-person-george-zinn-t-00-26-05)**
+> "...o first show you the video of George Zinn's arrest. We haven't covered him much. He's decoy b..."
+
+**[00:26:53](/episodes/ep-5zgkrOaCCj4.md#ent-person-george-zinn-t-00-26-47)**
+> ".... And I'm guilty of this with George Zinn. I probably should have prodded a bit more, paid ..."
+
+**[00:27:37](/episodes/ep-5zgkrOaCCj4.md#ent-person-george-zinn-t-00-27-20)**
+> "...h res photos, it appears that George Zinn has some sort of a device that's fallen."
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:02:09](/episodes/ep-ChuWo-n49B8.md#ent-person-george-zinn-t-00-02-09)**
+> "various decoys like George Zinn arrested for child pornography"
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
+
+**[00:04:15](/episodes/ep-Vu6Y24pqhZs.md#ent-person-george-zinn-t-00-03-59)**
+> "The first was George Zinn. We know why, obviously. He said, I did it. It's a good reason to detain someone."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (2 mentions)</summary>
@@ -127,10 +171,18 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 </details>
 
 <details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>
+
+**[00:46:42](/episodes/ep-eLgD5yUVbko.md#ent-person-george-zinn-t-00-46-23)**
+> "um George Zinn right"
+
+</details>
+
+<details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1 mentions)</summary>
 
 **[00:07:03](/episodes/ep-rupRLXmSndU.md#ent-person-george-zinn-t-00-07-03)**
-> "They moved to detain a young man named Zachariah Qureshi. We almost forget, but it was after Zachariah was detained that Kash Patel rather gloriously issued a tweet which effectively ended the manhunt prematurely. In many ways, we should start to think of Zachariah Qureshi as decoy boy number two. OK, first it was George Zinn."
+> "They moved to detain a young man named Zachariah Qureshi. We almost forget, but it was after Zachariah (Zachariah Qureshi) was detained that Kash Patel rather gloriously issued a tweet which effectively ended the manhunt prematurely. In many ways, we should start to think of Zachariah Qureshi as decoy boy number two. OK, first it was George Zinn."
 
 </details>
 
@@ -404,7 +456,23 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about George Zinn (18)</strong></summary>
+<summary><strong class="section-title">Statements about George Zinn (21)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (2)</summary>
+
+- [00:27:37](/episodes/ep-5zgkrOaCCj4.md#t-00-27-20) (Claim) **Candace Owens**: ["Owens said high-resolution photos appeared to show that a device had f..."](/statements/statement-3d01f4925830.md)
+
+- [00:28:10](/episodes/ep-5zgkrOaCCj4.md#t-00-28-01) (Opinion) **Candace Owens**: ["Owens said the device immediately looked like a satellite phone to her..."](/statements/statement-d7ff76317996.md)
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
+
+- [00:02:09](/episodes/ep-ChuWo-n49B8.md#t-00-02-09) (Accusation) **Candace Owens**: ["Owens said George Zinn's conduct made it seem as though he had been pu..."](/statements/statement-07936a5ad1d5.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1)</summary>

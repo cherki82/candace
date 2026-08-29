@@ -1,6 +1,6 @@
 ---
 title: "Los Angeles"
-description: "Los Angeles (Places) - 23 mentions"
+description: "Los Angeles (Places) - 22 mentions"
 id: "gpe-los-angeles"
 type: "GPE"
 aliases:
@@ -24,10 +24,10 @@ Source: [City of Los Angeles](https://lacity.gov/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-los-angeles-t-00-46-51">2025-12-17 · 00:46:51</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-los-angeles-t-00-20-28">2026-07-23 · 00:20:38</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -37,7 +37,6 @@ Source: [City of Los Angeles](https://lacity.gov/)
 <p>Highest activity: <a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-los-angeles-t-00-18-33">EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-los-angeles-t-00-46-51" style="--pulse-height:67%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-los-angeles-t-00-20-06" style="--pulse-height:67%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 2 mentions" title="2026-01-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#t-00-47-30" style="--pulse-height:33%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-los-angeles-t-01-35-51" style="--pulse-height:33%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#t-00-04-51" style="--pulse-height:33%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
@@ -45,7 +44,7 @@ Source: [City of Los Angeles](https://lacity.gov/)
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-los-angeles-t-00-21-28" style="--pulse-height:33%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-los-angeles-t-00-11-04" style="--pulse-height:33%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-gpe-los-angeles-t-00-56-25" style="--pulse-height:67%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 2 mentions" title="2026-03-31 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-eLgD5yUVbko.md#ent-gpe-los-angeles-t-00-49-12" style="--pulse-height:33%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-gpe-los-angeles-t-00-48-33" style="--pulse-height:33%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-gpe-los-angeles-t-00-49-26" style="--pulse-height:33%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#t-00-46-18" style="--pulse-height:33%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#t-00-37-18" style="--pulse-height:33%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
@@ -58,7 +57,6 @@ Source: [City of Los Angeles](https://lacity.gov/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-gpe-los-angeles-t-00-46-51) | 2 |
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-los-angeles-t-00-20-06) | 2 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#t-00-47-30) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-los-angeles-t-01-35-51) | 1 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#t-00-04-51) | 1 |
@@ -66,7 +64,7 @@ Source: [City of Los Angeles](https://lacity.gov/)
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-gpe-los-angeles-t-00-21-28) | 1 |
 | 2026-03-11 | [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310](/episodes/ep-H9p2ZGHAs9A.md#ent-gpe-los-angeles-t-00-11-04) | 1 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-los-angeles-t-00-56-25) | 2 |
-| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-gpe-los-angeles-t-00-49-12) | 1 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-gpe-los-angeles-t-00-48-33) | 1 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-los-angeles-t-00-49-26) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#t-00-46-18) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#t-00-37-18) | 1 |
@@ -80,7 +78,7 @@ Source: [City of Los Angeles](https://lacity.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (3 mentions)</summary>
@@ -142,7 +140,7 @@ Source: [City of Los Angeles](https://lacity.gov/)
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>
 
-**[00:49:12](/episodes/ep-eLgD5yUVbko.md#ent-gpe-los-angeles-t-00-49-12)**
+**[00:49:12](/episodes/ep-eLgD5yUVbko.md#ent-gpe-los-angeles-t-00-48-33)**
 > "elderly homes in Los Angeles"
 
 </details>
@@ -207,17 +205,6 @@ Source: [City of Los Angeles](https://lacity.gov/)
 </details>
 
 <details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (2 mentions)</summary>
-
-**[00:20:06](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-los-angeles-t-00-20-06)**
-> "... and foremost utterly corrupt Los Angeles coroner's office conducted an autopsy because peo..."
-
-**[00:20:52](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-los-angeles-t-00-20-51)**
-> "...ds to happen, particularly in Los Angeles."
-
-</details>
-
-<details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
 
 **[00:46:57](/episodes/ep-9k2xrAC0H88.md#ent-gpe-los-angeles-t-00-46-51)**
@@ -238,7 +225,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Los Angeles (6)</strong></summary>
+<summary><strong class="section-title">Statements about Los Angeles (5)</strong></summary>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1)</summary>
@@ -269,14 +256,6 @@ _No relationships extracted yet._
 
 - [00:47:56](/episodes/ep-GY6GWceEqtQ.md#t-00-47-30) (Accusation) **Brooklyn Beckham** (via quoted post): ["Brooklyn Beckham said his mother refused Nicola Peltz's request for su..."](/statements/statement-a4a6f7e5bd5c.md)
   - Also about: [Victoria Beckham](/entities/person-victoria-beckham.md), [Nicola Peltz](/entities/person-nicola-peltz.md)
-
-</details>
-
-<details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1)</summary>
-
-- [00:20:06](/episodes/ep-zSKrxIUMNqw.md#t-00-19-28) (Accusation) **Candace Owens**: ["The Los Angeles coroner's office was corrupt when it handled Andrew Br..."](/statements/statement-a8d538bb800f.md)
-  - Also about: [Andrew Breitbart](/entities/person-andrew-breitbart.md)
 
 </details>
 

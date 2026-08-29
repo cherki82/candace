@@ -1,6 +1,6 @@
 ---
 title: "Kamala Harris"
-description: "Kamala Harris (People) - 24 mentions"
+description: "Kamala Harris (People) - 34 mentions"
 id: "person-kamala-harris"
 type: "PERSON"
 aliases:
@@ -23,10 +23,10 @@ Source: [Archived White House — Vice President Kamala Harris](https://bidenwhi
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#t-00-16-13">2025-10-29 · 00:16:39</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-kamala-harris-t-03-45-41">2026-08-14 · 03:45:41</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>24</strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>34</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -39,14 +39,19 @@ Source: [Archived White House — Vice President Kamala Harris](https://bidenwhi
 <a href="/episodes/ep-vwG1juDCQZQ.md#t-00-03-35" style="--pulse-height:40%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 2 mentions" title="2025-11-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#t-00-26-34" style="--pulse-height:20%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-person-kamala-harris-t-00-34-45" style="--pulse-height:40%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-kamala-harris-t-01-03-41" style="--pulse-height:20%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-kamala-harris-t-00-06-32" style="--pulse-height:20%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-kamala-harris-t-01-03-25" style="--pulse-height:20%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-person-kamala-harris-t-00-07-39" style="--pulse-height:100%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 5 mentions" title="2026-02-09 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-kamala-harris-t-01-04-01" style="--pulse-height:100%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 5 mentions" title="2026-03-09 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-kamala-harris-t-00-51-55" style="--pulse-height:60%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 3 mentions" title="2026-03-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-kamala-harris-t-00-06-35" style="--pulse-height:20%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-kamala-harris-t-00-35-17" style="--pulse-height:20%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-kamala-harris-t-01-20-02" style="--pulse-height:20%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-person-kamala-harris-t-00-27-26" style="--pulse-height:80%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 4 mentions" title="2026-07-27 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-person-kamala-harris-t-00-40-50" style="--pulse-height:40%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 2 mentions" title="2026-07-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-kamala-harris-t-00-40-03" style="--pulse-height:40%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 2 mentions" title="2026-08-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-kamala-harris-t-03-45-41" style="--pulse-height:20%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-kamala-harris-t-02-55-33" style="--pulse-height:20%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,14 +61,19 @@ Source: [Archived White House — Vice President Kamala Harris](https://bidenwhi
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#t-00-03-35) | 2 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#t-00-26-34) | 1 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-person-kamala-harris-t-00-34-45) | 2 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-kamala-harris-t-01-03-41) | 1 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-kamala-harris-t-00-06-32) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-kamala-harris-t-01-03-25) | 1 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-kamala-harris-t-00-07-39) | 5 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-kamala-harris-t-01-04-01) | 5 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-kamala-harris-t-00-51-55) | 3 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-kamala-harris-t-00-06-35) | 1 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-kamala-harris-t-00-35-17) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-person-kamala-harris-t-01-20-02) | 1 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-person-kamala-harris-t-00-27-26) | 4 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-person-kamala-harris-t-00-40-50) | 2 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-person-kamala-harris-t-00-40-03) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-kamala-harris-t-03-45-41) | 1 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-kamala-harris-t-02-55-33) | 1 |
 
 </details>
 </section>
@@ -71,13 +81,60 @@ Source: [Archived White House — Vice President Kamala Harris](https://bidenwhi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (24)</strong></summary>
+<summary><strong class="section-title">Raw mentions (34)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[03:45:41](/episodes/ep-nPhCKwJ6ye8.md#ent-person-kamala-harris-t-03-45-41)**
 > "...conversation you're following Kamala"
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (1 mentions)</summary>
+
+**[02:55:33](/episodes/ep-aPOyk1i2LOc.md#ent-person-kamala-harris-t-02-55-33)**
+> "...conversation you're following Kamala X"
+
+</details>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (2 mentions)</summary>
+
+**[00:40:03](/episodes/ep-d7VsbEIWkP8.md#ent-person-kamala-harris-t-00-40-03)**
+> "Kamala Harris"
+
+**[00:40:32](/episodes/ep-d7VsbEIWkP8.md#ent-person-kamala-harris-t-00-40-32)**
+> "...e actually tweeted uh in 2024 kamala harris tweets the campaign is about two different vision..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (2 mentions)</summary>
+
+**[00:40:59](/episodes/ep-Vu6Y24pqhZs.md#ent-person-kamala-harris-t-00-40-50)**
+> "Commented when I was saying I never know what Erica (Erika Kirk)'s saying. It's like watching the Kamala campaign. It's just going in circles. One of you guys wrote this comment: my favorite quote from Erica (Erika Kirk) is when she tells us to be a table. I was like, what? Did that happen? And sure enough, we were able to find the clip where she tells people to be a table. It's very funny. Take a look at this."
+
+**[00:41:44](/episodes/ep-Vu6Y24pqhZs.md#ent-person-kamala-harris-t-00-41-44)**
+> "...ng these like we used to with Kamala stuff, of just, what did she just say? Because it..."
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (4 mentions)</summary>
+
+**[00:27:26](/episodes/ep-HZvwbfePe7o.md#ent-person-kamala-harris-t-00-27-26)**
+> "But I have said from the beginning, this is the Kamala Harris campaign, this institutional power trying to make somebody a thing who would not be where they are on the basis of a pure meritocracy."
+
+**[00:27:36](/episodes/ep-HZvwbfePe7o.md#ent-person-kamala-harris-t-00-27-26)**
+> "...(Joe Biden) suffering Kamala (Kamala Harris) is here to bring us together. How dare you?"
+
+**[00:27:45](/episodes/ep-HZvwbfePe7o.md#ent-person-kamala-harris-t-00-27-26)**
+> "...fering and, you know, Kamala (Kamala Harris)'s here to take his place."
+
+**[00:27:51](/episodes/ep-HZvwbfePe7o.md#ent-person-kamala-harris-t-00-27-26)**
+> "This was the Kamala Harris camp. Nobody voted for her and she's here and the..."
 
 </details>
 
@@ -162,8 +219,16 @@ Source: [Archived White House — Vice President Kamala Harris](https://bidenwhi
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
 
-**[01:03:46](/episodes/ep-HYn0P-P1wUw.md#ent-person-kamala-harris-t-01-03-41)**
+**[01:03:46](/episodes/ep-HYn0P-P1wUw.md#ent-person-kamala-harris-t-01-03-25)**
 > "And I'm doing series on Kamala and Brigitte Macron and things I'm interested in,"
+
+</details>
+
+<details>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
+
+**[00:06:32](/episodes/ep-OEAHy3SsIiI.md#ent-person-kamala-harris-t-00-06-32)**
+> "...Thee Stallion twerking at the Kamala rally."
 
 </details>
 
@@ -215,7 +280,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Kamala Harris (1)</strong></summary>
+<summary><strong class="section-title">Statements about Kamala Harris (2)</strong></summary>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (1)</summary>
+
+- [00:27:26](/episodes/ep-HZvwbfePe7o.md#t-00-27-26) (Opinion) **Candace Owens**: ["Owens said Erika Kirk's public prominence was an institutional effort ..."](/statements/statement-798125187306.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
+
+</details>
 
 <details>
 <summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1)</summary>

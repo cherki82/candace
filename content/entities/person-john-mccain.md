@@ -1,6 +1,6 @@
 ---
 title: "John McCain"
-description: "John McCain (People) - 7 mentions"
+description: "John McCain (People) - 9 mentions"
 id: "person-john-mccain"
 type: "PERSON"
 aliases:
@@ -21,9 +21,9 @@ Source: [United States Senate: John McCain biography](https://www.mccain.senate.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#ent-person-john-mccain-t-00-18-15">2025-12-05 · 00:18:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-john-mccain-t-01-22-03">2026-05-21 · 01:22:22</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-john-mccain-t-00-27-52">2026-07-30 · 00:28:08</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,6 +36,7 @@ Source: [United States Senate: John McCain biography](https://www.mccain.senate.
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-person-john-mccain-t-00-18-15" style="--pulse-height:100%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 4 mentions" title="2025-12-05 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-john-mccain-t-01-22-03" style="--pulse-height:75%" aria-label="Candace x Hunter Biden: The Interview: 3 mentions" title="2026-05-21 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-john-mccain-t-00-27-52" style="--pulse-height:50%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 2 mentions" title="2026-07-30 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -43,6 +44,7 @@ Source: [United States Senate: John McCain biography](https://www.mccain.senate.
 |---|---|---:|
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-person-john-mccain-t-00-18-15) | 4 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-person-john-mccain-t-01-22-03) | 3 |
+| 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-person-john-mccain-t-00-27-52) | 2 |
 
 </details>
 </section>
@@ -50,7 +52,18 @@ Source: [United States Senate: John McCain biography](https://www.mccain.senate.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (2 mentions)</summary>
+
+**[00:28:01](/episodes/ep-AoYZel7_cGQ.md#ent-person-john-mccain-t-00-27-52)**
+> "... who's another recent person? John McCain."
+
+**[00:28:08](/episodes/ep-AoYZel7_cGQ.md#ent-person-john-mccain-t-00-27-52)**
+> "...ogle that right now. Where is John McCain buried? So you are telling me that all of these h..."
+
+</details>
 
 <details>
 <summary>Candace x Hunter Biden: The Interview (3 mentions)</summary>

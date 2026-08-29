@@ -3,9 +3,17 @@ title: "Andreessen Horowitz"
 description: "Andreessen Horowitz (Organizations) - 3 mentions"
 id: "org-andreessen-horowitz"
 type: "ORG"
+categories:
+  - "venture capital firm"
 ---
 
 _Type: Organizations_
+
+**Categories:** venture capital firm
+
+**Entity verification:** verified
+> Canonical name and identity for Andreessen Horowitz confirmed by the cited direct external source.
+Source: [About Andreessen Horowitz](https://a16z.com/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-org-andreessen-horowitz-t-00-30-42">2025-10-01 · 00:31:22</a></strong></div>

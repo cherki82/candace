@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:09:01](/episodes/ep-es7PWdFGoFI.md#t-00-08-38) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(541);return false;">Play</a>
 
-> And I should also clarify that Bari obviously picked those questions. They were not random, like I told you. It wasn't like people were coming to the mic and it was an open mic and they didn't know what they were going to get. It was all very much planned by Barry.
+> And I should also clarify that Bari (Bari Weiss) obviously picked those questions. They were not random, like I told you. It wasn't like people were coming to the mic and it was an open mic and they didn't know what they were going to get. It was all very much planned by Barry.
 
 ## Verification
 

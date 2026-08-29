@@ -1,6 +1,6 @@
 ---
 title: "Baal"
-description: "Baal (Concepts) - 34 mentions"
+description: "Baal (Concepts) - 40 mentions"
 id: "concept-baal"
 type: "CONCEPT"
 categories:
@@ -17,11 +17,11 @@ Source: [Encyclopaedia Britannica: Baal](https://www.britannica.com/topic/Baal-a
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-baal-t-01-39-19">2026-01-29 · 01:39:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-concept-baal-t-00-04-04">2026-07-23 · 00:04:17</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>34</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-concept-baal-t-00-41-31">2026-08-04 · 00:41:31</a></strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>40</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -45,6 +45,10 @@ Source: [Encyclopaedia Britannica: Baal](https://www.britannica.com/topic/Baal-a
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-concept-baal-t-00-47-51" style="--pulse-height:100%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 8 mentions" title="2026-06-23 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-concept-baal-t-00-06-18" style="--pulse-height:12%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-concept-baal-t-00-04-04" style="--pulse-height:12%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-concept-baal-t-00-35-08" style="--pulse-height:12%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-concept-baal-t-00-52-50" style="--pulse-height:12%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 1 mentions" title="2026-07-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-concept-baal-t-00-36-38" style="--pulse-height:25%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 2 mentions" title="2026-08-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-concept-baal-t-00-40-22" style="--pulse-height:25%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 2 mentions" title="2026-08-04 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -65,6 +69,10 @@ Source: [Encyclopaedia Britannica: Baal](https://www.britannica.com/topic/Baal-a
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-concept-baal-t-00-47-51) | 8 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-concept-baal-t-00-06-18) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-concept-baal-t-00-04-04) | 1 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-concept-baal-t-00-35-08) | 1 |
+| 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-concept-baal-t-00-52-50) | 1 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-concept-baal-t-00-36-38) | 2 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-concept-baal-t-00-40-22) | 2 |
 
 </details>
 </section>
@@ -72,7 +80,45 @@ Source: [Encyclopaedia Britannica: Baal](https://www.britannica.com/topic/Baal-a
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (34)</strong></summary>
+<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (2 mentions)</summary>
+
+**[00:40:22](/episodes/ep-1CFDtD0IgEg.md#ent-concept-baal-t-00-40-22)**
+> "...looking at people who worship Baal and it was a sacrifice to demons."
+
+**[00:41:31](/episodes/ep-1CFDtD0IgEg.md#ent-concept-baal-t-00-41-31)**
+> "...rring to Israel that worships Baal, worships murder. They are obsessed with death. I..."
+
+</details>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (2 mentions)</summary>
+
+**[00:36:57](/episodes/ep-AH1KVKkweUE.md#ent-concept-baal-t-00-36-38)**
+> "...t demonic pedophilic state of Baal, close the chapter on that and try actually being..."
+
+**[00:40:38](/episodes/ep-AH1KVKkweUE.md#ent-concept-baal-t-00-40-38)**
+> "...s still standing behind these Baal worshipers who keep sacrificing innocent children..."
+
+</details>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (1 mentions)</summary>
+
+**[00:53:02](/episodes/ep-AoYZel7_cGQ.md#ent-concept-baal-t-00-52-50)**
+> "...ng our countries and are into Baal worship and who really..."
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (1 mentions)</summary>
+
+**[00:35:19](/episodes/ep-HZvwbfePe7o.md#ent-concept-baal-t-00-35-08)**
+> "the empire of Baal"
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>
@@ -261,7 +307,18 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Baal (1)</strong></summary>
+<summary><strong class="section-title">Statements about Baal (3)</strong></summary>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (2)</summary>
+
+- [00:40:22](/episodes/ep-1CFDtD0IgEg.md#t-00-40-22) (Opinion) **Candace Owens**: ["Candace Owens said it was her honest belief that the school bombing wa..."](/statements/statement-806798036f9a.md)
+  - Also about: [United States](/entities/gpe-united-states.md)
+
+- [00:41:31](/episodes/ep-1CFDtD0IgEg.md#t-00-41-31) (Accusation) **Candace Owens**: ["Candace Owens accused Israel of worshipping Baal and murder and being ..."](/statements/statement-560ef4c66305.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
+
+</details>
 
 <details>
 <summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1)</summary>

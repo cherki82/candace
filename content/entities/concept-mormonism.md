@@ -1,6 +1,6 @@
 ---
 title: "Mormonism"
-description: "Mormonism (Concepts) - 60 mentions"
+description: "Mormonism (Concepts) - 68 mentions"
 id: "concept-mormonism"
 type: "CONCEPT"
 aliases:
@@ -24,10 +24,10 @@ _Type: Concepts_
 Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](https://newsroom.churchofjesuschrist.org/article/mormonism-101)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-mormonism-t-00-12-29">2026-02-27 · 00:12:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-concept-mormonism-t-00-39-28">2026-07-23 · 00:39:28</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>60</strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-mormonism-t-00-47-00">2026-01-06 · 00:47:09</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#ent-concept-mormonism-t-00-45-38">2026-07-29 · 00:45:58</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>68</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -38,6 +38,7 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-ds6umq1rHAw.md#ent-concept-mormonism-t-00-08-19">Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364</a> (15 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-concept-mormonism-t-00-47-00" style="--pulse-height:20%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 3 mentions" title="2026-01-06 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-mormonism-t-00-12-29" style="--pulse-height:73%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 11 mentions" title="2026-02-27 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-mormonism-t-00-09-39" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-concept-mormonism-t-00-41-21" style="--pulse-height:33%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 5 mentions" title="2026-03-06 · 5 mentions"><span></span></a>
@@ -51,11 +52,14 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-concept-mormonism-t-00-24-08" style="--pulse-height:73%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 11 mentions" title="2026-07-20 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-concept-mormonism-t-00-08-19" style="--pulse-height:100%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 15 mentions" title="2026-07-22 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-concept-mormonism-t-00-39-28" style="--pulse-height:8%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-concept-mormonism-t-00-41-47" style="--pulse-height:13%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 2 mentions" title="2026-07-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-concept-mormonism-t-00-45-38" style="--pulse-height:20%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 3 mentions" title="2026-07-29 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-concept-mormonism-t-00-47-00) | 3 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-concept-mormonism-t-00-12-29) | 11 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-concept-mormonism-t-00-09-39) | 1 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-concept-mormonism-t-00-41-21) | 5 |
@@ -69,6 +73,8 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-concept-mormonism-t-00-24-08) | 11 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-concept-mormonism-t-00-08-19) | 15 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-concept-mormonism-t-00-39-28) | 1 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-concept-mormonism-t-00-41-47) | 2 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-concept-mormonism-t-00-45-38) | 3 |
 
 </details>
 </section>
@@ -76,7 +82,32 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (60)</strong></summary>
+<summary><strong class="section-title">Raw mentions (68)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (3 mentions)</summary>
+
+**[00:45:38](/episodes/ep-Vu6Y24pqhZs.md#ent-concept-mormonism-t-00-45-38)**
+> "So points to Andrew (Andrew Kolvet). From today's episode, Karen Jane Child writes, look into Mormon roadshows and their links between theater productions and those accused of being in the Mormon mafia, an SRA, an MK Ultra."
+
+**[00:45:51](/episodes/ep-Vu6Y24pqhZs.md#ent-concept-mormonism-t-00-45-38)**
+> "uh, Mormons are very talented at outings on shows. I know not..."
+
+**[00:45:58](/episodes/ep-Vu6Y24pqhZs.md#ent-concept-mormonism-t-00-45-38)**
+> "...nds like another rabbit hole. Mormon road shows. Lamore Poire writes their insanity is..."
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (2 mentions)</summary>
+
+**[00:41:47](/episodes/ep-HZvwbfePe7o.md#ent-concept-mormonism-t-00-41-47)**
+> "And I think in the Mormon community"
+
+**[00:42:13](/episodes/ep-HZvwbfePe7o.md#ent-concept-mormonism-t-00-41-47)**
+> "...questions. And I think in the Mormon community, well, they prefer to say the Church of..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>
@@ -320,6 +351,20 @@ Source: [Mormonism 101 — The Church of Jesus Christ of Latter-day Saints](http
 
 **[00:55:11](/episodes/ep-1IY2oD-_xVA.md#ent-concept-mormonism-t-00-55-06)**
 > "...o be done into Jerri Frantzve mormon family okay i'm going to give that last name agai..."
+
+</details>
+
+<details>
+<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (3 mentions)</summary>
+
+**[00:47:09](/episodes/ep-HYn0P-P1wUw.md#ent-concept-mormonism-t-00-47-00)**
+> "...een. Underground. Communists. Mormons live in Utah. I watch The Secret Lives of Mormon ..."
+
+**[00:47:30](/episodes/ep-HYn0P-P1wUw.md#ent-concept-mormonism-t-00-47-19)**
+> "...h of Latter-day Saints. Early Mormon pioneers founded that state and they liked the id..."
+
+**[00:47:51](/episodes/ep-HYn0P-P1wUw.md#ent-concept-mormonism-t-00-47-51)**
+> "So did the Mormons know that the bees were commies in 1948? Did anyb..."
 
 </details>
 

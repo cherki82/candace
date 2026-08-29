@@ -1,6 +1,6 @@
 ---
 title: "Wikipedia"
-description: "Wikipedia (Organizations) - 23 mentions"
+description: "Wikipedia (Organizations) - 26 mentions"
 id: "org-wikipedia"
 type: "ORG"
 aliases:
@@ -21,9 +21,9 @@ Source: [Wikipedia | Wikimedia Foundation](https://wikimediafoundation.org/what-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-org-wikipedia-t-00-00-00">2025-10-29 · 00:00:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-org-wikipedia-t-00-06-18">2026-07-22 · 00:06:18</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>23</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-wikipedia-t-00-24-32">2026-08-07 · 00:25:00</a></strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -42,6 +42,8 @@ Source: [Wikipedia | Wikimedia Foundation](https://wikimediafoundation.org/what-
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-wikipedia-t-00-37-11" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-wikipedia-t-00-08-57" style="--pulse-height:15%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 2 mentions" title="2026-06-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-org-wikipedia-t-00-05-34" style="--pulse-height:15%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-wikipedia-t-00-29-37" style="--pulse-height:15%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 2 mentions" title="2026-07-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-wikipedia-t-00-24-32" style="--pulse-height:8%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -55,6 +57,8 @@ Source: [Wikipedia | Wikimedia Foundation](https://wikimediafoundation.org/what-
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-wikipedia-t-00-37-11) | 1 |
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-org-wikipedia-t-00-08-57) | 2 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-wikipedia-t-00-05-34) | 2 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-org-wikipedia-t-00-29-37) | 2 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-org-wikipedia-t-00-24-32) | 1 |
 
 </details>
 </section>
@@ -62,7 +66,26 @@ Source: [Wikipedia | Wikimedia Foundation](https://wikimediafoundation.org/what-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (23)</strong></summary>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
+
+**[00:25:00](/episodes/ep-d7VsbEIWkP8.md#ent-org-wikipedia-t-00-24-32)**
+> "on Wikipedia"
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (2 mentions)</summary>
+
+**[00:29:37](/episodes/ep-Vu6Y24pqhZs.md#ent-org-wikipedia-t-00-29-37)**
+> "regarding Jeffrey Epstein I kid you not I kid you not I can't I gotta shave my head like I just I'm I'm feeling like Britney in 2007 this just it can't always just be like this random Epstein thing anyways let's pull it up together because I can't make this stuff up right and here's what it tells us hopefully I can read this my vision always gets super bad when I'm pregnant it gets worse to get pregnant but like you can see that tab relationship with Jeffrey Epstein just a tab I never want you on Wikipedia."
+
+**[00:29:26](/episodes/ep-Vu6Y24pqhZs.md#ent-org-wikipedia-t-00-29-13)**
+> "...was kind of going through his Wikipedia. So no deep research here by any means."
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (2 mentions)</summary>

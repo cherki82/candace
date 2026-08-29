@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:07:37](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-59) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(457);return false;">Play</a>
 
-> We have that the vehicle in which Charlie was transported to Timpanagos or Timpanagos Hospital was not impounded by law enforcement.
+> We have that the vehicle in which Charlie (Charlie Kirk) was transported to Timpanogos or Timpanogos Hospital was not impounded by law enforcement.
 
 ## Verification
 

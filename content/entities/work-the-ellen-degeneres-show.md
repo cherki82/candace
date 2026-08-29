@@ -16,6 +16,8 @@ _Type: Works & Media_
 
 **Categories:** television talk show
 
+> **Possibly overlapping entity records:** [Ellen DeGeneres](/entities/person-ellen-degeneres). These records share a name or alias; compare their histories before treating either count as complete.
+
 **Entity verification:** verified
 > Warner Bros. identifies The Ellen DeGeneres Show as a Telepictures production; transcript uses Ellen DeGeneres colloquially for the show Cabot Phillips appeared on.
 Source: [Warner Bros. Studios newsletter](https://pdl.warnerbros.com/etaz/corp_comm/Burbank_Newlsetter_4pgs2.pdf)

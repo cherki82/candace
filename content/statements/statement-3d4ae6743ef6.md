@@ -25,7 +25,7 @@ veracity: "mixed"
 - [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 - [Spencer Cox](/entities/person-spencer-cox.md) (person)
 - [Kash Patel](/entities/person-kash-patel.md) (person)
-- [Robert Bowles](/entities/person-robert-bowles.md) (person)
+- [Robert Bohls](/entities/person-robert-bohls.md) (person)
 
 ## Source
 
@@ -33,7 +33,7 @@ veracity: "mixed"
 **Timestamp:** [00:35:51](/episodes/ep-eLgD5yUVbko.md#t-00-35-25) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2151);return false;">Play</a>
 
-> At 6.17, the FBI Salt Lake City releases another round of photos of the alleged shooter on X, photos of him again walking up the stairs. Tyler Robinson, I should say maybe here, was already in custody. ... It makes it very strange that at eight o'clock p.m., Governor Cox then leads a press conference with Kash Patel and Robert Bowles ... They released new stills, they say they're seeking help from the public to identify a suspect.
+> At 6.17, the FBI Salt Lake City releases another round of photos of the alleged shooter on X, photos of him again walking up the stairs. Tyler Robinson, I should say maybe here, was already in custody. ... They released the video of the suspect, they released new stills, they say they're seeking help from the public to identify a suspect.
 
 ## Verification
 

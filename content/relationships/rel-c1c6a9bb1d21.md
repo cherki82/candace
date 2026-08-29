@@ -15,7 +15,7 @@ object: "person-tyler-bowyer"
 
 **[BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw)**
 
-- [00:25:52](/episodes/ep-HYn0P-P1wUw#t-00-25-52): _he's also been indicted for crimes by the state of Arizona. federal crimes for which he was recently pardoned by President Donald Trump._
+- [00:25:45](/episodes/ep-HYn0P-P1wUw#t-00-25-45): _Now, I'm going to add here that another person who I do not trust at all, for many reasons, because one of them being he's a sexual deviant, he's also been indicted for crimes by the state of Arizona. federal crimes for which he was recently pardoned by President Donald Trump. I think it's fair to assume that a person who commits crimes in the past might commit crimes in the future or I guess allegedly committed crimes. I think those court cases are still moving through. I think that's a perfectly logical assumption that a person who's involved in doing the wrong thing might keep it up. A person that seems motivated by money. A person who factually was in debt and was having his payments garnished at Turning Point USA, who then blinks and becomes a millionaire working for a charity might be a little bit shady. I think Tyler Bowyer, it is a logical conclusion that he is at best a very shady character._
 
 **[Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8)**
 

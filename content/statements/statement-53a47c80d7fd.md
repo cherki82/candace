@@ -24,11 +24,21 @@ veracity: "true"
 - [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [00:32:10](/episodes/ep-nPhCKwJ6ye8.md#t-00-32-10) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1930);return false;">Play</a>
+
+> my theory is supported by compelling witness testimony, physical evidence, multiple confessions, all of which are independently compelling, but which are even more convincing as each piece of evidence corroborates the others.
+
+### 2. Candace Owens vs Andrew Wilson: The Great Debate.
+
+**Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
+**Timestamp:** [00:07:34](/episodes/ep-aPOyk1i2LOc.md#t-00-07-34) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(454);return false;">Play</a>
 
 > my theory is supported by compelling witness testimony, physical evidence, multiple confessions, all of which are independently compelling, but which are even more convincing as each piece of evidence corroborates the others.
 

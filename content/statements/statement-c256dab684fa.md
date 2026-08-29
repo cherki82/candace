@@ -27,7 +27,7 @@ type: "accusation"
 ## Source
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
-**Timestamp:** [00:43:45](/episodes/ep-HYn0P-P1wUw.md#t-00-43-07) 
+**Timestamp:** [00:43:45](/episodes/ep-HYn0P-P1wUw.md#t-00-43-20) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2625);return false;">Play</a>
 
 > we were able to very quickly determine because the tips box is just absolutely savage that what's been in the works is that Daily Wire has been casting people for a show that's designed specifically to make fun of me and also Tucker Carlson.

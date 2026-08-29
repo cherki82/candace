@@ -29,10 +29,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md)
-**Timestamp:** [00:18:15](/episodes/ep-Cq7nj9rxPdo.md#t-00-17-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1095);return false;">Play</a>
+**Timestamp:** [00:12:27](/episodes/ep-Cq7nj9rxPdo.md#t-00-12-11) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(747);return false;">Play</a>
 
-> And I was standing next to Charlie when I said it, which is relevant.
+> I had a bad potty mouth in 2018 going through these tweets. ... I tweeted back at Kanye, and I said, "Please take a meeting with us." ... Another player in this was Rick Rubin. ... Yeah, the big music industry—Rick Rubin—also got into the mix and wanted to facilitate certain meetings.
 
 ## Verification
 

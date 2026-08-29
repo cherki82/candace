@@ -1,6 +1,6 @@
 ---
 title: "Egypt"
-description: "Egypt (Places) - 244 mentions"
+description: "Egypt (Places) - 243 mentions"
 id: "gpe-egypt"
 type: "GPE"
 aliases:
@@ -23,7 +23,7 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-egypt-t-00-47-32">2025-10-09 · 00:47:32</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-egypt-t-00-46-14">2026-07-20 · 00:46:14</a></strong></div>
 <div><span>Episodes</span><strong>48</strong></div>
-<div><span>Mentions</span><strong>244</strong></div>
+<div><span>Mentions</span><strong>243</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -57,7 +57,7 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-egypt-t-00-14-04" style="--pulse-height:17%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 3 mentions" title="2025-12-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-egypt-t-00-33-09" style="--pulse-height:39%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 7 mentions" title="2025-12-17 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-egypt-t-00-45-12" style="--pulse-height:17%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 3 mentions" title="2025-12-20 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-egypt-t-00-15-58" style="--pulse-height:11%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-egypt-t-00-16-07" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-egypt-t-00-50-55" style="--pulse-height:17%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-egypt-t-00-01-27" style="--pulse-height:8%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-egypt-t-00-09-30" style="--pulse-height:33%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 6 mentions" title="2026-01-13 · 6 mentions"><span></span></a>
@@ -110,7 +110,7 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-egypt-t-00-14-04) | 3 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-gpe-egypt-t-00-33-09) | 7 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-egypt-t-00-45-12) | 3 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-egypt-t-00-15-58) | 2 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-egypt-t-00-16-07) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-egypt-t-00-50-55) | 3 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-egypt-t-00-01-27) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-egypt-t-00-09-30) | 6 |
@@ -142,7 +142,7 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (244)</strong></summary>
+<summary><strong class="section-title">Raw mentions (243)</strong></summary>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2 mentions)</summary>
@@ -481,13 +481,10 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 </details>
 
 <details>
-<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (2 mentions)</summary>
+<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
 
-**[00:16:21](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-egypt-t-00-15-58)**
+**[00:16:21](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-egypt-t-00-16-07)**
 > "We broke the story about the Egyptian trains,"
-
-**[00:16:23](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-egypt-t-00-15-58)**
-> "Egyptian planes,"
 
 </details>
 

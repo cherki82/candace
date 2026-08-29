@@ -11,7 +11,7 @@ date: "2025-09-10"
 
 > Charlie Kirk shot in neck at Turning Point USA event at Utah Valley University
 
-## Mentioned In (272 times)
+## Mentioned In (279 times)
 
 ### 1. REVELATIONS: The Truth About Charlie's Medical Report | Cand...
 
@@ -2188,3 +2188,59 @@ date: "2025-09-10"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1121);return false;">▶️ Play</a>
 
 > I got the news that Charlie had been shot
+
+### 273. A Strange Thing Happened At Charlie’s Funeral... Plus, A Sho...
+
+**Episode:** [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md)
+**Timestamp:** [00:05:10](/episodes/ep-AoYZel7_cGQ.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-05-10) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(310);return false;">▶️ Play</a>
+
+> what happened on September 10th, how Charlie Kirk died.
+
+### 274. An Eyewitness At Timpanogos. A Shocking Discovery About The ...
+
+**Episode:** [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md)
+**Timestamp:** [00:23:02](/episodes/ep-iB-YtO3UZOg.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-22-35) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1382);return false;">▶️ Play</a>
+
+> On September 10th, so to be clear, and this is crucial, over two hours before Charlie was shot
+
+### 275. Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On Th...
+
+**Episode:** [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md)
+**Timestamp:** [00:13:11](/episodes/ep-AH1KVKkweUE.md#t-00-13-11) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(791);return false;">▶️ Play</a>
+
+> Charlie was shot at 1223 p.m. on Wednesday.
+
+### 276. VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In Th...
+
+**Episode:** [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md)
+**Timestamp:** [00:16:40](/episodes/ep-1CFDtD0IgEg.md#t-00-16-18) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1000);return false;">▶️ Play</a>
+
+> less than 24 hours after Charlie was assassinated.
+
+### 277. LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s P...
+
+**Episode:** [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md)
+**Timestamp:** [00:53:08](/episodes/ep-ChuWo-n49B8.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-53-08) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3188);return false;">▶️ Play</a>
+
+> after Charlie Kirk's murder, I watched a video of him saying that he wants to be remembered
+
+### 278. A Shocking Truth Revealed In The “4K” Footage. Beavis and Bu...
+
+**Episode:** [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md)
+**Timestamp:** [00:25:59](/episodes/ep-d7VsbEIWkP8.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-25-59) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1559);return false;">▶️ Play</a>
+
+> Lance Twiggs' alibi, just to remind you for September 10th, is, I was sleeping.
+
+### 279. EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critica...
+
+**Episode:** [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md)
+**Timestamp:** [00:39:45](/episodes/ep-9hRcfSrri70.md#event-event-2025-09-10-charlie-kirk-shot-in-neck-at-turning-point-usa-eve-t-00-39-45) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2385);return false;">▶️ Play</a>
+
+> I am somebody who cares deeply about what happened on September 10th because my friend was killed

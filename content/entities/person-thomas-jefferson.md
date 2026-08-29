@@ -6,11 +6,16 @@ type: "PERSON"
 categories:
   - "history"
   - "government"
+  - "historical political figure"
 ---
 
 _Type: People_
 
-**Categories:** history, government
+**Categories:** history, government, historical political figure
+
+**Entity verification:** verified
+> Canonical name and identity for Thomas Jefferson confirmed by the cited direct external source.
+Source: [Thomas Jefferson](https://en.wikipedia.org/wiki/Thomas_Jefferson)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-person-thomas-jefferson-t-00-01-47">2025-11-21 · 00:01:54</a></strong></div>

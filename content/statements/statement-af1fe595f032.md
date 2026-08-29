@@ -1,6 +1,6 @@
 ---
-title: "George Zinn was charged with obstruction of justice after fa..."
-description: "\"George Zinn was charged with obstruction of justice after falsely claiming responsibility for Charlie Kirk's shooting, and was accused of possessing c...\" — Candace Owens"
+title: "George Zinn was charged with obstruction of justice after al..."
+description: "\"George Zinn was charged with obstruction of justice after allegedly faking responsibility for Charlie Kirk's shooting, and he was accused of possessin...\" — Candace Owens"
 statement_id: "statement-af1fe595f032"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> George Zinn was charged with obstruction of justice after falsely claiming responsibility for Charlie Kirk's shooting, and was accused of possessing child-sexual-abuse images on his phone.
+> George Zinn was charged with obstruction of justice after allegedly faking responsibility for Charlie Kirk's shooting, and he was accused of possessing child-sexual-abuse images on his phone.
 
 ## Attribution
 

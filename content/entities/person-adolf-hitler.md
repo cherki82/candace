@@ -1,6 +1,6 @@
 ---
 title: "Adolf Hitler"
-description: "Adolf Hitler (People) - 22 mentions"
+description: "Adolf Hitler (People) - 31 mentions"
 id: "person-adolf-hitler"
 type: "PERSON"
 aliases:
@@ -21,9 +21,9 @@ Source: [Adolf Hitler | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-adolf-hitler-t-00-00-00">2025-10-01 · 00:00:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-person-adolf-hitler-t-00-23-00">2026-05-28 · 00:23:00</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>22</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-adolf-hitler-t-01-03-37">2026-08-21 · 01:04:06</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>31</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -42,6 +42,7 @@ Source: [Adolf Hitler | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-adolf-hitler-t-00-39-16" style="--pulse-height:11%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-person-adolf-hitler-t-00-30-55" style="--pulse-height:11%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-adolf-hitler-t-00-09-55" style="--pulse-height:44%" aria-label="Candace Owens x Ana Kasparian: 4 mentions" title="2026-05-28 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-person-adolf-hitler-t-00-00-39" style="--pulse-height:100%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 9 mentions" title="2026-08-21 · 9 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -55,6 +56,7 @@ Source: [Adolf Hitler | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-person-adolf-hitler-t-00-39-16) | 1 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-person-adolf-hitler-t-00-30-55) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-adolf-hitler-t-00-09-55) | 4 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-adolf-hitler-t-00-00-39) | 9 |
 
 </details>
 </section>
@@ -62,7 +64,39 @@ Source: [Adolf Hitler | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (22)</strong></summary>
+<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (9 mentions)</summary>
+
+**[00:00:39](/episodes/ep-_cNtgris8Ik.md#ent-person-adolf-hitler-t-00-00-39)**
+> "...son he tries to smear me as a hitler lover and the smear was so bad him and blake are ..."
+
+**[00:32:55](/episodes/ep-_cNtgris8Ik.md#ent-person-adolf-hitler-t-00-32-34)**
+> "... tries to smear me as a. as a Hitler lover. And it's so offensively dishonest that it'..."
+
+**[00:33:04](/episodes/ep-_cNtgris8Ik.md#ent-person-adolf-hitler-t-00-32-34)**
+> "...g to see him laugh. She loves Hitler. And then just watch Blake's face transform as he..."
+
+**[00:33:21](/episodes/ep-_cNtgris8Ik.md#ent-person-adolf-hitler-t-00-33-21)**
+> "...vent where she basically said Hitler was great if you just would have stayed, you know..."
+
+**[00:33:48](/episodes/ep-_cNtgris8Ik.md#ent-person-adolf-hitler-t-00-33-48)**
+> "...sort of. like apologetics for hitler but rather she was trying to make a comparison to..."
+
+**[00:35:13](/episodes/ep-_cNtgris8Ik.md#ent-person-adolf-hitler-t-00-35-05)**
+> "...eople might attribute that to Adolf Hitler."
+
+**[00:35:21](/episodes/ep-_cNtgris8Ik.md#ent-person-adolf-hitler-t-00-35-05)**
+> "...ell, it's not attributable to Adolf Hitler because Adolf Hitler, if he had just wanted to st..."
+
+**[00:35:40](/episodes/ep-_cNtgris8Ik.md#ent-person-adolf-hitler-t-00-35-05)**
+> "...it seem as though I supported Adolf Hitler."
+
+**[01:04:06](/episodes/ep-_cNtgris8Ik.md#ent-person-adolf-hitler-t-01-03-37)**
+> "literally trying to make me Hitler apologist. It's really something. And like I said..."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (4 mentions)</summary>

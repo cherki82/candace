@@ -24,14 +24,13 @@ veracity: "unverifiable"
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Dan Flood](/entities/person-dan-flood.md) (person)
 - [Andrew Kolvet](/entities/person-andrew-kolvet.md) (person)
-- [Erika Kirk](/entities/person-erika-kirk.md) (person)
 
 ## Appearances (5)
 
 ### 1. BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/1...
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
-**Timestamp:** [00:15:32](/episodes/ep-HYn0P-P1wUw.md#t-00-15-17) 
+**Timestamp:** [00:15:32](/episodes/ep-HYn0P-P1wUw.md#t-00-15-28) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(932);return false;">Play</a>
 
 > We broke the story that Charlie (Charlie Kirk) texted Dan Flood and Andrew Kolvet the night before saying that he was afraid that they were going to kill him. This has now been confirmed by Erika (Erika Kirk), or at least it was confirmed to me from Erika (Erika Kirk).

@@ -11,7 +11,7 @@ date: "2025-09-08"
 
 > Candace Owens said a text-chain message showed Charlie Kirk was done with the pro-Israel cause.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. Myron Gaines x Candace Owens
 
@@ -28,3 +28,11 @@ date: "2025-09-08"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1714);return false;">▶️ Play</a>
 
 > in his final days on or around September 8th, Charlie sent a text message reading
+
+### 3. Candace Owens vs Andrew Wilson: The Great Debate.
+
+**Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
+**Timestamp:** [00:03:58](/episodes/ep-aPOyk1i2LOc.md#event-event-2025-09-08-candace-owens-said-a-text-chain-message--t-00-03-34) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(238);return false;">▶️ Play</a>
+
+> September 8th, Charlie sent a text message reading, Jewish donors play into all the stereotypes

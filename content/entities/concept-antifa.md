@@ -1,6 +1,6 @@
 ---
 title: "Antifa"
-description: "Antifa (Concepts) - 2 mentions"
+description: "Antifa (Concepts) - 3 mentions"
 id: "concept-antifa"
 type: "CONCEPT"
 categories:
@@ -20,9 +20,9 @@ Source: [Understanding 21st-Century Militant Anti-Fascism](https://crestresearch
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QdM9jLwjwLw.md#ent-concept-antifa-t-00-00-41">2026-01-28 · 00:01:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-tXoI0TTKVrs.md#ent-concept-antifa-t-00-06-15">2026-06-10 · 00:06:38</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-concept-antifa-t-00-24-42">2026-08-11 · 00:25:00</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,6 +35,7 @@ Source: [Understanding 21st-Century Militant Anti-Fascism](https://crestresearch
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-concept-antifa-t-00-00-41" style="--pulse-height:100%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-concept-antifa-t-00-06-15" style="--pulse-height:100%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-concept-antifa-t-00-24-42" style="--pulse-height:100%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -42,6 +43,7 @@ Source: [Understanding 21st-Century Militant Anti-Fascism](https://crestresearch
 |---|---|---:|
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-concept-antifa-t-00-00-41) | 1 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-concept-antifa-t-00-06-15) | 1 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-concept-antifa-t-00-24-42) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [Understanding 21st-Century Militant Anti-Fascism](https://crestresearch
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
+
+**[00:25:00](/episodes/ep-HGtMfbePDKk.md#ent-concept-antifa-t-00-24-42)**
+> "... joking about Kirk's death or Antifa the Trump administration had blamed for Kirk's mu..."
+
+</details>
 
 <details>
 <summary>Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "White House"
-description: "White House (Organizations) - 253 mentions"
+description: "White House (Organizations) - 264 mentions"
 id: "org-white-house"
 type: "ORG"
 categories:
@@ -18,11 +18,11 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-white-house-t-00-04-16">2025-09-11 · 00:04:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-org-white-house-t-00-04-51">2026-07-22 · 00:05:13</a></strong></div>
-<div><span>Episodes</span><strong>67</strong></div>
-<div><span>Mentions</span><strong>253</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-org-white-house-t-00-19-57">2026-08-11 · 00:20:27</a></strong></div>
+<div><span>Episodes</span><strong>72</strong></div>
+<div><span>Mentions</span><strong>264</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>63</strong></div>
+<div><span>Statements about</span><strong>68</strong></div>
 <div><span>Relationships</span><strong>11</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -70,8 +70,9 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-org-white-house-t-00-31-25" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-org-white-house-t-00-08-14" style="--pulse-height:8%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-org-white-house-t-00-41-46" style="--pulse-height:8%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-white-house-t-00-52-36" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-white-house-t-00-09-34" style="--pulse-height:14%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 4 mentions" title="2026-04-10 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-white-house-t-00-53-57" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-white-house-t-00-54-23" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-org-white-house-t-00-42-52" style="--pulse-height:8%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-org-white-house-t-00-16-56" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-white-house-t-00-01-49" style="--pulse-height:8%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
@@ -98,6 +99,10 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-white-house-t-00-26-46" style="--pulse-height:10%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-white-house-t-00-23-21" style="--pulse-height:8%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-org-white-house-t-00-04-10" style="--pulse-height:10%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 3 mentions" title="2026-07-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-org-white-house-t-00-08-25" style="--pulse-height:17%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 5 mentions" title="2026-07-27 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-white-house-t-00-00-01" style="--pulse-height:10%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 3 mentions" title="2026-07-29 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-org-white-house-t-00-47-00" style="--pulse-height:8%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 1 mentions" title="2026-07-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-org-white-house-t-00-19-57" style="--pulse-height:8%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -142,8 +147,9 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-org-white-house-t-00-31-25) | 1 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-white-house-t-00-08-14) | 2 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-white-house-t-00-41-46) | 1 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-white-house-t-00-52-36) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-white-house-t-00-09-34) | 4 |
-| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-white-house-t-00-53-57) | 1 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-white-house-t-00-54-23) | 1 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-white-house-t-00-42-52) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-white-house-t-00-16-56) | 1 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-white-house-t-00-01-49) | 1 |
@@ -170,6 +176,10 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-white-house-t-00-26-46) | 3 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-white-house-t-00-23-21) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-white-house-t-00-04-10) | 3 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-org-white-house-t-00-08-25) | 5 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-org-white-house-t-00-00-01) | 3 |
+| 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-org-white-house-t-00-47-00) | 1 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-org-white-house-t-00-19-57) | 1 |
 
 </details>
 </section>
@@ -177,7 +187,57 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (253)</strong></summary>
+<summary><strong class="section-title">Raw mentions (264)</strong></summary>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
+
+**[00:20:27](/episodes/ep-HGtMfbePDKk.md#ent-org-white-house-t-00-19-57)**
+> "... the ultimate one spun by the White House. It's a tactic I imagine Kirk would have approved..."
+
+</details>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (1 mentions)</summary>
+
+**[00:47:00](/episodes/ep-AoYZel7_cGQ.md#ent-org-white-house-t-00-47-00)**
+> "... I canceled my meeting at the White House to watch this."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (3 mentions)</summary>
+
+**[00:00:23](/episodes/ep-Vu6Y24pqhZs.md#ent-org-white-house-t-00-00-01)**
+> "Andrew Kolvet, why must we do these things? Why do you tell these massive lies? Because I was also able to confirm with a White House employee that there certainly was a White House meeting on the books for Andrew Kolvet, the chief marketing officer, Marina Menez."
+
+**[00:01:19](/episodes/ep-Vu6Y24pqhZs.md#ent-org-white-house-t-00-01-19)**
+> "... someone, like I said, in the White House who corroborated that."
+
+**[00:01:24](/episodes/ep-Vu6Y24pqhZs.md#ent-org-white-house-t-00-01-19)**
+> "...ays, I have no meeting at the White House. Sure, doesn't matter because today is not about ..."
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (5 mentions)</summary>
+
+**[00:08:58](/episodes/ep-HZvwbfePe7o.md#ent-org-white-house-t-00-08-25)**
+> "Emmanuel Macron coming to the White House and asking me to be quiet—that is something that should be shared publicly."
+
+**[00:32:20](/episodes/ep-HZvwbfePe7o.md#ent-org-white-house-t-00-32-20)**
+> "...arina Minas are headed to the White House today."
+
+**[00:33:27](/episodes/ep-HZvwbfePe7o.md#ent-org-white-house-t-00-33-04)**
+> "...e you not slated to be at the White House at all this week?"
+
+**[00:34:25](/episodes/ep-HZvwbfePe7o.md#ent-org-white-house-t-00-34-25)**
+> "...ve a meeting scheduled at the White House, you and Marina Minas and Frank (TPUSA in-house l..."
+
+**[00:34:48](/episodes/ep-HZvwbfePe7o.md#ent-org-white-house-t-00-34-25)**
+> "...SA team slated to meet in the White House this week, which happens to coincide with Netanya..."
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (3 mentions)</summary>
@@ -777,7 +837,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>
 
-**[00:54:23](/episodes/ep-eLgD5yUVbko.md#ent-org-white-house-t-00-53-57)**
+**[00:54:23](/episodes/ep-eLgD5yUVbko.md#ent-org-white-house-t-00-54-23)**
 > "in the White House"
 
 </details>
@@ -786,7 +846,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (4 mentions)</summary>
 
 **[00:10:06](/episodes/ep-ZIH5-V6UPkg.md#ent-org-white-house-t-00-09-34)**
-> "... obsessed calling me from the White House? Stop talking about Brigitte."
+> "Did you date Jean-Michel Trogneau? Are you gay? Why are you so obsessed calling me from the White House? Stop talking about Brigitte (Brigitte Macron)."
 
 **[00:16:31](/episodes/ep-ZIH5-V6UPkg.md#ent-org-white-house-t-00-16-19)**
 > "... in the situation room at the White House while the leader of a foreign country, Benjamin N..."
@@ -796,6 +856,14 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 
 **[00:45:53](/episodes/ep-ZIH5-V6UPkg.md#ent-org-white-house-t-00-45-32)**
 > "... the opportunity to be in the White House again, whatever it was, he sold us out. And we ju..."
+
+</details>
+
+<details>
+<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
+
+**[00:52:36](/episodes/ep-q1NRQQAYS_Q.md#ent-org-white-house-t-00-52-36)**
+> "white house"
 
 </details>
 
@@ -1391,7 +1459,32 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about White House (63)</strong></summary>
+<summary><strong class="section-title">Statements about White House (68)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (3)</summary>
+
+- [00:00:23](/episodes/ep-Vu6Y24pqhZs.md#t-00-00-01) (Claim) **Candace Owens**: ["Owens said she confirmed that Andrew Kolvet, Marina Minas, Justin Stre..."](/statements/statement-beaace42dd6b.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Marina Minas](/entities/person-marina-minas.md), [Justin Streiff](/entities/person-justin-streiff.md)
+
+- [00:01:19](/episodes/ep-Vu6Y24pqhZs.md#t-00-01-19) (Claim) **White House employee source (Ep Vu6Y24pqhZs)** (via read message): ["A White House employee source told Owens that the meeting was on the b..."](/statements/statement-31503030ee8e.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+- [00:01:24](/episodes/ep-Vu6Y24pqhZs.md#t-00-01-19) (Claim) **Andrew Kolvet** (via quoted speech): ["Andrew Kolvet said, 'I have no meeting at the White House.'"](/statements/statement-a756b8d4fca5.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md)
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (2)</summary>
+
+- [00:32:20](/episodes/ep-HZvwbfePe7o.md#t-00-32-20) (Claim) **Anonymous Source #2 (Ep HZvwbfePe7o)** (via read message): ["A person described as being in Andrew Kolvet's inner circle said Kolve..."](/statements/statement-f3fb5b960a0f.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Marina Minas](/entities/person-marina-minas.md), [Turning Point USA](/entities/org-turning-point-usa.md)
+
+- [00:32:50](/episodes/ep-HZvwbfePe7o.md#t-00-32-20) (Claim) **Andrew Kolvet** (via quoted post): ["Andrew Kolvet wrote that he, Turning Point USA's in-house lawyer, and ..."](/statements/statement-4ec9231fbfd2.md)
+  - Also about: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Kash Patel](/entities/person-kash-patel.md)
+
+</details>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (2)</summary>
@@ -1573,7 +1666,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1)</summary>
 
-- [00:53:57](/episodes/ep-eLgD5yUVbko.md#t-00-53-40) (Claim) **Donald J. Trump** (via quoted post): ["Donald Trump claimed that Pope Leo XIV was chosen because he was Ameri..."](/statements/statement-4b315897c442.md)
+- [00:53:57](/episodes/ep-eLgD5yUVbko.md#t-00-53-40) (Claim) **Donald J. Trump** (via quoted post): ["Donald Trump claimed that Pope Leo XIV was "only put there by the Chur..."](/statements/statement-4b315897c442.md)
   - Also about: [Pope Leo XIV](/entities/person-pope-leo-xiv.md), [Donald J. Trump](/entities/person-donald-trump.md), [Catholic Church](/entities/org-catholic-church.md)
 
 </details>
@@ -1581,7 +1674,7 @@ Source: [About the White House](https://www.whitehouse.gov/about-the-white-house
 <details>
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1)</summary>
 
-- [00:25:55](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-55) (Claim) **Candace Owens**: ["Donald Trump sat at the side of the table in the White House Situation..."](/statements/statement-a96ed1eeec64.md)
+- [00:25:55](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-55) (Claim) **Megyn Kelly**: ["Donald Trump sat at the side of the table in the White House Situation..."](/statements/statement-a96ed1eeec64.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 
 </details>

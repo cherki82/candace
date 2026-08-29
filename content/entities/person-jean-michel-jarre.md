@@ -3,9 +3,17 @@ title: "Jean-Michel Jarre"
 description: "Jean-Michel Jarre (People) - 2 mentions"
 id: "person-jean-michel-jarre"
 type: "PERSON"
+categories:
+  - "musician"
 ---
 
 _Type: People_
+
+**Categories:** musician
+
+**Entity verification:** verified
+> The artist's official biography confirms the canonical name and musician identity.
+Source: [Jean-Michel Jarre — official biography](https://jeanmicheljarre.com/biography)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-person-jean-michel-jarre-t-00-38-09">2025-11-21 · 00:38:42</a></strong></div>

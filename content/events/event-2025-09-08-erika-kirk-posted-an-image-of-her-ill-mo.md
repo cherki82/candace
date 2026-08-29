@@ -32,7 +32,7 @@ date: "2025-09-08"
 ### 3. SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | ...
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
-**Timestamp:** [00:33:53](/episodes/ep-q1NRQQAYS_Q.md#event-event-2025-09-08-erika-kirk-posted-an-image-of-her-ill-mo-t-00-33-25) 
+**Timestamp:** [00:33:53](/episodes/ep-q1NRQQAYS_Q.md#t-00-33-25) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2033);return false;">▶️ Play</a>
 
-> the timing of her post two days prior to Charlie being shot, she posts this video of her mother
+> two days prior to Charlie being shot, she posts this video of her mother

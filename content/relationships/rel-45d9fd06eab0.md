@@ -15,7 +15,7 @@ object: "person-megyn-kelly"
 
 **[An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg)**
 
-- [00:25:39](/episodes/ep-ZIH5-V6UPkg#t-00-25-39): _Who is guiding that? Meghan Kelly is asking the right questions on Piers Morgan. Take a listen._
+- [00:25:39](/episodes/ep-ZIH5-V6UPkg#t-00-25-39): _Who is guiding that? Megyn Kelly is asking the right questions on Piers Morgan. Take a listen._
 
 **[Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno)**
 

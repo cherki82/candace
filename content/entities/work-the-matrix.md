@@ -1,6 +1,6 @@
 ---
 title: "The Matrix"
-description: "The Matrix (Works & Media) - 26 mentions"
+description: "The Matrix (Works & Media) - 27 mentions"
 id: "work-the-matrix"
 type: "WORK"
 aliases:
@@ -22,9 +22,9 @@ Source: [The Matrix | Warner Bros.](https://www.warnerbros.co.jp/home_entertainm
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-work-the-matrix-t-01-03-34">2025-09-15 · 01:03:52</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-work-the-matrix-t-01-30-34">2026-01-29 · 01:30:39</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-work-the-matrix-t-00-41-11">2026-08-19 · 00:41:28</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>27</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -46,6 +46,7 @@ Source: [The Matrix | Warner Bros.](https://www.warnerbros.co.jp/home_entertainm
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-work-the-matrix-t-00-17-08" style="--pulse-height:100%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 6 mentions" title="2026-01-14 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-work-the-matrix-t-00-36-30" style="--pulse-height:33%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-work-the-matrix-t-01-30-34" style="--pulse-height:17%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-work-the-matrix-t-00-41-11" style="--pulse-height:17%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -62,6 +63,7 @@ Source: [The Matrix | Warner Bros.](https://www.warnerbros.co.jp/home_entertainm
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-work-the-matrix-t-00-17-08) | 6 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-work-the-matrix-t-00-36-30) | 2 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-work-the-matrix-t-01-30-34) | 1 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-work-the-matrix-t-00-41-11) | 1 |
 
 </details>
 </section>
@@ -69,7 +71,15 @@ Source: [The Matrix | Warner Bros.](https://www.warnerbros.co.jp/home_entertainm
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
+
+**[00:41:28](/episodes/ep-9hRcfSrri70.md#ent-work-the-matrix-t-00-41-11)**
+> "... which obviously is a play on The Matrix."
+
+</details>
 
 <details>
 <summary>Candace x Bassem Youssef | Candace Ep 298 (1 mentions)</summary>

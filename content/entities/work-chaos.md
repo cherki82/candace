@@ -1,6 +1,6 @@
 ---
 title: "Chaos"
-description: "Chaos (Works & Media) - 16 mentions"
+description: "Chaos (Works & Media) - 14 mentions"
 id: "work-chaos"
 type: "WORK"
 ---
@@ -12,8 +12,8 @@ _Type: Works & Media_
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-work-chaos-t-00-38-05">2025-09-15 · 00:38:35</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#ent-work-chaos-t-00-17-32">2025-12-05 · 00:17:43</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -29,8 +29,6 @@ _Type: Works & Media_
 <a href="/episodes/ep-UBkFkg4UNY8.md#ent-work-chaos-t-00-05-54" style="--pulse-height:50%" aria-label="Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241: 2 mentions" title="2025-09-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-K5GjF53bfN4.md#ent-work-chaos-t-00-14-44" style="--pulse-height:25%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-YA1FxrDWNIo.md#ent-work-chaos-t-00-12-14" style="--pulse-height:25%" aria-label="DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245: 1 mentions" title="2025-09-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-t1YtLS1n8Vs.md#ent-work-chaos-t-00-26-54" style="--pulse-height:25%" aria-label="INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk&#x27;s Assassination | Ep 247: 1 mentions" title="2025-10-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ozWJz2spBcI.md#ent-work-chaos-t-00-31-44" style="--pulse-height:25%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2Riv3I7D0Yk.md#ent-work-chaos-t-00-39-47" style="--pulse-height:25%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 1 mentions" title="2025-10-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-work-chaos-t-00-59-18" style="--pulse-height:25%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-work-chaos-t-00-00-00" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 4 mentions" title="2025-11-15 · 4 mentions"><span></span></a>
@@ -45,8 +43,6 @@ _Type: Works & Media_
 | 2025-09-23 | [Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241](/episodes/ep-UBkFkg4UNY8.md#ent-work-chaos-t-00-05-54) | 2 |
 | 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-work-chaos-t-00-14-44) | 1 |
 | 2025-09-30 | [DEAD OR ALIVE: Who Betrayed Charlie Kirk? | Ep 245](/episodes/ep-YA1FxrDWNIo.md#ent-work-chaos-t-00-12-14) | 1 |
-| 2025-10-02 | [INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247](/episodes/ep-t1YtLS1n8Vs.md#ent-work-chaos-t-00-26-54) | 1 |
-| 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-work-chaos-t-00-31-44) | 1 |
 | 2025-10-08 | [Charlie's Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250](/episodes/ep-2Riv3I7D0Yk.md#ent-work-chaos-t-00-39-47) | 1 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-work-chaos-t-00-59-18) | 1 |
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-work-chaos-t-00-00-00) | 4 |
@@ -58,7 +54,7 @@ _Type: Works & Media_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
 
 <details>
 <summary>Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275 (2 mentions)</summary>
@@ -101,22 +97,6 @@ _Type: Works & Media_
 
 **[00:40:15](/episodes/ep-2Riv3I7D0Yk.md#ent-work-chaos-t-00-39-47)**
 > "...click, type, search, scroll for you. And what I love most about Comet is that it can take weeknight chaos and turn it into something more simplified and stress-free, like planning a dinner. With just a few..."
-
-</details>
-
-<details>
-<summary>TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 (1 mentions)</summary>
-
-**[00:31:44](/episodes/ep-ozWJz2spBcI.md#ent-work-chaos-t-00-31-44)**
-> "...You can ask Comet to type, search, scroll for you. What I love most is that it takes that weeknight chaos away from you, and it turns it into a simple stress-free thing. Like, you can research dinners—how ..."
-
-</details>
-
-<details>
-<summary>INSANITY! Guess Who Kash Patel Sent To Investigate Charlie Kirk's Assassination | Ep 247 (1 mentions)</summary>
-
-**[00:26:59](/episodes/ep-t1YtLS1n8Vs.md#ent-work-chaos-t-00-26-54)**
-> "...licks, types, searches, scrolls for you. What I love most about Comet is that it can take weeknight chaos and turn it into simple, stress-free dinners with just a few taps. I get personalized meal plans ba..."
 
 </details>
 

@@ -4,9 +4,10 @@ description: "\"Connie Boss Alexander said Stephen Boss's family was told they h
 statement_id: "statement-fd7061104dd8"
 speaker: "Connie Boss Alexander"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -37,7 +38,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+CBS News's interview with Connie Boss Alexander reports that the family was told to sign NDAs and that without signing they would not be allowed to see Boss or participate; CBS also reviewed the initial agreement. This confirms Alexander made the statement and provides documentary corroboration of the NDA's existence.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Stephen 'tWitch' Boss' family opens up about his life, private details in his widow's memoir and healing](https://www.cbsnews.com/amp/news/stephen-twitch-boss-family-allison-holkers-memoir/)
+
+*Verified: 2026-08-27T19:42:39.589256*
 
 ---
 

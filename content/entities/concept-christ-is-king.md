@@ -1,6 +1,6 @@
 ---
 title: "Christ Is King"
-description: "Christ Is King (Concepts) - 37 mentions"
+description: "Christ Is King (Concepts) - 42 mentions"
 id: "concept-christ-is-king"
 type: "CONCEPT"
 aliases:
@@ -21,9 +21,9 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-christ-is-king-t-00-20-37">2026-01-12 · 00:20:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-christ-is-king-t-01-05-19">2026-07-16 · 01:06:00</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>37</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-concept-christ-is-king-t-00-51-45">2026-08-04 · 00:52:11</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>42</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -44,6 +44,7 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-concept-christ-is-king-t-01-09-07" style="--pulse-height:20%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-christ-is-king-t-00-51-18" style="--pulse-height:20%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-christ-is-king-t-00-46-05" style="--pulse-height:20%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-christ-is-king-t-00-42-28" style="--pulse-height:40%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 2 mentions" title="2026-04-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-concept-christ-is-king-t-00-07-54" style="--pulse-height:100%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 5 mentions" title="2026-05-04 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-concept-christ-is-king-t-00-48-09" style="--pulse-height:60%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 3 mentions" title="2026-05-06 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-concept-christ-is-king-t-00-41-14" style="--pulse-height:20%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
@@ -53,6 +54,7 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-christ-is-king-t-01-06-00" style="--pulse-height:20%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-concept-christ-is-king-t-00-57-15" style="--pulse-height:60%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-christ-is-king-t-00-59-06" style="--pulse-height:60%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-concept-christ-is-king-t-00-08-04" style="--pulse-height:60%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 3 mentions" title="2026-08-04 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -68,6 +70,7 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-concept-christ-is-king-t-01-09-07) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-concept-christ-is-king-t-00-51-18) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-christ-is-king-t-00-46-05) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-christ-is-king-t-00-42-28) | 2 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-concept-christ-is-king-t-00-07-54) | 5 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-concept-christ-is-king-t-00-48-09) | 3 |
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-concept-christ-is-king-t-00-41-14) | 1 |
@@ -77,6 +80,7 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-concept-christ-is-king-t-01-06-00) | 1 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-concept-christ-is-king-t-00-57-15) | 3 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-concept-christ-is-king-t-00-59-06) | 3 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-concept-christ-is-king-t-00-08-04) | 3 |
 
 </details>
 </section>
@@ -84,7 +88,21 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+<summary><strong class="section-title">Raw mentions (42)</strong></summary>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (3 mentions)</summary>
+
+**[00:08:04](/episodes/ep-1CFDtD0IgEg.md#ent-concept-christ-is-king-t-00-08-04)**
+> "...et you know god bless you all christ is king is that true is that true we looked it up and it ..."
+
+**[00:51:45](/episodes/ep-1CFDtD0IgEg.md#ent-concept-christ-is-king-t-00-51-45)**
+> "...ve it kiwi writes god is good christ is king may he protect canis in the name of jesus and may..."
+
+**[00:52:11](/episodes/ep-1CFDtD0IgEg.md#ent-concept-christ-is-king-t-00-51-45)**
+> "... yanking banking and they say Christ is king. It's a thing now, Frank (Frank Turek)."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (3 mentions)</summary>
@@ -194,6 +212,17 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 
 **[00:59:08](/episodes/ep-uC_GjKU8rs8.md#ent-concept-christ-is-king-t-00-59-08)**
 > "...iest okay um cone film writes christ is king e machine writes candace will you tell us about y..."
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (2 mentions)</summary>
+
+**[00:42:35](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-christ-is-king-t-00-42-28)**
+> "You are beautiful, Christ is king. Maybe it's what he's into. I don't know what is ..."
+
+**[00:47:20](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-christ-is-king-t-00-46-58)**
+> "... for all that you do. Go Max. Christ is King."
 
 </details>
 

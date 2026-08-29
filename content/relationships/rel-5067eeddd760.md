@@ -11,7 +11,11 @@ object: "person-tucker-carlson"
 
 ## [Andrew Kolvet](/entities/person-andrew-kolvet) interviewed by [Tucker Carlson](/entities/person-tucker-carlson)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg)**
+
+- [00:14:30](/episodes/ep-4JxgOclKzqg#t-00-14-30): _It was Andrew Kolvet who offered that excuse, by the way, to Tucker Carlson. Again, I'd like to remind you here is what he said._
 
 **[TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI)**
 

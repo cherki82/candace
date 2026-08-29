@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:57:59](/episodes/ep-9k2xrAC0H88.md#t-00-57-41) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3479);return false;">Play</a>
 
-> I know I have all these kids I raised and I was pregnant and they were born in birthdays, but I just don't want to release any pictures of myself for 30 plus years
+> Just really hates the cameras and just, oh yeah, I know I have all these kids I raised and I was pregnant and they were born in birthdays, but I just don't want to release any pictures of myself. for 30 plus years.
 
 ## Verification
 

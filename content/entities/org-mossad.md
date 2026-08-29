@@ -1,6 +1,6 @@
 ---
 title: "Mossad"
-description: "Mossad (Organizations) - 83 mentions"
+description: "Mossad (Organizations) - 88 mentions"
 id: "org-mossad"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-mossad-t-00-29-49">2025-09-15 · 00:30:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-mossad-t-01-06-05">2026-07-16 · 01:06:30</a></strong></div>
-<div><span>Episodes</span><strong>35</strong></div>
-<div><span>Mentions</span><strong>83</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-org-mossad-t-00-50-30">2026-08-11 · 00:50:30</a></strong></div>
+<div><span>Episodes</span><strong>40</strong></div>
+<div><span>Mentions</span><strong>88</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>29</strong></div>
+<div><span>Statements about</span><strong>30</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -49,6 +49,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <a href="/episodes/ep-es7PWdFGoFI.md#ent-org-mossad-t-00-00-00" style="--pulse-height:20%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 2 mentions" title="2025-12-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-mossad-t-00-11-03" style="--pulse-height:20%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 2 mentions" title="2025-12-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-mossad-t-00-19-05" style="--pulse-height:30%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 3 mentions" title="2025-12-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-mossad-t-01-06-13" style="--pulse-height:10%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-mossad-t-00-48-07" style="--pulse-height:30%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-org-mossad-t-00-31-49" style="--pulse-height:10%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-mossad-t-00-13-05" style="--pulse-height:10%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
@@ -60,7 +61,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-org-mossad-t-00-05-12" style="--pulse-height:10%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-mossad-t-00-48-35" style="--pulse-height:40%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 4 mentions" title="2026-03-25 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-org-mossad-t-00-09-00" style="--pulse-height:60%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 6 mentions" title="2026-03-30 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-mossad-t-00-46-06" style="--pulse-height:10%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-mossad-t-00-46-37" style="--pulse-height:10%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-org-mossad-t-00-39-05" style="--pulse-height:20%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 2 mentions" title="2026-04-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-mossad-t-00-23-12" style="--pulse-height:10%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-org-mossad-t-00-41-28" style="--pulse-height:10%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
@@ -70,6 +71,10 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-org-mossad-t-01-07-07" style="--pulse-height:10%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-mossad-t-00-48-58" style="--pulse-height:10%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-mossad-t-01-06-05" style="--pulse-height:10%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-org-mossad-t-00-40-38" style="--pulse-height:10%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-mossad-t-00-52-19" style="--pulse-height:10%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-mossad-t-00-47-40" style="--pulse-height:10%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-org-mossad-t-00-50-30" style="--pulse-height:10%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -89,6 +94,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 | 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-org-mossad-t-00-00-00) | 2 |
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-mossad-t-00-11-03) | 2 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-mossad-t-00-19-05) | 3 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-mossad-t-01-06-13) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-mossad-t-00-48-07) | 3 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-mossad-t-00-31-49) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-mossad-t-00-13-05) | 1 |
@@ -100,7 +106,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-org-mossad-t-00-05-12) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-mossad-t-00-48-35) | 4 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-mossad-t-00-09-00) | 6 |
-| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-mossad-t-00-46-06) | 1 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-mossad-t-00-46-37) | 1 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-org-mossad-t-00-39-05) | 2 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-mossad-t-00-23-12) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-mossad-t-00-41-28) | 1 |
@@ -110,6 +116,10 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-mossad-t-01-07-07) | 1 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-org-mossad-t-00-48-58) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-mossad-t-01-06-05) | 1 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-org-mossad-t-00-40-38) | 1 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-org-mossad-t-00-52-19) | 1 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-org-mossad-t-00-47-40) | 1 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-org-mossad-t-00-50-30) | 1 |
 
 </details>
 </section>
@@ -117,7 +127,39 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (83)</strong></summary>
+<summary><strong class="section-title">Raw mentions (88)</strong></summary>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
+
+**[00:50:30](/episodes/ep-HGtMfbePDKk.md#ent-org-mossad-t-00-50-30)**
+> "TR was smart, but not Mossad smart. Well played. Wait, nevermind."
+
+</details>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
+
+**[00:47:48](/episodes/ep-d7VsbEIWkP8.md#ent-org-mossad-t-00-47-40)**
+> "the Mossad motto"
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>
+
+**[00:52:19](/episodes/ep-1CFDtD0IgEg.md#ent-org-mossad-t-00-52-19)**
+> "...e he was like, why hasn't the Mossad killed Candace (Candace Owens) and Tucker Carlson..."
+
+</details>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
+
+**[00:40:50](/episodes/ep-AH1KVKkweUE.md#ent-org-mossad-t-00-40-38)**
+> "...means of deception, as is the Mossad motto."
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
@@ -209,7 +251,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
 
-**[00:46:42](/episodes/ep-q1NRQQAYS_Q.md#ent-org-mossad-t-00-46-06)**
+**[00:46:42](/episodes/ep-q1NRQQAYS_Q.md#ent-org-mossad-t-00-46-37)**
 > "the New York Post ... a Mossad outfit."
 
 </details>
@@ -377,6 +419,14 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 
 **[00:48:57](/episodes/ep-wcD2khO3rOA.md#ent-org-mossad-t-00-48-52)**
 > "And the CIA and the Mossad got caught involving they were trying to control ..."
+
+</details>
+
+<details>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
+
+**[01:06:13](/episodes/ep-OEAHy3SsIiI.md#ent-org-mossad-t-01-06-13)**
+> "...ust recognize the CIA and the Mossad and what they keep doing over and over again seem..."
 
 </details>
 
@@ -582,7 +632,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 - **[New York Post](/entities/org-new-york-post.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:46:42](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-06): “It's the reason why the New York Post had the exclusive photos in the story, this New York Post for all intents and purposes, just a Mossad outfit.”
+- [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 @ 00:46:42](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-37): “It's the reason why the New York Post had the exclusive photos in the story, this New York Post for all intents and purposes, just a Mossad outfit.”
 
 </details>
 
@@ -619,7 +669,15 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mossad (29)</strong></summary>
+<summary><strong class="section-title">Statements about Mossad (30)</strong></summary>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1)</summary>
+
+- [00:52:19](/episodes/ep-1CFDtD0IgEg.md#t-00-52-19) (Accusation) **Candace Owens** (via paraphrase): ["Candace Owens said Frank Turek had previously asked why Mossad had not..."](/statements/statement-c3902b4eda63.md)
+  - Also about: [Frank Turek](/entities/person-frank-turek.md), [Candace Owens](/entities/person-candace-owens.md), [Tucker Carlson](/entities/person-tucker-carlson.md)
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1)</summary>
@@ -661,7 +719,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1)</summary>
 
-- [00:46:42](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-06) (Accusation) **Candace Owens**: ["The New York Post is effectively a Mossad outlet that works on behalf ..."](/statements/statement-5f946e77b3bb.md)
+- [00:46:42](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-37) (Accusation) **Candace Owens**: ["The New York Post is effectively a Mossad outlet that works on behalf ..."](/statements/statement-5f946e77b3bb.md)
   - Also about: [New York Post](/entities/org-new-york-post.md), [Israel](/entities/gpe-israel.md)
 
 </details>

@@ -26,7 +26,7 @@ type: "factual_claim"
 **Timestamp:** [00:05:19](/episodes/ep-adJ4LNGp84I.md#t-00-05-01) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(319);return false;">Play</a>
 
-> He then installs a person that has a long tenure in DC, Robert Bowles
+> Kash Patel, I told you, cleaned house at the State Bureau. He then installs a person that has a long tenure in DC, Robert Bohls. His first case is Charlie (Charlie Kirk)'s assassination.
 
 ## Verification
 

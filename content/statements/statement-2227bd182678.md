@@ -4,9 +4,10 @@ description: "\"Candace Owens said text messages told her that Ben Shapiro was p
 statement_id: "statement-2227bd182678"
 speaker: "Candace Owens"
 type: "accusation"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The source-scoped transcript records Owens saying that text messages told her Shapiro was pressuring TPUSA donors to keep her from AmericaFest. This verifies that Owens made the attributed accusation; the private messages were not independently available for authentication.
+
+**Confidence:** High
+
+**Sources:**
+
+- [EXCLUSIVE: Ben Shapiro's 9/10 Lunch Date — Candace Ep. 365 transcript](https://podcasts.happyscribe.com/candace/10-lunch-date-more-text-messages-from-charlie-kirk)
+
+*Verified: 2026-08-27T19:42:39.589200*
 
 ---
 

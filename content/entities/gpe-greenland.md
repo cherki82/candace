@@ -63,7 +63,7 @@ Source: [About Greenland | Government of Greenland](https://naalakkersuisut.gl/e
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
 
 **[00:25:12](/episodes/ep-ZIH5-V6UPkg.md#ent-gpe-greenland-t-00-25-12)**
-> "...ela, why we're speaking about Greenland and all of a sudden, oh okay here we are going to..."
+> "That looks like that happened recently. Never-ending wars, where we're everywhere fighting all the time, and we're never being told, and no one's articulating a reason as to why we're going down to Venezuela, why we're speaking about Greenland, and all of a sudden, oh, okay, here we are going to Iran, despite the fact that nobody wants to go, not even people in the armed services. They don't know. Everybody is saying there's no need to do this, and yet he does it, right?"
 
 </details>
 

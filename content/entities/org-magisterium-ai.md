@@ -1,6 +1,6 @@
 ---
 title: "Magisterium AI"
-description: "Magisterium AI (Organizations) - 34 mentions"
+description: "Magisterium AI (Organizations) - 30 mentions"
 id: "org-magisterium-ai"
 type: "ORG"
 aliases:
@@ -22,12 +22,12 @@ _Type: Organizations_
 Source: [Magisterium AI](https://www.magisterium.com/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-magisterium-ai-t-00-33-59">2026-01-07 · 00:34:25</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-magisterium-ai-t-00-37-57">2026-01-19 · 00:38:10</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-org-magisterium-ai-t-00-28-09">2026-02-27 · 00:28:46</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>34</strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>30</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -36,7 +36,6 @@ Source: [Magisterium AI](https://www.magisterium.com/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-magisterium-ai-t-00-22-49">IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-magisterium-ai-t-00-33-59" style="--pulse-height:80%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 4 mentions" title="2026-01-07 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-magisterium-ai-t-00-37-57" style="--pulse-height:80%" aria-label="A Legal Turning Point? | Candace Ep 292: 4 mentions" title="2026-01-19 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-magisterium-ai-t-00-22-49" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 5 mentions" title="2026-01-21 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-magisterium-ai-t-00-18-28" style="--pulse-height:80%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 4 mentions" title="2026-01-22 · 4 mentions"><span></span></a>
@@ -49,7 +48,6 @@ Source: [Magisterium AI](https://www.magisterium.com/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-org-magisterium-ai-t-00-33-59) | 4 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-magisterium-ai-t-00-37-57) | 4 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-magisterium-ai-t-00-22-49) | 5 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-magisterium-ai-t-00-18-28) | 4 |
@@ -64,7 +62,7 @@ Source: [Magisterium AI](https://www.magisterium.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (34)</strong></summary>
+<summary><strong class="section-title">Raw mentions (30)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (5 mentions)</summary>
@@ -191,41 +189,11 @@ Source: [Magisterium AI](https://www.magisterium.com/)
 
 </details>
 
-<details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (4 mentions)</summary>
-
-**[00:34:25](/episodes/ep-zSKrxIUMNqw.md#ent-org-magisterium-ai-t-00-33-59)**
-> "That's why I actually use magisterium AI,"
-
-**[00:34:37](/episodes/ep-zSKrxIUMNqw.md#ent-org-magisterium-ai-t-00-34-37)**
-> "...he other AI that's out there, Magisterium AI actually brings the receipts, meaning every singl..."
-
-**[00:35:06](/episodes/ep-zSKrxIUMNqw.md#ent-org-magisterium-ai-t-00-34-37)**
-> "So go to magisterium.com slash Candace or download the app for free on..."
-
-**[00:35:26](/episodes/ep-zSKrxIUMNqw.md#ent-org-magisterium-ai-t-00-35-19)**
-> "Visit magisterium.com slash Candace."
-
-</details>
-
 </details>
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
-
-</details>
-
-<details open>
-<summary><strong class="section-title">Statements about Magisterium AI (1)</strong></summary>
-
-<details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1)</summary>
-
-- [00:34:37](/episodes/ep-zSKrxIUMNqw.md#t-00-33-59) (Claim) **Candace Owens**: ["Magisterium AI's answers cite original sources and its knowledge base ..."](/statements/statement-231e04766484.md)
-  - Also about: [Artificial intelligence](/entities/concept-artificial-intelligence.md)
-
-</details>
 
 </details>

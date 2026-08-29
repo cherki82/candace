@@ -39,15 +39,17 @@ veracity: "mixed"
 
 ### Analysis
 
-The embedded clip shows Gary Melton reading and displaying messages he attributes to Andrew Wilson during the Paramount/CBS production, which supports contemporaneous direct messaging. However, the sender identity and complete thread were not independently authenticated, and public reporting does not establish formal coordination with Paramount. The narrow communication claim is supported; the broader coordination implication is not.
+The episode's embedded Paramount Tactical interview shows the person identified as Mitch Snow's son personally stating that military personnel called him on September 9, asked whether he knew Mitch Snow, and said he was Snow's primary emergency contact. A current mirror of a separate program preserves the same interview excerpt. This directly supports that the son gave this account, but no official call log, authenticated incident record, or independent military confirmation was found to establish the call itself. The testimony is documented; the underlying military contact remains independently uncorroborated.
 
 **Confidence:** Medium
 
 **Sources:**
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](https://www.youtube.com/watch?v=OEAHy3SsIiI)
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](https://pod.wave.co/podcast/candace-cc79581b-6fe8-428e-ac65-6f1bc0d005e4/you-wont-believe-what-happened-while-we-were-off-air-candace-ep-284)
+- [Tim Dillon TAKES DOWN Erika Kirk & TPUSA! w/ Ryan Matta - The Jimmy Dore Show](https://pod.wave.co/podcast/the-jimmy-dore-show/tim-dillon-takes-down-erika-kirk-tpusa-w-ryan-matta)
 
-*Verified: 2026-08-15T11:11:04.762874*
+*Verified: 2026-08-28T19:16:03.133816*
 
 ---
 

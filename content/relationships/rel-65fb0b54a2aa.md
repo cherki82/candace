@@ -15,7 +15,7 @@ object: "org-byu"
 
 **[Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU)**
 
-- [00:30:28](/episodes/ep-rupRLXmSndU#t-00-30-28): _But what we know for certain is, like I said, Robbie, he also went to BYU. And he played lacrosse. He appears to have graduated around 2020._
+- [00:30:28](/episodes/ep-rupRLXmSndU#t-00-30-28): _But what we know for certain is, like I said, Robbie (Robbie Hild), he also went to BYU. And he played lacrosse. He appears to have graduated around 2020._
 
 ### Related
 

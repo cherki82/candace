@@ -23,13 +23,23 @@ type: "accusation"
 - [Turning Point USA](/entities/org-turning-point-usa.md) (org)
 - [Andrew Wilson](/entities/person-andrew-wilson.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [02:55:09](/episodes/ep-nPhCKwJ6ye8.md#t-02-55-09) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(10509);return false;">Play</a>
 
 > Yeah, I just think it kind of shows that turning point is sending you as their horse.
+
+### 2. Candace Owens vs Andrew Wilson: The Great Debate.
+
+**Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
+**Timestamp:** [00:00:06](/episodes/ep-aPOyk1i2LOc.md#t-00-00-01) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(6);return false;">Play</a>
+
+> Candace, Andrew, you know, good to sit down here with you talking to you guys about the conversation ... Yeah, I just think it kind of shows that turning point is sending you as their horse.
 
 ## Verification
 

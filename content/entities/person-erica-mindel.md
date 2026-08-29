@@ -8,11 +8,19 @@ aliases:
   - "Erica Mendl"
   - "Erika Mendel"
   - "Erika Mendl"
+categories:
+  - "social media public policy"
 ---
 
 _Type: People_
 
 **Also known as:** Erica Mendel, Erica Mendl, Erika Mendel, Erika Mendl
+
+**Categories:** social media public policy
+
+**Entity verification:** verified
+> The source identifies Erica Mindel and her public-policy work, resolving the transcript's Mendel ASR spelling.
+Source: [The battle over who governs online speech — The Jerusalem Post](https://www.jpost.com/diaspora/article-862765)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-erica-mindel-t-00-44-06">2025-10-01 · 00:44:06</a></strong></div>
@@ -49,7 +57,7 @@ _Type: People_
 <summary>BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246 (1 mentions)</summary>
 
 **[00:44:06](/episodes/ep-adJ4LNGp84I.md#ent-person-erica-mindel-t-00-44-06)**
-> "... there is more truth, and we should absolutely demand it. There is a note here for my producer from Erica Mendel, who is an American-Israeli Jewish former IDF soldier currently serving as the—oh, that's her name,..."
+> "There is a note here for my producer from Erica Mindel, who is an American-Israeli Jewish former IDF soldier currently serving as the—oh, that's her name, right? Erica Mindel."
 
 </details>
 

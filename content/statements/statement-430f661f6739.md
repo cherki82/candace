@@ -29,7 +29,7 @@ type: "accusation"
 **Timestamp:** [01:08:18](/episodes/ep-es7PWdFGoFI.md#t-01-08-09) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(4098);return false;">Play</a>
 
-> he's basically trying to signal to people that her security's weak or, like, she's using the same security as Charlie. All of these things, like, he is trying to put into the air that he wants me to be attacked. That's how I'm taking this, because why is he making my security a theme on his show?
+> Like, he's basically trying to signal to people that her security's weak or, like, she's using the same security as Charlie (Charlie Kirk). All of these things, like, he is trying to put into the air that he wants me to be attacked. That's how I'm taking this, because why is he making my security a theme on his show?
 
 ## Verification
 

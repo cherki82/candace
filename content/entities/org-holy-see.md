@@ -37,7 +37,7 @@ Source: [The Holy See](https://www.vatican.va/content/vatican/en.html)
 <p>Highest activity: <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-holy-see-t-01-14-48">TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-org-holy-see-t-00-05-02" style="--pulse-height:50%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-holy-see-t-00-53-57" style="--pulse-height:50%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-holy-see-t-00-54-23" style="--pulse-height:50%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-org-holy-see-t-01-14-48" style="--pulse-height:100%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 2 mentions" title="2026-04-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-holy-see-t-01-41-29" style="--pulse-height:50%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 </div>
@@ -46,7 +46,7 @@ Source: [The Holy See](https://www.vatican.va/content/vatican/en.html)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-org-holy-see-t-00-05-02) | 1 |
-| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-holy-see-t-00-53-57) | 1 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-holy-see-t-00-54-23) | 1 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-org-holy-see-t-01-14-48) | 2 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-org-holy-see-t-01-41-29) | 1 |
 
@@ -80,7 +80,7 @@ Source: [The Holy See](https://www.vatican.va/content/vatican/en.html)
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>
 
-**[00:54:23](/episodes/ep-eLgD5yUVbko.md#ent-org-holy-see-t-00-53-57)**
+**[00:54:23](/episodes/ep-eLgD5yUVbko.md#ent-org-holy-see-t-00-54-23)**
 > "in the Vatican"
 
 </details>
@@ -108,7 +108,7 @@ _No relationships extracted yet._
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1)</summary>
 
-- [00:53:57](/episodes/ep-eLgD5yUVbko.md#t-00-53-40) (Claim) **Donald J. Trump** (via quoted post): ["Donald Trump claimed that Pope Leo XIV was chosen because he was Ameri..."](/statements/statement-4b315897c442.md)
+- [00:53:57](/episodes/ep-eLgD5yUVbko.md#t-00-53-40) (Claim) **Donald J. Trump** (via quoted post): ["Donald Trump claimed that Pope Leo XIV was "only put there by the Chur..."](/statements/statement-4b315897c442.md)
   - Also about: [Pope Leo XIV](/entities/person-pope-leo-xiv.md), [Donald J. Trump](/entities/person-donald-trump.md), [Catholic Church](/entities/org-catholic-church.md)
 
 </details>

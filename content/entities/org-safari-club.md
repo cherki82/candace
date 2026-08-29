@@ -3,9 +3,17 @@ title: "Safari Club"
 description: "Safari Club (Organizations) - 2 mentions"
 id: "org-safari-club"
 type: "ORG"
+categories:
+  - "historical intelligence alliance"
 ---
 
 _Type: Organizations_
+
+**Categories:** historical intelligence alliance
+
+**Entity verification:** verified
+> The official historical discussion confirms the Safari Club label while noting limits in the available decision-level records.
+Source: [March 2021 Historical Advisory Committee — Office of the Historian](https://history.state.gov/about/hac/March-2021)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-safari-club-t-00-13-15">2025-12-01 · 00:11:47</a></strong></div>

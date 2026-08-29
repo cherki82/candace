@@ -1,6 +1,6 @@
 ---
 title: "United States Department of Defense"
-description: "United States Department of Defense (Organizations) - 65 mentions"
+description: "United States Department of Defense (Organizations) - 66 mentions"
 id: "org-us-department-of-defense"
 type: "ORG"
 aliases:
@@ -28,12 +28,12 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-us-department-of-defense-t-00-31-29">2025-10-28 · 00:31:53</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-us-department-of-defense-t-01-04-38">2026-07-21 · 01:04:38</a></strong></div>
-<div><span>Episodes</span><strong>29</strong></div>
-<div><span>Mentions</span><strong>65</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-us-department-of-defense-t-00-03-59">2026-07-29 · 00:04:24</a></strong></div>
+<div><span>Episodes</span><strong>30</strong></div>
+<div><span>Mentions</span><strong>66</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>39</strong></div>
-<div><span>Relationships</span><strong>19</strong></div>
+<div><span>Relationships</span><strong>20</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -46,7 +46,7 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 <a href="/episodes/ep-his-JBjlkh8.md#ent-org-us-department-of-defense-t-00-37-21" style="--pulse-height:38%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 3 mentions" title="2025-12-03 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-us-department-of-defense-t-00-02-46" style="--pulse-height:25%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-us-department-of-defense-t-00-39-10" style="--pulse-height:25%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-us-department-of-defense-t-01-03-41" style="--pulse-height:25%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-us-department-of-defense-t-01-04-06" style="--pulse-height:25%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-us-department-of-defense-t-01-17-26" style="--pulse-height:12%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-org-us-department-of-defense-t-00-53-20" style="--pulse-height:25%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-org-us-department-of-defense-t-00-04-42" style="--pulse-height:12%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
@@ -70,6 +70,7 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-us-department-of-defense-t-00-26-23" style="--pulse-height:100%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 8 mentions" title="2026-06-26 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-us-department-of-defense-t-00-39-34" style="--pulse-height:12%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-us-department-of-defense-t-01-04-38" style="--pulse-height:12%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-us-department-of-defense-t-00-03-59" style="--pulse-height:12%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -80,7 +81,7 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-us-department-of-defense-t-00-37-21) | 3 |
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-org-us-department-of-defense-t-00-02-46) | 2 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-us-department-of-defense-t-00-39-10) | 2 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-us-department-of-defense-t-01-03-41) | 2 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-us-department-of-defense-t-01-04-06) | 2 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-us-department-of-defense-t-01-17-26) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-us-department-of-defense-t-00-53-20) | 2 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-org-us-department-of-defense-t-00-04-42) | 1 |
@@ -104,6 +105,7 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-us-department-of-defense-t-00-26-23) | 8 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-us-department-of-defense-t-00-39-34) | 1 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-us-department-of-defense-t-01-04-38) | 1 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-org-us-department-of-defense-t-00-03-59) | 1 |
 
 </details>
 </section>
@@ -111,7 +113,15 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (65)</strong></summary>
+<summary><strong class="section-title">Raw mentions (66)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
+
+**[00:04:24](/episodes/ep-Vu6Y24pqhZs.md#ent-org-us-department-of-defense-t-00-03-59)**
+> "They let the error go. We got no explanation. I think we deserve one. And of all the people, they happen to select this kid who has got a father who's a career military man who owns and operates a military app tied to operations, tied to Fort Wachuka, got a bunch of money from the DOD."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>
@@ -390,10 +400,10 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (2 mentions)</summary>
 
-**[01:04:19](/episodes/ep-HYn0P-P1wUw.md#ent-org-us-department-of-defense-t-01-03-41)**
+**[01:04:19](/episodes/ep-HYn0P-P1wUw.md#ent-org-us-department-of-defense-t-01-04-06)**
 > "having contracts with the DOD for EMP hardening and the testing that is done at..."
 
-**[01:04:35](/episodes/ep-HYn0P-P1wUw.md#ent-org-us-department-of-defense-t-01-04-26)**
+**[01:04:35](/episodes/ep-HYn0P-P1wUw.md#ent-org-us-department-of-defense-t-01-04-06)**
 > "...r mother was working with the DOD."
 
 </details>
@@ -402,10 +412,10 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (2 mentions)</summary>
 
 **[00:39:10](/episodes/ep-OEAHy3SsIiI.md#ent-org-us-department-of-defense-t-00-39-10)**
-> "what sort of an operation are we are we talking about now we couldn't jump to conclusions at that point because maybe Brian Harpole was going to say oh yeah I was there I was there because I was picking up something from my brother maybe Erika (Erika Kirk) was going to cut out and say yeah I was at Fort Huachuca base because my mother has DOD contracts and I'm very familiar with this base and I was going to see a friend we didn't know what to make of anything other than he said"
+> "What sort of an operation are we talking about? Now, we couldn't jump to conclusions at that point, because maybe Brian Harpole was going to say, oh yeah, I was there. I was there because I was picking up something from my brother. Maybe Erika (Erika Kirk) was going to come out and say, yeah, I was at Fort Huachuca base because my mother has DOD contracts, and I'm very familiar with this base, and I was going to see a friend. We didn't know what to make of anything other than he said..."
 
-**[00:36:27](/episodes/ep-OEAHy3SsIiI.md#ent-org-us-department-of-defense-t-00-36-06)**
-> "... exists above congress of the department of defense which is the pentagon the central intelligence ag..."
+**[00:36:26](/episodes/ep-OEAHy3SsIiI.md#ent-org-us-department-of-defense-t-00-36-06)**
+> "We must understand: we have Congress, and they're just kind of like a peanut gallery. And then we have a super-government that exists above Congress: the Department of Defense, which is the Pentagon; the Central Intelligence Agency, which is its own thing out in Langley; the Federal Bureau of Investigation. They run the country. The intel agencies run the country. The..."
 
 </details>
 
@@ -562,7 +572,7 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 </details>
 
 <details>
-<summary>Referenced By (10)</summary>
+<summary>Referenced By (11)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** advisor to this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -572,9 +582,10 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 </details>
 
 - **[Lori Frantzve](/entities/person-lori-frantzve.md)** affiliated with this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314 @ 00:32:19](/episodes/ep-B9TyCs-6o_0.md#t-00-32-04): “the department of defense which is all over the story for some reason Lori (Lori Frantzve) is part of the department of defense”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 01:04:35](/episodes/ep-HYn0P-P1wUw.md#t-01-04-06): “So she was her mother was working with the DOD. So she's been very open about that.”
 
 </details>
 
@@ -611,6 +622,13 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 
 - [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 @ 00:38:52](/episodes/ep-1QZ4X6q1DPg.md#t-00-38-24): “Anyway, the receipts are here. On September 24, 2025, he received $39,000 for individual equipment. ... And then on September 29th, five days later, he received $151,000 for night vision equipment.”
 - [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 @ 00:26:46](/episodes/ep-IqHsl7d2dos.md#t-00-26-46): “The Department of War being the same department which referred to Erika (Erika Kirk) as their emotional assets mysteriously. On the night of the White House Correspondents' Dinner shooting that wasn't, the same department which we've discovered paid Paramount not-so-tactical and other full-time trying to delude the masses, a former Green Beret also now dedicated to the information war meant to convince everybody without a shred of evidence.”
+
+</details>
+
+- **[AZ-Tech International](/entities/org-az-tech-international.md)** worked with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 01:04:13](/episodes/ep-HYn0P-P1wUw.md#t-01-04-06): “We'll see what happens. Jamie Powell Lucci writes, looking into Erika (Erika Kirk)'s mom's company, AZ Tech and E3 Tech, having contracts with the DOD for EMP hardening and the testing that is done at Fort Huachuca. Yeah, I think that that's accurate.”
 
 </details>
 
@@ -858,7 +876,7 @@ Source: [Director of Administration & Management | U.S. Department of War](https
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1)</summary>
 
-- [01:04:26](/episodes/ep-HYn0P-P1wUw.md#t-01-03-41) (Claim) **Erika Kirk** (via paraphrase): ["Erika Kirk has said she moved to Arizona because her mother obtained U..."](/statements/statement-c50554fd1566.md)
+- [01:04:26](/episodes/ep-HYn0P-P1wUw.md#t-01-04-06) (Claim) **Erika Kirk** (via paraphrase): ["Erika Kirk has said she moved to Arizona because her mother obtained U..."](/statements/statement-c50554fd1566.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md)
 
 </details>

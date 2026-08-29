@@ -4,9 +4,10 @@ description: "\"Allison Holker said she discovered many alarming things in the c
 statement_id: "statement-140516f4723b"
 speaker: "Allison Holker"
 type: "opinion"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "opinion"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The source-scoped transcript contains Holker's quoted account of finding alarming items in a closet and believing Boss had tried to self-medicate and cope. Current coverage of her memoir reports the same account. Verification is of Holker's opinion and reported discovery, not an independent diagnosis of Boss.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Why Stephen 'tWitch' Boss' Brother Questions Drugs' Role in His Death](https://www.eonline.com/news/1413338/why-stephen-twitch-boss-brother-questions-the-role-drugs-played-in-his-death)
+
+*Verified: 2026-08-27T19:42:39.589249*
 
 ---
 

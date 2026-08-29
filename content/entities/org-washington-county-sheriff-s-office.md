@@ -1,6 +1,6 @@
 ---
 title: "Washington County Sheriff's Office"
-description: "Washington County Sheriff's Office (Organizations) - 7 mentions"
+description: "Washington County Sheriff's Office (Organizations) - 8 mentions"
 id: "org-washington-county-sheriff-s-office"
 type: "ORG"
 categories:
@@ -19,8 +19,8 @@ Source: [Departments — Washington County of Utah](https://www.washco.utah.gov/
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-washington-county-sheriff-s-office-t-00-06-59">2025-09-16 · 00:07:05</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#t-01-38-09">2026-08-14 · 01:38:09</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -36,6 +36,7 @@ Source: [Departments — Washington County of Utah](https://www.washco.utah.gov/
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-org-washington-county-sheriff-s-office-t-00-40-25" style="--pulse-height:100%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-org-washington-county-sheriff-s-office-t-00-39-34" style="--pulse-height:50%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#t-01-38-09" style="--pulse-height:50%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#t-01-07-18" style="--pulse-height:50%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [Departments — Washington County of Utah](https://www.washco.utah.gov/
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-washington-county-sheriff-s-office-t-00-40-25) | 2 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-washington-county-sheriff-s-office-t-00-39-34) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-01-38-09) | 1 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#t-01-07-18) | 1 |
 
 </details>
 </section>
@@ -53,13 +55,21 @@ Source: [Departments — Washington County of Utah](https://www.washco.utah.gov/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[01:38:09](/episodes/ep-nPhCKwJ6ye8.md#t-01-38-09)**
 > "transported Tyler Robinson from the Washington Sheriff's County office"
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (1 mentions)</summary>
+
+**[01:07:18](/episodes/ep-aPOyk1i2LOc.md#t-01-07-18)**
+> "Mike Mitchell is the biggest unknown in this entire case. Everyone keeps. One keeps saying they heard from Mike Mitchell this they heard from Mike Mitchell that so when the person wrote up the report that night and it was Brian Davis who wrote up the what became the charging document he after they transported Tyler Robinson from the Washington Sheriff's County office up to I think it's Salt Lake City at the 4 a.m. in the morning they got up there he then writes the."
 
 </details>
 

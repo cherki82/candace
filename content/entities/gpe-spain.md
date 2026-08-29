@@ -1,6 +1,6 @@
 ---
 title: "Spain"
-description: "Spain (Places) - 17 mentions"
+description: "Spain (Places) - 25 mentions"
 id: "gpe-spain"
 type: "GPE"
 categories:
@@ -17,11 +17,11 @@ Source: [Spain – EU country | European Union](https://european-union.europa.eu
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-spain-t-00-48-28">2026-01-28 · 00:48:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-spain-t-00-08-25">2026-07-23 · 00:08:25</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-gpe-spain-t-00-42-32">2026-08-18 · 00:43:02</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>25</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -41,6 +41,11 @@ Source: [Spain – EU country | European Union](https://european-union.europa.eu
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-gpe-spain-t-00-20-35" style="--pulse-height:50%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 2 mentions" title="2026-07-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-spain-t-00-54-49" style="--pulse-height:25%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-spain-t-00-08-25" style="--pulse-height:25%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-gpe-spain-t-00-29-44" style="--pulse-height:25%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 1 mentions" title="2026-07-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-spain-t-00-36-00" style="--pulse-height:75%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 3 mentions" title="2026-08-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-spain-t-00-51-30" style="--pulse-height:50%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 2 mentions" title="2026-08-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#ent-gpe-spain-t-00-23-54" style="--pulse-height:25%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-gpe-spain-t-00-42-32" style="--pulse-height:25%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,6 +62,11 @@ Source: [Spain – EU country | European Union](https://european-union.europa.eu
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-gpe-spain-t-00-20-35) | 2 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-gpe-spain-t-00-54-49) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-gpe-spain-t-00-08-25) | 1 |
+| 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-gpe-spain-t-00-29-44) | 1 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-gpe-spain-t-00-36-00) | 3 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-spain-t-00-51-30) | 2 |
+| 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-gpe-spain-t-00-23-54) | 1 |
+| 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-gpe-spain-t-00-42-32) | 1 |
 
 </details>
 </section>
@@ -64,7 +74,56 @@ Source: [Spain – EU country | European Union](https://european-union.europa.eu
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1 mentions)</summary>
+
+**[00:43:02](/episodes/ep-4JxgOclKzqg.md#ent-gpe-spain-t-00-42-32)**
+> "...om his Catholic pilgrimage in Spain and apparently they were an absolute hit."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>
+
+**[00:24:12](/episodes/ep-5zgkrOaCCj4.md#ent-gpe-spain-t-00-23-54)**
+> "...om his Catholic pilgrimage in Spain and apparently Paleo Valley beef sticks became th..."
+
+</details>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (2 mentions)</summary>
+
+**[00:51:37](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-spain-t-00-51-30)**
+> "across Spain"
+
+**[00:52:38](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-spain-t-00-52-32)**
+> "...om his Catholic pilgrimage in Spain, and apparently the Paleo Valley beef sticks beca..."
+
+</details>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (3 mentions)</summary>
+
+**[00:36:26](/episodes/ep-AH1KVKkweUE.md#ent-gpe-spain-t-00-36-00)**
+> "...d then I'll help you get into Spain too. Like everyone knows that's just like."
+
+**[00:44:25](/episodes/ep-AH1KVKkweUE.md#ent-gpe-spain-t-00-44-25)**
+> "...k this is what's happening in Spain and Morocco and here's why you should care and Ru..."
+
+**[00:49:31](/episodes/ep-AH1KVKkweUE.md#ent-gpe-spain-t-00-49-31)**
+> "They take Spain. They're coming for other territories in Europe. ..."
+
+</details>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (1 mentions)</summary>
+
+**[00:29:44](/episodes/ep-AoYZel7_cGQ.md#ent-gpe-spain-t-00-29-44)**
+> "...om his catholic pilgrimage in spain and apparently the paleo valley beef sticks becam..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>
@@ -178,5 +237,18 @@ Source: [Spain – EU country | European Union](https://european-union.europa.eu
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Spain (1)</strong></summary>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1)</summary>
+
+- [00:51:37](/episodes/ep-d7VsbEIWkP8.md#t-00-51-30) (Accusation) **Candace Owens**: ["Candace Owens accused Israel of committing genocide in broad daylight ..."](/statements/statement-a3ea9aed3f75.md)
+  - Also about: [Israel](/entities/gpe-israel.md)
+
+</details>
 
 </details>

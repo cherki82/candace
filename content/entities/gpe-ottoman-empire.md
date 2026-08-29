@@ -1,6 +1,6 @@
 ---
 title: "Ottoman Empire"
-description: "Ottoman Empire (Places) - 1 mention"
+description: "Ottoman Empire (Places) - 2 mentions"
 id: "gpe-ottoman-empire"
 type: "GPE"
 aliases:
@@ -22,9 +22,9 @@ Source: [The Dissolution of the Ottoman Empire, 1807-1924 | Holocaust Encycloped
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-ottoman-empire-t-00-38-24">2026-05-28 · 00:38:24</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-ottoman-empire-t-00-38-24">2026-05-28 · 00:38:24</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-aPOyk1i2LOc.md#ent-gpe-ottoman-empire-t-00-51-56">2026-08-14 · 00:52:02</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,12 +36,14 @@ Source: [The Dissolution of the Ottoman Empire, 1807-1924 | Holocaust Encycloped
 <p>Highest activity: <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-ottoman-empire-t-00-38-24">Candace Owens x Ana Kasparian</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-ottoman-empire-t-00-38-24" style="--pulse-height:100%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-gpe-ottoman-empire-t-00-51-56" style="--pulse-height:100%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-gpe-ottoman-empire-t-00-38-24) | 1 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-ottoman-empire-t-00-51-56) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [The Dissolution of the Ottoman Empire, 1807-1924 | Holocaust Encycloped
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (1 mentions)</summary>
+
+**[00:52:02](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-ottoman-empire-t-00-51-56)**
+> "...man Empire, the Crusades, the Ottoman Empire, and countless changes of power. Today that Chris..."
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1 mentions)</summary>

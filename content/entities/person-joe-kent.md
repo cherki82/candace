@@ -1,6 +1,6 @@
 ---
 title: "Joe Kent"
-description: "Joe Kent (People) - 103 mentions"
+description: "Joe Kent (People) - 107 mentions"
 id: "person-joe-kent"
 type: "PERSON"
 aliases:
@@ -22,11 +22,11 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-joe-kent-t-00-20-35">2025-10-29 · 00:20:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-joe-kent-t-02-25-29">2026-08-14 · 02:25:29</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>103</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-joe-kent-t-00-55-00">2026-08-21 · 00:55:00</a></strong></div>
+<div><span>Episodes</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>107</strong></div>
 <div><span>Statements by</span><strong>7</strong></div>
-<div><span>Statements about</span><strong>24</strong></div>
+<div><span>Statements about</span><strong>25</strong></div>
 <div><span>Relationships</span><strong>34</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -52,6 +52,9 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-person-joe-kent-t-00-28-51" style="--pulse-height:8%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-person-joe-kent-t-00-58-18" style="--pulse-height:8%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 2 mentions" title="2026-06-23 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-joe-kent-t-02-25-29" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-joe-kent-t-01-44-27" style="--pulse-height:8%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-person-joe-kent-t-00-33-14" style="--pulse-height:8%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 2 mentions" title="2026-08-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-person-joe-kent-t-00-55-00" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -74,6 +77,9 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-person-joe-kent-t-00-28-51) | 1 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-person-joe-kent-t-00-58-18) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-joe-kent-t-02-25-29) | 1 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-joe-kent-t-01-44-27) | 1 |
+| 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-joe-kent-t-00-33-14) | 2 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-joe-kent-t-00-55-00) | 1 |
 
 </details>
 </section>
@@ -81,13 +87,40 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (103)</strong></summary>
+<summary><strong class="section-title">Raw mentions (107)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
+
+**[00:55:00](/episodes/ep-_cNtgris8Ik.md#ent-person-joe-kent-t-00-55-00)**
+> "...ven expressed that concern to joe kent which you now make it seem like he's an enemy but..."
+
+</details>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (2 mentions)</summary>
+
+**[00:33:26](/episodes/ep-4JxgOclKzqg.md#ent-person-joe-kent-t-00-33-14)**
+> "...sh Patel apparently shut down Joe Kent, who wanted to investigate whether or not there a..."
+
+**[00:51:01](/episodes/ep-4JxgOclKzqg.md#ent-person-joe-kent-t-00-51-01)**
+> "...to take him out, why wouldn't Joe Kent have that message? Make it make sense."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[02:25:29](/episodes/ep-nPhCKwJ6ye8.md#ent-person-joe-kent-t-02-25-29)**
 > "Well, Joe Kent,"
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (1 mentions)</summary>
+
+**[01:44:27](/episodes/ep-aPOyk1i2LOc.md#ent-person-joe-kent-t-01-44-27)**
+> "Joe Kent, who I think would have the right to assert it, n..."
 
 </details>
 
@@ -152,7 +185,7 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 > "Would have been nice if, rather than attacking Joe Kent, they themselves came out with that information."
 
 **[00:49:49](/episodes/ep-rupRLXmSndU.md#ent-person-joe-kent-t-00-49-25)**
-> "and wouldn't have to consider Joe Kent, why didn't Andrew want to come up with that info..."
+> "And wouldn't have to consider Joe Kent. Why didn't Andrew (Andrew Kolvet) want to come out with that information to the public?"
 
 </details>
 
@@ -802,7 +835,15 @@ Source: [DNI Gabbard Welcomes Joe Kent as National Counterterrorism Center Direc
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Joe Kent (24)</strong></summary>
+<summary><strong class="section-title">Statements about Joe Kent (25)</strong></summary>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1)</summary>
+
+- [00:33:26](/episodes/ep-4JxgOclKzqg.md#t-00-33-14) (Accusation) **Candace Owens**: ["Owens said it was very strange that Kash Patel apparently shut down Jo..."](/statements/statement-b00f742e4138.md)
+  - Also about: [Kash Patel](/entities/person-kash-patel.md), [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>

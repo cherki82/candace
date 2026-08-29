@@ -1,6 +1,6 @@
 ---
 title: "Home Title Lock"
-description: "Home Title Lock (Organizations) - 10 mentions"
+description: "Home Title Lock (Organizations) - 11 mentions"
 id: "org-home-title-lock"
 type: "ORG"
 categories:
@@ -18,9 +18,9 @@ Source: [Home Title Lock](https://www.hometitlelock.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-home-title-lock-t-00-36-04">2026-01-22 · 00:36:35</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-home-title-lock-t-00-50-04">2026-06-13 · 00:50:13</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#t-00-43-39">2026-08-19 · 00:43:47</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>1</strong></div>
@@ -35,8 +35,9 @@ Source: [Home Title Lock](https://www.hometitlelock.com/)
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-home-title-lock-t-00-48-57" style="--pulse-height:33%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-home-title-lock-t-00-49-34" style="--pulse-height:67%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-home-title-lock-t-00-57-00" style="--pulse-height:33%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-home-title-lock-t-00-49-12" style="--pulse-height:67%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-home-title-lock-t-00-49-18" style="--pulse-height:67%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-home-title-lock-t-00-50-04" style="--pulse-height:100%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 3 mentions" title="2026-06-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#t-00-43-39" style="--pulse-height:33%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,8 +47,9 @@ Source: [Home Title Lock](https://www.hometitlelock.com/)
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-org-home-title-lock-t-00-48-57) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-org-home-title-lock-t-00-49-34) | 2 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-org-home-title-lock-t-00-57-00) | 1 |
-| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-home-title-lock-t-00-49-12) | 2 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-home-title-lock-t-00-49-18) | 2 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-org-home-title-lock-t-00-50-04) | 3 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#t-00-43-39) | 1 |
 
 </details>
 </section>
@@ -55,7 +57,15 @@ Source: [Home Title Lock](https://www.hometitlelock.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
+
+**[00:43:47](/episodes/ep-9hRcfSrri70.md#t-00-43-39)**
+> "That's why I trust HomeTitleLock."
+
+</details>
 
 <details>
 <summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (3 mentions)</summary>
@@ -74,11 +84,11 @@ Source: [Home Title Lock](https://www.hometitlelock.com/)
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2 mentions)</summary>
 
-**[00:49:37](/episodes/ep-eLgD5yUVbko.md#ent-org-home-title-lock-t-00-49-12)**
+**[00:49:37](/episodes/ep-eLgD5yUVbko.md#ent-org-home-title-lock-t-00-49-18)**
 > "Home Title Lock"
 
-**[00:50:02](/episodes/ep-eLgD5yUVbko.md#ent-org-home-title-lock-t-00-49-56)**
-> "... fix it. So don't wait. Visit home title lock dot com and use promo code Candice or you can use..."
+**[00:50:02](/episodes/ep-eLgD5yUVbko.md#ent-org-home-title-lock-t-00-50-02)**
+> "hours to fix it. So don't wait. Visit home title lock dot com and use promo code Candace or you can use the link below."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "AmericaFest 2025"
-description: "AmericaFest 2025 (Events) - 32 mentions"
+description: "AmericaFest 2025 (Events) - 37 mentions"
 id: "event-americafest-2025"
 type: "EVENT"
 aliases:
@@ -24,42 +24,42 @@ _Type: Events_
 Source: [AmericaFest](https://www.amfest.com/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-event-americafest-2025-t-00-05-43">2026-01-07 · 00:06:03</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-event-americafest-2025-t-00-02-04">2026-01-05 · 00:02:10</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-event-americafest-2025-t-00-13-59">2026-07-23 · 00:14:19</a></strong></div>
 <div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>32</strong></div>
+<div><span>Mentions</span><strong>37</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-zSKrxIUMNqw.md#ent-event-americafest-2025-t-00-05-43">DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286</a> (5 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-OEAHy3SsIiI.md#ent-event-americafest-2025-t-00-02-04">You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-event-americafest-2025-t-00-05-43" style="--pulse-height:100%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 5 mentions" title="2026-01-07 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-event-americafest-2025-t-00-38-25" style="--pulse-height:40%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-CMcktj3Egfo.md#ent-event-americafest-2025-t-00-08-57" style="--pulse-height:60%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-X92MllIHDzw.md#ent-event-americafest-2025-t-00-22-00" style="--pulse-height:20%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-event-americafest-2025-t-00-51-26" style="--pulse-height:20%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-event-americafest-2025-t-00-04-08" style="--pulse-height:20%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-event-americafest-2025-t-00-05-42" style="--pulse-height:60%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-A39g5oqB_eM.md#ent-event-americafest-2025-t-00-18-55" style="--pulse-height:20%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-event-americafest-2025-t-00-31-49" style="--pulse-height:20%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-event-americafest-2025-t-00-46-13" style="--pulse-height:40%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-mFuno0TuuQQ.md#ent-event-americafest-2025-t-00-30-39" style="--pulse-height:60%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 3 mentions" title="2026-02-05 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ti5Fxrvegno.md#ent-event-americafest-2025-t-00-05-37" style="--pulse-height:40%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-event-americafest-2025-t-00-19-32" style="--pulse-height:20%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1IY2oD-_xVA.md#ent-event-americafest-2025-t-00-21-24" style="--pulse-height:20%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-event-americafest-2025-t-00-04-23" style="--pulse-height:20%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-amqTMimDr0A.md#ent-event-americafest-2025-t-00-05-48" style="--pulse-height:40%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-event-americafest-2025-t-00-02-04" style="--pulse-height:100%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 10 mentions" title="2026-01-05 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-event-americafest-2025-t-00-38-25" style="--pulse-height:20%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-CMcktj3Egfo.md#ent-event-americafest-2025-t-00-08-57" style="--pulse-height:30%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-event-americafest-2025-t-00-22-00" style="--pulse-height:10%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-event-americafest-2025-t-00-51-26" style="--pulse-height:10%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-event-americafest-2025-t-00-04-08" style="--pulse-height:10%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-event-americafest-2025-t-00-05-42" style="--pulse-height:30%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-event-americafest-2025-t-00-18-55" style="--pulse-height:10%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-event-americafest-2025-t-00-31-49" style="--pulse-height:10%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-event-americafest-2025-t-00-46-13" style="--pulse-height:20%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-event-americafest-2025-t-00-30-39" style="--pulse-height:30%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 3 mentions" title="2026-02-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-event-americafest-2025-t-00-05-37" style="--pulse-height:20%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-event-americafest-2025-t-00-19-32" style="--pulse-height:10%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-event-americafest-2025-t-00-21-24" style="--pulse-height:10%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-event-americafest-2025-t-00-04-23" style="--pulse-height:10%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-event-americafest-2025-t-00-05-48" style="--pulse-height:20%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-event-americafest-2025-t-00-05-43) | 5 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-event-americafest-2025-t-00-02-04) | 10 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-event-americafest-2025-t-00-38-25) | 2 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-event-americafest-2025-t-00-08-57) | 3 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-event-americafest-2025-t-00-22-00) | 1 |
@@ -82,7 +82,7 @@ Source: [AmericaFest](https://www.amfest.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+<summary><strong class="section-title">Raw mentions (37)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2 mentions)</summary>
@@ -235,22 +235,37 @@ Source: [AmericaFest](https://www.amfest.com/)
 </details>
 
 <details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (5 mentions)</summary>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (10 mentions)</summary>
 
-**[00:06:03](/episodes/ep-zSKrxIUMNqw.md#ent-event-americafest-2025-t-00-05-43)**
-> "a speaking slot at AmFest, hitting the stage just after Erika Kirk opened, ..."
+**[00:02:10](/episodes/ep-OEAHy3SsIiI.md#ent-event-americafest-2025-t-00-02-04)**
+> "...USA's end-of-year conference, AmFest, supposed to be AmericaFest, because I was not on..."
 
-**[00:06:43](/episodes/ep-zSKrxIUMNqw.md#ent-event-americafest-2025-t-00-06-43)**
-> "...after Ben Shapiro's speech at AmFest, a producer from The Daily Wire who has been noth..."
+**[00:03:38](/episodes/ep-OEAHy3SsIiI.md#ent-event-americafest-2025-t-00-03-28)**
+> "...litary thing that happened at AmFest, which was the straw that broke this camel's back..."
 
-**[00:09:44](/episodes/ep-zSKrxIUMNqw.md#ent-event-americafest-2025-t-00-09-39)**
-> "... wanted sent around following AmFest."
+**[00:03:51](/episodes/ep-OEAHy3SsIiI.md#ent-event-americafest-2025-t-00-03-28)**
+> "...think it was that happened at AmFest that just sent me over the edge?"
 
-**[00:17:50](/episodes/ep-zSKrxIUMNqw.md#ent-event-americafest-2025-t-00-17-20)**
-> "...most, telling the audience at AmFest in response to Ben Shapiro screaming about everyb..."
+**[00:03:59](/episodes/ep-OEAHy3SsIiI.md#ent-event-americafest-2025-t-00-03-28)**
+> "... think the bird's-eye view of AmFest is that it looks like..."
 
-**[00:29:44](/episodes/ep-zSKrxIUMNqw.md#ent-event-americafest-2025-t-00-29-40)**
-> "what he did after AmFest, make a show, anything,"
+**[00:09:05](/episodes/ep-OEAHy3SsIiI.md#ent-event-americafest-2025-t-00-08-35)**
+> "So he's going to be at AmFest and he's not only just going to be at AmFest, he'..."
+
+**[00:09:50](/episodes/ep-OEAHy3SsIiI.md#ent-event-americafest-2025-t-00-09-19)**
+> "...sten to a reporter who was at AMFest describe the scene behind her."
+
+**[00:10:51](/episodes/ep-OEAHy3SsIiI.md#ent-event-americafest-2025-t-00-10-15)**
+> "That's what was happening at AMFest."
+
+**[00:12:00](/episodes/ep-OEAHy3SsIiI.md#ent-event-americafest-2025-t-00-11-36)**
+> "...he outside looking into this, AmFest is when we realize that something very disturbing..."
+
+**[00:12:10](/episodes/ep-OEAHy3SsIiI.md#ent-event-americafest-2025-t-00-12-10)**
+> "I feel like AmFest is, or what it did for me was it contributed to m..."
+
+**[01:06:24](/episodes/ep-OEAHy3SsIiI.md#ent-event-americafest-2025-t-01-06-13)**
+> "...ison writes, everything about AmFest was fake and gay: Andrew (Andrew Kolvet), the ten..."
 
 </details>
 
@@ -302,7 +317,7 @@ Source: [AmericaFest](https://www.amfest.com/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about AmericaFest 2025 (14)</strong></summary>
+<summary><strong class="section-title">Statements about AmericaFest 2025 (12)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>
@@ -382,17 +397,6 @@ Source: [AmericaFest](https://www.amfest.com/)
 
 - [00:38:45](/episodes/ep-wcD2khO3rOA.md#t-00-38-25) (Opinion) **Candace Owens**: ["AmericaFest felt spiritually dark and centered on money and on turning..."](/statements/statement-4cd3f81ba1dc.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Christianity](/entities/concept-christianity.md)
-
-</details>
-
-<details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (2)</summary>
-
-- [00:05:57](/episodes/ep-zSKrxIUMNqw.md#t-00-05-43) (Accusation) **Candace Owens**: ["Ben Shapiro paid for a prime AmericaFest speaking slot after Erika Kir..."](/statements/statement-e71af1266a9d.md)
-  - Also about: [Ben Shapiro](/entities/person-ben-shapiro.md), [Erika Kirk](/entities/person-erika-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
-
-- [00:06:43](/episodes/ep-zSKrxIUMNqw.md#t-00-06-11) (Claim) **Maggie Wegner** (via read message): ["A Daily Wire producer contacted Maggie Wegner about auditioning for a ..."](/statements/statement-2343c09ee5ca.md)
-  - Also about: [Maggie Wegner](/entities/person-maggie-wegner.md), [Anonymous Source #2 (Ep zSKrxIUMNqw)](/entities/anon-src-zSKrxIUMNqw-002.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 
 </details>
 

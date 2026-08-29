@@ -32,7 +32,7 @@ type: "accusation"
 **Timestamp:** [00:00:55](/episodes/ep-eLgD5yUVbko.md#t-00-00-26) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(55);return false;">Play</a>
 
-> donors have contacted me, Turning Point USA donors that were in Aspen when Charlie allegedly said, I appoint Erica Kirk. ... They told me that that audio is completely faked and they are shocked.
+> donors have contacted me, Turning Point USA donors that were in Aspen ... They told me that that audio is completely faked and they are shocked.
 
 ## Verification
 

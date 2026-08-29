@@ -31,7 +31,7 @@ type: "accusation"
 **Timestamp:** [00:10:53](/episodes/ep-q1NRQQAYS_Q.md#t-00-10-21) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(653);return false;">Play</a>
 
-> They decided to make premier Charlie saying this, but audio only. ... Okay, so they stripped the video and used just the audio as Erica's walkout music. They used what they are alleging is Charlie's voice.
+> Okay, so they stripped the video and used just the audio as Erica (Erika Kirk)'s walkout music. They used what they are alleging is Charlie (Charlie Kirk)'s voice.
 
 ## Verification
 

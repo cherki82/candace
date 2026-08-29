@@ -38,7 +38,7 @@ Source: [Our Story – Just Thrive](https://justthrivehealth.com/pages/our-story
 <a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-just-thrive-t-00-34-41" style="--pulse-height:100%" aria-label="They Are Lying About Charlie Kirk. | Candace Ep 235: 7 mentions" title="2025-09-15 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-K5GjF53bfN4.md#ent-org-just-thrive-t-00-36-43" style="--pulse-height:86%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 6 mentions" title="2025-09-25 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-c5BcKF91iec.md#ent-org-just-thrive-t-00-31-20" style="--pulse-height:71%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 5 mentions" title="2025-10-27 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-just-thrive-t-00-27-29" style="--pulse-height:71%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 5 mentions" title="2026-01-05 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-just-thrive-t-00-28-09" style="--pulse-height:71%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 5 mentions" title="2026-01-05 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-just-thrive-t-00-19-40" style="--pulse-height:86%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 6 mentions" title="2026-02-04 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-org-just-thrive-t-00-46-09" style="--pulse-height:71%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 5 mentions" title="2026-03-03 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-just-thrive-t-00-30-15" style="--pulse-height:43%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 3 mentions" title="2026-04-02 · 3 mentions"><span></span></a>
@@ -52,7 +52,7 @@ Source: [Our Story – Just Thrive](https://justthrivehealth.com/pages/our-story
 | 2025-09-15 | [They Are Lying About Charlie Kirk. | Candace Ep 235](/episodes/ep-czVBmqZP6Ss.md#ent-org-just-thrive-t-00-34-41) | 7 |
 | 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-org-just-thrive-t-00-36-43) | 6 |
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-org-just-thrive-t-00-31-20) | 5 |
-| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-just-thrive-t-00-27-29) | 5 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-just-thrive-t-00-28-09) | 5 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-org-just-thrive-t-00-19-40) | 6 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-org-just-thrive-t-00-46-09) | 5 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-org-just-thrive-t-00-30-15) | 3 |
@@ -155,20 +155,20 @@ Source: [Our Story – Just Thrive](https://justthrivehealth.com/pages/our-story
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (5 mentions)</summary>
 
-**[00:28:09](/episodes/ep-OEAHy3SsIiI.md#ent-org-just-thrive-t-00-27-29)**
+**[00:28:09](/episodes/ep-OEAHy3SsIiI.md#ent-org-just-thrive-t-00-28-09)**
 > "The Just Thrive Gut Essentials Bundle"
 
-**[00:28:16](/episodes/ep-OEAHy3SsIiI.md#ent-org-just-thrive-t-00-28-13)**
+**[00:28:16](/episodes/ep-OEAHy3SsIiI.md#ent-org-just-thrive-t-00-28-09)**
 > "It starts with Just Thrive's probiotic,"
 
-**[00:28:31](/episodes/ep-OEAHy3SsIiI.md#ent-org-just-thrive-t-00-28-13)**
+**[00:28:26](/episodes/ep-OEAHy3SsIiI.md#ent-org-just-thrive-t-00-28-09)**
 > "Then you add in the magic of Just Thrive's digestive bitters. These combine 12 traditional b..."
 
-**[00:28:53](/episodes/ep-OEAHy3SsIiI.md#ent-org-just-thrive-t-00-28-13)**
+**[00:28:53](/episodes/ep-OEAHy3SsIiI.md#ent-org-just-thrive-t-00-28-53)**
 > "For over a decade, Just Thrive has been helping thousands of people take control..."
 
-**[00:29:04](/episodes/ep-OEAHy3SsIiI.md#ent-org-just-thrive-t-00-28-56)**
-> "... notice like I do when I take Just Thrive, and you can take Just Thrive's gut health challe..."
+**[00:29:04](/episodes/ep-OEAHy3SsIiI.md#ent-org-just-thrive-t-00-28-53)**
+> "So if you are ready to feel a difference that you'll actually notice, like I do when I take Just Thrive, you can take Just Thrive's Gut Health Challenge today."
 
 </details>
 

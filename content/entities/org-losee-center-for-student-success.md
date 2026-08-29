@@ -1,6 +1,6 @@
 ---
 title: "Losee Center for Student Success"
-description: "Losee Center for Student Success (Organizations) - 4 mentions"
+description: "Losee Center for Student Success (Organizations) - 17 mentions"
 id: "org-losee-center-for-student-success"
 type: "ORG"
 aliases:
@@ -26,26 +26,30 @@ Source: [School of Education Contact Info | Utah Valley University](https://www.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-org-losee-center-for-student-success-t-00-03-22">2026-07-20 · 00:03:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-org-losee-center-for-student-success-t-00-14-15">2026-07-20 · 00:14:15</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-org-losee-center-for-student-success-t-00-47-27">2026-08-03 · 00:47:47</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>17</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-N4uM8Jdr410.md#ent-org-losee-center-for-student-success-t-00-03-22">UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-AH1KVKkweUE.md#ent-org-losee-center-for-student-success-t-00-10-33">Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370</a> (9 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-N4uM8Jdr410.md#ent-org-losee-center-for-student-success-t-00-03-22" style="--pulse-height:100%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 3 mentions" title="2026-07-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-org-losee-center-for-student-success-t-00-03-22" style="--pulse-height:33%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 3 mentions" title="2026-07-20 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-losee-center-for-student-success-t-00-40-10" style="--pulse-height:44%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 4 mentions" title="2026-07-31 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-org-losee-center-for-student-success-t-00-10-33" style="--pulse-height:100%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 9 mentions" title="2026-08-03 · 9 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-losee-center-for-student-success-t-00-03-22) | 3 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-org-losee-center-for-student-success-t-00-40-10) | 4 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-org-losee-center-for-student-success-t-00-10-33) | 9 |
 
 </details>
 </section>
@@ -53,7 +57,56 @@ Source: [School of Education Contact Info | Utah Valley University](https://www.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (9 mentions)</summary>
+
+**[00:10:33](/episodes/ep-AH1KVKkweUE.md#ent-org-losee-center-for-student-success-t-00-10-33)**
+> "...was with you that went to the Losee building who was in civilian clothing but appeare..."
+
+**[00:12:51](/episodes/ep-AH1KVKkweUE.md#ent-org-losee-center-for-student-success-t-00-12-42)**
+> "... rooftop. Right. He gets onto Losee building at 1244."
+
+**[00:13:51](/episodes/ep-AH1KVKkweUE.md#ent-org-losee-center-for-student-success-t-00-13-24)**
+> "...gley (Chris Bagley) went onto Losee rooftop after the feds had arrived and had secure..."
+
+**[00:14:02](/episodes/ep-AH1KVKkweUE.md#ent-org-losee-center-for-student-success-t-00-14-02)**
+> "...just anybody to traverse onto Losee rooftop, right?"
+
+**[00:15:13](/episodes/ep-AH1KVKkweUE.md#ent-org-losee-center-for-student-success-t-00-15-13)**
+> "... positively ID who was on the Losee rooftop center with you. And despite all of the r..."
+
+**[00:15:47](/episodes/ep-AH1KVKkweUE.md#ent-org-losee-center-for-student-success-t-00-15-13)**
+> "...person walking and they catch Losee Rooftop. Who could that be? Who is that? Dear who..."
+
+**[00:16:06](/episodes/ep-AH1KVKkweUE.md#ent-org-losee-center-for-student-success-t-00-15-57)**
+> "...again oh bag with the red hat Losee rooftop so who is that guy in plain clothes on Lo..."
+
+**[00:19:04](/episodes/ep-AH1KVKkweUE.md#ent-org-losee-center-for-student-success-t-00-19-04)**
+> "...e red hat before going to the Losee center roof."
+
+**[00:47:47](/episodes/ep-AH1KVKkweUE.md#ent-org-losee-center-for-student-success-t-00-47-27)**
+> "... there was 4k footage of like Losee center like no so tyler killed him you are condemning th..."
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (4 mentions)</summary>
+
+**[00:40:10](/episodes/ep-iB-YtO3UZOg.md#ent-org-losee-center-for-student-success-t-00-40-10)**
+> "I want to remind you guys that there is still zero evidence, zero concrete evidence that has been produced that there was ever even a gun on the Losee Center."
+
+**[00:35:02](/episodes/ep-iB-YtO3UZOg.md#ent-org-losee-center-for-student-success-t-00-35-02)**
+> "...decoy. Everybody's looking at Losee and we are being lied to. I think we all agree th..."
+
+**[00:41:53](/episodes/ep-iB-YtO3UZOg.md#ent-org-losee-center-for-student-success-t-00-41-53)**
+> "... with a gun from somewhere on Losee Center, and he's thinking, oh, I saw the person who shot..."
+
+**[00:42:11](/episodes/ep-iB-YtO3UZOg.md#ent-org-losee-center-for-student-success-t-00-41-53)**
+> "...ever a gun on that rooftop of Losee Center, that's narrative. That's not a fact."
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (3 mentions)</summary>
@@ -79,7 +132,36 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Losee Center for Student Success (3)</strong></summary>
+<summary><strong class="section-title">Statements about Losee Center for Student Success (10)</strong></summary>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (2)</summary>
+
+- [00:15:06](/episodes/ep-AH1KVKkweUE.md#t-00-14-43) (Claim) **Candace Owens**: ["Owens said bystander footage captured at 1247 p.m. showed Officer Bagl..."](/statements/statement-8d22aa38a084.md)
+  - Also about: [Chris Bagley](/entities/person-chris-bagley.md), [Alan Edward Robertson](/entities/person-alan-edward-robertson.md)
+
+- [00:19:00](/episodes/ep-AH1KVKkweUE.md#t-00-18-20) (Accusation) **Nisi (independent-media creator; full name unverified)** (via quoted speech): ["Nisi alleged that Officer Bagley omitted that the red-hat man alerted ..."](/statements/statement-dc2250d9df75.md)
+  - Also about: [Chris Bagley](/entities/person-chris-bagley.md), [Alan Edward Robertson](/entities/person-alan-edward-robertson.md)
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (5)</summary>
+
+- [00:34:44](/episodes/ep-iB-YtO3UZOg.md#t-00-34-25) (Claim) **Candace Owens**: ["Owens said she believed the evidence showed Charlie Kirk was hit by a ..."](/statements/statement-00334c93b190.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Shaped charge](/entities/concept-shaped-charge.md)
+
+- [00:37:22](/episodes/ep-iB-YtO3UZOg.md#t-00-37-22) (Opinion) **Anonymous surgeon commenter (Ep iB-YtO3UZOg)** (via quoted post): ["An anonymous surgeon commenter said the trajectory described in the me..."](/statements/statement-b220669e6ee5.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:40:10](/episodes/ep-iB-YtO3UZOg.md#t-00-40-10) (Claim) **Candace Owens**: ["Owens said no concrete evidence had been produced that there was ever ..."](/statements/statement-6133defccabf.md)
+
+- [00:41:37](/episodes/ep-iB-YtO3UZOg.md#t-00-41-35) (Claim) **Anonymous Losee Center Eyewitness** (via quoted speech): ["An unidentified eyewitness said a person had run across the Losee Cent..."](/statements/statement-9af1a6181380.md)
+
+- [00:42:18](/episodes/ep-iB-YtO3UZOg.md#t-00-41-53) (Opinion) **Candace Owens**: ["Owens said she did not believe there was a gun on the Losee Center roo..."](/statements/statement-babbe6e7dd38.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (3)</summary>

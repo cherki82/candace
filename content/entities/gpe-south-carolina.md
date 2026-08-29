@@ -1,6 +1,6 @@
 ---
 title: "South Carolina"
-description: "South Carolina (Places) - 4 mentions"
+description: "South Carolina (Places) - 5 mentions"
 id: "gpe-south-carolina"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [Official Website of the State of South Carolina](https://sc.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-south-carolina-t-00-12-10">2025-09-11 · 00:12:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#t-01-00-11">2026-02-02 · 01:00:14</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-gpe-south-carolina-t-00-44-23">2026-08-11 · 00:44:23</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -34,6 +34,7 @@ Source: [Official Website of the State of South Carolina](https://sc.gov/)
 <a href="/episodes/ep-vwG1juDCQZQ.md#ent-gpe-south-carolina-t-01-01-17" style="--pulse-height:100%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-south-carolina-t-00-23-23" style="--pulse-height:100%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#t-01-00-11" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-gpe-south-carolina-t-00-44-23" style="--pulse-height:100%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -43,6 +44,7 @@ Source: [Official Website of the State of South Carolina](https://sc.gov/)
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-gpe-south-carolina-t-01-01-17) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-south-carolina-t-00-23-23) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#t-01-00-11) | 1 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-gpe-south-carolina-t-00-44-23) | 1 |
 
 </details>
 </section>
@@ -50,7 +52,15 @@ Source: [Official Website of the State of South Carolina](https://sc.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
+
+**[00:44:23](/episodes/ep-HGtMfbePDKk.md#ent-gpe-south-carolina-t-00-44-23)**
+> "...yesterday's episode. Bro from South Carolina writes, 13 hours and 20 minutes on the road and n..."
+
+</details>
 
 <details>
 <summary>BAAL SO HARD: The Epstein Files | Candace Ep 300 (1 mentions)</summary>

@@ -66,7 +66,7 @@ _Type: People_
 <details>
 <summary>Works For (1)</summary>
 
-- **[U.S. Navy](/entities/org-us-navy.md)**
+- **[United States Navy](/entities/org-united-states-navy.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:24:06](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32): “his father was the naval captain...assistant chief of staff for psychological warfare in the Navy”
@@ -85,7 +85,7 @@ _Type: People_
 
 </details>
 
-- **[U.S. Navy](/entities/org-us-navy.md)** employs this
+- **[United States Navy](/entities/org-united-states-navy.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:24:06](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32): “his father was the naval captain...assistant chief of staff for psychological warfare in the Navy”

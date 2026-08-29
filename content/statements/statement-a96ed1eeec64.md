@@ -1,8 +1,8 @@
 ---
 title: "Donald Trump sat at the side of the table in the White House..."
-description: "\"Donald Trump sat at the side of the table in the White House Situation Room while Benjamin Netanyahu sat across from him as an equal.\" — Candace Owens"
+description: "\"Donald Trump sat at the side of the table in the White House Situation Room while Benjamin Netanyahu sat across from him as an equal.\" — Megyn Kelly"
 statement_id: "statement-a96ed1eeec64"
-speaker: "Candace Owens"
+speaker: "Megyn Kelly"
 type: "factual_claim"
 veracity: "true"
 ---
@@ -15,7 +15,7 @@ veracity: "true"
 
 ## Attribution
 
-**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
+**Speaker:** [Megyn Kelly](/entities/person-megyn-kelly.md) (Guest)
 
 **Delivery:** Made directly
 
@@ -31,7 +31,7 @@ veracity: "true"
 **Timestamp:** [00:25:55](/episodes/ep-ZIH5-V6UPkg.md#t-00-25-55) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1555);return false;">Play</a>
 
-> Trump didn't even sit at the head of the table. Trump sat at the side of the table and Bibi was across from him as an equal in the American situation room.
+> Trump didn't even sit at the head of the table. Trump sat at the side of the table and Bibi (Benjamin Netanyahu) was across from him as an equal in the American situation room.
 
 ## Verification
 

@@ -1,6 +1,6 @@
 ---
 title: "United States Army"
-description: "United States Army (Organizations) - 40 mentions"
+description: "United States Army (Organizations) - 48 mentions"
 id: "org-united-states-army"
 type: "ORG"
 aliases:
@@ -24,11 +24,11 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-YA1FxrDWNIo.md#t-00-28-44">2025-09-30 · 00:28:44</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-44-16">2026-08-14 · 00:44:16</a></strong></div>
-<div><span>Episodes</span><strong>25</strong></div>
-<div><span>Mentions</span><strong>40</strong></div>
+<div><span>Episodes</span><strong>27</strong></div>
+<div><span>Mentions</span><strong>48</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>11</strong></div>
-<div><span>Relationships</span><strong>9</strong></div>
+<div><span>Relationships</span><strong>11</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -47,7 +47,8 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <a href="/episodes/ep-a-e7HC6SeK8.md#t-00-52-13" style="--pulse-height:17%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#t-00-37-21" style="--pulse-height:17%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ewBzjVe3LNQ.md#t-00-26-52" style="--pulse-height:17%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-united-states-army-t-00-35-55" style="--pulse-height:17%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#t-01-07-28" style="--pulse-height:17%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-united-states-army-t-00-36-08" style="--pulse-height:33%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#t-00-27-22" style="--pulse-height:17%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#t-00-14-50" style="--pulse-height:17%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#t-00-08-25" style="--pulse-height:17%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
@@ -61,6 +62,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-army-t-00-11-49" style="--pulse-height:83%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 5 mentions" title="2026-06-26 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-org-united-states-army-t-00-53-10" style="--pulse-height:17%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#t-00-43-58" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 6 mentions" title="2026-08-14 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#t-00-19-20" style="--pulse-height:100%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 6 mentions" title="2026-08-14 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -77,7 +79,8 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#t-00-52-13) | 1 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#t-00-37-21) | 1 |
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#t-00-26-52) | 1 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-united-states-army-t-00-35-55) | 1 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#t-01-07-28) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-united-states-army-t-00-36-08) | 2 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#t-00-27-22) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#t-00-14-50) | 1 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#t-00-08-25) | 1 |
@@ -91,6 +94,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-army-t-00-11-49) | 5 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-united-states-army-t-00-53-10) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-00-43-58) | 6 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#t-00-19-20) | 6 |
 
 </details>
 </section>
@@ -98,7 +102,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+<summary><strong class="section-title">Raw mentions (48)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (6 mentions)</summary>
@@ -120,6 +124,29 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 
 **[00:44:16](/episodes/ep-nPhCKwJ6ye8.md#t-00-44-16)**
 > "Okay. What did you do in the army? Did you teach this? You then I correct it and sa..."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (6 mentions)</summary>
+
+**[00:19:20](/episodes/ep-aPOyk1i2LOc.md#t-00-19-20)**
+> "...ou also said that you were an army sniper."
+
+**[00:19:23](/episodes/ep-aPOyk1i2LOc.md#t-00-19-23)**
+> "I wasn't a sniper in the army. and"
+
+**[00:19:26](/episodes/ep-aPOyk1i2LOc.md#t-00-19-26)**
+> "...wife tweeted that you were an army sniper."
+
+**[00:19:35](/episodes/ep-aPOyk1i2LOc.md#t-00-19-35)**
+> "not Army sniper is a colloquial term?"
+
+**[00:19:36](/episodes/ep-aPOyk1i2LOc.md#t-00-19-36)**
+> "...eah i'm not an i was never an army sniper not"
+
+**[00:19:39](/episodes/ep-aPOyk1i2LOc.md#t-00-19-39)**
+> "Okay. What did you do in the army? Did you teach this? She then corrected and said ..."
 
 </details>
 
@@ -247,10 +274,21 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details>
-<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
+<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (2 mentions)</summary>
 
-**[00:36:15](/episodes/ep-HYn0P-P1wUw.md#ent-org-united-states-army-t-00-35-55)**
+**[00:36:15](/episodes/ep-HYn0P-P1wUw.md#ent-org-united-states-army-t-00-36-08)**
 > "U.S. Army missed the red flags about a civilian leader."
+
+**[00:36:33](/episodes/ep-HYn0P-P1wUw.md#ent-org-united-states-army-t-00-36-08)**
+> "...rt Huachuca, which is a major army installation in Arizona, blah, blah, blah."
+
+</details>
+
+<details>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
+
+**[01:08:03](/episodes/ep-OEAHy3SsIiI.md#t-01-07-28)**
+> "...nd. I hope I made that clear. Army Sniper writes: retired Army law enforcement here."
 
 </details>
 
@@ -394,7 +432,19 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Operates (1)</summary>
+
+- **[Fort Huachuca](/entities/gpe-fort-huachuca.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:36:33](/episodes/ep-HYn0P-P1wUw.md#t-00-36-08): “And you can go on and you can see that it says that after he left his post, he returned to Fort Huachuca, which is a major army installation in Arizona, blah, blah, blah.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (6)</summary>
 
 - **[Gloyce Dean Kennedy](/entities/person-gloyce-dean-kennedy.md)** formerly member of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -421,6 +471,13 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:37:55](/episodes/ep-his-JBjlkh8.md#t-00-37-21): “It's headquarters for the Army, the Navy, and the Air Force.”
+
+</details>
+
+- **[Fort Huachuca](/entities/gpe-fort-huachuca.md)** operated by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:36:33](/episodes/ep-HYn0P-P1wUw.md#t-00-36-08): “And you can go on and you can see that it says that after he left his post, he returned to Fort Huachuca, which is a major army installation in Arizona, blah, blah, blah.”
 
 </details>
 
@@ -506,8 +563,8 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1)</summary>
 
-- [00:36:12](/episodes/ep-HYn0P-P1wUw.md#t-00-35-55) (Accusation) **CBS News** (via quoted article): ["The U.S. Army missed warning signs that civilian commander David Frods..."](/statements/statement-72052cf2c4f3.md)
-  - Also about: [David Frodsham](/entities/person-david-frodsham.md), [CBS News](/entities/org-cbs-news.md)
+- [00:36:12](/episodes/ep-HYn0P-P1wUw.md#t-00-36-08) (Accusation) **CBS News** (via quoted article): ["The U.S. Army missed warning signs that civilian commander David Frods..."](/statements/statement-72052cf2c4f3.md)
+  - Also about: [David Frodsham](/entities/person-david-frodsham.md)
 
 </details>
 

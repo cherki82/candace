@@ -11,7 +11,7 @@ date: "2021-01-06"
 
 > Pro-Trump Stop the Steal rally leads to US Capitol riot
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. Why Is Everyone Crashing Out Over The Charlie Kirk Investiga...
 
@@ -28,3 +28,11 @@ date: "2021-01-06"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2104);return false;">▶️ Play</a>
 
 > some who literally spent time in prison after January 6th because they believed in him.
+
+### 3. EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critica...
+
+**Episode:** [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md)
+**Timestamp:** [00:38:32](/episodes/ep-9hRcfSrri70.md#event-event-2021-01-06-pro-trump-stop-the-steal-rally-leads-to-us-capitol-t-00-38-25) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2312);return false;">▶️ Play</a>
+
+> Look into what actually happened on January 6th. You took the bait. The left took the bait.

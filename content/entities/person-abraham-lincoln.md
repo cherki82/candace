@@ -3,9 +3,17 @@ title: "Abraham Lincoln"
 description: "Abraham Lincoln (People) - 1 mention"
 id: "person-abraham-lincoln"
 type: "PERSON"
+categories:
+  - "historical political figure"
 ---
 
 _Type: People_
+
+**Categories:** historical political figure
+
+**Entity verification:** verified
+> Canonical name and identity for Abraham Lincoln confirmed by the cited direct external source.
+Source: [Abraham Lincoln](https://en.wikipedia.org/wiki/Abraham_Lincoln)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-person-abraham-lincoln-t-00-01-47">2025-11-21 · 00:01:54</a></strong></div>

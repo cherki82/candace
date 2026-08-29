@@ -11,7 +11,11 @@ object: "person-candace-owens"
 
 ## [ZeroGhost](/entities/org-zeroghost) endorsed by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs)**
+
+- [00:41:58](/episodes/ep-Vu6Y24pqhZs#t-00-41-58): _That's why I want to tell you guys about Ghost Phone from Zero Ghost. It's a smartphone that's been wiped clean of all the surveillance software that's currently running on your phone as we speak._
 
 **[Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo)**
 

@@ -3,9 +3,17 @@ title: "Egyptian Air Force"
 description: "Egyptian Air Force (Organizations) - 3 mentions"
 id: "org-egyptian-air-force"
 type: "ORG"
+categories:
+  - "Egyptian military branch"
 ---
 
 _Type: Organizations_
+
+**Categories:** Egyptian military branch
+
+**Entity verification:** verified
+> Canonical name and identity for Egyptian Air Force confirmed by the cited direct external source.
+Source: [Egyptian Air Force](https://en.wikipedia.org/wiki/Egyptian_Air_Force)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-org-egyptian-air-force-t-00-11-49">2025-10-30 · 00:12:21</a></strong></div>

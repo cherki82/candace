@@ -1,6 +1,6 @@
 ---
 title: "Project Constitution"
-description: "Project Constitution (Organizations) - 10 mentions"
+description: "Project Constitution (Organizations) - 11 mentions"
 id: "org-project-constitution"
 type: "ORG"
 categories:
@@ -18,9 +18,9 @@ Source: [Erika Kirk reacts to rumor she has a new boyfriend eight months after C
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-org-project-constitution-t-00-16-27">2025-12-05 · 00:03:35</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-project-constitution-t-00-52-31">2026-06-26 · 00:52:31</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-project-constitution-t-00-37-22">2026-07-31 · 00:37:47</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -35,6 +35,7 @@ Source: [Erika Kirk reacts to rumor she has a new boyfriend eight months after C
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-project-constitution-t-00-01-51" style="--pulse-height:75%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 3 mentions" title="2026-05-11 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-9CuC1yf8-PU.md#ent-org-project-constitution-t-00-33-44" style="--pulse-height:25%" aria-label="Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika &amp; Epstein. | Ep 354: 1 mentions" title="2026-06-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-project-constitution-t-00-51-56" style="--pulse-height:50%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-project-constitution-t-00-37-22" style="--pulse-height:25%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 1 mentions" title="2026-07-31 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [Erika Kirk reacts to rumor she has a new boyfriend eight months after C
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-org-project-constitution-t-00-01-51) | 3 |
 | 2026-06-23 | [Charlie’s “Freedom” Shirt Disappears. Another Witness Recalls Erika & Epstein. | Ep 354](/episodes/ep-9CuC1yf8-PU.md#ent-org-project-constitution-t-00-33-44) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-project-constitution-t-00-51-56) | 2 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-org-project-constitution-t-00-37-22) | 1 |
 
 </details>
 </section>
@@ -51,7 +53,15 @@ Source: [Erika Kirk reacts to rumor she has a new boyfriend eight months after C
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (1 mentions)</summary>
+
+**[00:37:47](/episodes/ep-iB-YtO3UZOg.md#ent-org-project-constitution-t-00-37-22)**
+> "to have been an upward trajectory from the point of entry on his neck. I heard a podcaster, Project Constitution, say that Charlie was also wearing a RØDE transmitter at his left waist."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (2 mentions)</summary>

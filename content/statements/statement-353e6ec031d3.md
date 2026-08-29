@@ -29,7 +29,7 @@ type: "accusation"
 **Timestamp:** [00:06:23](/episodes/ep-ewBzjVe3LNQ.md#t-00-06-18) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(383);return false;">Play</a>
 
-> Terrell Farnsworth still major question marks he raced to remove the camera that was directly behind Charlie's head.
+> Terrell Farnsworth (TPUSA staff) still major question marks he raced to remove the camera that was directly behind Charlie's (Charlie Kirk's) head.
 
 ## Verification
 

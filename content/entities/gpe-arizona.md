@@ -1,6 +1,6 @@
 ---
 title: "Arizona"
-description: "Arizona (Places) - 251 mentions"
+description: "Arizona (Places) - 252 mentions"
 id: "gpe-arizona"
 type: "GPE"
 aliases:
@@ -21,12 +21,12 @@ Source: [State of Arizona official website](https://az.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-arizona-t-01-11-09">2025-09-16 · 01:11:11</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-gpe-arizona-t-00-11-19">2026-07-21 · 00:11:19</a></strong></div>
-<div><span>Episodes</span><strong>69</strong></div>
-<div><span>Mentions</span><strong>251</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-gpe-arizona-t-00-48-33">2026-08-04 · 00:48:57</a></strong></div>
+<div><span>Episodes</span><strong>71</strong></div>
+<div><span>Mentions</span><strong>252</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>22</strong></div>
-<div><span>Relationships</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>20</strong></div>
+<div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -54,8 +54,8 @@ Source: [State of Arizona official website](https://az.gov/)
 <a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-arizona-t-00-39-28" style="--pulse-height:16%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 3 mentions" title="2025-12-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-11-45" style="--pulse-height:32%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 6 mentions" title="2025-12-18 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-arizona-t-00-36-19" style="--pulse-height:11%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-25-35" style="--pulse-height:84%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 16 mentions" title="2026-01-06 · 16 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-arizona-t-00-01-29" style="--pulse-height:26%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 5 mentions" title="2026-01-07 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-arizona-t-00-48-17" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-25-20" style="--pulse-height:84%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 16 mentions" title="2026-01-06 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-arizona-t-00-09-20" style="--pulse-height:21%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 4 mentions" title="2026-01-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-arizona-t-00-17-27" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-arizona-t-00-08-31" style="--pulse-height:21%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
@@ -103,6 +103,8 @@ Source: [State of Arizona official website](https://az.gov/)
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-gpe-arizona-t-01-07-29" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-arizona-t-00-42-08" style="--pulse-height:8%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-gpe-arizona-t-00-11-19" style="--pulse-height:8%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-gpe-arizona-t-00-14-42" style="--pulse-height:8%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 1 mentions" title="2026-07-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-gpe-arizona-t-00-09-26" style="--pulse-height:21%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 4 mentions" title="2026-08-04 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -128,8 +130,8 @@ Source: [State of Arizona official website](https://az.gov/)
 | 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-arizona-t-00-39-28) | 3 |
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-gpe-arizona-t-00-11-45) | 6 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-arizona-t-00-36-19) | 2 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-25-35) | 16 |
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-arizona-t-00-01-29) | 5 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-arizona-t-00-48-17) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-25-20) | 16 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-arizona-t-00-09-20) | 4 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-arizona-t-00-17-27) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-arizona-t-00-08-31) | 4 |
@@ -177,6 +179,8 @@ Source: [State of Arizona official website](https://az.gov/)
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-gpe-arizona-t-01-07-29) | 1 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-gpe-arizona-t-00-42-08) | 1 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-gpe-arizona-t-00-11-19) | 1 |
+| 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-gpe-arizona-t-00-14-42) | 1 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-arizona-t-00-09-26) | 4 |
 
 </details>
 </section>
@@ -184,7 +188,32 @@ Source: [State of Arizona official website](https://az.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (251)</strong></summary>
+<summary><strong class="section-title">Raw mentions (252)</strong></summary>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (4 mentions)</summary>
+
+**[00:09:32](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-arizona-t-00-09-26)**
+> "...mily. He actually was born in Arizona, but spent most of his upbringing in Utah. His fa..."
+
+**[00:47:22](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-arizona-t-00-46-55)**
+> "...lake (Blake Neff) got back to Arizona because,"
+
+**[00:47:30](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-arizona-t-00-47-30)**
+> "...lake (Blake Neff) got back to arizona because you know he talks about how he just was c..."
+
+**[00:48:57](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-arizona-t-00-48-33)**
+> "Maybe a relic of a 60s in Arizona. There is there are Catholic funeral homes that d..."
+
+</details>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (1 mentions)</summary>
+
+**[00:15:15](/episodes/ep-AoYZel7_cGQ.md#ent-gpe-arizona-t-00-14-42)**
+> "...t 5.27 p.m. later that day in Arizona, local time."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>
@@ -953,32 +982,12 @@ Source: [State of Arizona official website](https://az.gov/)
 </details>
 
 <details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (5 mentions)</summary>
-
-**[00:01:31](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-arizona-t-00-01-29)**
-> "...been sentenced for a crime in Arizona."
-
-**[00:48:18](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-arizona-t-00-48-11)**
-> "...ler Bowyer)'s got his hand in Arizona politics."
-
-**[00:48:56](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-arizona-t-00-48-53)**
-> "...o questioned the integrity of Arizona's elections and served as a leader for the conserva..."
-
-**[00:49:33](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-arizona-t-00-49-33)**
-> "Smith represented an Arizona House district in the Phoenix suburbs for one ter..."
-
-**[00:49:52](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-arizona-t-00-49-33)**
-> "...h has become a major force in Arizona Republican politics."
-
-</details>
-
-<details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (16 mentions)</summary>
 
-**[00:25:52](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-25-35)**
+**[00:25:52](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-25-20)**
 > "...ed for crimes by the state of Arizona."
 
-**[00:27:53](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-27-36)**
+**[00:27:53](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-27-53)**
 > "...anding behind Donald Trump in Arizona at his 2015 July rally,"
 
 **[00:28:52](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-28-51)**
@@ -999,29 +1008,37 @@ Source: [State of Arizona official website](https://az.gov/)
 **[00:30:51](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-30-15)**
 > "... Party. He's very involved in Arizona politics."
 
-**[00:30:58](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-30-58)**
+**[00:30:58](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-30-56)**
 > "...Turning Point USA's campus in Arizona."
 
-**[00:31:45](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-31-41)**
+**[00:31:45](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-31-34)**
 > "...is first cousins are longtime Arizona congressman Eddie Farnsworth."
 
-**[00:34:45](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-34-31)**
+**[00:34:45](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-34-22)**
 > "... is a problem in the state of Arizona because the border is there,"
 
-**[00:36:41](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-36-38)**
+**[00:36:41](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-36-08)**
 > "... a major army installation in Arizona,"
 
-**[00:37:02](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-36-38)**
+**[00:37:02](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-36-08)**
 > "...way, there's a place known as Arizona Mills,"
 
-**[00:38:10](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-38-07)**
+**[00:38:10](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-38-09)**
 > "Arizona politicians happened to travel down to the Davis-..."
 
 **[00:38:38](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-38-31)**
 > "...ys that they kicked off their Arizona commander summit on September 9th, which provides..."
 
-**[01:04:27](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-01-04-26)**
+**[01:04:27](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-01-04-06)**
 > "...mera saying that she moved to Arizona because her mother got defense contracts."
+
+</details>
+
+<details>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
+
+**[00:48:38](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-arizona-t-00-48-17)**
+> "...e, which again, in September, Arizona's on Pacific time, Pacific time, specific time."
 
 </details>
 
@@ -1171,7 +1188,7 @@ Source: [State of Arizona official website](https://az.gov/)
 > "...sh flowing like that—and we're talking like a lot of these megachurches are always in California or Arizona— and I'm not saying this about your church. I'm talking about the broader implications of cash bein..."
 
 **[00:41:12](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-arizona-t-00-41-01)**
-> "... working on. I mean, Charlie—goodness. The notes from me, Skylar. It says two jets that landed from Arizona into Provo because we started tracking those jets. I think the planes are going to tell us a story...."
+> "It says two jets that landed from Arizona into Provo because we started tracking those jets."
 
 **[00:41:57](/episodes/ep-YFmRH8p5lt0.md#ent-gpe-arizona-t-00-41-01)**
 > "...hat we could find that right after Charlie (Charlie Kirk) gets shot scrambled— and from Scottsdale, Arizona. We're trying to figure out like, "Okay, like who came in?" And something that caught us—something ..."
@@ -1287,6 +1304,18 @@ Source: [State of Arizona official website](https://az.gov/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Birthplace Of (1)</summary>
+
+- **[Senator Mike Lee](/entities/person-senator-mike-lee.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:09:32](/episodes/ep-1CFDtD0IgEg.md#t-00-09-26): “It's actually regarding Senator Mike Shumway Lee, Senator Mike Lee of Utah. ... He actually was born in Arizona, but spent most of his upbringing in Utah.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Has Former Governor (1)</summary>
 
 - **[Jan Brewer](/entities/person-jan-brewer.md)**
@@ -1335,9 +1364,10 @@ Source: [State of Arizona official website](https://az.gov/)
 </details>
 
 - **[Fort Huachuca](/entities/gpe-fort-huachuca.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:29](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28): “Fort Huachuca in Arizona is, okay? It is a hub for intelligence training.”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:36:33](/episodes/ep-HYn0P-P1wUw.md#t-00-36-08): “And you can go on and you can see that it says that after he left his post, he returned to Fort Huachuca, which is a major army installation in Arizona, blah, blah, blah.”
 
 </details>
 
@@ -1363,7 +1393,7 @@ Source: [State of Arizona official website](https://az.gov/)
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (8)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
@@ -1375,10 +1405,11 @@ Source: [State of Arizona official website](https://az.gov/)
 </details>
 
 - **[Fort Huachuca](/entities/gpe-fort-huachuca.md)** based in this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:29](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28): “Fort Huachuca in Arizona is, okay? It is a hub for intelligence training.”
 - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:12:16](/episodes/ep-ewBzjVe3LNQ.md#t-00-11-45): “Fort Huachuca in Arizona is... a hub for intelligence training”
+- [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:36:33](/episodes/ep-HYn0P-P1wUw.md#t-00-36-08): “And you can go on and you can see that it says that after he left his post, he returned to Fort Huachuca, which is a major army installation in Arizona, blah, blah, blah.”
 
 </details>
 
@@ -1386,6 +1417,13 @@ Source: [State of Arizona official website](https://az.gov/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:13:02](/episodes/ep-ewBzjVe3LNQ.md#t-00-12-28): “person who grew up and lives just outside of the base in in Sierra Vista.”
+
+</details>
+
+- **[Senator Mike Lee](/entities/person-senator-mike-lee.md)** born in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:09:32](/episodes/ep-1CFDtD0IgEg.md#t-00-09-26): “It's actually regarding Senator Mike Shumway Lee, Senator Mike Lee of Utah. ... He actually was born in Arizona, but spent most of his upbringing in Utah.”
 
 </details>
 
@@ -1422,7 +1460,7 @@ Source: [State of Arizona official website](https://az.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Arizona (22)</strong></summary>
+<summary><strong class="section-title">Statements about Arizona (20)</strong></summary>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1)</summary>
@@ -1520,17 +1558,6 @@ Source: [State of Arizona official website](https://az.gov/)
 
 - [01:02:45](/episodes/ep-9naMwS0kMBE.md#t-01-02-36) (Claim) **Erika Kirk** (via quoted speech): ["Erika Kirk learned Charlie Kirk was dead before her plane left Arizona..."](/statements/statement-ec2009b15dd4.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</details>
-
-<details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (2)</summary>
-
-- [00:01:31](/episodes/ep-zSKrxIUMNqw.md#t-00-01-29) (Claim) **Candace Owens**: ["A former Turning Point Action employee was sentenced for a crime in Ar..."](/statements/statement-357b8882a56a.md)
-  - Also about: [Turning Point Action](/entities/org-turning-point-action.md), [Austin Smith](/entities/person-austin-smith.md)
-
-- [00:49:43](/episodes/ep-zSKrxIUMNqw.md#t-00-49-33) (Claim) **The Associated Press** (via quoted article): ["Turning Point Action is the campaign arm of Turning Point USA and a ma..."](/statements/statement-eda0bd04b008.md)
-  - Also about: [Turning Point Action](/entities/org-turning-point-action.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 

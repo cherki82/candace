@@ -10,13 +10,13 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div class="kg-home-actions"><a class="primary" href="/index/claims">Explore factual claims</a><a href="/index/explorer">Search all statements</a><a href="/index/threads">Follow a reviewed theory thread</a></div>
 </div>
 
-<p class="kg-freshness"><strong>144 sources</strong> · processed through <time datetime="2026-08-14">2026-08-14</time> · generated <time datetime="2026-08-27">2026-08-27</time></p>
+<p class="kg-freshness"><strong>158 sources</strong> · processed through <time datetime="2026-08-21">2026-08-21</time> · generated <time datetime="2026-08-28">2026-08-28</time></p>
 
 <div class="kg-stat-grid">
-<div><strong>6,461</strong><span>Claims &amp; statements</span></div>
-<div><strong>3,648</strong><span>Tracked entities</span></div>
-<div><strong>1,574</strong><span>Timeline events</span></div>
-<div><strong>2,466</strong><span>Research sources</span></div>
+<div><strong>6,837</strong><span>Claims &amp; statements</span></div>
+<div><strong>3,970</strong><span>Tracked entities</span></div>
+<div><strong>1,680</strong><span>Timeline events</span></div>
+<div><strong>2,671</strong><span>Research sources</span></div>
 </div>
 
 ## Latest source additions
@@ -25,28 +25,28 @@ description: "An evidence-first research workbench for imported video, audio, an
 
 <div class="recent-source-list">
 <article>
+<time datetime="2026-08-21">2026-08-21</time>
+<a href="/episodes/ep-_cNtgris8Ik">Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379</a>
+<span>Candace Owens</span>
+</article>
+<article>
+<time datetime="2026-08-19">2026-08-19</time>
+<a href="/episodes/ep-9hRcfSrri70">EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378</a>
+<span>Candace Owens</span>
+</article>
+<article>
+<time datetime="2026-08-18">2026-08-18</time>
+<a href="/episodes/ep-4JxgOclKzqg">Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377</a>
+<span>Candace Owens</span>
+</article>
+<article>
+<time datetime="2026-08-17">2026-08-17</time>
+<a href="/episodes/ep-E7P2ShoYDUA">Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376</a>
+<span>Candace Owens</span>
+</article>
+<article>
 <time datetime="2026-08-14">2026-08-14</time>
-<a href="/episodes/ep-nPhCKwJ6ye8">Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast</a>
-<span>Unspecified source</span>
-</article>
-<article>
-<time datetime="2026-07-23">2026-07-23</time>
-<a href="/episodes/ep-amqTMimDr0A">EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365</a>
-<span>Candace Owens</span>
-</article>
-<article>
-<time datetime="2026-07-22">2026-07-22</time>
-<a href="/episodes/ep-ds6umq1rHAw">Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364</a>
-<span>Candace Owens</span>
-</article>
-<article>
-<time datetime="2026-07-21">2026-07-21</time>
-<a href="/episodes/ep-OgRyiOAVtWU">Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363</a>
-<span>Candace Owens</span>
-</article>
-<article>
-<time datetime="2026-07-20">2026-07-20</time>
-<a href="/episodes/ep-N4uM8Jdr410">UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362</a>
+<a href="/episodes/ep-aPOyk1i2LOc">Candace Owens vs Andrew Wilson: The Great Debate.</a>
 <span>Candace Owens</span>
 </article>
 </div>
@@ -56,46 +56,46 @@ description: "An evidence-first research workbench for imported video, audio, an
 <p class="research-section-note">Entity mentions in the five newest sources compared with the preceding five.</p>
 
 <div class="attention-grid">
-<a href="/entities/person-charlie-kirk"><strong>Charlie Kirk</strong><span>280 recent mentions · +117 vs prior window</span></a>
-<a href="/entities/person-erika-kirk"><strong>Erika Kirk</strong><span>147 recent mentions · +90 vs prior window</span></a>
-<a href="/entities/person-candace-owens"><strong>Candace Owens</strong><span>132 recent mentions · +59 vs prior window</span></a>
-<a href="/entities/person-andrew-wilson"><strong>Andrew Wilson</strong><span>31 recent mentions · +31 vs prior window</span></a>
-<a href="/entities/concept-mormonism"><strong>Mormonism</strong><span>27 recent mentions · +27 vs prior window</span></a>
-<a href="/entities/person-howard-hughes"><strong>Howard Hughes</strong><span>24 recent mentions · +24 vs prior window</span></a>
+<a href="/entities/person-terrell-farnsworth"><strong>Terrell Farnsworth</strong><span>62 recent mentions · +61 vs prior window</span></a>
+<a href="/entities/person-andrew-kolvet"><strong>Andrew Kolvet</strong><span>40 recent mentions · +29 vs prior window</span></a>
+<a href="/entities/org-turning-point-usa"><strong>Turning Point USA</strong><span>97 recent mentions · +25 vs prior window</span></a>
+<a href="/entities/person-candace-owens"><strong>Candace Owens</strong><span>149 recent mentions · +23 vs prior window</span></a>
+<a href="/entities/person-erika-kirk"><strong>Erika Kirk</strong><span>114 recent mentions · +20 vs prior window</span></a>
+<a href="/entities/org-utah-state-bureau-of-investigation"><strong>Utah State Bureau of Investigation</strong><span>18 recent mentions · +17 vs prior window</span></a>
 </div>
 
 ## Latest verification outcomes
 
 <div class="verification-feed">
 <article>
+<span class="status-badge status-mixed">mixed</span>
+<a href="/statements/statement-4bba71d4d586">Military personnel called Mitch Snow&#x27;s son on September 9, asked whether he knew Mitch Snow, and said he was listed as Mitch&#x27;s primary emergency contact.</a>
+<small>You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284</small>
+</article>
+<article>
 <span class="status-badge status-true">true</span>
-<a href="/statements/statement-af8ece3aa136">Blake Neff said that after putting that phone away, Michael McCoy immediately called his father and Rob McCoy.</a>
-<small>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364</small>
+<a href="/statements/statement-6a02934cd870">Andrew Kolvet was communicating behind the scenes with Paramount Tactical during its livestream.</a>
+<small>You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284</small>
 </article>
 <article>
 <span class="status-badge status-mixed">mixed</span>
-<a href="/statements/statement-c70b2d29b47d">Owens said it was a fact that Michael McCoy had two phones when he and Charlie Kirk entered the event.</a>
-<small>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364</small>
+<a href="/statements/statement-fc3bddc16a7c">Candace Owens said The Daily Wire was trying to launch a show titled &#x27;In the Know&#x27; on Owens&#x27;s old social accounts with Madison Bransford, whom Owens described as apparently a Daily Wire intern, and said the show would make fun of Owens.</a>
+<small>You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284</small>
 </article>
 <article>
 <span class="status-badge status-true">true</span>
-<a href="/statements/statement-8c7ae5b38e8f">Owens definitively denied having anything to do with the Daily Mail article.</a>
-<small>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364</small>
+<a href="/statements/statement-e7a6e05acf90">Pope Leo XIV said the Gospel&#x27;s message is &quot;blessed are the peacemakers&quot; and that he would continue speaking against war and promoting peace, dialogue, and just solutions.</a>
+<small>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323</small>
 </article>
 <article>
 <span class="status-badge status-true">true</span>
-<a href="/statements/statement-b9bf1967961b">Owens said her team received the Daily Mail request for comment, responded immediately, and published the receipt.</a>
-<small>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364</small>
+<a href="/statements/statement-cd30c664e00a">Candace Owens said Catholics cannot support Donald Trump in this moment.</a>
+<small>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323</small>
 </article>
 <article>
 <span class="status-badge status-true">true</span>
-<a href="/statements/statement-6bfdb1d65389">Andrew Kolvet wrote that the Daily Mail made a major update after being confronted with facts, including retracting its claim that the anonymous source was a Kirk family member.</a>
-<small>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364</small>
-</article>
-<article>
-<span class="status-badge status-true">true</span>
-<a href="/statements/statement-1c520220288e">Andrew Kolvet wrote that not one word attributed by the Daily Mail anonymous source accurately depicted Erika Kirk private or public views or comments.</a>
-<small>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364</small>
+<a href="/statements/statement-ecb6b851885c">Candace Owens said Donald Trump is not a Christian and that the Catholic Church should respond forcefully to the comparison of Trump with Jesus Christ.</a>
+<small>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323</small>
 </article>
 </div>
 

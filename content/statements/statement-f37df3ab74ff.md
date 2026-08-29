@@ -4,9 +4,10 @@ description: "\"Erika Kirk should sue the people criticizing her because they ar
 statement_id: "statement-f37df3ab74ff"
 speaker: "Donald J. Trump"
 type: "opinion"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -34,8 +35,21 @@ type: "opinion"
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The episode plays Donald Trump's remarks directly. Current reporting on the April 1, 2026 White House Easter lunch quotes and embeds the same clip: Trump urged Erika Kirk to sue people over the parody/criticism and said they were jealous of her. The canonical statement fairly summarizes the recorded remarks. Confidence is medium because the external confirmation is a single report relying on the publicly embedded clip.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Is Druski 'Jealous' of Erika Kirk? Here's Why Donald Trump Wants Legal Action Over 'Cringe' Viral Parody](https://www.ibtimes.co.uk/druski-jealous-erika-kirk-heres-why-donald-trump-wants-legal-action-over-cringe-viral-parody-1790517)
+
+*Verified: 2026-08-28T16:30:27.639962*
 
 ---
 
-**Type:** Opinion | **Verifiable:** No
+**Type:** Opinion | **Verifiable:** Yes

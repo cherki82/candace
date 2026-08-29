@@ -1,6 +1,6 @@
 ---
 title: "Brigham Young University Jerusalem Center"
-description: "Brigham Young University Jerusalem Center (Organizations) - 3 mentions"
+description: "Brigham Young University Jerusalem Center (Organizations) - 4 mentions"
 id: "org-brigham-young-university-jerusalem-center"
 type: "ORG"
 aliases:
@@ -26,7 +26,7 @@ Source: [BYU Jerusalem Center](https://jerusalemcenter.ce.byu.edu/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-brigham-young-university-jerusalem-center-t-00-45-19">2026-02-25 · 00:45:35</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-brigham-young-university-jerusalem-center-t-00-10-39">2026-05-27 · 00:10:39</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>7</strong></div>
@@ -35,18 +35,18 @@ Source: [BYU Jerusalem Center](https://jerusalemcenter.ce.byu.edu/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-brigham-young-university-jerusalem-center-t-00-45-19">Bride Of Charlie: A Wrinkle In Time | Episode 1</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-rupRLXmSndU.md#ent-org-brigham-young-university-jerusalem-center-t-00-25-01">Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-brigham-young-university-jerusalem-center-t-00-45-19" style="--pulse-height:100%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-rupRLXmSndU.md#ent-org-brigham-young-university-jerusalem-center-t-00-25-01" style="--pulse-height:100%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-brigham-young-university-jerusalem-center-t-00-10-39" style="--pulse-height:100%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-brigham-young-university-jerusalem-center-t-00-45-19" style="--pulse-height:50%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-org-brigham-young-university-jerusalem-center-t-00-25-01" style="--pulse-height:100%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-brigham-young-university-jerusalem-center-t-00-10-39" style="--pulse-height:50%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-org-brigham-young-university-jerusalem-center-t-00-45-19) | 1 |
-| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-brigham-young-university-jerusalem-center-t-00-25-01) | 1 |
+| 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-org-brigham-young-university-jerusalem-center-t-00-25-01) | 2 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-brigham-young-university-jerusalem-center-t-00-10-39) | 1 |
 
 </details>
@@ -55,7 +55,7 @@ Source: [BYU Jerusalem Center](https://jerusalemcenter.ce.byu.edu/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 (1 mentions)</summary>
@@ -66,10 +66,13 @@ Source: [BYU Jerusalem Center](https://jerusalemcenter.ce.byu.edu/)
 </details>
 
 <details>
-<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1 mentions)</summary>
+<summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2 mentions)</summary>
 
 **[00:25:01](/episodes/ep-rupRLXmSndU.md#ent-org-brigham-young-university-jerusalem-center-t-00-25-01)**
-> "Which is exactly where Andrew Zenger attended school. He lived in Jerusalem, and I'm now going to tell you that BYU, the Jerusalem Center, this person told me, is where the elite of the Mormon culture, the cream of the pie, they get introduced to one another. It's where the elite Mormon youth are introduced to also the Neset, okay?"
+> "Which is exactly where Andrew Zenger attended school. He lived in Jerusalem, and I'm now going to tell you that BYU, the Jerusalem Center, this person told me, is where the elite of the Mormon culture, the cream of the pie, they get introduced to one another. It's where the elite Mormon youth are introduced to also the Knesset, okay?"
+
+**[00:24:45](/episodes/ep-rupRLXmSndU.md#ent-org-brigham-young-university-jerusalem-center-t-00-24-36)**
+> "...hey recruit specifically from BYU Jerusalem in Israel."
 
 </details>
 

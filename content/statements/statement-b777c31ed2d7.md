@@ -28,7 +28,7 @@ type: "opinion"
 **Timestamp:** [00:43:11](/episodes/ep-es7PWdFGoFI.md#t-00-43-01) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2591);return false;">Play</a>
 
-> I believe that Charlie was betrayed by people that are close to him
+> I believe that Charlie (Charlie Kirk) was betrayed by people that are close to him.
 
 ## Verification
 

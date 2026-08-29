@@ -3,9 +3,19 @@ title: "UVU students"
 description: "UVU students (Organizations) - 6 mentions"
 id: "org-uvu-students"
 type: "ORG"
+categories:
+  - "university community"
 ---
 
 _Type: Organizations_
+
+**Categories:** university community
+
+> **Possibly overlapping entity records:** [Anonymous Source #23 (Ep d7VsbEIWkP8)](/entities/anon-src-d7VsbEIWkP8-023). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> The university's official site confirms the institution underlying the source-scoped student community label.
+Source: [Utah Valley University](https://www.uvu.edu/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-org-uvu-students-t-00-07-39">2025-09-29 · 00:07:39</a></strong></div>

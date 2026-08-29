@@ -1,6 +1,6 @@
 ---
 title: "French Foreign Legion"
-description: "French Foreign Legion (Organizations) - 42 mentions"
+description: "French Foreign Legion (Organizations) - 46 mentions"
 id: "org-french-foreign-legion"
 type: "ORG"
 aliases:
@@ -24,10 +24,10 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-org-french-foreign-legion-t-00-13-39">2025-11-21 · 00:14:02</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-french-foreign-legion-t-02-36-52">2026-08-14 · 02:36:52</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>42</strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>46</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -48,6 +48,7 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-org-french-foreign-legion-t-00-07-30" style="--pulse-height:11%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-french-foreign-legion-t-00-46-47" style="--pulse-height:11%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-french-foreign-legion-t-02-28-25" style="--pulse-height:22%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-french-foreign-legion-t-01-47-23" style="--pulse-height:22%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -65,6 +66,7 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-french-foreign-legion-t-00-07-30) | 2 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-french-foreign-legion-t-00-46-47) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-french-foreign-legion-t-02-28-25) | 4 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-french-foreign-legion-t-01-47-23) | 4 |
 
 </details>
 </section>
@@ -72,7 +74,7 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (42)</strong></summary>
+<summary><strong class="section-title">Raw mentions (46)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -88,6 +90,23 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 
 **[02:36:52](/episodes/ep-nPhCKwJ6ye8.md#ent-org-french-foreign-legion-t-02-36-52)**
 > "...it was saying that it was the French foreign legion that was on the ground that"
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (4 mentions)</summary>
+
+**[01:47:23](/episodes/ep-aPOyk1i2LOc.md#ent-org-french-foreign-legion-t-01-47-23)**
+> "...ing that I reported said that French foreign legion were on the ground that day."
+
+**[01:52:20](/episodes/ep-aPOyk1i2LOc.md#ent-org-french-foreign-legion-t-01-52-20)**
+> "They said that the French Foreign Legion was involved and on the ground that day. I've alr..."
+
+**[01:53:06](/episodes/ep-aPOyk1i2LOc.md#ent-org-french-foreign-legion-t-01-53-06)**
+> "yeah that that that the French foreign legion was on the ground during Charlie's assassination ..."
+
+**[01:55:49](/episodes/ep-aPOyk1i2LOc.md#ent-org-french-foreign-legion-t-01-55-49)**
+> "...it was saying that it was the French Foreign Legion that was on the ground that day."
 
 </details>
 
@@ -372,7 +391,15 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about French Foreign Legion (5)</strong></summary>
+<summary><strong class="section-title">Statements about French Foreign Legion (7)</strong></summary>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1)</summary>
+
+- [00:29:40](/episodes/ep-E7P2ShoYDUA.md#t-00-29-40) (Claim) **Candace Owens**: ["Owens said she had been told a foreign legion was trying to kill her a..."](/statements/statement-b9c4648fcbe7.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [Tulsi Gabbard](/entities/person-tulsi-gabbard.md)
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (2)</summary>
@@ -381,6 +408,14 @@ Source: [Présentation de la Légion étrangère - Armée de Terre](https://www.
   - Also about: [Tulsi Gabbard](/entities/person-tulsi-gabbard.md), [Donald J. Trump](/entities/person-donald-trump.md)
 
 - [02:33:22](/episodes/ep-nPhCKwJ6ye8.md#t-02-33-18) (Accusation) **Anonymous Source #1 (Ep nPhCKwJ6ye8)** (via quoted speech): ["French Foreign Legion personnel were on the ground during Charlie Kirk..."](/statements/statement-0ccadf24fcfc.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [France](/entities/gpe-france.md)
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (1)</summary>
+
+- [01:52:20](/episodes/ep-aPOyk1i2LOc.md#t-01-52-20) (Accusation) **Anonymous Source #2 (Ep aPOyk1i2LOc)** (via quoted speech): ["French Foreign Legion personnel were on the ground during Charlie Kirk..."](/statements/statement-f3f625166a18.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [France](/entities/gpe-france.md)
 
 </details>

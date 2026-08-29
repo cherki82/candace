@@ -3,9 +3,17 @@ title: "Richard Ramirez"
 description: "Richard Ramirez (People) - 1 mention"
 id: "person-richard-ramirez"
 type: "PERSON"
+categories:
+  - "criminal case subject"
 ---
 
 _Type: People_
+
+**Categories:** criminal case subject
+
+**Entity verification:** verified
+> Canonical name and identity for Richard Ramirez confirmed by the cited direct external source.
+Source: [Richard Ramirez](https://en.wikipedia.org/wiki/Richard_Ramirez)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-richard-ramirez-t-00-46-07">2025-10-01 · 00:46:37</a></strong></div>

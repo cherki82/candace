@@ -4,9 +4,10 @@ description: "\"Charlie Kirk wrote that asking questions and quoting Bible verse
 statement_id: "statement-269bb21cf7df"
 speaker: "Charlie Kirk"
 type: "opinion"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "opinion"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The source-scoped transcript shows Owens reading a message attributed to Kirk with the substance captured in this statement. The result verifies the quoted opinion as presented in the episode; public reporting did not independently authenticate the private-message artifact.
+
+**Confidence:** High
+
+**Sources:**
+
+- [EXCLUSIVE: Ben Shapiro's 9/10 Lunch Date — Candace Ep. 365 transcript](https://podcasts.happyscribe.com/candace/10-lunch-date-more-text-messages-from-charlie-kirk)
+
+*Verified: 2026-08-27T19:42:39.589190*
 
 ---
 

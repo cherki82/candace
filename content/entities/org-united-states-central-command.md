@@ -1,6 +1,6 @@
 ---
 title: "United States Central Command"
-description: "United States Central Command (Organizations) - 5 mentions"
+description: "United States Central Command (Organizations) - 6 mentions"
 id: "org-united-states-central-command"
 type: "ORG"
 aliases:
@@ -28,11 +28,11 @@ Source: [CENTCOM Mission and Command Priorities](https://www.centcom.mil/ABOUT-U
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-19vHhjF7-NA.md#ent-org-united-states-central-command-t-00-15-59">2026-06-11 · 00:15:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-19vHhjF7-NA.md#ent-org-united-states-central-command-t-00-27-16">2026-06-11 · 00:27:16</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-org-united-states-central-command-t-00-35-20">2026-08-03 · 00:35:32</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -42,12 +42,14 @@ Source: [CENTCOM Mission and Command Priorities](https://www.centcom.mil/ABOUT-U
 <p>Highest activity: <a href="/episodes/ep-19vHhjF7-NA.md#ent-org-united-states-central-command-t-00-15-59">OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-org-united-states-central-command-t-00-15-59" style="--pulse-height:100%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 5 mentions" title="2026-06-11 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-org-united-states-central-command-t-00-35-20" style="--pulse-height:20%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-org-united-states-central-command-t-00-15-59) | 5 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-org-united-states-central-command-t-00-35-20) | 1 |
 
 </details>
 </section>
@@ -55,7 +57,15 @@ Source: [CENTCOM Mission and Command Priorities](https://www.centcom.mil/ABOUT-U
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
+
+**[00:35:32](/episodes/ep-AH1KVKkweUE.md#ent-org-united-states-central-command-t-00-35-20)**
+> "...this email. An officer in the U.S. Central Command's intelligence branch, if we're still calling it in..."
+
+</details>
 
 <details>
 <summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (5 mentions)</summary>
@@ -109,7 +119,15 @@ Source: [CENTCOM Mission and Command Priorities](https://www.centcom.mil/ABOUT-U
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Central Command (3)</strong></summary>
+<summary><strong class="section-title">Statements about United States Central Command (4)</strong></summary>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1)</summary>
+
+- [00:35:09](/episodes/ep-AH1KVKkweUE.md#t-00-34-40) (Citation) **Candace Owens**: ["Owens said CNN reported that a U.S. Central Command intelligence offic..."](/statements/statement-b9732abe5e61.md)
+  - Also about: [CNN](/entities/org-cnn.md), [Iran](/entities/gpe-iran.md)
+
+</details>
 
 <details>
 <summary>OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347 (3)</summary>

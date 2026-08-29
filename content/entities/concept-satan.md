@@ -1,6 +1,6 @@
 ---
 title: "Satan"
-description: "Satan (Concepts) - 62 mentions"
+description: "Satan (Concepts) - 67 mentions"
 id: "concept-satan"
 type: "CONCEPT"
 aliases:
@@ -23,9 +23,9 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-satan-t-00-31-40">2026-01-14 · 00:31:56</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-concept-satan-t-00-00-42">2026-07-20 · 00:00:42</a></strong></div>
-<div><span>Episodes</span><strong>24</strong></div>
-<div><span>Mentions</span><strong>62</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-satan-t-00-54-39">2026-08-07 · 00:55:15</a></strong></div>
+<div><span>Episodes</span><strong>26</strong></div>
+<div><span>Mentions</span><strong>67</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -60,6 +60,8 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-concept-satan-t-00-00-00" style="--pulse-height:27%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 3 mentions" title="2026-06-10 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-concept-satan-t-00-12-57" style="--pulse-height:18%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 2 mentions" title="2026-06-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-concept-satan-t-00-00-42" style="--pulse-height:9%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-concept-satan-t-00-03-17" style="--pulse-height:18%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 2 mentions" title="2026-08-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-satan-t-00-52-32" style="--pulse-height:27%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 3 mentions" title="2026-08-07 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -89,6 +91,8 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-concept-satan-t-00-00-00) | 3 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-concept-satan-t-00-12-57) | 2 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-concept-satan-t-00-00-42) | 1 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-concept-satan-t-00-03-17) | 2 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-concept-satan-t-00-52-32) | 3 |
 
 </details>
 </section>
@@ -96,7 +100,32 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (62)</strong></summary>
+<summary><strong class="section-title">Raw mentions (67)</strong></summary>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (3 mentions)</summary>
+
+**[00:52:32](/episodes/ep-d7VsbEIWkP8.md#ent-concept-satan-t-00-52-32)**
+> "worships Satan"
+
+**[00:46:40](/episodes/ep-d7VsbEIWkP8.md#ent-concept-satan-t-00-46-33)**
+> "The great Satan, America, will fall."
+
+**[00:55:15](/episodes/ep-d7VsbEIWkP8.md#ent-concept-satan-t-00-54-39)**
+> "...ife writes, most common place Satan shows up, according to Scripture, is in false rel..."
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (2 mentions)</summary>
+
+**[00:03:33](/episodes/ep-1CFDtD0IgEg.md#ent-concept-satan-t-00-03-17)**
+> "...mething good. And that's what Satan does. In fact, what did."
+
+**[00:03:42](/episodes/ep-1CFDtD0IgEg.md#ent-concept-satan-t-00-03-17)**
+> "...o the apostles and Jesus call Satan? He's a murderer, a liar, an accuser, a slanderer..."
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1 mentions)</summary>

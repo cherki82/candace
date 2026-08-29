@@ -1,6 +1,6 @@
 ---
 title: "Ana Kasparian"
-description: "Ana Kasparian (People) - 11 mentions"
+description: "Ana Kasparian (People) - 13 mentions"
 id: "person-ana-kasparian"
 type: "PERSON"
 categories:
@@ -18,12 +18,12 @@ Source: [Bio - Ana Kasparian](https://www.anakasparian.com/bio)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#t-00-33-30">2025-10-30 · 00:33:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#t-00-59-43">2026-06-26 · 01:00:05</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
-<div><span>Statements by</span><strong>45</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-ana-kasparian-t-00-07-26">2026-08-21 · 00:07:49</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Statements by</span><strong>46</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>9</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -36,6 +36,7 @@ Source: [Bio - Ana Kasparian](https://www.anakasparian.com/bio)
 <a href="/episodes/ep-SKNJPul29zU.md#ent-person-ana-kasparian-t-00-00-00" style="--pulse-height:100%" aria-label="Candace Owens x Ana Kasparian: 5 mentions" title="2026-05-28 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-YeEtS7nix3o.md#t-01-12-43" style="--pulse-height:40%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#t-00-59-43" style="--pulse-height:20%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-person-ana-kasparian-t-00-04-14" style="--pulse-height:40%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [Bio - Ana Kasparian](https://www.anakasparian.com/bio)
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-person-ana-kasparian-t-00-00-00) | 5 |
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#t-01-12-43) | 2 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#t-00-59-43) | 1 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-ana-kasparian-t-00-04-14) | 2 |
 
 </details>
 </section>
@@ -53,7 +55,18 @@ Source: [Bio - Ana Kasparian](https://www.anakasparian.com/bio)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>
+
+**[00:04:14](/episodes/ep-_cNtgris8Ik.md#ent-person-ana-kasparian-t-00-04-14)**
+> "You know, yesterday I joined Ana Kasparian on her program for an interview and she asked a q..."
+
+**[00:07:49](/episodes/ep-_cNtgris8Ik.md#ent-person-ana-kasparian-t-00-07-26)**
+> "...lead investigator, is just as Ana Kasparian stated, is that he did not hand over that physica..."
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
@@ -131,6 +144,18 @@ Source: [Bio - Ana Kasparian](https://www.anakasparian.com/bio)
 </details>
 
 <details>
+<summary>Interviewed (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:04:14](/episodes/ep-_cNtgris8Ik.md#t-00-04-14): “You know, yesterday I joined Ana Kasparian on her program for an interview and she asked a question that is on a lot of people's minds regarding all of this.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Interviewed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
@@ -170,7 +195,7 @@ Source: [Bio - Ana Kasparian](https://www.anakasparian.com/bio)
 </details>
 
 <details>
-<summary>Referenced By (3)</summary>
+<summary>Referenced By (4)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** debated this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -196,12 +221,27 @@ Source: [Bio - Ana Kasparian](https://www.anakasparian.com/bio)
 
 </details>
 
+- **[Candace Owens](/entities/person-candace-owens.md)** interviewed by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:04:14](/episodes/ep-_cNtgris8Ik.md#t-00-04-14): “You know, yesterday I joined Ana Kasparian on her program for an interview and she asked a question that is on a lot of people's minds regarding all of this.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Ana Kasparian (45)</strong></summary>
+<summary><strong class="section-title">Statements by Ana Kasparian (46)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
+
+- [00:04:25](/episodes/ep-_cNtgris8Ik.md#t-00-04-25) [✓] (Accusation) ["Kasparian asked whether Farnsworth's failure to provide the original SD card—pro..."](/statements/statement-b2568cfeaa46.md)
+  - About: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (45)</summary>

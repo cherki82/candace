@@ -1,6 +1,6 @@
 ---
 title: "Lindsey Graham"
-description: "Lindsey Graham (People) - 32 mentions"
+description: "Lindsey Graham (People) - 35 mentions"
 id: "person-lindsey-graham"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-lindsey-graham-t-00-00-46">2025-11-03 · 00:01:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-person-lindsey-graham-t-00-50-21">2026-07-16 · 00:50:26</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>32</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HZvwbfePe7o.md#ent-person-lindsey-graham-t-00-35-35">2026-07-27 · 00:35:56</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>35</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -45,6 +45,7 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-lindsey-graham-t-00-43-36" style="--pulse-height:75%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 6 mentions" title="2026-03-30 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-lindsey-graham-t-00-53-34" style="--pulse-height:12%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-person-lindsey-graham-t-00-50-21" style="--pulse-height:12%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-person-lindsey-graham-t-00-35-08" style="--pulse-height:38%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 3 mentions" title="2026-07-27 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -60,6 +61,7 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-lindsey-graham-t-00-43-36) | 6 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-lindsey-graham-t-00-53-34) | 1 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-person-lindsey-graham-t-00-50-21) | 1 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-person-lindsey-graham-t-00-35-08) | 3 |
 
 </details>
 </section>
@@ -67,7 +69,21 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+<summary><strong class="section-title">Raw mentions (35)</strong></summary>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (3 mentions)</summary>
+
+**[00:35:25](/episodes/ep-HZvwbfePe7o.md#ent-person-lindsey-graham-t-00-35-08)**
+> "And so it's not good. It's particular that this he's coming under the guise of Lindsey Graham's funeral, a state funeral."
+
+**[00:35:35](/episodes/ep-HZvwbfePe7o.md#ent-person-lindsey-graham-t-00-35-35)**
+> "...nybody trying to pretend that Lindsey Graham was not an absolute creep who was clearly blackma..."
+
+**[00:35:56](/episodes/ep-HZvwbfePe7o.md#ent-person-lindsey-graham-t-00-35-35)**
+> "pertaining to Lindsey Graham’s funeral, allegedly. If they are going in, like I ..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1 mentions)</summary>
@@ -251,10 +267,11 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:13:58](/episodes/ep-I0OaY6Gryqk.md#t-00-13-58): “totally true it just it's always totally true just a couple of weeks they're going to have nuclear bombs they just lie they lie they lie because they need the bodies they need the people like Joe Kent and then to see him be so disrespected disrespected i mean it's just what they do you know and you know what they're going to do now which what they're already doing they're going to smear and they're going to attack and they're going to threaten Joe Kent here are some of the immediate responses that are already floating online okay you have lindsey graham who's so blackmail blackmail it hurts he wrote the resignation of Joe Kent as the director”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:43:36](/episodes/ep-7ERqbYElOfs.md#t-00-43-36): “the disgusting Lindsey Graham. ... who's just a traitor he's treacherous he's disgusting”
+- [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:35:35](/episodes/ep-HZvwbfePe7o.md#t-00-35-35): “Disgusting, by the way. Anybody trying to pretend that Lindsey Graham was not an absolute creep who was clearly blackmailed is deluding themselves. But that funeral is just the guise. Like I said, it is just the guise. And I find that timing particular, because we know Andrew Kolvet is on record—he does not like Lindsey Graham—so they are not going in”
 
 </details>
 
@@ -292,10 +309,11 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313 @ 00:13:58](/episodes/ep-I0OaY6Gryqk.md#t-00-13-58): “totally true it just it's always totally true just a couple of weeks they're going to have nuclear bombs they just lie they lie they lie because they need the bodies they need the people like Joe Kent and then to see him be so disrespected disrespected i mean it's just what they do you know and you know what they're going to do now which what they're already doing they're going to smear and they're going to attack and they're going to threaten Joe Kent here are some of the immediate responses that are already floating online okay you have lindsey graham who's so blackmail blackmail it hurts he wrote the resignation of Joe Kent as the director”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:43:36](/episodes/ep-7ERqbYElOfs.md#t-00-43-36): “the disgusting Lindsey Graham. ... who's just a traitor he's treacherous he's disgusting”
+- [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:35:35](/episodes/ep-HZvwbfePe7o.md#t-00-35-35): “Disgusting, by the way. Anybody trying to pretend that Lindsey Graham was not an absolute creep who was clearly blackmailed is deluding themselves. But that funeral is just the guise. Like I said, it is just the guise. And I find that timing particular, because we know Andrew Kolvet is on record—he does not like Lindsey Graham—so they are not going in”
 
 </details>
 

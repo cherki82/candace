@@ -3,9 +3,17 @@ title: "David Friedman"
 description: "David Friedman (People) - 2 mentions"
 id: "person-david-friedman"
 type: "PERSON"
+categories:
+  - "diplomat"
 ---
 
 _Type: People_
+
+**Categories:** diplomat
+
+**Entity verification:** verified
+> Canonical name and identity for David Friedman confirmed by the cited direct external source.
+Source: [David M. Friedman - Office of the Historian](https://history.state.gov/departmenthistory/people/friedman-david-m)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-person-david-friedman-t-00-25-28">2025-11-21 · 00:25:28</a></strong></div>

@@ -20,7 +20,7 @@ _Type: Concepts_
 Source: [Christmas | Britannica](https://www.britannica.com/topic/Christmas)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-concept-christmas-t-00-46-06">2026-04-02 · 00:46:06</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-concept-christmas-t-00-45-55">2026-04-02 · 00:46:06</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-concept-christmas-t-00-57-15">2026-07-16 · 00:57:50</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>10</strong></div>
@@ -34,7 +34,7 @@ Source: [Christmas | Britannica](https://www.britannica.com/topic/Christmas)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-puuMVxEu5NU.md#ent-concept-christmas-t-00-57-15">EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-concept-christmas-t-00-46-06" style="--pulse-height:33%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-concept-christmas-t-00-45-55" style="--pulse-height:33%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-christmas-t-01-03-27" style="--pulse-height:33%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-concept-christmas-t-00-57-15" style="--pulse-height:100%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 6 mentions" title="2026-07-16 · 6 mentions"><span></span></a>
 </div>
@@ -42,7 +42,7 @@ Source: [Christmas | Britannica](https://www.britannica.com/topic/Christmas)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-concept-christmas-t-00-46-06) | 2 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-concept-christmas-t-00-45-55) | 2 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-concept-christmas-t-01-03-27) | 2 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-concept-christmas-t-00-57-15) | 6 |
 
@@ -91,10 +91,10 @@ Source: [Christmas | Britannica](https://www.britannica.com/topic/Christmas)
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (2 mentions)</summary>
 
-**[00:46:06](/episodes/ep-q1NRQQAYS_Q.md#ent-concept-christmas-t-00-46-06)**
+**[00:46:06](/episodes/ep-q1NRQQAYS_Q.md#ent-concept-christmas-t-00-45-55)**
 > "Christmas"
 
-**[00:46:21](/episodes/ep-q1NRQQAYS_Q.md#ent-concept-christmas-t-00-46-06)**
+**[00:46:21](/episodes/ep-q1NRQQAYS_Q.md#ent-concept-christmas-t-00-45-55)**
 > "...er 23rd, a couple days before Christmas, most people were on break."
 
 </details>

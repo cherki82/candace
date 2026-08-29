@@ -117,7 +117,7 @@ Source: [Tel Aviv-Yafo Municipality](https://www.tel-aviv.gov.il/en/)
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>
 
 **[00:31:34](/episodes/ep-mKXdKV-OBog.md#ent-gpe-tel-aviv-t-00-30-55)**
-> "...his is journalism, right? Are you shocked if I tell you that Ashley Reinsberg—he happens to live in Tel Aviv? He just cannot make it up. Like, just write your articles. Stop pretending that you're a journalis..."
+> "Are you shocked if I tell you that Ashley Rindsberg—he happens to live in Tel Aviv?"
 
 </details>
 
@@ -159,7 +159,7 @@ Source: [Tel Aviv-Yafo Municipality](https://www.tel-aviv.gov.il/en/)
 <details>
 <summary>Location Of (1)</summary>
 
-- **[ACE Partners](/entities/org-ace-partners.md)**
+- **[Ace Capital Partners (Israel)](/entities/org-ace-capital-partners-israel.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/episodes/ep-tB5SXXmd9vU.md#t-00-38-00): “Yeah, it's an Israeli firm based in Tel Aviv called ACE Partners.”
@@ -171,7 +171,7 @@ Source: [Tel Aviv-Yafo Municipality](https://www.tel-aviv.gov.il/en/)
 <details>
 <summary>Referenced By (1)</summary>
 
-- **[ACE Partners](/entities/org-ace-partners.md)** based in this
+- **[Ace Capital Partners (Israel)](/entities/org-ace-capital-partners-israel.md)** based in this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 @ 00:38:08](/episodes/ep-tB5SXXmd9vU.md#t-00-38-00): “Yeah, it's an Israeli firm based in Tel Aviv called ACE Partners.”

@@ -17,4 +17,4 @@ date: "2020"
 **Timestamp:** [00:30:28](/episodes/ep-rupRLXmSndU.md#event-event-2020-robbie-hild-appeared-to-have-graduated-f-t-00-30-18) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1828);return false;">▶️ Play</a>
 
-> Robbie, he also went to BYU. And he played lacrosse. He appears to have graduated around 2020.
+> he also went to BYU. And he played lacrosse. He appears to have graduated around 2020.

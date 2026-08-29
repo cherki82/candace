@@ -1,0 +1,23 @@
+---
+title: "Erika Kirk advised by Victor Marx"
+description: "Evidence for the relationship: Erika Kirk advised by Victor Marx"
+relationship_id: "rel-7d17db27b89a"
+subject: "person-erika-kirk"
+predicate: "advised by"
+object: "person-victor-marx"
+---
+
+> **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
+
+## [Erika Kirk](/entities/person-erika-kirk) advised by [Victor Marx](/entities/person-victor-marx)
+
+### Evidence (1 mentions)
+
+**[LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8)**
+
+- [00:43:45](/episodes/ep-ChuWo-n49B8#t-00-43-45): _a perfect segue by the way into Victor Marx one of Erika's (Erika Kirk) spiritual advisors we all get the ick we all know something's wrong it's like we listen to Frank Turek we just go this doesn't feel godly but you keep telling me it is well Piers Morgan interviewed Victor Marx and tweeted that it was one of the most bizarre interviews of his career yeah well what's funny about this is Piers Morgan has been hosting people attacking me as he always does uh saying i'm wrong Erika (Erika Kirk) is the widow he always accepts the slop up_
+
+### Related
+
+- [Erika Kirk](/entities/person-erika-kirk)
+- [Victor Marx](/entities/person-victor-marx)

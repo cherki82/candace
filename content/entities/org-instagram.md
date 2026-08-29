@@ -1,6 +1,6 @@
 ---
 title: "Instagram"
-description: "Instagram (Organizations) - 108 mentions"
+description: "Instagram (Organizations) - 113 mentions"
 id: "org-instagram"
 type: "ORG"
 categories:
@@ -18,9 +18,9 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-org-instagram-t-00-04-56">2025-09-11 · 00:05:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-org-instagram-t-00-36-57">2026-07-16 · 00:36:57</a></strong></div>
-<div><span>Episodes</span><strong>53</strong></div>
-<div><span>Mentions</span><strong>108</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-org-instagram-t-00-42-55">2026-08-19 · 00:43:06</a></strong></div>
+<div><span>Episodes</span><strong>57</strong></div>
+<div><span>Mentions</span><strong>113</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -48,9 +48,8 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 <a href="/episodes/ep-Qfwr08Ebczo.md#ent-org-instagram-t-00-11-21" style="--pulse-height:38%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 3 mentions" title="2025-11-04 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-instagram-t-00-12-38" style="--pulse-height:12%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-instagram-t-00-50-56" style="--pulse-height:12%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-instagram-t-00-31-02" style="--pulse-height:25%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-instagram-t-00-43-07" style="--pulse-height:12%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-instagram-t-00-54-38" style="--pulse-height:12%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-instagram-t-00-31-16" style="--pulse-height:12%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-instagram-t-00-43-20" style="--pulse-height:12%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-instagram-t-00-16-00" style="--pulse-height:38%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-instagram-t-00-12-25" style="--pulse-height:25%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-instagram-t-00-03-15" style="--pulse-height:25%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
@@ -84,6 +83,11 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-org-instagram-t-00-29-30" style="--pulse-height:12%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-instagram-t-00-53-59" style="--pulse-height:12%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-org-instagram-t-00-36-57" style="--pulse-height:12%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-org-instagram-t-00-11-45" style="--pulse-height:38%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 3 mentions" title="2026-07-27 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-instagram-t-00-33-07" style="--pulse-height:12%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-org-instagram-t-00-37-43" style="--pulse-height:12%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-org-instagram-t-00-47-24" style="--pulse-height:12%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-org-instagram-t-00-42-55" style="--pulse-height:12%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 1 mentions" title="2026-08-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -106,9 +110,8 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 | 2025-11-04 | [EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258](/episodes/ep-Qfwr08Ebczo.md#ent-org-instagram-t-00-11-21) | 3 |
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-instagram-t-00-12-38) | 1 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-org-instagram-t-00-50-56) | 1 |
-| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-instagram-t-00-31-02) | 2 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-instagram-t-00-43-07) | 1 |
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-org-instagram-t-00-54-38) | 1 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-instagram-t-00-31-16) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-instagram-t-00-43-20) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-instagram-t-00-16-00) | 3 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-instagram-t-00-12-25) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-instagram-t-00-03-15) | 2 |
@@ -142,6 +145,11 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-org-instagram-t-00-29-30) | 1 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-org-instagram-t-00-53-59) | 1 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-instagram-t-00-36-57) | 1 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-org-instagram-t-00-11-45) | 3 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-org-instagram-t-00-33-07) | 1 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-org-instagram-t-00-37-43) | 1 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-org-instagram-t-00-47-24) | 1 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-org-instagram-t-00-42-55) | 1 |
 
 </details>
 </section>
@@ -149,7 +157,53 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (108)</strong></summary>
+<summary><strong class="section-title">Raw mentions (113)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
+
+**[00:43:06](/episodes/ep-9hRcfSrri70.md#ent-org-instagram-t-00-42-55)**
+> "...on X. He's also definitely on Instagram as well. We'll be right back after a brief break."
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:47:30](/episodes/ep-ChuWo-n49B8.md#ent-org-instagram-t-00-47-24)**
+> "being shared across Instagram"
+
+</details>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
+
+**[00:38:02](/episodes/ep-AH1KVKkweUE.md#ent-org-instagram-t-00-37-43)**
+> "... some of this going around on Instagram."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
+
+**[00:33:07](/episodes/ep-Vu6Y24pqhZs.md#ent-org-instagram-t-00-33-07)**
+> "And this is a perfect time to discuss the reason that the Iranian propaganda, I don't know if propaganda means it's untrue or just that they're propagating their vision, because it certainly is not untrue, has been going viral. These Lego videos, you've seen the Lego videos on X, you've seen them on Instagram, people are sharing them. And there's a reason why these videos are resonating with Americans, because we feel like we have lost our country."
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (3 mentions)</summary>
+
+**[00:12:04](/episodes/ep-HZvwbfePe7o.md#ent-org-instagram-t-00-11-45)**
+> "Now all of a sudden she wants privacy. Also, let's back it up to a day before Charlie (Charlie Kirk) died when Erika (Erika Kirk) posted her mother looking frail and sick in a wheelchair on Instagram."
+
+**[00:30:11](/episodes/ep-HZvwbfePe7o.md#ent-org-instagram-t-00-29-57)**
+> "...d to show you this account on Instagram, which will make you chuckle because this is what..."
+
+**[00:30:22](/episodes/ep-HZvwbfePe7o.md#ent-org-instagram-t-00-29-57)**
+> "The account holder on Instagram is Devante West, and he just mocks, broadly speak..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1 mentions)</summary>
@@ -524,28 +578,17 @@ Source: [Instagram - Meta](https://about.meta.com/technologies/instagram/)
 </details>
 
 <details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1 mentions)</summary>
-
-**[00:54:48](/episodes/ep-zSKrxIUMNqw.md#ent-org-instagram-t-00-54-38)**
-> "...going to give you—this is her Instagram page. It's Mags (Maggie Wegner), M-A-G-G-S."
-
-</details>
-
-<details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
 
-**[00:43:35](/episodes/ep-HYn0P-P1wUw.md#ent-org-instagram-t-00-43-07)**
+**[00:43:35](/episodes/ep-HYn0P-P1wUw.md#ent-org-instagram-t-00-43-20)**
 > "...they released stuff on my old Instagram channels."
 
 </details>
 
 <details>
-<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (2 mentions)</summary>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
 
-**[00:31:23](/episodes/ep-OEAHy3SsIiI.md#ent-org-instagram-t-00-31-02)**
-> "They also did the same thing on Instagram."
-
-**[00:31:26](/episodes/ep-OEAHy3SsIiI.md#ent-org-instagram-t-00-31-02)**
+**[00:31:22](/episodes/ep-OEAHy3SsIiI.md#ent-org-instagram-t-00-31-16)**
 > "My old Instagram channel, they re-released my trailer from when I ..."
 
 </details>

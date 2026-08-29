@@ -1,6 +1,6 @@
 ---
 title: "Scooby-Doo"
-description: "Scooby-Doo (Works & Media) - 3 mentions"
+description: "Scooby-Doo (Works & Media) - 4 mentions"
 id: "work-scooby-doo"
 type: "WORK"
 categories:
@@ -17,9 +17,9 @@ Source: [Warner Bros. Television Announces Live-Action Scooby-Doo Series](https:
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#ent-work-scooby-doo-t-00-40-15">2026-02-10 · 00:40:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-qZ8RWfyuewQ.md#ent-work-scooby-doo-t-01-08-12">2026-04-29 · 01:08:12</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-work-scooby-doo-t-00-25-16">2026-08-11 · 00:25:16</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,6 +33,7 @@ Source: [Warner Bros. Television Announces Live-Action Scooby-Doo Series](https:
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-work-scooby-doo-t-00-40-15" style="--pulse-height:100%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-work-scooby-doo-t-00-17-01" style="--pulse-height:100%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-work-scooby-doo-t-01-08-12" style="--pulse-height:100%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-work-scooby-doo-t-00-25-16" style="--pulse-height:100%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -41,6 +42,7 @@ Source: [Warner Bros. Television Announces Live-Action Scooby-Doo Series](https:
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-work-scooby-doo-t-00-40-15) | 1 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-work-scooby-doo-t-00-17-01) | 1 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-work-scooby-doo-t-01-08-12) | 1 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-work-scooby-doo-t-00-25-16) | 1 |
 
 </details>
 </section>
@@ -48,7 +50,15 @@ Source: [Warner Bros. Television Announces Live-Action Scooby-Doo Series](https:
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
+
+**[00:25:16](/episodes/ep-HGtMfbePDKk.md#ent-work-scooby-doo-t-00-25-16)**
+> "...at is the literal meme of the Scooby-Doo cartoon villain. And so people published that. Tr..."
+
+</details>
 
 <details>
 <summary>TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 (1 mentions)</summary>

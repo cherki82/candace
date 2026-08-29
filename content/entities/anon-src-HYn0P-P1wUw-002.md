@@ -12,8 +12,8 @@ _Type: Anonymous Sources_
 **Also known as:** Chris
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-anon-src-HYn0P-P1wUw-002-t-00-59-21">2026-01-06 · 00:59:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-anon-src-HYn0P-P1wUw-002-t-00-59-21">2026-01-06 · 00:59:27</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-anon-src-HYn0P-P1wUw-002-t-00-59-20">2026-01-06 · 00:59:27</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-anon-src-HYn0P-P1wUw-002-t-00-59-20">2026-01-06 · 00:59:27</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -24,15 +24,15 @@ _Type: Anonymous Sources_
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-HYn0P-P1wUw.md#ent-anon-src-HYn0P-P1wUw-002-t-00-59-21">BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-HYn0P-P1wUw.md#ent-anon-src-HYn0P-P1wUw-002-t-00-59-20">BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-anon-src-HYn0P-P1wUw-002-t-00-59-21" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-anon-src-HYn0P-P1wUw-002-t-00-59-20" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-anon-src-HYn0P-P1wUw-002-t-00-59-21) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-anon-src-HYn0P-P1wUw-002-t-00-59-20) | 1 |
 
 </details>
 </section>
@@ -45,7 +45,7 @@ _Type: Anonymous Sources_
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
 
-**[00:59:27](/episodes/ep-HYn0P-P1wUw.md#ent-anon-src-HYn0P-P1wUw-002-t-00-59-21)**
+**[00:59:27](/episodes/ep-HYn0P-P1wUw.md#ent-anon-src-HYn0P-P1wUw-002-t-00-59-20)**
 > "Chris (off-camera producer; full name not stated)?"
 
 </details>

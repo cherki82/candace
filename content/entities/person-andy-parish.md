@@ -3,9 +3,18 @@ title: "Andy Parish"
 description: "Andy Parish (People) - 1 mention"
 id: "person-andy-parish"
 type: "PERSON"
+categories:
+  - "former legislative staffer"
+  - "source-local identified person"
 ---
 
 _Type: People_
+
+**Categories:** former legislative staffer, source-local identified person
+
+**Entity verification:** verified
+> The episode transcript identifies Andy Parish as a former chief of staff. This is narrow source-context verification only.
+Source: [Charlie Kirk And Brigitte's Legionnaires — source episode](https://www.youtube.com/watch?v=tB5SXXmd9vU)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-andy-parish-t-00-20-29">2025-12-01 · 00:20:56</a></strong></div>

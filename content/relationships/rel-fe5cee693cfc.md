@@ -1,15 +1,15 @@
 ---
-title: "France location of Satis"
-description: "Evidence for the relationship: France location of Satis"
+title: "France location of Satys"
+description: "Evidence for the relationship: France location of Satys"
 relationship_id: "rel-fe5cee693cfc"
 subject: "gpe-france"
 predicate: "location of"
-object: "org-satis"
+object: "org-satys"
 ---
 
 > **Note:** Relationships between entities are inferred automatically using AI analysis of transcript context.
 
-## [France](/entities/gpe-france) location of [Satis](/entities/org-satis)
+## [France](/entities/gpe-france) location of [Satys](/entities/org-satys)
 
 ### Evidence (1 mentions)
 
@@ -20,4 +20,4 @@ object: "org-satis"
 ### Related
 
 - [France](/entities/gpe-france)
-- [Satis](/entities/org-satis)
+- [Satys](/entities/org-satys)

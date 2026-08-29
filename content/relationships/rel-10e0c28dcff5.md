@@ -11,7 +11,11 @@ object: "gpe-united-states"
 
 ## [Donald J. Trump](/entities/person-donald-trump) president of [United States](/entities/gpe-united-states)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
+
+**[VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg)**
+
+- [00:44:18](/episodes/ep-1CFDtD0IgEg#t-00-44-18): _they're telling Trump (Donald J. Trump) who's already done this to arm protesters in Iran. ... These are the people that are advising the president of the United States who actually believe that they were going to take Iran in two weeks._
 
 **[REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w)**
 
@@ -27,7 +31,7 @@ object: "gpe-united-states"
 
 **[SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q)**
 
-- [00:53:28](/episodes/ep-q1NRQQAYS_Q#t-00-53-28): _You know, somehow bear more weight if the president of the United States says it actually make it diminishes it. It diminishes it. That's not like you want Trump to mention your company._
+- [00:53:28](/episodes/ep-q1NRQQAYS_Q#t-00-53-28): _You know, somehow bear more weight if the president of the United States says it actually make it diminishes it. It diminishes it. That's not like you want Trump (Donald J. Trump) to mention your company._
 
 ### Related
 

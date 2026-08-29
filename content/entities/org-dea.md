@@ -6,11 +6,19 @@ type: "ORG"
 aliases:
   - "Drug Enforcement Administration"
   - "DEA"
+categories:
+  - "U.S. law enforcement agency"
 ---
 
 _Type: Organizations_
 
 **Also known as:** Drug Enforcement Administration, DEA
+
+**Categories:** U.S. law enforcement agency
+
+**Entity verification:** verified
+> Canonical name and identity for DEA confirmed by the cited direct external source.
+Source: [Who We Are - DEA](https://www.dea.gov/who-we-are)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-SKGUzGHymcI.md#ent-org-dea-t-00-11-00">2025-11-19 · 00:11:00</a></strong></div>
@@ -137,7 +145,7 @@ _Type: Organizations_
 - [00:11:00](/episodes/ep-SKGUzGHymcI.md#t-00-10-15) (Claim) **Candace Owens**: ["The DEA and United States Secret Service are both currently located at..."](/statements/statement-b9552222e57e.md)
   - Also about: [United States Secret Service](/entities/org-united-states-secret-service.md), [Wilmington](/entities/gpe-wilmington.md)
 
-- [00:15:36](/episodes/ep-SKGUzGHymcI.md#t-00-14-53) (Claim) **Candace Owens**: ["920 North King Street in Wilmington is a joint DOJ-DHS site that house..."](/statements/statement-ecdfdd6a0965.md)
+- [00:16:00](/episodes/ep-SKGUzGHymcI.md#t-00-15-37) (Claim) **Candace Owens**: ["Candace Owens said 920 North King Street in Wilmington appeared to be ..."](/statements/statement-ecdfdd6a0965.md)
   - Also about: [FBI](/entities/org-fbi.md), [United States Secret Service](/entities/org-united-states-secret-service.md), [Wilmington](/entities/gpe-wilmington.md)
 
 - [00:22:01](/episodes/ep-SKGUzGHymcI.md#t-00-21-36) (Claim) **Candace Owens**: ["The government agencies involved in the Egyptian plane operations conf..."](/statements/statement-709846473549.md)

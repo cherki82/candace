@@ -1,6 +1,6 @@
 ---
 title: "Canada"
-description: "Canada (Places) - 25 mentions"
+description: "Canada (Places) - 27 mentions"
 id: "gpe-canada"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [Government of Canada](https://www.canada.ca/en.html)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-canada-t-00-13-27">2025-09-11 · 00:13:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-canada-t-01-04-41">2026-05-19 · 01:04:41</a></strong></div>
-<div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-gpe-canada-t-00-47-47">2026-08-11 · 00:47:47</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>27</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -49,6 +49,8 @@ Source: [Government of Canada](https://www.canada.ca/en.html)
 <a href="/episodes/ep-SubDoZWHARo.md#ent-gpe-canada-t-00-37-22" style="--pulse-height:67%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-canada-t-00-54-15" style="--pulse-height:33%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-canada-t-01-03-31" style="--pulse-height:100%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 3 mentions" title="2026-05-19 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-canada-t-00-54-42" style="--pulse-height:33%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-gpe-canada-t-00-47-47" style="--pulse-height:33%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -73,6 +75,8 @@ Source: [Government of Canada](https://www.canada.ca/en.html)
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-gpe-canada-t-00-37-22) | 2 |
 | 2026-05-13 | [September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337](/episodes/ep-4DvYXBn_5JI.md#ent-gpe-canada-t-00-54-15) | 1 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-canada-t-01-03-31) | 3 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-canada-t-00-54-42) | 1 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-gpe-canada-t-00-47-47) | 1 |
 
 </details>
 </section>
@@ -80,7 +84,23 @@ Source: [Government of Canada](https://www.canada.ca/en.html)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (27)</strong></summary>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
+
+**[00:47:47](/episodes/ep-HGtMfbePDKk.md#ent-gpe-canada-t-00-47-47)**
+> "... do you mean? The lawyer from Canada says it's the opposite, that the cars that look s..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
+
+**[00:55:19](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-canada-t-00-54-42)**
+> "Of course, the CIA crew neck, Canada's intelligent agency is how we got here. That's a classic. I'd get that."
+
+</details>
 
 <details>
 <summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (3 mentions)</summary>

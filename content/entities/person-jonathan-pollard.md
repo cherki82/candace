@@ -3,11 +3,19 @@ title: "Jonathan Pollard"
 description: "Jonathan Pollard (People) - 3 mentions"
 id: "person-jonathan-pollard"
 type: "PERSON"
+categories:
+  - "criminal case subject"
 ---
 
 _Type: People_
 
+**Categories:** criminal case subject
+
 > **Possibly overlapping entity records:** [Jonathan Jay Pollard](/entities/person-jonathan-jay-pollard). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> Canonical name and identity for Jonathan Pollard confirmed by the cited direct external source.
+Source: [Jonathan Pollard](https://en.wikipedia.org/wiki/Jonathan_Pollard)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-person-jonathan-pollard-t-00-26-11">2025-11-21 · 00:26:26</a></strong></div>

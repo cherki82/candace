@@ -32,7 +32,7 @@ veracity: "true"
 **Timestamp:** [00:33:31](/episodes/ep-CMcktj3Egfo.md#t-00-33-15) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2011);return false;">Play</a>
 
-> It’s not because of the fact that tens of thousands of innocent Palestinians have been killed.
+> It's not that they're being accused by their own people of conducting and covering up these sex rituals against children in their forests. It's not because of the fact that tens of thousands of innocent Palestinians have been killed.
 
 ## Verification
 

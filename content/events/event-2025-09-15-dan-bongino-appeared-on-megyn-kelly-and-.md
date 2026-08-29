@@ -11,7 +11,7 @@ date: "2025-09-15"
 
 > Dan Bongino appeared on Megyn Kelly and discussed grainy footage and the screwdriver.
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Ch...
 
@@ -28,3 +28,11 @@ date: "2025-09-15"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(724);return false;">▶️ Play</a>
 
 > Dan Bongino joined Megyn Kelly. I want you to understand this is on September 15th.
+
+### 3. VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In Th...
+
+**Episode:** [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md)
+**Timestamp:** [00:17:56](/episodes/ep-1CFDtD0IgEg.md#event-event-2025-09-15-dan-bongino-appeared-on-megyn-kelly-and--t-00-17-38) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1076);return false;">▶️ Play</a>
+
+> four days later we hear from Kash Patel and Dan Bongino and they clarify that

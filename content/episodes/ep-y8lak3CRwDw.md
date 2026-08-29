@@ -520,7 +520,7 @@ youtube_url: "https://www.youtube.com/watch?v=y8lak3CRwDw"
 - [00:31:12](#t-00-31-12) [◐] (Accusation) **Candace Owens**: ["Major General Hugo E. Salazar formerly worked in narcotics and was accused by pe..."](/statements/statement-cfba3f58e6a1.md)
   - About: [Hugo E. Salazar](/entities/person-hugo-e-salazar.md), [Arizona](/entities/gpe-arizona.md)
 - [00:33:09](#t-00-33-09) [✓] (Claim) **Tyler Bowyer**: ["Tyler Bowyer said Erika Kirk called him before Donald Trump's first Arizona rall..."](/statements/statement-30810f35d750.md)
-  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
+  - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 - [00:33:27](#t-00-33-09) [○] (Claim) **Candace Owens**: ["Candace Owens said Erika Kirk told her that she thought she knew Tyler Bowyer th..."](/statements/statement-3686a84f048d.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Arizona](/entities/gpe-arizona.md)
 - [00:38:33](#t-00-38-19) [○] (Accusation) **Candace Owens**: ["Some mass shootings may be military or politically guided hits that are blamed o..."](/statements/statement-c2dc1f5bf4dc.md)

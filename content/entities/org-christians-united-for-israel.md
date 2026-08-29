@@ -1,6 +1,6 @@
 ---
 title: "Christians United for Israel"
-description: "Christians United for Israel (Organizations) - 1 mention"
+description: "Christians United for Israel (Organizations) - 2 mentions"
 id: "org-christians-united-for-israel"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [Our Leadership | Christians United for Israel](https://cufi.org/about/l
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-org-christians-united-for-israel-t-00-24-27">2026-05-07 · 00:24:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-FFQ9675oqRI.md#ent-org-christians-united-for-israel-t-00-24-27">2026-05-07 · 00:24:44</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HZvwbfePe7o.md#ent-org-christians-united-for-israel-t-00-43-03">2026-07-27 · 00:43:03</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -36,12 +36,14 @@ Source: [Our Leadership | Christians United for Israel](https://cufi.org/about/l
 <p>Highest activity: <a href="/episodes/ep-FFQ9675oqRI.md#ent-org-christians-united-for-israel-t-00-24-27">STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-FFQ9675oqRI.md#ent-org-christians-united-for-israel-t-00-24-27" style="--pulse-height:100%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-org-christians-united-for-israel-t-00-43-03" style="--pulse-height:100%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-05-07 | [STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335](/episodes/ep-FFQ9675oqRI.md#ent-org-christians-united-for-israel-t-00-24-27) | 1 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-org-christians-united-for-israel-t-00-43-03) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [Our Leadership | Christians United for Israel](https://cufi.org/about/l
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (1 mentions)</summary>
+
+**[00:43:03](/episodes/ep-HZvwbfePe7o.md#ent-org-christians-united-for-israel-t-00-43-03)**
+> "Christians United for Israel. This is actually him. All he cares about is Israel, and that is why Erika (Erika Kirk) has partnered with him, because it is all she cares about, apparently. And he is not representing what Charlie (Charlie Kirk) was going through for the last year and a half of his life—the pressure he was under since October 7. That is when they all got really insane, demanding, and more controlling. Charlie (Charlie Kirk) snapped at the end and said, “I am done. Take the money. Keep the money.”"
+
+</details>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1 mentions)</summary>

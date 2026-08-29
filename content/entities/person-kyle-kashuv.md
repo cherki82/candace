@@ -3,9 +3,18 @@ title: "Kyle Kashuv"
 description: "Kyle Kashuv (People) - 1 mention"
 id: "person-kyle-kashuv"
 type: "PERSON"
+categories:
+  - "activist"
+  - "public figure"
 ---
 
 _Type: People_
+
+**Categories:** activist, public figure
+
+**Entity verification:** verified
+> The episode transcript supports the Kyle Kashuv name used in this source. This narrow identity verification does not validate surrounding claims.
+Source: [TPUSA Wants Us To Stop Asking Questions — source episode](https://www.youtube.com/watch?v=ozWJz2spBcI)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-person-kyle-kashuv-t-00-04-58">2025-10-06 · 00:05:20</a></strong></div>

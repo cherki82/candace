@@ -1,6 +1,6 @@
 ---
-title: "The eventual outcome for Venezuela after Nicolás Maduro's re..."
-description: "\"The eventual outcome for Venezuela after Nicolás Maduro's removal will not be preferable.\" — Candace Owens"
+title: "Candace Owens said she believed the eventual outcome for Ven..."
+description: "\"Candace Owens said she believed the eventual outcome for Venezuela would not be preferable.\" — Candace Owens"
 statement_id: "statement-aa92008eb9de"
 speaker: "Candace Owens"
 type: "prediction"
@@ -10,7 +10,7 @@ type: "prediction"
 
 ## Statement
 
-> The eventual outcome for Venezuela after Nicolás Maduro's removal will not be preferable.
+> Candace Owens said she believed the eventual outcome for Venezuela would not be preferable.
 
 ## Attribution
 
@@ -25,7 +25,7 @@ type: "prediction"
 ## Source
 
 **Episode:** [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md)
-**Timestamp:** [01:04:40](/episodes/ep-OEAHy3SsIiI.md#t-01-04-36) 
+**Timestamp:** [01:04:40](/episodes/ep-OEAHy3SsIiI.md#t-01-04-13) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3880);return false;">Play</a>
 
 > And in this circumstance, I believe that the end verdict for Venezuela is not going to be preferred.

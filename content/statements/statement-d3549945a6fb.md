@@ -31,7 +31,7 @@ type: "factual_claim"
 **Timestamp:** [00:05:48](/episodes/ep-mKXdKV-OBog.md#t-00-05-45) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(348);return false;">Play</a>
 
-> 4th. You might recall it stopped for just one hour in Minot, North Dakota, which I learned has an Air Force base. It
+> into that one-hour layover stop when our yellow plane, SUBTT—the tail number—came into the United States on September 4th. ... it stopped for just one hour in Minot, North Dakota ... before making its way onto Provo.
 
 ## Verification
 

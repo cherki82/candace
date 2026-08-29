@@ -1,14 +1,14 @@
 ---
 id: "r1PS67aRmcA"
 title: "Ben Shapiro Is Crying Again. | Candace Ep 261"
-description: "Ben Shapiro Is Crying Again. | Candace Ep 261 - 74 entities, 7 events, 13 factual claims"
+description: "Ben Shapiro Is Crying Again. | Candace Ep 261 - 72 entities, 7 events, 13 factual claims"
 published: "2025-11-08"
 youtube_url: "https://www.youtube.com/watch?v=r1PS67aRmcA"
 ---
 
 **Published:** 2025-11-08 | [Watch on YouTube](https://www.youtube.com/watch?v=r1PS67aRmcA)
 
-**Stats:** 74 entities | 7 events | 13 factual claims
+**Stats:** 72 entities | 7 events | 13 factual claims
 
 ---
 
@@ -256,7 +256,7 @@ youtube_url: "https://www.youtube.com/watch?v=r1PS67aRmcA"
 </details>
 
 <details>
-<summary><strong>Entities Mentioned (74)</strong></summary>
+<summary><strong>Entities Mentioned (72)</strong></summary>
 
 **Anonymous Sources:** [Student (Ep r1PS67aRmcA)](/entities/anon-src-r1PS67aRmcA-legacy-32c0570b.md)
 
@@ -272,7 +272,7 @@ youtube_url: "https://www.youtube.com/watch?v=r1PS67aRmcA"
 
 **Organizations:** [American Financing](/entities/org-american-financing.md), [Anti-Defamation League](/entities/org-anti-defamation-league.md), [Auburn University](/entities/org-auburn-university.md), [Black Lives Matter](/entities/org-black-lives-matter.md), [CDC](/entities/org-cdc.md), [CNN](/entities/org-cnn.md), [Democratic Socialists of America](/entities/org-democratic-socialists-of-america.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [National Review](/entities/org-national-review.md), [Riverbend Ranch](/entities/org-riverbend-ranch.md), [The Daily Wire](/entities/org-the-daily-wire.md), [The Wellness Company](/entities/org-the-wellness-company.md), [TikTok](/entities/org-tiktok.md), [Turning Point USA](/entities/org-turning-point-usa.md), [White House](/entities/org-white-house.md), [Young America's Foundation](/entities/org-young-americas-foundation.md), [Young Women's Leadership Summit](/entities/org-ywls.md)
 
-**People:** [Al Sharpton](/entities/person-al-sharpton.md), [Alyssa Cordova](/entities/person-alyssa-cordova.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Eric Trump](/entities/person-eric-trump.md), [Erika Kirk](/entities/person-erika-kirk.md), [Harry](/entities/person-harry.md), [Ivanka Trump](/entities/person-ivanka-trump.md), [Jared Kushner](/entities/person-jared-kushner.md), [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Jesus Christ](/entities/person-jesus-christ.md), [Lara Trump](/entities/person-lara-trump.md), [Lauren Chen](/entities/person-lauren-chen.md), [Marjorie Taylor Greene](/entities/person-marjorie-taylor-greene.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Melissa](/entities/person-melissa.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Randy Fine](/entities/person-randy-fine.md), [Ron Paul](/entities/person-ron-paul.md), [Seth Dillon](/entities/person-seth-dillon.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Zohran Mamdani](/entities/person-zohran-mamdani.md)
+**People:** [Al Sharpton](/entities/person-al-sharpton.md), [Alyssa Cordova](/entities/person-alyssa-cordova.md), [Ben Shapiro](/entities/person-ben-shapiro.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md), [Eric Trump](/entities/person-eric-trump.md), [Erika Kirk](/entities/person-erika-kirk.md), [Ivanka Trump](/entities/person-ivanka-trump.md), [Jared Kushner](/entities/person-jared-kushner.md), [Jeremy Boreing](/entities/person-jeremy-boreing.md), [Jesus Christ](/entities/person-jesus-christ.md), [Lara Trump](/entities/person-lara-trump.md), [Lauren Chen](/entities/person-lauren-chen.md), [Marjorie Taylor Greene](/entities/person-marjorie-taylor-greene.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Nick Fuentes](/entities/person-nick-fuentes.md), [Randy Fine](/entities/person-randy-fine.md), [Ron Paul](/entities/person-ron-paul.md), [Seth Dillon](/entities/person-seth-dillon.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Zohran Mamdani](/entities/person-zohran-mamdani.md)
 
 **Vehicles:** [USS Liberty](/entities/vehicle-uss-liberty.md)
 
@@ -300,7 +300,7 @@ youtube_url: "https://www.youtube.com/watch?v=r1PS67aRmcA"
   - About: [Ben Shapiro](/entities/person-ben-shapiro.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 - [00:23:27](#t-00-23-01) [✓] (Prediction) **Candace Owens**: ["I sense that the pro-Israel lobby is on the brink of collapse."](/statements/statement-3b1dbe88d273.md)
   - About: [Israel lobby](/entities/concept-israel-lobby.md)
-- [00:25:18](#t-00-25-16) [✓] (Claim) **Candace Owens**: ["I spoke at TPUSA’s 2024 Young Women’s Leadership Summit on June 7, about eleven ..."](/statements/statement-88c57051e040.md)
+- [00:25:18](#t-00-25-16) [✓] (Claim) **Candace Owens**: ["Candace Owens said she spoke at TPUSA's 2024 Young Women's Leadership Summit sho..."](/statements/statement-88c57051e040.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [Turning Point USA](/entities/org-turning-point-usa.md), [The Daily Wire](/entities/org-the-daily-wire.md)
 - [00:25:36](#t-00-25-16) [✓] (Claim) **Candace Owens**: ["a covert mission was happening where they were sending an intern to ask me a que..."](/statements/statement-cc97eac4b14e.md)
 - [00:39:43](#t-00-39-41) [✓] (Claim) **Student (Ep r1PS67aRmcA)**: ["your father has taken over $230 million from pro-Israel groups."](/statements/statement-33593241334a.md)

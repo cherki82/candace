@@ -1,6 +1,6 @@
 ---
 title: "Walt Disney World Resort"
-description: "Walt Disney World Resort (Organizations) - 7 mentions"
+description: "Walt Disney World Resort (Organizations) - 6 mentions"
 id: "org-walt-disney-world-resort"
 type: "ORG"
 aliases:
@@ -25,7 +25,7 @@ Source: [Walt Disney World Resort - Official Site](https://disneyworld.disney.go
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-walt-disney-world-resort-t-00-04-13">2026-01-05 · 00:04:18</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-1QZ4X6q1DPg.md#ent-org-walt-disney-world-resort-t-00-48-33">2026-05-18 · 00:48:33</a></strong></div>
 <div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>6</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -34,9 +34,9 @@ Source: [Walt Disney World Resort - Official Site](https://disneyworld.disney.go
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-walt-disney-world-resort-t-00-04-13">You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-7ERqbYElOfs.md#ent-org-walt-disney-world-resort-t-00-43-36">The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-walt-disney-world-resort-t-00-04-13" style="--pulse-height:100%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-walt-disney-world-resort-t-00-04-13" style="--pulse-height:50%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-org-walt-disney-world-resort-t-00-09-30" style="--pulse-height:50%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-walt-disney-world-resort-t-00-44-37" style="--pulse-height:50%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-org-walt-disney-world-resort-t-00-43-36" style="--pulse-height:100%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
@@ -46,7 +46,7 @@ Source: [Walt Disney World Resort - Official Site](https://disneyworld.disney.go
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-walt-disney-world-resort-t-00-04-13) | 2 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-walt-disney-world-resort-t-00-04-13) | 1 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-walt-disney-world-resort-t-00-09-30) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-walt-disney-world-resort-t-00-44-37) | 1 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-walt-disney-world-resort-t-00-43-36) | 2 |
@@ -58,7 +58,7 @@ Source: [Walt Disney World Resort - Official Site](https://disneyworld.disney.go
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (6)</strong></summary>
 
 <details>
 <summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (1 mentions)</summary>
@@ -96,12 +96,9 @@ Source: [Walt Disney World Resort - Official Site](https://disneyworld.disney.go
 </details>
 
 <details>
-<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (2 mentions)</summary>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
 
 **[00:04:18](/episodes/ep-OEAHy3SsIiI.md#ent-org-walt-disney-world-resort-t-00-04-13)**
-> "Disney World for adults because that's what Las Vegas is."
-
-**[00:04:21](/episodes/ep-OEAHy3SsIiI.md#ent-org-walt-disney-world-resort-t-00-04-13)**
 > "It's like Disney World for adults or rather adults at Disney World with ..."
 
 </details>

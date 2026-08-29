@@ -33,10 +33,10 @@ Source: [President Trump Announces Appointments to the White House Faith Office]
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-paula-white-cain-t-00-50-35">Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323</a> (5 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-paula-white-cain-t-00-50-43">Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-paula-white-cain-t-01-02-09" style="--pulse-height:20%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-paula-white-cain-t-00-50-35" style="--pulse-height:100%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 5 mentions" title="2026-04-13 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-paula-white-cain-t-00-50-43" style="--pulse-height:100%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 5 mentions" title="2026-04-13 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-paula-white-cain-t-00-39-17" style="--pulse-height:20%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -44,7 +44,7 @@ Source: [President Trump Announces Appointments to the White House Faith Office]
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-paula-white-cain-t-01-02-09) | 1 |
-| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-paula-white-cain-t-00-50-35) | 5 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-paula-white-cain-t-00-50-43) | 5 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-paula-white-cain-t-00-39-17) | 1 |
 
 </details>
@@ -66,10 +66,10 @@ Source: [President Trump Announces Appointments to the White House Faith Office]
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (5 mentions)</summary>
 
-**[00:51:10](/episodes/ep-eLgD5yUVbko.md#ent-person-paula-white-cain-t-00-50-35)**
+**[00:51:10](/episodes/ep-eLgD5yUVbko.md#ent-person-paula-white-cain-t-00-50-43)**
 > "Paula White"
 
-**[00:51:32](/episodes/ep-eLgD5yUVbko.md#ent-person-paula-white-cain-t-00-51-17)**
+**[00:51:32](/episodes/ep-eLgD5yUVbko.md#ent-person-paula-white-cain-t-00-51-25)**
 > "...like i'm advising him you got paula white who's telling him he's akin to jesus christ which..."
 
 **[00:55:21](/episodes/ep-eLgD5yUVbko.md#ent-person-paula-white-cain-t-00-55-21)**

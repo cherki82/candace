@@ -18,7 +18,7 @@ Source: [Nicholas Hagger | The Secret Founding of America](https://www.nicholash
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-nicholas-hagger-t-00-54-02">2026-02-13 · 00:54:02</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-UYkXV9mYbT4.md#t-01-03-14">2026-03-31 · 01:03:49</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-nicholas-hagger-t-01-03-14">2026-03-31 · 01:03:49</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -33,7 +33,7 @@ Source: [Nicholas Hagger | The Secret Founding of America](https://www.nicholash
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-nicholas-hagger-t-00-54-02" style="--pulse-height:50%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-nicholas-hagger-t-01-01-16" style="--pulse-height:100%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-UYkXV9mYbT4.md#t-01-03-14" style="--pulse-height:50%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-nicholas-hagger-t-01-03-14" style="--pulse-height:50%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -41,7 +41,7 @@ Source: [Nicholas Hagger | The Secret Founding of America](https://www.nicholash
 |---|---|---:|
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-nicholas-hagger-t-00-54-02) | 1 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-person-nicholas-hagger-t-01-01-16) | 2 |
-| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#t-01-03-14) | 1 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-nicholas-hagger-t-01-03-14) | 1 |
 
 </details>
 </section>
@@ -54,8 +54,8 @@ Source: [Nicholas Hagger | The Secret Founding of America](https://www.nicholash
 <details>
 <summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1 mentions)</summary>
 
-**[01:03:49](/episodes/ep-UYkXV9mYbT4.md#t-01-03-14)**
-> "Nicholas Hager"
+**[01:03:49](/episodes/ep-UYkXV9mYbT4.md#ent-person-nicholas-hagger-t-01-03-14)**
+> "Otherwise, yeah, there's tons of stuff. You can also join the book club where we're getting a lot deeper on this Freemasonry stuff right now as we are reading The Secret Founding of America by Nicholas Hagger."
 
 </details>
 
@@ -90,7 +90,7 @@ Source: [Nicholas Hagger | The Secret Founding of America](https://www.nicholash
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:01:59](/episodes/ep-DdPjoy5W-wY.md#t-01-01-59): “The Secret Founding of America by Nicholas Hagger”
-- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 01:03:49](/episodes/ep-UYkXV9mYbT4.md#t-01-03-14): “Otherwise, yeah, there's tons of stuff. You can also join the book club where we're getting a lot deeper on this Freemasonry stuff right now as we are reading The Secret Founding of America by Nicholas Hager.”
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 01:03:49](/episodes/ep-UYkXV9mYbT4.md#t-01-03-14): “Otherwise, yeah, there's tons of stuff. You can also join the book club where we're getting a lot deeper on this Freemasonry stuff right now as we are reading The Secret Founding of America by Nicholas Hagger.”
 
 </details>
 
@@ -103,7 +103,7 @@ Source: [Nicholas Hagger | The Secret Founding of America](https://www.nicholash
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 01:01:59](/episodes/ep-DdPjoy5W-wY.md#t-01-01-59): “The Secret Founding of America by Nicholas Hagger”
-- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 01:03:49](/episodes/ep-UYkXV9mYbT4.md#t-01-03-14): “Otherwise, yeah, there's tons of stuff. You can also join the book club where we're getting a lot deeper on this Freemasonry stuff right now as we are reading The Secret Founding of America by Nicholas Hager.”
+- [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 @ 01:03:49](/episodes/ep-UYkXV9mYbT4.md#t-01-03-14): “Otherwise, yeah, there's tons of stuff. You can also join the book club where we're getting a lot deeper on this Freemasonry stuff right now as we are reading The Secret Founding of America by Nicholas Hagger.”
 
 </details>
 

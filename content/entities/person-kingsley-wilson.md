@@ -3,9 +3,18 @@ title: "Kingsley Wilson"
 description: "Kingsley Wilson (People) - 2 mentions"
 id: "person-kingsley-wilson"
 type: "PERSON"
+categories:
+  - "United States government communications"
+  - "Pentagon press secretary"
 ---
 
 _Type: People_
+
+**Categories:** United States government communications, Pentagon press secretary
+
+**Entity verification:** verified
+> The official biography confirms the canonical name and Pentagon press-secretary role.
+Source: [Kingsley Wilson — official biography](https://www.war.gov/About/Biographies/Biography/Article/4261363/kingsley-wilson/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-his-JBjlkh8.md#ent-person-kingsley-wilson-t-00-40-39">2025-12-03 · 00:40:51</a></strong></div>

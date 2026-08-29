@@ -31,7 +31,7 @@ type: "factual_claim"
 **Timestamp:** [00:13:36](/episodes/ep-UYkXV9mYbT4.md#t-00-13-23) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(816);return false;">Play</a>
 
-> Andrew and I took meticulous notes and I would be willing to testify under oath regarding what I was told from Andrew Crow that he told me that the bullet traveled I'm going to show you this so in case you're like me and you don't know about the vertebrae in the neck that it traveled from c2 okay think about the entry point it's almost upward down to c6 and then it moved downward into Charlie's thorax Where it was shattered.
+> Andrew (Andrew Kolvet) and I took meticulous notes and I would be willing to testify under oath regarding what I was told from Andrew Kolvet that he told me that the bullet traveled I'm going to show you this so in case you're like me and you don't know about the vertebrae in the neck that it traveled from c2 okay think about the entry point it's almost upward down to c6 and then it moved downward into Charlie (Charlie Kirk)'s thorax Where it was shattered.
 
 ## Verification
 

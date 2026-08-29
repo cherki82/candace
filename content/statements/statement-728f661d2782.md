@@ -26,7 +26,7 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
-**Timestamp:** [00:13:07](/episodes/ep-HYn0P-P1wUw.md#t-00-12-29) 
+**Timestamp:** [00:13:07](/episodes/ep-HYn0P-P1wUw.md#t-00-12-52) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(787);return false;">Play</a>
 
 > We can also tell you that Tyler Robinson called out of work on the 11th. That's another story I'm breaking here. He was citing food poisoning. He called out of work very early in the morning on the 11th, and he also called out of work on the 10th saying that he had to help his grandmother move furniture.

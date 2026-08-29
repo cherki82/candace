@@ -1,6 +1,6 @@
 ---
 title: "New Zealand"
-description: "New Zealand (Places) - 8 mentions"
+description: "New Zealand (Places) - 10 mentions"
 id: "gpe-new-zealand"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [New Zealand Government](https://www.govt.nz/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-new-zealand-t-00-42-51">2025-11-21 · 00:42:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-gpe-new-zealand-t-01-15-21">2026-07-14 · 01:15:45</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-new-zealand-t-00-34-47">2026-08-21 · 00:34:47</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,6 +35,8 @@ Source: [New Zealand Government](https://www.govt.nz/)
 <a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-new-zealand-t-00-39-29" style="--pulse-height:100%" aria-label="Myron Gaines x Candace Owens: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-gpe-new-zealand-t-00-46-11" style="--pulse-height:33%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-gpe-new-zealand-t-01-15-21" style="--pulse-height:33%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-gpe-new-zealand-t-00-49-55" style="--pulse-height:33%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-new-zealand-t-00-34-47" style="--pulse-height:33%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +46,8 @@ Source: [New Zealand Government](https://www.govt.nz/)
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-new-zealand-t-00-39-29) | 3 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-gpe-new-zealand-t-00-46-11) | 1 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-gpe-new-zealand-t-01-15-21) | 1 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-new-zealand-t-00-49-55) | 1 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-gpe-new-zealand-t-00-34-47) | 1 |
 
 </details>
 </section>
@@ -51,7 +55,23 @@ Source: [New Zealand Government](https://www.govt.nz/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
+
+**[00:34:47](/episodes/ep-_cNtgris8Ik.md#ent-gpe-new-zealand-t-00-34-47)**
+> "...was a Christchurch shooter in New Zealand that like said she was this guy was inspired by C..."
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>
+
+**[00:50:03](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-new-zealand-t-00-49-55)**
+> "...ee the truth all the way from New Zealand."
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>

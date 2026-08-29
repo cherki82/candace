@@ -25,13 +25,23 @@ veracity: "true"
 
 - [Chris Bagley](/entities/person-chris-bagley.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Ch...
 
 **Episode:** [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md)
 **Timestamp:** [00:06:09](/episodes/ep-mLvJqdxS-FY.md#t-00-06-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(369);return false;">Play</a>
 
 > Usually dock it, but no, I didn't go back. It was too chaotic running around.
+
+### 2. Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On Th...
+
+**Episode:** [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md)
+**Timestamp:** [00:11:40](/episodes/ep-AH1KVKkweUE.md#t-00-11-30) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(700);return false;">Play</a>
+
+> Usually dock it, but no, I didn't go back. I was too chaotic running around.
 
 ## Verification
 

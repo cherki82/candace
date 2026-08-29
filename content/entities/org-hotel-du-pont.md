@@ -3,9 +3,17 @@ title: "Hotel du Pont"
 description: "Hotel du Pont (Organizations) - 1 mention"
 id: "org-hotel-du-pont"
 type: "ORG"
+categories:
+  - "hotel"
 ---
 
 _Type: Organizations_
+
+**Categories:** hotel
+
+**Entity verification:** verified
+> Canonical name and identity for Hotel du Pont confirmed by the cited direct external source.
+Source: [Hotel du Pont](https://www.hoteldupont.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-hotel-du-pont-t-00-44-08">2025-12-01 · 00:44:24</a></strong></div>

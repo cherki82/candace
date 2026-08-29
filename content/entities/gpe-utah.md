@@ -1,6 +1,6 @@
 ---
 title: "Utah"
-description: "Utah (Places) - 323 mentions"
+description: "Utah (Places) - 392 mentions"
 id: "gpe-utah"
 type: "GPE"
 aliases:
@@ -21,12 +21,12 @@ Source: [State of Utah official website](https://utah.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-utah-t-00-05-31">2025-09-16 · 00:05:52</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-03-48-13">2026-08-14 · 03:48:13</a></strong></div>
-<div><span>Episodes</span><strong>73</strong></div>
-<div><span>Mentions</span><strong>323</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-utah-t-00-05-31">2026-08-21 · 00:05:56</a></strong></div>
+<div><span>Episodes</span><strong>86</strong></div>
+<div><span>Mentions</span><strong>392</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>19</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Statements about</span><strong>24</strong></div>
+<div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -106,7 +106,20 @@ Source: [State of Utah official website](https://utah.gov/)
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-gpe-utah-t-00-13-18" style="--pulse-height:28%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 5 mentions" title="2026-07-21 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-gpe-utah-t-00-28-01" style="--pulse-height:8%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-gpe-utah-t-00-39-28" style="--pulse-height:17%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 3 mentions" title="2026-07-23 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-gpe-utah-t-00-41-47" style="--pulse-height:22%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 4 mentions" title="2026-07-27 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-utah-t-00-06-35" style="--pulse-height:11%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 2 mentions" title="2026-07-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-gpe-utah-t-00-14-42" style="--pulse-height:22%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 4 mentions" title="2026-07-30 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-gpe-utah-t-00-02-12" style="--pulse-height:67%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 12 mentions" title="2026-07-31 · 12 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-utah-t-00-20-04" style="--pulse-height:28%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 5 mentions" title="2026-08-03 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-gpe-utah-t-00-08-45" style="--pulse-height:28%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 5 mentions" title="2026-08-04 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-utah-t-00-08-53" style="--pulse-height:17%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 3 mentions" title="2026-08-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#ent-gpe-utah-t-00-20-42" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-00-52-44" style="--pulse-height:94%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 17 mentions" title="2026-08-14 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-gpe-utah-t-00-28-06" style="--pulse-height:94%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 17 mentions" title="2026-08-14 · 17 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-gpe-utah-t-00-27-15" style="--pulse-height:22%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 4 mentions" title="2026-08-17 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-gpe-utah-t-00-24-37" style="--pulse-height:28%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 5 mentions" title="2026-08-18 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-gpe-utah-t-00-07-16" style="--pulse-height:28%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 5 mentions" title="2026-08-19 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-utah-t-00-05-31" style="--pulse-height:11%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -184,7 +197,20 @@ Source: [State of Utah official website](https://utah.gov/)
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-gpe-utah-t-00-13-18) | 5 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-gpe-utah-t-00-28-01) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-gpe-utah-t-00-39-28) | 3 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-gpe-utah-t-00-41-47) | 4 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-utah-t-00-06-35) | 2 |
+| 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-gpe-utah-t-00-14-42) | 4 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-gpe-utah-t-00-02-12) | 12 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-gpe-utah-t-00-20-04) | 5 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-utah-t-00-08-45) | 5 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-gpe-utah-t-00-08-53) | 3 |
+| 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-gpe-utah-t-00-20-42) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-00-52-44) | 17 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-utah-t-00-28-06) | 17 |
+| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-gpe-utah-t-00-27-15) | 4 |
+| 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-gpe-utah-t-00-24-37) | 5 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-gpe-utah-t-00-07-16) | 5 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-gpe-utah-t-00-05-31) | 2 |
 
 </details>
 </section>
@@ -192,7 +218,75 @@ Source: [State of Utah official website](https://utah.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (323)</strong></summary>
+<summary><strong class="section-title">Raw mentions (392)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>
+
+**[00:05:31](/episodes/ep-_cNtgris8Ik.md#ent-gpe-utah-t-00-05-31)**
+> "In the state of Utah, he could be charged with a felony for tampering ..."
+
+**[00:05:56](/episodes/ep-_cNtgris8Ik.md#ent-gpe-utah-t-00-05-31)**
+> "...vidence of our eyes under the Utah 1102 rule."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (5 mentions)</summary>
+
+**[00:07:41](/episodes/ep-9hRcfSrri70.md#ent-gpe-utah-t-00-07-16)**
+> "...ent or responding officers in Utah have to your personal property outside of a warra..."
+
+**[00:13:11](/episodes/ep-9hRcfSrri70.md#ent-gpe-utah-t-00-12-42)**
+> "...t infer. Well, we can't under Utah 1102. We can infer. You could say, like, is someb..."
+
+**[00:18:49](/episodes/ep-9hRcfSrri70.md#ent-gpe-utah-t-00-18-18)**
+> "Utah prosecutors have responded to Tyler Robinson's de..."
+
+**[00:19:42](/episodes/ep-9hRcfSrri70.md#ent-gpe-utah-t-00-19-42)**
+> "Under the Utah 1102 standard, reliable hearsay is allowed. Defen..."
+
+**[00:45:37](/episodes/ep-9hRcfSrri70.md#ent-gpe-utah-t-00-45-37)**
+> "...to pretend to be an expert in Utah law but like I said I have established that there..."
+
+</details>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (5 mentions)</summary>
+
+**[00:25:01](/episodes/ep-4JxgOclKzqg.md#ent-gpe-utah-t-00-24-37)**
+> "It's a Utah case. Why would the FBI have the SD cards?"
+
+**[00:25:06](/episodes/ep-4JxgOclKzqg.md#ent-gpe-utah-t-00-24-37)**
+> "...g to call me for jury duty in Utah, but it demonstrates to me that that footage was ..."
+
+**[00:32:04](/episodes/ep-4JxgOclKzqg.md#ent-gpe-utah-t-00-32-04)**
+> "...s? Charlie Kirk was killed in Utah by a kid from Utah who left his house in Utah, dr..."
+
+**[00:32:35](/episodes/ep-4JxgOclKzqg.md#ent-gpe-utah-t-00-32-04)**
+> "...ng the FBI's expertise to the Utah State Police."
+
+**[00:32:45](/episodes/ep-4JxgOclKzqg.md#ent-gpe-utah-t-00-32-45)**
+> "... in a FedEx and sending it to Utah so they can do with it what they want."
+
+</details>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (4 mentions)</summary>
+
+**[00:27:39](/episodes/ep-E7P2ShoYDUA.md#ent-gpe-utah-t-00-27-15)**
+> "This was the whole point of a hearsay of the hearsay Utah 1102. And if he had watched how many times they discussed this 1102 rule, it was basically like, yeah, we allow this at this stage. It's probative."
+
+**[00:45:58](/episodes/ep-E7P2ShoYDUA.md#ent-gpe-utah-t-00-45-58)**
+> "...e in murder the state next of Utah. No,"
+
+**[00:50:01](/episodes/ep-E7P2ShoYDUA.md#ent-gpe-utah-t-00-50-01)**
+> "... with things that we feel are Utah"
+
+**[00:50:40](/episodes/ep-E7P2ShoYDUA.md#ent-gpe-utah-t-00-50-37)**
+> "...finitely pass the test by the Utah 1102 rule for sure for certain"
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (17 mentions)</summary>
@@ -247,6 +341,210 @@ Source: [State of Utah official website](https://utah.gov/)
 
 **[03:48:13](/episodes/ep-nPhCKwJ6ye8.md#ent-gpe-utah-t-03-48-13)**
 > "...that there's enough under the Utah 1102 rule for me to keep it there."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (17 mentions)</summary>
+
+**[00:28:15](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-utah-t-00-28-06)**
+> "... based off of a hearing under Utah 1102 rules, meaning that they are doing the exact..."
+
+**[00:28:45](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-utah-t-00-28-45)**
+> "under Utah's 1102 But rule."
+
+**[00:28:55](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-utah-t-00-28-55)**
+> "...at. And what that means under Utah rule, which I'm sure you know, because I'm sure y..."
+
+**[00:29:26](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-utah-t-00-29-26)**
+> "day Utah"
+
+**[00:30:43](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-utah-t-00-30-38)**
+> "...heck. Could you bring up 1102 Utah rule?"
+
+**[00:31:19](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-utah-t-00-31-19)**
+> "...act check about what the 1102 Utah and under their constitution for the sake of a pr..."
+
+**[00:31:59](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-utah-t-00-31-47)**
+> "...well I'm the magistrate under Utah constitution you know 1102 it is my job to allow ..."
+
+**[00:36:21](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-utah-t-00-36-21)**
+> "...epting for some reason in the Utah courtroom,"
+
+**[00:45:39](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-utah-t-00-45-26)**
+> "...xamined him. But I understand Utah 1102, do what you do. It's all hearsay. But to al..."
+
+**[00:47:56](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-utah-t-00-47-47)**
+> "... preliminary hearing is under Utah's 1102 so they are allowed to just use hearsay"
+
+**[00:48:38](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-utah-t-00-48-35)**
+> "..., it literally was done under Utah's 11.02."
+
+**[01:21:58](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-utah-t-01-21-58)**
+> "...em as required under Rule 16, Utah R criminal, to be more precise as of April 1st."
+
+**[01:44:35](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-utah-t-01-44-27)**
+> "...they were Israeli students in Utah that day."
+
+**[02:45:35](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-utah-t-02-45-35)**
+> "...eath sentence in the state of Utah. No, that's not that is literally not murder."
+
+**[02:51:26](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-utah-t-02-51-26)**
+> "... with things that we feel are Utah"
+
+**[02:52:05](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-utah-t-02-51-46)**
+> "...finitely pass the test by the Utah 1102 rule for sure for certain"
+
+**[02:57:46](/episodes/ep-aPOyk1i2LOc.md#ent-gpe-utah-t-02-57-46)**
+> "...that there's enough under the utah 1102 rule for me to keep it there I don't really ..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>
+
+**[00:21:05](/episodes/ep-5zgkrOaCCj4.md#ent-gpe-utah-t-00-20-42)**
+> "...e just was going to go around Utah."
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (3 mentions)</summary>
+
+**[00:09:22](/episodes/ep-ChuWo-n49B8.md#ent-gpe-utah-t-00-08-53)**
+> "He's not the only person in Utah or in the United States"
+
+**[00:03:04](/episodes/ep-ChuWo-n49B8.md#ent-gpe-utah-t-00-02-40)**
+> "...detective who was involved in Utah with cyber sex crime unit by that same name, Mich..."
+
+**[00:09:30](/episodes/ep-ChuWo-n49B8.md#ent-gpe-utah-t-00-09-30)**
+> "in Utah or in the United States or in the world that driv..."
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (5 mentions)</summary>
+
+**[00:09:18](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-utah-t-00-08-45)**
+> "...mway Lee, Senator Mike Lee of Utah."
+
+**[00:09:32](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-utah-t-00-09-26)**
+> "...ent most of his upbringing in Utah. His father was actually the founding dean of BYU..."
+
+**[00:13:56](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-utah-t-00-13-22)**
+> "...arts harassing another random Utah police officer, accuses him of being a dirty cop,..."
+
+**[00:23:21](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-utah-t-00-23-00)**
+> "...ardino police and he moved to Utah."
+
+**[00:24:45](/episodes/ep-1CFDtD0IgEg.md#ent-gpe-utah-t-00-24-22)**
+> "...n event 10 days later back in Utah that was supposed to take place at USU. So they w..."
+
+</details>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (5 mentions)</summary>
+
+**[00:20:15](/episodes/ep-AH1KVKkweUE.md#ent-gpe-utah-t-00-20-04)**
+> "...arines before he arrived into Utah."
+
+**[00:20:31](/episodes/ep-AH1KVKkweUE.md#ent-gpe-utah-t-00-20-04)**
+> "... officer just before going to Utah in San Bernardino, California."
+
+**[00:20:38](/episodes/ep-AH1KVKkweUE.md#ent-gpe-utah-t-00-20-38)**
+> "...t before he gets moved out to Utah. Something happened. We don't know what happened,..."
+
+**[00:23:25](/episodes/ep-AH1KVKkweUE.md#ent-gpe-utah-t-00-23-07)**
+> "... moved from San Bernardino to Utah we are obviously going to turn to Californians an..."
+
+**[00:24:26](/episodes/ep-AH1KVKkweUE.md#ent-gpe-utah-t-00-24-26)**
+> "...he just left because he likes Utah in the summer and he decided to go in August 2024..."
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (12 mentions)</summary>
+
+**[00:02:17](/episodes/ep-iB-YtO3UZOg.md#ent-gpe-utah-t-00-02-12)**
+> "Andrew Guajardo. He is from New York. He moved to Utah in 2018 and was working as an assistant at the medical examiner's office."
+
+**[00:09:30](/episodes/ep-iB-YtO3UZOg.md#ent-gpe-utah-t-00-09-11)**
+> "... last 10 years, she's been in Utah."
+
+**[00:12:28](/episodes/ep-iB-YtO3UZOg.md#ent-gpe-utah-t-00-12-28)**
+> "...ars working as a professor in Utah, okay, at the University of Utah in Salt Lake Cit..."
+
+**[00:12:49](/episodes/ep-iB-YtO3UZOg.md#ent-gpe-utah-t-00-12-28)**
+> "...is be throughout the state of Utah?"
+
+**[00:13:05](/episodes/ep-iB-YtO3UZOg.md#ent-gpe-utah-t-00-13-05)**
+> "... building. She's no longer at Utah."
+
+**[00:13:52](/episodes/ep-iB-YtO3UZOg.md#ent-gpe-utah-t-00-13-43)**
+> "...n Discord Twitch community in Utah."
+
+**[00:14:07](/episodes/ep-iB-YtO3UZOg.md#ent-gpe-utah-t-00-13-43)**
+> "... across her 10-year career in Utah and also being on the board and working with thes..."
+
+**[00:25:38](/episodes/ep-iB-YtO3UZOg.md#ent-gpe-utah-t-00-13-43)**
+> "... that he was being treated at Utah Valley and at Intermountain because not only did ..."
+
+**[00:26:20](/episodes/ep-iB-YtO3UZOg.md#ent-gpe-utah-t-00-13-43)**
+> "... called Epic—did not speak to Utah Valley's Intermountain Health system."
+
+**[00:27:02](/episodes/ep-iB-YtO3UZOg.md#ent-gpe-utah-t-00-13-43)**
+> "...files were transferred out to Utah Valley."
+
+**[00:27:45](/episodes/ep-iB-YtO3UZOg.md#ent-gpe-utah-t-00-13-43)**
+> "...system. So we were looking at Utah Valley's system and Charlie was a patient on Sept..."
+
+**[00:30:06](/episodes/ep-iB-YtO3UZOg.md#ent-gpe-utah-t-00-30-06)**
+> "...GRAMA request in the state of Utah? Somebody's going to catch this shuttle. I just k..."
+
+</details>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (4 mentions)</summary>
+
+**[00:15:03](/episodes/ep-AoYZel7_cGQ.md#ent-gpe-utah-t-00-14-42)**
+> "...harlie Kirk)'s open casket in Utah."
+
+**[00:16:54](/episodes/ep-AoYZel7_cGQ.md#ent-gpe-utah-t-00-16-30)**
+> "...ly captured the day before in Utah. She moves to post that footage of her lying over..."
+
+**[00:17:12](/episodes/ep-AoYZel7_cGQ.md#ent-gpe-utah-t-00-16-30)**
+> "... casket that you're seeing in Utah."
+
+**[00:23:35](/episodes/ep-AoYZel7_cGQ.md#ent-gpe-utah-t-00-23-27)**
+> "...ringing her family members to Utah after she finds out that her husband is shot, aft..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (2 mentions)</summary>
+
+**[00:06:35](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-utah-t-00-06-35)**
+> "But I also told you this early on. I said there are good people in government. There are good people who work all across the local police precincts in Utah, good people in our federal investigation and in our federal bureaus who participated in this investigation initially."
+
+**[00:24:26](/episodes/ep-Vu6Y24pqhZs.md#ent-gpe-utah-t-00-24-26)**
+> "...changed, people brought in in Utah, and the luck of all of these new people, biggest..."
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (4 mentions)</summary>
+
+**[00:41:47](/episodes/ep-HZvwbfePe7o.md#ent-gpe-utah-t-00-41-47)**
+> "So many people were saying, “Candace, please go down that rabbit hole. There is something there.” I am just saying that there are a lot of stories about Utah wives. I don't know if I would swipe right on a Utah wife right now. That's all I'm saying. I'm sure many of you are amazing and lovely, and many of you have actually helped me so much in this investigation. But it is like, what is going on in Utah? We had that Kouri Richins girl who killed her husband."
+
+**[00:01:10](/episodes/ep-HZvwbfePe7o.md#ent-gpe-utah-t-00-01-10)**
+> "Early on, we had identified Utah's chief medical examiner, the one who would have ..."
+
+**[00:01:43](/episodes/ep-HZvwbfePe7o.md#ent-gpe-utah-t-00-01-43)**
+> "...the chief medical examiner of Utah. Now, I am actually hearing that there are a lot ..."
+
+**[00:02:05](/episodes/ep-HZvwbfePe7o.md#ent-gpe-utah-t-00-01-43)**
+> "...our chief medical examiner of Utah resigning so quickly?"
 
 </details>
 
@@ -649,7 +947,7 @@ Source: [State of Utah official website](https://utah.gov/)
 > "This is hearsay under Utah rule of evidence. You can't just give us summarie..."
 
 **[00:56:25](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-utah-t-00-48-01)**
-> "... evidence that Charlie was at Utah Valley initially and then at some point got trans..."
+> "I do have an update for you guys on the Timpanogos staff at the hospital. And I saw Elizabeth Lane saying that, talking about the other hospital and the strange lockdown that I have maintained from the beginning, that there was more evidence that Charlie (Charlie Kirk) was at Utah Valley initially and then at some point got transported."
 
 **[00:59:38](/episodes/ep-UYkXV9mYbT4.md#ent-gpe-utah-t-00-59-12)**
 > "is not from Utah. He does not know this man. Yes, it was a very, y..."
@@ -910,13 +1208,13 @@ Source: [State of Utah official website](https://utah.gov/)
 **[00:13:56](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-utah-t-00-02-25)**
 > "Utah."
 
-**[00:46:12](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-utah-t-00-45-34)**
+**[00:46:12](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-utah-t-00-45-33)**
 > "the history of Utah's state flag."
 
-**[00:46:37](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-utah-t-00-46-17)**
+**[00:46:37](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-utah-t-00-46-16)**
 > "that's the Utah state flag is a hexagonal beehive. All right, let..."
 
-**[00:46:48](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-utah-t-00-46-17)**
+**[00:46:48](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-utah-t-00-46-16)**
 > "Chronologically, Utah adopts the beehive symbol in 1948."
 
 **[00:47:14](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-utah-t-00-47-00)**
@@ -1534,6 +1832,30 @@ Source: [State of Utah official website](https://utah.gov/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Former Residence Of (1)</summary>
+
+- **[Senator Mike Lee](/entities/person-senator-mike-lee.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:09:32](/episodes/ep-1CFDtD0IgEg.md#t-00-09-26): “It's actually regarding Senator Mike Shumway Lee, Senator Mike Lee of Utah. ... He actually was born in Arizona, but spent most of his upbringing in Utah.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Formerly Employed (1)</summary>
+
+- **[Deirdre Amaro](/entities/person-deirdre-amaro.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:02:05](/episodes/ep-HZvwbfePe7o.md#t-00-01-43): “Curiously enough, there was no official reason provided for Deidre's sudden resignation, only that she is moving on from her position. I find that to be a lead that people should chase. If you perhaps know more, please do send us an email to tips at candaceowens.com. Why is our chief medical examiner of Utah resigning so quickly?”
+
+</details>
+
+</details>
+
+<details>
 <summary>Has Governor (1)</summary>
 
 - **[Spencer Cox](/entities/person-spencer-cox.md)**
@@ -1593,7 +1915,21 @@ Source: [State of Utah official website](https://utah.gov/)
 </details>
 
 <details>
-<summary>Referenced By (6)</summary>
+<summary>Referenced By (8)</summary>
+
+- **[Senator Mike Lee](/entities/person-senator-mike-lee.md)** formerly lived in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:09:32](/episodes/ep-1CFDtD0IgEg.md#t-00-09-26): “It's actually regarding Senator Mike Shumway Lee, Senator Mike Lee of Utah. ... He actually was born in Arizona, but spent most of his upbringing in Utah.”
+
+</details>
+
+- **[Deirdre Amaro](/entities/person-deirdre-amaro.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:02:05](/episodes/ep-HZvwbfePe7o.md#t-00-01-43): “Curiously enough, there was no official reason provided for Deidre's sudden resignation, only that she is moving on from her position. I find that to be a lead that people should chase. If you perhaps know more, please do send us an email to tips at candaceowens.com. Why is our chief medical examiner of Utah resigning so quickly?”
+
+</details>
 
 - **[Spencer Cox](/entities/person-spencer-cox.md)** governor of this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -1644,7 +1980,42 @@ Source: [State of Utah official website](https://utah.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah (19)</strong></summary>
+<summary><strong class="section-title">Statements about Utah (24)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1)</summary>
+
+- [00:05:08](/episodes/ep-_cNtgris8Ik.md#t-00-04-52) (Claim) **Candace Owens**: ["Owens said Farnsworth's removal and potential alteration of the SD car..."](/statements/statement-b239c1bb5a47.md)
+  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+
+</details>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1)</summary>
+
+- [00:24:57](/episodes/ep-AH1KVKkweUE.md#t-00-24-57) (Accusation) **Candace Owens**: ["Owens said it was a plausibility that Alan Robertson had been involved..."](/statements/statement-08407bc25915.md)
+  - Also about: [Alan Edward Robertson](/entities/person-alan-edward-robertson.md), [San Bernardino](/entities/gpe-san-bernardino.md)
+
+</details>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (1)</summary>
+
+- [00:16:40](/episodes/ep-AoYZel7_cGQ.md#t-00-16-30) (Claim) **Candace Owens**: ["Candace Owens said Elizabeth McCoy recorded Erika Kirk leaning over Ch..."](/statements/statement-d05b6be70bfd.md)
+  - Also about: [Elizabeth McCoy](/entities/person-elizabeth-mccoy.md), [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (2)</summary>
+
+- [00:01:33](/episodes/ep-HZvwbfePe7o.md#t-00-01-10) (Claim) **Candace Owens**: ["Owens reported that Dr. Deirdre Amaro, whose tenure as Utah's chief me..."](/statements/statement-16a12e7a8a98.md)
+  - Also about: [Deirdre Amaro](/entities/person-deirdre-amaro.md)
+
+- [00:01:43](/episodes/ep-HZvwbfePe7o.md#t-00-01-43) (Claim) **Candace Owens**: ["Owens said she was hearing of many resignations at Utah Valley Univers..."](/statements/statement-f7403773782b.md)
+  - Also about: [Utah Valley University](/entities/org-utah-valley-university.md)
+
+</details>
 
 <details>
 <summary>Candace Owens x Ana Kasparian (1)</summary>

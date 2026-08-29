@@ -4,9 +4,10 @@ description: "\"Tracy Martin denied being the source who provided the Daily Mail
 statement_id: "statement-6f7b6bb3ae2a"
 speaker: "Tracy Martin"
 type: "factual_claim"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The source-scoped context contains the embedded interview: when asked whether she provided the Daily Mail information, Tracy Martin answers 'Absolutely not' twice. This verifies her denial, not whether the denial was accurate.
+
+**Confidence:** High
+
+**Sources:**
+
+- [EXCLUSIVE: Ben Shapiro's 9/10 Lunch Date — Candace Ep. 365 transcript](https://podcasts.happyscribe.com/candace/10-lunch-date-more-text-messages-from-charlie-kirk)
+
+*Verified: 2026-08-27T19:42:39.589237*
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "United States Army Special Forces"
-description: "United States Army Special Forces (Organizations) - 11 mentions"
+description: "United States Army Special Forces (Organizations) - 12 mentions"
 id: "org-us-army-special-forces"
 type: "ORG"
 aliases:
@@ -25,11 +25,11 @@ Source: [1st Special Forces Command (Airborne)](https://www.army.mil/1sfc)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-us-army-special-forces-t-00-06-25">2026-03-23 · 00:06:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-us-army-special-forces-t-00-26-46">2026-06-26 · 00:26:46</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-org-us-army-special-forces-t-00-18-23">2026-08-06 · 00:18:30</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -43,6 +43,7 @@ Source: [1st Special Forces Command (Airborne)](https://www.army.mil/1sfc)
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-us-army-special-forces-t-00-39-55" style="--pulse-height:17%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-org-us-army-special-forces-t-00-13-58" style="--pulse-height:17%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-us-army-special-forces-t-00-11-08" style="--pulse-height:100%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 6 mentions" title="2026-06-26 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-org-us-army-special-forces-t-00-18-23" style="--pulse-height:17%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -53,6 +54,7 @@ Source: [1st Special Forces Command (Airborne)](https://www.army.mil/1sfc)
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-org-us-army-special-forces-t-00-39-55) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-org-us-army-special-forces-t-00-13-58) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-us-army-special-forces-t-00-11-08) | 6 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-org-us-army-special-forces-t-00-18-23) | 1 |
 
 </details>
 </section>
@@ -60,7 +62,15 @@ Source: [1st Special Forces Command (Airborne)](https://www.army.mil/1sfc)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:18:30](/episodes/ep-ChuWo-n49B8.md#ent-org-us-army-special-forces-t-00-18-23)**
+> "they collaborate with the Green Berets"
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (6 mentions)</summary>
@@ -165,6 +175,19 @@ Source: [1st Special Forces Command (Airborne)](https://www.army.mil/1sfc)
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:14:14](/episodes/ep-MhakwJxK-Zk.md#t-00-13-58): “After serving in the military, first in the Navy and then the Army Special Forces Airborne Division”
 
 </details>
+
+</details>
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about United States Army Special Forces (1)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
+
+- [00:18:30](/episodes/ep-ChuWo-n49B8.md#t-00-18-23) (Accusation) **Candace Owens** (via paraphrase): ["Owens said the unidentified organizer had publicly admitted gathering ..."](/statements/statement-ca11c64e2e7c.md)
+  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Kassy Akiva](/entities/person-kassy-akiva.md), [Gaza Humanitarian Foundation](/entities/org-gaza-humanitarian-foundation.md)
 
 </details>
 

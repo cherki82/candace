@@ -32,7 +32,7 @@ Source: [Jonathan Barcelo professional profile](https://us.bold.pro/my/jonathan-
 <p>Highest activity: <a href="/episodes/ep-7ERqbYElOfs.md#t-00-22-24">The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-7ERqbYElOfs.md#t-00-22-24" style="--pulse-height:100%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-UYkXV9mYbT4.md#t-00-51-24" style="--pulse-height:100%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-jonathan-barcelo-t-00-51-24" style="--pulse-height:100%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-jonathan-barcelo-t-00-19-44" style="--pulse-height:100%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -40,7 +40,7 @@ Source: [Jonathan Barcelo professional profile](https://us.bold.pro/my/jonathan-
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#t-00-22-24) | 1 |
-| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#t-00-51-24) | 1 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-jonathan-barcelo-t-00-51-24) | 1 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-jonathan-barcelo-t-00-19-44) | 1 |
 
 </details>
@@ -62,8 +62,8 @@ Source: [Jonathan Barcelo professional profile](https://us.bold.pro/my/jonathan-
 <details>
 <summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1 mentions)</summary>
 
-**[00:51:24](/episodes/ep-UYkXV9mYbT4.md#t-00-51-24)**
-> "Jonathan Barcello"
+**[00:51:24](/episodes/ep-UYkXV9mYbT4.md#ent-person-jonathan-barcelo-t-00-51-24)**
+> "And that flight she took with Katherine Locastro and Derek Niekerk and Jonathan Barcelo. And she wanted, the woman who's emailing me wanted to make me aware that a flight to Long Beach. I was wondering what's this about? What's in Long Beach?"
 
 </details>
 

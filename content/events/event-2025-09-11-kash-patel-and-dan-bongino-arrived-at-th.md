@@ -18,4 +18,4 @@ time: "17:30"
 **Timestamp:** [00:35:51](/episodes/ep-eLgD5yUVbko.md#event-event-2025-09-11-kash-patel-and-dan-bongino-arrived-at-th-t-00-35-25) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2151);return false;">▶️ Play</a>
 
-> 5.30 p.m., Cash Patel and Dan Bongino arrive on the scene.
+> 5.30 p.m., Kash Patel and Dan Bongino arrive on the scene. At 6.17, the FBI Salt Lake City releases

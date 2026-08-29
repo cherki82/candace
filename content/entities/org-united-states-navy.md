@@ -1,6 +1,6 @@
 ---
 title: "United States Navy"
-description: "United States Navy (Organizations) - 28 mentions"
+description: "United States Navy (Organizations) - 32 mentions"
 id: "org-united-states-navy"
 type: "ORG"
 aliases:
@@ -17,47 +17,46 @@ _Type: Organizations_
 
 **Categories:** United States military, naval service
 
-> **Possibly overlapping entity records:** [U.S. Navy](/entities/org-us-navy). These records share a name or alias; compare their histories before treating either count as complete.
-
 **Entity verification:** verified
 > Official Navy page confirms the canonical service name.
 Source: [About the U.S. Navy](https://www.navy.mil/About/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#t-00-48-05">2025-09-22 · 00:48:35</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#t-00-02-41">2026-07-20 · 00:03:05</a></strong></div>
-<div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>28</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-united-states-navy-t-00-22-30">2026-07-29 · 00:28:15</a></strong></div>
+<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Mentions</span><strong>32</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>5</strong></div>
-<div><span>Relationships</span><strong>15</strong></div>
+<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Relationships</span><strong>21</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-Cq7nj9rxPdo.md#t-00-22-48">Charlie Ripped A Hole In Reality | Candace Ep 253</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-united-states-navy-t-00-22-30">EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-ja26iltROkM.md#t-00-48-05" style="--pulse-height:50%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-5autG89PW6w.md#t-00-27-54" style="--pulse-height:50%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#t-00-22-48" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-YaZfwLQ7vrI.md#t-00-16-39" style="--pulse-height:100%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 2 mentions" title="2025-11-10 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#t-00-34-22" style="--pulse-height:100%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-yAIb-NuUh_U.md#t-00-12-06" style="--pulse-height:50%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-his-JBjlkh8.md#t-00-37-21" style="--pulse-height:50%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#t-00-13-05" style="--pulse-height:50%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-X92MllIHDzw.md#t-00-09-04" style="--pulse-height:100%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#t-00-22-52" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#t-00-20-00" style="--pulse-height:50%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-5m-Wn6Pr5rM.md#t-00-04-59" style="--pulse-height:100%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-rupRLXmSndU.md#t-00-09-38" style="--pulse-height:100%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-01-45" style="--pulse-height:50%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-FFQ9675oqRI.md#ent-org-united-states-navy-t-00-34-00" style="--pulse-height:50%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Pb7UlpRdW6U.md#t-00-10-52" style="--pulse-height:100%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 2 mentions" title="2026-05-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-MhakwJxK-Zk.md#t-00-13-58" style="--pulse-height:50%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-united-states-navy-t-00-41-12" style="--pulse-height:50%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-puuMVxEu5NU.md#ent-org-united-states-navy-t-00-07-45" style="--pulse-height:50%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-N4uM8Jdr410.md#t-00-02-41" style="--pulse-height:50%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ja26iltROkM.md#t-00-48-05" style="--pulse-height:25%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 1 mentions" title="2025-09-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#t-00-27-54" style="--pulse-height:25%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-united-states-navy-t-00-22-48" style="--pulse-height:50%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 2 mentions" title="2025-10-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#t-00-16-39" style="--pulse-height:50%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 2 mentions" title="2025-11-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#t-00-34-22" style="--pulse-height:50%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#t-00-12-06" style="--pulse-height:25%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-his-JBjlkh8.md#t-00-37-21" style="--pulse-height:25%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#t-00-13-05" style="--pulse-height:25%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#t-00-09-04" style="--pulse-height:50%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#t-00-22-52" style="--pulse-height:50%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#t-00-20-00" style="--pulse-height:25%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5m-Wn6Pr5rM.md#t-00-04-59" style="--pulse-height:50%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 2 mentions" title="2026-03-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#t-00-09-38" style="--pulse-height:50%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 2 mentions" title="2026-04-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-01-45" style="--pulse-height:25%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-FFQ9675oqRI.md#ent-org-united-states-navy-t-00-34-00" style="--pulse-height:25%" aria-label="STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335: 1 mentions" title="2026-05-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Pb7UlpRdW6U.md#t-00-10-52" style="--pulse-height:50%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 2 mentions" title="2026-05-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#t-00-13-58" style="--pulse-height:25%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-org-united-states-navy-t-00-41-12" style="--pulse-height:25%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-org-united-states-navy-t-00-07-45" style="--pulse-height:25%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#t-00-02-41" style="--pulse-height:25%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-united-states-navy-t-00-22-30" style="--pulse-height:100%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 4 mentions" title="2026-07-29 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -65,7 +64,7 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 |---|---|---:|
 | 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#t-00-48-05) | 1 |
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#t-00-27-54) | 1 |
-| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#t-00-22-48) | 2 |
+| 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-org-united-states-navy-t-00-22-48) | 2 |
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#t-00-16-39) | 2 |
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#t-00-34-22) | 2 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#t-00-12-06) | 1 |
@@ -83,6 +82,7 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-org-united-states-navy-t-00-41-12) | 1 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-united-states-navy-t-00-07-45) | 1 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#t-00-02-41) | 1 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-org-united-states-navy-t-00-22-30) | 4 |
 
 </details>
 </section>
@@ -90,7 +90,24 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (4 mentions)</summary>
+
+**[00:22:30](/episodes/ep-Vu6Y24pqhZs.md#ent-org-united-states-navy-t-00-22-30)**
+> "with other U.S. government agencies, they have a presence in more than 41 countries and on U.S. Navy vessels."
+
+**[00:22:38](/episodes/ep-Vu6Y24pqhZs.md#ent-org-united-states-navy-t-00-22-30)**
+> "...l activities that involve the Navy and the Marine Corps."
+
+**[00:28:10](/episodes/ep-Vu6Y24pqhZs.md#ent-org-united-states-navy-t-00-22-30)**
+> "...ually. Well, the Secretary of Navy."
+
+**[00:28:15](/episodes/ep-Vu6Y24pqhZs.md#ent-org-united-states-navy-t-00-22-30)**
+> "... who was the secretary of the Navy? And it turns out that Trump appointed a guy with..."
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (1 mentions)</summary>
@@ -252,10 +269,10 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 <details>
 <summary>Charlie Ripped A Hole In Reality | Candace Ep 253 (2 mentions)</summary>
 
-**[00:23:08](/episodes/ep-Cq7nj9rxPdo.md#t-00-22-48)**
+**[00:23:08](/episodes/ep-Cq7nj9rxPdo.md#ent-org-united-states-navy-t-00-22-48)**
 > "...Frank Turek if we have that card. And Frank Turek—again, has been honest—former officer in the U.S. Navy, and then he turned to Christian apologetics. He has two sons that are in the military—fly planes—a..."
 
-**[00:24:07](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32)**
+**[00:24:07](/episodes/ep-Cq7nj9rxPdo.md#ent-org-united-states-navy-t-00-22-48)**
 > "... kind of shocking—his father was also the assistant chief of staff for psychological warfare in the Navy. Psychological warfare—this is the name of the game. And that trajectory is increasingly interestin..."
 
 </details>
@@ -282,32 +299,54 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Employs (1)</summary>
+<summary>Employs (3)</summary>
+
+- **[Roy Edgar McCoy](/entities/person-roy-edgar-mccoy.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:24:06](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32): “his father was the naval captain...assistant chief of staff for psychological warfare in the Navy”
+
+</details>
 
 - **[Ahmed Qureshi](/entities/person-ahmed-qureshi.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:09:53](/episodes/ep-rupRLXmSndU.md#t-00-09-38): “Well, Ahmed Qureshi, that is Zachariah's father, he is an 06 in the Navy.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:09:53](/episodes/ep-rupRLXmSndU.md#t-00-09-38): “I was getting familiar with it. I fumbled over my words. Mitch Snow, he said he saw this meeting conclude with a bunch of 05s and 06s coming out of Fort Huachuca. Well, Ahmed Qureshi, that is Zachariah (Zachariah Qureshi)'s father, he is an 06 in the Navy.”
+
+</details>
+
+- **[John C. Phelan](/entities/person-john-c-phelan.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:28:15](/episodes/ep-Vu6Y24pqhZs.md#t-00-27-58): “So I was wondering in 2025 when this was going on, who was the secretary of the Navy? And it turns out that Trump appointed a guy with literally zero military experience into that position, crucial position.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Formerly Employed (4)</summary>
+<summary>Formerly Employed (5)</summary>
+
+- **[Frank Turek](/entities/person-frank-turek.md)**
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:23:09](/episodes/ep-Cq7nj9rxPdo.md#t-00-22-48): “Frank Turek—former officer in the U.S. Navy, and then he turned to Christian apologetics”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:04:59](/episodes/ep-5m-Wn6Pr5rM.md#t-00-04-59): “Frank Turek himself is a military guy. He is a former Navy officer.”
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:07:45](/episodes/ep-puuMVxEu5NU.md#t-00-07-45): “And Dr. Frank Turek was also given the boot from Bank of America. ... the U.S. Navy veteran was hired in May”
+
+</details>
+
+- **[Jack Posobiec](/entities/person-jack-posobiec.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:49:49](/episodes/ep-ja26iltROkM.md#t-00-49-28): “I do know that he was a naval intelligence officer”
+
+</details>
 
 - **[Bill Wood](/entities/person-bill-wood.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:13:09](/episodes/ep-BKcOm32ZEGk.md#t-00-13-05): “a former Navy SEAL with high-level clearance,”
-
-</details>
-
-- **[Frank Turek](/entities/person-frank-turek.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
-
-- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:04:59](/episodes/ep-5m-Wn6Pr5rM.md#t-00-04-59): “Frank Turek himself is a military guy. He is a former Navy officer.”
-- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:07:45](/episodes/ep-puuMVxEu5NU.md#t-00-07-45): “And Dr. Frank Turek was also given the boot from Bank of America. ... the U.S. Navy veteran was hired in May”
 
 </details>
 
@@ -352,20 +391,28 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 </details>
 
 <details>
-<summary>Referenced By (8)</summary>
+<summary>Referenced By (11)</summary>
+
+- **[Frank Turek](/entities/person-frank-turek.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:23:09](/episodes/ep-Cq7nj9rxPdo.md#t-00-22-48): “Frank Turek—former officer in the U.S. Navy, and then he turned to Christian apologetics”
+- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:04:59](/episodes/ep-5m-Wn6Pr5rM.md#t-00-04-59): “Frank Turek himself is a military guy. He is a former Navy officer.”
+- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:07:45](/episodes/ep-puuMVxEu5NU.md#t-00-07-45): “And Dr. Frank Turek was also given the boot from Bank of America. ... the U.S. Navy veteran was hired in May”
+
+</details>
+
+- **[Jack Posobiec](/entities/person-jack-posobiec.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240 @ 00:49:49](/episodes/ep-ja26iltROkM.md#t-00-49-28): “I do know that he was a naval intelligence officer”
+
+</details>
 
 - **[Bill Wood](/entities/person-bill-wood.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:13:09](/episodes/ep-BKcOm32ZEGk.md#t-00-13-05): “a former Navy SEAL with high-level clearance,”
-
-</details>
-
-- **[Frank Turek](/entities/person-frank-turek.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
-
-- [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:04:59](/episodes/ep-5m-Wn6Pr5rM.md#t-00-04-59): “Frank Turek himself is a military guy. He is a former Navy officer.”
-- [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:07:45](/episodes/ep-puuMVxEu5NU.md#t-00-07-45): “And Dr. Frank Turek was also given the boot from Bank of America. ... the U.S. Navy veteran was hired in May”
 
 </details>
 
@@ -405,10 +452,24 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 
 </details>
 
+- **[Roy Edgar McCoy](/entities/person-roy-edgar-mccoy.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Charlie Ripped A Hole In Reality | Candace Ep 253 @ 00:24:06](/episodes/ep-Cq7nj9rxPdo.md#t-00-23-32): “his father was the naval captain...assistant chief of staff for psychological warfare in the Navy”
+
+</details>
+
 - **[Ahmed Qureshi](/entities/person-ahmed-qureshi.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:09:53](/episodes/ep-rupRLXmSndU.md#t-00-09-38): “Well, Ahmed Qureshi, that is Zachariah's father, he is an 06 in the Navy.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:09:53](/episodes/ep-rupRLXmSndU.md#t-00-09-38): “I was getting familiar with it. I fumbled over my words. Mitch Snow, he said he saw this meeting conclude with a bunch of 05s and 06s coming out of Fort Huachuca. Well, Ahmed Qureshi, that is Zachariah (Zachariah Qureshi)'s father, he is an 06 in the Navy.”
+
+</details>
+
+- **[John C. Phelan](/entities/person-john-c-phelan.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:28:15](/episodes/ep-Vu6Y24pqhZs.md#t-00-27-58): “So I was wondering in 2025 when this was going on, who was the secretary of the Navy? And it turns out that Trump appointed a guy with literally zero military experience into that position, crucial position.”
 
 </details>
 
@@ -417,7 +478,18 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about United States Navy (5)</strong></summary>
+<summary><strong class="section-title">Statements about United States Navy (7)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (2)</summary>
+
+- [00:22:30](/episodes/ep-Vu6Y24pqhZs.md#t-00-22-30) (Claim) **Candace Owens**: ["Owens said NCIS has a presence in more than 41 countries and on U.S. N..."](/statements/statement-a5bec7c8d9f8.md)
+  - Also about: [Naval Criminal Investigative Service](/entities/org-naval-criminal-investigative-service.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md)
+
+- [00:28:15](/episodes/ep-Vu6Y24pqhZs.md#t-00-27-58) (Claim) **Candace Owens**: ["Owens said Donald Trump appointed John C. Phelan as secretary of the N..."](/statements/statement-e1b3c2f7113e.md)
+  - Also about: [John C. Phelan](/entities/person-john-c-phelan.md), [Donald J. Trump](/entities/person-donald-trump.md), [Goldman Sachs](/entities/org-goldman-sachs.md)
+
+</details>
 
 <details>
 <summary>SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339 (1)</summary>
@@ -430,7 +502,7 @@ Source: [About the U.S. Navy](https://www.navy.mil/About/)
 <details>
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (2)</summary>
 
-- [00:09:45](/episodes/ep-rupRLXmSndU.md#t-00-09-38) (Claim) **Candace Owens**: ["Ahmed Qureshi, Zachariah Qureshi's father, is an O-6 in the U.S. Navy ..."](/statements/statement-d5a489fc7771.md)
+- [00:09:45](/episodes/ep-rupRLXmSndU.md#t-00-09-38) (Claim) **Candace Owens**: ["Ahmed Qureshi, Zachariah Qureshi's father, is an 06 in the U.S. Navy a..."](/statements/statement-d5a489fc7771.md)
   - Also about: [Ahmed Qureshi](/entities/person-ahmed-qureshi.md), [Zachariah Qureshi](/entities/person-zachariah-qureshi.md)
 
 - [00:16:05](/episodes/ep-rupRLXmSndU.md#t-00-16-05) (Citation) **Candace Owens**: ["BILT received nearly $8 million in June 2025 from the Department of De..."](/statements/statement-9dc82c68913f.md)

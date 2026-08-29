@@ -1,6 +1,6 @@
 ---
-title: "920 North King Street in Wilmington is a joint DOJ-DHS site ..."
-description: "\"920 North King Street in Wilmington is a joint DOJ-DHS site that houses at least three different federal agencies: the FBI, DEA, and Secret Service\" — Candace Owens"
+title: "Candace Owens said 920 North King Street in Wilmington appea..."
+description: "\"Candace Owens said 920 North King Street in Wilmington appeared to be a joint DOJ-DHS site housing at least the FBI, DEA, and Secret Service.\" — Candace Owens"
 statement_id: "statement-ecdfdd6a0965"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> 920 North King Street in Wilmington is a joint DOJ-DHS site that houses at least three different federal agencies: the FBI, DEA, and Secret Service
+> Candace Owens said 920 North King Street in Wilmington appeared to be a joint DOJ-DHS site housing at least the FBI, DEA, and Secret Service.
 
 ## Attribution
 
@@ -28,10 +28,10 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md)
-**Timestamp:** [00:15:36](/episodes/ep-SKGUzGHymcI.md#t-00-14-53) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(936);return false;">Play</a>
+**Timestamp:** [00:16:00](/episodes/ep-SKGUzGHymcI.md#t-00-15-37) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(960);return false;">Play</a>
 
-> So this actually seems to be a joint DOJ DHS site, which verifiably houses three different agencies and possibly more all at the same time.
+> Today, if you punch that address into public directories, you will find the DEA, Drug Enforcement Agency, at 920 North King Street, and at the same address, the United States Secret Service, 920 North King Street, Wilmington, Delaware, 19801. ... The FBI is also stationed at 920 North King Street. ... So this actually seems to be a joint DOJ DHS site, which verifiably houses three different agencies
 
 ## Verification
 

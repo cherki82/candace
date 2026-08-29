@@ -11,7 +11,11 @@ object: "person-erika-kirk"
 
 ## [Harris Faulkner](/entities/person-harris-faulkner) interviewed [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (1 mentions)
+### Evidence (2 mentions)
+
+**[BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o)**
+
+- [00:12:38](/episodes/ep-HZvwbfePe7o#t-00-12-38): _But you'll actually notice apparently any questions surrounding the burial elicits this sort of a strong emotion. In fact, in retrospect, Erika (Erika Kirk) made that clear early on. It's really the first time we ever actually saw her get fired up in public. We went from Tyler Robinson, I forgive him, that man, that man, I forgive him, to a book tour where Harris Faulkner on Fox News set her up with a question about how._
 
 **[Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs)**
 

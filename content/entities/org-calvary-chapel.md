@@ -1,6 +1,6 @@
 ---
 title: "Calvary Chapel"
-description: "Calvary Chapel (Organizations) - 81 mentions"
+description: "Calvary Chapel (Organizations) - 82 mentions"
 id: "org-calvary-chapel"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Qt0VHV-POCg.md#t-00-03-39">2025-10-29 · 00:03:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-calvary-chapel-t-00-20-36">2026-06-13 · 00:20:36</a></strong></div>
-<div><span>Episodes</span><strong>22</strong></div>
-<div><span>Mentions</span><strong>81</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-calvary-chapel-t-00-39-22">2026-07-29 · 00:39:38</a></strong></div>
+<div><span>Episodes</span><strong>23</strong></div>
+<div><span>Mentions</span><strong>82</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
@@ -58,6 +58,7 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-org-calvary-chapel-t-00-44-59" style="--pulse-height:8%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 1 mentions" title="2026-05-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-calvary-chapel-t-00-04-30" style="--pulse-height:15%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 3 mentions" title="2026-05-19 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-calvary-chapel-t-00-19-44" style="--pulse-height:10%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 2 mentions" title="2026-06-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-calvary-chapel-t-00-39-22" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -85,6 +86,7 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-org-calvary-chapel-t-00-44-59) | 1 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-org-calvary-chapel-t-00-04-30) | 3 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-org-calvary-chapel-t-00-19-44) | 2 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-org-calvary-chapel-t-00-39-22) | 1 |
 
 </details>
 </section>
@@ -92,7 +94,15 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (81)</strong></summary>
+<summary><strong class="section-title">Raw mentions (82)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
+
+**[00:39:38](/episodes/ep-Vu6Y24pqhZs.md#ent-org-calvary-chapel-t-00-39-22)**
+> "We shall look into that. Wow, how many of them have been like reformed pedos? We did that episode looking at the Calvary Chapel church in particular."
+
+</details>
 
 <details>
 <summary>REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348 (2 mentions)</summary>

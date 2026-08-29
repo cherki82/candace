@@ -1,6 +1,6 @@
 ---
 title: "University of Southern California"
-description: "University of Southern California (Organizations) - 1 mention"
+description: "University of Southern California (Organizations) - 2 mentions"
 id: "org-university-of-southern-california"
 type: "ORG"
 aliases:
@@ -22,9 +22,9 @@ Source: [The University - USC](https://www.usc.edu/we-are-usc/the-university/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-university-of-southern-california-t-00-02-55">2026-04-21 · 00:03:21</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-university-of-southern-california-t-00-02-55">2026-04-21 · 00:03:21</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-org-university-of-southern-california-t-00-10-17">2026-08-18 · 00:10:42</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,12 +36,14 @@ Source: [The University - USC](https://www.usc.edu/we-are-usc/the-university/)
 <p>Highest activity: <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-university-of-southern-california-t-00-02-55">Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-university-of-southern-california-t-00-02-55" style="--pulse-height:100%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-org-university-of-southern-california-t-00-10-17" style="--pulse-height:100%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-university-of-southern-california-t-00-02-55) | 1 |
+| 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-org-university-of-southern-california-t-00-10-17) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [The University - USC](https://www.usc.edu/we-are-usc/the-university/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1 mentions)</summary>
+
+**[00:10:42](/episodes/ep-4JxgOclKzqg.md#ent-org-university-of-southern-california-t-00-10-17)**
+> "...meback Tour did a stop at the University of Southern California, and here is the back camera shot."
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (1 mentions)</summary>

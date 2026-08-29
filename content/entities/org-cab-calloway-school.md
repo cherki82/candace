@@ -3,9 +3,17 @@ title: "Cab Calloway School"
 description: "Cab Calloway School (Organizations) - 1 mention"
 id: "org-cab-calloway-school"
 type: "ORG"
+categories:
+  - "public arts school"
 ---
 
 _Type: Organizations_
+
+**Categories:** public arts school
+
+**Entity verification:** verified
+> The school's official site confirms the canonical institution identity and arts-school category.
+Source: [About Us — Cab Calloway School of the Arts](https://cabcallowayschool.org/about-us/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-cab-calloway-school-t-00-44-08">2025-12-01 · 00:44:34</a></strong></div>

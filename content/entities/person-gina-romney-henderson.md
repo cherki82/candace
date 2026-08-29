@@ -56,19 +56,19 @@ Source: [BILT Founders to Speak at DFW Leadership Series](https://churchofjesusc
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (5 mentions)</summary>
 
 **[00:17:38](/episodes/ep-rupRLXmSndU.md#ent-person-gina-romney-henderson-t-00-17-20)**
-> "Nathan Henderson, the co-founder, is married to a woman named Gina Romney."
+> "vice versa. But what is not up for debate is that both families were living in the same house down in Keller, Texas, and that Nathan Henderson, the co-founder, is married to a woman named Gina (Gina Romney Henderson)."
 
 **[00:17:50](/episodes/ep-rupRLXmSndU.md#ent-person-gina-romney-henderson-t-00-17-20)**
 > "Okay. Gina Romney Henderson is relevant because she too works at the built co..."
 
 **[00:19:43](/episodes/ep-rupRLXmSndU.md#ent-person-gina-romney-henderson-t-00-19-19)**
-> "...e this also, I should mention Gina Romney also went to BYU. BYU keeps coming up, and I'm ab..."
+> "So you can see this also, I should mention Gina (Gina Romney Henderson) also went to BYU. BYU keeps coming up, and I'm about to drop some bombshells for you about BYU's connection to Israel in particular."
 
 **[00:19:56](/episodes/ep-rupRLXmSndU.md#ent-person-gina-romney-henderson-t-00-19-56)**
-> "...ou know what's regarding Miss Gina Romney? I have to tell you guys that is the third time."
+> "Anyways, do you know what's regarding Miss Gina (Gina Romney Henderson)? I have to tell you guys that is the third time."
 
 **[00:24:23](/episodes/ep-rupRLXmSndU.md#ent-person-gina-romney-henderson-t-00-23-58)**
-> "Henderson and our Gina Romney, he attended BYU. And it really made me wonder, l..."
+> "Henderson and our Gina (Gina Romney Henderson), he attended BYU. And it really made me wonder, like, what the heck goes on at BYU? And fortunately, someone told me."
 
 </details>
 
@@ -83,7 +83,7 @@ Source: [BILT Founders to Speak at DFW Leadership Series](https://churchofjesusc
 - **[BYU](/entities/org-byu.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:19:43](/episodes/ep-rupRLXmSndU.md#t-00-19-19): “So you can see this also, I should mention Gina Romney also went to BYU.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:19:43](/episodes/ep-rupRLXmSndU.md#t-00-19-19): “So you can see this also, I should mention Gina (Gina Romney Henderson) also went to BYU. BYU keeps coming up, and I'm about to drop some bombshells for you about BYU's connection to Israel in particular.”
 
 </details>
 
@@ -95,7 +95,7 @@ Source: [BILT Founders to Speak at DFW Leadership Series](https://churchofjesusc
 - **[Connor Henderson](/entities/person-connor-henderson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:17:38](/episodes/ep-rupRLXmSndU.md#t-00-17-20): “Nathan Henderson, the co-founder, is married to a woman named Gina Romney. Okay. Gina Romney Henderson is relevant because she too works at the built corporation. She's the vice president of their user experience. You can see that here on her LinkedIn. And they also have a son, a young man named Connor Henderson.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:17:38](/episodes/ep-rupRLXmSndU.md#t-00-17-20): “vice versa. But what is not up for debate is that both families were living in the same house down in Keller, Texas, and that Nathan Henderson, the co-founder, is married to a woman named Gina (Gina Romney Henderson). Okay. Gina Romney Henderson is relevant because she too works at the built corporation. She's the vice president of their user experience. You can see that here on her LinkedIn. And they also have a son, a young man named Connor Henderson.”
 
 </details>
 
@@ -119,14 +119,14 @@ Source: [BILT Founders to Speak at DFW Leadership Series](https://churchofjesusc
 - **[BYU](/entities/org-byu.md)** attended by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:19:43](/episodes/ep-rupRLXmSndU.md#t-00-19-19): “So you can see this also, I should mention Gina Romney also went to BYU.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:19:43](/episodes/ep-rupRLXmSndU.md#t-00-19-19): “So you can see this also, I should mention Gina (Gina Romney Henderson) also went to BYU. BYU keeps coming up, and I'm about to drop some bombshells for you about BYU's connection to Israel in particular.”
 
 </details>
 
 - **[Connor Henderson](/entities/person-connor-henderson.md)** child of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:17:38](/episodes/ep-rupRLXmSndU.md#t-00-17-20): “Nathan Henderson, the co-founder, is married to a woman named Gina Romney. Okay. Gina Romney Henderson is relevant because she too works at the built corporation. She's the vice president of their user experience. You can see that here on her LinkedIn. And they also have a son, a young man named Connor Henderson.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:17:38](/episodes/ep-rupRLXmSndU.md#t-00-17-20): “vice versa. But what is not up for debate is that both families were living in the same house down in Keller, Texas, and that Nathan Henderson, the co-founder, is married to a woman named Gina (Gina Romney Henderson). Okay. Gina Romney Henderson is relevant because she too works at the built corporation. She's the vice president of their user experience. You can see that here on her LinkedIn. And they also have a son, a young man named Connor Henderson.”
 
 </details>
 
@@ -140,7 +140,7 @@ Source: [BILT Founders to Speak at DFW Leadership Series](https://churchofjesusc
 - **[Nathan Henderson](/entities/person-nathan-henderson.md)** married to this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:17:38](/episodes/ep-rupRLXmSndU.md#t-00-17-20): “But what is not up for debate is that both families were living in the same house down in Keller, Texas, and that Nathan Henderson, the co-founder, is married to a woman named Gina Romney.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:17:38](/episodes/ep-rupRLXmSndU.md#t-00-17-20): “vice versa. But what is not up for debate is that both families were living in the same house down in Keller, Texas, and that Nathan Henderson, the co-founder, is married to a woman named Gina (Gina Romney Henderson).”
 
 </details>
 

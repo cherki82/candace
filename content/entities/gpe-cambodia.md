@@ -3,9 +3,17 @@ title: "Cambodia"
 description: "Cambodia (Places) - 2 mentions"
 id: "gpe-cambodia"
 type: "GPE"
+categories:
+  - "country"
 ---
 
 _Type: Places_
+
+**Categories:** country
+
+**Entity verification:** verified
+> Canonical name and identity for Cambodia confirmed by the cited direct external source.
+Source: [Cambodia](https://en.wikipedia.org/wiki/Cambodia)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-r1PS67aRmcA.md#ent-gpe-cambodia-t-00-41-11">2025-11-08 · 00:41:39</a></strong></div>

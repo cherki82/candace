@@ -6,11 +6,20 @@ type: "PERSON"
 aliases:
   - "Butch"
   - "Butch Hibbs"
+categories:
+  - "Calvary Chapel network"
+  - "Charlie Kirk event attendee"
 ---
 
 _Type: People_
 
 **Also known as:** Butch, Butch Hibbs
+
+**Categories:** Calvary Chapel network, Charlie Kirk event attendee
+
+**Entity verification:** verified
+> CrossExamined's published transcript identifies Butch Hibbs by name, as Jack Hibbs's brother, and as an attendee photographed with Charlie Kirk shortly before the Utah event; recurring source transcripts identify Butch's canonical first name as Burton.
+Source: [CrossExamined — The Greatness of Charlie Kirk transcript](https://crossexamined.org/wp-content/uploads/2025/09/9.16-Podcast-The-Greatness-of-Charlie-Kirk.pdf)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-person-burton-hibbs-t-00-33-02">2025-11-12 · 00:33:02</a></strong></div>

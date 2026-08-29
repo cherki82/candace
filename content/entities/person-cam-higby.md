@@ -5,11 +5,19 @@ id: "person-cam-higby"
 type: "PERSON"
 aliases:
   - "Kam Higby"
+categories:
+  - "political activist"
 ---
 
 _Type: People_
 
 **Also known as:** Kam Higby
+
+**Categories:** political activist
+
+**Entity verification:** verified
+> Canonical name and identity for Cam Higby confirmed by the cited direct external source.
+Source: [Cam Higby](https://en.wikipedia.org/wiki/Cam_Higby)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-his-JBjlkh8.md#ent-person-cam-higby-t-00-40-39">2025-12-03 · 00:40:39</a></strong></div>

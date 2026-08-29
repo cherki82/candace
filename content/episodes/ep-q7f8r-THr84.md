@@ -319,6 +319,8 @@ youtube_url: "https://www.youtube.com/watch?v=q7f8r-THr84"
 <details>
 <summary><strong>Entities Mentioned (77)</strong></summary>
 
+**Anonymous Sources:** [Melissa / Village Crazy Lady (online handle; identity unverified)](/entities/anon-src-YFmRH8p5lt0-002.md)
+
 **Concepts:** [Christians](/entities/concept-christians.md), [God](/entities/concept-god.md), [MAGA movement](/entities/concept-maga-movement.md), [Me Too](/entities/concept-me-too.md)
 
 **Dates:** [2025](/entities/date-2025.md), [August 27th](/entities/date-august-27th.md), [August 6](/entities/date-august-6.md), [September 10, 2025](/entities/date-september-10-2025.md), [September 10th](/entities/date-september-10th.md), [September 11th](/entities/date-september-11th.md), [September 30th, 2025](/entities/date-september-30th-2025.md)
@@ -329,7 +331,7 @@ youtube_url: "https://www.youtube.com/watch?v=q7f8r-THr84"
 
 **Organizations:** [4th Company, 2nd Foreign Infantry Regiment](/entities/org-4th-company-2nd-foreign-infantry-regiment.md), [American Financing](/entities/org-american-financing.md), [Black Lives Matter](/entities/org-black-lives-matter.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [FBI](/entities/org-fbi.md), [Federal Reserve](/entities/org-federal-reserve.md), [Fox News](/entities/org-fox-news.md), [Gno.land](/entities/org-gno-land.md), [Hamas](/entities/org-hamas.md), [Internal Revenue Service](/entities/org-internal-revenue-service.md), [Mossad](/entities/org-mossad.md), [Neemee Skincare](/entities/org-neemee-skincare.md), [Nimi Skincare](/entities/org-nimi-skincare.md), [Paleovalley](/entities/org-paleovalley.md), [PreBorn!](/entities/org-preborn.md), [TMZ](/entities/org-tmz.md), [Tax Network USA](/entities/org-tax-network-usa.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Twitter](/entities/org-twitter.md), [Utah Valley University](/entities/org-utah-valley-university.md), [Washington County Sheriff's Office](/entities/org-washington-county-sheriff-s-office.md)
 
-**People:** [Aaron Wexler](/entities/person-aaron-wexler.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Brandon Tatum](/entities/person-brandon-tatum.md), [Brian Mast](/entities/person-brian-mast.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Rubin](/entities/person-dave-rubin.md), [Dave Smith](/entities/person-dave-smith.md), [Donald J. Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erika-kirk.md), [George Zinn](/entities/person-george-zinn.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Jesus Christ](/entities/person-jesus-christ.md), [Josh Hammer](/entities/person-josh-hammer.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Laura Loomer](/entities/person-laura-loomer.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Melissa (Village Crazy Lady)](/entities/person-melissa-village-crazy-lady.md), [Patrick Bet-David](/entities/person-patrick-bet-david.md), [Phil Lyman](/entities/person-phil-lyman.md), [Sarah Stockton](/entities/person-sarah-stockton.md), [Seth Dillon](/entities/person-seth-dillon.md), [Skyler](/entities/person-skyler.md), [Spencer Cox](/entities/person-spencer-cox.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
+**People:** [Aaron Wexler](/entities/person-aaron-wexler.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Bill Ackman](/entities/person-bill-ackman.md), [Brandon Tatum](/entities/person-brandon-tatum.md), [Brian Mast](/entities/person-brian-mast.md), [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Dave Rubin](/entities/person-dave-rubin.md), [Dave Smith](/entities/person-dave-smith.md), [Donald J. Trump](/entities/person-donald-trump.md), [Erika Kirk](/entities/person-erika-kirk.md), [George Zinn](/entities/person-george-zinn.md), [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Jesus Christ](/entities/person-jesus-christ.md), [Josh Hammer](/entities/person-josh-hammer.md), [Lance Twiggs](/entities/person-lance-twiggs.md), [Laura Loomer](/entities/person-laura-loomer.md), [Megyn Kelly](/entities/person-megyn-kelly.md), [Patrick Bet-David](/entities/person-patrick-bet-david.md), [Phil Lyman](/entities/person-phil-lyman.md), [Sarah Stockton](/entities/person-sarah-stockton.md), [Seth Dillon](/entities/person-seth-dillon.md), [Skyler Broderick](/entities/person-skyler-broderick.md), [Spencer Cox](/entities/person-spencer-cox.md), [Tucker Carlson](/entities/person-tucker-carlson.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 **Works & Media:** [PBD Podcast](/entities/work-pbd-podcast.md), [The Matrix](/entities/work-the-matrix.md)
 
@@ -355,7 +357,7 @@ youtube_url: "https://www.youtube.com/watch?v=q7f8r-THr84"
 - [00:03:09](#t-00-02-49) [○] (Claim) **Candace Owens**: ["George Zinn was arrested and is facing charges of obstruction of justice"](/statements/statement-4f9967d6f252.md)
   - About: [George Zinn](/entities/person-george-zinn.md)
 - [00:03:31](#t-00-03-19) [○] (Claim) **Candace Owens**: ["he's now facing charges of obstruction of justice because he didn't do it, right..."](/statements/statement-e84c545c66e3.md)
-- [00:03:31](#t-00-03-31) [✓] (Claim) **Candace Owens**: ["George Zinn was charged with obstruction of justice after falsely claiming respo..."](/statements/statement-af1fe595f032.md)
+- [00:03:31](#t-00-03-31) [✓] (Claim) **Candace Owens**: ["George Zinn was charged with obstruction of justice after allegedly faking respo..."](/statements/statement-af1fe595f032.md)
 - [00:03:44](#t-00-03-31) [○] (Claim) **Candace Owens**: ["George Zinn was booked in connection with images on his cell phone related to ch..."](/statements/statement-8a59fc9abc13.md)
   - About: [George Zinn](/entities/person-george-zinn.md)
 - [00:03:44](#t-00-03-31) [○] (Claim) **Candace Owens**: ["George Zinn charged with harboring images of child abuse in addition to obstruct..."](/statements/statement-53b7a78cf13e.md)
@@ -373,12 +375,12 @@ youtube_url: "https://www.youtube.com/watch?v=q7f8r-THr84"
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md)
 - [00:08:07](#t-00-07-39) [○] (Claim) **Candace Owens**: ["Surveillance camera recorded individual in dark clothing who crossed railing fro..."](/statements/statement-c94566f55e07.md)
   - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
-- [00:08:28](#t-00-08-07) [✓] (Claim) **Candace Owens**: ["Charlie Kirk gets shot at 12:23 p.m."](/statements/statement-a9c04b4ae280.md)
-  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:08:28](#t-00-08-07) [○] (Claim) **Candace Owens**: ["The suspect dropped onto the roof at approximately 12:15 p.m. and Charlie Kirk w..."](/statements/statement-8007334aad66.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:08:28](#t-00-08-07) [✓] (Claim) **Candace Owens**: ["Suspect crossed railing onto roof at approximately 12:15 p.m. and Charlie Kirk w..."](/statements/statement-aebd5ec91482.md)
 - [00:08:28](#t-00-08-07) [◐] (Claim) **Candace Owens**: ["he was on that roof since 12:15 p.m., so he's setting up that shot, we can assum..."](/statements/statement-288df0a22458.md)
+- [00:08:28](#t-00-08-07) [✓] (Claim) **Candace Owens**: ["Charlie Kirk gets shot at 12:23 p.m."](/statements/statement-a9c04b4ae280.md)
+  - About: [Charlie Kirk assassination](/entities/event-charlie-kirk-assassination.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:09:27](#t-00-08-44) [○] (Claim) **Candace Owens**: ["The suspect entered campus at approximately 11:51 a.m."](/statements/statement-f50cfca3b118.md)
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md)
 - [00:09:27](#t-00-08-44) [✓] (Claim) **Candace Owens**: ["Suspect entered campus from the north at approximately 11:51 a.m. wearing black ..."](/statements/statement-04029db0325a.md)
@@ -439,9 +441,9 @@ youtube_url: "https://www.youtube.com/watch?v=q7f8r-THr84"
   - About: [Tyler Robinson](/entities/person-tyler-robinson.md), [Lance Twiggs](/entities/person-lance-twiggs.md)
 - [00:29:58](#t-00-29-34) [○] (Claim) **Candace Owens**: ["House where Tyler Robinson lived with Lance Twiggs is owned by Lance Twiggs's fa..."](/statements/statement-c8d5e18bf6cc.md)
   - About: [Lance Twiggs](/entities/person-lance-twiggs.md), [Tyler Robinson](/entities/person-tyler-robinson.md)
-- [00:30:22](#t-00-30-01) [○] (Claim) **Candace Owens**: ["Lance Twiggs's parents kicked him out junior year of high school because he was ..."](/statements/statement-4ca1e3c57b76.md)
-  - About: [Lance Twiggs](/entities/person-lance-twiggs.md)
 - [00:30:28](#t-00-30-01) [○] (Claim) **Lance Twiggs**: ["Lance Twiggs's family allegedly told me that his parents kicked him out during h..."](/statements/statement-007478182ea9.md)
+- [00:30:35](#t-00-30-01) [○] (Claim) **Candace Owens**: ["Lance Twiggs's parents allegedly kicked him out during his junior year of high s..."](/statements/statement-4ca1e3c57b76.md)
+  - About: [Lance Twiggs](/entities/person-lance-twiggs.md)
 - [00:31:05](#t-00-30-46) [○] (Claim) **Candace Owens**: ["Christmas, approximately three years ago, he almost overdosed. He drank a bottle..."](/statements/statement-91def47132ea.md)
 - [00:31:39](#t-00-31-29) [○] (Claim) **Candace Owens**: ["Just this past Easter Sunday, they are telling me that he showed up on drugs and..."](/statements/statement-945c15ae45fd.md)
 - [00:32:16](#t-00-32-06) [○] (Opinion) **Candace Owens**: ["Lance's family is telling me that they are not buying the current story and that..."](/statements/statement-99707d14fb3a.md)
@@ -465,7 +467,7 @@ youtube_url: "https://www.youtube.com/watch?v=q7f8r-THr84"
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:42:21](#t-00-41-45) [○] (Claim) **Candace Owens**: ["If I tweeted, 'I think that Benjamin Netanyahu should resign,' that he would the..."](/statements/statement-b91af0d545ee.md)
 - [00:42:32](#t-00-42-21) [○] (Claim) **Candace Owens**: ["Seth Dillon then allegedly pipes up and goes back and forth with him quite aggre..."](/statements/statement-39724851d915.md)
-- [00:42:34](#t-00-42-21) [○] (Accusation) **Candace Owens**: ["Seth Dillon went back and forth with Charlie Kirk aggressively at the Hamptons r..."](/statements/statement-81d5d5252702.md)
+- [00:42:34](#t-00-42-21) [○] (Accusation) **Candace Owens**: ["Seth Dillon allegedly went back and forth aggressively with Charlie Kirk at the ..."](/statements/statement-81d5d5252702.md)
   - About: [Seth Dillon](/entities/person-seth-dillon.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 - [00:42:42](#t-00-42-21) [○] (Claim) **Candace Owens**: ["after Charlie left, Josh Hammer was upset"](/statements/statement-4ba9d15dea5a.md)
 - [00:42:46](#t-00-42-21) [○] (Claim) **Candace Owens**: ["Josh Hammer was a part of the beehive that was swarming him about people that he..."](/statements/statement-159ef254eb36.md)

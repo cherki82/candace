@@ -33,7 +33,7 @@ type: "accusation"
 **Timestamp:** [00:20:58](/episodes/ep-eLgD5yUVbko.md#t-00-20-19) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1258);return false;">Play</a>
 
-> Then I get a flurry of emails last week from people at Alliance Defending Freedom ... they're like, you know, Ben is working with Erica on ways to sue you. He's become suddenly very influential in Alliance defending freedom.
+> Then I get a flurry of emails last week from people at Alliance Defending Freedom, okay, massive organization. ... So they, again, touch some of these people and they're like, you know, Ben is working with Erika on ways to sue you. He's become suddenly very influential in Alliance Defending Freedom.
 
 ## Verification
 

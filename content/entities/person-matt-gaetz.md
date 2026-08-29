@@ -3,9 +3,17 @@ title: "Matt Gaetz"
 description: "Matt Gaetz (People) - 7 mentions"
 id: "person-matt-gaetz"
 type: "PERSON"
+categories:
+  - "politician"
 ---
 
 _Type: People_
+
+**Categories:** politician
+
+**Entity verification:** verified
+> Canonical name and identity for Matt Gaetz confirmed by the cited direct external source.
+Source: [Matt Gaetz](https://en.wikipedia.org/wiki/Matt_Gaetz)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-matt-gaetz-t-00-50-49">2025-09-17 · 00:51:08</a></strong></div>

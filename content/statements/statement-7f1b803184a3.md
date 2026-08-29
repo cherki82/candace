@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [00:27:24](/episodes/ep-es7PWdFGoFI.md#t-00-26-38) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1644);return false;">Play</a>
 
-> during those 10 minutes, he three-wayed Erika three minutes after the shot went off. And then he three-ways his father, and then he three-ways a third person
+> And during those 10 minutes, he three-wayed Erika (Erika Kirk) three minutes after the shot went off. And then he three-ways his father, and then he three-ways a third person who I'm not interested in mentioning because it's not relevant.
 
 ## Verification
 

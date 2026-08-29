@@ -1,6 +1,6 @@
 ---
 title: "Jeremy Boreing"
-description: "Jeremy Boreing (People) - 81 mentions"
+description: "Jeremy Boreing (People) - 79 mentions"
 id: "person-jeremy-boreing"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-jeremy-boreing-t-00-02-51">2025-11-06 · 00:03:33</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-person-jeremy-boreing-t-00-10-32">2026-07-23 · 00:11:03</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#t-00-31-32">2026-08-10 · 00:31:32</a></strong></div>
 <div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>81</strong></div>
+<div><span>Mentions</span><strong>79</strong></div>
 <div><span>Statements by</span><strong>15</strong></div>
-<div><span>Statements about</span><strong>31</strong></div>
-<div><span>Relationships</span><strong>32</strong></div>
+<div><span>Statements about</span><strong>30</strong></div>
+<div><span>Relationships</span><strong>35</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -38,19 +38,19 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-jeremy-boreing-t-00-02-51" style="--pulse-height:8%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-person-jeremy-boreing-t-00-12-19" style="--pulse-height:23%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 7 mentions" title="2025-11-08 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-jeremy-boreing-t-00-12-00" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-jeremy-boreing-t-00-14-33" style="--pulse-height:10%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 3 mentions" title="2026-01-07 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#t-00-43-14" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-jeremy-boreing-t-00-00-41" style="--pulse-height:61%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 19 mentions" title="2026-01-28 · 19 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-jeremy-boreing-t-00-10-44" style="--pulse-height:8%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-jeremy-boreing-t-00-41-24" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-jeremy-boreing-t-00-53-07" style="--pulse-height:13%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 4 mentions" title="2026-03-12 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-eLgD5yUVbko.md#t-00-18-22" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-person-jeremy-boreing-t-00-18-22" style="--pulse-height:8%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-uC_GjKU8rs8.md#ent-person-jeremy-boreing-t-00-11-19" style="--pulse-height:10%" aria-label="Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332: 3 mentions" title="2026-05-04 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-person-jeremy-boreing-t-00-00-01" style="--pulse-height:100%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 31 mentions" title="2026-05-06 · 31 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-jeremy-boreing-t-00-42-32" style="--pulse-height:16%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 5 mentions" title="2026-06-24 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#t-01-06-30" style="--pulse-height:8%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-jeremy-boreing-t-00-47-39" style="--pulse-height:8%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-person-jeremy-boreing-t-00-10-32" style="--pulse-height:8%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#t-00-31-32" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -59,19 +59,19 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 | 2025-11-06 | [#1 Podcast Worldwide! Plus, Erika Kirk's Interview. | Candace Ep 260](/episodes/ep-vwG1juDCQZQ.md#ent-person-jeremy-boreing-t-00-02-51) | 1 |
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-person-jeremy-boreing-t-00-12-19) | 7 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-jeremy-boreing-t-00-12-00) | 1 |
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-jeremy-boreing-t-00-14-33) | 3 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#t-00-43-14) | 1 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-jeremy-boreing-t-00-00-41) | 19 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-jeremy-boreing-t-00-10-44) | 1 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-jeremy-boreing-t-00-41-24) | 1 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-jeremy-boreing-t-00-53-07) | 4 |
-| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#t-00-18-22) | 1 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-jeremy-boreing-t-00-18-22) | 1 |
 | 2026-05-04 | [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8.md#ent-person-jeremy-boreing-t-00-11-19) | 3 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-person-jeremy-boreing-t-00-00-01) | 31 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-jeremy-boreing-t-00-42-32) | 5 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#t-01-06-30) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-jeremy-boreing-t-00-47-39) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-jeremy-boreing-t-00-10-32) | 1 |
+| 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#t-00-31-32) | 1 |
 
 </details>
 </section>
@@ -79,7 +79,15 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (81)</strong></summary>
+<summary><strong class="section-title">Raw mentions (79)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>
+
+**[00:31:32](/episodes/ep-5zgkrOaCCj4.md#t-00-31-32)**
+> "Jeremy Boring"
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1 mentions)</summary>
@@ -240,8 +248,8 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>
 
-**[00:18:22](/episodes/ep-eLgD5yUVbko.md#t-00-18-22)**
-> "jeremy boring"
+**[00:18:22](/episodes/ep-eLgD5yUVbko.md#ent-person-jeremy-boreing-t-00-18-22)**
+> "coincidences adding up here okay first and foremost i have told you i have proven to you many times over that charlie hated ben everybody knows that uh even Jeremy Boreing when he won his like candace tour uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on pierce morgan that's the former ceo of daily wire erica knew this andrew colvet knew this and as i've said to you after i was fired from a daily wire And yet beginning of 2024,"
 
 </details>
 
@@ -345,20 +353,6 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 
 **[00:43:25](/episodes/ep-2T39-oADLj0.md#t-00-43-14)**
 > "twitter audio or x audio space that he did with jeremy boring who at that time was the ceo of daily wire and i heard the backstory i was like this is insane like what happened to him nobody can look at that backstory of what happened to him and not realize that it was just evil"
-
-</details>
-
-<details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (3 mentions)</summary>
-
-**[00:14:33](/episodes/ep-zSKrxIUMNqw.md#ent-person-jeremy-boreing-t-00-14-33)**
-> "... always wrong was revealed by Jeremy Boreing in that town hall as a reason why I was fired. Al..."
-
-**[00:14:48](/episodes/ep-zSKrxIUMNqw.md#ent-person-jeremy-boreing-t-00-14-33)**
-> "...expressed by then CEO Jeremy (Jeremy Boreing) in the company wide town slave hanging that was ..."
-
-**[00:39:51](/episodes/ep-zSKrxIUMNqw.md#ent-person-jeremy-boreing-t-00-39-32)**
-> "...id in that conference room to Jeremy Boreing, because it's so true today and I feel so good ab..."
 
 </details>
 
@@ -507,6 +501,18 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
+<summary>Former Ceo Of (1)</summary>
+
+- **[The Daily Wire](/entities/org-the-daily-wire.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:18:22](/episodes/ep-eLgD5yUVbko.md#t-00-18-22): “coincidences adding up here okay first and foremost i have told you i have proven to you many times over that charlie hated ben everybody knows that uh even Jeremy Boreing when he won his like candace tour uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on pierce morgan that's the former ceo of daily wire erica knew this andrew colvet knew this and as i've said to you after i was fired from a daily wire And yet beginning of 2024,”
+
+</details>
+
+</details>
+
+<details>
 <summary>Formerly Employed (2)</summary>
 
 - **[Brett Cooper](/entities/person-brett-cooper.md)**
@@ -532,7 +538,7 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:00:37](/episodes/ep-QdM9jLwjwLw.md#t-00-00-00): “And speaking of different ways to grieve, the now former CEO of Daily Wire, ... Jeremy Boreing, is back trying to make a comeback to proclaim his name in the press after he ran the company into the ground.”
-- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:18:22](/episodes/ep-eLgD5yUVbko.md#t-00-17-43): “coincidences adding up here okay first and foremost i have told you i have proven to you many times over that charlie hated ben everybody knows that uh even jeremy boring when he won his like candace tour uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on pierce morgan that's the former ceo of daily wire erica knew this andrew colvet knew this and as i've said to you after i was fired from a daily wire And yet beginning of 2024,”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:18:22](/episodes/ep-eLgD5yUVbko.md#t-00-18-22): “coincidences adding up here okay first and foremost i have told you i have proven to you many times over that charlie hated ben everybody knows that uh even Jeremy Boreing when he won his like candace tour uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on pierce morgan that's the former ceo of daily wire erica knew this andrew colvet knew this and as i've said to you after i was fired from a daily wire And yet beginning of 2024,”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:00:01](/episodes/ep-k1b1NDCrNFs.md#t-00-00-01): “All right, you guys, happy Wednesday. What do I have for you today? A lot. Hook, line and sinker. Jeremy Boreing, former CEO of Daily Wire, goes on the offense against my husband.”
 
 </details>
@@ -600,7 +606,7 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
-<summary>Worked With (1)</summary>
+<summary>Worked With (2)</summary>
 
 - **[Alyssa Cordova](/entities/person-alyssa-cordova.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -609,10 +615,17 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 
 </details>
 
+- **[Anonymous Source #1 (Ep 5zgkrOaCCj4)](/entities/anon-src-5zgkrOaCCj4-001.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 @ 00:31:32](/episodes/ep-5zgkrOaCCj4.md#t-00-31-32): “So my assumption was that this account No Soup for Knowles was like a a young person who got obsessed and then got more obsessed because they're using an avatar that looks like this and got more obsessed with the daily wire they started attacking me with uh this Britta (Britta Widener) is her name started attacking me with the crisis king stuff because she was a daily wire super fan and like obviously i knew that their pr agent and Jeremy Boring were working through her because Jeremy Boring likes to find these”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (15)</summary>
+<summary>Referenced By (16)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -673,7 +686,7 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 @ 00:00:37](/episodes/ep-QdM9jLwjwLw.md#t-00-00-00): “And speaking of different ways to grieve, the now former CEO of Daily Wire, ... Jeremy Boreing, is back trying to make a comeback to proclaim his name in the press after he ran the company into the ground.”
-- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:18:22](/episodes/ep-eLgD5yUVbko.md#t-00-17-43): “coincidences adding up here okay first and foremost i have told you i have proven to you many times over that charlie hated ben everybody knows that uh even jeremy boring when he won his like candace tour uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on pierce morgan that's the former ceo of daily wire erica knew this andrew colvet knew this and as i've said to you after i was fired from a daily wire And yet beginning of 2024,”
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:18:22](/episodes/ep-eLgD5yUVbko.md#t-00-18-22): “coincidences adding up here okay first and foremost i have told you i have proven to you many times over that charlie hated ben everybody knows that uh even Jeremy Boreing when he won his like candace tour uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on pierce morgan that's the former ceo of daily wire erica knew this andrew colvet knew this and as i've said to you after i was fired from a daily wire And yet beginning of 2024,”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:00:01](/episodes/ep-k1b1NDCrNFs.md#t-00-00-01): “All right, you guys, happy Wednesday. What do I have for you today? A lot. Hook, line and sinker. Jeremy Boreing, former CEO of Daily Wire, goes on the offense against my husband.”
 
 </details>
@@ -710,6 +723,13 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Ben Shapiro Is Crying Again. | Candace Ep 261 @ 00:12:42](/episodes/ep-r1PS67aRmcA.md#t-00-12-19): “the CEO of the Daily Wire, at the time it was Jeremy Boreing, jumped onto an X space hosted by Lauren Chen and had a conversation with Nick Fuentes where he sang Nick Fuentes's praises and also invited him onto the Daily Wire, okay?”
+
+</details>
+
+- **[The Daily Wire](/entities/org-the-daily-wire.md)** has former CEO this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:18:22](/episodes/ep-eLgD5yUVbko.md#t-00-18-22): “coincidences adding up here okay first and foremost i have told you i have proven to you many times over that charlie hated ben everybody knows that uh even Jeremy Boreing when he won his like candace tour uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on pierce morgan that's the former ceo of daily wire erica knew this andrew colvet knew this and as i've said to you after i was fired from a daily wire And yet beginning of 2024,”
 
 </details>
 
@@ -797,7 +817,7 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Jeremy Boreing (31)</strong></summary>
+<summary><strong class="section-title">Statements about Jeremy Boreing (30)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>
@@ -879,6 +899,14 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (1)</summary>
+
+- [00:04:46](/episodes/ep-xjzb_t5Tk9o.md#t-00-04-20) (Accusation) **Candace Owens**: ["Jeremy Boreing publicly identified Owens's views that genocide is alwa..."](/statements/statement-22bf3ad02120.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Genocide](/entities/concept-genocide.md)
+
+</details>
+
+<details>
 <summary>Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297 (9)</summary>
 
 - [00:46:53](/episodes/ep-QdM9jLwjwLw.md#t-00-46-30) (Accusation) **Candace Owens**: ["Owens said she was told Jeremy Boreing spent about $67 million on his ..."](/statements/statement-e105cd32e317.md)
@@ -907,17 +935,6 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 
 - [01:03:05](/episodes/ep-QdM9jLwjwLw.md#t-01-02-58) (Accusation) **Candace Owens** (via paraphrase): ["Jeremy Boreing repeatedly threatened that The Daily Wire would bankrup..."](/statements/statement-41320863a4cd.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md)
-
-</details>
-
-<details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (2)</summary>
-
-- [00:14:33](/episodes/ep-zSKrxIUMNqw.md#t-00-13-54) (Accusation) **Candace Owens**: ["Jeremy Boreing publicly identified Owens's views that genocide is alwa..."](/statements/statement-22bf3ad02120.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md), [The Daily Wire](/entities/org-the-daily-wire.md), [Genocide](/entities/concept-genocide.md)
-
-- [00:39:34](/episodes/ep-zSKrxIUMNqw.md#t-00-39-32) (Accusation) **Candace Owens**: ["The Daily Wire threatened to reduce Candace Owens's contract unless sh..."](/statements/statement-ced70ad0f846.md)
-  - Also about: [The Daily Wire](/entities/org-the-daily-wire.md), [Candace Owens](/entities/person-candace-owens.md), [Kanye West](/entities/person-kanye-west.md)
 
 </details>
 

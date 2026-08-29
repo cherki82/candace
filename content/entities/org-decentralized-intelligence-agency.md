@@ -1,21 +1,30 @@
 ---
 title: "The Decentralized Intelligence Agency"
-description: "The Decentralized Intelligence Agency (Organizations) - 11 mentions"
+description: "The Decentralized Intelligence Agency (Organizations) - 12 mentions"
 id: "org-decentralized-intelligence-agency"
 type: "ORG"
 aliases:
   - "Decentralized Intelligence Agency"
+categories:
+  - "Candace Owens audience brand"
+  - "crowdsourced research community"
 ---
 
 _Type: Organizations_
 
 **Also known as:** Decentralized Intelligence Agency
 
+**Categories:** Candace Owens audience brand, crowdsourced research community
+
+**Entity verification:** verified
+> Candace Owens uses this name for her distributed audience research community; the source episode names it directly and her official shop independently confirms the related CIA audience brand.
+Source: [CIA Collection | Shop Candace](https://shop.candaceowens.com/collections/cia)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-decentralized-intelligence-agency-t-01-08-31">2025-09-15 · 01:08:53</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-org-decentralized-intelligence-agency-t-00-40-40">2025-11-21 · 00:41:09</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-decentralized-intelligence-agency-t-00-53-34">2026-08-04 · 00:53:34</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -34,6 +43,7 @@ _Type: Organizations_
 <a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-decentralized-intelligence-agency-t-00-02-47" style="--pulse-height:33%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-decentralized-intelligence-agency-t-00-49-32" style="--pulse-height:33%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-org-decentralized-intelligence-agency-t-00-40-40" style="--pulse-height:33%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 1 mentions" title="2025-11-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-decentralized-intelligence-agency-t-00-53-34" style="--pulse-height:33%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -47,6 +57,7 @@ _Type: Organizations_
 | 2025-10-31 | [INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256](/episodes/ep-YFmRH8p5lt0.md#ent-org-decentralized-intelligence-agency-t-00-02-47) | 1 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-org-decentralized-intelligence-agency-t-00-49-32) | 1 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-org-decentralized-intelligence-agency-t-00-40-40) | 1 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-org-decentralized-intelligence-agency-t-00-53-34) | 1 |
 
 </details>
 </section>
@@ -54,7 +65,15 @@ _Type: Organizations_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>
+
+**[00:53:34](/episodes/ep-1CFDtD0IgEg.md#ent-org-decentralized-intelligence-agency-t-00-53-34)**
+> "...hats are CIA hats, but we are the decentralized intelligence agency."
+
+</details>
 
 <details>
 <summary>Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 (1 mentions)</summary>

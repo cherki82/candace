@@ -1,6 +1,6 @@
 ---
 title: "Iraq"
-description: "Iraq (Places) - 51 mentions"
+description: "Iraq (Places) - 53 mentions"
 id: "gpe-iraq"
 type: "GPE"
 categories:
@@ -18,9 +18,9 @@ Source: [Iraq - The World Factbook](https://www.cia.gov/the-world-factbook/count
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iraq-t-00-09-46">2025-11-12 · 00:10:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-iraq-t-00-15-45">2026-06-18 · 00:15:54</a></strong></div>
-<div><span>Episodes</span><strong>15</strong></div>
-<div><span>Mentions</span><strong>51</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-iraq-t-00-39-19">2026-08-03 · 00:39:36</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>53</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -32,6 +32,7 @@ Source: [Iraq - The World Factbook](https://www.cia.gov/the-world-factbook/count
 <p>Highest activity: <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-iraq-t-00-02-20">CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301</a> (12 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iraq-t-00-09-46" style="--pulse-height:33%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 4 mentions" title="2025-11-12 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-iraq-t-01-04-58" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iraq-t-00-06-25" style="--pulse-height:25%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-gpe-iraq-t-00-11-47" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-iraq-t-00-47-33" style="--pulse-height:17%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
@@ -46,12 +47,14 @@ Source: [Iraq - The World Factbook](https://www.cia.gov/the-world-factbook/count
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-iraq-t-00-51-25" style="--pulse-height:25%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 3 mentions" title="2026-05-19 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-gpe-iraq-t-00-18-35" style="--pulse-height:8%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-iraq-t-00-15-45" style="--pulse-height:8%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-iraq-t-00-39-19" style="--pulse-height:8%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-iraq-t-00-09-46) | 4 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-iraq-t-01-04-58) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iraq-t-00-06-25) | 3 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-gpe-iraq-t-00-11-47) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-iraq-t-00-47-33) | 2 |
@@ -66,6 +69,7 @@ Source: [Iraq - The World Factbook](https://www.cia.gov/the-world-factbook/count
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-iraq-t-00-51-25) | 3 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-gpe-iraq-t-00-18-35) | 1 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-iraq-t-00-15-45) | 1 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-gpe-iraq-t-00-39-19) | 1 |
 
 </details>
 </section>
@@ -73,7 +77,15 @@ Source: [Iraq - The World Factbook](https://www.cia.gov/the-world-factbook/count
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (51)</strong></summary>
+<summary><strong class="section-title">Raw mentions (53)</strong></summary>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
+
+**[00:39:36](/episodes/ep-AH1KVKkweUE.md#ent-gpe-iraq-t-00-39-19)**
+> "...w what, they were wrong about Iraq, they were wrong about Syria, they were wrong abo..."
+
+</details>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1 mentions)</summary>
@@ -283,6 +295,14 @@ Source: [Iraq - The World Factbook](https://www.cia.gov/the-world-factbook/count
 
 **[00:20:30](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iraq-t-00-20-15)**
 > "...vietnam he was in japan korea iraq israel you name it all over the place throughout ..."
+
+</details>
+
+<details>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
+
+**[01:05:26](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-iraq-t-01-04-58)**
+> "Iraq, Syria, Afghanistan. No, really, this time we're ..."
 
 </details>
 

@@ -5,11 +5,19 @@ id: "org-rodney-square"
 type: "ORG"
 aliases:
   - "1 Rodney Square"
+categories:
+  - "public square"
 ---
 
 _Type: Organizations_
 
 **Also known as:** 1 Rodney Square
+
+**Categories:** public square
+
+**Entity verification:** verified
+> Canonical name and identity for Rodney Square confirmed by the cited direct external source.
+Source: [Rodney Square](https://en.wikipedia.org/wiki/Rodney_Square)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-SKGUzGHymcI.md#ent-org-rodney-square-t-00-08-19">2025-11-19 · 00:08:27</a></strong></div>

@@ -90,7 +90,7 @@ Source: [SBIR Award: BILT INC](https://www.sbir.gov/awards/186802)
 **[00:01:45](/episodes/ep-q1NRQQAYS_Q.md#ent-org-bilt-incorporated-t-00-01-45)**
 > "built app"
 
-**[00:09:31](/episodes/ep-q1NRQQAYS_Q.md#ent-org-bilt-incorporated-t-00-09-31)**
+**[00:09:31](/episodes/ep-q1NRQQAYS_Q.md#ent-org-bilt-incorporated-t-00-09-00)**
 > "...led. He said, but what I have built is, well, one day if I'm not around be vision led..."
 
 </details>
@@ -189,7 +189,7 @@ Source: [SBIR Award: BILT INC](https://www.sbir.gov/awards/186802)
 - **[Ahmed Qureshi](/entities/person-ahmed-qureshi.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:12:27](/episodes/ep-rupRLXmSndU.md#t-00-11-43): “In fact, we can further assume that BILT is somehow related to his job in the military because his LinkedIn also informs us that Ahmed co-founded BILT back in 2015 when he was full time as an 05.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:12:27](/episodes/ep-rupRLXmSndU.md#t-00-11-43): “In fact, we can further assume that BILT is somehow related to his job in the military because his LinkedIn also informs us that Ahmed (Ahmed Qureshi) co-founded BILT back in 2015 when he was full time as an 05.”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 01:10:33](/episodes/ep-h76ZN-xXC6c.md#t-01-10-33): “We're looking into Zachariah Qureshi. His father was one half of the built organization along with someone Henderson and their sons lived at some point in the same house.”
 
 </details>
@@ -197,7 +197,7 @@ Source: [SBIR Award: BILT INC](https://www.sbir.gov/awards/186802)
 - **[Nathan Henderson](/entities/person-nathan-henderson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:16:39](/episodes/ep-rupRLXmSndU.md#t-00-16-05): “Because Ahmed, remember, Zachariah's dad, he's listed as a co-founder of Built. Who did he co-found this with? Who was his business partner? Who was the other half of this intelligence app that got a nice injection of cash from the Air Force in June? That would be a man named Nathan Henderson.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:16:39](/episodes/ep-rupRLXmSndU.md#t-00-16-05): “Because Ahmed (Ahmed Qureshi), remember, Zachariah (Zachariah Qureshi)'s dad, he's listed as a co-founder of Built. Who did he co-found this with? Who was his business partner? Who was the other half of this intelligence app that got a nice injection of cash from the Air Force in June? That would be a man named Nathan Henderson. And don't worry, guys, I, of course, will have a graphic for you at the end so you can screenshot and save it and study it and it'll look really clean because it's very significant that you know these names.”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 01:10:33](/episodes/ep-h76ZN-xXC6c.md#t-01-10-33): “We're looking into Zachariah Qureshi. His father was one half of the built organization along with someone Henderson and their sons lived at some point in the same house.”
 
 </details>
@@ -236,7 +236,7 @@ Source: [SBIR Award: BILT INC](https://www.sbir.gov/awards/186802)
 - **[Ahmed Qureshi](/entities/person-ahmed-qureshi.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:10:25](/episodes/ep-rupRLXmSndU.md#t-00-10-19): “Okay, let's check this out. It lists Ahmed first and foremost, as you can see here, as the president and COO of Built Incorporated, which is based in Dallas-Fort Worth, Texas.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:10:25](/episodes/ep-rupRLXmSndU.md#t-00-10-19): “Okay, let's check this out. It lists Ahmed (Ahmed Qureshi) first and foremost, as you can see here, as the president and COO of Built Incorporated, which is based in Dallas-Fort Worth, Texas.”
 
 </details>
 
@@ -248,7 +248,7 @@ Source: [SBIR Award: BILT INC](https://www.sbir.gov/awards/186802)
 - **[Ahmed Qureshi](/entities/person-ahmed-qureshi.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:10:25](/episodes/ep-rupRLXmSndU.md#t-00-10-19): “Okay, let's check this out. It lists Ahmed first and foremost, as you can see here, as the president and COO of Built Incorporated, which is based in Dallas-Fort Worth, Texas.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:10:25](/episodes/ep-rupRLXmSndU.md#t-00-10-19): “Okay, let's check this out. It lists Ahmed (Ahmed Qureshi) first and foremost, as you can see here, as the president and COO of Built Incorporated, which is based in Dallas-Fort Worth, Texas.”
 
 </details>
 
@@ -260,7 +260,7 @@ Source: [SBIR Award: BILT INC](https://www.sbir.gov/awards/186802)
 - **[Ahmed Qureshi](/entities/person-ahmed-qureshi.md)** COO of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:10:25](/episodes/ep-rupRLXmSndU.md#t-00-10-19): “Okay, let's check this out. It lists Ahmed first and foremost, as you can see here, as the president and COO of Built Incorporated, which is based in Dallas-Fort Worth, Texas.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:10:25](/episodes/ep-rupRLXmSndU.md#t-00-10-19): “Okay, let's check this out. It lists Ahmed (Ahmed Qureshi) first and foremost, as you can see here, as the president and COO of Built Incorporated, which is based in Dallas-Fort Worth, Texas.”
 
 </details>
 
@@ -283,7 +283,7 @@ Source: [SBIR Award: BILT INC](https://www.sbir.gov/awards/186802)
 - **[Ahmed Qureshi](/entities/person-ahmed-qureshi.md)** founded this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:12:27](/episodes/ep-rupRLXmSndU.md#t-00-11-43): “In fact, we can further assume that BILT is somehow related to his job in the military because his LinkedIn also informs us that Ahmed co-founded BILT back in 2015 when he was full time as an 05.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:12:27](/episodes/ep-rupRLXmSndU.md#t-00-11-43): “In fact, we can further assume that BILT is somehow related to his job in the military because his LinkedIn also informs us that Ahmed (Ahmed Qureshi) co-founded BILT back in 2015 when he was full time as an 05.”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 01:10:33](/episodes/ep-h76ZN-xXC6c.md#t-01-10-33): “We're looking into Zachariah Qureshi. His father was one half of the built organization along with someone Henderson and their sons lived at some point in the same house.”
 
 </details>
@@ -291,7 +291,7 @@ Source: [SBIR Award: BILT INC](https://www.sbir.gov/awards/186802)
 - **[Nathan Henderson](/entities/person-nathan-henderson.md)** founded this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:16:39](/episodes/ep-rupRLXmSndU.md#t-00-16-05): “Because Ahmed, remember, Zachariah's dad, he's listed as a co-founder of Built. Who did he co-found this with? Who was his business partner? Who was the other half of this intelligence app that got a nice injection of cash from the Air Force in June? That would be a man named Nathan Henderson.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:16:39](/episodes/ep-rupRLXmSndU.md#t-00-16-05): “Because Ahmed (Ahmed Qureshi), remember, Zachariah (Zachariah Qureshi)'s dad, he's listed as a co-founder of Built. Who did he co-found this with? Who was his business partner? Who was the other half of this intelligence app that got a nice injection of cash from the Air Force in June? That would be a man named Nathan Henderson. And don't worry, guys, I, of course, will have a graphic for you at the end so you can screenshot and save it and study it and it'll look really clean because it's very significant that you know these names.”
 - [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350 @ 01:10:33](/episodes/ep-h76ZN-xXC6c.md#t-01-10-33): “We're looking into Zachariah Qureshi. His father was one half of the built organization along with someone Henderson and their sons lived at some point in the same house.”
 
 </details>
@@ -320,7 +320,7 @@ Source: [SBIR Award: BILT INC](https://www.sbir.gov/awards/186802)
 - **[Ahmed Qureshi](/entities/person-ahmed-qureshi.md)** president of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:10:25](/episodes/ep-rupRLXmSndU.md#t-00-10-19): “Okay, let's check this out. It lists Ahmed first and foremost, as you can see here, as the president and COO of Built Incorporated, which is based in Dallas-Fort Worth, Texas.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:10:25](/episodes/ep-rupRLXmSndU.md#t-00-10-19): “Okay, let's check this out. It lists Ahmed (Ahmed Qureshi) first and foremost, as you can see here, as the president and COO of Built Incorporated, which is based in Dallas-Fort Worth, Texas.”
 
 </details>
 

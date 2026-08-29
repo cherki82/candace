@@ -1,6 +1,6 @@
 ---
 title: "Pure Talk"
-description: "Pure Talk (Organizations) - 175 mentions"
+description: "Pure Talk (Organizations) - 202 mentions"
 id: "org-pure-talk"
 type: "ORG"
 aliases:
@@ -24,9 +24,9 @@ Source: [PureTalk](https://www.puretalk.com/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-pure-talk-t-00-55-47">2025-09-15 · 00:55:47</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-pure-talk-t-00-29-41">2026-07-23 · 00:30:19</a></strong></div>
-<div><span>Episodes</span><strong>34</strong></div>
-<div><span>Mentions</span><strong>175</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-pure-talk-t-00-57-01">2026-08-21 · 00:57:05</a></strong></div>
+<div><span>Episodes</span><strong>39</strong></div>
+<div><span>Mentions</span><strong>202</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -46,7 +46,6 @@ Source: [PureTalk](https://www.puretalk.com/)
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-pure-talk-t-00-51-40" style="--pulse-height:86%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 6 mentions" title="2025-12-01 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-pure-talk-t-00-49-45" style="--pulse-height:86%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 6 mentions" title="2025-12-10 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-pure-talk-t-00-47-24" style="--pulse-height:71%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 5 mentions" title="2025-12-20 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-pure-talk-t-00-52-31" style="--pulse-height:57%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 4 mentions" title="2026-01-07 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-pure-talk-t-00-25-05" style="--pulse-height:57%" aria-label="Myron Gaines x Candace Owens: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-org-pure-talk-t-00-35-11" style="--pulse-height:86%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 6 mentions" title="2026-01-27 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-pure-talk-t-01-19-22" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 7 mentions" title="2026-01-29 · 7 mentions"><span></span></a>
@@ -71,6 +70,12 @@ Source: [PureTalk](https://www.puretalk.com/)
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-org-pure-talk-t-00-24-43" style="--pulse-height:86%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 6 mentions" title="2026-07-16 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-org-pure-talk-t-00-29-27" style="--pulse-height:86%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 6 mentions" title="2026-07-20 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-org-pure-talk-t-00-29-41" style="--pulse-height:86%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 6 mentions" title="2026-07-23 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-org-pure-talk-t-00-21-12" style="--pulse-height:86%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 6 mentions" title="2026-07-27 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-pure-talk-t-00-38-04" style="--pulse-height:71%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 5 mentions" title="2026-07-31 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-org-pure-talk-t-00-26-23" style="--pulse-height:57%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 4 mentions" title="2026-08-03 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-pure-talk-t-01-35-24" style="--pulse-height:86%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 6 mentions" title="2026-08-14 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-pure-talk-t-00-57-37" style="--pulse-height:86%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 6 mentions" title="2026-08-17 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-org-pure-talk-t-00-56-19" style="--pulse-height:57%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 4 mentions" title="2026-08-21 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -85,7 +90,6 @@ Source: [PureTalk](https://www.puretalk.com/)
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-org-pure-talk-t-00-51-40) | 6 |
 | 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-org-pure-talk-t-00-49-45) | 6 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-pure-talk-t-00-47-24) | 5 |
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-org-pure-talk-t-00-52-31) | 4 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-pure-talk-t-00-25-05) | 4 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-org-pure-talk-t-00-35-11) | 6 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-pure-talk-t-01-19-22) | 7 |
@@ -110,6 +114,12 @@ Source: [PureTalk](https://www.puretalk.com/)
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-pure-talk-t-00-24-43) | 6 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-pure-talk-t-00-29-27) | 6 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-pure-talk-t-00-29-41) | 6 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-org-pure-talk-t-00-21-12) | 6 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-org-pure-talk-t-00-38-04) | 5 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-org-pure-talk-t-00-26-23) | 4 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-pure-talk-t-01-35-24) | 6 |
+| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-org-pure-talk-t-00-57-37) | 6 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-pure-talk-t-00-56-19) | 4 |
 
 </details>
 </section>
@@ -117,7 +127,130 @@ Source: [PureTalk](https://www.puretalk.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (175)</strong></summary>
+<summary><strong class="section-title">Raw mentions (202)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (4 mentions)</summary>
+
+**[00:56:27](/episodes/ep-_cNtgris8Ik.md#ent-org-pure-talk-t-00-56-19)**
+> "I switched to PureTalk, and I genuinely love having them as my wireless ..."
+
+**[00:56:37](/episodes/ep-_cNtgris8Ik.md#ent-org-pure-talk-t-00-56-19)**
+> "And I love that PureTalk gives me the coverage and unlimited data that I n..."
+
+**[00:56:42](/episodes/ep-_cNtgris8Ik.md#ent-org-pure-talk-t-00-56-19)**
+> "... in a recent industry survey, PureTalk was the only wireless company to receive. See fiv..."
+
+**[00:57:05](/episodes/ep-_cNtgris8Ik.md#ent-org-pure-talk-t-00-57-01)**
+> "Head to puretalk.com slash Owens to make the switch today. Again, ..."
+
+</details>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (6 mentions)</summary>
+
+**[00:57:48](/episodes/ep-E7P2ShoYDUA.md#ent-org-pure-talk-t-00-57-37)**
+> "And I have to remind you guys about Pure Talk because a recent industry survey found that We found that PureTalk was the only wireless company to receive five stars across every category, coverage, support, value, and data."
+
+**[00:58:00](/episodes/ep-E7P2ShoYDUA.md#ent-org-pure-talk-t-00-57-37)**
+> "...tar wireless service, and now PureTalk has an invitation for you. If you switch to PureT..."
+
+**[00:58:11](/episodes/ep-E7P2ShoYDUA.md#ent-org-pure-talk-t-00-57-37)**
+> "...witch to a top-rated company. Pure Talk's dedicated U.S. customer service team is a huge pa..."
+
+**[00:58:21](/episodes/ep-E7P2ShoYDUA.md#ent-org-pure-talk-t-00-58-21)**
+> "... Now's a great time to choose Pure Talk."
+
+**[00:58:27](/episodes/ep-E7P2ShoYDUA.md#ent-org-pure-talk-t-00-58-21)**
+> "...s on any plan. Simply head to puretalk.com slash Owens to claim this offer."
+
+**[00:58:35](/episodes/ep-E7P2ShoYDUA.md#ent-org-pure-talk-t-00-58-21)**
+> "Again, that's puretalk.com slash Owens to start saving today."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (6 mentions)</summary>
+
+**[01:35:53](/episodes/ep-aPOyk1i2LOc.md#ent-org-pure-talk-t-01-35-24)**
+> "... I also remind you guys about Pure Talk because you do not have to overpay for your wirel..."
+
+**[01:36:05](/episodes/ep-aPOyk1i2LOc.md#ent-org-pure-talk-t-01-36-05)**
+> "... now for the first time ever, Pure Talk is offering any plan at just $15 a month for your..."
+
+**[01:36:11](/episodes/ep-aPOyk1i2LOc.md#ent-org-pure-talk-t-01-36-05)**
+> "...er been a better time to take Pure Talk for a test drive. It's fast, reliable, and you're..."
+
+**[01:36:15](/episodes/ep-aPOyk1i2LOc.md#ent-org-pure-talk-t-01-36-05)**
+> "You can now get any Pure Talk plan, including their unlimited data plans and ev..."
+
+**[01:36:30](/episodes/ep-aPOyk1i2LOc.md#ent-org-pure-talk-t-01-36-05)**
+> "Switch to Pure Talk and enjoy your first three months of talk, text, ..."
+
+**[01:36:35](/episodes/ep-aPOyk1i2LOc.md#ent-org-pure-talk-t-01-36-05)**
+> "...h Owens to make the switch to Pure Talk. Again, that's puretalk.com slash Owens to start ..."
+
+</details>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (4 mentions)</summary>
+
+**[00:26:23](/episodes/ep-AH1KVKkweUE.md#ent-org-pure-talk-t-00-26-23)**
+> "...want to remind you guys about Pure Talk because a recent industry survey found that Pure ..."
+
+**[00:26:34](/episodes/ep-AH1KVKkweUE.md#ent-org-pure-talk-t-00-26-23)**
+> "...star wireless service and now pure talk has an invitation for you if you switch to pure t..."
+
+**[00:27:01](/episodes/ep-AH1KVKkweUE.md#ent-org-pure-talk-t-00-27-01)**
+> "...now is a great time to choose Pure Talk. You'll pay just $15 a month for your first three..."
+
+**[00:27:09](/episodes/ep-AH1KVKkweUE.md#ent-org-pure-talk-t-00-27-01)**
+> "Simply head to puretalk.com slash Owens to claim this offer. Again, that'..."
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (5 mentions)</summary>
+
+**[00:38:24](/episodes/ep-iB-YtO3UZOg.md#ent-org-pure-talk-t-00-38-04)**
+> "All right, you guys, a recent industry survey found that PureTalk was the only wireless company to receive five stars in every category coverage, support, value and data."
+
+**[00:38:34](/episodes/ep-iB-YtO3UZOg.md#ent-org-pure-talk-t-00-38-04)**
+> "...tar wireless service. And now PureTalk has an invitation for you. Switch to PureTalk tod..."
+
+**[00:38:51](/episodes/ep-iB-YtO3UZOg.md#ent-org-pure-talk-t-00-38-46)**
+> "Pure Talk's dedicated U.S. customer service team is a huge pa..."
+
+**[00:38:56](/episodes/ep-iB-YtO3UZOg.md#ent-org-pure-talk-t-00-38-46)**
+> "...Now is a great time to choose PureTalk because you will pay just $15 a month for your fi..."
+
+**[00:39:05](/episodes/ep-iB-YtO3UZOg.md#ent-org-pure-talk-t-00-38-46)**
+> "So head to puretalk.com slash Owens to claim this offer. Again, that'..."
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (6 mentions)</summary>
+
+**[00:21:31](/episodes/ep-HZvwbfePe7o.md#ent-org-pure-talk-t-00-21-12)**
+> "I also want to remind you guys about PureTalk because you do not have to overpay for your wireless network, not when PureTalk comes in with the same service for a tiny fraction of the cost."
+
+**[00:21:39](/episodes/ep-HZvwbfePe7o.md#ent-org-pure-talk-t-00-21-12)**
+> "... now for the first time ever, PureTalk is offering any plan at just $15 a month for your..."
+
+**[00:21:44](/episodes/ep-HZvwbfePe7o.md#ent-org-pure-talk-t-00-21-12)**
+> "...er been a better time to take PureTalk for a test drive. It's fast, it's reliable, and y..."
+
+**[00:21:50](/episodes/ep-HZvwbfePe7o.md#ent-org-pure-talk-t-00-21-12)**
+> "You can now get any PureTalk plan, including their unlimited data plans and ev..."
+
+**[00:22:06](/episodes/ep-HZvwbfePe7o.md#ent-org-pure-talk-t-00-21-56)**
+> "Switch to PureTalk and enjoy your first three months of talk, text, ..."
+
+**[00:22:11](/episodes/ep-HZvwbfePe7o.md#ent-org-pure-talk-t-00-21-56)**
+> "Head to puretalk.com slash Owens to make the switch to PureTalk. A..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (6 mentions)</summary>
@@ -600,23 +733,6 @@ Source: [PureTalk](https://www.puretalk.com/)
 </details>
 
 <details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (4 mentions)</summary>
-
-**[00:53:05](/episodes/ep-zSKrxIUMNqw.md#ent-org-pure-talk-t-00-52-31)**
-> "... bill in half by switching to Pure Talk's saver plan for just $20 a month for unlimited tal..."
-
-**[00:53:12](/episodes/ep-zSKrxIUMNqw.md#ent-org-pure-talk-t-00-53-12)**
-> "...ee gigs of high speed data on Pure Talk's super fast nationwide 5G network."
-
-**[00:53:37](/episodes/ep-zSKrxIUMNqw.md#ent-org-pure-talk-t-00-53-12)**
-> "Head to puretalk.com slash Owens and make the switch today in as l..."
-
-**[00:53:43](/episodes/ep-zSKrxIUMNqw.md#ent-org-pure-talk-t-00-53-12)**
-> "... for just $20 a month. That's puretalk.com slash Owens, and you'll save an additional 50..."
-
-</details>
-
-<details>
 <summary>What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283 (5 mentions)</summary>
 
 **[00:47:18](/episodes/ep-w1oqQbR_bYs.md#ent-org-pure-talk-t-00-47-24)**
@@ -835,7 +951,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:24:44](/episodes/ep-DdPjoy5W-wY.md#t-00-24-16): “switching to PureTalk, which is my wireless company.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:45:02](/episodes/ep-ZzAT2xijKGQ.md#t-00-44-46): “Go drag your old wireless contract out of the closet and toss it in the trash, then freshen things up by switching to Pure Talk, which is my wireless company.”
@@ -848,6 +964,9 @@ Source: [PureTalk](https://www.puretalk.com/)
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:25:03](/episodes/ep-puuMVxEu5NU.md#t-00-24-43): “I also want to tell you guys about PureTalk because you do not have to overpay for your wireless network.”
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:29:37](/episodes/ep-N4uM8Jdr410.md#t-00-29-27): “That's when PureTalk comes in with the same service for a tiny fraction of the cost. And now, for the first time ever, PureTalk is offering any plan at just 5 a month for your first three months. There's never been a better time to switch.”
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:29:41](/episodes/ep-amqTMimDr0A.md#t-00-29-41): “I also want to remind you guys about Pure Talk because you do not have to overpay for your wireless network, not when Pure Talk comes in with the same service for a tiny.”
+- [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:22:11](/episodes/ep-HZvwbfePe7o.md#t-00-21-56): “Head to puretalk.com slash Owens to make the switch to PureTalk. Again, that's puretalk.com slash Owens to start saving today.”
+- [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:26:23](/episodes/ep-AH1KVKkweUE.md#t-00-26-23): “I also want to remind you guys about Pure Talk because a recent industry survey found that Pure Talk was the only wireless company to receive five stars in every category.”
+- [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:56:27](/episodes/ep-_cNtgris8Ik.md#t-00-56-19): “I switched to PureTalk, and I genuinely love having them as my wireless provider. From work to family to everything in between, I need my phone to work when I need it, so reliable service is important to me.”
 
 </details>
 
@@ -886,7 +1005,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 <summary>Referenced By (4)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (11)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (14)</summary>
 
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:24:44](/episodes/ep-DdPjoy5W-wY.md#t-00-24-16): “switching to PureTalk, which is my wireless company.”
 - [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309 @ 00:45:02](/episodes/ep-ZzAT2xijKGQ.md#t-00-44-46): “Go drag your old wireless contract out of the closet and toss it in the trash, then freshen things up by switching to Pure Talk, which is my wireless company.”
@@ -899,6 +1018,9 @@ Source: [PureTalk](https://www.puretalk.com/)
 - [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 @ 00:25:03](/episodes/ep-puuMVxEu5NU.md#t-00-24-43): “I also want to tell you guys about PureTalk because you do not have to overpay for your wireless network.”
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:29:37](/episodes/ep-N4uM8Jdr410.md#t-00-29-27): “That's when PureTalk comes in with the same service for a tiny fraction of the cost. And now, for the first time ever, PureTalk is offering any plan at just 5 a month for your first three months. There's never been a better time to switch.”
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 @ 00:29:41](/episodes/ep-amqTMimDr0A.md#t-00-29-41): “I also want to remind you guys about Pure Talk because you do not have to overpay for your wireless network, not when Pure Talk comes in with the same service for a tiny.”
+- [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 @ 00:22:11](/episodes/ep-HZvwbfePe7o.md#t-00-21-56): “Head to puretalk.com slash Owens to make the switch to PureTalk. Again, that's puretalk.com slash Owens to start saving today.”
+- [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:26:23](/episodes/ep-AH1KVKkweUE.md#t-00-26-23): “I also want to remind you guys about Pure Talk because a recent industry survey found that Pure Talk was the only wireless company to receive five stars in every category.”
+- [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:56:27](/episodes/ep-_cNtgris8Ik.md#t-00-56-19): “I switched to PureTalk, and I genuinely love having them as my wireless provider. From work to family to everything in between, I need my phone to work when I need it, so reliable service is important to me.”
 
 </details>
 

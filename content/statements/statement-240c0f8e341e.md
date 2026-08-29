@@ -24,11 +24,21 @@ veracity: "mixed"
 - [FBI](/entities/org-fbi.md) (org)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [01:59:52](/episodes/ep-nPhCKwJ6ye8.md#t-01-59-52) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(7192);return false;">Play</a>
+
+> she gets a call on the 13th and they stop testing on this backpack because they find that the backpack actually belongs to somebody on Charlie's team. ... their excuse was we just gave it back because we heard that this was this belonged to somebody on Charlie's team.
+
+### 2. Candace Owens vs Andrew Wilson: The Great Debate.
+
+**Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
+**Timestamp:** [01:29:08](/episodes/ep-aPOyk1i2LOc.md#t-01-29-08) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(5348);return false;">Play</a>
 
 > she gets a call on the 13th and they stop testing on this backpack because they find that the backpack actually belongs to somebody on Charlie's team. ... their excuse was we just gave it back because we heard that this was this belonged to somebody on Charlie's team.
 

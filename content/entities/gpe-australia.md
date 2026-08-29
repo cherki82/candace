@@ -1,6 +1,6 @@
 ---
 title: "Australia"
-description: "Australia (Places) - 52 mentions"
+description: "Australia (Places) - 50 mentions"
 id: "gpe-australia"
 type: "GPE"
 categories:
@@ -19,8 +19,8 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-australia-t-00-41-28">2025-09-18 · 00:41:45</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-australia-t-00-48-26">2026-06-26 · 00:48:26</a></strong></div>
-<div><span>Episodes</span><strong>25</strong></div>
-<div><span>Mentions</span><strong>52</strong></div>
+<div><span>Episodes</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>50</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -42,7 +42,6 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-australia-t-00-51-26" style="--pulse-height:12%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-australia-t-00-50-57" style="--pulse-height:12%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-australia-t-00-33-09" style="--pulse-height:12%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-australia-t-00-51-47" style="--pulse-height:25%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 2 mentions" title="2026-01-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-australia-t-00-35-49" style="--pulse-height:100%" aria-label="Myron Gaines x Candace Owens: 8 mentions" title="2026-01-16 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-australia-t-01-13-44" style="--pulse-height:12%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-australia-t-00-58-54" style="--pulse-height:50%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 4 mentions" title="2026-01-29 · 4 mentions"><span></span></a>
@@ -72,7 +71,6 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-australia-t-00-51-26) | 1 |
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-australia-t-00-50-57) | 1 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-gpe-australia-t-00-33-09) | 1 |
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-australia-t-00-51-47) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-australia-t-00-35-49) | 8 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-australia-t-01-13-44) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-australia-t-00-58-54) | 4 |
@@ -93,7 +91,7 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (52)</strong></summary>
+<summary><strong class="section-title">Raw mentions (50)</strong></summary>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
@@ -254,17 +252,6 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 </details>
 
 <details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (2 mentions)</summary>
-
-**[00:52:23](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-australia-t-00-51-47)**
-> "banned from Australia, having our YouTube channel demonetized, people c..."
-
-**[00:55:34](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-australia-t-00-55-24)**
-> "you can be banned from Australia. But I think God takes care of you in the end."
-
-</details>
-
-<details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1 mentions)</summary>
 
 **[00:33:17](/episodes/ep-9k2xrAC0H88.md#ent-gpe-australia-t-00-33-09)**
@@ -397,6 +384,14 @@ _No relationships extracted yet._
 </details>
 
 <details>
+<summary>Candace x Bassem Youssef | Candace Ep 298 (1)</summary>
+
+- [00:58:59](/episodes/ep-xjzb_t5Tk9o.md#t-00-58-54) (Claim) **Candace Owens**: ["Candace Owens was banned from Australia, her YouTube channel was demon..."](/statements/statement-f6a05eb917b9.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md), [YouTube](/entities/org-youtube.md)
+
+</details>
+
+<details>
 <summary>Myron Gaines x Candace Owens (2)</summary>
 
 - [00:36:24](/episodes/ep-2T39-oADLj0.md#t-00-35-59) (Accusation) **Candace Owens**: ["The Israel lobby, possibly the Zionist Federation of Australia, public..."](/statements/statement-baff79971ff7.md)
@@ -404,14 +399,6 @@ _No relationships extracted yet._
 
 - [00:39:40](/episodes/ep-2T39-oADLj0.md#t-00-39-37) (Claim) **Candace Owens**: ["Tony Burke's Australian ban automatically barred Candace Owens from Ne..."](/statements/statement-220302d1c412.md)
   - Also about: [Tony Burke](/entities/person-tony-burke.md), [New Zealand](/entities/gpe-new-zealand.md), [Candace Owens](/entities/person-candace-owens.md)
-
-</details>
-
-<details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1)</summary>
-
-- [00:52:20](/episodes/ep-zSKrxIUMNqw.md#t-00-51-47) (Claim) **Candace Owens**: ["Candace Owens was banned from Australia, her YouTube channel was demon..."](/statements/statement-f6a05eb917b9.md)
-  - Also about: [Candace Owens](/entities/person-candace-owens.md), [YouTube](/entities/org-youtube.md)
 
 </details>
 

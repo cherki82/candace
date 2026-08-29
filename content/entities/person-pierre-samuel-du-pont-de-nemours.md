@@ -6,13 +6,22 @@ type: "PERSON"
 aliases:
   - "Pierre"
   - "Pierre du Pont"
+categories:
+  - "economist"
+  - "statesman"
 ---
 
 _Type: People_
 
 **Also known as:** Pierre, Pierre du Pont
 
+**Categories:** economist, statesman
+
 > **Possibly overlapping entity records:** [Pierre, South Dakota](/entities/gpe-pierre-south-dakota). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> Hagley's archival finding aid confirms the canonical historical identity and family record.
+Source: [Du Pont family papers — Hagley Museum and Library](https://findingaids.hagley.org/repositories/3/resources/1410)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-pierre-samuel-du-pont-de-nemours-t-00-29-47">2025-12-01 · 00:29:28</a></strong></div>

@@ -71,10 +71,10 @@ Source: [The Likud Party](https://www.likud.org.il/en)
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (2 mentions)</summary>
 
 **[00:36:10](/episodes/ep-ZIH5-V6UPkg.md#ent-org-likud-t-00-35-54)**
-> "It is very clear what the Likud government is. They are murderous. They have a A ..."
+> "It is very clear what the Likud government is. They are murderous. They have a particular knack for murdering children."
 
 **[00:36:56](/episodes/ep-ZIH5-V6UPkg.md#ent-org-likud-t-00-36-32)**
-> "...atianism and Frankism and the Likud party is not at all, it's not a reflection."
+> "I got to tell you, my inbox is getting pretty filled to the brim of people who are Jewish Americans, rabbis even who write me and say, you are right about Sabbateanism and Frankism and the Likud party is not at all, it's not a reflection."
 
 </details>
 
@@ -116,7 +116,7 @@ Source: [The Likud Party](https://www.likud.org.il/en)
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:36:10](/episodes/ep-ZIH5-V6UPkg.md#t-00-35-54): “It is very clear what the Likud government is. They are murderous. They have a A particular knack for murdering children.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:36:10](/episodes/ep-ZIH5-V6UPkg.md#t-00-35-54): “It is very clear what the Likud government is. They are murderous. They have a particular knack for murdering children.”
 
 </details>
 
@@ -140,7 +140,7 @@ Source: [The Likud Party](https://www.likud.org.il/en)
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:36:10](/episodes/ep-ZIH5-V6UPkg.md#t-00-35-54): “It is very clear what the Likud government is. They are murderous. They have a A particular knack for murdering children.”
+- [An Open Letter To President Donald Trump (My Response) | Candace Ep 322 @ 00:36:10](/episodes/ep-ZIH5-V6UPkg.md#t-00-35-54): “It is very clear what the Likud government is. They are murderous. They have a particular knack for murdering children.”
 
 </details>
 

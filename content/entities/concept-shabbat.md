@@ -1,6 +1,6 @@
 ---
 title: "Shabbat"
-description: "Shabbat (Concepts) - 31 mentions"
+description: "Shabbat (Concepts) - 33 mentions"
 id: "concept-shabbat"
 type: "CONCEPT"
 aliases:
@@ -23,9 +23,9 @@ Source: [CBS News — Erika Kirk town hall](https://www.cbsnews.com/news/cbs-new
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-shabbat-t-00-25-24">2026-02-04 · 00:25:31</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-concept-shabbat-t-00-28-41">2026-07-22 · 00:28:56</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>31</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-concept-shabbat-t-00-40-13">2026-08-18 · 00:40:13</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>33</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -50,6 +50,8 @@ Source: [CBS News — Erika Kirk town hall](https://www.cbsnews.com/news/cbs-new
 <a href="/episodes/ep-a2bZf4fic10.md#ent-concept-shabbat-t-00-41-51" style="--pulse-height:14%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-shabbat-t-01-06-49" style="--pulse-height:29%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-concept-shabbat-t-00-28-41" style="--pulse-height:14%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-concept-shabbat-t-01-01-28" style="--pulse-height:14%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 1 mentions" title="2026-08-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-concept-shabbat-t-00-40-13" style="--pulse-height:14%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -69,6 +71,8 @@ Source: [CBS News — Erika Kirk town hall](https://www.cbsnews.com/news/cbs-new
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-concept-shabbat-t-00-41-51) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-concept-shabbat-t-01-06-49) | 2 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-concept-shabbat-t-00-28-41) | 1 |
+| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-concept-shabbat-t-01-01-28) | 1 |
+| 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-concept-shabbat-t-00-40-13) | 1 |
 
 </details>
 </section>
@@ -76,7 +80,23 @@ Source: [CBS News — Erika Kirk town hall](https://www.cbsnews.com/news/cbs-new
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (31)</strong></summary>
+<summary><strong class="section-title">Raw mentions (33)</strong></summary>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1 mentions)</summary>
+
+**[00:40:13](/episodes/ep-4JxgOclKzqg.md#ent-concept-shabbat-t-00-40-13)**
+> "Shabbat shalom. I choose you, Picklepuff!"
+
+</details>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1 mentions)</summary>
+
+**[01:01:28](/episodes/ep-E7P2ShoYDUA.md#ent-concept-shabbat-t-01-01-28)**
+> "Shabbat shalom, Andrew (Andrew Wilson)."
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>

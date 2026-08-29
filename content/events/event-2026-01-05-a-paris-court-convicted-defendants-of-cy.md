@@ -24,7 +24,7 @@ date: "2026-01-05"
 ### 2. BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/1...
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
-**Timestamp:** [00:53:55](/episodes/ep-HYn0P-P1wUw.md#t-00-53-16) 
+**Timestamp:** [00:53:55](/episodes/ep-HYn0P-P1wUw.md#event-event-2026-01-05-a-paris-court-convicted-defendants-of-cy-t-00-53-48) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3235);return false;">▶️ Play</a>
 
-> what has happened here is that they testified that these tweets were malicious, they were degrading, they were, quote, insulting, they were intentionally harmful to Brigitte and of the 10 defendants, eight were given suspended sentences.
+> of the 10 defendants, eight were given suspended sentences.

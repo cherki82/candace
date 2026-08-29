@@ -1,6 +1,6 @@
 ---
 title: "Psychological operations"
-description: "Psychological operations (Concepts) - 32 mentions"
+description: "Psychological operations (Concepts) - 37 mentions"
 id: "concept-psychological-operations"
 type: "CONCEPT"
 aliases:
@@ -23,9 +23,9 @@ Source: [U.S. Army: Psychological Operations](https://www.goarmy.com/careers-and
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-psychological-operations-t-00-02-03">2026-01-12 · 00:02:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-psychological-operations-t-01-06-05">2026-07-16 · 01:06:38</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>32</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-concept-psychological-operations-t-01-19-22">2026-08-17 · 01:19:40</a></strong></div>
+<div><span>Episodes</span><strong>16</strong></div>
+<div><span>Mentions</span><strong>37</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -49,6 +49,9 @@ Source: [U.S. Army: Psychological Operations](https://www.goarmy.com/careers-and
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-psychological-operations-t-00-13-49" style="--pulse-height:20%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-psychological-operations-t-00-35-00" style="--pulse-height:10%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-psychological-operations-t-00-34-46" style="--pulse-height:30%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-concept-psychological-operations-t-00-50-40" style="--pulse-height:10%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#ent-concept-psychological-operations-t-00-07-42" style="--pulse-height:20%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 2 mentions" title="2026-08-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-concept-psychological-operations-t-01-18-00" style="--pulse-height:20%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 2 mentions" title="2026-08-17 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -67,6 +70,9 @@ Source: [U.S. Army: Psychological Operations](https://www.goarmy.com/careers-and
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-concept-psychological-operations-t-00-13-49) | 2 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-concept-psychological-operations-t-00-35-00) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-concept-psychological-operations-t-00-34-46) | 3 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-concept-psychological-operations-t-00-50-40) | 1 |
+| 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-concept-psychological-operations-t-00-07-42) | 2 |
+| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-concept-psychological-operations-t-01-18-00) | 2 |
 
 </details>
 </section>
@@ -74,7 +80,37 @@ Source: [U.S. Army: Psychological Operations](https://www.goarmy.com/careers-and
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (2 mentions)</summary>
+
+**[01:18:21](/episodes/ep-E7P2ShoYDUA.md#ent-concept-psychological-operations-t-01-18-00)**
+> "Know your PSYOP. Second message, 75 to 85% confident Tyler (Tyler Robinson) did it is literally reasonable. Now, I am so glad I didn't even look at the comments. My producers pulled this."
+
+**[01:19:40](/episodes/ep-E7P2ShoYDUA.md#ent-concept-psychological-operations-t-01-19-22)**
+> "...Like we can't, this Christian psyop has to end. We just have to stop pretending."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (2 mentions)</summary>
+
+**[00:08:04](/episodes/ep-5zgkrOaCCj4.md#ent-concept-psychological-operations-t-00-07-42)**
+> "...eminds me of sort of the same psychological operation of them immediately trying to remind us of how mu..."
+
+**[00:08:22](/episodes/ep-5zgkrOaCCj4.md#ent-concept-psychological-operations-t-00-08-22)**
+> "That's psychological operation. And I want to be clear, the maroon one worked. T..."
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>
+
+**[00:50:40](/episodes/ep-1CFDtD0IgEg.md#ent-concept-psychological-operations-t-00-50-40)**
+> "What psychological operation do you think you can impart upon the people to ma..."
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (3 mentions)</summary>

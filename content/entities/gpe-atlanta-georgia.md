@@ -1,6 +1,6 @@
 ---
 title: "Atlanta, Georgia"
-description: "Atlanta, Georgia (Places) - 3 mentions"
+description: "Atlanta, Georgia (Places) - 4 mentions"
 id: "gpe-atlanta-georgia"
 type: "GPE"
 aliases:
@@ -23,9 +23,9 @@ Source: [City of Atlanta](https://www.atlantaga.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-atlanta-georgia-t-01-46-57">2026-01-29 · 01:47:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-atlanta-georgia-t-00-35-14">2026-03-26 · 00:35:44</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#ent-gpe-atlanta-georgia-t-00-20-42">2026-08-10 · 00:20:55</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,6 +38,7 @@ Source: [City of Atlanta](https://www.atlantaga.gov/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-atlanta-georgia-t-01-46-57" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-atlanta-georgia-t-00-35-14" style="--pulse-height:50%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#ent-gpe-atlanta-georgia-t-00-20-42" style="--pulse-height:50%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [City of Atlanta](https://www.atlantaga.gov/)
 |---|---|---:|
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-atlanta-georgia-t-01-46-57) | 2 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-gpe-atlanta-georgia-t-00-35-14) | 1 |
+| 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-gpe-atlanta-georgia-t-00-20-42) | 1 |
 
 </details>
 </section>
@@ -52,7 +54,15 @@ Source: [City of Atlanta](https://www.atlantaga.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>
+
+**[00:20:55](/episodes/ep-5zgkrOaCCj4.md#ent-gpe-atlanta-georgia-t-00-20-42)**
+> "You could drive from Atlanta, Georgia to New York City in that time frame. Tyler Robins..."
+
+</details>
 
 <details>
 <summary>VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317 (1 mentions)</summary>

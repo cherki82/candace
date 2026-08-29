@@ -5,13 +5,21 @@ id: "org-department-of-justice"
 type: "ORG"
 aliases:
   - "DOJ"
+categories:
+  - "U.S. government department"
 ---
 
 _Type: Organizations_
 
 **Also known as:** DOJ
 
+**Categories:** U.S. government department
+
 > **Possibly overlapping entity records:** [United States Department of Justice](/entities/org-united-states-department-of-justice). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> Canonical name and identity for Department of Justice confirmed by the cited direct external source.
+Source: [About DOJ](https://www.justice.gov/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-org-department-of-justice-t-00-33-51">2025-10-06 · 00:33:59</a></strong></div>

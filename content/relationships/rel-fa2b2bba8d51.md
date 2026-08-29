@@ -11,7 +11,7 @@ object: "org-the-daily-wire"
 
 ## [Candace Owens](/entities/person-candace-owens) critic of [The Daily Wire](/entities/org-the-daily-wire)
 
-### Evidence (7 mentions)
+### Evidence (6 mentions)
 
 **[PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk)**
 
@@ -23,7 +23,7 @@ object: "org-the-daily-wire"
 
 **[Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko)**
 
-- [00:23:59](/episodes/ep-eLgD5yUVbko#t-00-23-59): _But there is one that I think the public is becoming aware of. I'm also saying it because I have been often said to you that this organization like the Daily Wire. wire has in my view and my understanding of what gang stalking is has been doing this since the day they fired me it has not stopped it's been an onslaught of my life every way trying to stop speeches trying to get people to say things about me having articles written uh you know trying to have other people reach out and go after my advertisers it has been non i was fired from daily wire in 2020 we're in 2020 26 it has been over two years and you're telling me they stopped personally suing me to get involved with lines defending freedom and to encourage other people to sue me as these people are telling me there_
+- [00:23:52](/episodes/ep-eLgD5yUVbko#t-00-23-52): _But there is one that I think the public is becoming aware of. I'm also saying it because I have been often said to you that this organization like the Daily Wire. wire has in my view and my understanding of what gang stalking is has been doing this since the day they fired me it has not stopped it's been an onslaught of my life every way trying to stop speeches trying to get people to say things about me having articles written uh you know trying to have other people reach out and go after my advertisers it has been non i was fired from daily wire in 2020 we're in 2020 26 it has been over two years and you're telling me they stopped personally suing me to get involved with Alliance Defending Freedom and to encourage other people to sue me as these people are telling me there_
 
 **[Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs)**
 
@@ -36,10 +36,6 @@ object: "org-the-daily-wire"
 **[Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332](/episodes/ep-uC_GjKU8rs8)**
 
 - [00:27:26](/episodes/ep-uC_GjKU8rs8#t-00-27-26): _People see the Daily Wire and they see Ben (Ben Shapiro) and they don't want to support that. They don't want to support someone who tells them that they're evil and stupid and wrong for listening and supporting Theo Vaughn._
-
-**[DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw)**
-
-- [00:13:00](/episodes/ep-zSKrxIUMNqw#t-00-13-00): _This was such a slimy act by a former employer._
 
 ### Related
 

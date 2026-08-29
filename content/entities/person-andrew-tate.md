@@ -1,6 +1,6 @@
 ---
 title: "Andrew Tate"
-description: "Andrew Tate (People) - 11 mentions"
+description: "Andrew Tate (People) - 12 mentions"
 id: "person-andrew-tate"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Influencer Tate brothers, who face human trafficking charges in Romania
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-person-andrew-tate-t-00-36-02">2025-09-25 · 00:36:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-person-andrew-tate-t-00-51-48">2026-01-16 · 00:51:48</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-person-andrew-tate-t-00-55-45">2026-08-06 · 00:55:45</a></strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>5</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -41,6 +41,7 @@ Source: [Influencer Tate brothers, who face human trafficking charges in Romania
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-tate-t-00-26-27" style="--pulse-height:75%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 3 mentions" title="2025-10-28 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-andrew-tate-t-00-49-46" style="--pulse-height:25%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-andrew-tate-t-00-01-29" style="--pulse-height:100%" aria-label="Myron Gaines x Candace Owens: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-person-andrew-tate-t-00-55-45" style="--pulse-height:25%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -52,6 +53,7 @@ Source: [Influencer Tate brothers, who face human trafficking charges in Romania
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-andrew-tate-t-00-26-27) | 3 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-andrew-tate-t-00-49-46) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-andrew-tate-t-00-01-29) | 4 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-andrew-tate-t-00-55-45) | 1 |
 
 </details>
 </section>
@@ -59,7 +61,15 @@ Source: [Influencer Tate brothers, who face human trafficking charges in Romania
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:55:45](/episodes/ep-ChuWo-n49B8.md#ent-person-andrew-tate-t-00-55-45)**
+> "huge fan of yours and Andrew Tate"
+
+</details>
 
 <details>
 <summary>Myron Gaines x Candace Owens (4 mentions)</summary>
@@ -130,6 +140,18 @@ Source: [Influencer Tate brothers, who face human trafficking charges in Romania
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Interviewed By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:55:45](/episodes/ep-ChuWo-n49B8.md#t-00-55-14): “Ben the beast writes huge fan of yours and Andrew Tate I love the interview that you did with him what are your thoughts on his most recent arrest in my opinion it's another matrix attack keep up the amazing work so I had gotten very like whenever I comment on things I always want to take the time to read files and understand what's happening and offer my like you know I guess non-legal perspective like I'm definitely not a legal professional but I do feel like I understand legal documents and I was very much involved in reading through his Romanian documents”
+
+</details>
+
+</details>
+
+<details>
 <summary>Met With (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
@@ -154,7 +176,14 @@ Source: [Influencer Tate brothers, who face human trafficking charges in Romania
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** interviewed this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:55:45](/episodes/ep-ChuWo-n49B8.md#t-00-55-14): “Ben the beast writes huge fan of yours and Andrew Tate I love the interview that you did with him what are your thoughts on his most recent arrest in my opinion it's another matrix attack keep up the amazing work so I had gotten very like whenever I comment on things I always want to take the time to read files and understand what's happening and offer my like you know I guess non-legal perspective like I'm definitely not a legal professional but I do feel like I understand legal documents and I was very much involved in reading through his Romanian documents”
+
+</details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** met with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>

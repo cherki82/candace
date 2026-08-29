@@ -4,9 +4,10 @@ description: "\"Candace Owens accused Tracy Martin of falsely claiming that Owen
 statement_id: "statement-c98d1c012cba"
 speaker: "Candace Owens"
 type: "accusation"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -33,7 +34,20 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The transcript context records Owens accusing Tracy Martin of mischaracterizing their phone call as shouting and cursing. This verifies the existence and wording of Owens's accusation; the private call itself was unavailable to adjudicate the competing accounts.
+
+**Confidence:** High
+
+**Sources:**
+
+- [EXCLUSIVE: Ben Shapiro's 9/10 Lunch Date — Candace Ep. 365 transcript](https://podcasts.happyscribe.com/candace/10-lunch-date-more-text-messages-from-charlie-kirk)
+
+*Verified: 2026-08-27T19:42:39.589235*
 
 ---
 

@@ -23,13 +23,23 @@ type: "prediction"
 - [Israel](/entities/gpe-israel.md) (gpe)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [02:37:26](/episodes/ep-nPhCKwJ6ye8.md#t-02-37-26) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(9446);return false;">Play</a>
 
 > I do think that at the end of this, we are going to find that Israel was involved. I do.
+
+### 2. Candace Owens vs Andrew Wilson: The Great Debate.
+
+**Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
+**Timestamp:** [01:56:15](/episodes/ep-aPOyk1i2LOc.md#t-01-56-06) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(6975);return false;">Play</a>
+
+> somebody told you that Israel was involved in the assassination of Charlie Kirk or is that a gut feeling? ... I do think that at the end of this, we are going to find that Israel was. ... involved, I do.
 
 ## Verification
 

@@ -19,7 +19,7 @@ object: "person-tyler-bowyer"
 
 **[BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw)**
 
-- [00:29:18](/episodes/ep-HYn0P-P1wUw#t-00-29-18): _I got a call. I got a call from Miss Erika Kirk. Miss Arizona 2012. I just want to help, she said. So naturally I put her right behind the president at that first rally._
+- [00:28:35](/episodes/ep-HYn0P-P1wUw#t-00-28-35): _Tyler (Tyler Bowyer) got on stage and he told the audience that Erika (Erika Kirk) had called him asking how she could get involved and that he then made a decision to put her behind Donald Trump. Here is Tyler (Tyler Bowyer) making that statement in his own words at Charlie Kirk's memorial._
 
 **[Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw)**
 

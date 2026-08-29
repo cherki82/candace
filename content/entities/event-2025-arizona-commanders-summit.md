@@ -22,8 +22,8 @@ _Type: Events_
 Source: [Davis-Monthan AFB — 2025 Arizona Commanders Summit](https://www.dm.af.mil/Media/News/Article/4300882/dmafb-hosts-2025-arizona-commanders-summit/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-event-2025-arizona-commanders-summit-t-00-38-07">2026-01-06 · 00:38:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-event-2025-arizona-commanders-summit-t-00-38-07">2026-01-06 · 00:38:10</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-event-2025-arizona-commanders-summit-t-00-38-09">2026-01-06 · 00:38:10</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-event-2025-arizona-commanders-summit-t-00-38-09">2026-01-06 · 00:38:10</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -34,15 +34,15 @@ Source: [Davis-Monthan AFB — 2025 Arizona Commanders Summit](https://www.dm.af
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-HYn0P-P1wUw.md#ent-event-2025-arizona-commanders-summit-t-00-38-07">BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-HYn0P-P1wUw.md#ent-event-2025-arizona-commanders-summit-t-00-38-09">BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-event-2025-arizona-commanders-summit-t-00-38-07" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-event-2025-arizona-commanders-summit-t-00-38-09" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-event-2025-arizona-commanders-summit-t-00-38-07) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-event-2025-arizona-commanders-summit-t-00-38-09) | 1 |
 
 </details>
 </section>
@@ -55,7 +55,7 @@ Source: [Davis-Monthan AFB — 2025 Arizona Commanders Summit](https://www.dm.af
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
 
-**[00:38:10](/episodes/ep-HYn0P-P1wUw.md#ent-event-2025-arizona-commanders-summit-t-00-38-07)**
+**[00:38:10](/episodes/ep-HYn0P-P1wUw.md#ent-event-2025-arizona-commanders-summit-t-00-38-09)**
 > "...Monthan base for their annual Commanders Summit where Arizona community leaders meet with militar..."
 
 </details>

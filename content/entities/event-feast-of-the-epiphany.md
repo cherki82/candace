@@ -20,8 +20,8 @@ _Type: Events_
 Source: [Vatican — Solemnity of the Epiphany of the Lord](https://www.vatican.va/content/francesco/en/homilies/2025/documents/20250106-omelia-epifania.html)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-event-feast-of-the-epiphany-t-00-58-37">2026-01-06 · 00:59:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-event-feast-of-the-epiphany-t-00-59-21">2026-01-06 · 00:59:21</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-event-feast-of-the-epiphany-t-00-58-36">2026-01-06 · 00:59:14</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-event-feast-of-the-epiphany-t-00-59-20">2026-01-06 · 00:59:21</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -32,15 +32,15 @@ Source: [Vatican — Solemnity of the Epiphany of the Lord](https://www.vatican.
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-HYn0P-P1wUw.md#ent-event-feast-of-the-epiphany-t-00-58-37">BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-HYn0P-P1wUw.md#ent-event-feast-of-the-epiphany-t-00-58-36">BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-event-feast-of-the-epiphany-t-00-58-37" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-event-feast-of-the-epiphany-t-00-58-36" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-event-feast-of-the-epiphany-t-00-58-37) | 2 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-event-feast-of-the-epiphany-t-00-58-36) | 2 |
 
 </details>
 </section>
@@ -53,10 +53,10 @@ Source: [Vatican — Solemnity of the Epiphany of the Lord](https://www.vatican.
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (2 mentions)</summary>
 
-**[00:59:14](/episodes/ep-HYn0P-P1wUw.md#ent-event-feast-of-the-epiphany-t-00-58-37)**
+**[00:59:14](/episodes/ep-HYn0P-P1wUw.md#ent-event-feast-of-the-epiphany-t-00-58-36)**
 > "happy feast of the epiphany."
 
-**[00:59:21](/episodes/ep-HYn0P-P1wUw.md#ent-event-feast-of-the-epiphany-t-00-59-21)**
+**[00:59:21](/episodes/ep-HYn0P-P1wUw.md#ent-event-feast-of-the-epiphany-t-00-59-20)**
 > "The Feast of the Epiphany?"
 
 </details>

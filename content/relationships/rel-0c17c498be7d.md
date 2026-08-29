@@ -11,11 +11,19 @@ object: "person-frank-turek"
 
 ## [Candace Owens](/entities/person-candace-owens) criticized by [Frank Turek](/entities/person-frank-turek)
 
-### Evidence (3 mentions)
+### Evidence (5 mentions)
+
+**[VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg)**
+
+- [00:04:07](/episodes/ep-1CFDtD0IgEg#t-00-04-07): _Yeah, I'm talking about Candace Owens. Yeah, yeah, it's it's ridiculous. You don't accuse people of murder without evidence, but that's what she's doing left and right._
 
 **[Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM)**
 
 - [00:04:29](/episodes/ep-5m-Wn6Pr5rM#t-00-04-29): _he got a little angry afterward and said, I was the devil. She's the devil. Don't listen to Candace Owens._
+
+**[LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8)**
+
+- [00:47:58](/episodes/ep-ChuWo-n49B8#t-00-47-58): _These are, you're looking at turning point USA faith and they want access to children. They're all wacky. They're all crazy pastors. You got Frank Turek open saying, signaling that I should be struck down using the Bible, the good Bible, of course, to do it._
 
 **[AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo)**
 

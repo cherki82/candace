@@ -1,6 +1,6 @@
 ---
 title: "United Kingdom"
-description: "United Kingdom (Places) - 43 mentions"
+description: "United Kingdom (Places) - 44 mentions"
 id: "gpe-united-kingdom"
 type: "GPE"
 aliases:
@@ -26,9 +26,9 @@ Source: [GOV.UK](https://www.gov.uk/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-united-kingdom-t-00-13-27">2025-09-11 · 00:13:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#t-00-12-22">2026-06-26 · 00:12:34</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>43</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#t-00-56-28">2026-08-06 · 00:56:28</a></strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>44</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -55,6 +55,7 @@ Source: [GOV.UK](https://www.gov.uk/)
 <a href="/episodes/ep-MhakwJxK-Zk.md#t-00-04-45" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#t-00-52-35" style="--pulse-height:8%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-IqHsl7d2dos.md#t-00-12-22" style="--pulse-height:8%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#t-00-56-28" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -76,6 +77,7 @@ Source: [GOV.UK](https://www.gov.uk/)
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#t-00-04-45) | 1 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#t-00-52-35) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#t-00-12-22) | 1 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#t-00-56-28) | 1 |
 
 </details>
 </section>
@@ -83,7 +85,15 @@ Source: [GOV.UK](https://www.gov.uk/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (43)</strong></summary>
+<summary><strong class="section-title">Raw mentions (44)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:56:28](/episodes/ep-ChuWo-n49B8.md#t-00-56-28)**
+> "look into the UK case"
+
+</details>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Anti-Defamation League"
-description: "Anti-Defamation League (Organizations) - 45 mentions"
+description: "Anti-Defamation League (Organizations) - 46 mentions"
 id: "org-anti-defamation-league"
 type: "ORG"
 aliases:
@@ -22,11 +22,11 @@ Source: [About ADL](https://www.adl.org/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-org-anti-defamation-league-t-00-31-25">2025-10-01 · 00:31:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-anti-defamation-league-t-00-23-45">2026-07-23 · 00:23:45</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>45</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HZvwbfePe7o.md#ent-org-anti-defamation-league-t-00-05-38">2026-07-27 · 00:06:05</a></strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>46</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>13</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -43,6 +43,7 @@ Source: [About ADL](https://www.adl.org/about)
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-anti-defamation-league-t-00-08-34" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKNJPul29zU.md#ent-org-anti-defamation-league-t-00-19-58" style="--pulse-height:8%" aria-label="Candace Owens x Ana Kasparian: 1 mentions" title="2026-05-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-org-anti-defamation-league-t-00-22-25" style="--pulse-height:10%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 3 mentions" title="2026-07-23 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-org-anti-defamation-league-t-00-05-38" style="--pulse-height:8%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -56,6 +57,7 @@ Source: [About ADL](https://www.adl.org/about)
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-anti-defamation-league-t-00-08-34) | 1 |
 | 2026-05-28 | [Candace Owens x Ana Kasparian](/episodes/ep-SKNJPul29zU.md#ent-org-anti-defamation-league-t-00-19-58) | 1 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-org-anti-defamation-league-t-00-22-25) | 3 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-org-anti-defamation-league-t-00-05-38) | 1 |
 
 </details>
 </section>
@@ -63,7 +65,15 @@ Source: [About ADL](https://www.adl.org/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (45)</strong></summary>
+<summary><strong class="section-title">Raw mentions (46)</strong></summary>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (1 mentions)</summary>
+
+**[00:06:05](/episodes/ep-HZvwbfePe7o.md#ent-org-anti-defamation-league-t-00-05-38)**
+> "He was not just saying this privately. People have shared clips of him saying the same publicly. He said, "If ADL people are telling me to get rid of Candace (Candace Owens), I told them to lose my number if they have anything to say about Candace (Candace Owens).""
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (3 mentions)</summary>
@@ -365,7 +375,15 @@ Source: [About ADL](https://www.adl.org/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Anti-Defamation League (4)</strong></summary>
+<summary><strong class="section-title">Statements about Anti-Defamation League (5)</strong></summary>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (1)</summary>
+
+- [00:06:05](/episodes/ep-HZvwbfePe7o.md#t-00-05-38) (Opinion) **Charlie Kirk** (via quoted speech): ["Charlie Kirk said that if Anti-Defamation League people told him to ge..."](/statements/statement-54ca17f7ad98.md)
+  - Also about: [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>

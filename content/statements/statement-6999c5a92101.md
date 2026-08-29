@@ -1,6 +1,6 @@
 ---
-title: "Amazon said a technical issue caused an incorrect publicatio..."
-description: "\"Amazon said a technical issue caused an incorrect publication date for the title and removed the book\" — Candace Owens"
+title: "Amazon reportedly said a technical issue caused the title's ..."
+description: "\"Amazon reportedly said a technical issue caused the title's incorrect publication date, and Amazon removed the book.\" — Candace Owens"
 statement_id: "statement-6999c5a92101"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> Amazon said a technical issue caused an incorrect publication date for the title and removed the book
+> Amazon reportedly said a technical issue caused the title's incorrect publication date, and Amazon removed the book.
 
 ## Attribution
 

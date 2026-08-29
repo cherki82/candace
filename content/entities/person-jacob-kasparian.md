@@ -3,9 +3,18 @@ title: "Jacob Kasparian"
 description: "Jacob Kasparian (People) - 5 mentions"
 id: "person-jacob-kasparian"
 type: "PERSON"
+categories:
+  - "event attendee"
+  - "source-local identified person"
 ---
 
 _Type: People_
+
+**Categories:** event attendee, source-local identified person
+
+**Entity verification:** verified
+> The episode transcript identifies the attendee as Jacob Kasparian. This is narrow source-context verification only.
+Source: [Charlie Kirk source episode](https://www.youtube.com/watch?v=DqGNvi36ol8)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-person-jacob-kasparian-t-00-20-28">2025-11-21 · 00:20:28</a></strong></div>

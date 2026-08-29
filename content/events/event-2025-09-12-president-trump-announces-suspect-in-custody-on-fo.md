@@ -12,7 +12,7 @@ time: "06:00"
 
 > President Trump announces suspect in custody on Fox & Friends
 
-## Mentioned In (2 times)
+## Mentioned In (3 times)
 
 ### 1. Who Ordered The Hit On Charlie Kirk? | Candace Ep 237
 
@@ -29,3 +29,11 @@ time: "06:00"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1620);return false;">▶️ Play</a>
 
 > thing about his dad who he says he's not answering. He write
+
+### 3. EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critica...
+
+**Episode:** [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md)
+**Timestamp:** [00:31:36](/episodes/ep-9hRcfSrri70.md#event-event-2025-09-12-president-trump-announces-suspect-in-custody-on-fo-t-00-31-36) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1896);return false;">▶️ Play</a>
+
+> went on Fox and Friends in the immediate aftermath of Tyler Robinson being arrested

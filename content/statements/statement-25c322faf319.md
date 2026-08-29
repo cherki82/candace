@@ -31,7 +31,7 @@ veracity: "unverifiable"
 **Timestamp:** [00:08:38](/episodes/ep-rupRLXmSndU.md#t-00-08-25) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(518);return false;">Play</a>
 
-> Cash Patel's mistake provided the true assassin or the assassins an hour and a half buffer to get away.
+> Kash Patel's mistake provided the true assassin or the assassins an hour and a half buffer to get away.
 
 ## Verification
 

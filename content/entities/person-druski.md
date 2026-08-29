@@ -1,6 +1,6 @@
 ---
 title: "Druski"
-description: "Druski (People) - 10 mentions"
+description: "Druski (People) - 11 mentions"
 id: "person-druski"
 type: "PERSON"
 aliases:
@@ -19,14 +19,14 @@ _Type: People_
 > **Possibly overlapping entity records:** [Drew Desbordes](/entities/person-drew-desbordes). These records share a name or alias; compare their histories before treating either count as complete.
 
 **Entity verification:** verified
-> Associated Press confirms the canonical professional name Druski and identifies him as a comedian and digital creator.
-Source: [Druski tapped to host BET Awards](https://apnews.com/article/28ebb85305cfb280f42330d9c741c0f6)
+> Public profile confirms Drew Desbordes uses the professional name Druski; transcript Drewski is an ASR spelling in discussion of his parody.
+Source: [Druski | Monster Energy Music Ambassador & Comedian](https://www.monsterenergy.com/en-us/music/druski/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-druski-t-00-20-28">2026-04-16 · 00:20:52</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-druski-t-00-59-42">2026-06-22 · 00:59:42</a></strong></div>
 <div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -57,7 +57,7 @@ Source: [Druski tapped to host BET Awards](https://apnews.com/article/28ebb85305
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
 
 <details>
 <summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1 mentions)</summary>

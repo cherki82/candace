@@ -27,7 +27,7 @@ veracity: "false"
 ## Source
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
-**Timestamp:** [00:46:37](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-06) 
+**Timestamp:** [00:46:37](/episodes/ep-q1NRQQAYS_Q.md#t-00-46-37) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2797);return false;">Play</a>
 
 > Yeah, because Jeffrey Epstein is clearly alive. ... OK, he's wake up. He is alive. It was an Israeli operation to get him out of there.

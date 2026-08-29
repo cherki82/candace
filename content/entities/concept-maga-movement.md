@@ -1,6 +1,6 @@
 ---
 title: "MAGA movement"
-description: "MAGA movement (Concepts) - 120 mentions"
+description: "MAGA movement (Concepts) - 123 mentions"
 id: "concept-maga-movement"
 type: "CONCEPT"
 aliases:
@@ -23,11 +23,11 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-36-23">2025-09-15 · 00:36:29</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-puuMVxEu5NU.md#ent-concept-maga-movement-t-00-36-57">2026-07-16 · 00:36:57</a></strong></div>
-<div><span>Episodes</span><strong>42</strong></div>
-<div><span>Mentions</span><strong>120</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-concept-maga-movement-t-00-25-16">2026-08-11 · 00:25:35</a></strong></div>
+<div><span>Episodes</span><strong>43</strong></div>
+<div><span>Mentions</span><strong>123</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -65,7 +65,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-concept-maga-movement-t-00-23-40" style="--pulse-height:8%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-maga-movement-t-00-31-10" style="--pulse-height:42%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 5 mentions" title="2026-03-25 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-concept-maga-movement-t-00-49-02" style="--pulse-height:8%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-maga-movement-t-00-04-35" style="--pulse-height:83%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 10 mentions" title="2026-04-10 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-maga-movement-t-00-04-35" style="--pulse-height:92%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 11 mentions" title="2026-04-10 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-concept-maga-movement-t-00-53-07" style="--pulse-height:17%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-concept-maga-movement-t-00-12-49" style="--pulse-height:17%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-concept-maga-movement-t-00-35-24" style="--pulse-height:17%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
@@ -78,6 +78,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <a href="/episodes/ep-BxN2-aeMYIs.md#ent-concept-maga-movement-t-00-19-00" style="--pulse-height:25%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 3 mentions" title="2026-05-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-concept-maga-movement-t-00-40-31" style="--pulse-height:8%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-concept-maga-movement-t-00-36-57" style="--pulse-height:8%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-concept-maga-movement-t-00-24-42" style="--pulse-height:17%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 2 mentions" title="2026-08-11 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -112,7 +113,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-concept-maga-movement-t-00-23-40) | 1 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-concept-maga-movement-t-00-31-10) | 5 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-concept-maga-movement-t-00-49-02) | 1 |
-| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-maga-movement-t-00-04-35) | 10 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-maga-movement-t-00-04-35) | 11 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-concept-maga-movement-t-00-53-07) | 2 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-concept-maga-movement-t-00-12-49) | 2 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-concept-maga-movement-t-00-35-24) | 2 |
@@ -125,6 +126,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#ent-concept-maga-movement-t-00-19-00) | 3 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-concept-maga-movement-t-00-40-31) | 1 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-concept-maga-movement-t-00-36-57) | 1 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-concept-maga-movement-t-00-24-42) | 2 |
 
 </details>
 </section>
@@ -132,7 +134,18 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (120)</strong></summary>
+<summary><strong class="section-title">Raw mentions (123)</strong></summary>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (2 mentions)</summary>
+
+**[00:24:50](/episodes/ep-HGtMfbePDKk.md#ent-concept-maga-movement-t-00-24-42)**
+> "...'s arrest might have united a MAGA movement that had been tearing itself apart over the Epste..."
+
+**[00:25:35](/episodes/ep-HGtMfbePDKk.md#ent-concept-maga-movement-t-00-25-16)**
+> "...se things were getting crazy. MAGA was upset about the Iranian war and our involveme..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360 (1 mentions)</summary>
@@ -267,7 +280,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 </details>
 
 <details>
-<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (10 mentions)</summary>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (11 mentions)</summary>
 
 **[00:04:59](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-maga-movement-t-00-04-35)**
 > "...eir views are the opposite of MAGA, or I wouldn't have won the presidential election..."
@@ -298,6 +311,9 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 
 **[00:39:02](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-maga-movement-t-00-39-02)**
 > "... are the the four horsemen of MAGA that should be yeah make sure they they fix that ..."
+
+**[00:47:30](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-maga-movement-t-00-47-30)**
+> "...cause they look like they say MAGA, but they don't. Um, and so, yeah, we have that n..."
 
 </details>
 
@@ -714,7 +730,15 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about MAGA movement (7)</strong></summary>
+<summary><strong class="section-title">Statements about MAGA movement (8)</strong></summary>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1)</summary>
+
+- [00:24:50](/episodes/ep-HGtMfbePDKk.md#t-00-24-42) (Opinion) **Brandy Zadrozny** (via quoted speech): ["Zadrozny said Tyler Robinson's arrest might have united a MAGA movemen..."](/statements/statement-f1353297c6d0.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Twitter"
-description: "Twitter (Organizations) - 55 mentions"
+description: "Twitter (Organizations) - 64 mentions"
 id: "org-twitter"
 type: "ORG"
 aliases:
@@ -25,9 +25,9 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-twitter-t-00-12-01">2025-09-15 · 00:12:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-twitter-t-00-45-28">2026-07-21 · 00:45:35</a></strong></div>
-<div><span>Episodes</span><strong>34</strong></div>
-<div><span>Mentions</span><strong>55</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#t-00-08-51">2026-08-21 · 00:09:23</a></strong></div>
+<div><span>Episodes</span><strong>41</strong></div>
+<div><span>Mentions</span><strong>64</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -59,6 +59,7 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 <a href="/episodes/ep-k8ueJdPFel4.md#t-00-19-44" style="--pulse-height:50%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-org-twitter-t-00-32-47" style="--pulse-height:25%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#t-00-16-28" style="--pulse-height:25%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-twitter-t-00-32-54" style="--pulse-height:25%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#t-00-25-48" style="--pulse-height:25%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-twitter-t-00-37-28" style="--pulse-height:50%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-twitter-t-00-38-00" style="--pulse-height:75%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 3 mentions" title="2026-04-21 · 3 mentions"><span></span></a>
@@ -72,6 +73,12 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-org-twitter-t-00-38-22" style="--pulse-height:25%" aria-label="Candace x Hunter Biden: The Interview: 1 mentions" title="2026-05-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BxN2-aeMYIs.md#t-00-13-12" style="--pulse-height:25%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 1 mentions" title="2026-05-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-org-twitter-t-00-45-28" style="--pulse-height:25%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-org-twitter-t-00-07-41" style="--pulse-height:50%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 2 mentions" title="2026-07-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#t-00-33-07" style="--pulse-height:25%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-twitter-t-00-44-03" style="--pulse-height:50%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 2 mentions" title="2026-08-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-org-twitter-t-00-17-49" style="--pulse-height:25%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-org-twitter-t-00-47-08" style="--pulse-height:25%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 1 mentions" title="2026-08-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#t-00-08-51" style="--pulse-height:25%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -98,6 +105,7 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#t-00-19-44) | 2 |
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#ent-org-twitter-t-00-32-47) | 1 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#t-00-16-28) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-twitter-t-00-32-54) | 1 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#t-00-25-48) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-twitter-t-00-37-28) | 2 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-twitter-t-00-38-00) | 3 |
@@ -111,6 +119,12 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-org-twitter-t-00-38-22) | 1 |
 | 2026-05-26 | [The World Is A Stage: Trump Survives...Again? | Ep 343](/episodes/ep-BxN2-aeMYIs.md#t-00-13-12) | 1 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-org-twitter-t-00-45-28) | 1 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-org-twitter-t-00-07-41) | 2 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#t-00-33-07) | 1 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-org-twitter-t-00-44-03) | 2 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-org-twitter-t-00-17-49) | 1 |
+| 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-org-twitter-t-00-47-08) | 1 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#t-00-08-51) | 1 |
 
 </details>
 </section>
@@ -118,7 +132,61 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (55)</strong></summary>
+<summary><strong class="section-title">Raw mentions (64)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
+
+**[00:09:23](/episodes/ep-_cNtgris8Ik.md#t-00-08-51)**
+> "And I also want to remind you guys that Tyler Bowyer a while ago claimed on X that it was police that told Terrell to grab the footage. Remember, Remember he tweeted this when people were asking, hey, why is Terrell tampering appear to be tampering with evidence?"
+
+</details>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1 mentions)</summary>
+
+**[00:47:41](/episodes/ep-4JxgOclKzqg.md#ent-org-twitter-t-00-47-08)**
+> "Twitter decided to come in and explain to him, no, this i..."
+
+</details>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
+
+**[00:17:49](/episodes/ep-HGtMfbePDKk.md#ent-org-twitter-t-00-17-49)**
+> "sorry, I'm sorry to have a Twitter battle."
+
+</details>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (2 mentions)</summary>
+
+**[00:06:13](/episodes/ep-d7VsbEIWkP8.md#ent-org-twitter-t-00-44-03)**
+> "on X"
+
+**[00:44:03](/episodes/ep-d7VsbEIWkP8.md#ent-org-twitter-t-00-44-03)**
+> "...has actually been trending on Twitter for two days."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
+
+**[00:33:07](/episodes/ep-Vu6Y24pqhZs.md#t-00-33-07)**
+> "And this is a perfect time to discuss the reason that the Iranian propaganda, I don't know if propaganda means it's untrue or just that they're propagating their vision, because it certainly is not untrue, has been going viral. These Lego videos, you've seen the Lego videos on X, you've seen them on Instagram, people are sharing them. And there's a reason why these videos are resonating with Americans, because we feel like we have lost our country."
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (2 mentions)</summary>
+
+**[00:08:01](/episodes/ep-HZvwbfePe7o.md#ent-org-twitter-t-00-07-41)**
+> "So Twitter had to remind him about himself."
+
+**[00:05:03](/episodes/ep-HZvwbfePe7o.md#ent-org-twitter-t-00-04-55)**
+> "...ative that you keep showing a Twitter."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (1 mentions)</summary>
@@ -242,6 +310,14 @@ Source: [Debunking X myths | X Help](https://help.x.com/en/using-x/debunking-twi
 
 **[00:25:48](/episodes/ep-1mYNOqzAdXs.md#t-00-25-48)**
 > "So the public didn't officially find out until President Trump announced it at 2 40 p.m. on X. Again, this is all in mountain time."
+
+</details>
+
+<details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (1 mentions)</summary>
+
+**[00:33:27](/episodes/ep-ZIH5-V6UPkg.md#ent-org-twitter-t-00-32-54)**
+> "...once chained herself to X, to Twitter headquarters. It was actually Twitter when she di..."
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
-title: "Discord said the messages attributed to Tyler Robinson and L..."
-description: "\"Discord said the messages attributed to Tyler Robinson and Lance Twiggs were not coordinated on their server\" — Candace Owens"
+title: "Candace Owens said Discord denied that the messages existed ..."
+description: "\"Candace Owens said Discord denied that the messages existed on its service.\" — Candace Owens"
 statement_id: "statement-48a69a1c0de4"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Discord said the messages attributed to Tyler Robinson and Lance Twiggs were not coordinated on their server
+> Candace Owens said Discord denied that the messages existed on its service.
 
 ## Attribution
 
@@ -30,7 +30,7 @@ type: "factual_claim"
 **Timestamp:** [00:31:46](/episodes/ep-2WEHTk0Xewg.md#t-00-31-35) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1906);return false;">Play</a>
 
-> Discord is going to say that's not true. So who made up these messages?
+> We found it on Discord. ... Discord is going to say that's not true. ... If Discord's saying they don't exist
 
 ## Verification
 

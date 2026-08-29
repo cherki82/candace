@@ -1,6 +1,6 @@
 ---
 title: "Gary Melton"
-description: "Gary Melton (People) - 18 mentions"
+description: "Gary Melton (People) - 20 mentions"
 id: "person-gary-melton"
 type: "PERSON"
 aliases:
@@ -24,7 +24,7 @@ Source: [Gary Melton: December 16, 2025 | Charlie Kirk Today](https://www.tbn.or
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#t-00-21-10">2026-05-06 · 00:21:20</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-gary-melton-t-00-39-37">2026-05-18 · 00:39:37</a></strong></div>
 <div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -55,7 +55,7 @@ Source: [Gary Melton: December 16, 2025 | Charlie Kirk Today](https://www.tbn.or
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
 
 <details>
 <summary>Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340 (4 mentions)</summary>

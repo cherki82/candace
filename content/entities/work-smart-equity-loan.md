@@ -1,6 +1,6 @@
 ---
 title: "SMART Equity Loan"
-description: "SMART Equity Loan (Works & Media) - 70 mentions"
+description: "SMART Equity Loan (Works & Media) - 83 mentions"
 id: "work-smart-equity-loan"
 type: "WORK"
 aliases:
@@ -23,9 +23,9 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-work-smart-equity-loan-t-00-55-11">2025-10-06 · 00:55:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-work-smart-equity-loan-t-00-43-32">2026-07-20 · 00:43:41</a></strong></div>
-<div><span>Episodes</span><strong>37</strong></div>
-<div><span>Mentions</span><strong>70</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-aPOyk1i2LOc.md#ent-work-smart-equity-loan-t-03-00-28">2026-08-14 · 03:00:33</a></strong></div>
+<div><span>Episodes</span><strong>43</strong></div>
+<div><span>Mentions</span><strong>83</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -34,45 +34,51 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-ozWJz2spBcI.md#ent-work-smart-equity-loan-t-00-55-11">TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-AoYZel7_cGQ.md#ent-work-smart-equity-loan-t-00-46-15">A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-ozWJz2spBcI.md#ent-work-smart-equity-loan-t-00-55-11" style="--pulse-height:100%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 2 mentions" title="2025-10-06 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-c5BcKF91iec.md#ent-work-smart-equity-loan-t-00-46-37" style="--pulse-height:50%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-work-smart-equity-loan-t-00-51-02" style="--pulse-height:100%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-work-smart-equity-loan-t-00-53-56" style="--pulse-height:100%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 2 mentions" title="2026-01-07 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-work-smart-equity-loan-t-01-15-07" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-smart-equity-loan-t-00-40-49" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-GY6GWceEqtQ.md#ent-work-smart-equity-loan-t-00-57-10" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 2 mentions" title="2026-01-21 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-work-smart-equity-loan-t-00-37-19" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-work-smart-equity-loan-t-00-57-26" style="--pulse-height:100%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-work-smart-equity-loan-t-00-42-04" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-mFuno0TuuQQ.md#ent-work-smart-equity-loan-t-00-38-20" style="--pulse-height:100%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 2 mentions" title="2026-02-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-4YgrOhhy708.md#ent-work-smart-equity-loan-t-00-42-18" style="--pulse-height:100%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-work-smart-equity-loan-t-00-44-08" style="--pulse-height:100%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-work-smart-equity-loan-t-00-55-42" style="--pulse-height:100%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-1IY2oD-_xVA.md#ent-work-smart-equity-loan-t-00-50-09" style="--pulse-height:50%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-cZxHqYsWRYg.md#ent-work-smart-equity-loan-t-00-59-03" style="--pulse-height:50%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-jTj9Ip46r4w.md#ent-work-smart-equity-loan-t-00-50-53" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2tFYJf1klgY.md#ent-work-smart-equity-loan-t-00-48-06" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 2 mentions" title="2026-03-03 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-y8lak3CRwDw.md#ent-work-smart-equity-loan-t-00-49-31" style="--pulse-height:100%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 2 mentions" title="2026-03-04 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-DEtFh2Ff-58.md#ent-work-smart-equity-loan-t-00-40-14" style="--pulse-height:100%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-UYkXV9mYbT4.md#ent-work-smart-equity-loan-t-00-57-44" style="--pulse-height:100%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 2 mentions" title="2026-03-31 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-work-smart-equity-loan-t-00-49-14" style="--pulse-height:100%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-work-smart-equity-loan-t-00-40-28" style="--pulse-height:100%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 2 mentions" title="2026-04-10 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-eLgD5yUVbko.md#ent-work-smart-equity-loan-t-00-49-56" style="--pulse-height:100%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-jsqUIkszZd0.md#ent-work-smart-equity-loan-t-00-49-11" style="--pulse-height:100%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 2 mentions" title="2026-04-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-SubDoZWHARo.md#ent-work-smart-equity-loan-t-00-52-23" style="--pulse-height:100%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-1mYNOqzAdXs.md#ent-work-smart-equity-loan-t-00-46-40" style="--pulse-height:50%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-cPidFQDJLbo.md#ent-work-smart-equity-loan-t-00-47-31" style="--pulse-height:100%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 2 mentions" title="2026-05-20 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-MhakwJxK-Zk.md#ent-work-smart-equity-loan-t-00-45-41" style="--pulse-height:100%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-SKNJPul29zU.md#ent-work-smart-equity-loan-t-01-09-50" style="--pulse-height:100%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-YeEtS7nix3o.md#ent-work-smart-equity-loan-t-01-10-56" style="--pulse-height:100%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-tXoI0TTKVrs.md#ent-work-smart-equity-loan-t-00-51-57" style="--pulse-height:100%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 2 mentions" title="2026-06-10 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-a2bZf4fic10.md#ent-work-smart-equity-loan-t-00-36-49" style="--pulse-height:100%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-work-smart-equity-loan-t-00-46-14" style="--pulse-height:100%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-puuMVxEu5NU.md#ent-work-smart-equity-loan-t-00-42-35" style="--pulse-height:100%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-mLvJqdxS-FY.md#ent-work-smart-equity-loan-t-00-44-35" style="--pulse-height:100%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-N4uM8Jdr410.md#ent-work-smart-equity-loan-t-00-43-32" style="--pulse-height:100%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-work-smart-equity-loan-t-00-55-11" style="--pulse-height:67%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 2 mentions" title="2025-10-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-work-smart-equity-loan-t-00-46-37" style="--pulse-height:33%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-work-smart-equity-loan-t-00-51-02" style="--pulse-height:67%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-work-smart-equity-loan-t-01-00-18" style="--pulse-height:67%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-work-smart-equity-loan-t-01-15-07" style="--pulse-height:67%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-smart-equity-loan-t-00-40-49" style="--pulse-height:67%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-GY6GWceEqtQ.md#ent-work-smart-equity-loan-t-00-57-10" style="--pulse-height:67%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 2 mentions" title="2026-01-21 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-gG4ZoYUjUc8.md#ent-work-smart-equity-loan-t-00-37-19" style="--pulse-height:67%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-work-smart-equity-loan-t-00-57-26" style="--pulse-height:67%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-work-smart-equity-loan-t-00-42-04" style="--pulse-height:67%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mFuno0TuuQQ.md#ent-work-smart-equity-loan-t-00-38-20" style="--pulse-height:67%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 2 mentions" title="2026-02-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4YgrOhhy708.md#ent-work-smart-equity-loan-t-00-42-18" style="--pulse-height:67%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-hWTdXHGQ8R4.md#ent-work-smart-equity-loan-t-00-44-08" style="--pulse-height:67%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-work-smart-equity-loan-t-00-55-42" style="--pulse-height:67%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1IY2oD-_xVA.md#ent-work-smart-equity-loan-t-00-50-09" style="--pulse-height:33%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-cZxHqYsWRYg.md#ent-work-smart-equity-loan-t-00-59-03" style="--pulse-height:33%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-jTj9Ip46r4w.md#ent-work-smart-equity-loan-t-00-50-53" style="--pulse-height:67%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2tFYJf1klgY.md#ent-work-smart-equity-loan-t-00-48-06" style="--pulse-height:67%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 2 mentions" title="2026-03-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-y8lak3CRwDw.md#ent-work-smart-equity-loan-t-00-49-31" style="--pulse-height:67%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 2 mentions" title="2026-03-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-work-smart-equity-loan-t-00-40-14" style="--pulse-height:67%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-work-smart-equity-loan-t-00-57-44" style="--pulse-height:67%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 2 mentions" title="2026-03-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-work-smart-equity-loan-t-00-49-14" style="--pulse-height:67%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 2 mentions" title="2026-04-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#ent-work-smart-equity-loan-t-00-40-28" style="--pulse-height:67%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 2 mentions" title="2026-04-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-work-smart-equity-loan-t-00-50-02" style="--pulse-height:67%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-work-smart-equity-loan-t-00-49-11" style="--pulse-height:67%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 2 mentions" title="2026-04-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-work-smart-equity-loan-t-00-52-23" style="--pulse-height:67%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1mYNOqzAdXs.md#ent-work-smart-equity-loan-t-00-46-40" style="--pulse-height:33%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 1 mentions" title="2026-04-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-cPidFQDJLbo.md#ent-work-smart-equity-loan-t-00-47-31" style="--pulse-height:67%" aria-label="TRENDING! I Send Out Some Legal Letters. Victor Marx&#x27;s Bizarre Text To Erika Goes Viral. | Ep 342: 2 mentions" title="2026-05-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-work-smart-equity-loan-t-00-45-41" style="--pulse-height:67%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-work-smart-equity-loan-t-01-09-50" style="--pulse-height:67%" aria-label="Candace Owens x Ana Kasparian: 2 mentions" title="2026-05-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-work-smart-equity-loan-t-01-10-56" style="--pulse-height:67%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-tXoI0TTKVrs.md#ent-work-smart-equity-loan-t-00-51-57" style="--pulse-height:67%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 2 mentions" title="2026-06-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-a2bZf4fic10.md#ent-work-smart-equity-loan-t-00-36-49" style="--pulse-height:67%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 2 mentions" title="2026-06-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X3VKJVJ7cN4.md#ent-work-smart-equity-loan-t-00-46-14" style="--pulse-height:67%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-puuMVxEu5NU.md#ent-work-smart-equity-loan-t-00-42-35" style="--pulse-height:67%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-mLvJqdxS-FY.md#ent-work-smart-equity-loan-t-00-44-35" style="--pulse-height:67%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-N4uM8Jdr410.md#ent-work-smart-equity-loan-t-00-43-32" style="--pulse-height:67%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 2 mentions" title="2026-07-20 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-work-smart-equity-loan-t-00-46-15" style="--pulse-height:100%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 3 mentions" title="2026-07-30 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-work-smart-equity-loan-t-00-39-25" style="--pulse-height:67%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 2 mentions" title="2026-07-31 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-work-smart-equity-loan-t-00-46-15" style="--pulse-height:67%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 2 mentions" title="2026-08-04 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-work-smart-equity-loan-t-00-53-56" style="--pulse-height:67%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 2 mentions" title="2026-08-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#ent-work-smart-equity-loan-t-00-45-56" style="--pulse-height:67%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 2 mentions" title="2026-08-10 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-work-smart-equity-loan-t-02-59-45" style="--pulse-height:67%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -81,7 +87,7 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-work-smart-equity-loan-t-00-55-11) | 2 |
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-work-smart-equity-loan-t-00-46-37) | 1 |
 | 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-work-smart-equity-loan-t-00-51-02) | 2 |
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-work-smart-equity-loan-t-00-53-56) | 2 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-work-smart-equity-loan-t-01-00-18) | 2 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-work-smart-equity-loan-t-01-15-07) | 2 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-work-smart-equity-loan-t-00-40-49) | 2 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-work-smart-equity-loan-t-00-57-10) | 2 |
@@ -101,7 +107,7 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-work-smart-equity-loan-t-00-57-44) | 2 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-work-smart-equity-loan-t-00-49-14) | 2 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-work-smart-equity-loan-t-00-40-28) | 2 |
-| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-work-smart-equity-loan-t-00-49-56) | 2 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-work-smart-equity-loan-t-00-50-02) | 2 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-work-smart-equity-loan-t-00-49-11) | 2 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-work-smart-equity-loan-t-00-52-23) | 2 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-work-smart-equity-loan-t-00-46-40) | 1 |
@@ -115,6 +121,12 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-work-smart-equity-loan-t-00-42-35) | 2 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-work-smart-equity-loan-t-00-44-35) | 2 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-work-smart-equity-loan-t-00-43-32) | 2 |
+| 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-work-smart-equity-loan-t-00-46-15) | 3 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-work-smart-equity-loan-t-00-39-25) | 2 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-work-smart-equity-loan-t-00-46-15) | 2 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-work-smart-equity-loan-t-00-53-56) | 2 |
+| 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#ent-work-smart-equity-loan-t-00-45-56) | 2 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-work-smart-equity-loan-t-02-59-45) | 2 |
 
 </details>
 </section>
@@ -122,7 +134,76 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (70)</strong></summary>
+<summary><strong class="section-title">Raw mentions (83)</strong></summary>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (2 mentions)</summary>
+
+**[03:00:18](/episodes/ep-aPOyk1i2LOc.md#ent-work-smart-equity-loan-t-02-59-45)**
+> "...t American financing offers a smart equity loan so that you don't have to."
+
+**[03:00:33](/episodes/ep-aPOyk1i2LOc.md#ent-work-smart-equity-loan-t-03-00-28)**
+> "...like a fluctuating HELOC, the Smart Equity Loan is a fixed rate loan, giving you a predictable mo..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (2 mentions)</summary>
+
+**[00:46:02](/episodes/ep-5zgkrOaCCj4.md#ent-work-smart-equity-loan-t-00-45-56)**
+> "..., American financing offers a smart equity loan that you don't have to. It allows you to wipe out..."
+
+**[00:46:09](/episodes/ep-5zgkrOaCCj4.md#ent-work-smart-equity-loan-t-00-45-56)**
+> "...Unlike a fluctuating HELOC, a smart equity loan is a fixed rate loan, giving you a predictable mo..."
+
+</details>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (2 mentions)</summary>
+
+**[00:54:15](/episodes/ep-d7VsbEIWkP8.md#ent-work-smart-equity-loan-t-00-53-56)**
+> "the SMART Equity Loan"
+
+**[00:54:08](/episodes/ep-d7VsbEIWkP8.md#ent-work-smart-equity-loan-t-00-53-56)**
+> "...t American financing offers a smart equity loan so that you don't have to. It allows you to wipe ..."
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (2 mentions)</summary>
+
+**[00:46:21](/episodes/ep-1CFDtD0IgEg.md#ent-work-smart-equity-loan-t-00-46-15)**
+> "...t American financing offers a smart equity loan so you..."
+
+**[00:46:38](/episodes/ep-1CFDtD0IgEg.md#ent-work-smart-equity-loan-t-00-46-15)**
+> "...unlike a fluctuating HELOC, a smart equity loan is a fixed rate loan, giving you a predictable mo..."
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (2 mentions)</summary>
+
+**[00:39:38](/episodes/ep-iB-YtO3UZOg.md#ent-work-smart-equity-loan-t-00-39-25)**
+> "keeping your primary mortgage intact. It's a surgical strike against debt unlike a fluctuating HELOC. The SMART Equity Loan is a fixed rate loan giving you a predictable monthly payment."
+
+**[00:39:31](/episodes/ep-iB-YtO3UZOg.md#ent-work-smart-equity-loan-t-00-39-25)**
+> "...t American financing offers a smart equity loan so that you don't have to. It allows you to wipe ..."
+
+</details>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (3 mentions)</summary>
+
+**[00:46:22](/episodes/ep-AoYZel7_cGQ.md#ent-work-smart-equity-loan-t-00-46-15)**
+> "...t American Financing offers a smart equity loan so that you don't actually have to. It allows you..."
+
+**[00:46:31](/episodes/ep-AoYZel7_cGQ.md#ent-work-smart-equity-loan-t-00-46-15)**
+> "...like a fluctuating HELOC, the smart equity loan is a surgical strike against debt."
+
+**[00:46:35](/episodes/ep-AoYZel7_cGQ.md#ent-work-smart-equity-loan-t-00-46-15)**
+> "Smart Equity Loan is a fixed rate loan giving you a predictable mon..."
+
+</details>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2 mentions)</summary>
@@ -267,10 +348,10 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (2 mentions)</summary>
 
-**[00:50:28](/episodes/ep-eLgD5yUVbko.md#ent-work-smart-equity-loan-t-00-49-56)**
+**[00:50:28](/episodes/ep-eLgD5yUVbko.md#ent-work-smart-equity-loan-t-00-50-02)**
 > "smart equity loan"
 
-**[00:50:35](/episodes/ep-eLgD5yUVbko.md#ent-work-smart-equity-loan-t-00-50-35)**
+**[00:50:35](/episodes/ep-eLgD5yUVbko.md#ent-work-smart-equity-loan-t-00-50-02)**
 > "...luctuate with the market, the Smart Equity Loan offers a fixed rate so that you'll have one predi..."
 
 </details>
@@ -479,13 +560,13 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 </details>
 
 <details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (2 mentions)</summary>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (2 mentions)</summary>
 
-**[00:54:09](/episodes/ep-zSKrxIUMNqw.md#ent-work-smart-equity-loan-t-00-53-56)**
-> "...merican financing created the smart equity loan,"
+**[01:00:44](/episodes/ep-OEAHy3SsIiI.md#ent-work-smart-equity-loan-t-01-00-18)**
+> "...Financing has now created the Smart Equity Loan, a simple, smart way to get your finances back on..."
 
-**[00:54:20](/episodes/ep-zSKrxIUMNqw.md#ent-work-smart-equity-loan-t-00-53-56)**
-> "the SMART equity loan offers a fixed rate,"
+**[01:00:52](/episodes/ep-OEAHy3SsIiI.md#ent-work-smart-equity-loan-t-01-00-18)**
+> "...luctuate with the market, the Smart Equity Loan offers a fixed rate."
 
 </details>
 

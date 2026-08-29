@@ -1,6 +1,6 @@
 ---
 title: "Shaped charge"
-description: "Shaped charge (Concepts) - 12 mentions"
+description: "Shaped charge (Concepts) - 18 mentions"
 id: "concept-shaped-charge"
 type: "CONCEPT"
 aliases:
@@ -22,11 +22,11 @@ Source: [Demolition Systems | U.S. Army](https://www.cpeae.army.mil/Project-Offi
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-h76ZN-xXC6c.md#ent-concept-shaped-charge-t-00-08-16">2026-06-16 · 00:08:32</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#ent-concept-shaped-charge-t-00-55-04">2026-06-22 · 00:55:04</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-iB-YtO3UZOg.md#ent-concept-shaped-charge-t-00-37-22">2026-07-31 · 00:37:57</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -37,6 +37,7 @@ Source: [Demolition Systems | U.S. Army](https://www.cpeae.army.mil/Project-Offi
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-h76ZN-xXC6c.md#ent-concept-shaped-charge-t-00-08-57" style="--pulse-height:50%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 4 mentions" title="2026-06-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-concept-shaped-charge-t-00-13-02" style="--pulse-height:100%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 8 mentions" title="2026-06-22 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-concept-shaped-charge-t-00-32-07" style="--pulse-height:75%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 6 mentions" title="2026-07-31 · 6 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -44,6 +45,7 @@ Source: [Demolition Systems | U.S. Army](https://www.cpeae.army.mil/Project-Offi
 |---|---|---:|
 | 2026-06-16 | [The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350](/episodes/ep-h76ZN-xXC6c.md#ent-concept-shaped-charge-t-00-08-57) | 4 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-concept-shaped-charge-t-00-13-02) | 8 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-concept-shaped-charge-t-00-32-07) | 6 |
 
 </details>
 </section>
@@ -51,7 +53,30 @@ Source: [Demolition Systems | U.S. Army](https://www.cpeae.army.mil/Project-Offi
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (6 mentions)</summary>
+
+**[00:32:07](/episodes/ep-iB-YtO3UZOg.md#ent-concept-shaped-charge-t-00-32-07)**
+> "That is not what we saw. A shaped charge in the RØDE microphone would have sent a projectile from his right anterior chest upward and leftward, likely exiting from his left neck or entering his cervical spine."
+
+**[00:32:36](/episodes/ep-iB-YtO3UZOg.md#ent-concept-shaped-charge-t-00-32-36)**
+> "...agments but the casing of the shaped charge which would have served as the projectile I did w..."
+
+**[00:33:15](/episodes/ep-iB-YtO3UZOg.md#ent-concept-shaped-charge-t-00-33-15)**
+> "... the same jacket if you use a shaped charge i was interested in that and something that uh ye..."
+
+**[00:34:25](/episodes/ep-iB-YtO3UZOg.md#ent-concept-shaped-charge-t-00-34-25)**
+> "...ation, he was murdered from a shaped charge on his right chest, and his security team did the..."
+
+**[00:34:44](/episodes/ep-iB-YtO3UZOg.md#ent-concept-shaped-charge-t-00-34-25)**
+> "...appened, that he got hit by a shaped charge. And I think that there was no gun on the rooftop..."
+
+**[00:37:57](/episodes/ep-iB-YtO3UZOg.md#ent-concept-shaped-charge-t-00-37-22)**
+> "If this had a shaped charge, the trajectory would make sense for entering the..."
+
+</details>
 
 <details>
 <summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (8 mentions)</summary>
@@ -109,7 +134,24 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Shaped charge (4)</strong></summary>
+<summary><strong class="section-title">Statements about Shaped charge (8)</strong></summary>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (4)</summary>
+
+- [00:32:07](/episodes/ep-iB-YtO3UZOg.md#t-00-32-07) (Opinion) **Anonymous anesthesiologist email source (Ep iB-YtO3UZOg)** (via read message): ["An anonymous anesthesiologist said a shaped charge in Charlie Kirk's R..."](/statements/statement-c1c2f070a6ca.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [RØDE Microphones](/entities/org-rode-microphones.md)
+
+- [00:32:36](/episodes/ep-iB-YtO3UZOg.md#t-00-32-36) (Opinion) **Anonymous anesthesiologist email source (Ep iB-YtO3UZOg)** (via read message): ["An anonymous anesthesiologist suspected that the recovered material wa..."](/statements/statement-ea44b5f83bd0.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:34:25](/episodes/ep-iB-YtO3UZOg.md#t-00-34-25) (Accusation) **Anonymous anesthesiologist email source (Ep iB-YtO3UZOg)** (via read message): ["An anonymous anesthesiologist opined that Charlie Kirk was killed by a..."](/statements/statement-5270331722a0.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:34:44](/episodes/ep-iB-YtO3UZOg.md#t-00-34-25) (Claim) **Candace Owens**: ["Owens said she believed the evidence showed Charlie Kirk was hit by a ..."](/statements/statement-00334c93b190.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Losee Center for Student Success](/entities/org-losee-center-for-student-success.md)
+
+</details>
 
 <details>
 <summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (4)</summary>

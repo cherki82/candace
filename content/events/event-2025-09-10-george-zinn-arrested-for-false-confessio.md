@@ -11,7 +11,7 @@ date: "2025-09-10"
 
 > George Zinn arrested for false confession to Charlie Kirk shooting
 
-## Mentioned In (2 times)
+## Mentioned In (4 times)
 
 ### 1. Charlie Kirk Shooting Suspect Charged. Something Isn’t Right...
 
@@ -28,3 +28,19 @@ date: "2025-09-10"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(219);return false;">▶️ Play</a>
 
 > Well, now it's about to get even stranger because since he's been arrested, he's now facing charges of obstruction of justice because he didn't do it
+
+### 3. EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rook...
+
+**Episode:** [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md)
+**Timestamp:** [00:04:15](/episodes/ep-Vu6Y24pqhZs.md#event-event-2025-09-10-george-zinn-arrested-for-false-confessio-t-00-03-59) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(255);return false;">▶️ Play</a>
+
+> The first was George Zinn. We know why, obviously. He said, I did it.
+
+### 4. EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On C...
+
+**Episode:** [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md)
+**Timestamp:** [00:26:40](/episodes/ep-5zgkrOaCCj4.md#event-event-2025-09-10-george-zinn-arrested-for-false-confessio-t-00-26-05) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1600);return false;">▶️ Play</a>
+
+> I'm going to first show you the video of George Zinn's arrest. We haven't covered him much.

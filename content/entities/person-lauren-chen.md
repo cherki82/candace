@@ -3,9 +3,17 @@ title: "Lauren Chen"
 description: "Lauren Chen (People) - 1 mention"
 id: "person-lauren-chen"
 type: "PERSON"
+categories:
+  - "media host"
 ---
 
 _Type: People_
+
+**Categories:** media host
+
+**Entity verification:** verified
+> The episode transcript supports the Lauren Chen identity in the quoted media-host context. This is narrow source-context verification only.
+Source: [Ben Shapiro Is Crying Again — source episode](https://www.youtube.com/watch?v=r1PS67aRmcA)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-r1PS67aRmcA.md#ent-person-lauren-chen-t-00-12-19">2025-11-08 · 00:12:42</a></strong></div>

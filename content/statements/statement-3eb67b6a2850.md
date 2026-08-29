@@ -27,7 +27,7 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
-**Timestamp:** [01:01:20](/episodes/ep-HYn0P-P1wUw.md#t-01-00-57) 
+**Timestamp:** [01:01:20](/episodes/ep-HYn0P-P1wUw.md#t-01-00-51) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3680);return false;">Play</a>
 
 > Yeah, I reached out to him and we are going to make that happen. When? I don't know. It will likely be on a Friday.

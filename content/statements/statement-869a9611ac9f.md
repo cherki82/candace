@@ -34,7 +34,7 @@ veracity: "true"
 **Timestamp:** [00:18:07](/episodes/ep-rupRLXmSndU.md#t-00-18-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1087);return false;">Play</a>
 
-> Connor went to the same school at the same time as Zachariah Qureshi. ... their sons both interned at the built company.
+> Connor (Connor Henderson) went to the same school at the same time as Zachariah Qureshi. ... their sons both interned at the built company.
 
 ### 2. The FBI Crashes Out. We Examine The Exploding Microphone The...
 

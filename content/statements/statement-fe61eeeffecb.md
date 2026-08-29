@@ -27,10 +27,10 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
-**Timestamp:** [00:03:40](/episodes/ep-HYn0P-P1wUw.md#t-00-03-07) 
+**Timestamp:** [00:03:40](/episodes/ep-HYn0P-P1wUw.md#t-00-03-05) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(220);return false;">Play</a>
 
-> There were three servers that were working that night, and then after news exploded the following day and people began obsessively sharing, of course, the photo of the suspect, Tyler Robinson, having been captured after 33 hours. Well, one of the servers recognized him as the person that was sitting at the bar the night before.
+> Well, one of the servers recognized him as the person that was sitting at the bar the night before. So they decided to huddle up with management and said, no, that that person, Tyler Robinson, he was here. ... what they decided to do was to verify that he was in the building. ... but rather just looking through credit card charges.
 
 ## Verification
 

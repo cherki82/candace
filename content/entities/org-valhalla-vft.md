@@ -1,6 +1,6 @@
 ---
 title: "Valhalla VFT"
-description: "Valhalla VFT (Organizations) - 5 mentions"
+description: "Valhalla VFT (Organizations) - 9 mentions"
 id: "org-valhalla-vft"
 type: "ORG"
 aliases:
@@ -22,12 +22,12 @@ _Type: Organizations_
 Source: [Kirk Assassination Solved? — Sports, Clicks & Politics](https://podcasts.apple.com/us/podcast/ep213-kirk-assassination-solved-ft-huachuca-minnesota/id1517072324?i=1000743867480)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-valhalla-vft-t-00-03-01">2026-05-06 · 00:03:01</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-valhalla-vft-t-00-53-04">2026-05-11 · 00:53:13</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-valhalla-vft-t-00-41-37">2026-01-05 · 00:42:14</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-valhalla-vft-t-00-15-23">2026-08-14 · 00:15:34</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>3</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -36,15 +36,21 @@ Source: [Kirk Assassination Solved? — Sports, Clicks & Politics](https://podca
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-valhalla-vft-t-00-48-33">Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-valhalla-vft-t-00-41-37" style="--pulse-height:50%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-valhalla-vft-t-00-40-55" style="--pulse-height:25%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-org-valhalla-vft-t-00-03-01" style="--pulse-height:25%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-valhalla-vft-t-00-48-33" style="--pulse-height:100%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 4 mentions" title="2026-05-11 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-valhalla-vft-t-00-15-23" style="--pulse-height:25%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-valhalla-vft-t-00-41-37) | 2 |
+| 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-org-valhalla-vft-t-00-40-55) | 1 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-org-valhalla-vft-t-00-03-01) | 1 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-org-valhalla-vft-t-00-48-33) | 4 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-valhalla-vft-t-00-15-23) | 1 |
 
 </details>
 </section>
@@ -52,7 +58,15 @@ Source: [Kirk Assassination Solved? — Sports, Clicks & Politics](https://podca
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (1 mentions)</summary>
+
+**[00:15:34](/episodes/ep-aPOyk1i2LOc.md#ent-org-valhalla-vft-t-00-15-23)**
+> "Valhalla steal cages and shot it and it went through so"
+
+</details>
 
 <details>
 <summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (4 mentions)</summary>
@@ -76,6 +90,25 @@ Source: [Kirk Assassination Solved? — Sports, Clicks & Politics](https://podca
 
 **[00:03:01](/episodes/ep-k1b1NDCrNFs.md#ent-org-valhalla-vft-t-00-03-01)**
 > "...r Paramount Tactical, you had Valhalla, and they were like, are these military guys tryi..."
+
+</details>
+
+<details>
+<summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>
+
+**[00:41:30](/episodes/ep-eLgD5yUVbko.md#ent-org-valhalla-vft-t-00-40-55)**
+> "you and Valhalla"
+
+</details>
+
+<details>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (2 mentions)</summary>
+
+**[00:42:14](/episodes/ep-OEAHy3SsIiI.md#ent-org-valhalla-vft-t-00-41-37)**
+> "...paramount tactical account in Valhalla who called up Mitch (Mitch Snow)."
+
+**[01:08:10](/episodes/ep-OEAHy3SsIiI.md#ent-org-valhalla-vft-t-01-08-10)**
+> "Paramount Tactical, Valhalla—they are an embarrassment to me as a vet. People ..."
 
 </details>
 
@@ -118,13 +151,21 @@ Source: [Kirk Assassination Solved? — Sports, Clicks & Politics](https://podca
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Valhalla VFT (1)</strong></summary>
+<summary><strong class="section-title">Statements about Valhalla VFT (2)</strong></summary>
 
 <details>
 <summary>Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 (1)</summary>
 
 - [00:51:13](/episodes/ep-KpxIBWkNsSs.md#t-00-51-13) (Accusation) **Candace Owens**: ["Candace Owens accused Valhalla VFT of threatening to ruin her if she d..."](/statements/statement-3c6a99a61590.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Mitch Snow](/entities/person-mitch-snow.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</details>
+
+<details>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1)</summary>
+
+- [00:42:14](/episodes/ep-OEAHy3SsIiI.md#t-00-41-37) (Accusation) **Candace Owens**: ["Candace Owens alleged that Paramount Tactical Solutions and Valhalla V..."](/statements/statement-376f124fdf15.md)
+  - Also about: [Paramount Tactical Solutions](/entities/org-paramount-tactical-solutions.md), [Ian Carroll](/entities/person-ian-carroll.md), [Mitch Snow](/entities/person-mitch-snow.md)
 
 </details>
 

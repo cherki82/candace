@@ -3,6 +3,8 @@ title: "Allison Holker"
 description: "Allison Holker (People) - 2 mentions"
 id: "person-allison-holker"
 type: "PERSON"
+aliases:
+  - "Allison (Stephen Boss's widow; surname unverified)"
 categories:
   - "dance"
   - "television"
@@ -11,6 +13,8 @@ categories:
 
 _Type: People_
 
+**Also known as:** Allison (Stephen Boss's widow; surname unverified)
+
 **Categories:** dance, television, Stephen Boss family
 
 **Entity verification:** verified
@@ -18,8 +22,8 @@ _Type: People_
 Source: [CBS News — Stephen “tWitch” Boss family interview](https://www.cbsnews.com/news/stephen-twitch-boss-family-allison-holkers-memoir/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#t-00-39-28">2026-07-23 · 00:39:28</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#t-00-46-45">2026-07-23 · 00:46:45</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-person-allison-holker-t-00-39-28">2026-07-23 · 00:39:28</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-person-allison-holker-t-00-39-28">2026-07-23 · 00:46:45</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
@@ -30,15 +34,15 @@ Source: [CBS News — Stephen “tWitch” Boss family interview](https://www.cb
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-amqTMimDr0A.md#t-00-39-28">EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-amqTMimDr0A.md#ent-person-allison-holker-t-00-39-28">EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-amqTMimDr0A.md#t-00-39-28" style="--pulse-height:100%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-amqTMimDr0A.md#ent-person-allison-holker-t-00-39-28" style="--pulse-height:100%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 2 mentions" title="2026-07-23 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#t-00-39-28) | 2 |
+| 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-allison-holker-t-00-39-28) | 2 |
 
 </details>
 </section>
@@ -51,10 +55,10 @@ Source: [CBS News — Stephen “tWitch” Boss family interview](https://www.cb
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2 mentions)</summary>
 
-**[00:39:28](/episodes/ep-amqTMimDr0A.md#t-00-39-28)**
+**[00:39:28](/episodes/ep-amqTMimDr0A.md#ent-person-allison-holker-t-00-39-28)**
 > "Allison (Stephen Boss's widow; surname unverified) grew up in Orem, Utah."
 
-**[00:46:45](/episodes/ep-amqTMimDr0A.md#t-00-46-45)**
+**[00:46:45](/episodes/ep-amqTMimDr0A.md#ent-person-allison-holker-t-00-39-28)**
 > "grandparent visitation against Allison"
 
 </details>
@@ -153,7 +157,7 @@ Source: [CBS News — Stephen “tWitch” Boss family interview](https://www.cb
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (1)</summary>
 
-- [00:42:10](/episodes/ep-amqTMimDr0A.md#t-00-42-10) [○] (Opinion) ["Allison Holker said she discovered many alarming things in the closet after Step..."](/statements/statement-140516f4723b.md)
+- [00:42:10](/episodes/ep-amqTMimDr0A.md#t-00-42-10) [✓] (Opinion) ["Allison Holker said she discovered many alarming things in the closet after Step..."](/statements/statement-140516f4723b.md)
   - About: [Allison Holker](/entities/person-allison-holker.md), [Stephen "tWitch" Boss](/entities/person-stephen-twitch-boss.md)
 
 </details>

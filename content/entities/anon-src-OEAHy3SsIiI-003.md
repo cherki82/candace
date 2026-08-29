@@ -32,7 +32,7 @@ _Type: Anonymous Sources_
 - **[Mitch Snow](/entities/person-mitch-snow.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:45:13](/episodes/ep-OEAHy3SsIiI.md#t-00-44-34): “They were going to bring his son on,”
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:45:13](/episodes/ep-OEAHy3SsIiI.md#t-00-44-53): “They were going to bring his son on,”
 
 </details>
 
@@ -44,7 +44,7 @@ _Type: Anonymous Sources_
 - **[Mitch Snow](/entities/person-mitch-snow.md)** parent of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:45:13](/episodes/ep-OEAHy3SsIiI.md#t-00-44-34): “They were going to bring his son on,”
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:45:13](/episodes/ep-OEAHy3SsIiI.md#t-00-44-53): “They were going to bring his son on,”
 
 </details>
 

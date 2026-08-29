@@ -1,6 +1,6 @@
 ---
 title: "Dremel"
-description: "Dremel (Organizations) - 1 mention"
+description: "Dremel (Organizations) - 2 mentions"
 id: "org-dremel"
 type: "ORG"
 categories:
@@ -18,9 +18,9 @@ Source: [Dremel History | Dremel](https://www.dremel.com/us/en/about-us)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-org-dremel-t-00-27-19">2026-07-14 · 00:27:19</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-org-dremel-t-00-27-19">2026-07-14 · 00:27:19</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-dremel-t-00-20-44">2026-08-07 · 00:21:13</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -32,12 +32,14 @@ Source: [Dremel History | Dremel](https://www.dremel.com/us/en/about-us)
 <p>Highest activity: <a href="/episodes/ep-EtLHqDbxqks.md#ent-org-dremel-t-00-27-19">I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-org-dremel-t-00-27-19" style="--pulse-height:100%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-org-dremel-t-00-20-44" style="--pulse-height:100%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-dremel-t-00-27-19) | 1 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-org-dremel-t-00-20-44) | 1 |
 
 </details>
 </section>
@@ -45,7 +47,15 @@ Source: [Dremel History | Dremel](https://www.dremel.com/us/en/about-us)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
+
+**[00:21:13](/episodes/ep-d7VsbEIWkP8.md#ent-org-dremel-t-00-20-44)**
+> "the Dremel"
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "MKUltra"
-description: "MKUltra (Concepts) - 41 mentions"
+description: "MKUltra (Concepts) - 43 mentions"
 id: "concept-mkultra"
 type: "CONCEPT"
 aliases:
@@ -25,9 +25,9 @@ Source: [Project MKULTRA, Subproject A - CIA Reading Room](https://www.cia.gov/r
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-concept-mkultra-t-00-26-44">2025-09-24 · 00:26:49</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-mkultra-t-00-54-54">2026-07-16 · 00:55:25</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>41</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#ent-concept-mkultra-t-00-45-38">2026-07-29 · 00:45:38</a></strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>43</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -55,6 +55,7 @@ Source: [Project MKULTRA, Subproject A - CIA Reading Room](https://www.cia.gov/r
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-concept-mkultra-t-00-36-48" style="--pulse-height:14%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-concept-mkultra-t-01-19-45" style="--pulse-height:14%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-mkultra-t-00-54-54" style="--pulse-height:14%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-concept-mkultra-t-00-35-33" style="--pulse-height:29%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 2 mentions" title="2026-07-29 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -77,6 +78,7 @@ Source: [Project MKULTRA, Subproject A - CIA Reading Room](https://www.cia.gov/r
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-concept-mkultra-t-00-36-48) | 1 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-concept-mkultra-t-01-19-45) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-concept-mkultra-t-00-54-54) | 1 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-concept-mkultra-t-00-35-33) | 2 |
 
 </details>
 </section>
@@ -84,7 +86,18 @@ Source: [Project MKULTRA, Subproject A - CIA Reading Room](https://www.cia.gov/r
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+<summary><strong class="section-title">Raw mentions (43)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (2 mentions)</summary>
+
+**[00:35:33](/episodes/ep-Vu6Y24pqhZs.md#ent-concept-mkultra-t-00-35-33)**
+> "That's what I've hit on in my Brigitte Macron series. I've been hitting on this talking about Epstein and MKUltra. It's like all of this kind of seems to be converging and the people are waking up and this slop that they're trying to feed us, go to war, Iran bad, Israel good, isn't working."
+
+**[00:45:38](/episodes/ep-Vu6Y24pqhZs.md#ent-concept-mkultra-t-00-45-38)**
+> "... the Mormon mafia, an SRA, an MK Ultra."
+
+</details>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>

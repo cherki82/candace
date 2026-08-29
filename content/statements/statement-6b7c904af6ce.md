@@ -1,6 +1,6 @@
 ---
 title: "A book about Charlie Kirk's assassination was available on A..."
-description: "\"A book about Charlie Kirk's assassination was available on Amazon the day before it happened, which Amazon blamed on technical issues\" — Candace Owens"
+description: "\"A book about Charlie Kirk's assassination was available on Amazon the day before it happened, which Amazon reportedly blamed on technical issues.\" — Candace Owens"
 statement_id: "statement-6b7c904af6ce"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> A book about Charlie Kirk's assassination was available on Amazon the day before it happened, which Amazon blamed on technical issues
+> A book about Charlie Kirk's assassination was available on Amazon the day before it happened, which Amazon reportedly blamed on technical issues.
 
 ## Attribution
 

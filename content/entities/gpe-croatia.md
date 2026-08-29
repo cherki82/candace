@@ -1,6 +1,6 @@
 ---
 title: "Croatia"
-description: "Croatia (Places) - 7 mentions"
+description: "Croatia (Places) - 10 mentions"
 id: "gpe-croatia"
 type: "GPE"
 categories:
@@ -18,12 +18,12 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-croatia-t-01-10-55">2025-10-08 · 00:01:11</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-croatia-t-00-19-10">2026-06-18 · 00:19:10</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-gpe-croatia-t-00-47-30">2026-08-19 · 00:47:50</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -36,6 +36,7 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-croatia-t-00-45-22" style="--pulse-height:33%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_vg7ucP1E0g.md#ent-gpe-croatia-t-00-11-42" style="--pulse-height:33%" aria-label="Bride Of Charlie: Red Sparrow | Episode 8: 1 mentions" title="2026-03-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-croatia-t-00-19-10" style="--pulse-height:33%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-gpe-croatia-t-00-47-30" style="--pulse-height:100%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 3 mentions" title="2026-08-19 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,6 +47,7 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-croatia-t-00-45-22) | 1 |
 | 2026-03-18 | [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md#ent-gpe-croatia-t-00-11-42) | 1 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-gpe-croatia-t-00-19-10) | 1 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-gpe-croatia-t-00-47-30) | 3 |
 
 </details>
 </section>
@@ -53,7 +55,21 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (3 mentions)</summary>
+
+**[00:47:30](/episodes/ep-9hRcfSrri70.md#ent-gpe-croatia-t-00-47-30)**
+> "... love and positive vibes from Croatia."
+
+**[00:47:43](/episodes/ep-9hRcfSrri70.md#ent-gpe-croatia-t-00-47-30)**
+> "I've been to Croatia, actually lived there for a couple of months rand..."
+
+**[00:47:50](/episodes/ep-9hRcfSrri70.md#ent-gpe-croatia-t-00-47-30)**
+> "...ut I loved Dubrovnik. I loved Croatia."
+
+</details>
 
 <details>
 <summary>The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 (1 mentions)</summary>
@@ -106,7 +122,29 @@ Source: [United Nations Member States](https://www.un.org/about-us/member-states
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Former Residence Of (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:47:43](/episodes/ep-9hRcfSrri70.md#t-00-47-30): “I've been to Croatia, actually lived there for a couple of months randomly in Dubrovnik back when I worked in private equity.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** formerly lived in this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:47:43](/episodes/ep-9hRcfSrri70.md#t-00-47-30): “I've been to Croatia, actually lived there for a couple of months randomly in Dubrovnik back when I worked in private equity.”
+
+</details>
+
+</details>
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Patrick Bet-David"
-description: "Patrick Bet-David (People) - 26 mentions"
+description: "Patrick Bet-David (People) - 51 mentions"
 id: "person-patrick-bet-david"
 type: "PERSON"
 aliases:
@@ -22,28 +22,32 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#t-00-57-35">2025-09-16 · 00:58:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-patrick-bet-david-t-04-02-53">2026-08-14 · 04:02:57</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>26</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-patrick-bet-david-t-01-07-23">2026-08-17 · 01:07:23</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>51</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-sreYYcID-QY.md#ent-person-patrick-bet-david-t-00-00-33">EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238</a> (5 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-patrick-bet-david-t-00-06-47">Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376</a> (11 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-q7f8r-THr84.md#t-00-57-35" style="--pulse-height:20%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-sreYYcID-QY.md#ent-person-patrick-bet-david-t-00-00-33" style="--pulse-height:100%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 5 mentions" title="2025-09-18 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-patrick-bet-david-t-00-20-25" style="--pulse-height:80%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 4 mentions" title="2025-09-19 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-patrick-bet-david-t-00-44-06" style="--pulse-height:40%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 2 mentions" title="2025-10-01 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-patrick-bet-david-t-00-48-55" style="--pulse-height:20%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-patrick-bet-david-t-00-46-12" style="--pulse-height:80%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 4 mentions" title="2025-12-01 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-patrick-bet-david-t-00-01-11" style="--pulse-height:60%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 3 mentions" title="2026-05-11 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-patrick-bet-david-t-00-02-47" style="--pulse-height:20%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-patrick-bet-david-t-02-54-51" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 5 mentions" title="2026-08-14 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-q7f8r-THr84.md#t-00-57-35" style="--pulse-height:9%" aria-label="Charlie Kirk Shooting Suspect Charged. Something Isn’t Right…  | Candace Ep 236: 1 mentions" title="2025-09-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-person-patrick-bet-david-t-00-00-33" style="--pulse-height:45%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 5 mentions" title="2025-09-18 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-patrick-bet-david-t-00-20-25" style="--pulse-height:36%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 4 mentions" title="2025-09-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-adJ4LNGp84I.md#ent-person-patrick-bet-david-t-00-44-06" style="--pulse-height:18%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 2 mentions" title="2025-10-01 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-patrick-bet-david-t-00-48-55" style="--pulse-height:9%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-patrick-bet-david-t-00-46-12" style="--pulse-height:36%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 4 mentions" title="2025-12-01 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-KpxIBWkNsSs.md#ent-person-patrick-bet-david-t-00-01-11" style="--pulse-height:27%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 3 mentions" title="2026-05-11 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-MhakwJxK-Zk.md#ent-person-patrick-bet-david-t-00-02-47" style="--pulse-height:9%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-person-patrick-bet-david-t-00-59-32" style="--pulse-height:9%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-person-patrick-bet-david-t-00-33-19" style="--pulse-height:64%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 7 mentions" title="2026-08-11 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-patrick-bet-david-t-02-54-51" style="--pulse-height:45%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 5 mentions" title="2026-08-14 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-patrick-bet-david-t-00-54-57" style="--pulse-height:55%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 6 mentions" title="2026-08-14 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-patrick-bet-david-t-00-06-47" style="--pulse-height:100%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 11 mentions" title="2026-08-17 · 11 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -57,7 +61,11 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-patrick-bet-david-t-00-46-12) | 4 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-person-patrick-bet-david-t-00-01-11) | 3 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-person-patrick-bet-david-t-00-02-47) | 1 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-patrick-bet-david-t-00-59-32) | 1 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-person-patrick-bet-david-t-00-33-19) | 7 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-patrick-bet-david-t-02-54-51) | 5 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-patrick-bet-david-t-00-54-57) | 6 |
+| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-person-patrick-bet-david-t-00-06-47) | 11 |
 
 </details>
 </section>
@@ -65,7 +73,45 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (26)</strong></summary>
+<summary><strong class="section-title">Raw mentions (51)</strong></summary>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (11 mentions)</summary>
+
+**[00:07:02](/episodes/ep-E7P2ShoYDUA.md#ent-person-patrick-bet-david-t-00-06-47)**
+> "Andrew (Andrew Wilson) then calls PBD (Patrick Bet-David) and asks him to moderate because Michael Knowles said that he wasn't going to moderate."
+
+**[00:07:13](/episodes/ep-E7P2ShoYDUA.md#ent-person-patrick-bet-david-t-00-07-13)**
+> "...w Wilson) reached out to PBD (Patrick Bet-David) and around this time, the quote unquote crucible..."
+
+**[00:08:04](/episodes/ep-E7P2ShoYDUA.md#ent-person-patrick-bet-david-t-00-07-52)**
+> ".... OK, and I said no. And PBD (Patrick Bet-David), I'm going crazy here."
+
+**[00:08:17](/episodes/ep-E7P2ShoYDUA.md#ent-person-patrick-bet-david-t-00-07-52)**
+> "So at that point, since PBD (Patrick Bet-David) accepted being the moderator, he suggests that e..."
+
+**[00:08:31](/episodes/ep-E7P2ShoYDUA.md#ent-person-patrick-bet-david-t-00-08-31)**
+> "...nce of me now looping in PBD (Patrick Bet-David) on these emails he's like oh yeah no it's fine I..."
+
+**[00:09:03](/episodes/ep-E7P2ShoYDUA.md#ent-person-patrick-bet-david-t-00-08-31)**
+> "...detail on this call, and PBD (Patrick Bet-David) has two members from his team on the call as wel..."
+
+**[00:10:24](/episodes/ep-E7P2ShoYDUA.md#ent-person-patrick-bet-david-t-00-09-56)**
+> "And we end up asking PBD (Patrick Bet-David)'s team to provide us a number for Andrew Wilson...."
+
+**[00:12:15](/episodes/ep-E7P2ShoYDUA.md#ent-person-patrick-bet-david-t-00-12-07)**
+> "... express to both you and PBD (Patrick Bet-David)'s team how small the space is and how we don't h..."
+
+**[00:22:29](/episodes/ep-E7P2ShoYDUA.md#ent-person-patrick-bet-david-t-00-21-59)**
+> "PBD (Patrick Bet-David) asks us explicitly, what percentage do you put t..."
+
+**[01:06:05](/episodes/ep-E7P2ShoYDUA.md#ent-person-patrick-bet-david-t-01-06-05)**
+> "...the exact same thing and PBD (Patrick Bet-David) had a direct line to them. Then this cope was hi..."
+
+**[01:07:23](/episodes/ep-E7P2ShoYDUA.md#ent-person-patrick-bet-david-t-01-07-23)**
+> "... a point like like as if PBD (Patrick Bet-David) somebody was coming out and flying in and making..."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (5 mentions)</summary>
@@ -84,6 +130,63 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 
 **[04:02:57](/episodes/ep-nPhCKwJ6ye8.md#ent-person-patrick-bet-david-t-04-02-53)**
 > "PBD, just for being a great moderator,"
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (6 mentions)</summary>
+
+**[00:55:24](/episodes/ep-aPOyk1i2LOc.md#ent-person-patrick-bet-david-t-00-54-57)**
+> "... and if you're watching it on PBD podcast, do the same there as well. This allows u..."
+
+**[01:58:49](/episodes/ep-aPOyk1i2LOc.md#ent-person-patrick-bet-david-t-01-58-49)**
+> "I'm not talking to PBD."
+
+**[02:14:00](/episodes/ep-aPOyk1i2LOc.md#ent-person-patrick-bet-david-t-02-13-49)**
+> "... it. They could release it to PBD. They decided to release it to a guy that called ..."
+
+**[03:07:43](/episodes/ep-aPOyk1i2LOc.md#ent-person-patrick-bet-david-t-03-07-43)**
+> "...d no such thing I stressed to PBD from the beginning"
+
+**[03:09:48](/episodes/ep-aPOyk1i2LOc.md#ent-person-patrick-bet-david-t-03-09-34)**
+> "...and flip this set and to you, PBD, just for being a great moderator, I think very f..."
+
+**[03:10:25](/episodes/ep-aPOyk1i2LOc.md#ent-person-patrick-bet-david-t-03-10-14)**
+> "...the Candace Show, support the PBD podcast, subscribe to the channel."
+
+</details>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (7 mentions)</summary>
+
+**[00:33:32](/episodes/ep-HGtMfbePDKk.md#ent-person-patrick-bet-david-t-00-33-19)**
+> "...avel down to Texas and then a PBD offered and Andrew wanted to make that happen. An..."
+
+**[00:33:47](/episodes/ep-HGtMfbePDKk.md#ent-person-patrick-bet-david-t-00-33-19)**
+> "...eryone, I have said basically PBD is going to be in control."
+
+**[00:35:24](/episodes/ep-HGtMfbePDKk.md#ent-person-patrick-bet-david-t-00-35-24)**
+> "I'm also. happy that it is PBD because he will assess and be I believe be 100% s..."
+
+**[00:38:20](/episodes/ep-HGtMfbePDKk.md#ent-person-patrick-bet-david-t-00-38-08)**
+> "And PBD will be honest about that. Like I've just been li..."
+
+**[00:53:22](/episodes/ep-HGtMfbePDKk.md#ent-person-patrick-bet-david-t-00-53-22)**
+> "And like I said with PBD, I've been to his house. I do not strike him as t..."
+
+**[00:31:44](/episodes/ep-HGtMfbePDKk.md#ent-person-patrick-bet-david-t-00-33-19)**
+> "But David was his second option. And I know that my fans are going to be very upset about this because they think that Patrick, that David and his crew over at Valuetainment have not been very kind to me. And no, you are correct."
+
+**[00:33:02](/episodes/ep-HGtMfbePDKk.md#ent-person-patrick-bet-david-t-00-33-19)**
+> "I've been in Patrick David's home. I have met his children. I have met his wife."
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:59:32](/episodes/ep-ChuWo-n49B8.md#ent-person-patrick-bet-david-t-00-59-32)**
+> "Adam (Adam Sosnick) on PBD"
 
 </details>
 
@@ -196,6 +299,18 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Employs (1)</summary>
+
+- **[Tom (Patrick Bet-David team member; surname unverified)](/entities/anon-src-E7P2ShoYDUA-001.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:09:03](/episodes/ep-E7P2ShoYDUA.md#t-00-08-31): “That's what people are here to listen to. And I explain in detail on this call, and PBD (Patrick Bet-David) has two members from his team on the call as well, Tom (Patrick Bet-David team member; surname unverified), as well as his executive assistant.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Interviewed (5)</summary>
 
 - **[Eric Bolling](/entities/person-eric-bolling.md)**
@@ -236,7 +351,7 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Eric Bolling](/entities/person-eric-bolling.md)** interviewed by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -273,6 +388,13 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 
 </details>
 
+- **[Tom (Patrick Bet-David team member; surname unverified)](/entities/anon-src-E7P2ShoYDUA-001.md)** works for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 00:09:03](/episodes/ep-E7P2ShoYDUA.md#t-00-08-31): “That's what people are here to listen to. And I explain in detail on this call, and PBD (Patrick Bet-David) has two members from his team on the call as well, Tom (Patrick Bet-David team member; surname unverified), as well as his executive assistant.”
+
+</details>
+
 </details>
 
 </details>
@@ -291,7 +413,26 @@ Source: [Patrick Bet-David — Official Website](https://www.patrickbetdavid.com
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Patrick Bet-David (2)</strong></summary>
+<summary><strong class="section-title">Statements about Patrick Bet-David (5)</strong></summary>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (1)</summary>
+
+- [00:07:02](/episodes/ep-E7P2ShoYDUA.md#t-00-06-47) (Claim) **Candace Owens**: ["Andrew Wilson called Patrick Bet-David to moderate after Michael Knowl..."](/statements/statement-0d17c0f89589.md)
+  - Also about: [Andrew Wilson](/entities/person-andrew-wilson.md), [Michael Knowles](/entities/person-michael-knowles.md)
+
+</details>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (2)</summary>
+
+- [00:31:44](/episodes/ep-HGtMfbePDKk.md#t-00-31-24) (Claim) **Candace Owens**: ["Owens said she accepted Patrick Bet-David as moderator after Andrew Wi..."](/statements/statement-fb715effe889.md)
+  - Also about: [Andrew Wilson](/entities/person-andrew-wilson.md), [Candace Owens](/entities/person-candace-owens.md)
+
+- [00:33:57](/episodes/ep-HGtMfbePDKk.md#t-00-33-57) (Claim) **Candace Owens**: ["Owens said Patrick Bet-David would control debate breaks, speaking tur..."](/statements/statement-9ec019e8f157.md)
+  - Also about: [Andrew Wilson](/entities/person-andrew-wilson.md), [Candace Owens](/entities/person-candace-owens.md)
+
+</details>
 
 <details>
 <summary>Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239 (2)</summary>

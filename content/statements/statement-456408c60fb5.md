@@ -24,13 +24,23 @@ veracity: "mixed"
 - [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 - [FBI](/entities/org-fbi.md) (org)
 
-## Source
+## Appearances (2)
+
+### 1. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [00:45:52](/episodes/ep-nPhCKwJ6ye8.md#t-00-45-41) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2752);return false;">Play</a>
 
 > tyler robinson's prints amongst five plus other prints were the most degraded on that weapon
+
+### 2. Candace Owens vs Andrew Wilson: The Great Debate.
+
+**Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
+**Timestamp:** [00:21:24](/episodes/ep-aPOyk1i2LOc.md#t-00-21-14) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1284);return false;">Play</a>
+
+> Yet Tyler Robinson's prints amongst five plus other prints were the most degraded on that weapon.
 
 ## Verification
 

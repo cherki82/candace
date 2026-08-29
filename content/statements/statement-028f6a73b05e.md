@@ -4,9 +4,10 @@ description: "\"Candace Owens said Ben Shapiro feels dangerous to her.\" — Can
 statement_id: "statement-028f6a73b05e"
 speaker: "Candace Owens"
 type: "opinion"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -33,8 +34,21 @@ type: "opinion"
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Verified as an accurate attribution of a subjective statement. At 1569.864-1580.764 seconds, Owens says of Ben Shapiro, 'There is something about him that feels dangerous.' This verification confirms that she expressed that feeling; it does not establish that Shapiro poses an objective danger.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](https://www.youtube.com/watch?v=eLgD5yUVbko)
+
+*Verified: 2026-08-28T18:23:53.662017*
 
 ---
 
-**Type:** Opinion | **Verifiable:** No
+**Type:** Opinion | **Verifiable:** Yes

@@ -1,6 +1,6 @@
 ---
-title: "2021: Jimmy Aates was released from prison."
-description: "2021 - Jimmy Aates was released from prison."
+title: "2021: Jimmy Ates was released from prison."
+description: "2021 - Jimmy Ates was released from prison."
 event_id: "event-2021-jimmy-aates-was-released-from-prison"
 date: "2021"
 ---
@@ -9,7 +9,7 @@ date: "2021"
 
 ## Event
 
-> Jimmy Aates was released from prison.
+> Jimmy Ates was released from prison.
 
 ## Mentioned In
 

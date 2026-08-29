@@ -1,6 +1,6 @@
 ---
 title: "Arizona State University"
-description: "Arizona State University (Organizations) - 37 mentions"
+description: "Arizona State University (Organizations) - 38 mentions"
 id: "org-arizona-state-university"
 type: "ORG"
 aliases:
@@ -21,12 +21,12 @@ Source: [Arizona State University](https://www.asu.edu/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ti5Fxrvegno.md#ent-org-arizona-state-university-t-00-35-20">2026-02-10 · 00:36:03</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-arizona-state-university-t-00-22-42">2026-07-14 · 00:22:42</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>37</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-arizona-state-university-t-00-07-46">2026-07-31 · 00:08:03</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>38</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>17</strong></div>
-<div><span>Relationships</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -45,6 +45,7 @@ Source: [Arizona State University](https://www.asu.edu/)
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-arizona-state-university-t-00-17-21" style="--pulse-height:18%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-arizona-state-university-t-00-11-20" style="--pulse-height:9%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-org-arizona-state-university-t-00-22-42" style="--pulse-height:9%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-arizona-state-university-t-00-07-46" style="--pulse-height:9%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 1 mentions" title="2026-07-31 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -61,6 +62,7 @@ Source: [Arizona State University](https://www.asu.edu/)
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-org-arizona-state-university-t-00-17-21) | 2 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-org-arizona-state-university-t-00-11-20) | 1 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-org-arizona-state-university-t-00-22-42) | 1 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-org-arizona-state-university-t-00-07-46) | 1 |
 
 </details>
 </section>
@@ -68,7 +70,15 @@ Source: [Arizona State University](https://www.asu.edu/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (1 mentions)</summary>
+
+**[00:08:03](/episodes/ep-iB-YtO3UZOg.md#ent-org-arizona-state-university-t-00-07-46)**
+> "At Arizona State University, she then earned her Ph.D. in sociology overseas at the University of Manchester, and then she became a teacher."
+
+</details>
 
 <details>
 <summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1 mentions)</summary>
@@ -239,12 +249,19 @@ Source: [Arizona State University](https://www.asu.edu/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
-<summary>Attended By (1)</summary>
+<summary>Attended By (2)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:17:49](/episodes/ep-KpxIBWkNsSs.md#t-00-17-21): “And when they were trying out for the Great American Race in the video that she submitted, she said that she graduated from ASU magna cum laude.”
+
+</details>
+
+- **[Ashley Guajardo](/entities/person-ashley-guajardo.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 @ 00:08:03](/episodes/ep-iB-YtO3UZOg.md#t-00-07-46): “At Arizona State University, she then earned her Ph.D. in sociology overseas at the University of Manchester, and then she became a teacher.”
 
 </details>
 
@@ -276,7 +293,7 @@ Source: [Arizona State University](https://www.asu.edu/)
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
 
 - **[Tyler Bowyer](/entities/person-tyler-bowyer.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
@@ -298,6 +315,13 @@ Source: [Arizona State University](https://www.asu.edu/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:17:49](/episodes/ep-KpxIBWkNsSs.md#t-00-17-21): “And when they were trying out for the Great American Race in the video that she submitted, she said that she graduated from ASU magna cum laude.”
+
+</details>
+
+- **[Ashley Guajardo](/entities/person-ashley-guajardo.md)** attended this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 @ 00:08:03](/episodes/ep-iB-YtO3UZOg.md#t-00-07-46): “At Arizona State University, she then earned her Ph.D. in sociology overseas at the University of Manchester, and then she became a teacher.”
 
 </details>
 

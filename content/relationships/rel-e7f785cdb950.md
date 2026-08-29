@@ -15,7 +15,7 @@ object: "person-donald-trump"
 
 **[An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg)**
 
-- [00:23:58](/episodes/ep-ZIH5-V6UPkg#t-00-23-58): _And CNN actually, which I guess Trump is watching for their polls, their reliable polls, put together a pretty brutal montage of Trump. ... Megyn Kelly is here and she's doing, come up, come up here, Megyn._
+- [00:24:17](/episodes/ep-ZIH5-V6UPkg#t-00-24-17): _Megyn Kelly is here and she's doing, come up, come up here, Megyn (Megyn Kelly). By the way, I'm having a great time up here. Are you having a good time?_
 
 ### Related
 

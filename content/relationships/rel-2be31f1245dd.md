@@ -11,7 +11,11 @@ object: "person-candace-owens"
 
 ## [Kash Patel](/entities/person-kash-patel) accused by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (2 mentions)
+### Evidence (3 mentions)
+
+**[Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg)**
+
+- [00:33:21](/episodes/ep-4JxgOclKzqg#t-00-33-21): _You have a right to look at this and go, hey, it's very strange that Kash Patel apparently shut down Joe Kent, who wanted to investigate whether or not there are foreign ties._
 
 **[HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk)**
 

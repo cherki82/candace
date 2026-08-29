@@ -32,7 +32,7 @@ veracity: "true"
 **Timestamp:** [00:21:46](/episodes/ep-9naMwS0kMBE.md#t-00-21-45) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1306);return false;">Play</a>
 
-> the U.S. military literally as as outrageous as it sounds is a mind control operation Yes totally now totally now they've gotten rid of the good folks like MacArthur got rid of them one by one
+> Yes totally now totally now they've gotten rid of the good folks like MacArthur got rid of them one by one
 
 ## Verification
 

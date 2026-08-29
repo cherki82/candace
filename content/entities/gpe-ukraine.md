@@ -1,6 +1,6 @@
 ---
 title: "Ukraine"
-description: "Ukraine (Places) - 74 mentions"
+description: "Ukraine (Places) - 78 mentions"
 id: "gpe-ukraine"
 type: "GPE"
 aliases:
@@ -22,11 +22,11 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-ukraine-t-00-00-01">2025-09-16 · 00:00:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-EtLHqDbxqks.md#ent-gpe-ukraine-t-00-55-41">2026-07-14 · 00:55:51</a></strong></div>
-<div><span>Episodes</span><strong>32</strong></div>
-<div><span>Mentions</span><strong>74</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-ukraine-t-00-36-43">2026-08-07 · 00:36:43</a></strong></div>
+<div><span>Episodes</span><strong>36</strong></div>
+<div><span>Mentions</span><strong>78</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>9</strong></div>
+<div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -67,6 +67,10 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-ukraine-t-00-40-37" style="--pulse-height:10%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 1 mentions" title="2026-06-24 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-gpe-ukraine-t-00-55-41" style="--pulse-height:10%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-ukraine-t-00-23-21" style="--pulse-height:10%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-gpe-ukraine-t-00-53-17" style="--pulse-height:10%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 1 mentions" title="2026-07-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-gpe-ukraine-t-00-44-25" style="--pulse-height:10%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 1 mentions" title="2026-08-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-ukraine-t-00-16-26" style="--pulse-height:10%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-ukraine-t-00-36-43" style="--pulse-height:10%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 1 mentions" title="2026-08-07 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -104,6 +108,10 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-gpe-ukraine-t-00-40-37) | 1 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-gpe-ukraine-t-00-55-41) | 1 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-gpe-ukraine-t-00-23-21) | 1 |
+| 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-gpe-ukraine-t-00-53-17) | 1 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-gpe-ukraine-t-00-44-25) | 1 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-gpe-ukraine-t-00-16-26) | 1 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-ukraine-t-00-36-43) | 1 |
 
 </details>
 </section>
@@ -111,7 +119,39 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (74)</strong></summary>
+<summary><strong class="section-title">Raw mentions (78)</strong></summary>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
+
+**[00:36:43](/episodes/ep-d7VsbEIWkP8.md#ent-gpe-ukraine-t-00-36-43)**
+> "ukraine"
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:16:35](/episodes/ep-ChuWo-n49B8.md#ent-gpe-ukraine-t-00-16-26)**
+> "sniffer is Ukrainian"
+
+</details>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1 mentions)</summary>
+
+**[00:44:25](/episodes/ep-AH1KVKkweUE.md#ent-gpe-ukraine-t-00-44-25)**
+> "... care and Russia is awful and Ukraine is great it's not landing the same The trick was ..."
+
+</details>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (1 mentions)</summary>
+
+**[00:53:17](/episodes/ep-AoYZel7_cGQ.md#ent-gpe-ukraine-t-00-53-17)**
+> "...l, there's a reason they love Ukraine too, because that's where they came from: Pale of..."
+
+</details>
 
 <details>
 <summary>I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 (1 mentions)</summary>
@@ -546,7 +586,15 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Ukraine (9)</strong></summary>
+<summary><strong class="section-title">Statements about Ukraine (10)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
+
+- [00:16:26](/episodes/ep-ChuWo-n49B8.md#t-00-16-26) (Opinion) **Candace Owens**: ["Owens said Tyler Robinson's purported text messages did not sound like..."](/statements/statement-1d553f9c80a6.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Google Translate](/entities/work-google-translate.md)
+
+</details>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1)</summary>

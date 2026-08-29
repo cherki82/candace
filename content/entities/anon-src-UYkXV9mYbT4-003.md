@@ -1,15 +1,19 @@
 ---
 title: "Anonymous Source #3 (Ep UYkXV9mYbT4)"
-description: "Anonymous Source #3 (Ep UYkXV9mYbT4) (Anonymous Sources) - 0 mentions"
+description: "Anonymous Source #3 (Ep UYkXV9mYbT4) (Anonymous Sources) - 1 mention"
 id: "anon-src-UYkXV9mYbT4-003"
 type: "ANONYMOUS_SOURCE"
+categories:
+  - "aviation and military-base correspondent"
 ---
 
 _Type: Anonymous Sources_
 
+**Categories:** aviation and military-base correspondent
+
 <div class="entity-summary-grid">
 <div><span>Episodes</span><strong>0</strong></div>
-<div><span>Mentions</span><strong>0</strong></div>
+<div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -19,9 +23,7 @@ _Type: Anonymous Sources_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (0)</strong></summary>
-
-_No mentions recorded._
+<summary><strong class="section-title">Raw mentions (1)</strong></summary>
 
 </details>
 

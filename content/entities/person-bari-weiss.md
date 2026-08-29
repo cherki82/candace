@@ -47,7 +47,6 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-bari-weiss-t-00-23-39" style="--pulse-height:17%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 2 mentions" title="2025-12-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-bari-weiss-t-00-02-30" style="--pulse-height:17%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-bari-weiss-t-00-15-33" style="--pulse-height:33%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 4 mentions" title="2026-01-05 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-bari-weiss-t-00-32-35" style="--pulse-height:17%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 2 mentions" title="2026-01-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-bari-weiss-t-00-29-02" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-bari-weiss-t-01-12-16" style="--pulse-height:42%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 5 mentions" title="2026-01-29 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-bari-weiss-t-00-13-18" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
@@ -78,6 +77,7 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-person-bari-weiss-t-00-28-41" style="--pulse-height:17%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 2 mentions" title="2026-07-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-person-bari-weiss-t-00-34-54" style="--pulse-height:8%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 1 mentions" title="2026-07-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-bari-weiss-t-02-45-14" style="--pulse-height:17%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-bari-weiss-t-02-04-12" style="--pulse-height:17%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 2 mentions" title="2026-08-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -94,7 +94,6 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-person-bari-weiss-t-00-23-39) | 2 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-bari-weiss-t-00-02-30) | 2 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-bari-weiss-t-00-15-33) | 4 |
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-bari-weiss-t-00-32-35) | 2 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-bari-weiss-t-00-29-02) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-bari-weiss-t-01-12-16) | 5 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-bari-weiss-t-00-13-18) | 1 |
@@ -125,6 +124,7 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-bari-weiss-t-00-28-41) | 2 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-bari-weiss-t-00-34-54) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-bari-weiss-t-02-45-14) | 2 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-bari-weiss-t-02-04-12) | 2 |
 
 </details>
 </section>
@@ -142,6 +142,17 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 
 **[02:48:18](/episodes/ep-nPhCKwJ6ye8.md#ent-person-bari-weiss-t-02-48-18)**
 > "... that stage she sat down with Barry Weiss that that's what she believes."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (2 mentions)</summary>
+
+**[02:04:12](/episodes/ep-aPOyk1i2LOc.md#ent-person-bari-weiss-t-02-04-12)**
+> "... are showing a clip of her on Barry Weiss, which I can't remember the date that she d..."
+
+**[02:07:16](/episodes/ep-aPOyk1i2LOc.md#ent-person-bari-weiss-t-02-07-16)**
+> "... that stage she sat down with Barry Weiss that that's what she believes. No, but that..."
 
 </details>
 
@@ -323,7 +334,7 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
 
 **[00:05:30](/episodes/ep-q1NRQQAYS_Q.md#ent-person-bari-weiss-t-00-05-01)**
-> "Barry Weiss"
+> "...hich ended with her alongside Bari Weiss. That was weird to me."
 
 </details>
 
@@ -429,24 +440,13 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 </details>
 
 <details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (2 mentions)</summary>
-
-**[00:32:54](/episodes/ep-zSKrxIUMNqw.md#ent-person-bari-weiss-t-00-32-35)**
-> "...to someone I don't like, like Bari Weiss,"
-
-**[00:33:01](/episodes/ep-zSKrxIUMNqw.md#ent-person-bari-weiss-t-00-32-35)**
-> "...o pay to open and speak about Bari Weiss. It's just I loved her so much. As a human being,"
-
-</details>
-
-<details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (4 mentions)</summary>
 
-**[00:15:34](/episodes/ep-OEAHy3SsIiI.md#ent-person-bari-weiss-t-00-15-33)**
+**[00:15:33](/episodes/ep-OEAHy3SsIiI.md#ent-person-bari-weiss-t-00-15-33)**
 > "...nother confusing part of that Bari Weiss interview."
 
-**[00:16:43](/episodes/ep-OEAHy3SsIiI.md#ent-person-bari-weiss-t-00-16-14)**
-> "Bari Weiss, bring him back."
+**[00:16:43](/episodes/ep-OEAHy3SsIiI.md#ent-person-bari-weiss-t-00-16-11)**
+> "Bari Weiss: bring him back. Erika's going to survive it. Now, to the computer programmers, I want you to know that, to us humans looking into that, the part that you're missing is post-traumatic stress, displaced anger."
 
 **[00:17:33](/episodes/ep-OEAHy3SsIiI.md#ent-person-bari-weiss-t-00-17-33)**
 > "...oment and the manner in which Bari Weiss tees up this excruciatingly odd question."
@@ -659,10 +659,11 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 <summary>Criticized By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:24:22](/episodes/ep-ewBzjVe3LNQ.md#t-00-23-39): “obviously Barry Weiss is one of these actors. This is clearly an act. You obviously are not intelligent. You obviously are not some journalist that works their way up and broke some important stories. You are obviously an intelligence op and not so intelligent op.”
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:25:00](/episodes/ep-KpxIBWkNsSs.md#t-00-25-00): “like that i would say Bari Weiss is a perfect example like we all know she's not qualified uh to be an executive at cbs they just don't care they're just there you go Bari Weiss and this Nick Shirley thing is one of the weirdest non-beefs that i've ever had so i'm going to back up here and say i do did not follow at all the quote-unquote rise of Nick Shirley he's 24 years old um it was if i recall like very quickly after the Charlie Kirk assassination assassination”
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:18:22](/episodes/ep-OEAHy3SsIiI.md#t-00-18-13): “when Bari Weiss goes home at night, she just plugs herself into the wall to charge. That's how I feel. I just feel like that is, we're just different.”
 
 </details>
 
@@ -715,15 +716,16 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 <summary>Interviewed (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (7)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
 
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:07:40](/episodes/ep-6J6lRZPQ4jk.md#t-00-07-28): “the podcaster Candace Owens, okay? At one time, a friend of Charlie's. At one time, an employee of Turning Point. She has been one of the main peddlers of these conspiracies”
-- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:34](/episodes/ep-OEAHy3SsIiI.md#t-00-15-33): “What is going on sums up how we all feel right now. And I also would like to mention here another confusing parts that we kind of didn't discuss enough. Another confusing part of that Bari Weiss interview.”
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:34](/episodes/ep-OEAHy3SsIiI.md#t-00-15-33): “He's right. What is going on sums up how we all feel right now. And I also would like to mention here another confusing part that we kind of didn't discuss enough—another confusing part of that Bari Weiss interview.”
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:53:17](/episodes/ep-cZxHqYsWRYg.md#t-00-53-17): “But I now reflect on her telling me during our sit-down that she received the questions ahead of time for her interview with Bari Weiss.”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:16:40](/episodes/ep-7ERqbYElOfs.md#t-00-16-40): “it was her sit down with Bari Weiss literally 72 hours before her and I sat down and I just forgot that Bari Weiss asked her specifically whether or not she believed Tyler Robinson.”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:52:45](/episodes/ep-qZ8RWfyuewQ.md#t-00-52-45): “being asked what questions I planned to ask Erica (Erika Kirk) when we met up at the end of December. So you recall at this time, this was during the week where Erica (Erika Kirk) was going viral for her interview with Bari Weiss for a number of very funny reasons”
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:48:01](/episodes/ep-KpxIBWkNsSs.md#t-00-47-51): “Harris Falconer sorry Harris Falconer she went on that show and then she was all fired up for the first time and like conspiracy theories need to stop that was the very next day so I was like that's interesting because we didn't mention the Erika (Erika Kirk) part yet does she know something that like it felt weird then the day after that she did Bari Weiss and they cut the clip of her saying what do you have to say to the podcaster Candace Owens I then will later find out that they had planned that the question answer segment and she's like stop just stop”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:28:56](/episodes/ep-ds6umq1rHAw.md#t-00-28-41): “Erica (Erika Kirk) then goes on a Shabbat Shalom book tour immediately first thing. She sits down with Bari Weiss, the New York Times”
+- [Candace Owens vs Andrew Wilson: The Great Debate. @ 02:04:12](/episodes/ep-aPOyk1i2LOc.md#t-02-04-12): “We are showing a clip of her on Barry Weiss, which I can't remember the date that she did that interview. And Erica, when she is asked, do you feel with 100% certainty that Tyler Robinson did this? And she says, I do.”
 
 </details>
 
@@ -779,11 +781,12 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 </details>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:24:22](/episodes/ep-ewBzjVe3LNQ.md#t-00-23-39): “obviously Barry Weiss is one of these actors. This is clearly an act. You obviously are not intelligent. You obviously are not some journalist that works their way up and broke some important stories. You are obviously an intelligence op and not so intelligent op.”
 - [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282 @ 00:24:23](/episodes/ep-ewBzjVe3LNQ.md#t-00-23-39): “Bari Weiss is one of these actors. This is clearly an act. You obviously are not intelligent.”
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:25:00](/episodes/ep-KpxIBWkNsSs.md#t-00-25-00): “like that i would say Bari Weiss is a perfect example like we all know she's not qualified uh to be an executive at cbs they just don't care they're just there you go Bari Weiss and this Nick Shirley thing is one of the weirdest non-beefs that i've ever had so i'm going to back up here and say i do did not follow at all the quote-unquote rise of Nick Shirley he's 24 years old um it was if i recall like very quickly after the Charlie Kirk assassination assassination”
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:18:22](/episodes/ep-OEAHy3SsIiI.md#t-00-18-13): “when Bari Weiss goes home at night, she just plugs herself into the wall to charge. That's how I feel. I just feel like that is, we're just different.”
 
 </details>
 
@@ -826,16 +829,17 @@ Source: [Bari Weiss](https://www.bariweiss.com/)
 </details>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** interviewed by this
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279 @ 00:07:40](/episodes/ep-6J6lRZPQ4jk.md#t-00-07-28): “the podcaster Candace Owens, okay? At one time, a friend of Charlie's. At one time, an employee of Turning Point. She has been one of the main peddlers of these conspiracies”
 - [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280 @ 00:08:12](/episodes/ep-es7PWdFGoFI.md#t-00-08-02): “I felt name checked by the podcaster, Candace Owens, this obvious setup and then asking me to stop.”
-- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:34](/episodes/ep-OEAHy3SsIiI.md#t-00-15-33): “What is going on sums up how we all feel right now. And I also would like to mention here another confusing parts that we kind of didn't discuss enough. Another confusing part of that Bari Weiss interview.”
+- [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:15:34](/episodes/ep-OEAHy3SsIiI.md#t-00-15-33): “He's right. What is going on sums up how we all feel right now. And I also would like to mention here another confusing part that we kind of didn't discuss enough—another confusing part of that Bari Weiss interview.”
 - [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3 @ 00:53:17](/episodes/ep-cZxHqYsWRYg.md#t-00-53-17): “But I now reflect on her telling me during our sit-down that she received the questions ahead of time for her interview with Bari Weiss.”
 - [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 @ 00:16:40](/episodes/ep-7ERqbYElOfs.md#t-00-16-40): “it was her sit down with Bari Weiss literally 72 hours before her and I sat down and I just forgot that Bari Weiss asked her specifically whether or not she believed Tyler Robinson.”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:52:45](/episodes/ep-qZ8RWfyuewQ.md#t-00-52-45): “being asked what questions I planned to ask Erica (Erika Kirk) when we met up at the end of December. So you recall at this time, this was during the week where Erica (Erika Kirk) was going viral for her interview with Bari Weiss for a number of very funny reasons”
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:48:01](/episodes/ep-KpxIBWkNsSs.md#t-00-47-51): “Harris Falconer sorry Harris Falconer she went on that show and then she was all fired up for the first time and like conspiracy theories need to stop that was the very next day so I was like that's interesting because we didn't mention the Erika (Erika Kirk) part yet does she know something that like it felt weird then the day after that she did Bari Weiss and they cut the clip of her saying what do you have to say to the podcaster Candace Owens I then will later find out that they had planned that the question answer segment and she's like stop just stop”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:28:56](/episodes/ep-ds6umq1rHAw.md#t-00-28-41): “Erica (Erika Kirk) then goes on a Shabbat Shalom book tour immediately first thing. She sits down with Bari Weiss, the New York Times”
+- [Candace Owens vs Andrew Wilson: The Great Debate. @ 02:04:12](/episodes/ep-aPOyk1i2LOc.md#t-02-04-12): “We are showing a clip of her on Barry Weiss, which I can't remember the date that she did that interview. And Erica, when she is asked, do you feel with 100% certainty that Tyler Robinson did this? And she says, I do.”
 
 </details>
 

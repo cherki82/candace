@@ -1,6 +1,6 @@
 ---
 title: "Stacey Sheridan"
-description: "Stacey Sheridan (People) - 37 mentions"
+description: "Stacey Sheridan (People) - 38 mentions"
 id: "person-stacey-sheridan"
 type: "PERSON"
 aliases:
@@ -21,9 +21,9 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-person-stacey-sheridan-t-00-03-48">2025-10-27 · 00:04:23</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-stacey-sheridan-t-00-53-00">2026-06-22 · 00:53:16</a></strong></div>
-<div><span>Episodes</span><strong>11</strong></div>
-<div><span>Mentions</span><strong>37</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-stacey-sheridan-t-00-14-42">2026-07-30 · 00:15:03</a></strong></div>
+<div><span>Episodes</span><strong>12</strong></div>
+<div><span>Mentions</span><strong>38</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>13</strong></div>
@@ -45,6 +45,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-stacey-sheridan-t-00-14-43" style="--pulse-height:25%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 3 mentions" title="2026-03-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-stacey-sheridan-t-00-20-43" style="--pulse-height:25%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-VMNWMXX1vO8.md#ent-person-stacey-sheridan-t-00-53-00" style="--pulse-height:8%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-stacey-sheridan-t-00-14-42" style="--pulse-height:8%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 1 mentions" title="2026-07-30 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -61,6 +62,7 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-person-stacey-sheridan-t-00-14-43) | 3 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-stacey-sheridan-t-00-20-43) | 3 |
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-person-stacey-sheridan-t-00-53-00) | 1 |
+| 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-person-stacey-sheridan-t-00-14-42) | 1 |
 
 </details>
 </section>
@@ -68,7 +70,15 @@ Source: [Bride Of Charlie: A Wrinkle In Time | Episode 1](https://www.youtube.co
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (1 mentions)</summary>
+
+**[00:15:03](/episodes/ep-AoYZel7_cGQ.md#ent-person-stacey-sheridan-t-00-14-42)**
+> "... guys in the past that it was Stacey Sheridan, but I've actually been told it was allegedly Eli..."
+
+</details>
 
 <details>
 <summary>I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353 (1 mentions)</summary>

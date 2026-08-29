@@ -1,6 +1,6 @@
 ---
 title: "Mike Mitchell"
-description: "Mike Mitchell (People) - 38 mentions"
+description: "Mike Mitchell (People) - 57 mentions"
 id: "person-mike-mitchell"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-mike-mitchell-t-00-18-41">2025-09-29 · 00:18:57</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-mike-mitchell-t-01-44-07">2026-08-14 · 01:44:07</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>38</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-mike-mitchell-t-01-06-19">2026-08-21 · 01:06:47</a></strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>57</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>8</strong></div>
-<div><span>Relationships</span><strong>14</strong></div>
+<div><span>Statements about</span><strong>13</strong></div>
+<div><span>Relationships</span><strong>16</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -42,7 +42,12 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-mike-mitchell-t-00-30-51" style="--pulse-height:90%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 9 mentions" title="2026-03-30 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-mike-mitchell-t-00-38-00" style="--pulse-height:30%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 3 mentions" title="2026-04-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-mike-mitchell-t-00-10-35" style="--pulse-height:20%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#t-00-05-32" style="--pulse-height:10%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-person-mike-mitchell-t-00-02-40" style="--pulse-height:20%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 2 mentions" title="2026-08-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-mike-mitchell-t-01-37-41" style="--pulse-height:100%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 10 mentions" title="2026-08-14 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-person-mike-mitchell-t-01-06-57" style="--pulse-height:80%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 8 mentions" title="2026-08-14 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-person-mike-mitchell-t-00-30-29" style="--pulse-height:70%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 7 mentions" title="2026-08-19 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-person-mike-mitchell-t-01-06-19" style="--pulse-height:10%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -55,7 +60,12 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-mike-mitchell-t-00-30-51) | 9 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-mike-mitchell-t-00-38-00) | 3 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-mike-mitchell-t-00-10-35) | 2 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#t-00-05-32) | 1 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-mike-mitchell-t-00-02-40) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-person-mike-mitchell-t-01-37-41) | 10 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-person-mike-mitchell-t-01-06-57) | 8 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-person-mike-mitchell-t-00-30-29) | 7 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-mike-mitchell-t-01-06-19) | 1 |
 
 </details>
 </section>
@@ -63,7 +73,41 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (38)</strong></summary>
+<summary><strong class="section-title">Raw mentions (57)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
+
+**[01:06:47](/episodes/ep-_cNtgris8Ik.md#ent-person-mike-mitchell-t-01-06-19)**
+> "...head. I probably would access Mike Mitchell's. mind as well because he has been a central chara..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (7 mentions)</summary>
+
+**[00:30:29](/episodes/ep-9hRcfSrri70.md#ent-person-mike-mitchell-t-00-30-29)**
+> "...r or not they heard that from Mike Mitchell, this character that we have told you who seems t..."
+
+**[00:30:57](/episodes/ep-9hRcfSrri70.md#ent-person-mike-mitchell-t-00-30-29)**
+> "...y was like, I got a call from Mike Mitchell saying that, you know, Tyler Robinson was the guy..."
+
+**[00:31:05](/episodes/ep-9hRcfSrri70.md#ent-person-mike-mitchell-t-00-31-05)**
+> "And then we have Mike Mitchell being the one who went over to the parents house...."
+
+**[00:31:23](/episodes/ep-9hRcfSrri70.md#ent-person-mike-mitchell-t-00-31-05)**
+> "...hink his son was guilty, that Mike Mitchell was the person who quarterbacked a lot of this an..."
+
+**[00:31:36](/episodes/ep-9hRcfSrri70.md#ent-person-mike-mitchell-t-00-31-36)**
+> "...what we have been saying that Mike Mitchell."
+
+**[00:33:04](/episodes/ep-9hRcfSrri70.md#ent-person-mike-mitchell-t-00-33-04)**
+> "He's describing Mike Mitchell. Mike Mitchell is not just his Boy Scout leader. ..."
+
+**[00:34:06](/episodes/ep-9hRcfSrri70.md#ent-person-mike-mitchell-t-00-33-42)**
+> "... knew all the facts about who Mike Mitchell was and what his contribution was to this story."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (10 mentions)</summary>
@@ -97,6 +141,54 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 
 **[01:42:14](/episodes/ep-nPhCKwJ6ye8.md#ent-person-mike-mitchell-t-01-42-14)**
 > "...ot interviewed on that night. Mike Mitchell got interviewed."
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (8 mentions)</summary>
+
+**[01:07:12](/episodes/ep-aPOyk1i2LOc.md#ent-person-mike-mitchell-t-01-06-57)**
+> "...re who you just brought up is Mike Mitchell."
+
+**[01:07:18](/episodes/ep-aPOyk1i2LOc.md#ent-person-mike-mitchell-t-01-07-18)**
+> "Mike Mitchell is the biggest unknown in this entire case. Every..."
+
+**[01:07:53](/episodes/ep-aPOyk1i2LOc.md#ent-person-mike-mitchell-t-01-07-18)**
+> "...t. So it could have come from Mike Mitchell. Mike Mitchell could be saying"
+
+**[01:08:19](/episodes/ep-aPOyk1i2LOc.md#ent-person-mike-mitchell-t-01-08-16)**
+> "...erence what happened was this Mike Mitchell character essentially peer pressured him and we c..."
+
+**[01:08:46](/episodes/ep-aPOyk1i2LOc.md#ent-person-mike-mitchell-t-01-08-16)**
+> "...y hard to find anything about Mike Mitchell, but he worked with them for 20 plus years, the p..."
+
+**[01:09:25](/episodes/ep-aPOyk1i2LOc.md#ent-person-mike-mitchell-t-01-09-25)**
+> "...been derived from a statement Mike Mitchell said."
+
+**[01:11:34](/episodes/ep-aPOyk1i2LOc.md#ent-person-mike-mitchell-t-01-11-27)**
+> "Mike Mitchell got interviewed, Amber Robinson got interviewed, ..."
+
+**[01:13:23](/episodes/ep-aPOyk1i2LOc.md#ent-person-mike-mitchell-t-01-13-23)**
+> "...aring that that all came from mike mitchell and mike mitchell would be a part he's saying"
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (2 mentions)</summary>
+
+**[00:02:40](/episodes/ep-ChuWo-n49B8.md#ent-person-mike-mitchell-t-00-02-40)**
+> "I strongly suspect that Mike Mitchell, who is very central to the story"
+
+**[00:03:14](/episodes/ep-ChuWo-n49B8.md#ent-person-mike-mitchell-t-00-02-40)**
+> "...certainty that it is the same Mike Mitchell. But I think it is because I just."
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>
+
+**[00:06:00](/episodes/ep-1CFDtD0IgEg.md#t-00-05-32)**
+> "we hear a story about Mitch Mitchell, as I told you from the beginning."
 
 </details>
 
@@ -268,6 +360,18 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 </details>
 
 <details>
+<summary>Pastor Of (1)</summary>
+
+- **[The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:33:04](/episodes/ep-9hRcfSrri70.md#t-00-33-04): “He's describing Mike Mitchell. Mike Mitchell is not just his Boy Scout leader. He's not just the former police officer, undercover police officer, and all the evidence points to the fact that he did work undercover in sex crimes, which is a running theme in this story, but he is also a minister at the Mormon church.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Works For (3)</summary>
 
 - **[Nate Brooksby](/entities/person-nate-brooksby.md)**
@@ -295,7 +399,7 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 </details>
 
 <details>
-<summary>Referenced By (7)</summary>
+<summary>Referenced By (8)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -347,17 +451,49 @@ Source: [Charlie Kirk's assassination: Here's what we learned after a week of co
 
 </details>
 
+- **[The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints.md)** has pastor this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:33:04](/episodes/ep-9hRcfSrri70.md#t-00-33-04): “He's describing Mike Mitchell. Mike Mitchell is not just his Boy Scout leader. He's not just the former police officer, undercover police officer, and all the evidence points to the fact that he did work undercover in sex crimes, which is a running theme in this story, but he is also a minister at the Mormon church.”
+
+</details>
+
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Mike Mitchell (8)</strong></summary>
+<summary><strong class="section-title">Statements about Mike Mitchell (13)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (4)</summary>
+
+- [00:31:23](/episodes/ep-9hRcfSrri70.md#t-00-31-05) (Accusation) **Anonymous Source #3 (Ep 9hRcfSrri70)** (via read message): ["A source within the Robinson family orbit told Owens that Mike Mitchel..."](/statements/statement-868a4ba2448f.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:32:38](/episodes/ep-9hRcfSrri70.md#t-00-32-38) (Claim) **Donald J. Trump** (via quoted speech): ["Trump said someone close to Tyler Robinson recognized him from a sligh..."](/statements/statement-89b5ec6ecbf5.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:33:04](/episodes/ep-9hRcfSrri70.md#t-00-33-04) (Claim) **Candace Owens**: ["Owens said all the evidence pointed to Mike Mitchell having worked und..."](/statements/statement-6a5e6f2df28f.md)
+  - Also about: [The Church of Jesus Christ of Latter-day Saints](/entities/org-church-of-jesus-christ-of-latter-day-saints.md)
+
+- [00:33:22](/episodes/ep-9hRcfSrri70.md#t-00-33-04) (Claim) **Candace Owens**: ["Owens said Mike Mitchell recognized Tyler Robinson and 'got the ball r..."](/statements/statement-212d2210ae0d.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1)</summary>
 
 - [01:39:29](/episodes/ep-nPhCKwJ6ye8.md#t-01-38-59) (Claim) **Candace Owens**: ["Mike Mitchell had worked as an undercover police officer for more than..."](/statements/statement-2018b40928fe.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
+
+- [00:02:40](/episodes/ep-ChuWo-n49B8.md#t-00-02-09) (Opinion) **Candace Owens**: ["Owens said she strongly suspected that Mike Mitchell was the same Mich..."](/statements/statement-50062fd23cb1.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
 
 </details>

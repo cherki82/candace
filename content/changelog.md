@@ -5,6 +5,47 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2026-08-28 20:21:44
+
+**Added 15 episode(s):**
+  - `1CFDtD0IgEg`: VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371
+  - `4JxgOclKzqg`: Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377
+  - `5zgkrOaCCj4`: EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374
+  - `9hRcfSrri70`: EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378
+  - `AH1KVKkweUE`: Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370
+  - `AoYZel7_cGQ`: A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368
+  - `ChuWo-n49B8`: LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372
+  - `E7P2ShoYDUA`: Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376
+  - `HGtMfbePDKk`: Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.
+  - `HZvwbfePe7o`: BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366
+  - `Vu6Y24pqhZs`: EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367
+  - `_cNtgris8Ik`: Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379
+  - `aPOyk1i2LOc`: Candace Owens vs Andrew Wilson: The Great Debate.
+  - `d7VsbEIWkP8`: A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373
+  - `iB-YtO3UZOg`: An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369
+**Cleaned 5 transcript(s):**
+  - `UYkXV9mYbT4`: PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319
+  - `ZIH5-V6UPkg`: An Open Letter To President Donald Trump (My Response) | Candace Ep 322
+  - `eLgD5yUVbko`: Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323
+  - `q1NRQQAYS_Q`: SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321
+  - `rupRLXmSndU`: Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320
+**Added 372 new entity/entities**
+**Removed 50 entity/entities**
+**Added 122 new event(s)**
+**Removed 16 event(s)**
+**Added 448 new statement(s)**
+**Removed 72 statement(s)**
+**Added 327 new relationship(s)**
+
+**Totals:**
+- Episodes: 158
+- Entities: 3970
+- Events: 1680
+- Statements: 6838
+- Relationships: 4342
+
+---
+
 ## 2026-08-27 19:36:19
 
 **Added 2 episode(s):**

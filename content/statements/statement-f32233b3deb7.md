@@ -24,13 +24,23 @@ veracity: "true"
 - [Kathryn Nester](/entities/person-kathryn-nester.md) (person)
 - [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 
-## Source
+## Appearances (2)
+
+### 1. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [01:31:52](/episodes/ep-nPhCKwJ6ye8.md#t-01-31-37) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(5512);return false;">Play</a>
 
 > crucially Kathy Nestor said I have not even been given access to my client's phone during this hearing she said I haven't even been given access to my client's phone
+
+### 2. Candace Owens vs Andrew Wilson: The Great Debate.
+
+**Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
+**Timestamp:** [01:01:08](/episodes/ep-aPOyk1i2LOc.md#t-01-00-56) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3668);return false;">Play</a>
+
+> crucially Kathy Nestor said I have not even been given access to my client's phone during this hearing
 
 ## Verification
 

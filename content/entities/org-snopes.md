@@ -3,9 +3,17 @@ title: "Snopes"
 description: "Snopes (Organizations) - 3 mentions"
 id: "org-snopes"
 type: "ORG"
+categories:
+  - "fact-checking"
 ---
 
 _Type: Organizations_
+
+**Categories:** fact-checking
+
+**Entity verification:** verified
+> Snopes's own about page confirms the canonical publication identity and fact-checking function.
+Source: [About Snopes](https://www.snopes.com/about/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#t-00-13-36">2025-10-30 · 00:14:11</a></strong></div>

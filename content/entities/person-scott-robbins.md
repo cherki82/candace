@@ -3,9 +3,17 @@ title: "Scott Robbins"
 description: "Scott Robbins (People) - 1 mention"
 id: "person-scott-robbins"
 type: "PERSON"
+categories:
+  - "Utah political candidate"
 ---
 
 _Type: People_
+
+**Categories:** Utah political candidate
+
+**Entity verification:** verified
+> The official Utah candidate-filings source supports the canonical name and political-candidate category.
+Source: [2024 Candidate Filings — Utah](https://vote.utah.gov/2024-candidate-filings/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-scott-robbins-t-00-24-03">2025-10-02 · 00:24:10</a></strong></div>

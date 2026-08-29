@@ -19,7 +19,7 @@ object: "org-boston-consulting-group"
 
 **[Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU)**
 
-- [00:03:46](/episodes/ep-rupRLXmSndU#t-00-03-46): _I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi Netanyahu, their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group._
+- [00:03:46](/episodes/ep-rupRLXmSndU#t-00-03-46): _I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi (Benjamin Netanyahu), their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group._
 
 ### Related
 

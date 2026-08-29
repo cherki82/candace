@@ -3,9 +3,17 @@ title: "Greta Thunberg"
 description: "Greta Thunberg (People) - 3 mentions"
 id: "person-greta-thunberg"
 type: "PERSON"
+categories:
+  - "climate activist"
 ---
 
 _Type: People_
+
+**Categories:** climate activist
+
+**Entity verification:** verified
+> The movement's official page supports Greta Thunberg's canonical identity and climate-activist role.
+Source: [Who We Are — Fridays For Future](https://fridaysforfuture.org/what-we-do/who-we-are/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-person-greta-thunberg-t-00-45-49">2025-10-02 · 00:46:20</a></strong></div>

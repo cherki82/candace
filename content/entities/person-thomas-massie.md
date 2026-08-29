@@ -1,6 +1,6 @@
 ---
 title: "Thomas Massie"
-description: "Thomas Massie (People) - 46 mentions"
+description: "Thomas Massie (People) - 47 mentions"
 id: "person-thomas-massie"
 type: "PERSON"
 aliases:
@@ -22,12 +22,12 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-yAIb-NuUh_U.md#ent-person-thomas-massie-t-00-57-10">2025-11-13 · 00:57:10</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-thomas-massie-t-00-49-39">2026-07-14 · 00:49:39</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>46</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-Vu6Y24pqhZs.md#t-00-32-22">2026-07-29 · 00:32:28</a></strong></div>
+<div><span>Episodes</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>47</strong></div>
 <div><span>Statements by</span><strong>6</strong></div>
 <div><span>Statements about</span><strong>12</strong></div>
-<div><span>Relationships</span><strong>12</strong></div>
+<div><span>Relationships</span><strong>13</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -48,6 +48,7 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 <a href="/episodes/ep-YeEtS7nix3o.md#ent-person-thomas-massie-t-00-16-24" style="--pulse-height:23%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 3 mentions" title="2026-06-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-tXoI0TTKVrs.md#ent-person-thomas-massie-t-00-22-33" style="--pulse-height:8%" aria-label="Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346: 1 mentions" title="2026-06-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#ent-person-thomas-massie-t-00-49-39" style="--pulse-height:8%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#t-00-32-22" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -66,6 +67,7 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 | 2026-06-09 | [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345](/episodes/ep-YeEtS7nix3o.md#ent-person-thomas-massie-t-00-16-24) | 3 |
 | 2026-06-10 | [Ivanka Trump “Discovers” An Island. Erika Kirk Calls It Quits Again. | Ep 346](/episodes/ep-tXoI0TTKVrs.md#ent-person-thomas-massie-t-00-22-33) | 1 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#ent-person-thomas-massie-t-00-49-39) | 1 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#t-00-32-22) | 1 |
 
 </details>
 </section>
@@ -73,7 +75,15 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (46)</strong></summary>
+<summary><strong class="section-title">Raw mentions (47)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
+
+**[00:32:28](/episodes/ep-Vu6Y24pqhZs.md#t-00-32-22)**
+> "I made it clear I was done. I don't even I'm not meeting you halfway, not when it comes to allegations and proven instances of pedophilia and the fight to push out Thomas Massey. Thomas Massey and Ro Khanna pulled together left and right came together and were like, no, what is in these files like children are being harmed. We have people who are."
+
+</details>
 
 <details>
 <summary>Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359 (1 mentions)</summary>
@@ -343,6 +353,18 @@ Source: [Biographical Directory of the United States Congress: Thomas Massie](ht
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [The World Is A Stage: Trump Survives...Again? | Ep 343 @ 00:48:42](/episodes/ep-BxN2-aeMYIs.md#t-00-48-13): “Charlie's done and said things that I'm frustrated with. ... It doesn't remove the fact that he supported Thomas Massie and he would have supported Thomas Massie”
+
+</details>
+
+</details>
+
+<details>
+<summary>Worked With (1)</summary>
+
+- **[Ro Khanna](/entities/person-ro-khanna.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 @ 00:32:28](/episodes/ep-Vu6Y24pqhZs.md#t-00-32-22): “Thomas Massey and Ro Khanna pulled together left and right came together and were like, no, what is in these files like children are being harmed.”
 
 </details>
 

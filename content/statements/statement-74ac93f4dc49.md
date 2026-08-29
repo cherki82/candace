@@ -31,7 +31,7 @@ type: "accusation"
 **Timestamp:** [00:50:43](/episodes/ep-HYn0P-P1wUw.md#t-00-50-23) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3043);return false;">Play</a>
 
-> That can't move on. This feels dangerous to me. Like we're getting to a stage of obsession that is dangerous.
+> wanted to show you that because the Daily Wire continues to exhibit stalker vibes This is not normal. ... That can't move on. This feels dangerous to me. Like we're getting to a stage of obsession that is dangerous.
 
 ### 2. PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To ...
 

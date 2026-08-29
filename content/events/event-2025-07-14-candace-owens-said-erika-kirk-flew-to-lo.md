@@ -1,6 +1,6 @@
 ---
 title: "2025-07-14: Candace Owens said Erika Kirk flew to Long Beach w..."
-description: "2025-07-14 - Candace Owens said Erika Kirk flew to Long Beach with Catherine LoCastro and Jonathan Marcello and returned to Scottsdale."
+description: "2025-07-14 - Candace Owens said Erika Kirk flew to Long Beach with Katherine Locastro, Derek Niekerk, and Jonathan Barcelo."
 event_id: "event-2025-07-14-candace-owens-said-erika-kirk-flew-to-lo"
 date: "2025-07-14"
 ---
@@ -9,7 +9,7 @@ date: "2025-07-14"
 
 ## Event
 
-> Candace Owens said Erika Kirk flew to Long Beach with Catherine LoCastro and Jonathan Marcello and returned to Scottsdale.
+> Candace Owens said Erika Kirk flew to Long Beach with Katherine Locastro, Derek Niekerk, and Jonathan Barcelo.
 
 ## Mentioned In (4 times)
 
@@ -27,7 +27,7 @@ date: "2025-07-14"
 **Timestamp:** [00:51:24](/episodes/ep-UYkXV9mYbT4.md#event-event-2025-07-14-candace-owens-said-erika-kirk-flew-to-lo-t-00-51-24) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3084);return false;">▶️ Play</a>
 
-> that flight she took with Catherine Locastro and Derek Niekerk and Jonathan Barcello
+> And that flight she took with Katherine Locastro and Derek Niekerk and Jonathan Barcelo. And she
 
 ### 3. BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. |...
 

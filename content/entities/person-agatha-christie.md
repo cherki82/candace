@@ -3,9 +3,17 @@ title: "Agatha Christie"
 description: "Agatha Christie (People) - 5 mentions"
 id: "person-agatha-christie"
 type: "PERSON"
+categories:
+  - "author"
 ---
 
 _Type: People_
+
+**Categories:** author
+
+**Entity verification:** verified
+> Canonical name and identity for Agatha Christie confirmed by the cited direct external source.
+Source: [Agatha Christie](https://en.wikipedia.org/wiki/Agatha_Christie)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZGxnf5cj4Uw.md#ent-person-agatha-christie-t-00-35-53">2025-09-29 · 00:36:06</a></strong></div>

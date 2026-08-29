@@ -24,11 +24,21 @@ type: "factual_claim"
 - [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 - [Utah Valley University](/entities/org-utah-valley-university.md) (org)
 
-## Source
+## Appearances (2)
+
+### 1. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [01:58:01](/episodes/ep-nPhCKwJ6ye8.md#t-01-58-01) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(7081);return false;">Play</a>
+
+> The source was saying that Tyler did not step foot on campus that day. It is my perspective that he had something to do with something.
+
+### 2. Candace Owens vs Andrew Wilson: The Great Debate.
+
+**Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
+**Timestamp:** [01:27:10](/episodes/ep-aPOyk1i2LOc.md#t-01-26-52) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(5230);return false;">Play</a>
 
 > The source was saying that Tyler did not step foot on campus that day. It is my perspective that he had something to do with something.
 

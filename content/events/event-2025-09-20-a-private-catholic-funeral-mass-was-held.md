@@ -12,7 +12,7 @@ time: "11:00"
 
 > A private Catholic funeral Mass was held for Charlie Kirk.
 
-## Mentioned In (2 times)
+## Mentioned In (4 times)
 
 ### 1. EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296
 
@@ -29,3 +29,19 @@ time: "11:00"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(861);return false;">▶️ Play</a>
 
 > He said the homily at the private funeral the Friday before the memorial.
+
+### 3. A Strange Thing Happened At Charlie’s Funeral... Plus, A Sho...
+
+**Episode:** [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md)
+**Timestamp:** [00:17:17](/episodes/ep-AoYZel7_cGQ.md#event-event-2025-09-20-a-private-catholic-funeral-mass-was-held-t-00-17-17) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1037);return false;">▶️ Play</a>
+
+> He is now having a Catholic funeral mass that is held at a Catholic church
+
+### 4. Who Stood To Benefit From Charlie Kirk's Assassination? | Ca...
+
+**Episode:** [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md)
+**Timestamp:** [00:42:07](/episodes/ep-Kmt6HgRjckU.md#event-event-2025-09-20-a-private-catholic-funeral-mass-was-held-t-00-41-32) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2527);return false;">▶️ Play</a>
+
+> I told you that he had a Catholic funeral mass.

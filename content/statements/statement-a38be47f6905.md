@@ -4,9 +4,10 @@ description: "\"Candace Owens accused Andrew Kolvet of falsely claiming that she
 statement_id: "statement-a38be47f6905"
 speaker: "Candace Owens"
 type: "accusation"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The source-scoped context at 00:08:02 records Owens accusing Kolvet of falsely describing her relationship with Kirk and Kirk's relationship with Shapiro. The determination verifies that Owens made the accusation, not its underlying merits.
+
+**Confidence:** High
+
+**Sources:**
+
+- [EXCLUSIVE: Ben Shapiro's 9/10 Lunch Date — Candace Ep. 365 transcript](https://podcasts.happyscribe.com/candace/10-lunch-date-more-text-messages-from-charlie-kirk)
+
+*Verified: 2026-08-27T19:42:39.589186*
 
 ---
 

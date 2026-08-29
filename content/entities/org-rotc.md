@@ -5,11 +5,19 @@ id: "org-rotc"
 type: "ORG"
 aliases:
   - "Reserve Officers' Training Corps"
+categories:
+  - "military officer education"
 ---
 
 _Type: Organizations_
 
 **Also known as:** Reserve Officers' Training Corps
+
+**Categories:** military officer education
+
+**Entity verification:** verified
+> The official Army page confirms ROTC as an officer-education and commissioning path.
+Source: [Army ROTC — GoArmy](https://www.goarmy.com/careers-and-jobs/find-your-path/army-officers/rotc)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-DqGNvi36ol8.md#ent-org-rotc-t-00-26-18">2025-12-05 · 00:26:18</a></strong></div>

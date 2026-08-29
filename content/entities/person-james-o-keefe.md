@@ -3,9 +3,17 @@ title: "James O'Keefe"
 description: "James O'Keefe (People) - 6 mentions"
 id: "person-james-o-keefe"
 type: "PERSON"
+categories:
+  - "journalist"
 ---
 
 _Type: People_
+
+**Categories:** journalist
+
+**Entity verification:** verified
+> Canonical name and identity for James O'Keefe confirmed by the cited direct external source.
+Source: [James O'Keefe](https://en.wikipedia.org/wiki/James_O%27Keefe)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2Riv3I7D0Yk.md#ent-person-james-o-keefe-t-00-54-20">2025-10-08 · 00:54:45</a></strong></div>

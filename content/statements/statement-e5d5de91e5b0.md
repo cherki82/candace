@@ -1,6 +1,6 @@
 ---
-title: "Turning Point security did not walk the UVU campus when they..."
-description: "\"Turning Point security did not walk the UVU campus when they arrived and only focused on Hall of Flags access for SUVs\" — Candace Owens"
+title: "Candace Owens said she was told that Turning Point security ..."
+description: "\"Candace Owens said she was told that Turning Point security did not walk the UVU campus when they arrived and reportedly focused only on Hall of Flags...\" — Candace Owens"
 statement_id: "statement-e5d5de91e5b0"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Turning Point security did not walk the UVU campus when they arrived and only focused on Hall of Flags access for SUVs
+> Candace Owens said she was told that Turning Point security did not walk the UVU campus when they arrived and reportedly focused only on Hall of Flags access for SUVs.
 
 ## Attribution
 

@@ -32,7 +32,7 @@ veracity: "true"
 **Timestamp:** [00:12:41](/episodes/ep-UYkXV9mYbT4.md#t-00-12-05) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(761);return false;">Play</a>
 
-> end quote, Andrew then concludes, in the end, the coroner did find the bullet just beneath the skin.
+> end quote, Andrew (Andrew Kolvet) then concludes, in the end, the coroner did find the bullet just beneath the skin.
 
 ## Verification
 

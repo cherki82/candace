@@ -33,7 +33,7 @@ veracity: "true"
 **Timestamp:** [00:17:38](/episodes/ep-rupRLXmSndU.md#t-00-17-20) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1058);return false;">Play</a>
 
-> Nathan Henderson, the co-founder, is married to a woman named Gina Romney. ... Gina Romney Henderson is relevant because she too works at the built corporation. She's the vice president of their user experience.
+> Nathan Henderson, the co-founder, is married to a woman named Gina (Gina Romney Henderson). ... Gina Romney Henderson is relevant because she too works at the built corporation. She's the vice president of their user experience.
 
 ## Verification
 

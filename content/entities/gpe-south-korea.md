@@ -25,7 +25,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-gpe-south-korea-t-00-46-48">2025-11-06 · 00:46:52</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-south-korea-t-00-20-40">2026-04-02 · 00:20:54</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-south-korea-t-00-20-43">2026-04-02 · 00:20:54</a></strong></div>
 <div><span>Episodes</span><strong>13</strong></div>
 <div><span>Mentions</span><strong>43</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -84,7 +84,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 **[00:20:23](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-south-korea-t-00-20-16)**
 > "Korea"
 
-**[00:20:54](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-south-korea-t-00-20-40)**
+**[00:20:54](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-south-korea-t-00-20-43)**
 > "...fore seen everything. He's in Korea. He's with Mikey McCoy. Why is it suddenly that t..."
 
 </details>

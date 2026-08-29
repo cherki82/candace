@@ -3,9 +3,17 @@ title: "Hervé Hoppenot"
 description: "Hervé Hoppenot (People) - 1 mention"
 id: "person-herve-hoppenot"
 type: "PERSON"
+categories:
+  - "biopharma executive"
 ---
 
 _Type: People_
+
+**Categories:** biopharma executive
+
+**Entity verification:** verified
+> Incyte's official release confirms the canonical name and former chief-executive role while preserving the current retirement context.
+Source: [Incyte appoints Bill Meury; Hervé Hoppenot to retire](https://investor.incyte.com/news-releases/news-release-details/incyte-appoints-bill-meury-chief-executive-officer-herve)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-herve-hoppenot-t-00-33-10">2025-12-01 · 00:33:45</a></strong></div>

@@ -1,6 +1,6 @@
 ---
 title: "Google"
-description: "Google (Organizations) - 43 mentions"
+description: "Google (Organizations) - 59 mentions"
 id: "org-google"
 type: "ORG"
 categories:
@@ -17,50 +17,54 @@ Source: [Google — About](https://about.google/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-google-t-00-24-41">2025-09-24 · 00:24:49</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-org-google-t-00-08-52">2026-07-22 · 00:08:52</a></strong></div>
-<div><span>Episodes</span><strong>31</strong></div>
-<div><span>Mentions</span><strong>43</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-google-t-00-07-26">2026-08-21 · 00:07:26</a></strong></div>
+<div><span>Episodes</span><strong>35</strong></div>
+<div><span>Mentions</span><strong>59</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-c5BcKF91iec.md#ent-org-google-t-00-19-32">Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-4JxgOclKzqg.md#ent-org-google-t-00-03-35">Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-google-t-00-24-41" style="--pulse-height:50%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 2 mentions" title="2025-09-24 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-K5GjF53bfN4.md#ent-org-google-t-00-25-49" style="--pulse-height:25%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-c5BcKF91iec.md#ent-org-google-t-00-19-32" style="--pulse-height:100%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 4 mentions" title="2025-10-27 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-google-t-00-38-35" style="--pulse-height:25%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-google-t-01-01-05" style="--pulse-height:25%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-google-t-00-28-01" style="--pulse-height:25%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-google-t-00-35-40" style="--pulse-height:25%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-581dILVcEE4.md#ent-org-google-t-00-27-47" style="--pulse-height:25%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SKGUzGHymcI.md#ent-org-google-t-00-11-40" style="--pulse-height:75%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 3 mentions" title="2025-11-19 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-sImMM04XdWY.md#ent-org-google-t-00-51-25" style="--pulse-height:25%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-google-t-00-49-20" style="--pulse-height:25%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-google-t-00-22-55" style="--pulse-height:75%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 3 mentions" title="2026-01-06 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-google-t-00-31-02" style="--pulse-height:25%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-google-t-00-17-40" style="--pulse-height:25%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ti5Fxrvegno.md#ent-org-google-t-00-25-13" style="--pulse-height:25%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-google-t-00-28-21" style="--pulse-height:50%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-google-t-00-30-57" style="--pulse-height:25%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-google-t-00-28-37" style="--pulse-height:25%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-google-t-00-10-38" style="--pulse-height:50%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 2 mentions" title="2026-03-24 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-google-t-00-26-30" style="--pulse-height:25%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-google-t-00-06-43" style="--pulse-height:25%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-google-t-00-29-36" style="--pulse-height:25%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-google-t-00-26-26" style="--pulse-height:25%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep--9MOUvgGyi4.md#ent-org-google-t-00-33-55" style="--pulse-height:25%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-BxN2-aeMYIs.md#ent-org-google-t-00-27-50" style="--pulse-height:50%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-google-t-00-50-44" style="--pulse-height:25%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-google-t-01-03-59" style="--pulse-height:25%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-google-t-00-27-14" style="--pulse-height:50%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 2 mentions" title="2026-06-17 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-google-t-00-07-39" style="--pulse-height:25%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-IqHsl7d2dos.md#ent-org-google-t-00-53-59" style="--pulse-height:25%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ds6umq1rHAw.md#ent-org-google-t-00-08-52" style="--pulse-height:25%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-QZWSsq8ZWzw.md#ent-org-google-t-00-24-41" style="--pulse-height:20%" aria-label="BREAKING NEWS: FBI Pressuring Utah To Close The Charlie Kirk Case | Candace Ep 242: 2 mentions" title="2025-09-24 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-K5GjF53bfN4.md#ent-org-google-t-00-25-49" style="--pulse-height:10%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 1 mentions" title="2025-09-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-c5BcKF91iec.md#ent-org-google-t-00-19-32" style="--pulse-height:40%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 4 mentions" title="2025-10-27 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-Cq7nj9rxPdo.md#ent-org-google-t-00-38-35" style="--pulse-height:10%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 1 mentions" title="2025-10-28 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YFmRH8p5lt0.md#ent-org-google-t-01-01-05" style="--pulse-height:10%" aria-label="INFILTRATION: Charlie Kirk Was Being Tracked For Years. | Candace Ep 256: 1 mentions" title="2025-10-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-org-google-t-00-28-01" style="--pulse-height:10%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 1 mentions" title="2025-11-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-google-t-00-35-40" style="--pulse-height:10%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-581dILVcEE4.md#ent-org-google-t-00-27-47" style="--pulse-height:10%" aria-label="The Great Exodus From Utah? Where Did The &quot;Egyptians&quot; Go On 9/10? | Candace Ep 267: 1 mentions" title="2025-11-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SKGUzGHymcI.md#ent-org-google-t-00-11-40" style="--pulse-height:30%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 3 mentions" title="2025-11-19 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-sImMM04XdWY.md#ent-org-google-t-00-51-25" style="--pulse-height:10%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 1 mentions" title="2025-11-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-google-t-00-49-20" style="--pulse-height:10%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-google-t-00-22-45" style="--pulse-height:30%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 3 mentions" title="2026-01-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-google-t-00-31-02" style="--pulse-height:10%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-google-t-00-17-40" style="--pulse-height:10%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ti5Fxrvegno.md#ent-org-google-t-00-25-13" style="--pulse-height:10%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-google-t-00-28-21" style="--pulse-height:20%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-google-t-00-30-57" style="--pulse-height:10%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-H9p2ZGHAs9A.md#ent-org-google-t-00-28-37" style="--pulse-height:10%" aria-label="EXPLOSIVE! What Erika Kirk Was Doing In Epstein&#x27;s Orbit… | Candace Ep 310: 1 mentions" title="2026-03-11 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SgVcnx4Oh30.md#ent-org-google-t-00-10-38" style="--pulse-height:20%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 2 mentions" title="2026-03-24 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-org-google-t-00-26-30" style="--pulse-height:10%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-google-t-00-06-43" style="--pulse-height:10%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-org-google-t-00-29-36" style="--pulse-height:10%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-eLgD5yUVbko.md#ent-org-google-t-00-26-26" style="--pulse-height:10%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-org-google-t-00-33-55" style="--pulse-height:10%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-org-google-t-00-27-50" style="--pulse-height:20%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 2 mentions" title="2026-05-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-WoXd4oLwd3w.md#ent-org-google-t-00-50-44" style="--pulse-height:10%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-h76ZN-xXC6c.md#ent-org-google-t-01-03-59" style="--pulse-height:10%" aria-label="The FBI Crashes Out. We Examine The Exploding Microphone Theory. | Ep 350: 1 mentions" title="2026-06-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-google-t-00-27-14" style="--pulse-height:20%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 2 mentions" title="2026-06-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-VMNWMXX1vO8.md#ent-org-google-t-00-07-39" style="--pulse-height:10%" aria-label="I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353: 1 mentions" title="2026-06-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-org-google-t-00-53-59" style="--pulse-height:10%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ds6umq1rHAw.md#ent-org-google-t-00-08-52" style="--pulse-height:10%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-google-t-00-24-40" style="--pulse-height:10%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 1 mentions" title="2026-07-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-org-google-t-00-03-35" style="--pulse-height:100%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 10 mentions" title="2026-08-18 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-org-google-t-00-04-34" style="--pulse-height:30%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 3 mentions" title="2026-08-19 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-org-google-t-00-04-25" style="--pulse-height:20%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -77,7 +81,7 @@ Source: [Google — About](https://about.google/)
 | 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-org-google-t-00-11-40) | 3 |
 | 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-org-google-t-00-51-25) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-org-google-t-00-49-20) | 1 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-google-t-00-22-55) | 3 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-google-t-00-22-45) | 3 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-google-t-00-31-02) | 1 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-google-t-00-17-40) | 1 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-google-t-00-25-13) | 1 |
@@ -97,6 +101,10 @@ Source: [Google — About](https://about.google/)
 | 2026-06-22 | [I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8.md#ent-org-google-t-00-07-39) | 1 |
 | 2026-06-26 | [TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356](/episodes/ep-IqHsl7d2dos.md#ent-org-google-t-00-53-59) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-google-t-00-08-52) | 1 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-org-google-t-00-24-40) | 1 |
+| 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-org-google-t-00-03-35) | 10 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-org-google-t-00-04-34) | 3 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-google-t-00-04-25) | 2 |
 
 </details>
 </section>
@@ -104,7 +112,75 @@ Source: [Google — About](https://about.google/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (43)</strong></summary>
+<summary><strong class="section-title">Raw mentions (59)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>
+
+**[00:04:25](/episodes/ep-_cNtgris8Ik.md#ent-org-google-t-00-04-25)**
+> "...igation, he just provided the Google links and a flash drive, which would indicate tha..."
+
+**[00:07:26](/episodes/ep-_cNtgris8Ik.md#ent-org-google-t-00-07-26)**
+> "... zoomed in footage and send a Google link over to SBI?"
+
+</details>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (3 mentions)</summary>
+
+**[00:05:04](/episodes/ep-9hRcfSrri70.md#ent-org-google-t-00-04-34)**
+> "... that. Also about a fear that Google was going to hack him. Double lie."
+
+**[00:45:37](/episodes/ep-9hRcfSrri70.md#ent-org-google-t-00-45-37)**
+> "...comfortable because you think Google's going to hack you when you had already sent"
+
+**[00:46:02](/episodes/ep-9hRcfSrri70.md#ent-org-google-t-00-46-02)**
+> "a google link to the sbi and why pretend that you don't kn..."
+
+</details>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (10 mentions)</summary>
+
+**[00:04:09](/episodes/ep-4JxgOclKzqg.md#ent-org-google-t-00-03-35)**
+> "...t want to do it for fear that Google might hack him."
+
+**[00:04:19](/episodes/ep-4JxgOclKzqg.md#ent-org-google-t-00-04-19)**
+> "... he said. I've got proof that Google might hack him."
+
+**[00:04:35](/episodes/ep-4JxgOclKzqg.md#ent-org-google-t-00-04-19)**
+> "... wasn't actually fearful that Google might hack him."
+
+**[00:05:21](/episodes/ep-4JxgOclKzqg.md#ent-org-google-t-00-04-58)**
+> "A Google link. He used the very company that he would then..."
+
+**[00:05:31](/episodes/ep-4JxgOclKzqg.md#ent-org-google-t-00-05-31)**
+> "...ied to me about his fear of a Google hack because he actually signed and submitted an ..."
+
+**[00:06:33](/episodes/ep-4JxgOclKzqg.md#ent-org-google-t-00-06-10)**
+> "...BI with four videos through a Google Drive, and then you see the link, and he tells yo..."
+
+**[00:12:21](/episodes/ep-4JxgOclKzqg.md#ent-org-google-t-00-12-13)**
+> "...h drive and similarly created Google links even though days later he would be concerne..."
+
+**[00:12:34](/episodes/ep-4JxgOclKzqg.md#ent-org-google-t-00-12-13)**
+> "Initially he gave them Google links but not the original SD card. Why? Why not ..."
+
+**[00:24:12](/episodes/ep-4JxgOclKzqg.md#ent-org-google-t-00-24-01)**
+> "... me about his fears regarding Google."
+
+**[00:25:47](/episodes/ep-4JxgOclKzqg.md#ent-org-google-t-00-25-21)**
+> "...dited before it was given via Google link or via a flash drive to the SBI."
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (1 mentions)</summary>
+
+**[00:24:40](/episodes/ep-iB-YtO3UZOg.md#ent-org-google-t-00-24-40)**
+> "You can't pull that off without something. There's also some techie people, the Google satellite imagery, the shuttle, somebody's going to look up shuttle companies."
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
@@ -273,13 +349,13 @@ Source: [Google — About](https://about.google/)
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (3 mentions)</summary>
 
-**[00:23:17](/episodes/ep-HYn0P-P1wUw.md#ent-org-google-t-00-22-55)**
+**[00:23:17](/episodes/ep-HYn0P-P1wUw.md#ent-org-google-t-00-22-45)**
 > "I'm scared Google might hack me. What?"
 
-**[00:23:20](/episodes/ep-HYn0P-P1wUw.md#ent-org-google-t-00-22-55)**
+**[00:23:20](/episodes/ep-HYn0P-P1wUw.md#ent-org-google-t-00-23-20)**
 > "You're scared Google's going to hack you to release more footage of Char..."
 
-**[00:42:43](/episodes/ep-HYn0P-P1wUw.md#ent-org-google-t-00-42-29)**
+**[00:42:43](/episodes/ep-HYn0P-P1wUw.md#ent-org-google-t-00-42-40)**
 > "...sands of five-star reviews on Google,"
 
 </details>
@@ -396,5 +472,21 @@ Source: [Google — About](https://about.google/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 _No relationships extracted yet._
+
+</details>
+
+<details open>
+<summary><strong class="section-title">Statements about Google (2)</strong></summary>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (2)</summary>
+
+- [00:05:12](/episodes/ep-4JxgOclKzqg.md#t-00-04-58) (Accusation) **Candace Owens**: ["Owens accused Farnsworth of lying to her, stating that he apparently k..."](/statements/statement-12e964f553b4.md)
+  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md)
+
+- [00:06:33](/episodes/ep-4JxgOclKzqg.md#t-00-06-10) (Claim) **Terrell Farnsworth** (via quoted document): ["In his 1102 statement, Farnsworth said that on September 10 he gave th..."](/statements/statement-8d62ffeda313.md)
+  - Also about: [Terrell Farnsworth](/entities/person-terrell-farnsworth.md), [Utah State Bureau of Investigation](/entities/org-utah-state-bureau-of-investigation.md)
+
+</details>
 
 </details>

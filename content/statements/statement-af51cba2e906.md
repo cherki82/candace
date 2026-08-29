@@ -28,7 +28,7 @@ type: "opinion"
 **Timestamp:** [01:03:00](/episodes/ep-es7PWdFGoFI.md#t-01-02-44) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3780);return false;">Play</a>
 
-> especially for people whose heads I have held up, who have held up my head through really hard times like Charlie did
+> Especially for people whose heads I have held up, who have held up my head through really hard times like Charlie (Charlie Kirk) did, that I would just sell out to like the highest bidder and go, okay, well, you know what, BB offered me a lot of money, so I'm gonna stop talking about this and I'm no longer going to explore this angle or I'm going to, you know, to repeat to you guys, it was definitely Tyler (Tyler (Tyler Robinson)) Robinson.
 
 ## Verification
 

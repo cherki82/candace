@@ -1,6 +1,6 @@
 ---
 title: "Kash Patel fired the chief of the Utah FBI bureau and other ..."
-description: "\"Kash Patel fired the chief of the Utah FBI bureau and other people, replacing her with Robert Bowles in August, and it was Robert Bowles' first week w...\" — Candace Owens"
+description: "\"Kash Patel fired the chief of the Utah FBI bureau and other people, replacing her with Robert Bohls in August, and it was Robert Bohls' first week whe...\" — Candace Owens"
 statement_id: "statement-a46ad2cc72e7"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Kash Patel fired the chief of the Utah FBI bureau and other people, replacing her with Robert Bowles in August, and it was Robert Bowles' first week when Charlie Kirk got shot
+> Kash Patel fired the chief of the Utah FBI bureau and other people, replacing her with Robert Bohls in August, and it was Robert Bohls' first week when Charlie Kirk got shot
 
 ## Attribution
 
@@ -21,7 +21,7 @@ type: "factual_claim"
 ## About
 
 - [Kash Patel](/entities/person-kash-patel.md) (person)
-- [Robert Bowles](/entities/person-robert-bowles.md) (person)
+- [Robert Bohls](/entities/person-robert-bohls.md) (person)
 - [FBI](/entities/org-fbi.md) (org)
 
 ## Source
@@ -30,7 +30,7 @@ type: "factual_claim"
 **Timestamp:** [00:32:13](/episodes/ep-YA1FxrDWNIo.md#t-00-31-28) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1933);return false;">Play</a>
 
-> He fired the chief—among other people—and replaced her with Robert Bowles in August. I think Robert Bowles—actually, it was his first week when Charlie (Charlie Kirk) got shot—and he's somebody who has been in D.C. for decades.
+> He fired the chief—among other people—and replaced her with Robert Bohls in August. I think Robert Bohls—actually, it was his first week when Charlie (Charlie Kirk) got shot—and he's somebody who has been in D.C. for decades.
 
 ## Verification
 

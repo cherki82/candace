@@ -1,6 +1,6 @@
 ---
 title: "Android"
-description: "Android (Works & Media) - 8 mentions"
+description: "Android (Works & Media) - 7 mentions"
 id: "work-android"
 type: "WORK"
 categories:
@@ -17,10 +17,10 @@ _Type: Works & Media_
 Source: [Android](https://www.android.com/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-work-android-t-00-34-37">2026-01-07 · 00:35:06</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-work-android-t-00-38-39">2026-01-19 · 00:38:56</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-1IY2oD-_xVA.md#ent-work-android-t-00-28-09">2026-02-27 · 00:28:36</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -29,9 +29,8 @@ Source: [Android](https://www.android.com/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-zSKrxIUMNqw.md#ent-work-android-t-00-34-37">DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-work-android-t-00-38-39">A Legal Turning Point? | Candace Ep 292</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-work-android-t-00-34-37" style="--pulse-height:100%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-work-android-t-00-38-39" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-work-android-t-00-23-33" style="--pulse-height:100%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-work-android-t-00-19-12" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
@@ -44,7 +43,6 @@ Source: [Android](https://www.android.com/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-work-android-t-00-34-37) | 1 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-work-android-t-00-38-39) | 1 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-work-android-t-00-23-33) | 1 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-work-android-t-00-19-12) | 1 |
@@ -59,7 +57,7 @@ Source: [Android](https://www.android.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
 
 <details>
 <summary>Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 (1 mentions)</summary>
@@ -114,14 +112,6 @@ Source: [Android](https://www.android.com/)
 
 **[00:38:56](/episodes/ep-NIEbqsLAK8g.md#ent-work-android-t-00-38-39)**
 > "download the app for free on iOS or Android"
-
-</details>
-
-<details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1 mentions)</summary>
-
-**[00:35:06](/episodes/ep-zSKrxIUMNqw.md#ent-work-android-t-00-34-37)**
-> "...ad the app for free on iOS or Android."
 
 </details>
 

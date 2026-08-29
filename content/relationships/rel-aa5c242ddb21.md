@@ -11,7 +11,11 @@ object: "person-candace-owens"
 
 ## [Israel](/entities/gpe-israel) accused by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
+
+**[LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8)**
+
+- [00:14:50](/episodes/ep-ChuWo-n49B8#t-00-14-50): _Cellebrite, it's called an Israeli forensic tech firm to extract those messages. Now, I don't know if it matters to them, but we all kind of think Israel killed Charlie Kirk._
 
 **[I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks)**
 

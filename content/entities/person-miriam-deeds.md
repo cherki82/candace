@@ -3,9 +3,18 @@ title: "Miriam Deeds"
 description: "Miriam Deeds (People) - 1 mention"
 id: "person-miriam-deeds"
 type: "PERSON"
+categories:
+  - "Wilmington resident"
+  - "source-local quoted person"
 ---
 
 _Type: People_
+
+**Categories:** Wilmington resident, source-local quoted person
+
+**Entity verification:** verified
+> The episode transcript attributes the quoted public comment to Miriam Deeds. This is narrow source-context verification only.
+Source: [Charlie Kirk And Brigitte's Legionnaires — source episode](https://www.youtube.com/watch?v=tB5SXXmd9vU)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-miriam-deeds-t-00-29-47">2025-12-01 · 00:30:22</a></strong></div>

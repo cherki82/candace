@@ -30,7 +30,7 @@ type: "factual_claim"
 **Timestamp:** [00:01:34](/episodes/ep-rupRLXmSndU.md#t-00-01-34) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(94);return false;">Play</a>
 
-> no one wanted to address Bibi Netanyahu's call. Charlie described it, as I told you, as an intervention over the topic of Israel.
+> Charlie (Charlie Kirk) described it, as I told you, as an intervention over the topic of Israel.
 
 ## Verification
 

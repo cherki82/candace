@@ -1,6 +1,6 @@
 ---
-title: "Satis, which is a French company, injected $1.5 million oste..."
-description: "\"Satis, which is a French company, injected $1.5 million ostensibly to paint planes... in Wilmington, Delaware\" — Candace Owens"
+title: "Satys, which is a French company, injected $1.5 million oste..."
+description: "\"Satys, which is a French company, injected $1.5 million ostensibly to paint planes... in Wilmington, Delaware\" — Candace Owens"
 statement_id: "statement-e17bd7c9d700"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Satis, which is a French company, injected $1.5 million ostensibly to paint planes... in Wilmington, Delaware
+> Satys, which is a French company, injected $1.5 million ostensibly to paint planes... in Wilmington, Delaware
 
 ## Attribution
 

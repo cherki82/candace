@@ -24,23 +24,13 @@ veracity: "mixed"
 - [FBI](/entities/org-fbi.md) (org)
 - [Comparative bullet lead analysis](/entities/concept-comparative-bullet-lead-analysis.md) (concept)
 
-## Appearances (2)
-
-### 1. PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319
+## Source
 
 **Episode:** [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md)
 **Timestamp:** [00:39:53](/episodes/ep-UYkXV9mYbT4.md#t-00-39-53) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2393);return false;">Play</a>
 
 > And lo and behold, we find out that the CBLA. The compositional analysis is a discontinued forensic technique that analyzed trace elements, copper, arsenic, in lead to link crime scene bullets to suspects. ... It was primarily used by the FBI from the 1980s until 2004, but it was then abandoned in 2005 due to flawed scientific, statistical, and interpretive validity.
-
-### 2. Friends In High Temples: Charlie's Final Call With Bibi... |...
-
-**Episode:** [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md)
-**Timestamp:** [00:33:08](/episodes/ep-rupRLXmSndU.md#t-00-32-56) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1988);return false;">Play</a>
-
-> A year later, the Bureau abandoned the analysis.
 
 ## Verification
 

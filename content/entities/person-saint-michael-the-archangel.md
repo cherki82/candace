@@ -26,7 +26,7 @@ _Type: People_
 Source: [Vatican News — Saints Michael, Gabriel and Raphael](https://www.vaticannews.va/en/saints/09/29/st--michael--gabriel-and-raphael--archangels.html)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-saint-michael-the-archangel-t-00-13-56">2026-01-06 · 00:14:15</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-saint-michael-the-archangel-t-00-14-14">2026-01-06 · 00:14:15</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-person-saint-michael-the-archangel-t-00-58-18">2026-06-26 · 00:58:53</a></strong></div>
 <div><span>Episodes</span><strong>6</strong></div>
 <div><span>Mentions</span><strong>12</strong></div>
@@ -40,7 +40,7 @@ Source: [Vatican News — Saints Michael, Gabriel and Raphael](https://www.vatic
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-IqHsl7d2dos.md#ent-person-saint-michael-the-archangel-t-00-56-08">TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-saint-michael-the-archangel-t-00-13-56" style="--pulse-height:25%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-saint-michael-the-archangel-t-00-14-14" style="--pulse-height:25%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-person-saint-michael-the-archangel-t-00-29-14" style="--pulse-height:75%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 3 mentions" title="2026-01-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-saint-michael-the-archangel-t-00-07-54" style="--pulse-height:25%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-saint-michael-the-archangel-t-01-06-59" style="--pulse-height:50%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 2 mentions" title="2026-04-13 · 2 mentions"><span></span></a>
@@ -51,7 +51,7 @@ Source: [Vatican News — Saints Michael, Gabriel and Raphael](https://www.vatic
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-saint-michael-the-archangel-t-00-13-56) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-saint-michael-the-archangel-t-00-14-14) | 1 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-saint-michael-the-archangel-t-00-29-14) | 3 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-saint-michael-the-archangel-t-00-07-54) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-saint-michael-the-archangel-t-01-06-59) | 2 |
@@ -127,7 +127,7 @@ Source: [Vatican News — Saints Michael, Gabriel and Raphael](https://www.vatic
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
 
-**[00:14:15](/episodes/ep-HYn0P-P1wUw.md#ent-person-saint-michael-the-archangel-t-00-13-56)**
+**[00:14:15](/episodes/ep-HYn0P-P1wUw.md#ent-person-saint-michael-the-archangel-t-00-14-14)**
 > "praying the rosary, that he died wearing a St. Michael pendant,"
 
 </details>

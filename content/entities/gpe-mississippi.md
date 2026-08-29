@@ -1,6 +1,6 @@
 ---
 title: "Mississippi"
-description: "Mississippi (Places) - 8 mentions"
+description: "Mississippi (Places) - 9 mentions"
 id: "gpe-mississippi"
 type: "GPE"
 categories:
@@ -17,9 +17,9 @@ Source: [Official State of Mississippi portal](https://www.ms.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-mississippi-t-00-07-50">2026-02-02 · 00:08:18</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-mississippi-t-00-26-56">2026-05-19 · 00:34:34</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-mississippi-t-00-45-17">2026-08-06 · 00:45:17</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -32,6 +32,7 @@ Source: [Official State of Mississippi portal](https://www.ms.gov/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-mississippi-t-00-07-50" style="--pulse-height:33%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-mississippi-t-00-25-53" style="--pulse-height:100%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 6 mentions" title="2026-05-19 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-mississippi-t-00-45-17" style="--pulse-height:17%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -39,6 +40,7 @@ Source: [Official State of Mississippi portal](https://www.ms.gov/)
 |---|---|---:|
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-mississippi-t-00-07-50) | 2 |
 | 2026-05-19 | [LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341](/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-mississippi-t-00-25-53) | 6 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-gpe-mississippi-t-00-45-17) | 1 |
 
 </details>
 </section>
@@ -46,7 +48,15 @@ Source: [Official State of Mississippi portal](https://www.ms.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:45:17](/episodes/ep-ChuWo-n49B8.md#ent-gpe-mississippi-t-00-45-17)**
+> "in the Mississippi area where this event apparently took place"
+
+</details>
 
 <details>
 <summary>LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341 (6 mentions)</summary>

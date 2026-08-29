@@ -17,7 +17,7 @@ Source: [U.S. Department of Justice: Todd Blanche](https://www.justice.gov/dag/b
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-todd-blanche-t-00-15-26">2026-02-02 · 00:15:50</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-todd-blanche-t-00-45-32">2026-04-02 · 00:45:32</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-todd-blanche-t-00-45-19">2026-04-02 · 00:45:32</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -31,14 +31,14 @@ Source: [U.S. Department of Justice: Todd Blanche](https://www.justice.gov/dag/b
 <p>Highest activity: <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-todd-blanche-t-00-15-26">BAAL SO HARD: The Epstein Files | Candace Ep 300</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-todd-blanche-t-00-15-26" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-todd-blanche-t-00-45-32" style="--pulse-height:100%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-todd-blanche-t-00-45-19" style="--pulse-height:100%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-todd-blanche-t-00-15-26) | 1 |
-| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-todd-blanche-t-00-45-32) | 1 |
+| 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-todd-blanche-t-00-45-19) | 1 |
 
 </details>
 </section>
@@ -51,7 +51,7 @@ Source: [U.S. Department of Justice: Todd Blanche](https://www.justice.gov/dag/b
 <details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
 
-**[00:45:32](/episodes/ep-q1NRQQAYS_Q.md#ent-person-todd-blanche-t-00-45-32)**
+**[00:45:32](/episodes/ep-q1NRQQAYS_Q.md#ent-person-todd-blanche-t-00-45-19)**
 > "Todd Blanche"
 
 </details>

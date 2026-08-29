@@ -1,6 +1,6 @@
 ---
 title: "Danny Philip"
-description: "Danny Philip (People) - 16 mentions"
+description: "Danny Philip (People) - 20 mentions"
 id: "person-danny-philip"
 type: "PERSON"
 categories:
@@ -19,12 +19,12 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-X3VKJVJ7cN4.md#t-00-15-14">2026-07-14 · 00:15:14</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-danny-philip-t-00-20-35">2026-07-21 · 00:20:35</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>16</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#t-00-47-19">2026-08-10 · 00:47:19</a></strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>20</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>7</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Statements about</span><strong>8</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -34,6 +34,10 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-X3VKJVJ7cN4.md#t-00-15-14" style="--pulse-height:8%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-danny-philip-t-00-10-05" style="--pulse-height:100%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 15 mentions" title="2026-07-21 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#t-00-39-32" style="--pulse-height:8%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 1 mentions" title="2026-07-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#t-00-33-16" style="--pulse-height:8%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 1 mentions" title="2026-08-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#t-00-23-31" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-5zgkrOaCCj4.md#t-00-47-19" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374: 1 mentions" title="2026-08-10 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -41,6 +45,10 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 |---|---|---:|
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#t-00-15-14) | 1 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-danny-philip-t-00-10-05) | 15 |
+| 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#t-00-39-32) | 1 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#t-00-33-16) | 1 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#t-00-23-31) | 1 |
+| 2026-08-10 | [EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374](/episodes/ep-5zgkrOaCCj4.md#t-00-47-19) | 1 |
 
 </details>
 </section>
@@ -48,7 +56,39 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (16)</strong></summary>
+<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>
+
+**[00:47:19](/episodes/ep-5zgkrOaCCj4.md#t-00-47-19)**
+> "Danny Phillip"
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:23:31](/episodes/ep-ChuWo-n49B8.md#t-00-23-31)**
+> "Oh, so Transparent One. You, Danny Phillip, Mikey McCoy, and Nate Walker."
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>
+
+**[00:33:16](/episodes/ep-1CFDtD0IgEg.md#t-00-33-16)**
+> "he didn't even remember that he was with Danny Phillip"
+
+</details>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (1 mentions)</summary>
+
+**[00:39:32](/episodes/ep-AoYZel7_cGQ.md#t-00-39-32)**
+> "Danny Phillip from The Equation doesn't know he was driving with. It was Danny Phillip."
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (15 mentions)</summary>
@@ -114,6 +154,18 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Appeared With (1)</summary>
+
+- **[Blake Neff](/entities/person-blake-neff.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:33:16](/episodes/ep-1CFDtD0IgEg.md#t-00-33-16): “Remember, we were helping Blake (Blake Neff), who blanked out. ... he didn't even remember that he was with Danny Phillip or where him and Danny Phillip went”
+
+</details>
+
+</details>
+
+<details>
 <summary>Assistant To (1)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)**
@@ -176,7 +228,14 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
+
+- **[Blake Neff](/entities/person-blake-neff.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:33:16](/episodes/ep-1CFDtD0IgEg.md#t-00-33-16): “Remember, we were helping Blake (Blake Neff), who blanked out. ... he didn't even remember that he was with Danny Phillip or where him and Danny Phillip went”
+
+</details>
 
 - **[The Ohio State University](/entities/org-ohio-state-university.md)** attended by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -220,7 +279,15 @@ Source: [The Lantern: Riley Gaines discusses transgender women in sports during 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Danny Philip (7)</strong></summary>
+<summary><strong class="section-title">Statements about Danny Philip (8)</strong></summary>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (1)</summary>
+
+- [00:39:06](/episodes/ep-AoYZel7_cGQ.md#t-00-38-49) (Accusation) **Candace Owens**: ["Candace Owens accused Blake Neff of continuing to omit Danny Philip, w..."](/statements/statement-71fa3d58b1c8.md)
+  - Also about: [Blake Neff](/entities/person-blake-neff.md)
+
+</details>
 
 <details>
 <summary>Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363 (2)</summary>

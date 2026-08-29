@@ -4,9 +4,10 @@ description: "\"Charlie Kirk told Candace Owens not to resign because that was w
 statement_id: "statement-dc42ff5e6a62"
 speaker: "Charlie Kirk"
 type: "opinion"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "opinion"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The transcript context records Owens reading the attributed message 'don't resign because it's what they want.' This verifies the quote as conveyed in the episode, with the caveat that the private-message artifact was not independently authenticated by an external custodian.
+
+**Confidence:** High
+
+**Sources:**
+
+- [EXCLUSIVE: Ben Shapiro's 9/10 Lunch Date — Candace Ep. 365 transcript](https://podcasts.happyscribe.com/candace/10-lunch-date-more-text-messages-from-charlie-kirk)
+
+*Verified: 2026-08-27T19:42:39.589192*
 
 ---
 

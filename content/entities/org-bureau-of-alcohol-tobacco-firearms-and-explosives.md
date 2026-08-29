@@ -1,6 +1,6 @@
 ---
 title: "Bureau of Alcohol, Tobacco, Firearms and Explosives"
-description: "Bureau of Alcohol, Tobacco, Firearms and Explosives (Organizations) - 48 mentions"
+description: "Bureau of Alcohol, Tobacco, Firearms and Explosives (Organizations) - 52 mentions"
 id: "org-bureau-of-alcohol-tobacco-firearms-and-explosives"
 type: "ORG"
 aliases:
@@ -23,10 +23,10 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-UYkXV9mYbT4.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-00-00">2026-03-31 · 00:00:00</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-43-09">2026-08-14 · 00:43:09</a></strong></div>
-<div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>48</strong></div>
+<div><span>Episodes</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>52</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
-<div><span>Statements about</span><strong>17</strong></div>
+<div><span>Statements about</span><strong>21</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -47,7 +47,11 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-30-10" style="--pulse-height:43%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 6 mentions" title="2026-07-14 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-puuMVxEu5NU.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-11-01" style="--pulse-height:8%" aria-label="EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360: 1 mentions" title="2026-07-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-17-31" style="--pulse-height:14%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 2 mentions" title="2026-07-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-17-19" style="--pulse-height:8%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 1 mentions" title="2026-07-29 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-32-36" style="--pulse-height:8%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 1 mentions" title="2026-07-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-10-12" style="--pulse-height:8%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-43-09" style="--pulse-height:8%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-aPOyk1i2LOc.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-18-31" style="--pulse-height:8%" aria-label="Candace Owens vs Andrew Wilson: The Great Debate.: 1 mentions" title="2026-08-14 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -65,7 +69,11 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-30-10) | 6 |
 | 2026-07-16 | [EXCLUSIVE RECORDING! The Lone Witness To The Shot On 9/10 Speaks Out. | Ep 360](/episodes/ep-puuMVxEu5NU.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-11-01) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-17-31) | 2 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-17-19) | 1 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-32-36) | 1 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-10-12) | 1 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-43-09) | 1 |
+| 2026-08-14 | [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-18-31) | 1 |
 
 </details>
 </section>
@@ -73,13 +81,45 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (48)</strong></summary>
+<summary><strong class="section-title">Raw mentions (52)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
 
 **[00:43:09](/episodes/ep-nPhCKwJ6ye8.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-43-09)**
 > "the ATF woman,"
+
+</details>
+
+<details>
+<summary>Candace Owens vs Andrew Wilson: The Great Debate. (1 mentions)</summary>
+
+**[00:18:31](/episodes/ep-aPOyk1i2LOc.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-18-31)**
+> "...en by the Caitlin Oliver, the ATF woman, Samantha Karner, any of those people who w..."
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:10:19](/episodes/ep-ChuWo-n49B8.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-10-12)**
+> "The ATF was very clear."
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (1 mentions)</summary>
+
+**[00:32:56](/episodes/ep-iB-YtO3UZOg.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-32-36)**
+> "I was asking my team that. I was going, why is the base assumption in this report—like, when they send these tiny little fragments, three or four of which were unusable—were unusable, pardon me. The ATF testified, I think, that they received five fragments; four were unusable and one was..."
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (1 mentions)</summary>
+
+**[00:17:30](/episodes/ep-Vu6Y24pqhZs.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-17-19)**
+> "which if you need reminding were described as the most degraded print prints per the atf testimony among all the prints his were the most degraded amongst five other sets of prints on this gun how is that possible how is that possible unless somebody planted his gun"
 
 </details>
 
@@ -233,7 +273,7 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (1 mentions)</summary>
 
 **[00:33:34](/episodes/ep-rupRLXmSndU.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-33-34)**
-> "because they needed to match a bullet to the JFK case oh my gosh it's just so amazing it's amazing that they're bringing that back because uh Charlie was is just lucky I guess lucky that they're getting back into chemistry flawed technique we're going to use it don't worry the ATF says it's inconclusive which is the best they could do but um"
+> "because they needed to match a bullet to the JFK case oh my gosh it's just so amazing it's amazing that they're bringing that back because uh Charlie (Charlie Kirk) was is just lucky I guess lucky that they're getting back into chemistry flawed technique we're going to use it don't worry the ATF says it's inconclusive which is the best they could do but um"
 
 </details>
 
@@ -261,10 +301,10 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 **[00:32:32](/episodes/ep-UYkXV9mYbT4.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-32-17)**
 > "...s produced by the FBI and the ATF indicate that both agencies recovered minute quan..."
 
-**[00:37:11](/episodes/ep-UYkXV9mYbT4.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-37-05)**
+**[00:37:11](/episodes/ep-UYkXV9mYbT4.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-37-11)**
 > "...everybody's talking about the ATF, but the devil is always in the details. The feds..."
 
-**[00:37:26](/episodes/ep-UYkXV9mYbT4.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-37-05)**
+**[00:37:26](/episodes/ep-UYkXV9mYbT4.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-37-11)**
 > "...nse has been provided with an ATF summary, again, just a summary report which indic..."
 
 **[00:37:51](/episodes/ep-UYkXV9mYbT4.md#ent-org-bureau-of-alcohol-tobacco-firearms-and-explosives-t-00-37-51)**
@@ -293,10 +333,11 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 <summary>Employs (2)</summary>
 
 - **[Caitlin Oliver](/entities/person-caitlin-oliver.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 00:43:09](/episodes/ep-nPhCKwJ6ye8.md#t-00-43-09): “so forgetting what the summary of the medical report was, did you watch the testimony that was given by the Caitlin Oliver, the ATF woman, Samantha Carner, any of those people who went into the science of the”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:30:37](/episodes/ep-EtLHqDbxqks.md#t-00-30-10): “OK, Caitlin Oliver was the ATF's forensic biologist and she gave a devastating testimony for the it was devastating to the prosecution.”
+- [Candace Owens vs Andrew Wilson: The Great Debate. @ 00:18:31](/episodes/ep-aPOyk1i2LOc.md#t-00-18-31): “so forgetting what the summary of the medical report was, did you watch the testimony that was given by the Caitlin Oliver, the ATF woman, Samantha Karner, any of those people who went into the science of the”
 
 </details>
 
@@ -313,10 +354,11 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 <summary>Referenced By (2)</summary>
 
 - **[Caitlin Oliver](/entities/person-caitlin-oliver.md)** works for this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 00:43:09](/episodes/ep-nPhCKwJ6ye8.md#t-00-43-09): “so forgetting what the summary of the medical report was, did you watch the testimony that was given by the Caitlin Oliver, the ATF woman, Samantha Carner, any of those people who went into the science of the”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:30:37](/episodes/ep-EtLHqDbxqks.md#t-00-30-10): “OK, Caitlin Oliver was the ATF's forensic biologist and she gave a devastating testimony for the it was devastating to the prosecution.”
+- [Candace Owens vs Andrew Wilson: The Great Debate. @ 00:18:31](/episodes/ep-aPOyk1i2LOc.md#t-00-18-31): “so forgetting what the summary of the medical report was, did you watch the testimony that was given by the Caitlin Oliver, the ATF woman, Samantha Karner, any of those people who went into the science of the”
 
 </details>
 
@@ -348,7 +390,27 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Bureau of Alcohol, Tobacco, Firearms and Explosives (17)</strong></summary>
+<summary><strong class="section-title">Statements about Bureau of Alcohol, Tobacco, Firearms and Explosives (21)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
+
+- [00:10:12](/episodes/ep-ChuWo-n49B8.md#t-00-10-12) (Citation) **Candace Owens**: ["Owens cited ATF testimony as giving only a range of possible weapons f..."](/statements/statement-658ffbfb4ed0.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (3)</summary>
+
+- [00:17:30](/episodes/ep-Vu6Y24pqhZs.md#t-00-17-19) (Citation) **Candace Owens**: ["Owens said ATF testimony described Tyler Robinson's fingerprints as th..."](/statements/statement-d7d169eb6635.md)
+  - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md)
+
+- [00:19:35](/episodes/ep-Vu6Y24pqhZs.md#t-00-19-16) (Claim) **Government sources supporting the Charlie Kirk investigation (Ep Vu6Y24pqhZs)** (via read message): ["An anonymous government source told Owens that the bomb dog Freya had ..."](/statements/statement-746a1ee9e61e.md)
+
+- [00:20:23](/episodes/ep-Vu6Y24pqhZs.md#t-00-19-54) (Accusation) **Candace Owens**: ["Owens alleged that Freya failed to detect a recently fired weapon in t..."](/statements/statement-d99e0355b974.md)
+
+</details>
 
 <details>
 <summary>TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 (1)</summary>
@@ -422,7 +484,7 @@ Source: [ATF Budget & Performance](https://www.atf.gov/about/budget-performance)
 - [00:32:32](/episodes/ep-UYkXV9mYbT4.md#t-00-32-17) (Citation) **Candace Owens**: ["FBI and ATF summary DNA reports said minute quantities of DNA recovere..."](/statements/statement-6f05019158ad.md)
   - Also about: [FBI](/entities/org-fbi.md), [Tyler Robinson](/entities/person-tyler-robinson.md), [Deoxyribonucleic acid](/entities/concept-dna.md)
 
-- [00:37:26](/episodes/ep-UYkXV9mYbT4.md#t-00-37-05) (Citation) **Candace Owens**: ["The ATF summary indicated that the agency was unable to identify the b..."](/statements/statement-22e9b4f4a3c0.md)
+- [00:37:26](/episodes/ep-UYkXV9mYbT4.md#t-00-37-11) (Citation) **Candace Owens**: ["The ATF summary indicated that the agency was unable to identify the b..."](/statements/statement-22e9b4f4a3c0.md)
   - Also about: [Tyler Robinson](/entities/person-tyler-robinson.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 - [00:38:51](/episodes/ep-UYkXV9mYbT4.md#t-00-38-32) (Citation) **Candace Owens**: ["The ATF case file and examination protocols had not been provided to t..."](/statements/statement-66f945dd09e3.md)

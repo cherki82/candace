@@ -29,7 +29,7 @@ veracity: "true"
 ## Source
 
 **Episode:** [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md)
-**Timestamp:** [00:19:30](/episodes/ep-q1NRQQAYS_Q.md#t-00-19-30) 
+**Timestamp:** [00:19:30](/episodes/ep-q1NRQQAYS_Q.md#t-00-19-05) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1170);return false;">Play</a>
 
 > we have decades worth of my husband's voice we have ... unused material from speeches that he's had that no one has heard yet. We have Sunday specials lined up to the brim because my husband was so intentional about making sure that there was enough content.

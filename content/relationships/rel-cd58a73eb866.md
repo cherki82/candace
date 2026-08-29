@@ -15,7 +15,7 @@ object: "person-gina-romney-henderson"
 
 **[Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU)**
 
-- [00:19:43](/episodes/ep-rupRLXmSndU#t-00-19-43): _So you can see this also, I should mention Gina Romney also went to BYU._
+- [00:19:43](/episodes/ep-rupRLXmSndU#t-00-19-43): _So you can see this also, I should mention Gina (Gina Romney Henderson) also went to BYU. BYU keeps coming up, and I'm about to drop some bombshells for you about BYU's connection to Israel in particular._
 
 ### Related
 

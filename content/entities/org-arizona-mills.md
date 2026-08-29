@@ -17,7 +17,7 @@ _Type: Organizations_
 Source: [Simon — Arizona Mills](https://www.simon.com/mall/arizona-mills)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-arizona-mills-t-00-36-38">2026-01-06 · 00:37:02</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-arizona-mills-t-00-36-44">2026-01-06 · 00:37:02</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-arizona-mills-t-00-18-57">2026-02-13 · 00:19:00</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
@@ -31,14 +31,14 @@ Source: [Simon — Arizona Mills](https://www.simon.com/mall/arizona-mills)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-arizona-mills-t-00-18-13">Okay…These Text Messages Are Crazy! | Candace Ep 307</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-arizona-mills-t-00-36-38" style="--pulse-height:33%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-arizona-mills-t-00-36-44" style="--pulse-height:33%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-arizona-mills-t-00-18-13" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 3 mentions" title="2026-02-13 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-arizona-mills-t-00-36-38) | 1 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-arizona-mills-t-00-36-44) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-arizona-mills-t-00-18-13) | 3 |
 
 </details>
@@ -66,7 +66,7 @@ Source: [Simon — Arizona Mills](https://www.simon.com/mall/arizona-mills)
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (1 mentions)</summary>
 
-**[00:37:02](/episodes/ep-HYn0P-P1wUw.md#ent-org-arizona-mills-t-00-36-38)**
+**[00:37:02](/episodes/ep-HYn0P-P1wUw.md#ent-org-arizona-mills-t-00-36-44)**
 > "...way, there's a place known as Arizona Mills,"
 
 </details>

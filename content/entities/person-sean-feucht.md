@@ -5,11 +5,15 @@ id: "person-sean-feucht"
 type: "PERSON"
 aliases:
   - "Sean Foyt"
+categories:
+  - "musician and political activist"
 ---
 
 _Type: People_
 
 **Also known as:** Sean Foyt
+
+**Categories:** musician and political activist
 
 > **Possibly overlapping entity records:** [Sean Foyt](/entities/person-sean-foyt). These records share a name or alias; compare their histories before treating either count as complete.
 

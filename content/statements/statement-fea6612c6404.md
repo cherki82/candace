@@ -23,12 +23,12 @@ type: "opinion"
 - [Tyler Robinson](/entities/person-tyler-robinson.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Appearances (3)
+## Appearances (4)
 
 ### 1. BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/1...
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
-**Timestamp:** [00:17:13](/episodes/ep-HYn0P-P1wUw.md#t-00-16-33) 
+**Timestamp:** [00:17:13](/episodes/ep-HYn0P-P1wUw.md#t-00-16-46) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1033);return false;">Play</a>
 
 > What I want is for this to be solved. I want to know who killed Charlie Kirk and I don't believe it was Tyler Robinson.
@@ -48,6 +48,14 @@ type: "opinion"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2334);return false;">Play</a>
 
 > I don't know what role he played, but as the shooter, zero percent.
+
+### 4. Candace Owens vs Andrew Wilson: The Great Debate.
+
+**Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
+**Timestamp:** [00:13:44](/episodes/ep-aPOyk1i2LOc.md#t-00-13-44) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(824);return false;">Play</a>
+
+> what is the likelihood that you think Tyler Robinson shot Charlie Kirk and killed him? ... Zero percent. zero percent I'm at zero. ... what we've seen in terms of the evidence, I'm at zero percent.
 
 ## Verification
 

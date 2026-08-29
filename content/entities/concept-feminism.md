@@ -1,6 +1,6 @@
 ---
 title: "Feminism"
-description: "Feminism (Concepts) - 25 mentions"
+description: "Feminism (Concepts) - 26 mentions"
 id: "concept-feminism"
 type: "CONCEPT"
 categories:
@@ -16,7 +16,7 @@ _Type: Concepts_
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-concept-feminism-t-00-01-29">2026-01-16 · 00:01:41</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-feminism-t-02-58-41">2026-08-14 · 02:58:41</a></strong></div>
 <div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -51,7 +51,7 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>

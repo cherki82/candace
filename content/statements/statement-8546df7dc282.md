@@ -25,7 +25,7 @@ type: "factual_claim"
 **Timestamp:** [00:01:08](/episodes/ep-a-e7HC6SeK8.md#t-00-00-46) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(68);return false;">Play</a>
 
-> Turns out, actually—and you may have known this; maybe I'm just American ignorant—but our FBI was founded by the French
+> our FBI was founded by the French
 
 ## Verification
 

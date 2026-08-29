@@ -1,6 +1,6 @@
 ---
 title: "Hillary Clinton"
-description: "Hillary Clinton (People) - 32 mentions"
+description: "Hillary Clinton (People) - 31 mentions"
 id: "person-hillary-clinton"
 type: "PERSON"
 aliases:
@@ -24,8 +24,8 @@ Source: [Hillary Rodham Clinton | Clinton Foundation](https://www.clintonfoundat
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-hillary-clinton-t-00-26-53">2025-12-08 · 00:27:05</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-hillary-clinton-t-01-07-16">2026-05-21 · 01:07:27</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>32</strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>31</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
@@ -37,7 +37,6 @@ Source: [Hillary Rodham Clinton | Clinton Foundation](https://www.clintonfoundat
 <p>Highest activity: <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-hillary-clinton-t-00-35-14">TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-hillary-clinton-t-00-26-53" style="--pulse-height:33%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-hillary-clinton-t-00-22-44" style="--pulse-height:17%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-hillary-clinton-t-00-06-19" style="--pulse-height:17%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-hillary-clinton-t-00-33-44" style="--pulse-height:33%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-hillary-clinton-t-00-38-00" style="--pulse-height:67%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 4 mentions" title="2026-02-11 · 4 mentions"><span></span></a>
@@ -56,7 +55,6 @@ Source: [Hillary Rodham Clinton | Clinton Foundation](https://www.clintonfoundat
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-hillary-clinton-t-00-26-53) | 2 |
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-hillary-clinton-t-00-22-44) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-hillary-clinton-t-00-06-19) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-hillary-clinton-t-00-33-44) | 2 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-hillary-clinton-t-00-38-00) | 4 |
@@ -76,7 +74,7 @@ Source: [Hillary Rodham Clinton | Clinton Foundation](https://www.clintonfoundat
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+<summary><strong class="section-title">Raw mentions (31)</strong></summary>
 
 <details>
 <summary>Candace x Hunter Biden: The Interview (1 mentions)</summary>
@@ -222,14 +220,6 @@ Source: [Hillary Rodham Clinton | Clinton Foundation](https://www.clintonfoundat
 
 **[00:06:19](/episodes/ep-ZZGWo6oDscc.md#ent-person-hillary-clinton-t-00-06-19)**
 > "This sounds like Hillary Rodham Clinton in Libya."
-
-</details>
-
-<details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1 mentions)</summary>
-
-**[00:22:44](/episodes/ep-zSKrxIUMNqw.md#ent-person-hillary-clinton-t-00-22-44)**
-> "...running for president against Hillary Clinton,"
 
 </details>
 

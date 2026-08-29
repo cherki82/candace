@@ -5,11 +5,19 @@ id: "person-shakespeare"
 type: "PERSON"
 aliases:
   - "Shakespeare"
+categories:
+  - "author"
 ---
 
 _Type: People_
 
 **Also known as:** Shakespeare
+
+**Categories:** author
+
+**Entity verification:** verified
+> Canonical name and identity for William Shakespeare confirmed by the cited direct external source.
+Source: [William Shakespeare](https://en.wikipedia.org/wiki/William_Shakespeare)
 
 <div class="entity-summary-grid">
 <div><span>Episodes</span><strong>0</strong></div>

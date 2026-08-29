@@ -4,9 +4,10 @@ description: "\"Candace Owens said Turning Point USA raised approximately $40 mi
 statement_id: "statement-67babeeec845"
 speaker: "Candace Owens"
 type: "accusation"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -34,7 +35,21 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Public filings and reporting support that TPUSA had a merchandise LLC/subsidiary and sold commemorative shirts after Kirk's death. However, TPUSA declined to disclose post-death fundraising totals in contemporaneous reporting, and current searches did not substantiate approximately $40 million raised in one night. The merchandise-company portion is supported; the amount and one-night timing remain unverified.
+
+**Confidence:** Medium
+
+**Sources:**
+
+- [Erika Kirk's secret millions: TPUSA finances and merchandise subsidiary](https://archive.ph/Wn5O6)
+- [Will you give now in Charlie's honor: Turning Point raises cash in Kirk's memory](https://www.yahoo.com/news/articles/now-charlies-honor-turning-point-120330005.html)
+
+*Verified: 2026-08-27T19:42:39.589263*
 
 ---
 

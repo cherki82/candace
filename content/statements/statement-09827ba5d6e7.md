@@ -25,11 +25,21 @@ veracity: "true"
 - [Donald J. Trump](/entities/person-donald-trump.md) (person)
 - [French Foreign Legion](/entities/org-french-foreign-legion.md) (org)
 
-## Source
+## Appearances (2)
+
+### 1. Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | P...
 
 **Episode:** [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md)
 **Timestamp:** [02:21:45](/episodes/ep-nPhCKwJ6ye8.md#t-02-21-45) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(8505);return false;">Play</a>
+
+> I handed over that information to Tulsi Gabbard's office. ... I also passed it off to Trump's office, Donald Trump's office.
+
+### 2. Candace Owens vs Andrew Wilson: The Great Debate.
+
+**Episode:** [Candace Owens vs Andrew Wilson: The Great Debate.](/episodes/ep-aPOyk1i2LOc.md)
+**Timestamp:** [01:40:43](/episodes/ep-aPOyk1i2LOc.md#t-01-40-43) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(6043);return false;">Play</a>
 
 > I handed over that information to Tulsi Gabbard's office. ... I also passed it off to Trump's office, Donald Trump's office.
 

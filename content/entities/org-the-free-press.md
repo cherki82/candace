@@ -3,9 +3,17 @@ title: "The Free Press"
 description: "The Free Press (Organizations) - 6 mentions"
 id: "org-the-free-press"
 type: "ORG"
+categories:
+  - "news publication"
 ---
 
 _Type: Organizations_
+
+**Categories:** news publication
+
+**Entity verification:** verified
+> The publication's own about page confirms the canonical identity and news-publication category.
+Source: [About The Free Press](https://www.thefp.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-org-the-free-press-t-00-28-48">2025-11-21 · 00:28:48</a></strong></div>
@@ -66,10 +74,10 @@ _Type: Organizations_
 <details>
 <summary>Employs (1)</summary>
 
-- **[Ashley Reinsberg](/entities/person-ashley-reinsberg.md)**
+- **[Ashley Rindsberg](/entities/person-ashley-rindsberg.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:29:33](/episodes/ep-mKXdKV-OBog.md#t-00-28-48): “a writer. His name is Ashley Reinsberg... reporting a piece for The Free Press”
+- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:29:33](/episodes/ep-mKXdKV-OBog.md#t-00-29-33): “His name is Ashley Rindsberg. And this is—I'm just going to read you the email. This is it. It says, "Hi, Candace (Candace Owens). I'm reporting a piece for The Free Press on the economics.”
 
 </details>
 
@@ -116,10 +124,10 @@ _Type: Organizations_
 
 </details>
 
-- **[Ashley Reinsberg](/entities/person-ashley-reinsberg.md)** works for this
+- **[Ashley Rindsberg](/entities/person-ashley-rindsberg.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:29:33](/episodes/ep-mKXdKV-OBog.md#t-00-28-48): “a writer. His name is Ashley Reinsberg... reporting a piece for The Free Press”
+- [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270 @ 00:29:33](/episodes/ep-mKXdKV-OBog.md#t-00-29-33): “His name is Ashley Rindsberg. And this is—I'm just going to read you the email. This is it. It says, "Hi, Candace (Candace Owens). I'm reporting a piece for The Free Press on the economics.”
 
 </details>
 
@@ -136,8 +144,8 @@ _Type: Organizations_
 - [00:28:48](/episodes/ep-mKXdKV-OBog.md#t-00-28-48) (Claim) **Candace Owens**: ["Bari Weiss founded and held an ownership stake in The Free Press befor..."](/statements/statement-fafbd69be6fd.md)
   - Also about: [CBS News](/entities/org-cbs-news.md), [Bari Weiss](/entities/person-bari-weiss.md)
 
-- [00:31:34](/episodes/ep-mKXdKV-OBog.md#t-00-30-55) (Claim) **Candace Owens**: ["Ashley Reinsberg, a writer for The Free Press, lives in Tel Aviv"](/statements/statement-64a26bdcf6f0.md)
-  - Also about: [Israel](/entities/gpe-israel.md), [Ashley Reinsberg](/entities/person-ashley-reinsberg.md)
+- [00:31:34](/episodes/ep-mKXdKV-OBog.md#t-00-30-55) (Claim) **Candace Owens**: ["Ashley Rindsberg, a writer for The Free Press, lives in Tel Aviv"](/statements/statement-64a26bdcf6f0.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Ashley Rindsberg](/entities/person-ashley-rindsberg.md)
 
 </details>
 

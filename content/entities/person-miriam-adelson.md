@@ -131,7 +131,7 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 <summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (2 mentions)</summary>
 
 **[00:17:02](/episodes/ep-ZIH5-V6UPkg.md#ent-person-miriam-adelson-t-00-17-02)**
-> "...bi is your master. Maybe it's Miriam Adelson that lights the fire and Bibi that makes the shad..."
+> "Bibi (Benjamin Netanyahu) is your master. Maybe it's Miriam Adelson that lights the fire and Bibi (Benjamin Netanyahu) that makes the shadows on the wall."
 
 **[00:29:38](/episodes/ep-ZIH5-V6UPkg.md#ent-person-miriam-adelson-t-00-29-38)**
 > "... before it was announced that Miriam Adelson gave Trump $100 million, this was, I think it was..."

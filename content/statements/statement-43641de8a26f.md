@@ -4,9 +4,10 @@ description: "\"Candace Owens accused Seth Dillon of pressuring Charlie Kirk in 
 statement_id: "statement-43641de8a26f"
 speaker: "Candace Owens"
 type: "accusation"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,7 +36,20 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The transcript context directly records Owens accusing Seth Dillon of pressuring Kirk in the Hamptons and saying Dillon morally blackmailed her, for which she claimed to possess messages. This verifies the accusation and claimed possession of messages as conveyed; the private messages were not publicly available to prove the underlying conduct.
+
+**Confidence:** High
+
+**Sources:**
+
+- [EXCLUSIVE: Ben Shapiro's 9/10 Lunch Date — Candace Ep. 365 transcript](https://podcasts.happyscribe.com/candace/10-lunch-date-more-text-messages-from-charlie-kirk)
+
+*Verified: 2026-08-27T19:42:39.589266*
 
 ---
 

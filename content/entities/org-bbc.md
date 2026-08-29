@@ -1,6 +1,6 @@
 ---
 title: "BBC"
-description: "BBC (Organizations) - 6 mentions"
+description: "BBC (Organizations) - 7 mentions"
 id: "org-bbc"
 type: "ORG"
 aliases:
@@ -23,9 +23,9 @@ Source: [About us | BBC | GOV.UK](https://www.gov.uk/government/organisations/bb
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-bbc-t-00-16-13">2025-09-18 · 00:16:49</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-bbc-t-00-12-15">2026-02-03 · 00:12:23</a></strong></div>
-<div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-bbc-t-00-27-00">2026-08-21 · 00:27:00</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -38,6 +38,7 @@ Source: [About us | BBC | GOV.UK](https://www.gov.uk/government/organisations/bb
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-sreYYcID-QY.md#ent-org-bbc-t-00-16-13" style="--pulse-height:100%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 4 mentions" title="2025-09-18 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-bbc-t-00-08-46" style="--pulse-height:50%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-org-bbc-t-00-27-00" style="--pulse-height:25%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,6 +46,7 @@ Source: [About us | BBC | GOV.UK](https://www.gov.uk/government/organisations/bb
 |---|---|---:|
 | 2025-09-18 | [EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238](/episodes/ep-sreYYcID-QY.md#ent-org-bbc-t-00-16-13) | 4 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-org-bbc-t-00-08-46) | 2 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-org-bbc-t-00-27-00) | 1 |
 
 </details>
 </section>
@@ -52,7 +54,15 @@ Source: [About us | BBC | GOV.UK](https://www.gov.uk/government/organisations/bb
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
+
+**[00:27:00](/episodes/ep-_cNtgris8Ik.md#ent-org-bbc-t-00-27-00)**
+> "if you lose a debate own it own it he says the internet will forget if you have a bad moment they will not forget if you try to gaslight them and pretend it didn't happen and so you're supposed to just come right out and be like look wasn't my best day um definitely realized that i could have delivered this better or that better and like you know i actually somebody who did this and it the internet kind of a little bit forgot about it was when ben shapiro did bbc"
+
+</details>
 
 <details>
 <summary>CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301 (2 mentions)</summary>

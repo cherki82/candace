@@ -28,7 +28,7 @@ type: "factual_claim"
 **Timestamp:** [00:26:18](/episodes/ep-ewBzjVe3LNQ.md#t-00-26-10) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1578);return false;">Play</a>
 
-> Yeah, we were part of a mission going down to the board of JTF-6 assigned from 10th Mountain. Previously, there had been a Marine Corps unit there. Apparently they had an incident, we had to replace them.
+> Yeah, we were part of a mission going down to the border of JTF-6 assigned from 10th Mountain Division. Previously, there had been a Marine Corps unit there.
 
 ## Verification
 

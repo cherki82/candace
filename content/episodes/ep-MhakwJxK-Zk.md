@@ -223,7 +223,7 @@ youtube_url: "https://www.youtube.com/watch?v=MhakwJxK-Zk"
 - **2025-07-02**: [Candace Owens said Rob McCoy formally resigned as lead pastor of Calvary Church](/events/event-2025-07-02-candace-owens-said-rob-mccoy-formally-re.md)
 - **2025-07-04**: [The Financial Times published its report on BCG and Project Aurora](/events/event-2025-07-04-the-financial-times-published-its-report.md)
 - **2025-07-11**: [Tucker Carlson speech calls out Bill Ackman on Israel and citizenship](/events/event-2025-07-11-tucker-carlson-speech-calls-out-bill-ackman-on-isr.md)
-- **2025-07-14**: [Candace Owens said Erika Kirk flew to Long Beach with Catherine LoCastro and Jonathan Marcello and returned to Scottsdale.](/events/event-2025-07-14-candace-owens-said-erika-kirk-flew-to-lo.md)
+- **2025-07-14**: [Candace Owens said Erika Kirk flew to Long Beach with Katherine Locastro, Derek Niekerk, and Jonathan Barcelo.](/events/event-2025-07-14-candace-owens-said-erika-kirk-flew-to-lo.md)
 - **2025-07-18**: [UVU Turning Point chapter requested Charlie Kirk for campus speaking event.](/events/event-2025-07-18-uvu-turning-point-chapter-requested-charlie-kirk-f.md)
 - **2025-07-20**: [Charlie Kirk began a family vacation in Maine](/events/event-2025-07-20-charlie-kirk-began-a-family-vacation-in-.md)
 - **2025-07-21**: [Benjamin Netanyahu's Nelk Boys podcast interview was released](/events/event-2025-07-21-benjamin-netanyahus-nelk-boys-podcast-in.md)

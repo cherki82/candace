@@ -154,13 +154,13 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 <summary>Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 (4 mentions)</summary>
 
 **[00:03:24](/episodes/ep-rupRLXmSndU.md#ent-person-mitt-romney-t-00-03-24)**
-> "presented itself in the form of this lifelong friendship. Now, it would be difficult for me to overstate to you just how close Bibi Netanyahu is to Mitt Romney."
+> "presented itself in the form of this lifelong friendship. Now, it would be difficult for me to overstate to you just how close Bibi (Benjamin Netanyahu) is to Mitt Romney."
 
 **[00:03:34](/episodes/ep-rupRLXmSndU.md#ent-person-mitt-romney-t-00-03-24)**
 > "Yeah, that Mitt Romney, the former senator of Utah, the one-time preside..."
 
 **[00:20:06](/episodes/ep-rupRLXmSndU.md#ent-person-mitt-romney-t-00-19-56)**
-> "...rd until I realized how close Mitt Romney was to Bibi Net and Yahoo."
+> "in this investigation that the Romney name has come up. I hadn't spoken about it before because I just thought, well, it's the Romney family, they're big in Utah, that's not that weird until I realized how close Mitt Romney was to Bibi (Benjamin Netanyahu)."
 
 **[00:25:56](/episodes/ep-rupRLXmSndU.md#ent-person-mitt-romney-t-00-25-43)**
 > "...ere, I should mention, during Mitt Romney presidential election season."
@@ -178,7 +178,7 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 - **[Boston Consulting Group](/entities/org-boston-consulting-group.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi Netanyahu, their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi (Benjamin Netanyahu), their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group.”
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:10:26](/episodes/ep-MhakwJxK-Zk.md#t-00-09-54): “We reminded you that they met at the Boston Consulting Group where they both worked”
 
 </details>
@@ -211,7 +211,7 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:24](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “presented itself in the form of this lifelong friendship. Now, it would be difficult for me to overstate to you just how close Bibi Netanyahu is to Mitt Romney.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:24](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “presented itself in the form of this lifelong friendship. Now, it would be difficult for me to overstate to you just how close Bibi (Benjamin Netanyahu) is to Mitt Romney.”
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:10:06](/episodes/ep-MhakwJxK-Zk.md#t-00-09-54): “And Mitt Romney, as it turns out, is best friends with Bibi (Benjamin Netanyahu).”
 - [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:09:30](/episodes/ep-3QJqtW_NOSI.md#t-00-08-50): “Mitt Romney and Bibi Netanyahu became best friends over there.”
 
@@ -225,7 +225,7 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi Netanyahu, their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi (Benjamin Netanyahu), their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group.”
 
 </details>
 
@@ -261,7 +261,7 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 - **[Boston Consulting Group](/entities/org-boston-consulting-group.md)** formerly employed this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi Netanyahu, their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi (Benjamin Netanyahu), their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group.”
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:10:26](/episodes/ep-MhakwJxK-Zk.md#t-00-09-54): “We reminded you that they met at the Boston Consulting Group where they both worked”
 
 </details>
@@ -284,7 +284,7 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** friend of this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:24](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “presented itself in the form of this lifelong friendship. Now, it would be difficult for me to overstate to you just how close Bibi Netanyahu is to Mitt Romney.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:24](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “presented itself in the form of this lifelong friendship. Now, it would be difficult for me to overstate to you just how close Bibi (Benjamin Netanyahu) is to Mitt Romney.”
 - [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344 @ 00:10:06](/episodes/ep-MhakwJxK-Zk.md#t-00-09-54): “And Mitt Romney, as it turns out, is best friends with Bibi (Benjamin Netanyahu).”
 - [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352 @ 00:09:30](/episodes/ep-3QJqtW_NOSI.md#t-00-08-50): “Mitt Romney and Bibi Netanyahu became best friends over there.”
 
@@ -293,7 +293,7 @@ Source: [U.S. Senate: Utah Senators](https://www.senate.gov/states/UT/senators.h
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)** political ally of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi Netanyahu, their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group.”
+- [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320 @ 00:03:46](/episodes/ep-rupRLXmSndU.md#t-00-03-24): “I mean, frankly, if I wanted to, I could do an entire series on his 50 year friendship with Bibi (Benjamin Netanyahu), their intense political support for one another, counseling to one another, a friendship which began, like I told you, back in 1976 when they were both working for the Boston Consulting Group.”
 
 </details>
 

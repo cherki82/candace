@@ -301,7 +301,7 @@ youtube_url: "https://www.youtube.com/watch?v=7ERqbYElOfs"
 
 - **2020-07-24**: [Two French paratroopers were arrested near Marie-Hélène Dini's home in connection with a failed contract killing.](/events/event-2020-07-24-two-french-paratroopers-were-arrested-ne.md)
 - **2025-07-14**: [Charlie Kirk hosted his show with Josh Hammer after returning from the Student Action Summit.](/events/event-2025-07-14-charlie-kirk-hosted-his-show-with-josh-h.md)
-- **2025-07-14**: [Candace Owens said Erika Kirk flew to Long Beach with Catherine LoCastro and Jonathan Marcello and returned to Scottsdale.](/events/event-2025-07-14-candace-owens-said-erika-kirk-flew-to-lo.md)
+- **2025-07-14**: [Candace Owens said Erika Kirk flew to Long Beach with Katherine Locastro, Derek Niekerk, and Jonathan Barcelo.](/events/event-2025-07-14-candace-owens-said-erika-kirk-flew-to-lo.md)
 - **2025-09-10**: [Charlie Kirk was assassinated at Utah Valley University.](/events/event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va.md)
 - **2025-09-11**: [Tyler James Robinson surrenders to police at Washington County Sheriff's Office](/events/event-2025-09-11-tyler-james-robinson-surrenders-to-polic.md)
 - **2026-03-27**: [Washington County Sheriff Nate Brooksby resigned from office.](/events/event-2026-03-27-washington-county-sheriff-nate-brooksby-.md)

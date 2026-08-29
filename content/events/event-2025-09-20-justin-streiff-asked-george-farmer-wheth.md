@@ -17,4 +17,4 @@ date: "2025-09-20"
 **Timestamp:** [00:07:25](/episodes/ep-UYkXV9mYbT4.md#event-event-2025-09-20-justin-streiff-asked-george-farmer-wheth-t-00-07-25) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(445);return false;">▶️ Play</a>
 
-> the very next day on September 20th, Justin Strife was contacting my husband several times
+> Do you want to know how I know that it caused panic? Because the very next day on September 20th,

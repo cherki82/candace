@@ -34,7 +34,7 @@ Source: [The Charlie Kirk Few Knew | Megyn Kelly](https://www.megynkelly.com/202
 <a href="/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-09" style="--pulse-height:100%" aria-label="Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316: 1 mentions" title="2026-03-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#t-00-15-28" style="--pulse-height:100%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 1 mentions" title="2026-03-26 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#t-00-20-43" style="--pulse-height:100%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-UYkXV9mYbT4.md#t-00-51-24" style="--pulse-height:100%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-katherine-locastro-t-00-51-24" style="--pulse-height:100%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 1 mentions" title="2026-03-31 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-person-katherine-locastro-t-00-19-44" style="--pulse-height:100%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X3VKJVJ7cN4.md#t-00-17-15" style="--pulse-height:100%" aria-label="Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359: 1 mentions" title="2026-07-14 · 1 mentions"><span></span></a>
 </div>
@@ -45,7 +45,7 @@ Source: [The Charlie Kirk Few Knew | Megyn Kelly](https://www.megynkelly.com/202
 | 2026-03-25 | [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316](/episodes/ep-5m-Wn6Pr5rM.md#t-00-18-09) | 1 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#t-00-15-28) | 1 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#t-00-20-43) | 1 |
-| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#t-00-51-24) | 1 |
+| 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-katherine-locastro-t-00-51-24) | 1 |
 | 2026-06-13 | [REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348](/episodes/ep-WoXd4oLwd3w.md#ent-person-katherine-locastro-t-00-19-44) | 1 |
 | 2026-07-14 | [Blake Neff Blacks Out On 9/10. Andrew Kolvet Comes Clean About Netanyahu. | Ep 359](/episodes/ep-X3VKJVJ7cN4.md#t-00-17-15) | 1 |
 
@@ -76,8 +76,8 @@ Source: [The Charlie Kirk Few Knew | Megyn Kelly](https://www.megynkelly.com/202
 <details>
 <summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (1 mentions)</summary>
 
-**[00:51:24](/episodes/ep-UYkXV9mYbT4.md#t-00-51-24)**
-> "Catherine Locastro"
+**[00:51:24](/episodes/ep-UYkXV9mYbT4.md#ent-person-katherine-locastro-t-00-51-24)**
+> "And that flight she took with Katherine Locastro and Derek Niekerk and Jonathan Barcelo. And she wanted, the woman who's emailing me wanted to make me aware that a flight to Long Beach. I was wondering what's this about? What's in Long Beach?"
 
 </details>
 

@@ -1,6 +1,6 @@
 ---
 title: "Jesus Christ"
-description: "Jesus Christ (People) - 281 mentions"
+description: "Jesus Christ (People) - 313 mentions"
 id: "person-jesus-christ"
 type: "PERSON"
 aliases:
@@ -22,9 +22,9 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jesus-christ-t-00-08-02">2025-09-15 · 00:08:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-person-jesus-christ-t-00-57-40">2026-07-23 · 00:58:12</a></strong></div>
-<div><span>Episodes</span><strong>92</strong></div>
-<div><span>Mentions</span><strong>281</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-jesus-christ-t-00-58-18">2026-08-21 · 00:58:39</a></strong></div>
+<div><span>Episodes</span><strong>104</strong></div>
+<div><span>Mentions</span><strong>313</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -56,7 +56,7 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 <a href="/episodes/ep-his-JBjlkh8.md#ent-person-jesus-christ-t-00-58-28" style="--pulse-height:14%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 2 mentions" title="2025-12-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-person-jesus-christ-t-00-04-16" style="--pulse-height:14%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-6DhWawD4ZiM.md#ent-person-jesus-christ-t-00-52-32" style="--pulse-height:8%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 1 mentions" title="2025-12-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-jesus-christ-t-00-58-37" style="--pulse-height:21%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 3 mentions" title="2026-01-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-jesus-christ-t-00-58-36" style="--pulse-height:21%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 3 mentions" title="2026-01-06 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-jesus-christ-t-01-09-47" style="--pulse-height:14%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#t-00-20-37" style="--pulse-height:21%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-jesus-christ-t-00-45-20" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
@@ -92,6 +92,7 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-person-jesus-christ-t-00-57-24" style="--pulse-height:21%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 3 mentions" title="2026-03-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-UYkXV9mYbT4.md#ent-person-jesus-christ-t-00-52-41" style="--pulse-height:29%" aria-label="PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319: 4 mentions" title="2026-03-31 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-jesus-christ-t-00-54-54" style="--pulse-height:8%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZIH5-V6UPkg.md#t-00-42-28" style="--pulse-height:14%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 2 mentions" title="2026-04-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#ent-person-jesus-christ-t-00-56-25" style="--pulse-height:43%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 6 mentions" title="2026-04-13 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-person-jesus-christ-t-00-01-22" style="--pulse-height:36%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 5 mentions" title="2026-04-14 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-person-jesus-christ-t-00-25-52" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
@@ -127,6 +128,17 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-person-jesus-christ-t-01-05-17" style="--pulse-height:8%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-person-jesus-christ-t-00-49-08" style="--pulse-height:29%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 4 mentions" title="2026-07-22 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-person-jesus-christ-t-00-08-51" style="--pulse-height:43%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 6 mentions" title="2026-07-23 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#ent-person-jesus-christ-t-00-23-53" style="--pulse-height:36%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 5 mentions" title="2026-07-27 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-Vu6Y24pqhZs.md#ent-person-jesus-christ-t-00-45-38" style="--pulse-height:14%" aria-label="EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367: 2 mentions" title="2026-07-29 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#ent-person-jesus-christ-t-00-47-50" style="--pulse-height:8%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 1 mentions" title="2026-07-31 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AH1KVKkweUE.md#ent-person-jesus-christ-t-00-50-32" style="--pulse-height:14%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 2 mentions" title="2026-08-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#ent-person-jesus-christ-t-00-02-01" style="--pulse-height:36%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 5 mentions" title="2026-08-04 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-person-jesus-christ-t-00-26-11" style="--pulse-height:29%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 4 mentions" title="2026-08-06 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-person-jesus-christ-t-00-58-18" style="--pulse-height:14%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 2 mentions" title="2026-08-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-person-jesus-christ-t-00-28-00" style="--pulse-height:21%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 3 mentions" title="2026-08-11 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-jesus-christ-t-00-55-34" style="--pulse-height:21%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 3 mentions" title="2026-08-17 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-person-jesus-christ-t-00-27-47" style="--pulse-height:14%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 2 mentions" title="2026-08-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#ent-person-jesus-christ-t-00-58-18" style="--pulse-height:8%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 1 mentions" title="2026-08-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -153,7 +165,7 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-jesus-christ-t-00-58-28) | 2 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-person-jesus-christ-t-00-04-16) | 2 |
 | 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-person-jesus-christ-t-00-52-32) | 1 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-jesus-christ-t-00-58-37) | 3 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-jesus-christ-t-00-58-36) | 3 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-jesus-christ-t-01-09-47) | 2 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#t-00-20-37) | 3 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-jesus-christ-t-00-45-20) | 1 |
@@ -189,6 +201,7 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-person-jesus-christ-t-00-57-24) | 3 |
 | 2026-03-31 | [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md#ent-person-jesus-christ-t-00-52-41) | 4 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-jesus-christ-t-00-54-54) | 1 |
+| 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#t-00-42-28) | 2 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#ent-person-jesus-christ-t-00-56-25) | 6 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-person-jesus-christ-t-00-01-22) | 5 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-jesus-christ-t-00-25-52) | 1 |
@@ -224,6 +237,17 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-person-jesus-christ-t-01-05-17) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-jesus-christ-t-00-49-08) | 4 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-person-jesus-christ-t-00-08-51) | 6 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#ent-person-jesus-christ-t-00-23-53) | 5 |
+| 2026-07-29 | [EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367](/episodes/ep-Vu6Y24pqhZs.md#ent-person-jesus-christ-t-00-45-38) | 2 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-person-jesus-christ-t-00-47-50) | 1 |
+| 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-person-jesus-christ-t-00-50-32) | 2 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#ent-person-jesus-christ-t-00-02-01) | 5 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-jesus-christ-t-00-26-11) | 4 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#ent-person-jesus-christ-t-00-58-18) | 2 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-person-jesus-christ-t-00-28-00) | 3 |
+| 2026-08-17 | [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376](/episodes/ep-E7P2ShoYDUA.md#ent-person-jesus-christ-t-00-55-34) | 3 |
+| 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-person-jesus-christ-t-00-27-47) | 2 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-person-jesus-christ-t-00-58-18) | 1 |
 
 </details>
 </section>
@@ -231,7 +255,152 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (281)</strong></summary>
+<summary><strong class="section-title">Raw mentions (313)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
+
+**[00:58:39](/episodes/ep-_cNtgris8Ik.md#ent-person-jesus-christ-t-00-58-18)**
+> "...how it ends. God always wins. Christ is King. Enjoy your much deserved week off. Thank..."
+
+</details>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (2 mentions)</summary>
+
+**[00:28:05](/episodes/ep-4JxgOclKzqg.md#ent-person-jesus-christ-t-00-27-47)**
+> "... babies and share the hope of Jesus Christ with their mothers."
+
+**[00:28:10](/episodes/ep-4JxgOclKzqg.md#ent-person-jesus-christ-t-00-27-47)**
+> "...e made the decision to follow Christ, all because someone like you helped provide a fr..."
+
+</details>
+
+<details>
+<summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (3 mentions)</summary>
+
+**[00:55:55](/episodes/ep-E7P2ShoYDUA.md#ent-person-jesus-christ-t-00-55-34)**
+> "Every tax deductible gift is used to rescue babies and share the hope of Jesus Christ with their mothers."
+
+**[00:56:00](/episodes/ep-E7P2ShoYDUA.md#ent-person-jesus-christ-t-00-55-34)**
+> "...ecisions to. begins to follow Christ, all because someone like you helped provide a fr..."
+
+**[01:21:47](/episodes/ep-E7P2ShoYDUA.md#ent-person-jesus-christ-t-01-21-21)**
+> "... model for my four daughters. Christ is king."
+
+</details>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (3 mentions)</summary>
+
+**[00:28:24](/episodes/ep-HGtMfbePDKk.md#ent-person-jesus-christ-t-00-28-00)**
+> "... babies and share the hope of Jesus Christ with their moms."
+
+**[00:28:30](/episodes/ep-HGtMfbePDKk.md#ent-person-jesus-christ-t-00-28-00)**
+> "...have made decisions to follow Christ, all because someone like you helped provide a fr..."
+
+**[00:47:12](/episodes/ep-HGtMfbePDKk.md#ent-person-jesus-christ-t-00-47-12)**
+> "...armful. John Big Boss writes, Christ bless all the beloved, Candace, you and yours, es..."
+
+</details>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (2 mentions)</summary>
+
+**[00:55:15](/episodes/ep-d7VsbEIWkP8.md#ent-person-jesus-christ-t-00-58-18)**
+> "follower of Christ for life"
+
+**[00:58:44](/episodes/ep-d7VsbEIWkP8.md#ent-person-jesus-christ-t-00-58-18)**
+> "...t asking for a friend, go max Jesus is king. Yeah, they couldn't possibly look more g..."
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (4 mentions)</summary>
+
+**[00:26:43](/episodes/ep-ChuWo-n49B8.md#ent-person-jesus-christ-t-00-26-11)**
+> "Every tax deductible gift is used to rescue babies and share the hope of Jesus Christ with their moms."
+
+**[00:26:48](/episodes/ep-ChuWo-n49B8.md#ent-person-jesus-christ-t-00-26-11)**
+> "...e decisions to follow. Follow Christ all because someone like you helped provide a fre..."
+
+**[00:49:05](/episodes/ep-ChuWo-n49B8.md#ent-person-jesus-christ-t-00-48-38)**
+> "...teachings and the kingship of Christ in today's world."
+
+**[00:49:21](/episodes/ep-ChuWo-n49B8.md#ent-person-jesus-christ-t-00-49-21)**
+> "...h... actually taught and what Christ is King really means, head to lorettopubs.org."
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (5 mentions)</summary>
+
+**[00:02:15](/episodes/ep-1CFDtD0IgEg.md#ent-person-jesus-christ-t-00-02-01)**
+> "...irk)'s dancing in heaven with Jesus because of all of the merch sales, merch sales, m..."
+
+**[00:03:42](/episodes/ep-1CFDtD0IgEg.md#ent-person-jesus-christ-t-00-03-17)**
+> "What do the apostles and Jesus call Satan? He's a murderer, a liar, an accuser, ..."
+
+**[00:27:09](/episodes/ep-1CFDtD0IgEg.md#ent-person-jesus-christ-t-00-26-59)**
+> "... babies and share the hope of Jesus Christ with their mothers."
+
+**[00:27:14](/episodes/ep-1CFDtD0IgEg.md#ent-person-jesus-christ-t-00-26-59)**
+> "...have made decisions to follow Christ, all because someone like you helped provide a fr..."
+
+**[00:51:45](/episodes/ep-1CFDtD0IgEg.md#ent-person-jesus-christ-t-00-51-45)**
+> "... protect canis in the name of jesus and may he bless everyone in the pursuit of truth..."
+
+</details>
+
+<details>
+<summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (2 mentions)</summary>
+
+**[00:50:32](/episodes/ep-AH1KVKkweUE.md#ent-person-jesus-christ-t-00-50-32)**
+> "Keep going, Max. Christ is king. In deed. In deed. um yeah i mean that's ..."
+
+**[00:51:01](/episodes/ep-AH1KVKkweUE.md#ent-person-jesus-christ-t-00-51-01)**
+> "...t before and she says because jesus loves me and i sleep a lot so it's pretty simple ..."
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (1 mentions)</summary>
+
+**[00:48:02](/episodes/ep-iB-YtO3UZOg.md#ent-person-jesus-christ-t-00-47-50)**
+> "uh i am relentless rights these people undoubtedly suffer anxiety i'm not sure who specifically you're speaking about maybe turning point usa there mal writes i've heard you say a few times that god only gives us what we can handle but that isn't true god will always give us more than we can handle because then we will need to turn to him for his help he wants us to come to him blessings to you uh christ is king no i think but the point is it's like it's more than you can handle"
+
+</details>
+
+<details>
+<summary>EXCLUSIVE: Never Before Seen Rooftop Footage. Plus, The Rookie Cop Who Found the Gun. | Ep 367 (2 mentions)</summary>
+
+**[00:46:07](/episodes/ep-Vu6Y24pqhZs.md#ent-person-jesus-christ-t-00-45-38)**
+> "Let them pull their tantrums. The bigger they are, the harder they fall. Just remember Christ gave you an army that has your back."
+
+**[00:49:54](/episodes/ep-Vu6Y24pqhZs.md#ent-person-jesus-christ-t-00-49-41)**
+> "...eat honor to be able to serve christ i gotta deal with like pastors on stage and sunda..."
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (5 mentions)</summary>
+
+**[00:23:53](/episodes/ep-HZvwbfePe7o.md#ent-person-jesus-christ-t-00-23-53)**
+> "Beware of conservatism that is void of Christ."
+
+**[00:28:30](/episodes/ep-HZvwbfePe7o.md#ent-person-jesus-christ-t-00-28-18)**
+> "...he moment that you truly know Christ. And it's so true, because when you understand th..."
+
+**[00:31:20](/episodes/ep-HZvwbfePe7o.md#ent-person-jesus-christ-t-00-31-20)**
+> "...ut have you ever been hungry? Jesus, I am over it right now. I want some food—a doubl..."
+
+**[00:48:06](/episodes/ep-HZvwbfePe7o.md#ent-person-jesus-christ-t-00-47-51)**
+> "Christ is king. God bless you. Continue. Yes, Christ is ..."
+
+**[00:48:18](/episodes/ep-HZvwbfePe7o.md#ent-person-jesus-christ-t-00-47-51)**
+> "...just the reality. Undefeated. Christ is undefeated. Not even death could defeat Christ..."
+
+</details>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (6 mentions)</summary>
@@ -772,7 +941,7 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 **[00:56:48](/episodes/ep-eLgD5yUVbko.md#ent-person-jesus-christ-t-00-56-25)**
 > "nothing like Jesus Christ"
 
-**[00:51:32](/episodes/ep-eLgD5yUVbko.md#ent-person-jesus-christ-t-00-51-17)**
+**[00:51:32](/episodes/ep-eLgD5yUVbko.md#ent-person-jesus-christ-t-00-51-25)**
 > "...ho's telling him he's akin to jesus christ which is absolutely blasphemous and he thinks the..."
 
 **[01:00:08](/episodes/ep-eLgD5yUVbko.md#ent-person-jesus-christ-t-00-59-43)**
@@ -790,6 +959,17 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 </details>
 
 <details>
+<summary>An Open Letter To President Donald Trump (My Response) | Candace Ep 322 (2 mentions)</summary>
+
+**[00:42:35](/episodes/ep-ZIH5-V6UPkg.md#t-00-42-28)**
+> "You are beautiful, Christ is king. Maybe it's what he's into. I don't know ..."
+
+**[00:47:20](/episodes/ep-ZIH5-V6UPkg.md#t-00-46-58)**
+> "... for all that you do. Go Max. Christ is King."
+
+</details>
+
+<details>
 <summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1 mentions)</summary>
 
 **[00:54:59](/episodes/ep-q1NRQQAYS_Q.md#ent-person-jesus-christ-t-00-54-54)**
@@ -801,10 +981,10 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 <summary>PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319 (4 mentions)</summary>
 
 **[00:52:48](/episodes/ep-UYkXV9mYbT4.md#ent-person-jesus-christ-t-00-52-41)**
-> "...omforted. You have really met Jesus in his suffering since September 2025."
+> "My heart does ache with you in your pain. Blessed are those who mourn, for they shall be comforted. You have really met Jesus (Jesus Christ) in his suffering since September 2025."
 
 **[00:54:00](/episodes/ep-UYkXV9mYbT4.md#ent-person-jesus-christ-t-00-54-00)**
-> "...w not Charlie's obviously but Jesus Christ his burden was greater and we there was something..."
+> "beyond their rooting the truth on they're rooting Tucker Carlson on and Megyn Kelly on when they told the truth about the usual thing they're seeing what they have gone through for simply telling the truth about how much Charlie (Charlie Kirk) was going through in the end and but I think we all need to be reminded of that that whatever you're going through like his burden was greater you know not Charlie (Charlie Kirk)'s obviously but Jesus Christ his burden was greater and we there was something beautiful about that to think that we are enjoined in suffering"
 
 **[00:56:10](/episodes/ep-UYkXV9mYbT4.md#ent-person-jesus-christ-t-00-55-46)**
 > "..., like just being reminded of Christ's suffering."
@@ -1252,10 +1432,10 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 <details>
 <summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (3 mentions)</summary>
 
-**[00:59:12](/episodes/ep-HYn0P-P1wUw.md#ent-person-jesus-christ-t-00-58-37)**
+**[00:59:12](/episodes/ep-HYn0P-P1wUw.md#ent-person-jesus-christ-t-00-58-36)**
 > "Christ is King. Thank you for that donation."
 
-**[00:59:50](/episodes/ep-HYn0P-P1wUw.md#ent-person-jesus-christ-t-00-59-21)**
+**[00:59:50](/episodes/ep-HYn0P-P1wUw.md#ent-person-jesus-christ-t-00-59-20)**
 > "...ten in my prayers. Stay safe. Christ is king."
 
 **[01:00:00](/episodes/ep-HYn0P-P1wUw.md#ent-person-jesus-christ-t-01-00-00)**

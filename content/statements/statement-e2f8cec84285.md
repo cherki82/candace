@@ -25,7 +25,7 @@ type: "factual_claim"
 **Timestamp:** [00:00:33](/episodes/ep-SKGUzGHymcI.md#t-00-00-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(33);return false;">Play</a>
 
-> And it's an answer perhaps to the question: What was the Egyptian military plane, which left Provo on the morning of Charlie (Charlie Kirk)'s assassination, doing in Delaware
+> What was the Egyptian military plane, which left Provo on the morning of Charlie (Charlie Kirk)'s assassination, doing in Delaware?
 
 ## Verification
 

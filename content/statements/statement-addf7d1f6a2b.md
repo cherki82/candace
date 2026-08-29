@@ -4,9 +4,10 @@ description: "\"Candace Owens said B'nai B'rith was founded by German Jews as a 
 statement_id: "statement-addf7d1f6a2b"
 speaker: "Candace Owens"
 type: "factual_claim"
+veracity: "mixed"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ◐ Mixed
 
 ## Statement
 
@@ -33,7 +34,21 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+B'nai B'rith's own history confirms founding in New York in 1843 by twelve Jewish immigrants from Germany. The Holocaust Encyclopedia describes it as a Jewish fraternal organization created partly because Jews experienced exclusion from existing lodges; that does not establish that B'nai B'rith itself was a Freemason lodge. The founder-origin portion is true, while the Freemason-lodge characterization is unsupported/misleading.
+
+**Confidence:** High
+
+**Sources:**
+
+- [B'nai B'rith — History](https://bnaibrith-berlin.de/en/history)
+- [Freemasonry — Holocaust Encyclopedia](https://encyclopedia.ushmm.org/content/en/article/freemasonry)
+
+*Verified: 2026-08-27T19:42:39.589216*
 
 ---
 

@@ -3,9 +3,17 @@ title: "Pavel Durov"
 description: "Pavel Durov (People) - 1 mention"
 id: "person-pavel-durov"
 type: "PERSON"
+categories:
+  - "technology founder"
 ---
 
 _Type: People_
+
+**Categories:** technology founder
+
+**Entity verification:** verified
+> Telegram's official FAQ confirms Pavel Durov's canonical identity and founder role.
+Source: [Telegram FAQ — Who are the people behind Telegram?](https://telegram.org/faq#q-who-are-the-people-behind-telegram)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-pavel-durov-t-00-10-50">2025-12-01 · 00:10:50</a></strong></div>

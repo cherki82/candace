@@ -11,7 +11,11 @@ object: "person-erika-kirk"
 
 ## [Larry Guinta](/entities/person-larry-guinta) stepparent of [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
+
+**[BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw)**
+
+- [00:33:38](/episodes/ep-HYn0P-P1wUw#t-00-33-38): _of GTEC Industries, Larry Guinta, by the way, or Guinta, I don't know if I'm saying that right, is Erika (Erika Kirk)'s stepfather._
 
 **[I Survive My First Death Hoax, Erika Kirk Makes Human History. | Ep 353](/episodes/ep-VMNWMXX1vO8)**
 

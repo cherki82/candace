@@ -13,18 +13,18 @@ date: "2015-07-11"
 
 ## Mentioned In (2 times)
 
-### 1. BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/1...
-
-**Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
-**Timestamp:** [00:29:07](/episodes/ep-HYn0P-P1wUw.md#t-00-28-51) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1747);return false;">▶️ Play</a>
-
-> that was until I hosted the first Trump rally in Trump rally history right here in Arizona in 2015. I got a call. I got a call from Miss Erika Kirk. Miss Arizona 2012. I just want to help, she said. So naturally I put her right behind the president at that first rally.
-
-### 2. Bride Of Charlie: Red Sparrow | Episode 8
+### 1. Bride Of Charlie: Red Sparrow | Episode 8
 
 **Episode:** [Bride Of Charlie: Red Sparrow | Episode 8](/episodes/ep-_vg7ucP1E0g.md)
 **Timestamp:** [00:07:31](/episodes/ep-_vg7ucP1E0g.md#t-00-06-53) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(451);return false;">▶️ Play</a>
 
 > on July 11th, Lori Frantzve and Tyler Bowyer and Erika are going to be behind
+
+### 2. BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/1...
+
+**Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
+**Timestamp:** [00:29:07](/episodes/ep-HYn0P-P1wUw.md#t-00-28-51) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(1747);return false;">▶️ Play</a>
+
+> I hosted the first Trump rally in Trump rally history

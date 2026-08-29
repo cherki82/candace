@@ -1,6 +1,6 @@
 ---
-title: "On July 18th, Charlie Kirk hosted Tucker Carlson at Satis an..."
-description: "\"On July 18th, Charlie Kirk hosted Tucker Carlson at Satis and told Tucker to go max: call out Israel, Jeffrey Epstein\" — Candace Owens"
+title: "On July 18th, Charlie Kirk hosted Tucker Carlson at Satys an..."
+description: "\"On July 18th, Charlie Kirk hosted Tucker Carlson at Satys and told Tucker to go max: call out Israel, Jeffrey Epstein\" — Candace Owens"
 statement_id: "statement-35e19c389ea9"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> On July 18th, Charlie Kirk hosted Tucker Carlson at Satis and told Tucker to go max: call out Israel, Jeffrey Epstein
+> On July 18th, Charlie Kirk hosted Tucker Carlson at Satys and told Tucker to go max: call out Israel, Jeffrey Epstein
 
 ## Attribution
 

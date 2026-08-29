@@ -31,7 +31,7 @@ veracity: "true"
 **Timestamp:** [00:16:39](/episodes/ep-rupRLXmSndU.md#t-00-16-05) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(999);return false;">Play</a>
 
-> Ahmed, remember, Zachariah's dad, he's listed as a co-founder of Built. Who did he co-found this with? ... That would be a man named Nathan Henderson.
+> Ahmed (Ahmed Qureshi), remember, Zachariah (Zachariah Qureshi)'s dad, he's listed as a co-founder of Built. Who did he co-found this with? ... That would be a man named Nathan Henderson.
 
 ## Verification
 

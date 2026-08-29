@@ -17,4 +17,4 @@ date: "2004"
 **Timestamp:** [00:32:56](/episodes/ep-rupRLXmSndU.md#event-event-2004-the-national-academy-of-sciences-conclud-t-00-32-56) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1976);return false;">▶️ Play</a>
 
-> In 2004, however, the nation's most prestigious scientific body concluded that variations in the
+> variations in the manufacturing process rendered the FBI's testimony about the science unreliable

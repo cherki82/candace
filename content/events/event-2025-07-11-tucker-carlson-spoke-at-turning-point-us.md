@@ -11,7 +11,7 @@ date: "2025-07-11"
 
 > Tucker Carlson spoke at Turning Point USA's Student Action Summit.
 
-## Mentioned In (3 times)
+## Mentioned In (4 times)
 
 ### 1. Myron Gaines x Candace Owens
 
@@ -36,3 +36,11 @@ date: "2025-07-11"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1121);return false;">▶️ Play</a>
 
 > July 11th is the day that Tucker Carlson delivered that speech.
+
+### 4. PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319
+
+**Episode:** [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4.md)
+**Timestamp:** [00:50:50](/episodes/ep-UYkXV9mYbT4.md#event-event-2025-07-11-tucker-carlson-spoke-at-turning-point-us-t-00-50-50) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(3050);return false;">▶️ Play</a>
+
+> It's a crucial date to me on my timeline because of Tuckergate on July 13th.

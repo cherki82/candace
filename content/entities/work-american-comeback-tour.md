@@ -1,6 +1,6 @@
 ---
 title: "The American Comeback Tour"
-description: "The American Comeback Tour (Works & Media) - 4 mentions"
+description: "The American Comeback Tour (Works & Media) - 8 mentions"
 id: "work-american-comeback-tour"
 type: "WORK"
 aliases:
@@ -22,9 +22,9 @@ Source: [Turning Point USA Launches The American Comeback Tour This Spring](http
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-work-american-comeback-tour-t-00-02-55">2026-04-21 · 00:03:04</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-work-american-comeback-tour-t-00-14-37">2026-04-21 · 00:14:37</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-work-american-comeback-tour-t-00-10-17">2026-08-18 · 00:10:42</a></strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,12 +36,16 @@ Source: [Turning Point USA Launches The American Comeback Tour This Spring](http
 <p>Highest activity: <a href="/episodes/ep-xi8SYJTUXPM.md#ent-work-american-comeback-tour-t-00-02-55">Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-work-american-comeback-tour-t-00-02-55" style="--pulse-height:100%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 4 mentions" title="2026-04-21 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-work-american-comeback-tour-t-00-02-44" style="--pulse-height:50%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 2 mentions" title="2026-08-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4JxgOclKzqg.md#ent-work-american-comeback-tour-t-00-10-17" style="--pulse-height:50%" aria-label="Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377: 2 mentions" title="2026-08-18 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-work-american-comeback-tour-t-00-02-55) | 4 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-work-american-comeback-tour-t-00-02-44) | 2 |
+| 2026-08-18 | [Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg.md#ent-work-american-comeback-tour-t-00-10-17) | 2 |
 
 </details>
 </section>
@@ -49,7 +53,29 @@ Source: [Turning Point USA Launches The American Comeback Tour This Spring](http
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+
+<details>
+<summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (2 mentions)</summary>
+
+**[00:10:26](/episodes/ep-4JxgOclKzqg.md#ent-work-american-comeback-tour-t-00-10-17)**
+> "...what. On February 28th, 2025, the American Comeback Tour did a stop at Florida State University, and here ..."
+
+**[00:10:42](/episodes/ep-4JxgOclKzqg.md#ent-work-american-comeback-tour-t-00-10-17)**
+> "Shot on March 3rd 2025, the American Comeback Tour did a stop at the University of Southern Californ..."
+
+</details>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (2 mentions)</summary>
+
+**[00:03:01](/episodes/ep-HGtMfbePDKk.md#ent-work-american-comeback-tour-t-00-02-44)**
+> "...t go up to someone wearing an American Comeback Tour shirt. Maybe I would have even just used my conte..."
+
+**[00:03:08](/episodes/ep-HGtMfbePDKk.md#ent-work-american-comeback-tour-t-00-03-08)**
+> "...they're setting up which says american comeback tour it looks like they're bringing in some stuff i be..."
+
+</details>
 
 <details>
 <summary>Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328 (4 mentions)</summary>

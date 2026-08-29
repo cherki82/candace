@@ -1,6 +1,6 @@
 ---
 title: "Douay-Rheims Bible"
-description: "Douay-Rheims Bible (Works & Media) - 4 mentions"
+description: "Douay-Rheims Bible (Works & Media) - 5 mentions"
 id: "work-douay-rheims-bible"
 type: "WORK"
 aliases:
@@ -22,9 +22,9 @@ Source: [Douay-Rheims Hardbound Bible | Loreto Publications](https://loretopubs.
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5m-Wn6Pr5rM.md#ent-work-douay-rheims-bible-t-00-45-26">2026-03-25 · 00:45:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-work-douay-rheims-bible-t-00-48-25">2026-07-22 · 00:48:52</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-work-douay-rheims-bible-t-00-48-38">2026-08-06 · 00:48:58</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -39,6 +39,7 @@ Source: [Douay-Rheims Hardbound Bible | Loreto Publications](https://loretopubs.
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-work-douay-rheims-bible-t-00-45-02" style="--pulse-height:100%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-3QJqtW_NOSI.md#ent-work-douay-rheims-bible-t-00-42-36" style="--pulse-height:100%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 1 mentions" title="2026-06-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-work-douay-rheims-bible-t-00-48-25" style="--pulse-height:100%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 1 mentions" title="2026-07-22 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-work-douay-rheims-bible-t-00-48-38" style="--pulse-height:100%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -48,6 +49,7 @@ Source: [Douay-Rheims Hardbound Bible | Loreto Publications](https://loretopubs.
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-work-douay-rheims-bible-t-00-45-02) | 1 |
 | 2026-06-18 | [The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352](/episodes/ep-3QJqtW_NOSI.md#ent-work-douay-rheims-bible-t-00-42-36) | 1 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-work-douay-rheims-bible-t-00-48-25) | 1 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-work-douay-rheims-bible-t-00-48-38) | 1 |
 
 </details>
 </section>
@@ -55,7 +57,15 @@ Source: [Douay-Rheims Hardbound Bible | Loreto Publications](https://loretopubs.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:48:58](/episodes/ep-ChuWo-n49B8.md#ent-work-douay-rheims-bible-t-00-48-38)**
+> "of a Douay-Rheims Bible"
+
+</details>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>

@@ -1,6 +1,6 @@
 ---
 title: "Freedom of speech"
-description: "Freedom of speech (Concepts) - 5 mentions"
+description: "Freedom of speech (Concepts) - 4 mentions"
 id: "concept-free-speech"
 type: "CONCEPT"
 aliases:
@@ -21,10 +21,10 @@ _Type: Concepts_
 Source: [First Amendment | Constitution Annotated | Congress.gov](https://constitution.congress.gov/constitution/amendment-1/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-free-speech-t-00-28-56">2026-01-07 · 00:29:02</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-free-speech-t-00-46-33">2026-01-12 · 00:46:43</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-concept-free-speech-t-01-26-20">2026-08-14 · 01:26:20</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>5</strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,9 +33,8 @@ Source: [First Amendment | Constitution Annotated | Congress.gov](https://consti
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-free-speech-t-00-28-56">DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-free-speech-t-00-46-33">American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-free-speech-t-00-28-56" style="--pulse-height:100%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-free-speech-t-00-46-33" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-free-speech-t-00-44-37" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-concept-free-speech-t-00-39-54" style="--pulse-height:100%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
@@ -45,7 +44,6 @@ Source: [First Amendment | Constitution Annotated | Congress.gov](https://consti
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-concept-free-speech-t-00-28-56) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-free-speech-t-00-46-33) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-free-speech-t-00-44-37) | 1 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-concept-free-speech-t-00-39-54) | 1 |
@@ -57,7 +55,7 @@ Source: [First Amendment | Constitution Annotated | Congress.gov](https://consti
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
@@ -88,14 +86,6 @@ Source: [First Amendment | Constitution Annotated | Congress.gov](https://consti
 
 **[00:46:43](/episodes/ep-CMcktj3Egfo.md#ent-concept-free-speech-t-00-46-33)**
 > "... you would like to support my free speech while we still have it,"
-
-</details>
-
-<details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (1 mentions)</summary>
-
-**[00:29:02](/episodes/ep-zSKrxIUMNqw.md#ent-concept-free-speech-t-00-28-56)**
-> "...ur principles and believed in free speech is now dead and Neocons are staging a hostile tak..."
 
 </details>
 

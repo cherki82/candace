@@ -1,6 +1,6 @@
 ---
-title: "Tyler Bowyer has a younger brother who, for 10 years, has wo..."
-description: "\"Tyler Bowyer has a younger brother who, for 10 years, has worked in dental sales until Charlie died, because a unique opportunity presented itself at ...\" — Candace Owens"
+title: "Apparently, Tyler Bowyer has a younger brother who worked in..."
+description: "\"Apparently, Tyler Bowyer has a younger brother who worked in dental sales for 10 years until Charlie Kirk died, after which Tyler Bowyer began telling...\" — Candace Owens"
 statement_id: "statement-33b5a03b992d"
 speaker: "Candace Owens"
 type: "factual_claim"
@@ -10,7 +10,7 @@ type: "factual_claim"
 
 ## Statement
 
-> Tyler Bowyer has a younger brother who, for 10 years, has worked in dental sales until Charlie died, because a unique opportunity presented itself at Turning Point USA where Tyler had begun telling people that TPUSA plans to roll out a program to build houses for first-time home buyers
+> Apparently, Tyler Bowyer has a younger brother who worked in dental sales for 10 years until Charlie Kirk died, after which Tyler Bowyer began telling people that TPUSA planned a program to build houses for first-time home buyers.
 
 ## Attribution
 
@@ -19,11 +19,17 @@ type: "factual_claim"
 **Delivery:** Made directly
 **Original Source:** legacy claim transcript evidence
 
+## About
+
+- [Turning Point USA](/entities/org-turning-point-usa.md) (org)
+- [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
+- [Tyler Bowyer](/entities/person-tyler-bowyer.md) (person)
+
 ## Source
 
 **Episode:** [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md)
-**Timestamp:** [00:47:36](/episodes/ep-a-e7HC6SeK8.md#t-00-47-13) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(2856);return false;">Play</a>
+**Timestamp:** [00:47:13](/episodes/ep-a-e7HC6SeK8.md#t-00-46-48) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2833);return false;">Play</a>
 
 > Apparently Tyler Bowyer (Tyler Bowyer) has a younger brother who—for 10 years—has worked in dental sales until Charlie (Charlie Kirk) died, because a unique opportunity presented itself at Turning Point USA where Tyler (Tyler Bowyer) had begun telling people that TPUSA plans to roll out a program to build houses...
 

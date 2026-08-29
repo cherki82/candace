@@ -1,24 +1,32 @@
 ---
 title: "Eric Bolling"
-description: "Eric Bolling (People) - 11 mentions"
+description: "Eric Bolling (People) - 12 mentions"
 id: "person-eric-bolling"
 type: "PERSON"
 aliases:
   - "Bolling"
+categories:
+  - "political media"
 ---
 
 _Type: People_
 
 **Also known as:** Bolling
 
+**Categories:** political media
+
+**Entity verification:** verified
+> Eric Bolling's official biography confirms his canonical name and television host/commentator career referenced in the episode.
+Source: [About Eric | Eric Bolling](https://ericbolling.com/about-eric/)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-person-eric-bolling-t-00-00-33">2025-09-18 · 00:00:33</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-eric-bolling-t-00-53-46">2025-12-01 · 00:54:03</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>11</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-person-eric-bolling-t-00-32-40">2026-08-11 · 00:32:40</a></strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
-<div><span>Relationships</span><strong>10</strong></div>
+<div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -30,6 +38,7 @@ _Type: People_
 <a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-eric-bolling-t-00-20-25" style="--pulse-height:20%" aria-label="Who Moved The Camera Right Above Charlie&#x27;s Head? | Candace Ep 239: 1 mentions" title="2025-09-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ja26iltROkM.md#ent-person-eric-bolling-t-00-28-21" style="--pulse-height:40%" aria-label="Erika Kirk Forgives. The Feds Forget... | Candace Ep 240: 2 mentions" title="2025-09-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-person-eric-bolling-t-00-50-56" style="--pulse-height:60%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 3 mentions" title="2025-12-01 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-person-eric-bolling-t-00-32-40" style="--pulse-height:20%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 1 mentions" title="2026-08-11 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -39,6 +48,7 @@ _Type: People_
 | 2025-09-19 | [Who Moved The Camera Right Above Charlie's Head? | Candace Ep 239](/episodes/ep-aDlhjfW6hz8.md#ent-person-eric-bolling-t-00-20-25) | 1 |
 | 2025-09-22 | [Erika Kirk Forgives. The Feds Forget... | Candace Ep 240](/episodes/ep-ja26iltROkM.md#ent-person-eric-bolling-t-00-28-21) | 2 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-person-eric-bolling-t-00-50-56) | 3 |
+| 2026-08-11 | [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate.](/episodes/ep-HGtMfbePDKk.md#ent-person-eric-bolling-t-00-32-40) | 1 |
 
 </details>
 </section>
@@ -46,7 +56,15 @@ _Type: People_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (11)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+
+<details>
+<summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
+
+**[00:32:40](/episodes/ep-HGtMfbePDKk.md#ent-person-eric-bolling-t-00-32-40)**
+> "Eric Bolling thing drives me insane still to this day that he ..."
+
+</details>
 
 <details>
 <summary>Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271 (3 mentions)</summary>
@@ -105,6 +123,18 @@ _Type: People_
 
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
+
+<details>
+<summary>Accused By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. @ 00:32:40](/episodes/ep-HGtMfbePDKk.md#t-00-31-59): “Eric Bolling thing drives me insane still to this day that he lied so much and said I hadn't spoken to Charlie since 2019.”
+
+</details>
+
+</details>
 
 <details>
 <summary>Appeared With (1)</summary>
@@ -171,7 +201,14 @@ _Type: People_
 </details>
 
 <details>
-<summary>Referenced By (5)</summary>
+<summary>Referenced By (6)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. @ 00:32:40](/episodes/ep-HGtMfbePDKk.md#t-00-31-59): “Eric Bolling thing drives me insane still to this day that he lied so much and said I hadn't spoken to Charlie since 2019.”
+
+</details>
 
 - **[Andrew Kolvet](/entities/person-andrew-kolvet.md)** appeared with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>

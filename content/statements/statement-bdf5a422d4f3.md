@@ -29,7 +29,7 @@ type: "factual_claim"
 **Timestamp:** [01:11:07](/episodes/ep-es7PWdFGoFI.md#t-01-11-03) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(4267);return false;">Play</a>
 
-> Look, obviously, Erika confirmed it. I was always telling the truth. And I was that was one of the first things I said. I was like, what was that weird Alex thing? I was being attacked for no reason. And then I get these people doubling down on it. And I know that they know that it's true that Charlie was going to mass.
+> Look, obviously, Erika (Erika Kirk) confirmed it. I was always telling the truth. And I was that was one of the first things I said. I was like, what was that weird Alex (Alex Clark) thing? I was being attacked for no reason. And then I get these people doubling down on it. And I know that they know that it's true that Charlie (Charlie Kirk) was going to mass.
 
 ## Verification
 

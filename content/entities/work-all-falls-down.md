@@ -3,9 +3,17 @@ title: "All Falls Down"
 description: "All Falls Down (Works & Media) - 1 mention"
 id: "work-all-falls-down"
 type: "WORK"
+categories:
+  - "song"
 ---
 
 _Type: Works & Media_
+
+**Categories:** song
+
+**Entity verification:** verified
+> The direct music-catalog entry confirms the canonical song title.
+Source: [All Falls Down — Apple Music](https://music.apple.com/us/song/all-falls-down/1440668749)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-work-all-falls-down-t-00-49-28">2025-12-01 · 00:49:45</a></strong></div>

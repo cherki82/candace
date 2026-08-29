@@ -11,7 +11,11 @@ object: "person-candace-owens"
 
 ## [FBI](/entities/org-fbi) criticized by [Candace Owens](/entities/person-candace-owens)
 
-### Evidence (5 mentions)
+### Evidence (6 mentions)
+
+**[Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377](/episodes/ep-4JxgOclKzqg)**
+
+- [00:30:48](/episodes/ep-4JxgOclKzqg#t-00-30-48): _Anyway, speaking of this totally inappropriate chain of custody, the FBI jumping on the case like cowboys, that's not how this works._
 
 **[PROVE ME WRONG: Tyler Robinson Is A Patsy. | Candace Ep 319](/episodes/ep-UYkXV9mYbT4)**
 

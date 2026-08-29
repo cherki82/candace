@@ -31,7 +31,7 @@ veracity: "unverifiable"
 **Timestamp:** [00:37:43](/episodes/ep-CMcktj3Egfo.md#t-00-37-22) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2263);return false;">Play</a>
 
-> That they choose to cover up the crimes of Jeffrey Epstein while pretending that speech in America is what’s actually radical,
+> That they choose to cover up the crimes of Jeffrey Epstein while pretending that speech in America is what's actually radical,
 
 ## Verification
 

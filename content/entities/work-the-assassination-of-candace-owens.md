@@ -3,9 +3,18 @@ title: "The Assassination of Candace Owens"
 description: "The Assassination of Candace Owens (Works & Media) - 5 mentions"
 id: "work-the-assassination-of-candace-owens"
 type: "WORK"
+categories:
+  - "song"
+  - "unreleased music"
 ---
 
 _Type: Works & Media_
+
+**Categories:** song, unreleased music
+
+**Entity verification:** verified
+> The episode transcript explicitly names the announced track. This verifies the source attribution and title only.
+Source: [BREAKING: TPUSA Throws Down The Gauntlet — source episode](https://www.youtube.com/watch?v=his-JBjlkh8)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-his-JBjlkh8.md#ent-work-the-assassination-of-candace-owens-t-00-00-44">2025-12-03 · 00:01:00</a></strong></div>

@@ -21,8 +21,8 @@ _Type: People_
 Source: [Tate McRae - Official Site](https://www.tatemcrae.com/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-tate-mcrae-t-00-26-06">2026-01-05 · 00:26:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-tate-mcrae-t-00-26-06">2026-01-05 · 00:26:30</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-tate-mcrae-t-00-26-06">2026-01-05 · 00:26:22</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-tate-mcrae-t-00-26-06">2026-01-05 · 00:26:22</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -54,7 +54,7 @@ Source: [Tate McRae - Official Site](https://www.tatemcrae.com/)
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
 
-**[00:26:30](/episodes/ep-OEAHy3SsIiI.md#ent-person-tate-mcrae-t-00-26-06)**
+**[00:26:22](/episodes/ep-OEAHy3SsIiI.md#ent-person-tate-mcrae-t-00-26-06)**
 > "Tate McRae was there last night."
 
 </details>

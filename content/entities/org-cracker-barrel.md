@@ -3,9 +3,17 @@ title: "Cracker Barrel"
 description: "Cracker Barrel (Organizations) - 3 mentions"
 id: "org-cracker-barrel"
 type: "ORG"
+categories:
+  - "restaurant company"
 ---
 
 _Type: Organizations_
+
+**Categories:** restaurant company
+
+**Entity verification:** verified
+> Canonical name and identity for Cracker Barrel confirmed by the cited direct external source.
+Source: [About Cracker Barrel](https://www.crackerbarrel.com/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-org-cracker-barrel-t-00-01-27">2025-10-06 · 00:01:54</a></strong></div>

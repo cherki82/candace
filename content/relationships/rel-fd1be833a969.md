@@ -33,13 +33,13 @@ object: "person-candace-owens"
 
 - [00:42:09](/episodes/ep-Wjul6YV6izo#t-00-42-09): _Satan is a liar. We're tracking the turning point USA lies._
 
+**[Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik)**
+
+- [00:35:47](/episodes/ep-_cNtgris8Ik#t-00-35-47): _That is why Turning Point USA is trash. They are trash for that. There was no confusion. It was just an attempt to smear me._
+
 **[Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8)**
 
 - [00:31:57](/episodes/ep-gG4ZoYUjUc8#t-00-31-57): _A lot of the stuff, as we've said, the common theme here is what Turning Point is doing is legal, but it's also immoral._
-
-**[DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw)**
-
-- [00:50:24](/episodes/ep-zSKrxIUMNqw#t-00-50-24): _Turning point action seems to be problematic._
 
 ### Related
 

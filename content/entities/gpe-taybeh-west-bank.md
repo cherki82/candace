@@ -1,6 +1,6 @@
 ---
 title: "Taybeh, West Bank"
-description: "Taybeh, West Bank (Places) - 3 mentions"
+description: "Taybeh, West Bank (Places) - 5 mentions"
 id: "gpe-taybeh-west-bank"
 type: "GPE"
 aliases:
@@ -24,7 +24,7 @@ Source: [Taybeh Parish - Christ the Redeemer Church](https://www.lpj.org/en/the-
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-gpe-taybeh-west-bank-t-00-50-45">2026-07-16 · 00:51:03</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-gpe-taybeh-west-bank-t-00-52-08">2026-07-16 · 00:52:08</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -49,7 +49,7 @@ Source: [Taybeh Parish - Christ the Redeemer Church](https://www.lpj.org/en/the-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (3 mentions)</summary>

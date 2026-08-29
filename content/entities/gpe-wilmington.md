@@ -6,13 +6,21 @@ type: "GPE"
 aliases:
   - "Wilmington, Delaware"
   - "Wilmington"
+categories:
+  - "Delaware city"
 ---
 
 _Type: Places_
 
 **Also known as:** Wilmington, Delaware, Wilmington
 
+**Categories:** Delaware city
+
 > **Possibly overlapping entity records:** [Wilmington, Delaware](/entities/gpe-wilmington-delaware). These records share a name or alias; compare their histories before treating either count as complete.
+
+**Entity verification:** verified
+> Canonical name and identity for Wilmington confirmed by the cited direct external source.
+Source: [Wilmington, Delaware](https://en.wikipedia.org/wiki/Wilmington,_Delaware)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-wilmington-t-00-15-42">2025-10-30 · 00:16:16</a></strong></div>
@@ -532,14 +540,14 @@ _Type: Places_
 - [00:12:21](/episodes/ep-SKGUzGHymcI.md#t-00-11-40) (Claim) **Candace Owens**: ["The Wilmington Dassault Falcon authorized service center shut down aro..."](/statements/statement-71de6e94f148.md)
 
 - [00:13:03](/episodes/ep-SKGUzGHymcI.md#t-00-12-23) (Claim) **Candace Owens**: ["In December 2024, the French aircraft finishing company Satys announce..."](/statements/statement-8a833470ba1f.md)
-  - Also about: [Satis](/entities/org-satis.md)
+  - Also about: [Satys](/entities/org-satys.md)
 
 - [00:14:22](/episodes/ep-SKGUzGHymcI.md#t-00-14-09) (Accusation) **Anonymous Source #1 (Ep SKGUzGHymcI)** (via read message): ["If SUBTT has been making maintenance runs to Wilmington for decades, i..."](/statements/statement-10fa7ba55d22.md)
 
 - [00:15:12](/episodes/ep-SKGUzGHymcI.md#t-00-14-53) (Claim) **Candace Owens**: ["The FBI is stationed at 920 North King Street in Wilmington, as listed..."](/statements/statement-a571b54811ed.md)
   - Also about: [FBI](/entities/org-fbi.md)
 
-- [00:15:36](/episodes/ep-SKGUzGHymcI.md#t-00-14-53) (Claim) **Candace Owens**: ["920 North King Street in Wilmington is a joint DOJ-DHS site that house..."](/statements/statement-ecdfdd6a0965.md)
+- [00:16:00](/episodes/ep-SKGUzGHymcI.md#t-00-15-37) (Claim) **Candace Owens**: ["Candace Owens said 920 North King Street in Wilmington appeared to be ..."](/statements/statement-ecdfdd6a0965.md)
   - Also about: [FBI](/entities/org-fbi.md), [DEA](/entities/org-dea.md), [United States Secret Service](/entities/org-united-states-secret-service.md)
 
 - [00:18:23](/episodes/ep-SKGUzGHymcI.md#t-00-18-04) (Claim) **Candace Owens**: ["On November 13, 2022, SUBTT flew from Cairo to Paris to Wichita, Kansa..."](/statements/statement-18c05cf22929.md)

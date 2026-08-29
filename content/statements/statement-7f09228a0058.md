@@ -28,7 +28,7 @@ veracity: "true"
 ## Source
 
 **Episode:** [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md)
-**Timestamp:** [00:10:58](/episodes/ep-HYn0P-P1wUw.md#t-00-10-27) 
+**Timestamp:** [00:10:58](/episodes/ep-HYn0P-P1wUw.md#t-00-10-24) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(658);return false;">Play</a>
 
 > And you have the wrong person. She said, my grandson does not fire guns. My grandson did not commit this murder.

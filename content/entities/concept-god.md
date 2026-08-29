@@ -1,6 +1,6 @@
 ---
 title: "God"
-description: "God (Concepts) - 513 mentions"
+description: "God (Concepts) - 539 mentions"
 id: "concept-god"
 type: "CONCEPT"
 aliases:
@@ -21,11 +21,11 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-57-16">2025-09-15 · 00:57:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#t-04-03-55">2026-08-14 · 04:03:55</a></strong></div>
-<div><span>Episodes</span><strong>95</strong></div>
-<div><span>Mentions</span><strong>513</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#t-00-58-18">2026-08-21 · 00:58:39</a></strong></div>
+<div><span>Episodes</span><strong>102</strong></div>
+<div><span>Mentions</span><strong>539</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>6</strong></div>
+<div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -73,8 +73,8 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <a href="/episodes/ep-ZAuuSq_j2_w.md#t-00-42-17" style="--pulse-height:10%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 3 mentions" title="2025-12-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-6DhWawD4ZiM.md#t-00-45-47" style="--pulse-height:20%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 6 mentions" title="2025-12-10 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#t-00-21-11" style="--pulse-height:13%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 4 mentions" title="2025-12-12 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-HYn0P-P1wUw.md#t-01-00-57" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#t-00-32-35" style="--pulse-height:10%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 3 mentions" title="2026-01-07 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#t-00-15-01" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HYn0P-P1wUw.md#t-01-00-51" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#t-00-22-55" style="--pulse-height:13%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 4 mentions" title="2026-01-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#t-00-36-40" style="--pulse-height:17%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 5 mentions" title="2026-01-12 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#t-00-00-00" style="--pulse-height:20%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 6 mentions" title="2026-01-13 · 6 mentions"><span></span></a>
@@ -128,7 +128,14 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <a href="/episodes/ep-mLvJqdxS-FY.md#t-00-33-49" style="--pulse-height:13%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 4 mentions" title="2026-07-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#t-00-19-14" style="--pulse-height:13%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 4 mentions" title="2026-07-21 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-amqTMimDr0A.md#ent-concept-god-t-00-53-05" style="--pulse-height:13%" aria-label="EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365: 4 mentions" title="2026-07-23 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-HZvwbfePe7o.md#t-00-47-51" style="--pulse-height:8%" aria-label="BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366: 1 mentions" title="2026-07-27 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-AoYZel7_cGQ.md#t-00-40-53" style="--pulse-height:13%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 4 mentions" title="2026-07-30 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-iB-YtO3UZOg.md#t-00-50-58" style="--pulse-height:27%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 8 mentions" title="2026-07-31 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-1CFDtD0IgEg.md#t-00-02-39" style="--pulse-height:17%" aria-label="VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371: 5 mentions" title="2026-08-04 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#t-00-36-05" style="--pulse-height:10%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 3 mentions" title="2026-08-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#t-00-56-06" style="--pulse-height:8%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 2 mentions" title="2026-08-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-nPhCKwJ6ye8.md#t-02-07-34" style="--pulse-height:13%" aria-label="Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast: 4 mentions" title="2026-08-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-_cNtgris8Ik.md#t-00-48-48" style="--pulse-height:13%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 4 mentions" title="2026-08-21 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -173,8 +180,8 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#t-00-42-17) | 3 |
 | 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#t-00-45-47) | 6 |
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#t-00-21-11) | 4 |
-| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#t-01-00-57) | 2 |
-| 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#t-00-32-35) | 3 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01) | 2 |
+| 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#t-01-00-51) | 2 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#t-00-22-55) | 4 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#t-00-36-40) | 5 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#t-00-00-00) | 6 |
@@ -228,7 +235,14 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#t-00-33-49) | 4 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#t-00-19-14) | 4 |
 | 2026-07-23 | [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365](/episodes/ep-amqTMimDr0A.md#ent-concept-god-t-00-53-05) | 4 |
+| 2026-07-27 | [BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366](/episodes/ep-HZvwbfePe7o.md#t-00-47-51) | 1 |
+| 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#t-00-40-53) | 4 |
+| 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#t-00-50-58) | 8 |
+| 2026-08-04 | [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371](/episodes/ep-1CFDtD0IgEg.md#t-00-02-39) | 5 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#t-00-36-05) | 3 |
+| 2026-08-07 | [A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373](/episodes/ep-d7VsbEIWkP8.md#t-00-56-06) | 2 |
 | 2026-08-14 | [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast](/episodes/ep-nPhCKwJ6ye8.md#t-02-07-34) | 4 |
+| 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#t-00-48-48) | 4 |
 
 </details>
 </section>
@@ -236,7 +250,24 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (513)</strong></summary>
+<summary><strong class="section-title">Raw mentions (539)</strong></summary>
+
+<details>
+<summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (4 mentions)</summary>
+
+**[00:49:12](/episodes/ep-_cNtgris8Ik.md#t-00-48-48)**
+> "... that organization i swear to god"
+
+**[00:49:33](/episodes/ep-_cNtgris8Ik.md#t-00-49-33)**
+> "... that organization i swear to god i just thought she meant she meant if the jews ta..."
+
+**[00:53:31](/episodes/ep-_cNtgris8Ik.md#t-00-53-31)**
+> "...what I said to him was, thank God."
+
+**[00:58:39](/episodes/ep-_cNtgris8Ik.md#t-00-58-18)**
+> "We know how it ends. God always wins. Christ is King. Enjoy your much dese..."
+
+</details>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (4 mentions)</summary>
@@ -252,6 +283,105 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 
 **[04:03:55](/episodes/ep-nPhCKwJ6ye8.md#t-04-03-55)**
 > "...eing said take care everybody god bless have a great weekend"
+
+</details>
+
+<details>
+<summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (2 mentions)</summary>
+
+**[00:56:06](/episodes/ep-d7VsbEIWkP8.md#t-00-56-06)**
+> "God bless."
+
+**[00:05:04](/episodes/ep-d7VsbEIWkP8.md#t-00-05-04)**
+> "... her a hug and I told her how god awful sorry I was that that happened to her."
+
+</details>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (3 mentions)</summary>
+
+**[00:36:05](/episodes/ep-ChuWo-n49B8.md#t-00-36-05)**
+> "because he was so close to death, he found god"
+
+**[00:42:00](/episodes/ep-ChuWo-n49B8.md#t-00-41-54)**
+> "...n't culture, this is actually God."
+
+**[00:43:02](/episodes/ep-ChuWo-n49B8.md#t-00-42-33)**
+> "...better. I hope he truly finds God and that he gets over whatever it is and the firs..."
+
+</details>
+
+<details>
+<summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (5 mentions)</summary>
+
+**[00:02:52](/episodes/ep-1CFDtD0IgEg.md#t-00-02-39)**
+> "God will bless you if you bless Israel. Really? I thi..."
+
+**[00:04:15](/episodes/ep-1CFDtD0IgEg.md#t-00-03-53)**
+> "...ed a widow or the fatherless, God says, I will hunt you down and kill you with the ..."
+
+**[00:08:04](/episodes/ep-1CFDtD0IgEg.md#t-00-08-04)**
+> "... but thought i'd let you know god bless you all christ is king is that true is that..."
+
+**[00:50:03](/episodes/ep-1CFDtD0IgEg.md#t-00-49-55)**
+> "...SA. You will all stand before God one day alone to answer for this. Go Max, Candace..."
+
+**[00:51:45](/episodes/ep-1CFDtD0IgEg.md#t-00-51-45)**
+> "...old to believe it kiwi writes god is good christ is king may he protect canis in th..."
+
+</details>
+
+<details>
+<summary>An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369 (8 mentions)</summary>
+
+**[00:51:23](/episodes/ep-iB-YtO3UZOg.md#t-00-50-58)**
+> "They're crazy, but they seem so tough enough to open a jar of pickles. If you know what I mean, I'm here with you and God bless."
+
+**[00:35:53](/episodes/ep-iB-YtO3UZOg.md#t-00-35-43)**
+> "...and it's infuriating. I thank God for all of your hard work. Go Max. Justice for Ch..."
+
+**[00:47:24](/episodes/ep-iB-YtO3UZOg.md#t-00-47-10)**
+> "God bless you and your family. Happy birthday to Susa..."
+
+**[00:48:02](/episodes/ep-iB-YtO3UZOg.md#t-00-47-50)**
+> "...eard you say a few times that god only gives us what we can handle but that isn't t..."
+
+**[00:50:23](/episodes/ep-iB-YtO3UZOg.md#t-00-50-19)**
+> "Being like, okay, God, far be it from me, you know, far be it from me t..."
+
+**[00:50:58](/episodes/ep-iB-YtO3UZOg.md#t-00-50-58)**
+> "...h us right now and so um yeah God does give you more than you can handle but like a..."
+
+**[00:52:34](/episodes/ep-iB-YtO3UZOg.md#t-00-52-23)**
+> "Art of Savagery writes, God bless every single person who has spoken up or of..."
+
+**[00:52:40](/episodes/ep-iB-YtO3UZOg.md#t-00-52-23)**
+> "To God be the glory. Rest peacefully, Charlie. Your Davi..."
+
+</details>
+
+<details>
+<summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (4 mentions)</summary>
+
+**[00:41:19](/episodes/ep-AoYZel7_cGQ.md#t-00-40-53)**
+> "...that they were scary spot on. God sometimes uses dreams to speak to us for a crowd ..."
+
+**[00:42:30](/episodes/ep-AoYZel7_cGQ.md#t-00-42-30)**
+> "...in the Bible as messages from God."
+
+**[00:42:46](/episodes/ep-AoYZel7_cGQ.md#t-00-42-30)**
+> "They can be messages from God. And I know when I had that dream and I didn't kn..."
+
+**[00:50:53](/episodes/ep-AoYZel7_cGQ.md#t-00-50-53)**
+> "God bless. We're just warming up. We are just warming..."
+
+</details>
+
+<details>
+<summary>BREAKING: Charlie’s Team DID Call 911 En Route To The Hospital… Andrew Kolvet’s Big Lie. | Ep 366 (1 mentions)</summary>
+
+**[00:48:06](/episodes/ep-HZvwbfePe7o.md#t-00-47-51)**
+> "Christ is king. God bless you."
 
 </details>
 
@@ -1538,27 +1668,24 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 </details>
 
 <details>
-<summary>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 (3 mentions)</summary>
+<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (2 mentions)</summary>
 
-**[00:32:53](/episodes/ep-zSKrxIUMNqw.md#t-00-32-35)**
-> "God forbid,"
+**[01:01:20](/episodes/ep-HYn0P-P1wUw.md#t-01-00-51)**
+> "God bless and stay focused. Yeah, I reached out to hi..."
 
-**[00:34:17](/episodes/ep-zSKrxIUMNqw.md#t-00-33-59)**
-> "...da that has completely erased God from the conversation."
-
-**[00:55:34](/episodes/ep-zSKrxIUMNqw.md#t-00-55-24)**
-> "...d from Australia. But I think God takes care of you in the end."
+**[01:04:57](/episodes/ep-HYn0P-P1wUw.md#t-01-04-49)**
+> "God bless and protect you forever,"
 
 </details>
 
 <details>
-<summary>BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 (2 mentions)</summary>
+<summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (2 mentions)</summary>
 
-**[01:01:20](/episodes/ep-HYn0P-P1wUw.md#t-01-00-57)**
-> "God bless and stay focused. Yeah, I reached out to hi..."
+**[00:15:01](/episodes/ep-OEAHy3SsIiI.md#t-00-15-01)**
+> "...olutely hell. And Erika Kirk, God bless, tragic, and I'm sorry for what happened, b..."
 
-**[01:04:57](/episodes/ep-HYn0P-P1wUw.md#t-01-04-26)**
-> "God bless and protect you forever,"
+**[00:40:48](/episodes/ep-OEAHy3SsIiI.md#t-00-40-45)**
+> "I didn't have a bad feeling. God gave me a good brain. I already knew. I dropped t..."
 
 </details>
 
@@ -2259,7 +2386,7 @@ _No relationships extracted yet._
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about God (6)</strong></summary>
+<summary><strong class="section-title">Statements about God (5)</strong></summary>
 
 <details>
 <summary>STAGED? Erika’s VIRAL White House Correspondents Moment Comes Under Scrutiny. | Candace Ep 335 (1)</summary>
@@ -2274,14 +2401,6 @@ _No relationships extracted yet._
 
 - [00:34:09](/episodes/ep-xi8SYJTUXPM.md#t-00-34-01) (Opinion) **Laura Loomer** (via quoted tweet): ["God hates Candace Owens; humanity hates her; and she is irredeemable."](/statements/statement-fb851d6c4a21.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Erika Kirk](/entities/person-erika-kirk.md)
-
-</details>
-
-<details>
-<summary>SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321 (1)</summary>
-
-- [00:27:34](/episodes/ep-q1NRQQAYS_Q.md#t-00-27-29) (Claim) **Erika Kirk** (via quoted speech): ["Charlie Kirk, the Turning Point USA team, and God entrusted Erika Kirk..."](/statements/statement-84a0653e5f0e.md)
-  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 

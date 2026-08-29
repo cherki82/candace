@@ -17,8 +17,8 @@ _Type: People_
 Source: [Megan Thee Stallion - Official Website](https://www.megantheestallion.com/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-megan-thee-stallion-t-00-06-06">2026-01-05 · 00:06:45</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-megan-thee-stallion-t-00-06-06">2026-01-05 · 00:06:45</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-megan-thee-stallion-t-00-06-32">2026-01-05 · 00:06:32</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-megan-thee-stallion-t-00-06-32">2026-01-05 · 00:06:32</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -29,15 +29,15 @@ Source: [Megan Thee Stallion - Official Website](https://www.megantheestallion.c
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-megan-thee-stallion-t-00-06-06">You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-megan-thee-stallion-t-00-06-32">You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-megan-thee-stallion-t-00-06-06" style="--pulse-height:100%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-megan-thee-stallion-t-00-06-32" style="--pulse-height:100%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-megan-thee-stallion-t-00-06-06) | 1 |
+| 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-megan-thee-stallion-t-00-06-32) | 1 |
 
 </details>
 </section>
@@ -50,7 +50,7 @@ Source: [Megan Thee Stallion - Official Website](https://www.megantheestallion.c
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (1 mentions)</summary>
 
-**[00:06:45](/episodes/ep-OEAHy3SsIiI.md#ent-person-megan-thee-stallion-t-00-06-06)**
+**[00:06:32](/episodes/ep-OEAHy3SsIiI.md#ent-person-megan-thee-stallion-t-00-06-32)**
 > "this is Megan Thee Stallion twerking at the Kamala rally."
 
 </details>

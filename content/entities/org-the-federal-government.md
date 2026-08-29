@@ -1,24 +1,32 @@
 ---
 title: "the federal government"
-description: "the federal government (Organizations) - 17 mentions"
+description: "the federal government (Organizations) - 21 mentions"
 id: "org-the-federal-government"
 type: "ORG"
 aliases:
   - "federal government"
+categories:
+  - "United States government"
 ---
 
 _Type: Organizations_
 
 **Also known as:** federal government
 
+**Categories:** United States government
+
+**Entity verification:** verified
+> The official USAGov page confirms the canonical government identity and its branches.
+Source: [Branches of the U.S. government — USAGov](https://www.usa.gov/branches-of-government)
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-org-the-federal-government-t-00-21-48">2025-09-22 · 00:21:48</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-the-federal-government-t-00-33-36">2025-12-08 · 00:33:41</a></strong></div>
-<div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-org-the-federal-government-t-00-51-09">2026-08-19 · 00:51:21</a></strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -36,6 +44,7 @@ _Type: Organizations_
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-the-federal-government-t-00-34-38" style="--pulse-height:100%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 6 mentions" title="2025-12-01 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-the-federal-government-t-00-55-43" style="--pulse-height:17%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-org-the-federal-government-t-00-33-36" style="--pulse-height:17%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 1 mentions" title="2025-12-08 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9hRcfSrri70.md#ent-org-the-federal-government-t-00-07-16" style="--pulse-height:67%" aria-label="EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378: 4 mentions" title="2026-08-19 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -51,6 +60,7 @@ _Type: Organizations_
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-org-the-federal-government-t-00-34-38) | 6 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-org-the-federal-government-t-00-55-43) | 1 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-org-the-federal-government-t-00-33-36) | 1 |
+| 2026-08-19 | [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378](/episodes/ep-9hRcfSrri70.md#ent-org-the-federal-government-t-00-07-16) | 4 |
 
 </details>
 </section>
@@ -58,7 +68,24 @@ _Type: Organizations_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (4 mentions)</summary>
+
+**[00:07:41](/episodes/ep-9hRcfSrri70.md#ent-org-the-federal-government-t-00-07-16)**
+> "Also, what right would the federal government or responding officers in Utah have to your perso..."
+
+**[00:39:45](/episodes/ep-9hRcfSrri70.md#ent-org-the-federal-government-t-00-39-45)**
+> "... to about it, particularly by the federal government."
+
+**[00:39:58](/episodes/ep-9hRcfSrri70.md#ent-org-the-federal-government-t-00-39-45)**
+> "In particular, I feel the federal government is lying to us and I refuse to accept that is my ..."
+
+**[00:51:21](/episodes/ep-9hRcfSrri70.md#ent-org-the-federal-government-t-00-51-09)**
+> "...eone with the full support of the federal government, I'd caution against it, but I'd caution against ..."
+
+</details>
 
 <details>
 <summary>Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276 (1 mentions)</summary>
@@ -166,12 +193,42 @@ _Type: Organizations_
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Accused By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:39:58](/episodes/ep-9hRcfSrri70.md#t-00-39-45): “In particular, I feel the federal government is lying to us and I refuse to accept that is my duty to blame it on the left if the left didn't do it. Left does plenty of things that they've been caught doing and I use my platform to go after them.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** accused this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 @ 00:39:58](/episodes/ep-9hRcfSrri70.md#t-00-39-45): “In particular, I feel the federal government is lying to us and I refuse to accept that is my duty to blame it on the left if the left didn't do it. Left does plenty of things that they've been caught doing and I use my platform to go after them.”
+
+</details>
+
+</details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about the federal government (2)</strong></summary>
+<summary><strong class="section-title">Statements about the federal government (3)</strong></summary>
+
+<details>
+<summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1)</summary>
+
+- [00:39:58](/episodes/ep-9hRcfSrri70.md#t-00-39-45) (Accusation) **Candace Owens**: ["Owens said she felt the federal government was lying about Charlie Kir..."](/statements/statement-12daf66f197d.md)
+  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</details>
 
 <details>
 <summary>The Great Exodus From Utah? Where Did The "Egyptians" Go On 9/10? | Candace Ep 267 (1)</summary>

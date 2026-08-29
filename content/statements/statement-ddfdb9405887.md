@@ -34,7 +34,7 @@ veracity: "mixed"
 **Timestamp:** [00:25:01](/episodes/ep-rupRLXmSndU.md#t-00-25-01) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1501);return false;">Play</a>
 
-> the Jerusalem Center, this person told me, is where the elite of the Mormon culture, the cream of the pie, they get introduced to one another. It's where the elite Mormon youth are introduced to also the Neset, okay? ... where many of them are then approached in Jerusalem, Israel by their teachers who I should mention the director of the program is Israeli to work for the CIA.
+> BYU, the Jerusalem Center, this person told me, is where the elite of the Mormon culture, the cream of the pie, they get introduced to one another. It's where the elite Mormon youth are introduced to also the Knesset, okay? ... where many of them are then approached in Jerusalem, Israel by their teachers who I should mention the director of the program is Israeli to work for the CIA.
 
 ## Verification
 

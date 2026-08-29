@@ -30,7 +30,7 @@ veracity: "mixed"
 **Timestamp:** [00:36:10](/episodes/ep-ZIH5-V6UPkg.md#t-00-35-54) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2170);return false;">Play</a>
 
-> It is very clear what the Likud government is. They are murderous. They have a A particular knack for murdering children.
+> It is very clear what the Likud government is. They are murderous. They have a particular knack for murdering children.
 
 ## Verification
 

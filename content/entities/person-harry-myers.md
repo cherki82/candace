@@ -13,7 +13,7 @@ _Type: People_
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>9</strong></div>
-<div><span>Statements about</span><strong>16</strong></div>
+<div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -158,7 +158,7 @@ _Type: People_
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Harry Myers (16)</strong></summary>
+<summary><strong class="section-title">Statements about Harry Myers (15)</strong></summary>
 
 <details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (1)</summary>
@@ -177,7 +177,7 @@ _Type: People_
 </details>
 
 <details>
-<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (14)</summary>
+<summary>Charlie Kirk’s Last Trip To Asia… | Candace Ep 277 (13)</summary>
 
 - [00:07:15](/episodes/ep-t4U7NjnUEgc.md#t-00-07-02) (Claim) **Harry Myers** (via read message): ["Harry Myers discovered the first ever Sinaloa cartel underground rail ..."](/statements/statement-96ac90d3e1bb.md)
 
@@ -196,9 +196,6 @@ _Type: People_
 
 - [00:17:41](/episodes/ep-t4U7NjnUEgc.md#t-00-17-13) (Claim) **Harry Myers** (via paraphrase): ["Harry Myers claimed he saw Brian Harpole at Joint Task Force Southern ..."](/statements/statement-e1f3b3a8c4ff.md)
   - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [Brian Harpole](/entities/person-brian-harpole.md)
-
-- [00:19:45](/episodes/ep-t4U7NjnUEgc.md#t-00-19-18) (Claim) **Candace Owens**: ["Harry Myers encountered Brian Harpole at the Joint Task Force Southern..."](/statements/statement-8ad2cb0f95b9.md)
-  - Also about: [Brian Harpole](/entities/person-brian-harpole.md)
 
 - [00:22:00](/episodes/ep-t4U7NjnUEgc.md#t-00-21-28) (Claim) **Harry Myers** (via paraphrase): ["Harry Myers said Fort Huachuca personnel interrogated him for about se..."](/statements/statement-9e9c07274601.md)
   - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md)

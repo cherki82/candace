@@ -1,6 +1,6 @@
 ---
 title: "Utah County Sheriff's Office"
-description: "Utah County Sheriff's Office (Organizations) - 4 mentions"
+description: "Utah County Sheriff's Office (Organizations) - 5 mentions"
 id: "org-utah-county-sheriff-s-office"
 type: "ORG"
 categories:
@@ -18,12 +18,12 @@ Source: [Utah County Sheriff's Office](https://sheriff.utahcounty.gov/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-utah-county-sheriff-s-office-t-00-27-57">2025-09-17 · 00:28:17</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-eLgD5yUVbko.md#t-00-38-00">2026-04-13 · 00:38:26</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-org-utah-county-sheriff-s-office-t-00-01-37">2026-08-06 · 00:01:50</a></strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -34,6 +34,7 @@ Source: [Utah County Sheriff's Office](https://sheriff.utahcounty.gov/)
 <a href="/episodes/ep-2WEHTk0Xewg.md#ent-org-utah-county-sheriff-s-office-t-00-27-57" style="--pulse-height:100%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 2 mentions" title="2025-09-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-7ERqbYElOfs.md#ent-org-utah-county-sheriff-s-office-t-00-40-25" style="--pulse-height:50%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 1 mentions" title="2026-03-30 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eLgD5yUVbko.md#t-00-38-00" style="--pulse-height:50%" aria-label="Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323: 1 mentions" title="2026-04-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ChuWo-n49B8.md#ent-org-utah-county-sheriff-s-office-t-00-01-37" style="--pulse-height:50%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -42,6 +43,7 @@ Source: [Utah County Sheriff's Office](https://sheriff.utahcounty.gov/)
 | 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-org-utah-county-sheriff-s-office-t-00-27-57) | 2 |
 | 2026-03-30 | [The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318](/episodes/ep-7ERqbYElOfs.md#ent-org-utah-county-sheriff-s-office-t-00-40-25) | 1 |
 | 2026-04-13 | [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323](/episodes/ep-eLgD5yUVbko.md#t-00-38-00) | 1 |
+| 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-org-utah-county-sheriff-s-office-t-00-01-37) | 1 |
 
 </details>
 </section>
@@ -49,7 +51,15 @@ Source: [Utah County Sheriff's Office](https://sheriff.utahcounty.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
+
+**[00:01:50](/episodes/ep-ChuWo-n49B8.md#ent-org-utah-county-sheriff-s-office-t-00-01-37)**
+> "Officer Bagley, while he was employed by the Utah County Sheriff's Office"
+
+</details>
 
 <details>
 <summary>Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 (1 mentions)</summary>
@@ -84,6 +94,18 @@ Source: [Utah County Sheriff's Office](https://sheriff.utahcounty.gov/)
 <summary><strong class="section-title">Relationships</strong></summary>
 
 <details>
+<summary>Formerly Employed (1)</summary>
+
+- **[Chris Bagley](/entities/person-chris-bagley.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:01:50](/episodes/ep-ChuWo-n49B8.md#t-00-01-37): “We learned that Officer Bagley, while he was employed by the Utah County Sheriff's Office, so that was actually his last place of employment before he began working for UBU. He worked for Utah.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Has Sheriff (1)</summary>
 
 - **[Mike Smith](/entities/person-mike-smith-utah-sheriff.md)**
@@ -96,7 +118,14 @@ Source: [Utah County Sheriff's Office](https://sheriff.utahcounty.gov/)
 </details>
 
 <details>
-<summary>Referenced By (1)</summary>
+<summary>Referenced By (2)</summary>
+
+- **[Chris Bagley](/entities/person-chris-bagley.md)** formerly worked for this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:01:50](/episodes/ep-ChuWo-n49B8.md#t-00-01-37): “We learned that Officer Bagley, while he was employed by the Utah County Sheriff's Office, so that was actually his last place of employment before he began working for UBU. He worked for Utah.”
+
+</details>
 
 - **[Mike Smith](/entities/person-mike-smith-utah-sheriff.md)** sheriff of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -110,7 +139,15 @@ Source: [Utah County Sheriff's Office](https://sheriff.utahcounty.gov/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Utah County Sheriff's Office (1)</strong></summary>
+<summary><strong class="section-title">Statements about Utah County Sheriff's Office (2)</strong></summary>
+
+<details>
+<summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1)</summary>
+
+- [00:01:50](/episodes/ep-ChuWo-n49B8.md#t-00-01-37) (Claim) **Candace Owens**: ["Officer Chris Bagley previously worked for the Utah County Sheriff's O..."](/statements/statement-34cc6e1428b5.md)
+  - Also about: [Chris Bagley](/entities/person-chris-bagley.md)
+
+</details>
 
 <details>
 <summary>The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318 (1)</summary>

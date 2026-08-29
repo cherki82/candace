@@ -5,11 +5,19 @@ id: "org-nemours-children-s-hospitals"
 type: "ORG"
 aliases:
   - "Nemours Children Hospital"
+categories:
+  - "children's health system"
 ---
 
 _Type: Organizations_
 
 **Also known as:** Nemours Children Hospital
+
+**Categories:** children's health system
+
+**Entity verification:** verified
+> Canonical name and identity for Nemours Children's Hospitals confirmed by the cited direct external source.
+Source: [About Nemours Children's Health](https://www.nemours.org/about.html)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-tB5SXXmd9vU.md#ent-org-nemours-children-s-hospitals-t-00-44-08">2025-12-01 · 00:44:08</a></strong></div>

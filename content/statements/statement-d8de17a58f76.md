@@ -4,9 +4,10 @@ description: "\"Candace Owens accused Ben Shapiro of attempting to buy Charlie K
 statement_id: "statement-d8de17a58f76"
 speaker: "Candace Owens"
 type: "accusation"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -34,7 +35,20 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The source-scoped transcript records Owens accusing Shapiro of trying to buy Kirk's legacy and references his appearance in Kirk's studio with a million dollars. The finding verifies the accusation's conveyance, not Owens's characterization of motive.
+
+**Confidence:** High
+
+**Sources:**
+
+- [EXCLUSIVE: Ben Shapiro's 9/10 Lunch Date — Candace Ep. 365 transcript](https://podcasts.happyscribe.com/candace/10-lunch-date-more-text-messages-from-charlie-kirk)
+
+*Verified: 2026-08-27T19:42:39.589205*
 
 ---
 

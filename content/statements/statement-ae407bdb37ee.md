@@ -33,7 +33,7 @@ veracity: "true"
 **Timestamp:** [00:21:05](/episodes/ep-9naMwS0kMBE.md#t-00-21-01) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1265);return false;">Play</a>
 
-> he told you that they knew the bombing was coming down in Beirut before it occurred. absolutely.
+> and in fact he told you that they knew the bombing was coming down in Beirut before it occurred.
 
 ## Verification
 

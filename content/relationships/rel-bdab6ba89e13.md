@@ -17,9 +17,9 @@ object: "person-candace-owens"
 
 - [00:43:54](/episodes/ep-BxN2-aeMYIs#t-00-43-54): _Say something about Kanye. When everybody's saying something about Kanye, they want me to do it because I'm his friend._
 
-**[DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw)**
+**[Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik)**
 
-- [00:39:15](/episodes/ep-zSKrxIUMNqw#t-00-39-15): _because he's my friend._
+- [00:46:17](/episodes/ep-_cNtgris8Ik#t-00-46-17): _I had no idea that Kanye was going to call me and he was going to invite me. And because of our friendship._
 
 ### Related
 

@@ -5,11 +5,19 @@ id: "gpe-hamburg"
 type: "GPE"
 aliases:
   - "Hamburg, Germany"
+categories:
+  - "German city"
 ---
 
 _Type: Places_
 
 **Also known as:** Hamburg, Germany
+
+**Categories:** German city
+
+**Entity verification:** verified
+> Canonical name and identity for Hamburg confirmed by the cited direct external source.
+Source: [Hamburg](https://en.wikipedia.org/wiki/Hamburg)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-hamburg-t-00-38-09">2025-11-21 · 00:38:42</a></strong></div>
@@ -71,8 +79,8 @@ _No relationships extracted yet._
 - [00:38:42](/episodes/ep-mKXdKV-OBog.md#t-00-38-09) (Claim) **Candace Owens**: ["Jean-Michel Jarre disappeared for decades and joined the military in H..."](/statements/statement-c4a5e619b2e7.md)
   - Also about: [Jean-Michel Jarre](/entities/person-jean-michel-jarre.md)
 
-- [00:38:42](/episodes/ep-mKXdKV-OBog.md#t-00-38-09) (Claim) **Candace Owens**: ["A Satis subsidiary in Hamburg, Germany had a CEO switch in late July, ..."](/statements/statement-4b1d0eb6cbc5.md)
-  - Also about: [Israel](/entities/gpe-israel.md), [Satis](/entities/org-satis.md)
+- [00:38:42](/episodes/ep-mKXdKV-OBog.md#t-00-38-09) (Claim) **Candace Owens**: ["A Satys subsidiary in Hamburg, Germany had a CEO switch in late July, ..."](/statements/statement-4b1d0eb6cbc5.md)
+  - Also about: [Israel](/entities/gpe-israel.md), [Satys](/entities/org-satys.md)
 
 </details>
 
