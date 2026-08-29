@@ -218,7 +218,7 @@ Source: [Taylor Swift | Official Website](https://www.taylorswift.com/)
 **[00:13:35](/episodes/ep-2T39-oADLj0.md#ent-person-taylor-swift-t-00-13-35)**
 > "would like say like Taylor Swift or Oprah."
 
-**[00:14:11](/episodes/ep-2T39-oADLj0.md#ent-person-taylor-swift-t-00-14-01)**
+**[00:14:01](/episodes/ep-2T39-oADLj0.md#ent-person-taylor-swift-t-00-14-01)**
 > "Taylor Swift is writing songs about relationships."
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "Tucker Carlson"
-description: "Tucker Carlson (People) - 641 mentions"
+description: "Tucker Carlson (People) - 648 mentions"
 id: "person-tucker-carlson"
 type: "PERSON"
 aliases:
@@ -24,7 +24,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-tucker-carlson-t-00-12-57">2025-09-15 · 00:13:18</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-tucker-carlson-t-00-22-14">2026-08-21 · 00:22:35</a></strong></div>
 <div><span>Episodes</span><strong>104</strong></div>
-<div><span>Mentions</span><strong>641</strong></div>
+<div><span>Mentions</span><strong>648</strong></div>
 <div><span>Statements by</span><strong>76</strong></div>
 <div><span>Statements about</span><strong>88</strong></div>
 <div><span>Relationships</span><strong>114</strong></div>
@@ -77,11 +77,11 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-tucker-carlson-t-00-02-11" style="--pulse-height:16%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 9 mentions" title="2026-01-07 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-tucker-carlson-t-00-07-06" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-tucker-carlson-t-00-00-45" style="--pulse-height:16%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 9 mentions" title="2026-01-12 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-tucker-carlson-t-00-03-11" style="--pulse-height:9%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 5 mentions" title="2026-01-13 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-tucker-carlson-t-00-42-09" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-tucker-carlson-t-00-03-04" style="--pulse-height:11%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 6 mentions" title="2026-01-13 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-tucker-carlson-t-00-42-36" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-tucker-carlson-t-00-59-24" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-person-tucker-carlson-t-00-00-01" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-tucker-carlson-t-00-34-33" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-person-tucker-carlson-t-00-00-01" style="--pulse-height:15%" aria-label="Myron Gaines x Candace Owens: 8 mentions" title="2026-01-16 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-tucker-carlson-t-00-34-18" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-tucker-carlson-t-00-18-46" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-tucker-carlson-t-00-01-23" style="--pulse-height:18%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 10 mentions" title="2026-01-22 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-person-tucker-carlson-t-00-38-43" style="--pulse-height:8%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 3 mentions" title="2026-01-27 · 3 mentions"><span></span></a>
@@ -186,11 +186,11 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-tucker-carlson-t-00-02-11) | 9 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-tucker-carlson-t-00-07-06) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-tucker-carlson-t-00-00-45) | 9 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-tucker-carlson-t-00-03-11) | 5 |
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-tucker-carlson-t-00-42-09) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-tucker-carlson-t-00-03-04) | 6 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-tucker-carlson-t-00-42-36) | 2 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-tucker-carlson-t-00-59-24) | 1 |
-| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-tucker-carlson-t-00-00-01) | 3 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-tucker-carlson-t-00-34-33) | 2 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-tucker-carlson-t-00-00-01) | 8 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-tucker-carlson-t-00-34-18) | 2 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-tucker-carlson-t-00-18-46) | 4 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-tucker-carlson-t-00-01-23) | 10 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-person-tucker-carlson-t-00-38-43) | 3 |
@@ -255,7 +255,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (641)</strong></summary>
+<summary><strong class="section-title">Raw mentions (648)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -1295,7 +1295,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (2 mentions)</summary>
 
-**[00:34:43](/episodes/ep-NIEbqsLAK8g.md#ent-person-tucker-carlson-t-00-34-33)**
+**[00:34:43](/episodes/ep-NIEbqsLAK8g.md#ent-person-tucker-carlson-t-00-34-18)**
 > "We had the pastor get on stage and call me [unclear nickname] Owens and Tucker Carlson when they get their talking points."
 
 **[00:35:15](/episodes/ep-NIEbqsLAK8g.md#ent-person-tucker-carlson-t-00-35-11)**
@@ -1312,7 +1312,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 </details>
 
 <details>
-<summary>Myron Gaines x Candace Owens (3 mentions)</summary>
+<summary>Myron Gaines x Candace Owens (8 mentions)</summary>
 
 **[00:00:09](/episodes/ep-2T39-oADLj0.md#ent-person-tucker-carlson-t-00-00-01)**
 > "Everything began ratcheting up after Tucker Carlson hit the stage."
@@ -1323,33 +1323,54 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 **[00:57:10](/episodes/ep-2T39-oADLj0.md#ent-person-tucker-carlson-t-00-56-52)**
 > "...ing began ratcheting up after tucker carlson hit the stage uh and"
 
+**[00:42:03](/episodes/ep-2T39-oADLj0.md#ent-person-tucker-carlson-t-00-42-00)**
+> "between you tucker nick uh they're attacking all three of you guys s..."
+
+**[00:43:02](/episodes/ep-2T39-oADLj0.md#ent-person-tucker-carlson-t-00-43-02)**
+> "yeah i know they force fired tucker they force fired me and then they realized oh we ..."
+
+**[00:45:26](/episodes/ep-2T39-oADLj0.md#ent-person-tucker-carlson-t-00-45-26)**
+> "...o watching his interview with tucker it's on my list this weekend But I'm assuming he ..."
+
+**[00:46:00](/episodes/ep-2T39-oADLj0.md#ent-person-tucker-carlson-t-00-46-00)**
+> "Yeah, no. And I credit you, Tucker, Nick, some of the biggest voices in it, like wak..."
+
+**[00:57:19](/episodes/ep-2T39-oADLj0.md#ent-person-tucker-carlson-t-00-57-19)**
+> "...owed the video he was telling tucker to go max all the things that they lied about we'..."
+
 </details>
 
 <details>
-<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (2 mentions)</summary>
 
-**[00:42:43](/episodes/ep-BKcOm32ZEGk.md#ent-person-tucker-carlson-t-00-42-09)**
+**[00:42:43](/episodes/ep-BKcOm32ZEGk.md#ent-person-tucker-carlson-t-00-42-36)**
 > "Tucker had exposed that"
 
+**[00:43:02](/episodes/ep-BKcOm32ZEGk.md#ent-person-tucker-carlson-t-00-42-36)**
+> "...re. Yeah, but I'm pretty sure Tucker had exposed that. I think it was Mike Pompeo. I w..."
+
 </details>
 
 <details>
-<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (5 mentions)</summary>
+<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (6 mentions)</summary>
 
-**[00:03:30](/episodes/ep-ZZGWo6oDscc.md#ent-person-tucker-carlson-t-00-03-11)**
+**[00:03:30](/episodes/ep-ZZGWo6oDscc.md#ent-person-tucker-carlson-t-00-03-04)**
 > "...e month of June, according to Tucker Carlson."
 
-**[00:07:11](/episodes/ep-ZZGWo6oDscc.md#ent-person-tucker-carlson-t-00-07-08)**
+**[00:07:11](/episodes/ep-ZZGWo6oDscc.md#ent-person-tucker-carlson-t-00-07-06)**
 > "is uh tucker carlson similarly echoed this at the time lindsey graham ..."
 
-**[00:07:39](/episodes/ep-ZZGWo6oDscc.md#ent-person-tucker-carlson-t-00-07-08)**
+**[00:07:38](/episodes/ep-ZZGWo6oDscc.md#ent-person-tucker-carlson-t-00-07-06)**
 > "And Tucker Carlson, I think, put it quite succinctly when he said th..."
 
-**[00:37:07](/episodes/ep-ZZGWo6oDscc.md#ent-person-tucker-carlson-t-00-36-53)**
+**[00:37:04](/episodes/ep-ZZGWo6oDscc.md#ent-person-tucker-carlson-t-00-37-04)**
 > "...oncerned about why it is that Tucker Carlson, who just believes that we shouldn't get involved..."
 
-**[00:43:53](/episodes/ep-ZZGWo6oDscc.md#ent-person-tucker-carlson-t-00-43-53)**
+**[00:43:48](/episodes/ep-ZZGWo6oDscc.md#ent-person-tucker-carlson-t-00-43-48)**
 > "...happening in Gaza. He went on Tucker Carlson's show and then he was attacked and he spoke about ..."
+
+**[00:29:13](/episodes/ep-ZZGWo6oDscc.md#ent-person-tucker-carlson-t-00-28-59)**
+> "...hether or not they should let Tucker speak on this stage."
 
 </details>
 
@@ -2705,7 +2726,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 - **[Mike Pompeo](/entities/person-mike-pompeo.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:42:43](/episodes/ep-BKcOm32ZEGk.md#t-00-42-09): “Tucker had exposed that during his time at the CIA,...it was Mike Pompeo...he tried to have,...Julian Assange...I was correct...he discussed options to take out Assange”
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:42:43](/episodes/ep-BKcOm32ZEGk.md#t-00-42-36): “Tucker had exposed that during his time at the CIA,...it was Mike Pompeo...he tried to have,...Julian Assange...I was correct...he discussed options to take out Assange”
 
 </details>
 
@@ -3071,7 +3092,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 - **[Anthony Aguilar](/entities/person-anthony-aguilar.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:43:53](/episodes/ep-ZZGWo6oDscc.md#t-00-43-53): “Candace, this is Anthony Aguilar. We mentioned him yesterday. You guys will recall because he sort of rang the alarm on what was happening in Gaza. He went on Tucker Carlson's show and then he was attacked and he spoke about Johnny Moore and the fake Gazan humanitarian aid”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:43:53](/episodes/ep-ZZGWo6oDscc.md#t-00-43-48): “Candace, this is Anthony Aguilar. We mentioned him yesterday. You guys will recall because he sort of rang the alarm on what was happening in Gaza. He went on Tucker Carlson's show and then he was attacked and he spoke about Johnny Moore and the fake Gazan humanitarian aid”
 
 </details>
 
@@ -3230,7 +3251,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 - **[Mike Pompeo](/entities/person-mike-pompeo.md)** accused by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:42:43](/episodes/ep-BKcOm32ZEGk.md#t-00-42-09): “Tucker had exposed that during his time at the CIA,...it was Mike Pompeo...he tried to have,...Julian Assange...I was correct...he discussed options to take out Assange”
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:42:43](/episodes/ep-BKcOm32ZEGk.md#t-00-42-36): “Tucker had exposed that during his time at the CIA,...it was Mike Pompeo...he tried to have,...Julian Assange...I was correct...he discussed options to take out Assange”
 
 </details>
 
@@ -3571,7 +3592,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 - **[Anthony Aguilar](/entities/person-anthony-aguilar.md)** interviewed by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:43:53](/episodes/ep-ZZGWo6oDscc.md#t-00-43-53): “Candace, this is Anthony Aguilar. We mentioned him yesterday. You guys will recall because he sort of rang the alarm on what was happening in Gaza. He went on Tucker Carlson's show and then he was attacked and he spoke about Johnny Moore and the fake Gazan humanitarian aid”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:43:53](/episodes/ep-ZZGWo6oDscc.md#t-00-43-48): “Candace, this is Anthony Aguilar. We mentioned him yesterday. You guys will recall because he sort of rang the alarm on what was happening in Gaza. He went on Tucker Carlson's show and then he was attacked and he spoke about Johnny Moore and the fake Gazan humanitarian aid”
 
 </details>
 
@@ -3761,7 +3782,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2)</summary>
 
-- [00:07:43](/episodes/ep-ZZGWo6oDscc.md#t-00-07-08) [✓] (Accusation) ["What you don't want are flighty, emotionally incontinent, silly people on the pa..."](/statements/statement-b3c35b55e3f1.md)
+- [00:07:43](/episodes/ep-ZZGWo6oDscc.md#t-00-07-06) [✓] (Accusation) ["What you don't want are flighty, emotionally incontinent, silly people on the pa..."](/statements/statement-b3c35b55e3f1.md)
   - About: [Lindsey Graham](/entities/person-lindsey-graham.md)
 
 - [00:08:31](/episodes/ep-ZZGWo6oDscc.md#t-00-08-23) [○] (Opinion) ["Lindsey Graham is like a drunk girlfriend picking fights he will never have to p..."](/statements/statement-f66c9d0d8748.md)
@@ -4152,7 +4173,7 @@ Source: [Tucker Carlson official website](https://tuckercarlson.com/)
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
 
-- [00:03:30](/episodes/ep-ZZGWo6oDscc.md#t-00-03-11) (Claim) **Candace Owens** (via paraphrase): ["According to Tucker Carlson and others, Charlie Kirk went head-to-head..."](/statements/statement-b2921bff7c51.md)
+- [00:03:30](/episodes/ep-ZZGWo6oDscc.md#t-00-03-04) (Claim) **Candace Owens** (via paraphrase): ["According to Tucker Carlson and others, Charlie Kirk went head-to-head..."](/statements/statement-b2921bff7c51.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Donald J. Trump](/entities/person-donald-trump.md)
 
 </details>

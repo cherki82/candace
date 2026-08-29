@@ -17,7 +17,7 @@ _Type: People_
 Source: [Aleister Crowley | Encyclopedia.com](https://www.encyclopedia.com/people/philosophy-and-religion/other-religious-beliefs-biographies/aleister-crowley)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-aleister-crowley-t-00-21-21">2026-01-13 · 00:21:53</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-aleister-crowley-t-00-21-15">2026-01-13 · 00:21:48</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-aleister-crowley-t-00-13-39">2026-03-09 · 00:13:48</a></strong></div>
 <div><span>Episodes</span><strong>6</strong></div>
 <div><span>Mentions</span><strong>20</strong></div>
@@ -31,7 +31,7 @@ Source: [Aleister Crowley | Encyclopedia.com](https://www.encyclopedia.com/peopl
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-1IY2oD-_xVA.md#ent-person-aleister-crowley-t-00-01-48">Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2</a> (14 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-aleister-crowley-t-00-21-21" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-aleister-crowley-t-00-21-15" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-aleister-crowley-t-00-45-38" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-aleister-crowley-t-00-02-51" style="--pulse-height:14%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-aleister-crowley-t-00-07-19" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
@@ -42,7 +42,7 @@ Source: [Aleister Crowley | Encyclopedia.com](https://www.encyclopedia.com/peopl
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-aleister-crowley-t-00-21-21) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-aleister-crowley-t-00-21-15) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-aleister-crowley-t-00-45-38) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-aleister-crowley-t-00-02-51) | 2 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-aleister-crowley-t-00-07-19) | 1 |
@@ -142,7 +142,7 @@ Source: [Aleister Crowley | Encyclopedia.com](https://www.encyclopedia.com/peopl
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:21:53](/episodes/ep-ZZGWo6oDscc.md#ent-person-aleister-crowley-t-00-21-21)**
+**[00:21:48](/episodes/ep-ZZGWo6oDscc.md#ent-person-aleister-crowley-t-00-21-15)**
 > "by the way, this is Aleister Crowley. For those of you in the book club,"
 
 </details>

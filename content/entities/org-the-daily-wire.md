@@ -58,7 +58,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-the-daily-wire-t-00-00-43" style="--pulse-height:37%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 14 mentions" title="2026-01-07 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-the-daily-wire-t-00-59-47" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-org-the-daily-wire-t-00-09-30" style="--pulse-height:8%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-the-daily-wire-t-00-39-34" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-the-daily-wire-t-00-39-55" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-org-the-daily-wire-t-00-20-05" style="--pulse-height:11%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-the-daily-wire-t-00-27-07" style="--pulse-height:24%" aria-label="Myron Gaines x Candace Owens: 9 mentions" title="2026-01-16 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-org-the-daily-wire-t-00-29-29" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 3 mentions" title="2026-01-20 · 3 mentions"><span></span></a>
@@ -125,7 +125,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-org-the-daily-wire-t-00-00-43) | 14 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-the-daily-wire-t-00-59-47) | 3 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-the-daily-wire-t-00-09-30) | 1 |
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-the-daily-wire-t-00-39-34) | 1 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-the-daily-wire-t-00-39-55) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-the-daily-wire-t-00-20-05) | 4 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-the-daily-wire-t-00-27-07) | 9 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-org-the-daily-wire-t-00-29-29) | 3 |
@@ -889,13 +889,13 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 **[00:27:12](/episodes/ep-2T39-oADLj0.md#ent-org-the-daily-wire-t-00-27-07)**
 > "before you left Daily Wire"
 
-**[00:27:32](/episodes/ep-2T39-oADLj0.md#ent-org-the-daily-wire-t-00-27-07)**
+**[00:27:29](/episodes/ep-2T39-oADLj0.md#ent-org-the-daily-wire-t-00-27-07)**
 > "...k you might have went back to Daily Wire for like a day or two and then they said, hey, we..."
 
 **[00:28:42](/episodes/ep-2T39-oADLj0.md#ent-org-the-daily-wire-t-00-28-34)**
 > "She no longer works for the Daily Wire and I think she."
 
-**[00:28:48](/episodes/ep-2T39-oADLj0.md#ent-org-the-daily-wire-t-00-28-34)**
+**[00:28:46](/episodes/ep-2T39-oADLj0.md#ent-org-the-daily-wire-t-00-28-34)**
 > "So she no longer works for Daily Wire."
 
 **[00:31:31](/episodes/ep-2T39-oADLj0.md#ent-org-the-daily-wire-t-00-31-31)**
@@ -904,13 +904,13 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 **[00:35:07](/episodes/ep-2T39-oADLj0.md#ent-org-the-daily-wire-t-00-35-07)**
 > "...e too i think you're still on the daily wire there did ben ever like have a conversation with ..."
 
-**[00:43:18](/episodes/ep-2T39-oADLj0.md#ent-org-the-daily-wire-t-00-43-14)**
+**[00:43:14](/episodes/ep-2T39-oADLj0.md#ent-org-the-daily-wire-t-00-43-14)**
 > "... until after I was fired from Daily Wire."
 
 **[00:43:25](/episodes/ep-2T39-oADLj0.md#ent-org-the-daily-wire-t-00-43-14)**
 > "...o at that time was the ceo of daily wire and i heard the backstory i was like this is insa..."
 
-**[00:49:22](/episodes/ep-2T39-oADLj0.md#ent-org-the-daily-wire-t-00-49-21)**
+**[00:49:21](/episodes/ep-2T39-oADLj0.md#ent-org-the-daily-wire-t-00-49-21)**
 > "...ein documentary when I was at The Daily Wire,"
 
 </details>
@@ -918,7 +918,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
 
-**[00:40:07](/episodes/ep-BKcOm32ZEGk.md#ent-org-the-daily-wire-t-00-39-34)**
+**[00:40:07](/episodes/ep-BKcOm32ZEGk.md#ent-org-the-daily-wire-t-00-39-55)**
 > "This brings me to Daily Wire"
 
 </details>
@@ -1534,10 +1534,11 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 <summary>Has Former Ceo (1)</summary>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:18:22](/episodes/ep-eLgD5yUVbko.md#t-00-18-22): “coincidences adding up here okay first and foremost i have told you i have proven to you many times over that charlie hated ben everybody knows that uh even Jeremy Boreing when he won his like candace tour uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on pierce morgan that's the former ceo of daily wire erica knew this andrew colvet knew this and as i've said to you after i was fired from a daily wire And yet beginning of 2024,”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:14:48](/episodes/ep-zSKrxIUMNqw.md#t-00-14-48): “That was another reason that was expressed by then CEO Jeremy (Jeremy Boreing) in the company-wide town slave hanging that was hosted because for some utterly deranged reason that seemed to be an appropriate way to punish me in front of my peers.”
+- [Myron Gaines x Candace Owens @ 00:43:25](/episodes/ep-2T39-oADLj0.md#t-00-43-14): “twitter audio or x audio space that he did with jeremy boring who at that time was the ceo of daily wire and i heard the backstory i was like this is insane like what happened to him nobody can look at that backstory of what happened to him and not realize that it was just evil”
 
 </details>
 
@@ -1589,7 +1590,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:19](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “wanted to show you that because the Daily Wire continues to exhibit stalker vibes”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:13:00](/episodes/ep-zSKrxIUMNqw.md#t-00-12-29): “This was such a slimy act by a former employer.”
-- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:40:10](/episodes/ep-BKcOm32ZEGk.md#t-00-39-34): “this brings me to Daily Wire...they're unhinged”
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:40:10](/episodes/ep-BKcOm32ZEGk.md#t-00-39-55): “this brings me to Daily Wire...they're unhinged”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:23:52](/episodes/ep-eLgD5yUVbko.md#t-00-23-45): “But there is one that I think the public is becoming aware of. I'm also saying it because I have been often said to you that this organization like the Daily Wire. wire has in my view and my understanding of what gang stalking is has been doing this since the day they fired me it has not stopped it's been an onslaught of my life every way trying to stop speeches trying to get people to say things about me having articles written uh you know trying to have other people reach out and go after my advertisers it has been non i was fired from daily wire in 2020 we're in 2020 26 it has been over two years and you're telling me they stopped personally suing me to get involved with Alliance Defending Freedom and to encourage other people to sue me as these people are telling me there”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:27:26](/episodes/ep-uC_GjKU8rs8.md#t-00-27-26): “People see the Daily Wire and they see Ben (Ben Shapiro) and they don't want to support that. They don't want to support someone who tells them that they're evil and stupid and wrong for listening and supporting Theo Vaughn.”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:00:24](/episodes/ep-k1b1NDCrNFs.md#t-00-00-01): “I guess you can just toss another coin in the "I told you so" swear jar. Daily Wire operates like a deranged cult, and they will never stop trying to destroy my life. We're going to speak about that.”
@@ -1647,7 +1648,7 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:19](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “wanted to show you that because the Daily Wire continues to exhibit stalker vibes”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:13:00](/episodes/ep-zSKrxIUMNqw.md#t-00-12-29): “This was such a slimy act by a former employer.”
-- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:40:10](/episodes/ep-BKcOm32ZEGk.md#t-00-39-34): “this brings me to Daily Wire...they're unhinged”
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:40:10](/episodes/ep-BKcOm32ZEGk.md#t-00-39-55): “this brings me to Daily Wire...they're unhinged”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:23:52](/episodes/ep-eLgD5yUVbko.md#t-00-23-45): “But there is one that I think the public is becoming aware of. I'm also saying it because I have been often said to you that this organization like the Daily Wire. wire has in my view and my understanding of what gang stalking is has been doing this since the day they fired me it has not stopped it's been an onslaught of my life every way trying to stop speeches trying to get people to say things about me having articles written uh you know trying to have other people reach out and go after my advertisers it has been non i was fired from daily wire in 2020 we're in 2020 26 it has been over two years and you're telling me they stopped personally suing me to get involved with Alliance Defending Freedom and to encourage other people to sue me as these people are telling me there”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:27:26](/episodes/ep-uC_GjKU8rs8.md#t-00-27-26): “People see the Daily Wire and they see Ben (Ben Shapiro) and they don't want to support that. They don't want to support someone who tells them that they're evil and stupid and wrong for listening and supporting Theo Vaughn.”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:00:24](/episodes/ep-k1b1NDCrNFs.md#t-00-00-01): “I guess you can just toss another coin in the "I told you so" swear jar. Daily Wire operates like a deranged cult, and they will never stop trying to destroy my life. We're going to speak about that.”
@@ -1691,10 +1692,11 @@ Source: [About - The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 - **[Jeremy Boreing](/entities/person-jeremy-boreing.md)** former CEO of this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:18:22](/episodes/ep-eLgD5yUVbko.md#t-00-18-22): “coincidences adding up here okay first and foremost i have told you i have proven to you many times over that charlie hated ben everybody knows that uh even Jeremy Boreing when he won his like candace tour uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on pierce morgan that's the former ceo of daily wire erica knew this andrew colvet knew this and as i've said to you after i was fired from a daily wire And yet beginning of 2024,”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:14:48](/episodes/ep-zSKrxIUMNqw.md#t-00-14-48): “That was another reason that was expressed by then CEO Jeremy (Jeremy Boreing) in the company-wide town slave hanging that was hosted because for some utterly deranged reason that seemed to be an appropriate way to punish me in front of my peers.”
+- [Myron Gaines x Candace Owens @ 00:43:25](/episodes/ep-2T39-oADLj0.md#t-00-43-14): “twitter audio or x audio space that he did with jeremy boring who at that time was the ceo of daily wire and i heard the backstory i was like this is insane like what happened to him nobody can look at that backstory of what happened to him and not realize that it was just evil”
 
 </details>
 

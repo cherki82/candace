@@ -40,7 +40,7 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-johnnie-moore-t-00-07-06" style="--pulse-height:25%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 6 mentions" title="2026-01-09 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-17-45" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 24 mentions" title="2026-01-12 · 24 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-johnnie-moore-t-00-43-53" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-johnnie-moore-t-00-43-48" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-person-johnnie-moore-t-00-40-31" style="--pulse-height:8%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-johnnie-moore-t-00-21-28" style="--pulse-height:8%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-johnnie-moore-t-00-06-51" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 2 mentions" title="2026-05-05 · 2 mentions"><span></span></a>
@@ -56,7 +56,7 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 |---|---|---:|
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-johnnie-moore-t-00-07-06) | 6 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-johnnie-moore-t-00-17-45) | 24 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-johnnie-moore-t-00-43-53) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-johnnie-moore-t-00-43-48) | 1 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-person-johnnie-moore-t-00-40-31) | 1 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-johnnie-moore-t-00-21-28) | 1 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-johnnie-moore-t-00-06-51) | 2 |
@@ -162,7 +162,7 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:43:53](/episodes/ep-ZZGWo6oDscc.md#ent-person-johnnie-moore-t-00-43-53)**
+**[00:43:48](/episodes/ep-ZZGWo6oDscc.md#ent-person-johnnie-moore-t-00-43-48)**
 > "...s attacked and he spoke about Johnny Moore and the fake Gazan humanitarian aid that was real..."
 
 </details>
@@ -597,7 +597,7 @@ Source: [Johnnie Moore biography - KAIROS](https://thekcompany.co/background/joh
 - [00:21:45](/episodes/ep-CMcktj3Egfo.md#t-00-21-15) [✓] (Claim) ["Johnnie Moore said he was involved with the Anti-Defamation League in multiple w..."](/statements/statement-c12d906375c5.md)
   - About: [Johnnie Moore](/entities/person-johnnie-moore.md), [Anti-Defamation League](/entities/org-anti-defamation-league.md), [Aspen Institute](/entities/org-aspen-institute.md)
 
-- [00:22:54](/episodes/ep-CMcktj3Egfo.md#t-00-22-46) [○] (Promise) ["Johnnie Moore said Christians were committed to building a worldwide wall of Chr..."](/statements/statement-a7519478aa4c.md)
+- [00:22:54](/episodes/ep-CMcktj3Egfo.md#t-00-22-46) [✓] (Promise) ["Johnnie Moore said Christians were committed to building a worldwide wall of Chr..."](/statements/statement-a7519478aa4c.md)
   - About: [Johnnie Moore](/entities/person-johnnie-moore.md), [Christian Zionism](/entities/concept-christian-zionism.md), [Antisemitism](/entities/concept-antisemitism.md)
 
 </details>

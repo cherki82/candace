@@ -22,7 +22,7 @@ Source: [Wolves And Finance – Zach De Gregorio – Accountant](https://wolvesa
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-wolves-and-finance-t-00-33-34">2025-11-17 · 00:33:34</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-wolves-and-finance-t-00-00-42">2026-01-19 · 00:00:42</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-wolves-and-finance-t-00-00-33">2026-01-19 · 00:00:42</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>9</strong></div>
@@ -36,14 +36,14 @@ Source: [Wolves And Finance – Zach De Gregorio – Accountant](https://wolvesa
 <p>Highest activity: <a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-wolves-and-finance-t-00-33-34">Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-org-wolves-and-finance-t-00-33-34" style="--pulse-height:100%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 2 mentions" title="2025-11-17 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-wolves-and-finance-t-00-00-42" style="--pulse-height:50%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-wolves-and-finance-t-00-00-33" style="--pulse-height:50%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-org-wolves-and-finance-t-00-33-34) | 2 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-wolves-and-finance-t-00-00-42) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-wolves-and-finance-t-00-00-33) | 1 |
 
 </details>
 </section>
@@ -56,7 +56,7 @@ Source: [Wolves And Finance – Zach De Gregorio – Accountant](https://wolvesa
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
 
-**[00:00:42](/episodes/ep-NIEbqsLAK8g.md#ent-org-wolves-and-finance-t-00-00-42)**
+**[00:00:42](/episodes/ep-NIEbqsLAK8g.md#ent-org-wolves-and-finance-t-00-00-33)**
 > "Wolves and Finance. We've shown a clip of Wolves and Finance on the show once."
 
 </details>
@@ -83,7 +83,7 @@ Source: [Wolves And Finance – Zach De Gregorio – Accountant](https://wolvesa
 - **[Zach De Gregorio](/entities/person-zach-de-gregorio.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [A Legal Turning Point? | Candace Ep 292 @ 00:20:39](/episodes/ep-NIEbqsLAK8g.md#t-00-20-25): “It's Wolves in Finance. And I'm referring to the presenter, Zach De Gregorio.”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:20:39](/episodes/ep-NIEbqsLAK8g.md#t-00-20-06): “It's Wolves in Finance. And I'm referring to the presenter, Zach De Gregorio.”
 
 </details>
 
@@ -95,7 +95,7 @@ Source: [Wolves And Finance – Zach De Gregorio – Accountant](https://wolvesa
 - **[Zach De Gregorio](/entities/person-zach-de-gregorio.md)** contributor to this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [A Legal Turning Point? | Candace Ep 292 @ 00:20:39](/episodes/ep-NIEbqsLAK8g.md#t-00-20-25): “It's Wolves in Finance. And I'm referring to the presenter, Zach De Gregorio.”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:20:39](/episodes/ep-NIEbqsLAK8g.md#t-00-20-06): “It's Wolves in Finance. And I'm referring to the presenter, Zach De Gregorio.”
 
 </details>
 
@@ -145,10 +145,10 @@ Source: [Wolves And Finance – Zach De Gregorio – Accountant](https://wolvesa
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (2)</summary>
 
-- [00:20:51](/episodes/ep-NIEbqsLAK8g.md#t-00-20-25) (Claim) **Zach De Gregorio**: ["Zach De Gregorio received a Turning Point USA letter titled 'Demand to..."](/statements/statement-9db10fe7a657.md)
+- [00:20:51](/episodes/ep-NIEbqsLAK8g.md#t-00-20-06) (Claim) **Zach De Gregorio**: ["Zach De Gregorio received a Turning Point USA letter titled 'Demand to..."](/statements/statement-9db10fe7a657.md)
   - Also about: [Zach De Gregorio](/entities/person-zach-de-gregorio.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:21:34](/episodes/ep-NIEbqsLAK8g.md#t-00-20-51) (Accusation) **Zach De Gregorio**: ["Turning Point USA's letter did not address most of Zach De Gregorio's ..."](/statements/statement-8da643fcc1bb.md)
+- [00:21:34](/episodes/ep-NIEbqsLAK8g.md#t-00-21-32) (Accusation) **Zach De Gregorio**: ["Turning Point USA's letter did not address most of Zach De Gregorio's ..."](/statements/statement-8da643fcc1bb.md)
   - Also about: [Zach De Gregorio](/entities/person-zach-de-gregorio.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>

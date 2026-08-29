@@ -111,7 +111,7 @@ Source: [George Floyd | Biography | Britannica](https://www.britannica.com/biogr
 **[00:51:23](/episodes/ep-2T39-oADLj0.md#ent-person-george-floyd-t-00-51-23)**
 > "just like with the George Floyd documentary that you did"
 
-**[00:51:36](/episodes/ep-2T39-oADLj0.md#ent-person-george-floyd-t-00-51-23)**
+**[00:51:34](/episodes/ep-2T39-oADLj0.md#ent-person-george-floyd-t-00-51-23)**
 > "...ying to destroy the legacy of George Floyd? So."
 
 </details>

@@ -14,7 +14,7 @@ date: "2025-09-03"
 ## Mentioned In
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
-**Timestamp:** [00:44:22](/episodes/ep-ZZGWo6oDscc.md#event-event-2025-09-03-anthony-aguilar-was-arrested-after-inter-t-00-43-53) 
+**Timestamp:** [00:44:22](/episodes/ep-ZZGWo6oDscc.md#event-event-2025-09-03-anthony-aguilar-was-arrested-after-inter-t-00-43-48) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2662);return false;">▶️ Play</a>
 
-> I've been to Gaza. I was arrested on the 3rd of September in Congress for calling out APAC.
+> I was arrested on the 3rd of September in Congress for calling out AIPAC.

@@ -64,7 +64,7 @@ Source: [PreBorn!](https://preborn.com/)
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-00-20-44" style="--pulse-height:100%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 7 mentions" title="2025-12-18 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-preborn-t-00-26-46" style="--pulse-height:71%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 5 mentions" title="2025-12-20 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-org-preborn-t-00-28-30" style="--pulse-height:43%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-preborn-t-00-29-36" style="--pulse-height:43%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 3 mentions" title="2026-01-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-preborn-t-00-29-34" style="--pulse-height:43%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 3 mentions" title="2026-01-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-org-preborn-t-00-21-19" style="--pulse-height:43%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 3 mentions" title="2026-01-21 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-preborn-t-00-33-41" style="--pulse-height:43%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 3 mentions" title="2026-01-28 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-preborn-t-00-31-49" style="--pulse-height:43%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 3 mentions" title="2026-02-02 · 3 mentions"><span></span></a>
@@ -139,7 +139,7 @@ Source: [PreBorn!](https://preborn.com/)
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-preborn-t-00-20-44) | 7 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-preborn-t-00-26-46) | 5 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-preborn-t-00-28-30) | 3 |
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-preborn-t-00-29-36) | 3 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-preborn-t-00-29-34) | 3 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-org-preborn-t-00-21-19) | 3 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-preborn-t-00-33-41) | 3 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-preborn-t-00-31-49) | 3 |
@@ -746,13 +746,13 @@ Source: [PreBorn!](https://preborn.com/)
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (3 mentions)</summary>
 
-**[00:30:08](/episodes/ep-BKcOm32ZEGk.md#ent-org-preborn-t-00-29-36)**
+**[00:30:08](/episodes/ep-BKcOm32ZEGk.md#ent-org-preborn-t-00-29-34)**
 > "Preborn sees this pain firsthand"
 
-**[00:30:26](/episodes/ep-BKcOm32ZEGk.md#ent-org-preborn-t-00-30-18)**
+**[00:30:26](/episodes/ep-BKcOm32ZEGk.md#ent-org-preborn-t-00-30-15)**
 > "...health care should look like. Preborn stands on the front lines providing free ultrasou..."
 
-**[00:30:51](/episodes/ep-BKcOm32ZEGk.md#ent-org-preborn-t-00-30-18)**
+**[00:30:51](/episodes/ep-BKcOm32ZEGk.md#ent-org-preborn-t-00-30-15)**
 > "or you can visit preborn.com slash candace. Again, that's preborn.com slas..."
 
 </details>

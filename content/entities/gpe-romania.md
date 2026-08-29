@@ -1,6 +1,6 @@
 ---
 title: "Romania"
-description: "Romania (Places) - 152 mentions"
+description: "Romania (Places) - 151 mentions"
 id: "gpe-romania"
 type: "GPE"
 categories:
@@ -20,7 +20,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-romania-t-00-10-04">2026-01-09 · 00:10:04</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-gpe-romania-t-00-56-28">2026-08-06 · 00:56:28</a></strong></div>
 <div><span>Episodes</span><strong>25</strong></div>
-<div><span>Mentions</span><strong>152</strong></div>
+<div><span>Mentions</span><strong>151</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>55</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -32,9 +32,9 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 <p>Highest activity: <a href="/episodes/ep-y8lak3CRwDw.md#ent-gpe-romania-t-00-00-00">Bride Of Charlie: What Happened In Romania? | Episode 6</a> (29 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-romania-t-00-10-04" style="--pulse-height:31%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 9 mentions" title="2026-01-09 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-romania-t-00-32-01" style="--pulse-height:17%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 5 mentions" title="2026-01-13 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-romania-t-00-32-01" style="--pulse-height:14%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 4 mentions" title="2026-01-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-romania-t-00-14-50" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-romania-t-00-31-25" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-romania-t-00-31-23" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-romania-t-00-29-39" style="--pulse-height:8%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-LKR94FQ5p3o.md#ent-gpe-romania-t-00-01-09" style="--pulse-height:8%" aria-label="Coming soon...: 1 mentions" title="2026-02-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-gpe-romania-t-00-24-43" style="--pulse-height:8%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
@@ -62,9 +62,9 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-romania-t-00-10-04) | 9 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-romania-t-00-32-01) | 5 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-romania-t-00-32-01) | 4 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-romania-t-00-14-50) | 2 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-romania-t-00-31-25) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-romania-t-00-31-23) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-romania-t-00-29-39) | 1 |
 | 2026-02-23 | [Coming soon...](/episodes/ep-LKR94FQ5p3o.md#ent-gpe-romania-t-00-01-09) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-romania-t-00-24-43) | 2 |
@@ -93,7 +93,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (152)</strong></summary>
+<summary><strong class="section-title">Raw mentions (151)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
@@ -608,7 +608,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
 
-**[00:31:25](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-romania-t-00-31-25)**
+**[00:31:25](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-romania-t-00-31-23)**
 > "It kind of grew into something more global. I was living in China and doing a lot of work with the victims from sex trafficking and then began to phase that into working with the Marine Corps and the Army and then was able to work with a orphanage in Romania."
 
 </details>
@@ -625,21 +625,18 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 </details>
 
 <details>
-<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (5 mentions)</summary>
+<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (4 mentions)</summary>
 
 **[00:32:26](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-romania-t-00-32-01)**
-> "... of trafficking children from Romania,"
-
-**[00:32:34](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-romania-t-00-32-01)**
 > "... altogether from the theme of Romania. I just wouldn't even fly over the country for a ..."
 
-**[00:33:38](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-romania-t-00-33-28)**
+**[00:33:36](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-romania-t-00-33-28)**
 > "...g men at a children's home in Romania."
 
 **[00:34:07](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-romania-t-00-34-07)**
 > "...ldren's shelter in Bucharest, Romania. The allegations include children being tied."
 
-**[00:49:30](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-romania-t-00-49-04)**
+**[00:49:28](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-romania-t-00-49-04)**
 > "...apped up in this situation in Romania."
 
 </details>
@@ -964,7 +961,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1)</summary>
 
-- [00:31:25](/episodes/ep-NIEbqsLAK8g.md#t-00-30-58) (Claim) **Erika Kirk**: ["Erika Kirk said that while living in China she worked with sex-traffic..."](/statements/statement-eddb8602cc35.md)
+- [00:31:25](/episodes/ep-NIEbqsLAK8g.md#t-00-31-23) (Claim) **Erika Kirk**: ["Erika Kirk said that while living in China she worked with sex-traffic..."](/statements/statement-eddb8602cc35.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [China](/entities/gpe-china.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md)
 
 </details>
@@ -980,7 +977,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2)</summary>
 
-- [00:33:28](/episodes/ep-ZZGWo6oDscc.md#t-00-32-45) (Citation) **Candace Owens**: ["There are 12 lawsuits alleging abuse of young men at a Romanian childr..."](/statements/statement-21fc0bb38b00.md)
+- [00:33:28](/episodes/ep-ZZGWo6oDscc.md#t-00-32-44) (Citation) **Candace Owens**: ["There are 12 lawsuits alleging abuse of young men at a Romanian childr..."](/statements/statement-21fc0bb38b00.md)
   - Also about: [Greg Laurie](/entities/person-greg-laurie.md), [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md)
 
 - [00:33:47](/episodes/ep-ZZGWo6oDscc.md#t-00-33-28) (Accusation) **Candace Owens** (via paraphrase): ["Lawsuits allege that former Harvest Christian Fellowship pastor and mi..."](/statements/statement-a151346748f0.md)
@@ -1003,7 +1000,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 - [00:12:20](/episodes/ep-wcD2khO3rOA.md#t-00-12-10) (Claim) **Candace Owens**: ["Tyler Bowyer traveled to Romania in 2011 to work with the Romanian gov..."](/statements/statement-dee027851b21.md)
   - Also about: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Ukraine](/entities/gpe-ukraine.md)
 
-- [00:13:35](/episodes/ep-wcD2khO3rOA.md#t-00-12-53) (Accusation) **Candace Owens**: ["Turning Point Faith works with Greg Laurie while Harvest Christian Fel..."](/statements/statement-6141210a0ed9.md)
+- [00:13:35](/episodes/ep-wcD2khO3rOA.md#t-00-12-53) (Accusation) **Candace Owens**: ["Turning Point Faith is partnering with Greg Laurie's Harvest Church wh..."](/statements/statement-6141210a0ed9.md)
   - Also about: [Turning Point Faith](/entities/org-turning-point-faith.md), [Greg Laurie](/entities/person-greg-laurie.md), [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md)
 
 - [00:13:54](/episodes/ep-wcD2khO3rOA.md#t-00-13-35) (Claim) **Candace Owens**: ["Andrew Kolvet’s brother Curtis is a lieutenant colonel stationed in Ro..."](/statements/statement-005748582539.md)

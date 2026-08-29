@@ -39,7 +39,7 @@ Source: [Nebraska.gov](https://www.nebraska.gov/)
 <a href="/episodes/ep-sImMM04XdWY.md#ent-gpe-nebraska-t-00-16-53" style="--pulse-height:20%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 3 mentions" title="2025-11-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-nebraska-t-00-10-47" style="--pulse-height:33%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 5 mentions" title="2025-11-21 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-nebraska-t-00-17-39" style="--pulse-height:20%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 3 mentions" title="2025-12-02 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-nebraska-t-00-05-01" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-nebraska-t-00-04-42" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#t-00-28-43" style="--pulse-height:13%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 2 mentions" title="2026-01-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-nebraska-t-00-04-48" style="--pulse-height:8%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-nebraska-t-00-31-55" style="--pulse-height:13%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 2 mentions" title="2026-05-27 · 2 mentions"><span></span></a>
@@ -56,7 +56,7 @@ Source: [Nebraska.gov](https://www.nebraska.gov/)
 | 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-gpe-nebraska-t-00-16-53) | 3 |
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-nebraska-t-00-10-47) | 5 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-nebraska-t-00-17-39) | 3 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-nebraska-t-00-05-01) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-nebraska-t-00-04-42) | 1 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#t-00-28-43) | 2 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-gpe-nebraska-t-00-04-48) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-nebraska-t-00-31-55) | 2 |
@@ -147,7 +147,7 @@ Source: [Nebraska.gov](https://www.nebraska.gov/)
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
 
-**[00:05:03](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-nebraska-t-00-05-01)**
+**[00:05:03](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-nebraska-t-00-04-42)**
 > "Nebraska also once hosted its own cattle barons ball"
 
 </details>
@@ -273,7 +273,7 @@ _No relationships extracted yet._
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1)</summary>
 
-- [00:05:03](/episodes/ep-NIEbqsLAK8g.md#t-00-05-01) (Citation) **Candace Owens**: ["Nebraska's Cattlemen's Ball became a separate 501(c)(3) that benefits ..."](/statements/statement-baf97d67738e.md)
+- [00:05:03](/episodes/ep-NIEbqsLAK8g.md#t-00-04-42) (Citation) **Candace Owens**: ["Candace Owens said Nebraska once hosted its own Cattle Baron's Ball th..."](/statements/statement-baf97d67738e.md)
   - Also about: [Cattlemen's Ball of Nebraska](/entities/org-cattlemens-ball-of-nebraska.md), [Fred & Pamela Buffett Cancer Center](/entities/org-fred-pamela-buffett-cancer-center.md)
 
 </details>

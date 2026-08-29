@@ -27,7 +27,7 @@ veracity: "true"
 ## Source
 
 **Episode:** [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md)
-**Timestamp:** [00:05:41](/episodes/ep-2T39-oADLj0.md#t-00-05-13) 
+**Timestamp:** [00:05:41](/episodes/ep-2T39-oADLj0.md#t-00-05-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(341);return false;">Play</a>
 
 > I was going to say Margaret Sanger. That was her mentor.

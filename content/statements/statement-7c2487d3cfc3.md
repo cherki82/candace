@@ -30,10 +30,10 @@ veracity: "mixed"
 ### 1. CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 2...
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
-**Timestamp:** [00:07:11](/episodes/ep-ZZGWo6oDscc.md#t-00-07-08) 
+**Timestamp:** [00:07:11](/episodes/ep-ZZGWo6oDscc.md#t-00-07-06) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(431);return false;">Play</a>
 
-> is uh tucker carlson similarly echoed this at the time lindsey graham was just doing what lindsey graham does he's i think personally he's got the largest black male file whatever israel has on him it is terrifying okay it is terrifying we know what lindsey graham probably gets up to we've had some male hookers come out come out and make some allegations but they were running a pretty sophisticated blackmail ring in dc and lindsey graham just comes out and immediately is like whatever israel wants all the time all the time
+> lindsey graham was just doing what lindsey graham does he's i think personally he's got the largest blackmail file whatever israel has on him it is terrifying okay it is terrifying we know what lindsey graham probably gets up to we've had some male hookers come out come out and make some allegations
 
 ### 2. Candace x Bassem Youssef | Candace Ep 298
 

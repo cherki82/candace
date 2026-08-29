@@ -27,7 +27,7 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
-**Timestamp:** [00:03:18](/episodes/ep-ZZGWo6oDscc.md#t-00-03-11) 
+**Timestamp:** [00:03:18](/episodes/ep-ZZGWo6oDscc.md#t-00-03-04) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(198);return false;">Play</a>
 
 > Anyways, war with Iran, it's now back on the table firmly. Why? Because, well, Israel wants it.

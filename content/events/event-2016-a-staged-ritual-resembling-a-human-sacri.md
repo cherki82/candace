@@ -14,7 +14,7 @@ date: "2016"
 ## Mentioned In
 
 **Episode:** [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md)
-**Timestamp:** [00:35:48](/episodes/ep-BKcOm32ZEGk.md#event-event-2016-a-staged-ritual-resembling-a-human-sacri-t-00-35-55) 
+**Timestamp:** [00:35:48](/episodes/ep-BKcOm32ZEGk.md#event-event-2016-a-staged-ritual-resembling-a-human-sacri-t-00-35-53) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2148);return false;">▶️ Play</a>
 
 > doing this nighttime ritual satanic ceremony gathered around the statue of Shiva.

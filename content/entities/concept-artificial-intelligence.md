@@ -1,6 +1,6 @@
 ---
 title: "Artificial intelligence"
-description: "Artificial intelligence (Concepts) - 160 mentions"
+description: "Artificial intelligence (Concepts) - 161 mentions"
 id: "concept-artificial-intelligence"
 type: "CONCEPT"
 aliases:
@@ -23,8 +23,8 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#t-00-12-10">2026-01-05 · 00:12:10</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#t-00-15-47">2026-08-21 · 00:15:47</a></strong></div>
-<div><span>Episodes</span><strong>44</strong></div>
-<div><span>Mentions</span><strong>160</strong></div>
+<div><span>Episodes</span><strong>45</strong></div>
+<div><span>Mentions</span><strong>161</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>30</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,7 +37,8 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-OEAHy3SsIiI.md#t-00-12-10" style="--pulse-height:14%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#t-00-07-27" style="--pulse-height:50%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 7 mentions" title="2026-01-07 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#t-00-25-30" style="--pulse-height:14%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#t-00-25-21" style="--pulse-height:14%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-concept-artificial-intelligence-t-00-06-17" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#t-00-37-57" style="--pulse-height:14%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#t-00-51-59" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#t-00-18-28" style="--pulse-height:21%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
@@ -86,7 +87,8 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 |---|---|---:|
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#t-00-12-10) | 2 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#t-00-07-27) | 7 |
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#t-00-25-30) | 2 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#t-00-25-21) | 2 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-concept-artificial-intelligence-t-00-06-17) | 1 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#t-00-37-57) | 2 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#t-00-51-59) | 1 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#t-00-18-28) | 3 |
@@ -135,7 +137,7 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (160)</strong></summary>
+<summary><strong class="section-title">Raw mentions (161)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>
@@ -784,12 +786,20 @@ Source: [Artificial intelligence - NIST Glossary](https://csrc.nist.gov/glossary
 </details>
 
 <details>
+<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (1 mentions)</summary>
+
+**[00:06:17](/episodes/ep-X92MllIHDzw.md#ent-concept-artificial-intelligence-t-00-06-17)**
+> "her dad worked for an artificial intelligence for IBM."
+
+</details>
+
+<details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (2 mentions)</summary>
 
-**[00:25:40](/episodes/ep-BKcOm32ZEGk.md#t-00-25-30)**
+**[00:25:40](/episodes/ep-BKcOm32ZEGk.md#t-00-25-21)**
 > "the AI world"
 
-**[00:25:51](/episodes/ep-BKcOm32ZEGk.md#t-00-25-30)**
+**[00:25:51](/episodes/ep-BKcOm32ZEGk.md#t-00-25-21)**
 > "Something about the entire AI movement feels wrong."
 
 </details>

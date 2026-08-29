@@ -1,6 +1,6 @@
 ---
 title: "Blackout"
-description: "Blackout (Works & Media) - 20 mentions"
+description: "Blackout (Works & Media) - 21 mentions"
 id: "work-blackout"
 type: "WORK"
 categories:
@@ -18,8 +18,8 @@ Source: [Shop Candace — Signed book bundle](https://shop.candaceowens.com/coll
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-K5GjF53bfN4.md#ent-work-blackout-t-00-43-37">2025-09-25 · 00:44:07</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-work-blackout-t-00-53-02">2026-08-04 · 00:53:10</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -33,7 +33,8 @@ Source: [Shop Candace — Signed book bundle](https://shop.candaceowens.com/coll
 <a href="/episodes/ep-K5GjF53bfN4.md#ent-work-blackout-t-00-43-37" style="--pulse-height:67%" aria-label="Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243: 2 mentions" title="2025-09-25 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-work-blackout-t-00-57-56" style="--pulse-height:33%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-work-blackout-t-00-56-00" style="--pulse-height:33%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-blackout-t-00-41-33" style="--pulse-height:33%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-blackout-t-00-41-30" style="--pulse-height:33%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-work-blackout-t-00-48-11" style="--pulse-height:33%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-work-blackout-t-00-51-13" style="--pulse-height:100%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-work-blackout-t-00-07-35" style="--pulse-height:33%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-work-blackout-t-00-39-10" style="--pulse-height:33%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
@@ -52,7 +53,8 @@ Source: [Shop Candace — Signed book bundle](https://shop.candaceowens.com/coll
 | 2025-09-25 | [Charlie Kirk Expressed Concerns About TPUSA Finances | Candace Ep 243](/episodes/ep-K5GjF53bfN4.md#ent-work-blackout-t-00-43-37) | 2 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-work-blackout-t-00-57-56) | 1 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-work-blackout-t-00-56-00) | 1 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-work-blackout-t-00-41-33) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-work-blackout-t-00-41-30) | 1 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-work-blackout-t-00-48-11) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-work-blackout-t-00-51-13) | 3 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-work-blackout-t-00-07-35) | 1 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-work-blackout-t-00-39-10) | 1 |
@@ -70,7 +72,7 @@ Source: [Shop Candace — Signed book bundle](https://shop.candaceowens.com/coll
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>
@@ -156,15 +158,23 @@ Source: [Shop Candace — Signed book bundle](https://shop.candaceowens.com/coll
 <details>
 <summary>Myron Gaines x Candace Owens (1 mentions)</summary>
 
-**[00:07:40](/episodes/ep-2T39-oADLj0.md#ent-work-blackout-t-00-07-35)**
+**[00:07:35](/episodes/ep-2T39-oADLj0.md#ent-work-blackout-t-00-07-35)**
 > "actually. It's in Blackout of this teacher that I had and I was required to take Feminism 101. It was called Women's Studies."
+
+</details>
+
+<details>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
+
+**[00:48:11](/episodes/ep-BKcOm32ZEGk.md#ent-work-blackout-t-00-48-11)**
+> "...well. Make him a sandwich and blackout, both hand signed by me."
 
 </details>
 
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:41:50](/episodes/ep-ZZGWo6oDscc.md#ent-work-blackout-t-00-41-33)**
+**[00:41:47](/episodes/ep-ZZGWo6oDscc.md#ent-work-blackout-t-00-41-30)**
 > "Make Him a Sandwich and Blackout."
 
 </details>
@@ -208,7 +218,7 @@ Source: [Shop Candace — Signed book bundle](https://shop.candaceowens.com/coll
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Myron Gaines x Candace Owens @ 00:07:38](/episodes/ep-2T39-oADLj0.md#t-00-07-35): “actually. I think it's in this book or it's in my last book, actually. It's in Blackout of this teacher that I had and I was required to take Feminism 101. It was called Women's Studies.”
-- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-33): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-30): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:51:49](/episodes/ep-X92MllIHDzw.md#t-00-51-13): “the hard copy autographed bundle, both of my books, Make Him a Sandwich and Blackout.”
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:55:07](/episodes/ep-CEF7gQRWYCE.md#t-00-55-01): “You can also buy the hard copied bundle, both of our books, my books, pardon, Make Him a Sandwich and Blackout, both of them.”
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:57:56](/episodes/ep-HYn0P-P1wUw.md#t-00-57-56): “All right, you guys telling you that we have our new merch up on the website. You can also buy a hard copy of the autographed bundle, which is now available on the shop. It's both of my books, Make Him a Sandwich and Blackout, hand signed by me.”
@@ -224,7 +234,7 @@ Source: [Shop Candace — Signed book bundle](https://shop.candaceowens.com/coll
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Myron Gaines x Candace Owens @ 00:07:38](/episodes/ep-2T39-oADLj0.md#t-00-07-35): “actually. I think it's in this book or it's in my last book, actually. It's in Blackout of this teacher that I had and I was required to take Feminism 101. It was called Women's Studies.”
-- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-33): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-30): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:51:49](/episodes/ep-X92MllIHDzw.md#t-00-51-13): “the hard copy autographed bundle, both of my books, Make Him a Sandwich and Blackout.”
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:55:07](/episodes/ep-CEF7gQRWYCE.md#t-00-55-01): “You can also buy the hard copied bundle, both of our books, my books, pardon, Make Him a Sandwich and Blackout, both of them.”
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:57:56](/episodes/ep-HYn0P-P1wUw.md#t-00-57-56): “All right, you guys telling you that we have our new merch up on the website. You can also buy a hard copy of the autographed bundle, which is now available on the shop. It's both of my books, Make Him a Sandwich and Blackout, hand signed by me.”

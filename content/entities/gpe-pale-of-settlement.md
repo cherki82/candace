@@ -17,7 +17,7 @@ _Type: Places_
 Source: [Pale of Settlement | History, Map, Russia, & Facts | Britannica](https://www.britannica.com/place/Pale-of-Settlement)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-pale-of-settlement-t-00-05-13">2026-01-16 · 00:05:25</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-pale-of-settlement-t-00-05-00">2026-01-16 · 00:05:25</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-AoYZel7_cGQ.md#ent-gpe-pale-of-settlement-t-00-53-17">2026-07-30 · 00:53:17</a></strong></div>
 <div><span>Episodes</span><strong>5</strong></div>
 <div><span>Mentions</span><strong>11</strong></div>
@@ -31,7 +31,7 @@ Source: [Pale of Settlement | History, Map, Russia, & Facts | Britannica](https:
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-pale-of-settlement-t-00-29-57">Bride Of Charlie: The Ties That Bind | Episode 4</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-pale-of-settlement-t-00-05-13" style="--pulse-height:17%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-pale-of-settlement-t-00-05-00" style="--pulse-height:17%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-pale-of-settlement-t-00-29-57" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 6 mentions" title="2026-03-02 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-pale-of-settlement-t-00-52-52" style="--pulse-height:17%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 1 mentions" title="2026-07-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OgRyiOAVtWU.md#ent-gpe-pale-of-settlement-t-01-05-56" style="--pulse-height:17%" aria-label="Erika Kirk Calls Me &quot;That B*tch”. More Exclusive Photos From Charlie&#x27;s SUV. | Ep 363: 1 mentions" title="2026-07-21 · 1 mentions"><span></span></a>
@@ -41,7 +41,7 @@ Source: [Pale of Settlement | History, Map, Russia, & Facts | Britannica](https:
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-pale-of-settlement-t-00-05-13) | 1 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-pale-of-settlement-t-00-05-00) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-pale-of-settlement-t-00-29-57) | 6 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-gpe-pale-of-settlement-t-00-52-52) | 1 |
 | 2026-07-21 | [Erika Kirk Calls Me "That B*tch”. More Exclusive Photos From Charlie's SUV. | Ep 363](/episodes/ep-OgRyiOAVtWU.md#ent-gpe-pale-of-settlement-t-01-05-56) | 1 |
@@ -108,7 +108,7 @@ Source: [Pale of Settlement | History, Map, Russia, & Facts | Britannica](https:
 <details>
 <summary>Myron Gaines x Candace Owens (1 mentions)</summary>
 
-**[00:05:25](/episodes/ep-2T39-oADLj0.md#ent-gpe-pale-of-settlement-t-00-05-13)**
+**[00:05:25](/episodes/ep-2T39-oADLj0.md#ent-gpe-pale-of-settlement-t-00-05-00)**
 > "This came straight from the Pale of Settlement"
 
 </details>

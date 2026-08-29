@@ -67,7 +67,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-kash-patel-t-00-14-17" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-kash-patel-t-00-08-57" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-kash-patel-t-00-18-50" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-kash-patel-t-00-42-16" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-kash-patel-t-00-42-22" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-kash-patel-t-00-34-19" style="--pulse-height:8%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-kash-patel-t-00-29-56" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-kash-patel-t-00-24-08" style="--pulse-height:15%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
@@ -148,7 +148,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-kash-patel-t-00-14-17) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-kash-patel-t-00-08-57) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-kash-patel-t-00-18-50) | 1 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-kash-patel-t-00-42-16) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-kash-patel-t-00-42-22) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-kash-patel-t-00-34-19) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-kash-patel-t-00-29-56) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-person-kash-patel-t-00-24-08) | 2 |
@@ -833,7 +833,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
 
-**[00:42:23](/episodes/ep-NIEbqsLAK8g.md#ent-person-kash-patel-t-00-42-16)**
+**[00:42:23](/episodes/ep-NIEbqsLAK8g.md#ent-person-kash-patel-t-00-42-22)**
 > "when they give you a day it means we stalked you we harassed you we tried to destroy you and threaten you and then we just found it easier to murder you and but we have a little we're guilty about that so we're just gonna they invited cash patel was wild it was really wild dan blood was there too he was still providing security which i thought was weird i thought that was weird i'm gonna lie"
 
 </details>
@@ -1429,7 +1429,7 @@ Source: [Director Kash Patel — FBI](https://www.fbi.gov/about/leadership-and-s
 - **[Alexis Wilkins](/entities/person-alexis-wilkins.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Myron Gaines x Candace Owens @ 01:04:28](/episodes/ep-2T39-oADLj0.md#t-01-04-28): “I think that's way more important is trusting Alexis Wilkins is a sensational singer and to people. uh okay Be careful. i don't She might sue you. want to talk about like the feds right now like they're doing what they have to the more important thing is that this sensational country singer is left alone we are just not a serious nation i mean i think if putin's fbi director or put that out he would just putin would just quietly have him assassinated or something i don't know uh but we are just not a serious nation that is just they are tweeting like girls on tiktok talk right now and it's embarrassing it is so embarrassing he should have been forced to resign trump should have made him resign for embarrassing us because uh there's no way putin's not laughing with his homies right now about that tweet my girlfriend my life partner we are”
+- [Myron Gaines x Candace Owens @ 01:04:28](/episodes/ep-2T39-oADLj0.md#t-01-04-28): “I think that's way more important is trusting Alexis Wilkins is a sensational singer and to people. uh okay ... talk right now and it's embarrassing it is so embarrassing he should have been forced to resign trump should have made him resign for embarrassing us because uh there's no way putin's not laughing with his homies right now about that tweet my girlfriend my life partner we are”
 - [Who’s Lying? Frank Turek, Erika Kirk, Or Elizabeth McCoy? | Candace Ep 316 @ 00:32:05](/episodes/ep-5m-Wn6Pr5rM.md#t-00-31-31): “She's literally dating the FBI director”
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "Kanye West"
-description: "Kanye West (People) - 186 mentions"
+description: "Kanye West (People) - 185 mentions"
 id: "person-kanye-west"
 type: "PERSON"
 aliases:
@@ -26,7 +26,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-kanye-west-t-00-09-13">2025-09-11 · 00:09:13</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-kanye-west-t-00-46-33">2026-08-21 · 00:46:57</a></strong></div>
 <div><span>Episodes</span><strong>42</strong></div>
-<div><span>Mentions</span><strong>186</strong></div>
+<div><span>Mentions</span><strong>185</strong></div>
 <div><span>Statements by</span><strong>6</strong></div>
 <div><span>Statements about</span><strong>34</strong></div>
 <div><span>Relationships</span><strong>15</strong></div>
@@ -59,7 +59,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <a href="/episodes/ep-OEAHy3SsIiI.md#t-01-07-28" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-kanye-west-t-00-00-00" style="--pulse-height:43%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 15 mentions" title="2026-01-07 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-kanye-west-t-00-38-18" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-person-kanye-west-t-00-50-02" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-person-kanye-west-t-00-50-02" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-kanye-west-t-00-33-58" style="--pulse-height:17%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 6 mentions" title="2026-01-20 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-kanye-west-t-00-25-31" style="--pulse-height:11%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 4 mentions" title="2026-01-21 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-person-kanye-west-t-00-43-34" style="--pulse-height:26%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 9 mentions" title="2026-01-27 · 9 mentions"><span></span></a>
@@ -106,7 +106,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#t-01-07-28) | 1 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-kanye-west-t-00-00-00) | 15 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-kanye-west-t-00-38-18) | 1 |
-| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-kanye-west-t-00-50-02) | 2 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-kanye-west-t-00-50-02) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-kanye-west-t-00-33-58) | 6 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-kanye-west-t-00-25-31) | 4 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-person-kanye-west-t-00-43-34) | 9 |
@@ -133,7 +133,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (186)</strong></summary>
+<summary><strong class="section-title">Raw mentions (185)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (6 mentions)</summary>
@@ -438,10 +438,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 </details>
 
 <details>
-<summary>Myron Gaines x Candace Owens (2 mentions)</summary>
-
-**[00:50:17](/episodes/ep-2T39-oADLj0.md#ent-person-kanye-west-t-00-50-02)**
-> "from Michael Jackson to Kanye to Britney Spears"
+<summary>Myron Gaines x Candace Owens (1 mentions)</summary>
 
 **[00:50:17](/episodes/ep-2T39-oADLj0.md#ent-person-kanye-west-t-00-50-02)**
 > "...ok at from Michael Jackson to Kanye to Britney Spears, these are hostile takeovers of..."
@@ -451,7 +448,7 @@ Source: [Kanye West | Biography, Albums, Songs, & Facts](https://www.britannica.
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:38:36](/episodes/ep-ZZGWo6oDscc.md#ent-person-kanye-west-t-00-38-18)**
+**[00:38:31](/episodes/ep-ZZGWo6oDscc.md#ent-person-kanye-west-t-00-38-18)**
 > "...e Charlie Kirk moment and the Kanye tweet. And like I told you, watching Scott Adams ..."
 
 </details>

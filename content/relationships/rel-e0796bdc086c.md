@@ -15,7 +15,7 @@ object: "org-aipac"
 
 **[CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc)**
 
-- [00:44:20](/episodes/ep-ZZGWo6oDscc#t-00-44-20): _Anthony Aguilar, the Gaza whistleblower, Green Beret, I've been to Gaza. I was arrested on the 3rd of September in Congress for calling out APAC._
+- [00:44:20](/episodes/ep-ZZGWo6oDscc#t-00-44-20): _Anthony Aguilar, the Gaza whistleblower, Green Beret, I've been to Gaza. I was arrested on the 3rd of September in Congress for calling out AIPAC._
 
 ### Related
 

@@ -17,8 +17,8 @@ _Type: Organizations_
 Source: [Information - Social Blade](https://socialblade.com/info)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-social-blade-t-00-12-25">2026-01-13 · 00:12:40</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-social-blade-t-00-12-25">2026-01-13 · 00:12:40</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-social-blade-t-00-12-06">2026-01-13 · 00:12:34</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-social-blade-t-00-12-06">2026-01-13 · 00:12:34</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -29,15 +29,15 @@ Source: [Information - Social Blade](https://socialblade.com/info)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-social-blade-t-00-12-25">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-social-blade-t-00-12-06">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-social-blade-t-00-12-25" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-social-blade-t-00-12-06" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-social-blade-t-00-12-25) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-social-blade-t-00-12-06) | 1 |
 
 </details>
 </section>
@@ -50,7 +50,7 @@ Source: [Information - Social Blade](https://socialblade.com/info)
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:12:40](/episodes/ep-ZZGWo6oDscc.md#ent-org-social-blade-t-00-12-25)**
+**[00:12:34](/episodes/ep-ZZGWo6oDscc.md#ent-org-social-blade-t-00-12-06)**
 > "That is according to Social Blade."
 
 </details>
@@ -70,7 +70,7 @@ _No relationships extracted yet._
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
 
-- [00:12:25](/episodes/ep-ZZGWo6oDscc.md#t-00-11-44) (Citation) **Candace Owens**: ["On June 19, Erika Kirk deleted 126 Instagram posts, according to Socia..."](/statements/statement-e19b9bb16ace.md)
+- [00:12:25](/episodes/ep-ZZGWo6oDscc.md#t-00-12-06) (Citation) **Candace Owens**: ["On June 19, Erika Kirk deleted 126 Instagram posts, according to Socia..."](/statements/statement-e19b9bb16ace.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Instagram](/entities/org-instagram.md)
 
 </details>

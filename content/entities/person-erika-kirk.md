@@ -1,6 +1,6 @@
 ---
 title: "Erika Kirk"
-description: "Erika Kirk (People) - 3025 mentions"
+description: "Erika Kirk (People) - 3026 mentions"
 id: "person-erika-kirk"
 type: "PERSON"
 aliases:
@@ -29,9 +29,9 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-erika-kirk-t-00-18-02">2025-09-11 · 00:18:06</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-erika-kirk-t-01-05-38">2026-08-21 · 01:06:07</a></strong></div>
 <div><span>Episodes</span><strong>141</strong></div>
-<div><span>Mentions</span><strong>3,025</strong></div>
+<div><span>Mentions</span><strong>3,026</strong></div>
 <div><span>Statements by</span><strong>134</strong></div>
-<div><span>Statements about</span><strong>875</strong></div>
+<div><span>Statements about</span><strong>876</strong></div>
 <div><span>Relationships</span><strong>289</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -80,10 +80,10 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-erika-kirk-t-00-05-57" style="--pulse-height:8%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-erika-kirk-t-00-06-24" style="--pulse-height:13%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 11 mentions" title="2026-01-09 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-erika-kirk-t-00-19-07" style="--pulse-height:8%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-erika-kirk-t-00-28-47" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-erika-kirk-t-00-28-26" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-erika-kirk-t-00-00-00" style="--pulse-height:26%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 22 mentions" title="2026-01-16 · 22 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-erika-kirk-t-00-59-26" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 5 mentions" title="2026-01-16 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-erika-kirk-t-00-18-17" style="--pulse-height:15%" aria-label="A Legal Turning Point? | Candace Ep 292: 13 mentions" title="2026-01-19 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-erika-kirk-t-00-18-49" style="--pulse-height:15%" aria-label="A Legal Turning Point? | Candace Ep 292: 13 mentions" title="2026-01-19 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-erika-kirk-t-00-03-31" style="--pulse-height:34%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 29 mentions" title="2026-01-20 · 29 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-erika-kirk-t-00-03-29" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 7 mentions" title="2026-01-21 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-erika-kirk-t-00-07-10" style="--pulse-height:10%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 9 mentions" title="2026-01-22 · 9 mentions"><span></span></a>
@@ -226,10 +226,10 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-erika-kirk-t-00-05-57) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-erika-kirk-t-00-06-24) | 11 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-erika-kirk-t-00-19-07) | 3 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-erika-kirk-t-00-28-47) | 2 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-erika-kirk-t-00-28-26) | 3 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-erika-kirk-t-00-00-00) | 22 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-erika-kirk-t-00-59-26) | 5 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-erika-kirk-t-00-18-17) | 13 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-erika-kirk-t-00-18-49) | 13 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-erika-kirk-t-00-03-31) | 29 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-erika-kirk-t-00-03-29) | 7 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-erika-kirk-t-00-07-10) | 9 |
@@ -334,7 +334,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (3025)</strong></summary>
+<summary><strong class="section-title">Raw mentions (3026)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (15 mentions)</summary>
@@ -8588,22 +8588,22 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (13 mentions)</summary>
 
-**[00:18:57](/episodes/ep-NIEbqsLAK8g.md#ent-person-erika-kirk-t-00-18-17)**
+**[00:18:57](/episodes/ep-NIEbqsLAK8g.md#ent-person-erika-kirk-t-00-18-49)**
 > "like somebody's just setting Erika Kirk up, right?"
 
-**[00:12:21](/episodes/ep-NIEbqsLAK8g.md#ent-person-erika-kirk-t-00-11-56)**
+**[00:12:21](/episodes/ep-NIEbqsLAK8g.md#ent-person-erika-kirk-t-00-12-12)**
 > "...nternet who had been tracking Erika's plane noticed that it kept going to this seemingl..."
 
-**[00:19:10](/episodes/ep-NIEbqsLAK8g.md#ent-person-erika-kirk-t-00-19-00)**
+**[00:19:10](/episodes/ep-NIEbqsLAK8g.md#ent-person-erika-kirk-t-00-18-49)**
 > "And so she's pretending to be Erika's BFF, but secretly giving her the worst advice of ..."
 
-**[00:19:46](/episodes/ep-NIEbqsLAK8g.md#ent-person-erika-kirk-t-00-19-45)**
+**[00:19:46](/episodes/ep-NIEbqsLAK8g.md#ent-person-erika-kirk-t-00-19-27)**
 > "...nd be like, I don't know what Erika was thinking."
 
 **[00:21:21](/episodes/ep-NIEbqsLAK8g.md#ent-person-erika-kirk-t-00-20-51)**
 > "...urning Point has become under Erika Kirk."
 
-**[00:30:41](/episodes/ep-NIEbqsLAK8g.md#ent-person-erika-kirk-t-00-30-28)**
+**[00:30:41](/episodes/ep-NIEbqsLAK8g.md#ent-person-erika-kirk-t-00-30-27)**
 > "And so I was interested in Erika having said that while she was quote unquote livi..."
 
 **[00:32:01](/episodes/ep-NIEbqsLAK8g.md#ent-person-erika-kirk-t-00-32-01)**
@@ -8615,13 +8615,13 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 **[00:33:04](/episodes/ep-NIEbqsLAK8g.md#ent-person-erika-kirk-t-00-33-04)**
 > "...ng on here okay well the real Erika Kirk please stand up okay because this isn't you can't..."
 
-**[00:34:06](/episodes/ep-NIEbqsLAK8g.md#ent-person-erika-kirk-t-00-33-48)**
+**[00:34:06](/episodes/ep-NIEbqsLAK8g.md#ent-person-erika-kirk-t-00-33-38)**
 > "...e I said, I'm working on this Erika Kirk timeline and I want everything to be legit."
 
-**[00:42:47](/episodes/ep-NIEbqsLAK8g.md#ent-person-erika-kirk-t-00-42-16)**
+**[00:42:47](/episodes/ep-NIEbqsLAK8g.md#ent-person-erika-kirk-t-00-42-22)**
 > "... God and free speech, but not Erika."
 
-**[00:42:53](/episodes/ep-NIEbqsLAK8g.md#ent-person-erika-kirk-t-00-42-16)**
+**[00:42:53](/episodes/ep-NIEbqsLAK8g.md#ent-person-erika-kirk-t-00-42-22)**
 > "Erika. We see right through you."
 
 **[00:46:10](/episodes/ep-NIEbqsLAK8g.md#ent-person-erika-kirk-t-00-46-10)**
@@ -8715,19 +8715,22 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 **[01:01:26](/episodes/ep-2T39-oADLj0.md#ent-person-erika-kirk-t-01-01-26)**
 > "... rabbit hole on my show about Erika's parents."
 
-**[01:01:53](/episodes/ep-2T39-oADLj0.md#ent-person-erika-kirk-t-01-01-26)**
+**[01:01:49](/episodes/ep-2T39-oADLj0.md#ent-person-erika-kirk-t-01-01-26)**
 > "...n't come across anything with Erika in my investigation."
 
 </details>
 
 <details>
-<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2 mentions)</summary>
+<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (3 mentions)</summary>
 
-**[00:28:47](/episodes/ep-ZZGWo6oDscc.md#ent-person-erika-kirk-t-00-28-47)**
+**[00:28:47](/episodes/ep-ZZGWo6oDscc.md#ent-person-erika-kirk-t-00-28-26)**
 > "A psychological operation when Mitch Snow came and told us that he saw Brian Harpole and he saw Erika Kirk at Fort Huachuca in the days leading up to Charlie's assassination."
 
-**[00:32:44](/episodes/ep-ZZGWo6oDscc.md#ent-person-erika-kirk-t-00-32-01)**
+**[00:32:44](/episodes/ep-ZZGWo6oDscc.md#ent-person-erika-kirk-t-00-32-44)**
 > "But not Erika Kirk,"
+
+**[00:12:21](/episodes/ep-ZZGWo6oDscc.md#ent-person-erika-kirk-t-00-12-06)**
+> "...kground is that on June 19th, Erika purges her Instagram."
 
 </details>
 
@@ -10557,7 +10560,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:11:51](/episodes/ep-OEAHy3SsIiI.md#t-00-11-36): “she's very close with Elizabeth McCoy. She's very close with her.”
-- [A Legal Turning Point? | Candace Ep 292 @ 00:18:57](/episodes/ep-NIEbqsLAK8g.md#t-00-18-17): “It's probably Elizabeth McCoy. I feel like if I had to guess, it's her, because they're best friends”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:18:57](/episodes/ep-NIEbqsLAK8g.md#t-00-18-49): “It's probably Elizabeth McCoy. I feel like if I had to guess, it's her, because they're best friends”
 
 </details>
 
@@ -10913,11 +10916,12 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <summary>Formerly Lived In (7)</summary>
 
 - **[China](/entities/gpe-china.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:20:44](/episodes/ep-2tFYJf1klgY.md#t-00-20-44): “I was living in China and doing a lot of work with the victims from sex trafficking”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:33:17](/episodes/ep-DdPjoy5W-wY.md#t-00-33-17): “I was living in China”
 - [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:48:17](/episodes/ep-SubDoZWHARo.md#t-00-47-55): “Erika Kirk says that she lived in China and worked with child sex trafficking victims”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:31:23](/episodes/ep-NIEbqsLAK8g.md#t-00-30-58): “I was living in China and doing a lot of work with the victims from sex trafficking”
 
 </details>
 
@@ -11626,7 +11630,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <details class="relationship-evidence"><summary>Show all evidence (6)</summary>
 
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:17:16](/episodes/ep-X92MllIHDzw.md#t-00-17-16): “I was living in China and doing a lot of work with the victims from sex trafficking and then began to phase that into working with the Marine Corps and the army”
-- [A Legal Turning Point? | Candace Ep 292 @ 00:31:25](/episodes/ep-NIEbqsLAK8g.md#t-00-30-58): “I was living in China and doing a lot of work with the victims from sex trafficking and then began to phase that into working with the Marine Corps and the Army”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:31:25](/episodes/ep-NIEbqsLAK8g.md#t-00-31-23): “I was living in China and doing a lot of work with the victims from sex trafficking and then began to phase that into working with the Marine Corps and the Army”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:20:44](/episodes/ep-2tFYJf1klgY.md#t-00-20-44): “began to phase that into working with the Marine Corps and the Army”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:33:17](/episodes/ep-DdPjoy5W-wY.md#t-00-33-17): “began to phase that into working with the Marine Corps and the Army”
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:18:54](/episodes/ep-H9p2ZGHAs9A.md#t-00-18-54): “We just have a borderless heart to help people and to give back. And, you know, I have been to Romania and teamed up with the Marine Corps to open up and sustain an orphanage with 75 beautiful children.”
@@ -11638,7 +11642,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:17:16](/episodes/ep-X92MllIHDzw.md#t-00-17-16): “I was living in China and doing a lot of work with the victims from sex trafficking and then began to phase that into working with the Marine Corps and the army”
-- [A Legal Turning Point? | Candace Ep 292 @ 00:31:25](/episodes/ep-NIEbqsLAK8g.md#t-00-30-58): “I was living in China and doing a lot of work with the victims from sex trafficking and then began to phase that into working with the Marine Corps and the Army”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:31:25](/episodes/ep-NIEbqsLAK8g.md#t-00-31-23): “I was living in China and doing a lot of work with the victims from sex trafficking and then began to phase that into working with the Marine Corps and the Army”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:20:44](/episodes/ep-2tFYJf1klgY.md#t-00-20-44): “began to phase that into working with the Marine Corps and the Army”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:33:17](/episodes/ep-DdPjoy5W-wY.md#t-00-33-17): “began to phase that into working with the Marine Corps and the Army”
 
@@ -11956,7 +11960,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:11:51](/episodes/ep-OEAHy3SsIiI.md#t-00-11-36): “she's very close with Elizabeth McCoy. She's very close with her.”
-- [A Legal Turning Point? | Candace Ep 292 @ 00:18:57](/episodes/ep-NIEbqsLAK8g.md#t-00-18-17): “It's probably Elizabeth McCoy. I feel like if I had to guess, it's her, because they're best friends”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:18:57](/episodes/ep-NIEbqsLAK8g.md#t-00-18-49): “It's probably Elizabeth McCoy. I feel like if I had to guess, it's her, because they're best friends”
 
 </details>
 
@@ -12275,11 +12279,12 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 - **[China](/entities/gpe-china.md)** former residence of this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:20:44](/episodes/ep-2tFYJf1klgY.md#t-00-20-44): “I was living in China and doing a lot of work with the victims from sex trafficking”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:33:17](/episodes/ep-DdPjoy5W-wY.md#t-00-33-17): “I was living in China”
 - [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:48:17](/episodes/ep-SubDoZWHARo.md#t-00-47-55): “Erika Kirk says that she lived in China and worked with child sex trafficking victims”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:31:23](/episodes/ep-NIEbqsLAK8g.md#t-00-30-58): “I was living in China and doing a lot of work with the victims from sex trafficking”
 
 </details>
 
@@ -13497,10 +13502,10 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (2)</summary>
 
-- [00:30:58](/episodes/ep-NIEbqsLAK8g.md#t-00-30-28) [✓] (Claim) ["Everyday Heroes Like You initially funded and promoted transparent grassroots or..."](/statements/statement-f3e38bba5ce2.md)
+- [00:30:58](/episodes/ep-NIEbqsLAK8g.md#t-00-30-27) [✓] (Claim) ["Everyday Heroes Like You initially funded and promoted transparent grassroots or..."](/statements/statement-f3e38bba5ce2.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Everyday Heroes Like You](/entities/org-everyday-heroes-like-you.md)
 
-- [00:31:25](/episodes/ep-NIEbqsLAK8g.md#t-00-30-58) [◐] (Claim) ["Erika Kirk said that while living in China she worked with sex-trafficking victi..."](/statements/statement-eddb8602cc35.md)
+- [00:31:25](/episodes/ep-NIEbqsLAK8g.md#t-00-31-23) [◐] (Claim) ["Erika Kirk said that while living in China she worked with sex-trafficking victi..."](/statements/statement-eddb8602cc35.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [China](/entities/gpe-china.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md)
 
 </details>
@@ -13667,7 +13672,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Erika Kirk (875)</strong></summary>
+<summary><strong class="section-title">Statements about Erika Kirk (876)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (3)</summary>
@@ -16305,19 +16310,19 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (5)</summary>
 
-- [00:30:58](/episodes/ep-NIEbqsLAK8g.md#t-00-30-28) (Claim) **Erika Kirk**: ["Everyday Heroes Like You initially funded and promoted transparent gra..."](/statements/statement-f3e38bba5ce2.md)
+- [00:30:58](/episodes/ep-NIEbqsLAK8g.md#t-00-30-27) (Claim) **Erika Kirk**: ["Everyday Heroes Like You initially funded and promoted transparent gra..."](/statements/statement-f3e38bba5ce2.md)
   - Also about: [Everyday Heroes Like You](/entities/org-everyday-heroes-like-you.md)
 
-- [00:31:25](/episodes/ep-NIEbqsLAK8g.md#t-00-30-58) (Claim) **Erika Kirk**: ["Erika Kirk said that while living in China she worked with sex-traffic..."](/statements/statement-eddb8602cc35.md)
+- [00:31:25](/episodes/ep-NIEbqsLAK8g.md#t-00-31-23) (Claim) **Erika Kirk**: ["Erika Kirk said that while living in China she worked with sex-traffic..."](/statements/statement-eddb8602cc35.md)
   - Also about: [China](/entities/gpe-china.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md), [United States Army](/entities/org-united-states-army.md)
 
-- [00:32:01](/episodes/ep-NIEbqsLAK8g.md#t-00-31-25) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens reported that Turning Point USA's official response said..."](/statements/statement-d5bf18c557bc.md)
+- [00:32:01](/episodes/ep-NIEbqsLAK8g.md#t-00-31-23) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens reported that Turning Point USA's official response said..."](/statements/statement-d5bf18c557bc.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [China](/entities/gpe-china.md)
 
 - [00:32:52](/episodes/ep-NIEbqsLAK8g.md#t-00-32-51) (Claim) **Charlie Kirk**: ["Charlie Kirk said his wife had lived in China for six months and had v..."](/statements/statement-831742ddc462.md)
   - Also about: [China](/entities/gpe-china.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:42:55](/episodes/ep-NIEbqsLAK8g.md#t-00-42-16) (Opinion) **Candace Owens**: ["Erika Kirk is not leading Turning Point USA in the direction Charlie K..."](/statements/statement-77061ecc2cfa.md)
+- [00:42:55](/episodes/ep-NIEbqsLAK8g.md#t-00-42-22) (Opinion) **Candace Owens**: ["Erika Kirk is not leading Turning Point USA in the direction Charlie K..."](/statements/statement-77061ecc2cfa.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
@@ -16379,10 +16384,13 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
+<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2)</summary>
 
-- [00:12:25](/episodes/ep-ZZGWo6oDscc.md#t-00-11-44) (Citation) **Candace Owens**: ["On June 19, Erika Kirk deleted 126 Instagram posts, according to Socia..."](/statements/statement-e19b9bb16ace.md)
+- [00:12:25](/episodes/ep-ZZGWo6oDscc.md#t-00-12-06) (Citation) **Candace Owens**: ["On June 19, Erika Kirk deleted 126 Instagram posts, according to Socia..."](/statements/statement-e19b9bb16ace.md)
   - Also about: [Instagram](/entities/org-instagram.md), [Social Blade](/entities/org-social-blade.md)
+
+- [00:28:47](/episodes/ep-ZZGWo6oDscc.md#t-00-28-26) (Accusation) **Mitch Snow** (via quoted speech): ["Mitch Snow told Candace Owens that he saw Brian Harpole and Erika Kirk..."](/statements/statement-457a08a3d576.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </details>
 

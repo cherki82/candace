@@ -21,7 +21,7 @@ _Type: People_
 Source: [Beyoncé Knowles-Carter | National Women’s History Museum](https://www.womenshistory.org/education-resources/biographies/beyonce-knowles-carter)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-person-beyonce-t-00-13-35">2026-01-16 · 00:13:46</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-person-beyonce-t-00-13-35">2026-01-16 · 00:13:44</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-hWTdXHGQ8R4.md#ent-person-beyonce-t-00-38-45">2026-02-11 · 00:38:48</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
@@ -64,7 +64,7 @@ Source: [Beyoncé Knowles-Carter | National Women’s History Museum](https://ww
 <details>
 <summary>Myron Gaines x Candace Owens (1 mentions)</summary>
 
-**[00:13:46](/episodes/ep-2T39-oADLj0.md#ent-person-beyonce-t-00-13-35)**
+**[00:13:44](/episodes/ep-2T39-oADLj0.md#ent-person-beyonce-t-00-13-35)**
 > "You'd say Beyonce"
 
 </details>

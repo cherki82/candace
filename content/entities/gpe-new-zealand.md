@@ -95,7 +95,7 @@ Source: [New Zealand Government](https://www.govt.nz/)
 **[00:39:29](/episodes/ep-2T39-oADLj0.md#ent-gpe-new-zealand-t-00-39-29)**
 > "new zealand also banned you right and then you were able to get how'd you go about uh being allowed to come back to new zealand did they write a petition or"
 
-**[00:39:42](/episodes/ep-2T39-oADLj0.md#ent-gpe-new-zealand-t-00-39-37)**
+**[00:39:37](/episodes/ep-2T39-oADLj0.md#ent-gpe-new-zealand-t-00-39-37)**
 > "...u get automatically banned in New Zealand. So New Zealand didn't actually ban me. Tony Burk..."
 
 **[00:39:59](/episodes/ep-2T39-oADLj0.md#ent-gpe-new-zealand-t-00-39-59)**

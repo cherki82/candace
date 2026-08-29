@@ -30,7 +30,7 @@ type: "factual_claim"
 **Timestamp:** [00:13:32](/episodes/ep-X92MllIHDzw.md#t-00-13-23) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(812);return false;">Play</a>
 
-> Erika did send a video that I had been asking for regarding the Fort Huachuca alibi. But it wasn't, I don't think they're comprehending what I'm asking for. So it wasn't what I was asking for.
+> But through one of the turning point executives, Erika did send a video that I had been asking for regarding the Fort Huachuca alibi. But it wasn't, I don't think they're comprehending what I'm asking for. So it wasn't what I was asking for.
 
 ## Verification
 

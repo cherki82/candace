@@ -32,7 +32,7 @@ Source: [Nicki Minaj - Official Website](https://www.nickiminajofficial.com/)
 <p>Highest activity: <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-nicki-minaj-t-00-15-01">You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-nicki-minaj-t-00-15-01" style="--pulse-height:100%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-nicki-minaj-t-00-19-00" style="--pulse-height:50%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-nicki-minaj-t-00-19-27" style="--pulse-height:50%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-nicki-minaj-t-00-21-12" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#t-00-12-38" style="--pulse-height:50%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 1 mentions" title="2026-05-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-person-nicki-minaj-t-00-08-47" style="--pulse-height:50%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 1 mentions" title="2026-05-18 · 1 mentions"><span></span></a>
@@ -44,7 +44,7 @@ Source: [Nicki Minaj - Official Website](https://www.nickiminajofficial.com/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-nicki-minaj-t-00-15-01) | 2 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-nicki-minaj-t-00-19-00) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-nicki-minaj-t-00-19-27) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-nicki-minaj-t-00-21-12) | 2 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#t-00-12-38) | 1 |
 | 2026-05-18 | [Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340](/episodes/ep-1QZ4X6q1DPg.md#ent-person-nicki-minaj-t-00-08-47) | 1 |
@@ -105,7 +105,7 @@ Source: [Nicki Minaj - Official Website](https://www.nickiminajofficial.com/)
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
 
-**[00:19:27](/episodes/ep-NIEbqsLAK8g.md#ent-person-nicki-minaj-t-00-19-00)**
+**[00:19:27](/episodes/ep-NIEbqsLAK8g.md#ent-person-nicki-minaj-t-00-19-27)**
 > "Charlie loved pyrotechnics and he he also liked that Nicki Minaj monster verse."
 
 </details>

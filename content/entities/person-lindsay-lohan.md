@@ -18,7 +18,7 @@ Source: [Mean Girls | Paramount Pictures](https://www.paramountpictures.com/movi
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-lindsay-lohan-t-00-12-06">2025-11-15 · 00:12:30</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-lindsay-lohan-t-00-18-17">2026-01-19 · 00:18:31</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-lindsay-lohan-t-00-18-05">2026-01-19 · 00:18:31</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -32,14 +32,14 @@ Source: [Mean Girls | Paramount Pictures](https://www.paramountpictures.com/movi
 <p>Highest activity: <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-lindsay-lohan-t-00-12-06">From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-lindsay-lohan-t-00-12-06" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 2 mentions" title="2025-11-15 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-lindsay-lohan-t-00-18-17" style="--pulse-height:50%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-lindsay-lohan-t-00-18-05" style="--pulse-height:50%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-lindsay-lohan-t-00-12-06) | 2 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-lindsay-lohan-t-00-18-17) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-lindsay-lohan-t-00-18-05) | 1 |
 
 </details>
 </section>
@@ -52,7 +52,7 @@ Source: [Mean Girls | Paramount Pictures](https://www.paramountpictures.com/movi
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
 
-**[00:18:31](/episodes/ep-NIEbqsLAK8g.md#ent-person-lindsay-lohan-t-00-18-17)**
+**[00:18:31](/episodes/ep-NIEbqsLAK8g.md#ent-person-lindsay-lohan-t-00-18-05)**
 > "so new conspiracy just dropped. I'm dropping a new conspiracy today for funsies. You know in the movie Mean Girls when Lindsay Lohan sabotages Regina George,"
 
 </details>

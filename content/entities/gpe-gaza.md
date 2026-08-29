@@ -1,6 +1,6 @@
 ---
 title: "Gaza"
-description: "Gaza (Places) - 153 mentions"
+description: "Gaza (Places) - 152 mentions"
 id: "gpe-gaza"
 type: "GPE"
 aliases:
@@ -24,7 +24,7 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-gaza-t-00-35-03">2025-09-18 · 00:35:14</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-gpe-gaza-t-00-24-42">2026-08-11 · 00:24:50</a></strong></div>
 <div><span>Episodes</span><strong>41</strong></div>
-<div><span>Mentions</span><strong>153</strong></div>
+<div><span>Mentions</span><strong>152</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>27</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -46,7 +46,7 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-gaza-t-00-52-05" style="--pulse-height:14%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 2 mentions" title="2025-11-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-gaza-t-00-07-06" style="--pulse-height:36%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 5 mentions" title="2026-01-09 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-gaza-t-00-33-04" style="--pulse-height:8%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-gaza-t-00-43-53" style="--pulse-height:21%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-gaza-t-00-43-48" style="--pulse-height:14%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-gpe-gaza-t-00-43-45" style="--pulse-height:14%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-gaza-t-00-33-39" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-gaza-t-00-35-58" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
@@ -92,7 +92,7 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 | 2025-11-12 | [Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263](/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-gaza-t-00-52-05) | 2 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-gaza-t-00-07-06) | 5 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-gaza-t-00-33-04) | 1 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-gaza-t-00-43-53) | 3 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-gaza-t-00-43-48) | 2 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-gpe-gaza-t-00-43-45) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-gaza-t-00-33-39) | 1 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-gaza-t-00-35-58) | 1 |
@@ -129,7 +129,7 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (153)</strong></summary>
+<summary><strong class="section-title">Raw mentions (152)</strong></summary>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (1 mentions)</summary>
@@ -580,15 +580,12 @@ Source: [Gaza Strip geographic profile | United Nations ESCWA](https://digitalli
 </details>
 
 <details>
-<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (3 mentions)</summary>
+<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2 mentions)</summary>
 
-**[00:43:53](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-gaza-t-00-43-53)**
+**[00:43:48](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-gaza-t-00-43-48)**
 > "...larm on what was happening in Gaza. He went on Tucker Carlson's show and then he was..."
 
-**[00:44:20](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-gaza-t-00-43-53)**
-> "Anthony Aguilar, the Gaza whistleblower,"
-
-**[00:44:22](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-gaza-t-00-43-53)**
+**[00:44:18](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-gaza-t-00-43-48)**
 > "Green Beret, I've been to Gaza. I was arrested on the 3rd of September in Congre..."
 
 </details>
@@ -904,7 +901,7 @@ _No relationships extracted yet._
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (2)</summary>
 
-- [00:43:25](/episodes/ep-BKcOm32ZEGk.md#t-00-42-53) (Accusation) **Candace Owens** (via paraphrase): ["Mike Pompeo was arguing that future history books should omit the kill..."](/statements/statement-881ef72df2a3.md)
+- [00:43:25](/episodes/ep-BKcOm32ZEGk.md#t-00-43-19) (Accusation) **Candace Owens** (via paraphrase): ["Mike Pompeo was arguing that future history books should omit the kill..."](/statements/statement-881ef72df2a3.md)
   - Also about: [Mike Pompeo](/entities/person-mike-pompeo.md), [Palestine](/entities/gpe-palestine.md), [Israel](/entities/gpe-israel.md)
 
 - [00:43:56](/episodes/ep-BKcOm32ZEGk.md#t-00-43-45) (Opinion) **Mike Pompeo** (via quoted speech): ["Future history books should not describe Gazans as the victims; they s..."](/statements/statement-27c869572b62.md)

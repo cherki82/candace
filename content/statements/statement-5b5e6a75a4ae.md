@@ -28,10 +28,10 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
-**Timestamp:** [00:28:26](/episodes/ep-ZZGWo6oDscc.md#t-00-28-05) 
+**Timestamp:** [00:28:26](/episodes/ep-ZZGWo6oDscc.md#t-00-28-26) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1706);return false;">Play</a>
 
-> Now, it's worth noting that Michael Aquino was trained at Fort Huachuca. Reigned at Fort Huachuca. Yeah, Fort Huachuca, as we've now established, is the hub for intel operations and there have been a lot of scandals that have happened at Fort Huachuca.
+> Now, it's worth noting that Michael Aquino was trained at Fort Huachuca. Trained at Fort Huachuca. Yeah, Fort Huachuca, as we've now established, is the hub for intel operations and there have been a lot of scandals that have happened at Fort Huachuca. ... Yeah, well, that's the home of army intel psychological operations and you should know that.
 
 ## Verification
 

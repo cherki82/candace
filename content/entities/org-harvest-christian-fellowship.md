@@ -1,6 +1,6 @@
 ---
 title: "Harvest Christian Fellowship"
-description: "Harvest Christian Fellowship (Organizations) - 14 mentions"
+description: "Harvest Christian Fellowship (Organizations) - 13 mentions"
 id: "org-harvest-christian-fellowship"
 type: "ORG"
 aliases:
@@ -25,31 +25,31 @@ Source: [About Harvest - Harvest Christian Fellowship](https://harvest.church/ab
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-wcD2khO3rOA.md#ent-org-harvest-christian-fellowship-t-00-13-35">2026-01-09 · 00:13:35</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-harvest-christian-fellowship-t-00-24-35">2026-06-17 · 00:24:35</a></strong></div>
 <div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>14</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>8</strong></div>
-<div><span>Relationships</span><strong>14</strong></div>
+<div><span>Relationships</span><strong>15</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-harvest-christian-fellowship-t-00-32-45">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (7 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-harvest-christian-fellowship-t-00-32-44">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-harvest-christian-fellowship-t-00-13-35" style="--pulse-height:14%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-harvest-christian-fellowship-t-00-32-45" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 7 mentions" title="2026-01-13 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-harvest-christian-fellowship-t-00-41-40" style="--pulse-height:29%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-jsqUIkszZd0.md#ent-org-harvest-christian-fellowship-t-00-50-33" style="--pulse-height:14%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-SubDoZWHARo.md#ent-org-harvest-christian-fellowship-t-00-47-18" style="--pulse-height:14%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-YeEtS7nix3o.md#ent-org-harvest-christian-fellowship-t-00-39-58" style="--pulse-height:14%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-harvest-christian-fellowship-t-00-24-35" style="--pulse-height:14%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-wcD2khO3rOA.md#ent-org-harvest-christian-fellowship-t-00-13-35" style="--pulse-height:17%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-harvest-christian-fellowship-t-00-32-44" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 6 mentions" title="2026-01-13 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-I0OaY6Gryqk.md#ent-org-harvest-christian-fellowship-t-00-41-40" style="--pulse-height:33%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 2 mentions" title="2026-03-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-org-harvest-christian-fellowship-t-00-50-33" style="--pulse-height:17%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-SubDoZWHARo.md#ent-org-harvest-christian-fellowship-t-00-47-18" style="--pulse-height:17%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-org-harvest-christian-fellowship-t-00-39-58" style="--pulse-height:17%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 1 mentions" title="2026-06-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-G3zdOeHpvS0.md#ent-org-harvest-christian-fellowship-t-00-24-35" style="--pulse-height:17%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-harvest-christian-fellowship-t-00-13-35) | 1 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-harvest-christian-fellowship-t-00-32-45) | 7 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-harvest-christian-fellowship-t-00-32-44) | 6 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-org-harvest-christian-fellowship-t-00-41-40) | 2 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-harvest-christian-fellowship-t-00-50-33) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-harvest-christian-fellowship-t-00-47-18) | 1 |
@@ -62,7 +62,7 @@ Source: [About Harvest - Harvest Christian Fellowship](https://harvest.church/ab
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (14)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
 
 <details>
 <summary>A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 (1 mentions)</summary>
@@ -108,28 +108,25 @@ Source: [About Harvest - Harvest Christian Fellowship](https://harvest.church/ab
 </details>
 
 <details>
-<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (7 mentions)</summary>
+<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (6 mentions)</summary>
 
-**[00:32:53](/episodes/ep-ZZGWo6oDscc.md#ent-org-harvest-christian-fellowship-t-00-32-45)**
+**[00:32:53](/episodes/ep-ZZGWo6oDscc.md#ent-org-harvest-christian-fellowship-t-00-32-44)**
 > "...e speaking with Greg Laurie's Harvest Church for Turning Point USA's Faith Make Heaven Crowded..."
 
-**[00:33:11](/episodes/ep-ZZGWo6oDscc.md#ent-org-harvest-christian-fellowship-t-00-32-45)**
+**[00:33:10](/episodes/ep-ZZGWo6oDscc.md#ent-org-harvest-christian-fellowship-t-00-32-44)**
 > "they're partnering with the Harvest Church to do this. It says that she is going to be speak..."
 
-**[00:33:22](/episodes/ep-ZZGWo6oDscc.md#ent-org-harvest-christian-fellowship-t-00-32-45)**
+**[00:33:20](/episodes/ep-ZZGWo6oDscc.md#ent-org-harvest-christian-fellowship-t-00-32-44)**
 > "... heard, what is going on with Harvest Church and Greg Laurie?"
 
-**[00:33:32](/episodes/ep-ZZGWo6oDscc.md#ent-org-harvest-christian-fellowship-t-00-33-28)**
+**[00:33:28](/episodes/ep-ZZGWo6oDscc.md#ent-org-harvest-christian-fellowship-t-00-33-28)**
 > "...ber of lawsuits filed against Harvest Christian Fellowship."
 
-**[00:33:54](/episodes/ep-ZZGWo6oDscc.md#ent-org-harvest-christian-fellowship-t-00-33-28)**
+**[00:33:46](/episodes/ep-ZZGWo6oDscc.md#ent-org-harvest-christian-fellowship-t-00-33-28)**
 > "...er pastor and a missionary at Harvest Christian Fellowship in Riverside, California."
 
-**[00:34:40](/episodes/ep-ZZGWo6oDscc.md#ent-org-harvest-christian-fellowship-t-00-34-07)**
+**[00:34:40](/episodes/ep-ZZGWo6oDscc.md#ent-org-harvest-christian-fellowship-t-00-34-40)**
 > "...laim that Greg Laurie and the Harvest Christian Fellowship sent funding to Havsgaard,"
-
-**[00:33:20](/episodes/ep-ZZGWo6oDscc.md#ent-org-harvest-christian-fellowship-t-00-32-45)**
-> "Orange County is Harvest Orange County Church."
 
 </details>
 
@@ -200,7 +197,7 @@ Source: [About Harvest - Harvest Christian Fellowship](https://harvest.church/ab
 - **[Paul Havsgaard](/entities/person-paul-havsgaard.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:34:40](/episodes/ep-ZZGWo6oDscc.md#t-00-34-07): “The court documents claim that Greg Laurie and the Harvest Christian Fellowship sent funding to Havsgaard, which they obviously did send funding to him while he was there, and they were negligent in supervising him while he was there,”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:34:40](/episodes/ep-ZZGWo6oDscc.md#t-00-34-40): “The court documents claim that Greg Laurie and the Harvest Christian Fellowship sent funding to Havsgaard, which they obviously did send funding to him while he was there, and they were negligent in supervising him while he was there,”
 
 </details>
 
@@ -221,12 +218,12 @@ Source: [About Harvest - Harvest Christian Fellowship](https://harvest.church/ab
 </details>
 
 <details>
-<summary>Referenced By (8)</summary>
+<summary>Referenced By (9)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** affiliated with this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:32:53](/episodes/ep-ZZGWo6oDscc.md#t-00-32-45): “which is why she's soon going to be speaking with Greg Laurie's Harvest Church for Turning Point USA's Faith Make Heaven Crowded Tour, okay? I can show you that. I think we have that here on the website so you can see if this is a real thing that's happening. And yeah, they're partnering with the Harvest Church to do this. It says that she is going to be speaking in, is that live streamed in Orange County?”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:32:53](/episodes/ep-ZZGWo6oDscc.md#t-00-32-44): “which is why she's soon going to be speaking with Greg Laurie's Harvest Church for Turning Point USA's Faith Make Heaven Crowded Tour, okay? I can show you that. I think we have that here on the website so you can see if this is a real thing that's happening. And yeah, they're partnering with the Harvest Church to do this. It says that she is going to be speaking in, is that live streamed in Orange County?”
 
 </details>
 
@@ -234,6 +231,13 @@ Source: [About Harvest - Harvest Christian Fellowship](https://harvest.church/ab
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [I’m Back! Russian Collusion & Turning Point Delusion. | Ep 345 @ 00:40:07](/episodes/ep-YeEtS7nix3o.md#t-00-39-58): “Erika immediately going on tour with the church, Harvest Church, Greg Laurie, as somebody that she was very involved with in the faith community”
+
+</details>
+
+- **[Turning Point Faith](/entities/org-turning-point-faith.md)** affiliated with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:32:53](/episodes/ep-ZZGWo6oDscc.md#t-00-32-44): “she's soon going to be speaking with Greg Laurie's Harvest Church for Turning Point USA's Faith Make Heaven Crowded Tour ... they're partnering with the Harvest Church to do this.”
 
 </details>
 
@@ -261,7 +265,7 @@ Source: [About Harvest - Harvest Christian Fellowship](https://harvest.church/ab
 - **[Paul Havsgaard](/entities/person-paul-havsgaard.md)** funded by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:34:40](/episodes/ep-ZZGWo6oDscc.md#t-00-34-07): “The court documents claim that Greg Laurie and the Harvest Christian Fellowship sent funding to Havsgaard, which they obviously did send funding to him while he was there, and they were negligent in supervising him while he was there,”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:34:40](/episodes/ep-ZZGWo6oDscc.md#t-00-34-40): “The court documents claim that Greg Laurie and the Harvest Christian Fellowship sent funding to Havsgaard, which they obviously did send funding to him while he was there, and they were negligent in supervising him while he was there,”
 
 </details>
 
@@ -323,7 +327,7 @@ Source: [About Harvest - Harvest Christian Fellowship](https://harvest.church/ab
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (3)</summary>
 
-- [00:33:28](/episodes/ep-ZZGWo6oDscc.md#t-00-32-45) (Citation) **Candace Owens**: ["There are 12 lawsuits alleging abuse of young men at a Romanian childr..."](/statements/statement-21fc0bb38b00.md)
+- [00:33:28](/episodes/ep-ZZGWo6oDscc.md#t-00-32-44) (Citation) **Candace Owens**: ["There are 12 lawsuits alleging abuse of young men at a Romanian childr..."](/statements/statement-21fc0bb38b00.md)
   - Also about: [Greg Laurie](/entities/person-greg-laurie.md), [Romania](/entities/gpe-romania.md)
 
 - [00:33:47](/episodes/ep-ZZGWo6oDscc.md#t-00-33-28) (Accusation) **Candace Owens** (via paraphrase): ["Lawsuits allege that former Harvest Christian Fellowship pastor and mi..."](/statements/statement-a151346748f0.md)
@@ -337,7 +341,7 @@ Source: [About Harvest - Harvest Christian Fellowship](https://harvest.church/ab
 <details>
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1)</summary>
 
-- [00:13:35](/episodes/ep-wcD2khO3rOA.md#t-00-12-53) (Accusation) **Candace Owens**: ["Turning Point Faith works with Greg Laurie while Harvest Christian Fel..."](/statements/statement-6141210a0ed9.md)
+- [00:13:35](/episodes/ep-wcD2khO3rOA.md#t-00-12-53) (Accusation) **Candace Owens**: ["Turning Point Faith is partnering with Greg Laurie's Harvest Church wh..."](/statements/statement-6141210a0ed9.md)
   - Also about: [Turning Point Faith](/entities/org-turning-point-faith.md), [Greg Laurie](/entities/person-greg-laurie.md), [Romania](/entities/gpe-romania.md)
 
 </details>

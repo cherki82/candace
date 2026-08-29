@@ -58,7 +58,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-26-34" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 17 mentions" title="2026-01-06 · 17 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-tyler-bowyer-t-00-01-21" style="--pulse-height:35%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 6 mentions" title="2026-01-07 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-tyler-bowyer-t-00-06-24" style="--pulse-height:29%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 5 mentions" title="2026-01-09 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-tyler-bowyer-t-00-17-27" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-tyler-bowyer-t-00-17-08" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-tyler-bowyer-t-00-03-31" style="--pulse-height:24%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-tyler-bowyer-t-00-12-50" style="--pulse-height:12%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 2 mentions" title="2026-01-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-tyler-bowyer-t-00-21-29" style="--pulse-height:12%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
@@ -126,7 +126,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-tyler-bowyer-t-00-26-34) | 17 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-tyler-bowyer-t-00-01-21) | 6 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-tyler-bowyer-t-00-06-24) | 5 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-tyler-bowyer-t-00-17-27) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-tyler-bowyer-t-00-17-08) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-tyler-bowyer-t-00-03-31) | 4 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-tyler-bowyer-t-00-12-50) | 2 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-tyler-bowyer-t-00-21-29) | 2 |
@@ -835,7 +835,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:17:32](/episodes/ep-ZZGWo6oDscc.md#ent-person-tyler-bowyer-t-00-17-27)**
+**[00:17:27](/episodes/ep-ZZGWo6oDscc.md#ent-person-tyler-bowyer-t-00-17-08)**
 > "Turning Point Action, headed up by none other than Tyler Boyer."
 
 </details>
@@ -1569,12 +1569,13 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 - **[Turning Point Action](/entities/org-turning-point-action.md)**
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:00:27](/episodes/ep-ozWJz2spBcI.md#t-00-00-00): “Frankly, what happened over the weekend is that their TP Action COO, Tyler Bowyer, went on a little bit of an X binge.”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:45:57](/episodes/ep-1IY2oD-_xVA.md#t-00-45-57): “And they specifically said that the money was missing out of Turning Point Action, which is headed up by Tyler Bowyer.”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:16:51](/episodes/ep-DdPjoy5W-wY.md#t-00-16-51): “At Turning Point Action, we have a ton of jobs posting”
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:17:01](/episodes/ep-7FS1tUeSfdE.md#t-00-16-26): “Now, it's worth noting, I'll say allegedly, but it's worth noting that Turning Point Action is headed up by Tyler Bowyer, and we have already explained to you that they have built that super feed back door, which pays Lori Frantzve.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:17:27](/episodes/ep-ZZGWo6oDscc.md#t-00-17-08): “He left it, split it amongst turning point action, headed up by none other than Tyler Boyer.”
 
 </details>
 
@@ -1686,12 +1687,13 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 </details>
 
 - **[Turning Point Action](/entities/org-turning-point-action.md)** employs this
-<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248 @ 00:00:27](/episodes/ep-ozWJz2spBcI.md#t-00-00-00): “Frankly, what happened over the weekend is that their TP Action COO, Tyler Bowyer, went on a little bit of an X binge.”
 - [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2 @ 00:45:57](/episodes/ep-1IY2oD-_xVA.md#t-00-45-57): “And they specifically said that the money was missing out of Turning Point Action, which is headed up by Tyler Bowyer.”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:16:51](/episodes/ep-DdPjoy5W-wY.md#t-00-16-51): “At Turning Point Action, we have a ton of jobs posting”
 - [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338 @ 00:17:01](/episodes/ep-7FS1tUeSfdE.md#t-00-16-26): “Now, it's worth noting, I'll say allegedly, but it's worth noting that Turning Point Action is headed up by Tyler Bowyer, and we have already explained to you that they have built that super feed back door, which pays Lori Frantzve.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:17:27](/episodes/ep-ZZGWo6oDscc.md#t-00-17-08): “He left it, split it amongst turning point action, headed up by none other than Tyler Boyer.”
 
 </details>
 
@@ -2176,7 +2178,7 @@ Source: [Tyler Bowyer | Turning Point Action](https://www.tpaction.com/bio/tyler
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
 
-- [00:17:00](/episodes/ep-ZZGWo6oDscc.md#t-00-16-43) (Accusation) **Anonymous Source #1 (Ep ZZGWo6oDscc)** (via quoted document): ["Four months before Alton C. Jennings died, his will was changed in Nov..."](/statements/statement-c59ce538da60.md)
+- [00:17:00](/episodes/ep-ZZGWo6oDscc.md#t-00-16-23) (Accusation) **Anonymous Source #1 (Ep ZZGWo6oDscc)** (via quoted document): ["Four months before Alton C. Jennings died, his will was changed in Nov..."](/statements/statement-c59ce538da60.md)
   - Also about: [Alton C. Jennings](/entities/person-alton-c-jennings.md), [Turning Point Action](/entities/org-turning-point-action.md)
 
 </details>

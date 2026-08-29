@@ -27,7 +27,7 @@ veracity: "true"
 ## Source
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
-**Timestamp:** [00:30:58](/episodes/ep-NIEbqsLAK8g.md#t-00-30-28) 
+**Timestamp:** [00:30:58](/episodes/ep-NIEbqsLAK8g.md#t-00-30-27) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1858);return false;">Play</a>
 
 > I decided to create something called Everyday Heroes Like You, where we're able to originally, it was focused on bringing funds and awareness to various grassroots organizations that were in specific communities that would be able to have volunteers that are transparent with their funds that are actually doing what they're saying they're doing instead of just having 70% of the funds go to admin and only. only 30% towards the cause.

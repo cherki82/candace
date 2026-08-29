@@ -14,7 +14,7 @@ date: "1975"
 ## Mentioned In
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
-**Timestamp:** [00:22:43](/episodes/ep-ZZGWo6oDscc.md#event-event-1975-michael-aquino-left-the-church-of-satan--t-00-22-07) 
+**Timestamp:** [00:22:43](/episodes/ep-ZZGWo6oDscc.md#event-event-1975-michael-aquino-left-the-church-of-satan--t-00-22-27) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1363);return false;">▶️ Play</a>
 
 > the governing council of the nine. In 1975, he left to form his own satanic church

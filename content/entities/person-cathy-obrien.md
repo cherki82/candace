@@ -22,8 +22,8 @@ _Type: People_
 Source: [Trance Formation of America | Open Library](https://openlibrary.org/works/OL14935314W/Trance_Formation_of_America)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-cathy-obrien-t-00-51-05">2026-01-14 · 00:51:42</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-cathy-obrien-t-00-51-49">2026-01-14 · 00:51:49</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-cathy-obrien-t-00-51-12">2026-01-14 · 00:51:42</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-cathy-obrien-t-00-51-12">2026-01-14 · 00:51:49</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -34,15 +34,15 @@ Source: [Trance Formation of America | Open Library](https://openlibrary.org/wor
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-cathy-obrien-t-00-51-05">PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-cathy-obrien-t-00-51-12">PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-cathy-obrien-t-00-51-05" style="--pulse-height:100%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-cathy-obrien-t-00-51-12" style="--pulse-height:100%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-cathy-obrien-t-00-51-05) | 2 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-cathy-obrien-t-00-51-12) | 2 |
 
 </details>
 </section>
@@ -55,10 +55,10 @@ Source: [Trance Formation of America | Open Library](https://openlibrary.org/wor
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (2 mentions)</summary>
 
-**[00:51:42](/episodes/ep-BKcOm32ZEGk.md#ent-person-cathy-obrien-t-00-51-05)**
+**[00:51:42](/episodes/ep-BKcOm32ZEGk.md#ent-person-cathy-obrien-t-00-51-12)**
 > "Cathy O'Brien would be a powerful interview."
 
-**[00:51:49](/episodes/ep-BKcOm32ZEGk.md#ent-person-cathy-obrien-t-00-51-49)**
+**[00:51:49](/episodes/ep-BKcOm32ZEGk.md#ent-person-cathy-obrien-t-00-51-12)**
 > "I guess I've heard about Cathy O'Brien. There are so many people that I could speak to. I know about Project Monarch. We've spoken about it on this show."
 
 </details>
@@ -74,7 +74,7 @@ Source: [Trance Formation of America | Open Library](https://openlibrary.org/wor
 - **[Trance Formation of America](/entities/work-trance-formation-of-america.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:51:42](/episodes/ep-BKcOm32ZEGk.md#t-00-51-05): “Cathy O'Brien would be a powerful interview. You have a platform to give her a stronger voice. I just finished her book, Transformation of America.”
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:51:42](/episodes/ep-BKcOm32ZEGk.md#t-00-51-12): “Cathy O'Brien would be a powerful interview. You have a platform to give her a stronger voice. I just finished her book, Transformation of America.”
 
 </details>
 
@@ -86,7 +86,7 @@ Source: [Trance Formation of America | Open Library](https://openlibrary.org/wor
 - **[Trance Formation of America](/entities/work-trance-formation-of-america.md)** authored by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:51:42](/episodes/ep-BKcOm32ZEGk.md#t-00-51-05): “Cathy O'Brien would be a powerful interview. You have a platform to give her a stronger voice. I just finished her book, Transformation of America.”
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:51:42](/episodes/ep-BKcOm32ZEGk.md#t-00-51-12): “Cathy O'Brien would be a powerful interview. You have a platform to give her a stronger voice. I just finished her book, Transformation of America.”
 
 </details>
 

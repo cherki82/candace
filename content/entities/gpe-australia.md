@@ -1,6 +1,6 @@
 ---
 title: "Australia"
-description: "Australia (Places) - 52 mentions"
+description: "Australia (Places) - 51 mentions"
 id: "gpe-australia"
 type: "GPE"
 categories:
@@ -19,8 +19,8 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-australia-t-00-41-28">2025-09-18 · 00:41:45</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-australia-t-00-48-26">2026-06-26 · 00:48:26</a></strong></div>
-<div><span>Episodes</span><strong>25</strong></div>
-<div><span>Mentions</span><strong>52</strong></div>
+<div><span>Episodes</span><strong>26</strong></div>
+<div><span>Mentions</span><strong>51</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -29,33 +29,34 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-australia-t-00-35-49">Myron Gaines x Candace Owens</a> (8 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-australia-t-00-35-49">Myron Gaines x Candace Owens</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-australia-t-00-41-28" style="--pulse-height:12%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 1 mentions" title="2025-09-18 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ozWJz2spBcI.md#ent-gpe-australia-t-01-02-20" style="--pulse-height:38%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 3 mentions" title="2025-10-06 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-5autG89PW6w.md#ent-gpe-australia-t-00-58-31" style="--pulse-height:12%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-australia-t-01-08-45" style="--pulse-height:50%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 4 mentions" title="2025-10-08 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-K1tFD7FfoCU.md#ent-gpe-australia-t-00-44-24" style="--pulse-height:38%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 3 mentions" title="2025-11-03 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-australia-t-00-01-25" style="--pulse-height:12%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-vwG1juDCQZQ.md#ent-gpe-australia-t-00-03-35" style="--pulse-height:25%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 2 mentions" title="2025-11-06 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-australia-t-00-28-16" style="--pulse-height:12%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-australia-t-00-51-26" style="--pulse-height:12%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-australia-t-00-50-57" style="--pulse-height:12%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-australia-t-00-33-09" style="--pulse-height:12%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-australia-t-00-52-20" style="--pulse-height:25%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 2 mentions" title="2026-01-07 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-australia-t-00-35-49" style="--pulse-height:100%" aria-label="Myron Gaines x Candace Owens: 8 mentions" title="2026-01-16 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-australia-t-01-13-44" style="--pulse-height:12%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-australia-t-00-58-54" style="--pulse-height:50%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 4 mentions" title="2026-01-29 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-australia-t-00-34-29" style="--pulse-height:25%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-australia-t-00-20-01" style="--pulse-height:12%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-australia-t-00-26-28" style="--pulse-height:12%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-australia-t-00-16-03" style="--pulse-height:25%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-69A8TzAGHlU.md#ent-gpe-australia-t-01-13-45" style="--pulse-height:12%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-australia-t-00-47-58" style="--pulse-height:25%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 2 mentions" title="2026-05-18 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-australia-t-00-10-11" style="--pulse-height:38%" aria-label="Candace Owens x Ana Kasparian: 3 mentions" title="2026-05-28 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-australia-t-00-32-35" style="--pulse-height:25%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-australia-t-00-53-29" style="--pulse-height:38%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 3 mentions" title="2026-06-24 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-australia-t-00-48-26" style="--pulse-height:12%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-sreYYcID-QY.md#ent-gpe-australia-t-00-41-28" style="--pulse-height:17%" aria-label="EXCLUSIVE! Another Photo Of Tyler Robinson | Candace Ep 238: 1 mentions" title="2025-09-18 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ozWJz2spBcI.md#ent-gpe-australia-t-01-02-20" style="--pulse-height:50%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 3 mentions" title="2025-10-06 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-5autG89PW6w.md#ent-gpe-australia-t-00-58-31" style="--pulse-height:17%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2Riv3I7D0Yk.md#ent-gpe-australia-t-01-08-45" style="--pulse-height:67%" aria-label="Charlie&#x27;s Final Hours. What Else Is Josh Hammer Lying About? | Candace Ep 250: 4 mentions" title="2025-10-08 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-K1tFD7FfoCU.md#ent-gpe-australia-t-00-44-24" style="--pulse-height:50%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 3 mentions" title="2025-11-03 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-australia-t-00-01-25" style="--pulse-height:17%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-vwG1juDCQZQ.md#ent-gpe-australia-t-00-03-35" style="--pulse-height:33%" aria-label="#1 Podcast Worldwide! Plus, Erika Kirk&#x27;s Interview. | Candace Ep 260: 2 mentions" title="2025-11-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-YaZfwLQ7vrI.md#ent-gpe-australia-t-00-28-16" style="--pulse-height:17%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 1 mentions" title="2025-11-10 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-australia-t-00-51-26" style="--pulse-height:17%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-australia-t-00-50-57" style="--pulse-height:17%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-australia-t-00-33-09" style="--pulse-height:17%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-australia-t-00-52-20" style="--pulse-height:33%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 2 mentions" title="2026-01-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-australia-t-00-35-49" style="--pulse-height:100%" aria-label="Myron Gaines x Candace Owens: 6 mentions" title="2026-01-16 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-australia-t-00-22-44" style="--pulse-height:17%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-australia-t-01-13-44" style="--pulse-height:17%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-australia-t-00-58-54" style="--pulse-height:67%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 4 mentions" title="2026-01-29 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-australia-t-00-34-29" style="--pulse-height:33%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-australia-t-00-20-01" style="--pulse-height:17%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-australia-t-00-26-28" style="--pulse-height:17%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-7ERqbYElOfs.md#ent-gpe-australia-t-00-16-03" style="--pulse-height:33%" aria-label="The 33 Club: Freemason Murder Plot EXPOSED! | Candace Ep 318: 2 mentions" title="2026-03-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-69A8TzAGHlU.md#ent-gpe-australia-t-01-13-45" style="--pulse-height:17%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-1QZ4X6q1DPg.md#ent-gpe-australia-t-00-47-58" style="--pulse-height:33%" aria-label="Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340: 2 mentions" title="2026-05-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-SKNJPul29zU.md#ent-gpe-australia-t-00-10-11" style="--pulse-height:50%" aria-label="Candace Owens x Ana Kasparian: 3 mentions" title="2026-05-28 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-YeEtS7nix3o.md#ent-gpe-australia-t-00-32-35" style="--pulse-height:33%" aria-label="I’m Back! Russian Collusion &amp; Turning Point Delusion. | Ep 345: 2 mentions" title="2026-06-09 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-sKuYLNx3iRo.md#ent-gpe-australia-t-00-53-29" style="--pulse-height:50%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 3 mentions" title="2026-06-24 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-IqHsl7d2dos.md#ent-gpe-australia-t-00-48-26" style="--pulse-height:17%" aria-label="TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356: 1 mentions" title="2026-06-26 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -73,7 +74,8 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-australia-t-00-50-57) | 1 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-gpe-australia-t-00-33-09) | 1 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-australia-t-00-52-20) | 2 |
-| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-australia-t-00-35-49) | 8 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-australia-t-00-35-49) | 6 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-australia-t-00-22-44) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-australia-t-01-13-44) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-australia-t-00-58-54) | 4 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-australia-t-00-34-29) | 2 |
@@ -93,7 +95,7 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (52)</strong></summary>
+<summary><strong class="section-title">Raw mentions (51)</strong></summary>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
@@ -225,31 +227,33 @@ Source: [Australia.gov.au](https://www.australia.gov.au/)
 </details>
 
 <details>
-<summary>Myron Gaines x Candace Owens (8 mentions)</summary>
+<summary>Myron Gaines x Candace Owens (6 mentions)</summary>
 
-**[00:35:52](/episodes/ep-2T39-oADLj0.md#ent-gpe-australia-t-00-35-49)**
+**[00:35:49](/episodes/ep-2T39-oADLj0.md#ent-gpe-australia-t-00-35-49)**
 > "you got banned from Australia"
 
 **[00:35:59](/episodes/ep-2T39-oADLj0.md#ent-gpe-australia-t-00-35-59)**
 > "...y got you literally banned in australia even though they represent like two percent of th..."
 
 **[00:36:24](/episodes/ep-2T39-oADLj0.md#ent-gpe-australia-t-00-36-24)**
-> "I was going to tour in Australia and"
-
-**[00:36:27](/episodes/ep-2T39-oADLj0.md#ent-gpe-australia-t-00-36-24)**
 > "...e the Zionist organization of Australia maybe it was ZOA publicly posted this thing this"
 
 **[00:36:37](/episodes/ep-2T39-oADLj0.md#ent-gpe-australia-t-00-36-37)**
 > "...the conservative like side of Australia the Jewish conservatives did also write a letter ..."
 
-**[00:39:40](/episodes/ep-2T39-oADLj0.md#ent-gpe-australia-t-00-39-37)**
-> "But if Australia bans you,"
-
-**[00:39:42](/episodes/ep-2T39-oADLj0.md#ent-gpe-australia-t-00-39-37)**
+**[00:39:37](/episodes/ep-2T39-oADLj0.md#ent-gpe-australia-t-00-39-37)**
 > "...ctually ban me. Tony Burke in Australia banned me and they have some weird reciprocal sys..."
 
 **[00:41:18](/episodes/ep-2T39-oADLj0.md#ent-gpe-australia-t-00-41-18)**
 > "...g to get me fired banned from australia they went after like my family members obviously ..."
+
+</details>
+
+<details>
+<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (1 mentions)</summary>
+
+**[00:22:44](/episodes/ep-X92MllIHDzw.md#ent-gpe-australia-t-00-22-44)**
+> "i'm banned from australia"
 
 </details>
 

@@ -39,7 +39,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 <a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-japan-t-00-00-00" style="--pulse-height:80%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 4 mentions" title="2025-12-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-japan-t-00-55-40" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 5 mentions" title="2026-01-09 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-japan-t-00-11-58" style="--pulse-height:80%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 4 mentions" title="2026-01-12 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-japan-t-00-15-13" style="--pulse-height:40%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-japan-t-00-15-12" style="--pulse-height:40%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-japan-t-00-08-25" style="--pulse-height:20%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-gpe-japan-t-00-26-28" style="--pulse-height:20%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-japan-t-00-20-16" style="--pulse-height:20%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
@@ -54,7 +54,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 | 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-japan-t-00-00-00) | 4 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-japan-t-00-55-40) | 5 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-japan-t-00-11-58) | 4 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-japan-t-00-15-13) | 2 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-japan-t-00-15-12) | 2 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-japan-t-00-08-25) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-gpe-japan-t-00-26-28) | 1 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-gpe-japan-t-00-20-16) | 1 |
@@ -112,10 +112,10 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2 mentions)</summary>
 
-**[00:15:13](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-japan-t-00-15-13)**
+**[00:15:12](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-japan-t-00-15-12)**
 > "... the former prime minister of Japan,"
 
-**[00:20:30](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-japan-t-00-20-15)**
+**[00:20:30](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-japan-t-00-20-30)**
 > "...at tours in vietnam he was in japan korea iraq israel you name it all over the place ..."
 
 </details>

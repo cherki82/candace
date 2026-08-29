@@ -1,6 +1,6 @@
 ---
-title: "The CIA and Mossad are manufacturing a color revolution in I..."
-description: "\"The CIA and Mossad are manufacturing a color revolution in Iran and pretending it is organic.\" — Candace Owens"
+title: "I might actually believe Iran's protests were organic if the..."
+description: "\"I might actually believe Iran's protests were organic if the CIA and Mossad used a new strategy, but I give that only about a 2% chance.\" — Candace Owens"
 statement_id: "statement-7735fd0be3a8"
 speaker: "Candace Owens"
 type: "accusation"
@@ -11,7 +11,7 @@ veracity: "mixed"
 
 ## Statement
 
-> The CIA and Mossad are manufacturing a color revolution in Iran and pretending it is organic.
+> I might actually believe Iran's protests were organic if the CIA and Mossad used a new strategy, but I give that only about a 2% chance.
 
 ## Attribution
 
@@ -29,7 +29,7 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
-**Timestamp:** [00:13:31](/episodes/ep-ZZGWo6oDscc.md#t-00-13-05) 
+**Timestamp:** [00:13:31](/episodes/ep-ZZGWo6oDscc.md#t-00-12-51) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(811);return false;">Play</a>
 
 > And now they're doing their preferred, oh, just in time, a color revolution. They're taking to the streets demanding freedom. Really, CIA and Mossad, if you haven't done this literally in every country, like if you could just do a new strategy, I might actually believe that. I don't even believe that. Like 2% that that's what's happening in that country. It's just, you know, color revolution, pretend it was organic and we're here to rescue them.

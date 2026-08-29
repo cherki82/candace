@@ -38,7 +38,7 @@ _No relationships extracted yet._
 <details>
 <summary>Myron Gaines x Candace Owens (1)</summary>
 
-- [01:03:17](/episodes/ep-2T39-oADLj0.md#t-01-03-01) [✓] (Claim) ["Something military-related was housed on the third floor of the Losey building."](/statements/statement-426165d54ef7.md)
+- [01:03:17](/episodes/ep-2T39-oADLj0.md#t-01-03-01) [✓] (Claim) ["According to Candace Owens's anonymous source, something military-related was in..."](/statements/statement-426165d54ef7.md)
   - About: [United States Armed Forces](/entities/org-united-states-armed-forces.md)
 
 </details>

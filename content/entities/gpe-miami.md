@@ -136,7 +136,7 @@ Source: [City of Miami](https://www.miami.gov/Home)
 **[00:22:53](/episodes/ep-2T39-oADLj0.md#ent-gpe-miami-t-00-22-23)**
 > "you're living Miami"
 
-**[00:27:32](/episodes/ep-2T39-oADLj0.md#ent-gpe-miami-t-00-27-07)**
+**[00:27:29](/episodes/ep-2T39-oADLj0.md#ent-gpe-miami-t-00-27-07)**
 > "...se I remember you had been in Miami for a bit and then I think you might have went ba..."
 
 </details>

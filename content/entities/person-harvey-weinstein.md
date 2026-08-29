@@ -21,7 +21,7 @@ _Type: People_
 Source: [Harvey Weinstein | Biography | Britannica](https://www.britannica.com/biography/Harvey-Weinstein)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-person-harvey-weinstein-t-00-20-19">2026-01-16 · 00:20:54</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-person-harvey-weinstein-t-00-20-19">2026-01-16 · 00:20:49</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-harvey-weinstein-t-00-44-12">2026-05-05 · 00:44:46</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>7</strong></div>
@@ -74,7 +74,7 @@ Source: [Harvey Weinstein | Biography | Britannica](https://www.britannica.com/b
 <details>
 <summary>Myron Gaines x Candace Owens (5 mentions)</summary>
 
-**[00:20:54](/episodes/ep-2T39-oADLj0.md#ent-person-harvey-weinstein-t-00-20-19)**
+**[00:20:49](/episodes/ep-2T39-oADLj0.md#ent-person-harvey-weinstein-t-00-20-19)**
 > "He was working with Weinstein. He had some notorious fight with Harvey Weinstein right before Harvey went down."
 
 **[00:21:02](/episodes/ep-2T39-oADLj0.md#ent-person-harvey-weinstein-t-00-21-02)**
@@ -83,7 +83,7 @@ Source: [Harvey Weinstein | Biography | Britannica](https://www.britannica.com/b
 **[00:49:15](/episodes/ep-2T39-oADLj0.md#ent-person-harvey-weinstein-t-00-49-15)**
 > "...out, I guess, real quick with Harvey Weinstein, what had you what got you interested in like get..."
 
-**[00:49:22](/episodes/ep-2T39-oADLj0.md#ent-person-harvey-weinstein-t-00-49-21)**
+**[00:49:21](/episodes/ep-2T39-oADLj0.md#ent-person-harvey-weinstein-t-00-49-21)**
 > "I started working on the Harvey Weinstein documentary when I was at The Daily Wire,"
 
 **[00:49:38](/episodes/ep-2T39-oADLj0.md#ent-person-harvey-weinstein-t-00-49-38)**

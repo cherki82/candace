@@ -21,7 +21,7 @@ _Type: Organizations_
 Source: [The Rise of Antisemitism in Christian and Conservative Circles | Cornerstone Chapel](https://cornerstonechapel.net/teaching/20260121/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-cornerstone-chapel-t-00-34-33">2026-01-19 · 00:34:36</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-cornerstone-chapel-t-00-34-18">2026-01-19 · 00:34:36</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-cornerstone-chapel-t-00-35-58">2026-01-19 · 00:35:58</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
@@ -33,15 +33,15 @@ Source: [The Rise of Antisemitism in Christian and Conservative Circles | Corner
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-cornerstone-chapel-t-00-34-33">A Legal Turning Point? | Candace Ep 292</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-cornerstone-chapel-t-00-34-18">A Legal Turning Point? | Candace Ep 292</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-cornerstone-chapel-t-00-34-33" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 4 mentions" title="2026-01-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-cornerstone-chapel-t-00-34-18" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 4 mentions" title="2026-01-19 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-cornerstone-chapel-t-00-34-33) | 4 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-cornerstone-chapel-t-00-34-18) | 4 |
 
 </details>
 </section>
@@ -54,10 +54,10 @@ Source: [The Rise of Antisemitism in Christian and Conservative Circles | Corner
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (4 mentions)</summary>
 
-**[00:34:36](/episodes/ep-NIEbqsLAK8g.md#ent-org-cornerstone-chapel-t-00-34-33)**
+**[00:34:36](/episodes/ep-NIEbqsLAK8g.md#ent-org-cornerstone-chapel-t-00-34-18)**
 > "I thought maybe we're going to leave that behind 2025. No, especially not when it comes to the Cornerstone Church. Remember, that was the church."
 
-**[00:34:51](/episodes/ep-NIEbqsLAK8g.md#ent-org-cornerstone-chapel-t-00-34-33)**
+**[00:34:51](/episodes/ep-NIEbqsLAK8g.md#ent-org-cornerstone-chapel-t-00-34-18)**
 > "...been refreshed. And this time Cornerstone Church different location is also going to have a featur..."
 
 **[00:35:02](/episodes/ep-NIEbqsLAK8g.md#ent-org-cornerstone-chapel-t-00-35-01)**

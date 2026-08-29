@@ -1,6 +1,6 @@
 ---
 title: "The Berenstain Bears"
-description: "The Berenstain Bears (Works & Media) - 1 mention"
+description: "The Berenstain Bears (Works & Media) - 2 mentions"
 id: "work-the-berenstain-bears"
 type: "WORK"
 aliases:
@@ -22,10 +22,10 @@ _Type: Works & Media_
 Source: [About The Berenstain Bears](https://berenstainbears.com/about/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-work-the-berenstain-bears-t-00-09-12">2026-01-14 · 00:09:26</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-work-the-berenstain-bears-t-00-09-12">2026-01-14 · 00:09:26</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-work-the-berenstain-bears-t-00-09-05">2026-01-14 · 00:09:23</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-work-the-berenstain-bears-t-00-09-05">2026-01-14 · 00:09:30</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>1</strong></div>
+<div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -34,15 +34,15 @@ Source: [About The Berenstain Bears](https://berenstainbears.com/about/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-BKcOm32ZEGk.md#ent-work-the-berenstain-bears-t-00-09-12">PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-BKcOm32ZEGk.md#ent-work-the-berenstain-bears-t-00-09-05">PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-work-the-berenstain-bears-t-00-09-12" style="--pulse-height:100%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-work-the-berenstain-bears-t-00-09-05" style="--pulse-height:100%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-work-the-berenstain-bears-t-00-09-12) | 1 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-work-the-berenstain-bears-t-00-09-05) | 2 |
 
 </details>
 </section>
@@ -50,13 +50,16 @@ Source: [About The Berenstain Bears](https://berenstainbears.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2)</strong></summary>
 
 <details>
-<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (2 mentions)</summary>
 
-**[00:09:26](/episodes/ep-BKcOm32ZEGk.md#ent-work-the-berenstain-bears-t-00-09-12)**
-> "The most famous, the Berenstain Bears."
+**[00:09:23](/episodes/ep-BKcOm32ZEGk.md#ent-work-the-berenstain-bears-t-00-09-05)**
+> "The most famous, the Berenstain Bears. Millions remember it as Berenstein with an E."
+
+**[00:09:30](/episodes/ep-BKcOm32ZEGk.md#ent-work-the-berenstain-bears-t-00-09-05)**
+> "Remember, it is Berenstein with an E, but every book says Berenstain with an A, and that is just the beginning."
 
 </details>
 

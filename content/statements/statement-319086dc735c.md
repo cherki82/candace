@@ -29,7 +29,7 @@ type: "opinion"
 ## Source
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
-**Timestamp:** [00:05:37](/episodes/ep-ZZGWo6oDscc.md#t-00-05-37) 
+**Timestamp:** [00:05:37](/episodes/ep-ZZGWo6oDscc.md#t-00-05-34) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(337);return false;">Play</a>
 
 > But what have we learned when it comes to wars, and especially wars in the Middle East? What you draw up on a whiteboard rarely happens. What you think theoretically is going to occur, there might be unintended and unforeseen consequences,

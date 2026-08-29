@@ -37,7 +37,7 @@ Source: [Dr. Peter A. McCullough - Official Website](https://petermcculloughmd.c
 <p>Highest activity: <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-peter-mccullough-t-00-29-53">You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-peter-mccullough-t-00-29-53" style="--pulse-height:100%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-peter-mccullough-t-00-30-47" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-peter-mccullough-t-00-31-02" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-peter-mccullough-t-00-20-39" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-peter-mccullough-t-00-25-23" style="--pulse-height:100%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 1 mentions" title="2026-04-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-peter-mccullough-t-00-42-14" style="--pulse-height:100%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
@@ -53,7 +53,7 @@ Source: [Dr. Peter A. McCullough - Official Website](https://petermcculloughmd.c
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-peter-mccullough-t-00-29-53) | 1 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-peter-mccullough-t-00-30-47) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-peter-mccullough-t-00-31-02) | 1 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-peter-mccullough-t-00-20-39) | 1 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-peter-mccullough-t-00-25-23) | 1 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-peter-mccullough-t-00-42-14) | 1 |
@@ -147,7 +147,7 @@ Source: [Dr. Peter A. McCullough - Official Website](https://petermcculloughmd.c
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:31:17](/episodes/ep-ZZGWo6oDscc.md#ent-person-peter-mccullough-t-00-30-47)**
+**[00:31:17](/episodes/ep-ZZGWo6oDscc.md#ent-person-peter-mccullough-t-00-31-02)**
 > "Peter McCullough, who's the chief scientific officer over at the W..."
 
 </details>
@@ -171,7 +171,7 @@ Source: [Dr. Peter A. McCullough - Official Website](https://petermcculloughmd.c
 - **[The Wellness Company](/entities/org-the-wellness-company.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:31:11](/episodes/ep-ZZGWo6oDscc.md#t-00-30-47): “They have admitted that millions of Americans suffer from parasitic infections that often go undetected or undiagnosed, which is why Dr. Peter McCullough, who's the chief scientific officer over at the Wellness Company and the world's most published cardiologist, says,”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:31:11](/episodes/ep-ZZGWo6oDscc.md#t-00-31-02): “They have admitted that millions of Americans suffer from parasitic infections that often go undetected or undiagnosed, which is why Dr. Peter McCullough, who's the chief scientific officer over at the Wellness Company and the world's most published cardiologist, says,”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:20:39](/episodes/ep-gG4ZoYUjUc8.md#t-00-19-55): “Peter McCullough, Chief Scientific Officer at the Wellness Company and the world's most popular Most published cardiologists says that these studies make a clear case to do at least one medical-grade parasite cleanse annually.”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:29:53](/episodes/ep-OEAHy3SsIiI.md#t-00-29-53): “This is why Dr. Peter McCullough, the chief scientific officer over at the wellness company and the world's most published cardiologist, says, quote, these studies make a clear case to do at least one medical grade parasite cleanse annually, end quote.”
 
@@ -185,7 +185,7 @@ Source: [Dr. Peter A. McCullough - Official Website](https://petermcculloughmd.c
 - **[The Wellness Company](/entities/org-the-wellness-company.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:31:11](/episodes/ep-ZZGWo6oDscc.md#t-00-30-47): “They have admitted that millions of Americans suffer from parasitic infections that often go undetected or undiagnosed, which is why Dr. Peter McCullough, who's the chief scientific officer over at the Wellness Company and the world's most published cardiologist, says,”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:31:11](/episodes/ep-ZZGWo6oDscc.md#t-00-31-02): “They have admitted that millions of Americans suffer from parasitic infections that often go undetected or undiagnosed, which is why Dr. Peter McCullough, who's the chief scientific officer over at the Wellness Company and the world's most published cardiologist, says,”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:20:39](/episodes/ep-gG4ZoYUjUc8.md#t-00-19-55): “Peter McCullough, Chief Scientific Officer at the Wellness Company and the world's most popular Most published cardiologists says that these studies make a clear case to do at least one medical-grade parasite cleanse annually.”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:29:53](/episodes/ep-OEAHy3SsIiI.md#t-00-29-53): “This is why Dr. Peter McCullough, the chief scientific officer over at the wellness company and the world's most published cardiologist, says, quote, these studies make a clear case to do at least one medical grade parasite cleanse annually, end quote.”
 
@@ -201,7 +201,7 @@ Source: [Dr. Peter A. McCullough - Official Website](https://petermcculloughmd.c
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
 
-- [00:31:17](/episodes/ep-ZZGWo6oDscc.md#t-00-30-47) [✓] (Opinion) ["The studies make a clear case to do at least one medical-grade parasite cleanse ..."](/statements/statement-7c76b5f74fc7.md)
+- [00:31:17](/episodes/ep-ZZGWo6oDscc.md#t-00-31-02) [✓] (Opinion) ["The studies make a clear case to do at least one medical-grade parasite cleanse ..."](/statements/statement-7c76b5f74fc7.md)
   - About: [Peter A. McCullough](/entities/person-peter-mccullough.md), [The Wellness Company](/entities/org-the-wellness-company.md)
 
 </details>
@@ -214,7 +214,7 @@ Source: [Dr. Peter A. McCullough - Official Website](https://petermcculloughmd.c
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
 
-- [00:31:17](/episodes/ep-ZZGWo6oDscc.md#t-00-30-47) (Opinion) **Peter A. McCullough** (via quoted document): ["The studies make a clear case to do at least one medical-grade parasit..."](/statements/statement-7c76b5f74fc7.md)
+- [00:31:17](/episodes/ep-ZZGWo6oDscc.md#t-00-31-02) (Opinion) **Peter A. McCullough** (via quoted document): ["The studies make a clear case to do at least one medical-grade parasit..."](/statements/statement-7c76b5f74fc7.md)
   - Also about: [The Wellness Company](/entities/org-the-wellness-company.md)
 
 </details>

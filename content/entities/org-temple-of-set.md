@@ -1,6 +1,6 @@
 ---
 title: "Temple of Set"
-description: "Temple of Set (Organizations) - 9 mentions"
+description: "Temple of Set (Organizations) - 10 mentions"
 id: "org-temple-of-set"
 type: "ORG"
 aliases:
@@ -21,10 +21,10 @@ _Type: Organizations_
 Source: [Michael A. Aquino | Xeper.org](https://www.xeper.org/maquino/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-temple-of-set-t-00-22-52">2026-01-13 · 00:23:27</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-temple-of-set-t-00-22-52">2026-01-13 · 00:23:20</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-SubDoZWHARo.md#ent-org-temple-of-set-t-00-48-35">2026-04-15 · 00:48:56</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>9</strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>10</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -36,6 +36,7 @@ Source: [Michael A. Aquino | Xeper.org](https://www.xeper.org/maquino/)
 <p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-temple-of-set-t-00-22-52">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-temple-of-set-t-00-22-52" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 4 mentions" title="2026-01-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-org-temple-of-set-t-00-15-34" style="--pulse-height:25%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-temple-of-set-t-01-40-02" style="--pulse-height:75%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-org-temple-of-set-t-00-48-35" style="--pulse-height:50%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 2 mentions" title="2026-04-15 · 2 mentions"><span></span></a>
 </div>
@@ -44,6 +45,7 @@ Source: [Michael A. Aquino | Xeper.org](https://www.xeper.org/maquino/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-temple-of-set-t-00-22-52) | 4 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-temple-of-set-t-00-15-34) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-temple-of-set-t-01-40-02) | 3 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-temple-of-set-t-00-48-35) | 2 |
 
@@ -53,7 +55,7 @@ Source: [Michael A. Aquino | Xeper.org](https://www.xeper.org/maquino/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (9)</strong></summary>
+<summary><strong class="section-title">Raw mentions (10)</strong></summary>
 
 <details>
 <summary>Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 (2 mentions)</summary>
@@ -81,15 +83,23 @@ Source: [Michael A. Aquino | Xeper.org](https://www.xeper.org/maquino/)
 </details>
 
 <details>
+<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (1 mentions)</summary>
+
+**[00:15:54](/episodes/ep-X92MllIHDzw.md#ent-org-temple-of-set-t-00-15-34)**
+> "started his own kind of church of satan called the temple of set"
+
+</details>
+
+<details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (4 mentions)</summary>
 
-**[00:23:27](/episodes/ep-ZZGWo6oDscc.md#ent-org-temple-of-set-t-00-22-52)**
+**[00:23:20](/episodes/ep-ZZGWo6oDscc.md#ent-org-temple-of-set-t-00-22-52)**
 > "... were when he established the Temple of Set. Take a listen."
 
 **[00:23:54](/episodes/ep-ZZGWo6oDscc.md#ent-org-temple-of-set-t-00-23-54)**
 > "The Temple of Set uh"
 
-**[00:25:03](/episodes/ep-ZZGWo6oDscc.md#ent-org-temple-of-set-t-00-24-39)**
+**[00:25:03](/episodes/ep-ZZGWo6oDscc.md#ent-org-temple-of-set-t-00-24-38)**
 > "So the Temple of Set exists to explore the self,"
 
 **[00:25:18](/episodes/ep-ZZGWo6oDscc.md#ent-org-temple-of-set-t-00-25-18)**
@@ -154,10 +164,10 @@ Source: [Michael A. Aquino | Xeper.org](https://www.xeper.org/maquino/)
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2)</summary>
 
-- [00:22:22](/episodes/ep-ZZGWo6oDscc.md#t-00-22-07) (Claim) **Candace Owens**: ["Michael Aquino joined the Church of Satan in 1969, became editor of Th..."](/statements/statement-d9193d15f876.md)
+- [00:22:22](/episodes/ep-ZZGWo6oDscc.md#t-00-21-58) (Claim) **Candace Owens**: ["Michael Aquino joined the Church of Satan in 1969, became editor of Th..."](/statements/statement-d9193d15f876.md)
   - Also about: [Michael Aquino](/entities/person-michael-aquino.md), [Church of Satan](/entities/org-church-of-satan.md), [The Cloven Hoof](/entities/work-the-cloven-hoof.md)
 
-- [00:25:03](/episodes/ep-ZZGWo6oDscc.md#t-00-24-39) (Opinion) **Michael Aquino** (via quoted speech): ["The Temple of Set exists to explore the self and personality through a..."](/statements/statement-6d7072175f2f.md)
+- [00:25:03](/episodes/ep-ZZGWo6oDscc.md#t-00-24-38) (Opinion) **Michael Aquino** (via quoted speech): ["The Temple of Set exists to explore the self and personality through a..."](/statements/statement-6d7072175f2f.md)
   - Also about: [Michael Aquino](/entities/person-michael-aquino.md), [Egypt](/entities/gpe-egypt.md)
 
 </details>

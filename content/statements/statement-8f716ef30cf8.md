@@ -1,6 +1,6 @@
 ---
-title: "The U.S. military runs mind wars, and military-operated inte..."
-description: "\"The U.S. military runs mind wars, and military-operated internet farms and bots push support for war.\" — Candace Owens"
+title: "The U.S. military runs mind wars, and Candace Owens suggeste..."
+description: "\"The U.S. military runs mind wars, and Candace Owens suggested military-run internet farms and bots push support for war.\" — Candace Owens"
 statement_id: "statement-8f716ef30cf8"
 speaker: "Candace Owens"
 type: "accusation"
@@ -11,7 +11,7 @@ veracity: "mixed"
 
 ## Statement
 
-> The U.S. military runs mind wars, and military-operated internet farms and bots push support for war.
+> The U.S. military runs mind wars, and Candace Owens suggested military-run internet farms and bots push support for war.
 
 ## Attribution
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
-**Timestamp:** [00:20:07](/episodes/ep-ZZGWo6oDscc.md#t-00-19-30) 
+**Timestamp:** [00:20:07](/episodes/ep-ZZGWo6oDscc.md#t-00-19-47) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1207);return false;">Play</a>
 
 > Can we just take a second to appreciate that our military is literally running mind wars, mind wars. And that's what he did. Our military is engaged in them. ... that's what these farms are all about i i actually kind of subscribe to the dead internet theory especially when i'm an x i'm like this is this is obviously run by the military i've never seen the bots say we shouldn't go to war ever and yet when i speak to people nobody wants to go to war

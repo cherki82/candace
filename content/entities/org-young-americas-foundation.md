@@ -23,7 +23,7 @@ Source: [About Us - Young America's Foundation](https://yaf.org/about-us/)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-r1PS67aRmcA.md#ent-org-young-americas-foundation-t-00-16-00">2025-11-08 · 00:16:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-young-americas-foundation-t-00-14-32">2026-01-13 · 00:14:58</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-young-americas-foundation-t-00-14-42">2026-01-13 · 00:14:58</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -38,7 +38,7 @@ Source: [About Us - Young America's Foundation](https://yaf.org/about-us/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-org-young-americas-foundation-t-00-16-00" style="--pulse-height:100%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 3 mentions" title="2025-11-08 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-young-americas-foundation-t-00-17-44" style="--pulse-height:33%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-young-americas-foundation-t-00-14-32" style="--pulse-height:33%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-young-americas-foundation-t-00-14-42" style="--pulse-height:33%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,7 +46,7 @@ Source: [About Us - Young America's Foundation](https://yaf.org/about-us/)
 |---|---|---:|
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-org-young-americas-foundation-t-00-16-00) | 3 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-young-americas-foundation-t-00-17-44) | 1 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-young-americas-foundation-t-00-14-32) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-young-americas-foundation-t-00-14-42) | 1 |
 
 </details>
 </section>
@@ -59,7 +59,7 @@ Source: [About Us - Young America's Foundation](https://yaf.org/about-us/)
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:14:58](/episodes/ep-ZZGWo6oDscc.md#ent-org-young-americas-foundation-t-00-14-32)**
+**[00:14:58](/episodes/ep-ZZGWo6oDscc.md#ent-org-young-americas-foundation-t-00-14-42)**
 > "...against Turning Point USA and YAF with exactly the inclinations that I had undersco..."
 
 </details>

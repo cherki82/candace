@@ -22,7 +22,7 @@ Source: [Turning Point USA Begins New Year With Renamed Headquarters Following 0
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-X92MllIHDzw.md#t-00-20-05">2026-01-16 · 00:20:33</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-karl-buckman-t-00-12-40">2026-01-19 · 00:12:44</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-karl-buckman-t-00-12-12">2026-01-19 · 00:12:44</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -36,14 +36,14 @@ Source: [Turning Point USA Begins New Year With Renamed Headquarters Following 0
 <p>Highest activity: <a href="/episodes/ep-X92MllIHDzw.md#t-00-20-05">OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-X92MllIHDzw.md#t-00-20-05" style="--pulse-height:100%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-karl-buckman-t-00-12-40" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-karl-buckman-t-00-12-12" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#t-00-20-05) | 1 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-karl-buckman-t-00-12-40) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-karl-buckman-t-00-12-12) | 1 |
 
 </details>
 </section>
@@ -56,7 +56,7 @@ Source: [Turning Point USA Begins New Year With Renamed Headquarters Following 0
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
 
-**[00:12:44](/episodes/ep-NIEbqsLAK8g.md#ent-person-karl-buckman-t-00-12-40)**
+**[00:12:44](/episodes/ep-NIEbqsLAK8g.md#ent-person-karl-buckman-t-00-12-12)**
 > "Nelda and Karl Buckman, they live there,"
 
 </details>
@@ -80,8 +80,8 @@ Source: [Turning Point USA Begins New Year With Renamed Headquarters Following 0
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:20:29](/episodes/ep-X92MllIHDzw.md#t-00-20-05): “large donation from the couple,”
-- [A Legal Turning Point? | Candace Ep 292 @ 00:12:34](/episodes/ep-NIEbqsLAK8g.md#t-00-11-56): “because Turning Point's number one donor who last year in June. Cut a check for $10 million, the couple, Nelda and Karl Buckman, they live there,”
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:20:29](/episodes/ep-X92MllIHDzw.md#t-00-20-05): “it was widely reported at the beginning of this year. So we're not really breaking any stories here at the Turning Point headquarters. I believe the one in Florida, the Florida campus was going to be renamed the Buckman campus because of the donation, large donation from the couple, largest ever in Turning Point. turning points history, which came from Karl and his wife, Nelda Buckman. Okay.”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:12:34](/episodes/ep-NIEbqsLAK8g.md#t-00-12-12): “because Turning Point's number one donor who last year in June. Cut a check for $10 million, the couple, Nelda and Karl Buckman, they live there,”
 
 </details>
 
@@ -93,7 +93,7 @@ Source: [Turning Point USA Begins New Year With Renamed Headquarters Following 0
 - **[New Braunfels](/entities/gpe-new-braunfels-texas.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [A Legal Turning Point? | Candace Ep 292 @ 00:12:40](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40): “the couple, Nelda and Karl Buckman, they live there”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:12:40](/episodes/ep-NIEbqsLAK8g.md#t-00-12-12): “the couple, Nelda and Karl Buckman, they live there”
 
 </details>
 
@@ -106,7 +106,7 @@ Source: [Turning Point USA Begins New Year With Renamed Headquarters Following 0
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:20:33](/episodes/ep-X92MllIHDzw.md#t-00-20-05): “which came from Karl and his wife, Nelda Buckman.”
-- [A Legal Turning Point? | Candace Ep 292 @ 00:12:34](/episodes/ep-NIEbqsLAK8g.md#t-00-11-56): “because Turning Point's number one donor who last year in June. Cut a check for $10 million, the couple, Nelda and Karl Buckman, they live there,”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:12:34](/episodes/ep-NIEbqsLAK8g.md#t-00-12-12): “because Turning Point's number one donor who last year in June. Cut a check for $10 million, the couple, Nelda and Karl Buckman, they live there,”
 
 </details>
 
@@ -118,15 +118,15 @@ Source: [Turning Point USA Begins New Year With Renamed Headquarters Following 0
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** funded by this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:20:29](/episodes/ep-X92MllIHDzw.md#t-00-20-05): “large donation from the couple,”
-- [A Legal Turning Point? | Candace Ep 292 @ 00:12:34](/episodes/ep-NIEbqsLAK8g.md#t-00-11-56): “because Turning Point's number one donor who last year in June. Cut a check for $10 million, the couple, Nelda and Karl Buckman, they live there,”
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:20:29](/episodes/ep-X92MllIHDzw.md#t-00-20-05): “it was widely reported at the beginning of this year. So we're not really breaking any stories here at the Turning Point headquarters. I believe the one in Florida, the Florida campus was going to be renamed the Buckman campus because of the donation, large donation from the couple, largest ever in Turning Point. turning points history, which came from Karl and his wife, Nelda Buckman. Okay.”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:12:34](/episodes/ep-NIEbqsLAK8g.md#t-00-12-12): “because Turning Point's number one donor who last year in June. Cut a check for $10 million, the couple, Nelda and Karl Buckman, they live there,”
 
 </details>
 
 - **[New Braunfels](/entities/gpe-new-braunfels-texas.md)** residence of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [A Legal Turning Point? | Candace Ep 292 @ 00:12:40](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40): “the couple, Nelda and Karl Buckman, they live there”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:12:40](/episodes/ep-NIEbqsLAK8g.md#t-00-12-12): “the couple, Nelda and Karl Buckman, they live there”
 
 </details>
 
@@ -140,7 +140,7 @@ Source: [Turning Point USA Begins New Year With Renamed Headquarters Following 0
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1)</summary>
 
-- [00:12:34](/episodes/ep-NIEbqsLAK8g.md#t-00-11-56) (Claim) **Candace Owens**: ["Nelda and Karl Buckman, who live in New Braunfels, donated $10 million..."](/statements/statement-8b0459b08316.md)
+- [00:12:34](/episodes/ep-NIEbqsLAK8g.md#t-00-12-12) (Claim) **Candace Owens**: ["Nelda and Karl Buckman, who live in New Braunfels, donated $10 million..."](/statements/statement-8b0459b08316.md)
   - Also about: [Nelda Yaw Buckman](/entities/person-nelda-yaw-buckman.md), [Turning Point USA](/entities/org-turning-point-usa.md), [New Braunfels](/entities/gpe-new-braunfels-texas.md)
 
 </details>

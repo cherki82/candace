@@ -29,7 +29,7 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
-**Timestamp:** [00:13:09](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40) 
+**Timestamp:** [00:13:09](/episodes/ep-NIEbqsLAK8g.md#t-00-12-53) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(789);return false;">Play</a>
 
 > We know that for a fact because one of his high school buddies after the assassination posted this. Bro, the head of Charlie Kirk's security team, the guy they say is in on it was my friend as a kid. We grew up together. I went to middle and high school with Dan Flood. Matter of fact, last time I saw him. He was doing security for some Dallas billionaire at the Cattleman's Ball. What a crazy small world. Yeah, this dude has been in private security for at least 20 years. I had no idea he was running it for TPUSA.

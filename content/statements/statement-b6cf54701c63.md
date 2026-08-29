@@ -28,7 +28,7 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
-**Timestamp:** [00:37:04](/episodes/ep-ZZGWo6oDscc.md#t-00-36-53) 
+**Timestamp:** [00:37:04](/episodes/ep-ZZGWo6oDscc.md#t-00-36-29) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2224);return false;">Play</a>
 
 > I am kind of concerned why all of these pastors who seem to be rehabilitating pedophiles are welcomed.

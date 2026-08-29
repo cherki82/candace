@@ -1,6 +1,6 @@
 ---
 title: "Jeffrey Epstein"
-description: "Jeffrey Epstein (People) - 448 mentions"
+description: "Jeffrey Epstein (People) - 457 mentions"
 id: "person-jeffrey-epstein"
 type: "PERSON"
 aliases:
@@ -24,7 +24,7 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jeffrey-epstein-t-00-28-54">2025-09-15 · 00:29:05</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-person-jeffrey-epstein-t-00-46-32">2026-08-11 · 00:46:32</a></strong></div>
 <div><span>Episodes</span><strong>92</strong></div>
-<div><span>Mentions</span><strong>448</strong></div>
+<div><span>Mentions</span><strong>457</strong></div>
 <div><span>Statements by</span><strong>2</strong></div>
 <div><span>Statements about</span><strong>117</strong></div>
 <div><span>Relationships</span><strong>44</strong></div>
@@ -64,10 +64,10 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-jeffrey-epstein-t-00-21-09" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-jeffrey-epstein-t-00-34-01" style="--pulse-height:12%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-jeffrey-epstein-t-00-37-15" style="--pulse-height:12%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-jeffrey-epstein-t-00-25-58" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-jeffrey-epstein-t-00-53-58" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-X92MllIHDzw.md#ent-person-jeffrey-epstein-t-00-29-22" style="--pulse-height:15%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-person-jeffrey-epstein-t-00-22-57" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-jeffrey-epstein-t-00-26-31" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-jeffrey-epstein-t-00-54-36" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-person-jeffrey-epstein-t-00-29-22" style="--pulse-height:19%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 5 mentions" title="2026-01-16 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-person-jeffrey-epstein-t-00-22-57" style="--pulse-height:38%" aria-label="Myron Gaines x Candace Owens: 10 mentions" title="2026-01-16 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-jeffrey-epstein-t-00-24-17" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-jeffrey-epstein-t-00-02-05" style="--pulse-height:12%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-jeffrey-epstein-t-01-28-44" style="--pulse-height:12%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
@@ -161,10 +161,10 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-jeffrey-epstein-t-00-21-09) | 2 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-jeffrey-epstein-t-00-34-01) | 3 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-jeffrey-epstein-t-00-37-15) | 3 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-jeffrey-epstein-t-00-25-58) | 2 |
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-jeffrey-epstein-t-00-53-58) | 1 |
-| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-jeffrey-epstein-t-00-29-22) | 4 |
-| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-jeffrey-epstein-t-00-22-57) | 2 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-jeffrey-epstein-t-00-26-31) | 2 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-jeffrey-epstein-t-00-54-36) | 1 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-jeffrey-epstein-t-00-29-22) | 5 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-jeffrey-epstein-t-00-22-57) | 10 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-jeffrey-epstein-t-00-24-17) | 1 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-jeffrey-epstein-t-00-02-05) | 3 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-jeffrey-epstein-t-01-28-44) | 3 |
@@ -231,7 +231,7 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (448)</strong></summary>
+<summary><strong class="section-title">Raw mentions (457)</strong></summary>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (3 mentions)</summary>
@@ -1564,7 +1564,7 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 </details>
 
 <details>
-<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (4 mentions)</summary>
+<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (5 mentions)</summary>
 
 **[00:29:48](/episodes/ep-X92MllIHDzw.md#ent-person-jeffrey-epstein-t-00-29-22)**
 > "I'm getting a sense and we know how Jeffrey Epstein also gave to schools or he donated to schools, he donated a lot of money actually,"
@@ -1578,23 +1578,50 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 **[00:36:58](/episodes/ep-X92MllIHDzw.md#ent-person-jeffrey-epstein-t-00-36-58)**
 > "No one's arguing about Jeffrey Epstein's perverted interest,"
 
+**[00:37:53](/episodes/ep-X92MllIHDzw.md#ent-person-jeffrey-epstein-t-00-37-15)**
+> "the issue is that Epstein is a Jewish spy."
+
 </details>
 
 <details>
-<summary>Myron Gaines x Candace Owens (2 mentions)</summary>
+<summary>Myron Gaines x Candace Owens (10 mentions)</summary>
 
 **[00:22:57](/episodes/ep-2T39-oADLj0.md#ent-person-jeffrey-epstein-t-00-22-57)**
 > "...at he was at a party once and Jeffrey Epstein was very clearly running."
 
-**[00:50:37](/episodes/ep-2T39-oADLj0.md#ent-person-jeffrey-epstein-t-00-50-02)**
+**[00:50:35](/episodes/ep-2T39-oADLj0.md#ent-person-jeffrey-epstein-t-00-50-02)**
 > "...out this argument he had with Jeffrey Epstein that I learned about."
+
+**[00:20:06](/episodes/ep-2T39-oADLj0.md#ent-person-jeffrey-epstein-t-00-20-06)**
+> "Yeah. The Epstein thing for me is like automatic flunk if you don't..."
+
+**[00:20:19](/episodes/ep-2T39-oADLj0.md#ent-person-jeffrey-epstein-t-00-20-19)**
+> "... because you have to remember Epstein and I did a partial series, a miniseries on what ..."
+
+**[00:22:10](/episodes/ep-2T39-oADLj0.md#ent-person-jeffrey-epstein-t-00-22-01)**
+> "...t Trump when it comes to this Epstein thing."
+
+**[00:22:23](/episodes/ep-2T39-oADLj0.md#ent-person-jeffrey-epstein-t-00-22-23)**
+> "...itially. balked on discussing Epstein and Pam Bondi did the whole crazy bit I was told ..."
+
+**[00:23:15](/episodes/ep-2T39-oADLj0.md#ent-person-jeffrey-epstein-t-00-22-57)**
+> "...nk that whatever they have on Epstein with Trump and Epstein is going to implicate Trum..."
+
+**[00:23:44](/episodes/ep-2T39-oADLj0.md#ent-person-jeffrey-epstein-t-00-23-44)**
+> "...e they obviously have all the epstein stuff he that he was he was their blackmail guy, ..."
+
+**[00:24:25](/episodes/ep-2T39-oADLj0.md#ent-person-jeffrey-epstein-t-00-24-25)**
+> "...ith you being at a party that epstein was at and finding out that whatever it is that t..."
+
+**[00:27:07](/episodes/ep-2T39-oADLj0.md#ent-person-jeffrey-epstein-t-00-27-07)**
+> "...king about Miriam Adelson and Epstein and everything else like that."
 
 </details>
 
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
 
-**[00:54:38](/episodes/ep-BKcOm32ZEGk.md#ent-person-jeffrey-epstein-t-00-53-58)**
+**[00:54:38](/episodes/ep-BKcOm32ZEGk.md#ent-person-jeffrey-epstein-t-00-54-36)**
 > "in relation to Epstein"
 
 </details>
@@ -1602,10 +1629,10 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2 mentions)</summary>
 
-**[00:26:31](/episodes/ep-ZZGWo6oDscc.md#ent-person-jeffrey-epstein-t-00-25-58)**
+**[00:26:31](/episodes/ep-ZZGWo6oDscc.md#ent-person-jeffrey-epstein-t-00-26-31)**
 > "...Brigitte, we're talking about Jeffrey Epstein,"
 
-**[00:49:50](/episodes/ep-ZZGWo6oDscc.md#ent-person-jeffrey-epstein-t-00-49-46)**
+**[00:49:40](/episodes/ep-ZZGWo6oDscc.md#ent-person-jeffrey-epstein-t-00-49-40)**
 > "...cts their own. They protected Jeffrey Epstein. If Andrew Tate and Tristan Tate were working for..."
 
 </details>
@@ -2888,7 +2915,7 @@ Source: [Jeffrey Epstein Charged in Manhattan Federal Court - DOJ](https://www.j
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
 
-- [00:49:42](/episodes/ep-ZZGWo6oDscc.md#t-00-49-04) (Accusation) **Candace Owens**: ["The government protects its own and protected Jeffrey Epstein; if Andr..."](/statements/statement-3b563919285d.md)
+- [00:49:42](/episodes/ep-ZZGWo6oDscc.md#t-00-49-40) (Accusation) **Candace Owens**: ["The government protects its own and protected Jeffrey Epstein; if Andr..."](/statements/statement-3b563919285d.md)
   - Also about: [Andrew Tate](/entities/person-andrew-tate.md), [Tristan Tate](/entities/person-tristan-tate.md), [United States](/entities/gpe-united-states.md)
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "CHAOS: Charles Manson, the CIA, and the Secret History of the Sixties"
-description: "CHAOS: Charles Manson, the CIA, and the Secret History of the Sixties (Works & Media) - 7 mentions"
+description: "CHAOS: Charles Manson, the CIA, and the Secret History of the Sixties (Works & Media) - 8 mentions"
 id: "work-chaos-charles-manson-cia-secret-history"
 type: "WORK"
 aliases:
@@ -28,10 +28,10 @@ _Type: Works & Media_
 Source: [Chaos by Tom O’Neill & Dan Piepenbring | Hachette Book Group](https://www.hachettebookgroup.com/titles/tom-oneill/chaos/9780316477543/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-chaos-charles-manson-cia-secret-history-t-00-21-21">2026-01-13 · 00:21:57</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-chaos-charles-manson-cia-secret-history-t-00-21-15">2026-01-13 · 00:21:48</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-work-chaos-charles-manson-cia-secret-history-t-01-18-00">2026-05-21 · 01:18:00</a></strong></div>
 <div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -40,9 +40,9 @@ Source: [Chaos by Tom O’Neill & Dan Piepenbring | Hachette Book Group](https:/
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-Ux1kzgQxkws.md#ent-work-chaos-charles-manson-cia-secret-history-t-01-17-49">Candace x Hunter Biden: The Interview</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-chaos-charles-manson-cia-secret-history-t-00-21-15">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-chaos-charles-manson-cia-secret-history-t-00-21-21" style="--pulse-height:50%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-chaos-charles-manson-cia-secret-history-t-00-21-15" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-work-chaos-charles-manson-cia-secret-history-t-00-52-21" style="--pulse-height:50%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-work-chaos-charles-manson-cia-secret-history-t-00-23-34" style="--pulse-height:50%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-work-chaos-charles-manson-cia-secret-history-t-00-01-48" style="--pulse-height:50%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
@@ -53,7 +53,7 @@ Source: [Chaos by Tom O’Neill & Dan Piepenbring | Hachette Book Group](https:/
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-work-chaos-charles-manson-cia-secret-history-t-00-21-21) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-work-chaos-charles-manson-cia-secret-history-t-00-21-15) | 2 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-work-chaos-charles-manson-cia-secret-history-t-00-52-21) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-work-chaos-charles-manson-cia-secret-history-t-00-23-34) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-work-chaos-charles-manson-cia-secret-history-t-00-01-48) | 1 |
@@ -66,7 +66,7 @@ Source: [Chaos by Tom O’Neill & Dan Piepenbring | Hachette Book Group](https:/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (7)</strong></summary>
+<summary><strong class="section-title">Raw mentions (8)</strong></summary>
 
 <details>
 <summary>Candace x Hunter Biden: The Interview (2 mentions)</summary>
@@ -112,10 +112,13 @@ Source: [Chaos by Tom O’Neill & Dan Piepenbring | Hachette Book Group](https:/
 </details>
 
 <details>
-<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
+<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2 mentions)</summary>
 
-**[00:21:57](/episodes/ep-ZZGWo6oDscc.md#ent-work-chaos-charles-manson-cia-secret-history-t-00-21-21)**
+**[00:21:48](/episodes/ep-ZZGWo6oDscc.md#ent-work-chaos-charles-manson-cia-secret-history-t-00-21-15)**
 > "we've been reading chaos."
+
+**[00:22:08](/episodes/ep-ZZGWo6oDscc.md#ent-work-chaos-charles-manson-cia-secret-history-t-00-21-58)**
+> "Speaking of the book Chaos, when the military was just spiking the ball, psy..."
 
 </details>
 
@@ -134,7 +137,7 @@ _No relationships extracted yet._
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
 
-- [00:22:05](/episodes/ep-ZZGWo6oDscc.md#t-00-21-21) (Accusation) **Candace Owens**: ["The moon landing and the Manson murders were military operations."](/statements/statement-ea198cc13b65.md)
+- [00:22:05](/episodes/ep-ZZGWo6oDscc.md#t-00-21-58) (Accusation) **Candace Owens**: ["The moon landing and the Manson murders were military operations."](/statements/statement-ea198cc13b65.md)
   - Also about: [United States Armed Forces](/entities/org-united-states-armed-forces.md), [Psychological operations](/entities/concept-psychological-operations.md)
 
 </details>

@@ -38,7 +38,7 @@ _No relationships extracted yet._
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
 
-- [00:36:06](/episodes/ep-ZZGWo6oDscc.md#t-00-35-31) [○] (Accusation) ["At overseas military bases, female recruiters posing as casting directors find y..."](/statements/statement-4add20828ffc.md)
+- [00:36:06](/episodes/ep-ZZGWo6oDscc.md#t-00-35-48) [○] (Accusation) ["At overseas military bases, female recruiters posing as casting directors find y..."](/statements/statement-4add20828ffc.md)
   - About: [United States Armed Forces](/entities/org-united-states-armed-forces.md), [Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md)
 
 </details>

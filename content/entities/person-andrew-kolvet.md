@@ -67,9 +67,9 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-andrew-kolvet-t-00-14-53" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 3 mentions" title="2026-01-06 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-andrew-kolvet-t-00-07-06" style="--pulse-height:14%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 6 mentions" title="2026-01-09 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-07-03" style="--pulse-height:33%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 14 mentions" title="2026-01-12 · 14 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-andrew-kolvet-t-00-32-45" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-andrew-kolvet-t-00-32-44" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-andrew-kolvet-t-00-02-09" style="--pulse-height:16%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 7 mentions" title="2026-01-16 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-andrew-kolvet-t-00-00-42" style="--pulse-height:12%" aria-label="A Legal Turning Point? | Candace Ep 292: 5 mentions" title="2026-01-19 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-andrew-kolvet-t-00-00-33" style="--pulse-height:12%" aria-label="A Legal Turning Point? | Candace Ep 292: 5 mentions" title="2026-01-19 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-andrew-kolvet-t-00-01-32" style="--pulse-height:49%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 21 mentions" title="2026-01-20 · 21 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-andrew-kolvet-t-00-11-21" style="--pulse-height:16%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 7 mentions" title="2026-01-21 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-andrew-kolvet-t-00-07-10" style="--pulse-height:9%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 4 mentions" title="2026-01-22 · 4 mentions"><span></span></a>
@@ -191,9 +191,9 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-andrew-kolvet-t-00-14-53) | 3 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-andrew-kolvet-t-00-07-06) | 6 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-andrew-kolvet-t-00-07-03) | 14 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-andrew-kolvet-t-00-32-45) | 3 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-andrew-kolvet-t-00-32-44) | 3 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-andrew-kolvet-t-00-02-09) | 7 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-andrew-kolvet-t-00-00-42) | 5 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-andrew-kolvet-t-00-00-33) | 5 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-andrew-kolvet-t-00-01-32) | 21 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-andrew-kolvet-t-00-11-21) | 7 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-andrew-kolvet-t-00-07-10) | 4 |
@@ -2513,19 +2513,19 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (5 mentions)</summary>
 
-**[00:00:46](/episodes/ep-NIEbqsLAK8g.md#ent-person-andrew-kolvet-t-00-00-42)**
+**[00:00:46](/episodes/ep-NIEbqsLAK8g.md#ent-person-andrew-kolvet-t-00-00-33)**
 > "I assume that this means that Andrew Kolvet is still heading up the PR department because it's a disaster."
 
-**[00:23:27](/episodes/ep-NIEbqsLAK8g.md#ent-person-andrew-kolvet-t-00-00-42)**
+**[00:23:27](/episodes/ep-NIEbqsLAK8g.md#ent-person-andrew-kolvet-t-00-00-33)**
 > "Andrew."
 
-**[00:24:57](/episodes/ep-NIEbqsLAK8g.md#ent-person-andrew-kolvet-t-00-24-18)**
+**[00:24:57](/episodes/ep-NIEbqsLAK8g.md#ent-person-andrew-kolvet-t-00-24-56)**
 > "Andrew Kolvet came out,"
 
-**[00:27:11](/episodes/ep-NIEbqsLAK8g.md#ent-person-andrew-kolvet-t-00-24-18)**
+**[00:27:11](/episodes/ep-NIEbqsLAK8g.md#ent-person-andrew-kolvet-t-00-24-56)**
 > "...'s lawyer is going to dispute Andrew and the worst person that PR money could buy,"
 
-**[00:29:00](/episodes/ep-NIEbqsLAK8g.md#ent-person-andrew-kolvet-t-00-24-18)**
+**[00:29:00](/episodes/ep-NIEbqsLAK8g.md#ent-person-andrew-kolvet-t-00-24-56)**
 > "...old by paramount tactical and andrew that was just the wide shot that frank saw now we..."
 
 </details>
@@ -2559,13 +2559,13 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (3 mentions)</summary>
 
-**[00:32:45](/episodes/ep-ZZGWo6oDscc.md#ent-person-andrew-kolvet-t-00-32-45)**
+**[00:32:44](/episodes/ep-ZZGWo6oDscc.md#ent-person-andrew-kolvet-t-00-32-44)**
 > "because she's got Andrew Kolvet as your PR."
 
-**[00:37:56](/episodes/ep-ZZGWo6oDscc.md#ent-person-andrew-kolvet-t-00-32-45)**
-> "I'm definitely I think more capable of an Andrew Colbett at this and I will tell you to just stop doing that."
+**[00:37:56](/episodes/ep-ZZGWo6oDscc.md#ent-person-andrew-kolvet-t-00-37-43)**
+> "I'm definitely I think more capable of an Andrew Kolvet at this and I will tell you to just stop doing that."
 
-**[00:49:50](/episodes/ep-ZZGWo6oDscc.md#ent-person-andrew-kolvet-t-00-32-45)**
+**[00:49:40](/episodes/ep-ZZGWo6oDscc.md#ent-person-andrew-kolvet-t-00-37-43)**
 > "...protected Jeffrey Epstein. If Andrew Tate and Tristan Tate were working for the govern..."
 
 </details>
@@ -4596,7 +4596,7 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1)</summary>
 
-- [00:26:33](/episodes/ep-NIEbqsLAK8g.md#t-00-26-32) [○] (Claim) ["The crowd images shown to Charlie Kirk came from an elevated walkway or bridge a..."](/statements/statement-b223ebe949ad.md)
+- [00:26:33](/episodes/ep-NIEbqsLAK8g.md#t-00-26-30) [○] (Claim) ["The crowd images shown to Charlie Kirk came from an elevated walkway or bridge a..."](/statements/statement-b223ebe949ad.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
 </details>
@@ -5498,10 +5498,10 @@ Source: [TPUSA All American Halftime Show announcement](https://tpusa.com/live/t
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (2)</summary>
 
-- [00:26:33](/episodes/ep-NIEbqsLAK8g.md#t-00-26-32) (Claim) **Andrew Kolvet**: ["The crowd images shown to Charlie Kirk came from an elevated walkway o..."](/statements/statement-b223ebe949ad.md)
+- [00:26:33](/episodes/ep-NIEbqsLAK8g.md#t-00-26-30) (Claim) **Andrew Kolvet**: ["The crowd images shown to Charlie Kirk came from an elevated walkway o..."](/statements/statement-b223ebe949ad.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:29:45](/episodes/ep-NIEbqsLAK8g.md#t-00-29-00) (Accusation) **Candace Owens**: ["Turning Point USA and its security representatives are lying about the..."](/statements/statement-73e35afd8842.md)
+- [00:29:45](/episodes/ep-NIEbqsLAK8g.md#t-00-29-42) (Accusation) **Candace Owens**: ["Turning Point USA and its security representatives are lying about the..."](/statements/statement-73e35afd8842.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Brian Harpole](/entities/person-brian-harpole.md), [Paramount Tactical Solutions](/entities/org-paramount-tactical-solutions.md)
 
 </details>

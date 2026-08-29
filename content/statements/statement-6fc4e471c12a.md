@@ -28,7 +28,7 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
-**Timestamp:** [00:02:28](/episodes/ep-NIEbqsLAK8g.md#t-00-02-06) 
+**Timestamp:** [00:02:28](/episodes/ep-NIEbqsLAK8g.md#t-00-01-54) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(148);return false;">Play</a>
 
 > He even said that Golda Meir, the one-time prime minister of Israel, well, her and Lyndon Baines, he said, are brother and sister, and he knows this for a fact. Now.

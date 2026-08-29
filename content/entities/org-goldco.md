@@ -220,7 +220,7 @@ Source: [About Goldco](https://goldco.com/about/)
 - **[Candace Owens](/entities/person-candace-owens.md)** worked with this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:33:13](/episodes/ep-X92MllIHDzw.md#t-00-32-47): “That's why I have partnered with a great precious metals company,”
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:33:13](/episodes/ep-X92MllIHDzw.md#t-00-32-47): “That's why I have partnered with a great precious metals company, Goldco. They have helped tens of thousands of Americans protect their money with gold and silver.”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:31:23](/episodes/ep-i8m_6D4QGmk.md#t-00-30-59): “That's why I want you to reach out to my partners over at GoldCo. They are the number one gold and silver company in the country.”
 
 </details>

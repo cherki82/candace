@@ -1,6 +1,6 @@
 ---
 title: "Baron Coleman"
-description: "Baron Coleman (People) - 151 mentions"
+description: "Baron Coleman (People) - 145 mentions"
 id: "person-baron-coleman"
 type: "PERSON"
 aliases:
@@ -24,7 +24,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-es7PWdFGoFI.md#ent-person-baron-coleman-t-01-03-51">2025-12-16 · 00:14:12</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#t-00-28-04">2026-08-21 · 00:28:11</a></strong></div>
 <div><span>Episodes</span><strong>44</strong></div>
-<div><span>Mentions</span><strong>151</strong></div>
+<div><span>Mentions</span><strong>145</strong></div>
 <div><span>Statements by</span><strong>28</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>9</strong></div>
@@ -39,7 +39,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-person-baron-coleman-t-00-33-54" style="--pulse-height:21%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 4 mentions" title="2025-12-17 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-baron-coleman-t-01-00-51" style="--pulse-height:11%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-baron-coleman-t-00-18-37" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-baron-coleman-t-00-37-13" style="--pulse-height:53%" aria-label="A Legal Turning Point? | Candace Ep 292: 10 mentions" title="2026-01-19 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-baron-coleman-t-00-37-13" style="--pulse-height:21%" aria-label="A Legal Turning Point? | Candace Ep 292: 4 mentions" title="2026-01-19 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-baron-coleman-t-00-00-00" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 19 mentions" title="2026-01-20 · 19 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-baron-coleman-t-00-58-41" style="--pulse-height:11%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 2 mentions" title="2026-01-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-baron-coleman-t-00-41-07" style="--pulse-height:8%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
@@ -88,7 +88,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-baron-coleman-t-00-33-54) | 4 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-baron-coleman-t-01-00-51) | 2 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-baron-coleman-t-00-18-37) | 1 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-baron-coleman-t-00-37-13) | 10 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-baron-coleman-t-00-37-13) | 4 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-baron-coleman-t-00-00-00) | 19 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-baron-coleman-t-00-58-41) | 2 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-baron-coleman-t-00-41-07) | 1 |
@@ -135,7 +135,7 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (151)</strong></summary>
+<summary><strong class="section-title">Raw mentions (145)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -720,37 +720,19 @@ Source: [Apple Podcasts — Real Baron Podcast](https://podcasts.apple.com/us/po
 </details>
 
 <details>
-<summary>A Legal Turning Point? | Candace Ep 292 (10 mentions)</summary>
+<summary>A Legal Turning Point? | Candace Ep 292 (4 mentions)</summary>
 
 **[00:37:30](/episodes/ep-NIEbqsLAK8g.md#ent-person-baron-coleman-t-00-37-13)**
 > "My guest is going to be Baron Coleman."
 
-**[00:03:44](/episodes/ep-NIEbqsLAK8g.md#ent-person-baron-coleman-t-00-03-33)**
-> "colloquially the Cattle Baron's Ball,"
-
-**[00:04:26](/episodes/ep-NIEbqsLAK8g.md#ent-person-baron-coleman-t-00-04-16)**
-> "...should be known as the Cattle Baron's Ball down in Dallas,"
-
-**[00:05:03](/episodes/ep-NIEbqsLAK8g.md#ent-person-baron-coleman-t-00-04-16)**
-> "...so once hosted its own cattle barons ball that might be relevant."
-
-**[00:05:09](/episodes/ep-NIEbqsLAK8g.md#ent-person-baron-coleman-t-00-04-16)**
-> "...ey eventually from the cattle barons ball minted their own separate 501c3 referred to ..."
-
-**[00:13:43](/episodes/ep-NIEbqsLAK8g.md#ent-person-baron-coleman-t-00-04-16)**
-> "... mention the should-be cattle barons ball in Texas where he ran into him, who were the..."
-
-**[00:40:06](/episodes/ep-NIEbqsLAK8g.md#ent-person-baron-coleman-t-00-40-06)**
+**[00:40:06](/episodes/ep-NIEbqsLAK8g.md#ent-person-baron-coleman-t-00-40-00)**
 > "...hat chat light up when I said Baron Coleman and me were coming together."
 
-**[00:47:21](/episodes/ep-NIEbqsLAK8g.md#ent-person-baron-coleman-t-00-46-55)**
+**[00:47:21](/episodes/ep-NIEbqsLAK8g.md#ent-person-baron-coleman-t-00-47-18)**
 > "...andy caddy lastly writes when baron is on please play a video clip and"
 
-**[00:47:27](/episodes/ep-NIEbqsLAK8g.md#ent-person-baron-coleman-t-00-46-55)**
+**[00:47:27](/episodes/ep-NIEbqsLAK8g.md#ent-person-baron-coleman-t-00-47-18)**
 > "...f you guys have not seen that baron coleman lost his cool on joe a commenter on his show"
-
-**[00:47:30](/episodes/ep-NIEbqsLAK8g.md#ent-person-baron-coleman-t-00-47-30)**
-> "...d you guys have not seen that baron coleman lost his cool on joe a commenter on his show"
 
 </details>
 

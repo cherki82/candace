@@ -17,8 +17,8 @@ _Type: Works & Media_
 Source: [Scott Adams, whose comic strip Dilbert ridiculed white-collar office life, dies at 68 | AP](https://apnews.com/article/ccddff117f962854cb70d973c3075544)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-dilbert-t-00-37-38">2026-01-13 · 00:38:15</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-dilbert-t-00-37-38">2026-01-13 · 00:38:15</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-dilbert-t-00-37-43">2026-01-13 · 00:38:10</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-dilbert-t-00-37-43">2026-01-13 · 00:38:10</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -29,15 +29,15 @@ Source: [Scott Adams, whose comic strip Dilbert ridiculed white-collar office li
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-dilbert-t-00-37-38">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-dilbert-t-00-37-43">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-dilbert-t-00-37-38" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-dilbert-t-00-37-43" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-work-dilbert-t-00-37-38) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-work-dilbert-t-00-37-43) | 1 |
 
 </details>
 </section>
@@ -50,7 +50,7 @@ Source: [Scott Adams, whose comic strip Dilbert ridiculed white-collar office li
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:38:15](/episodes/ep-ZZGWo6oDscc.md#ent-work-dilbert-t-00-37-38)**
+**[00:38:10](/episodes/ep-ZZGWo6oDscc.md#ent-work-dilbert-t-00-37-43)**
 > "the creator of Dilbert,"
 
 </details>
@@ -66,7 +66,7 @@ Source: [Scott Adams, whose comic strip Dilbert ridiculed white-collar office li
 - **[Scott Adams](/entities/person-scott-adams.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:38:10](/episodes/ep-ZZGWo6oDscc.md#t-00-37-38): “Anyways, before we get into some of your comments, I do want to acknowledge the fact that Scott Adams, the creator of Dilbert, died 68.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:38:10](/episodes/ep-ZZGWo6oDscc.md#t-00-37-43): “Anyways, before we get into some of your comments, I do want to acknowledge the fact that Scott Adams, the creator of Dilbert, died at 68.”
 
 </details>
 
@@ -78,7 +78,7 @@ Source: [Scott Adams, whose comic strip Dilbert ridiculed white-collar office li
 - **[Scott Adams](/entities/person-scott-adams.md)** authored this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:38:10](/episodes/ep-ZZGWo6oDscc.md#t-00-37-38): “Anyways, before we get into some of your comments, I do want to acknowledge the fact that Scott Adams, the creator of Dilbert, died 68.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:38:10](/episodes/ep-ZZGWo6oDscc.md#t-00-37-43): “Anyways, before we get into some of your comments, I do want to acknowledge the fact that Scott Adams, the creator of Dilbert, died at 68.”
 
 </details>
 
@@ -92,7 +92,7 @@ Source: [Scott Adams, whose comic strip Dilbert ridiculed white-collar office li
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
 
-- [00:38:10](/episodes/ep-ZZGWo6oDscc.md#t-00-37-38) (Claim) **Candace Owens**: ["Dilbert creator Scott Adams died at age 68 after losing his battle wit..."](/statements/statement-32fdd954d048.md)
+- [00:38:10](/episodes/ep-ZZGWo6oDscc.md#t-00-37-43) (Claim) **Candace Owens**: ["Dilbert creator Scott Adams died at age 68 after losing his battle wit..."](/statements/statement-32fdd954d048.md)
   - Also about: [Scott Adams](/entities/person-scott-adams.md)
 
 </details>

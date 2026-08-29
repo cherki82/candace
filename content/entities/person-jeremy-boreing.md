@@ -27,7 +27,7 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <div><span>Mentions</span><strong>82</strong></div>
 <div><span>Statements by</span><strong>15</strong></div>
 <div><span>Statements about</span><strong>31</strong></div>
-<div><span>Relationships</span><strong>35</strong></div>
+<div><span>Relationships</span><strong>37</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -456,6 +456,18 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
+<summary>Appeared With (1)</summary>
+
+- **[Nick Fuentes](/entities/person-nick-fuentes.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:43:25](/episodes/ep-2T39-oADLj0.md#t-00-43-14): “twitter audio or x audio space that he did with jeremy boring who at that time was the ceo of daily wire and i heard the backstory i was like this is insane like what happened to him nobody can look at that backstory of what happened to him and not realize that it was just evil”
+
+</details>
+
+</details>
+
+<details>
 <summary>Criticized (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
@@ -520,10 +532,11 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <summary>Former Ceo Of (1)</summary>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:18:22](/episodes/ep-eLgD5yUVbko.md#t-00-18-22): “coincidences adding up here okay first and foremost i have told you i have proven to you many times over that charlie hated ben everybody knows that uh even Jeremy Boreing when he won his like candace tour uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on pierce morgan that's the former ceo of daily wire erica knew this andrew colvet knew this and as i've said to you after i was fired from a daily wire And yet beginning of 2024,”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:14:48](/episodes/ep-zSKrxIUMNqw.md#t-00-14-48): “That was another reason that was expressed by then CEO Jeremy (Jeremy Boreing) in the company-wide town slave hanging that was hosted because for some utterly deranged reason that seemed to be an appropriate way to punish me in front of my peers.”
+- [Myron Gaines x Candace Owens @ 00:43:25](/episodes/ep-2T39-oADLj0.md#t-00-43-14): “twitter audio or x audio space that he did with jeremy boring who at that time was the ceo of daily wire and i heard the backstory i was like this is insane like what happened to him nobody can look at that backstory of what happened to him and not realize that it was just evil”
 
 </details>
 
@@ -642,7 +655,7 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 <details>
-<summary>Referenced By (16)</summary>
+<summary>Referenced By (17)</summary>
 
 - **[Charlie Kirk](/entities/person-charlie-kirk.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -655,6 +668,13 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:31:48](/episodes/ep-k1b1NDCrNFs.md#t-00-31-28): “But the lie persists. In recent weeks, public records and documents have surfaced alleging that Candace's husband, George Farmer, was arrested in Nashville in August 2023 for DUI and leaving the scene of an accident.”
+
+</details>
+
+- **[Nick Fuentes](/entities/person-nick-fuentes.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:43:25](/episodes/ep-2T39-oADLj0.md#t-00-43-14): “twitter audio or x audio space that he did with jeremy boring who at that time was the ceo of daily wire and i heard the backstory i was like this is insane like what happened to him nobody can look at that backstory of what happened to him and not realize that it was just evil”
 
 </details>
 
@@ -744,10 +764,11 @@ Source: [About | The Daily Wire](https://www.dailywire.com/about)
 </details>
 
 - **[The Daily Wire](/entities/org-the-daily-wire.md)** has former CEO this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:18:22](/episodes/ep-eLgD5yUVbko.md#t-00-18-22): “coincidences adding up here okay first and foremost i have told you i have proven to you many times over that charlie hated ben everybody knows that uh even Jeremy Boreing when he won his like candace tour uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on pierce morgan that's the former ceo of daily wire erica knew this andrew colvet knew this and as i've said to you after i was fired from a daily wire And yet beginning of 2024,”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:14:48](/episodes/ep-zSKrxIUMNqw.md#t-00-14-48): “That was another reason that was expressed by then CEO Jeremy (Jeremy Boreing) in the company-wide town slave hanging that was hosted because for some utterly deranged reason that seemed to be an appropriate way to punish me in front of my peers.”
+- [Myron Gaines x Candace Owens @ 00:43:25](/episodes/ep-2T39-oADLj0.md#t-00-43-14): “twitter audio or x audio space that he did with jeremy boring who at that time was the ceo of daily wire and i heard the backstory i was like this is insane like what happened to him nobody can look at that backstory of what happened to him and not realize that it was just evil”
 
 </details>
 

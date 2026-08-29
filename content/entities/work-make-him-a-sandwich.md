@@ -1,6 +1,6 @@
 ---
 title: "Make Him a Sandwich"
-description: "Make Him a Sandwich (Works & Media) - 84 mentions"
+description: "Make Him a Sandwich (Works & Media) - 85 mentions"
 id: "work-make-him-a-sandwich"
 type: "WORK"
 aliases:
@@ -26,8 +26,8 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-work-make-him-a-sandwich-t-00-49-29">2025-10-27 · 00:49:41</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-work-make-him-a-sandwich-t-01-08-55">2026-08-21 · 01:09:05</a></strong></div>
-<div><span>Episodes</span><strong>53</strong></div>
-<div><span>Mentions</span><strong>84</strong></div>
+<div><span>Episodes</span><strong>54</strong></div>
+<div><span>Mentions</span><strong>85</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -63,7 +63,8 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-work-make-him-a-sandwich-t-00-56-00" style="--pulse-height:25%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-work-make-him-a-sandwich-t-01-16-51" style="--pulse-height:25%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-work-make-him-a-sandwich-t-00-46-31" style="--pulse-height:25%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-make-him-a-sandwich-t-00-41-33" style="--pulse-height:25%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-make-him-a-sandwich-t-00-41-30" style="--pulse-height:25%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-work-make-him-a-sandwich-t-00-48-11" style="--pulse-height:25%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-work-make-him-a-sandwich-t-00-51-13" style="--pulse-height:25%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-work-make-him-a-sandwich-t-00-06-01" style="--pulse-height:25%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-work-make-him-a-sandwich-t-00-24-46" style="--pulse-height:25%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
@@ -121,7 +122,8 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-work-make-him-a-sandwich-t-00-56-00) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-work-make-him-a-sandwich-t-01-16-51) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-work-make-him-a-sandwich-t-00-46-31) | 1 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-work-make-him-a-sandwich-t-00-41-33) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-work-make-him-a-sandwich-t-00-41-30) | 1 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-work-make-him-a-sandwich-t-00-48-11) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-work-make-him-a-sandwich-t-00-51-13) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-work-make-him-a-sandwich-t-00-06-01) | 1 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-work-make-him-a-sandwich-t-00-24-46) | 1 |
@@ -156,7 +158,7 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (84)</strong></summary>
+<summary><strong class="section-title">Raw mentions (85)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -402,9 +404,17 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 </details>
 
 <details>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
+
+**[00:48:11](/episodes/ep-BKcOm32ZEGk.md#ent-work-make-him-a-sandwich-t-00-48-11)**
+> "...vailable on the shop as well. Make him a sandwich and blackout, both hand signed by me."
+
+</details>
+
+<details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:41:50](/episodes/ep-ZZGWo6oDscc.md#ent-work-make-him-a-sandwich-t-00-41-33)**
+**[00:41:47](/episodes/ep-ZZGWo6oDscc.md#ent-work-make-him-a-sandwich-t-00-41-30)**
 > "Make Him a Sandwich and Blackout."
 
 </details>
@@ -677,7 +687,7 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (16)</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-33): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-30): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:51:49](/episodes/ep-X92MllIHDzw.md#t-00-51-13): “the hard copy autographed bundle, both of my books, Make Him a Sandwich and Blackout.”
 - [Myron Gaines x Candace Owens @ 00:06:01](/episodes/ep-2T39-oADLj0.md#t-00-05-45): “In your book, Make Them a Sandwich.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:25:25](/episodes/ep-GY6GWceEqtQ.md#t-00-24-46): “If you guys have my book, Make Him a Sandwich, I have a whole chapter on Taylor Swift just documenting the things that she does.”
@@ -704,7 +714,7 @@ Source: [Make Him A Sandwich & Blackout Signed Bundle | Shop Candace](https://sh
 - **[Candace Owens](/entities/person-candace-owens.md)** authored this
 <details class="relationship-evidence"><summary>Show all evidence (16)</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-33): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-30): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:51:49](/episodes/ep-X92MllIHDzw.md#t-00-51-13): “the hard copy autographed bundle, both of my books, Make Him a Sandwich and Blackout.”
 - [Myron Gaines x Candace Owens @ 00:06:01](/episodes/ep-2T39-oADLj0.md#t-00-05-45): “In your book, Make Them a Sandwich.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:25:25](/episodes/ep-GY6GWceEqtQ.md#t-00-24-46): “If you guys have my book, Make Him a Sandwich, I have a whole chapter on Taylor Swift just documenting the things that she does.”

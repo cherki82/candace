@@ -33,10 +33,10 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-greg-laurie-t-00-32-45">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (6 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-greg-laurie-t-00-32-44">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-greg-laurie-t-00-13-35" style="--pulse-height:33%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-greg-laurie-t-00-32-45" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 6 mentions" title="2026-01-13 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-greg-laurie-t-00-32-44" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 6 mentions" title="2026-01-13 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-greg-laurie-t-00-14-50" style="--pulse-height:17%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-person-greg-laurie-t-00-50-33" style="--pulse-height:17%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 1 mentions" title="2026-04-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-person-greg-laurie-t-00-47-18" style="--pulse-height:17%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
@@ -49,7 +49,7 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-greg-laurie-t-00-13-35) | 2 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-greg-laurie-t-00-32-45) | 6 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-greg-laurie-t-00-32-44) | 6 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-greg-laurie-t-00-14-50) | 1 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-person-greg-laurie-t-00-50-33) | 1 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-greg-laurie-t-00-47-18) | 1 |
@@ -131,22 +131,22 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (6 mentions)</summary>
 
-**[00:32:53](/episodes/ep-ZZGWo6oDscc.md#ent-person-greg-laurie-t-00-32-45)**
+**[00:32:53](/episodes/ep-ZZGWo6oDscc.md#ent-person-greg-laurie-t-00-32-44)**
 > "...oon going to be speaking with Greg Laurie's Harvest Church for Turning Point USA's Faith Make..."
 
-**[00:33:22](/episodes/ep-ZZGWo6oDscc.md#ent-person-greg-laurie-t-00-32-45)**
+**[00:33:20](/episodes/ep-ZZGWo6oDscc.md#ent-person-greg-laurie-t-00-32-44)**
 > "...ng on with Harvest Church and Greg Laurie?"
 
 **[00:33:28](/episodes/ep-ZZGWo6oDscc.md#ent-person-greg-laurie-t-00-33-28)**
 > "...n article which tells us that Greg Laurie,"
 
-**[00:33:37](/episodes/ep-ZZGWo6oDscc.md#ent-person-greg-laurie-t-00-33-28)**
+**[00:33:36](/episodes/ep-ZZGWo6oDscc.md#ent-person-greg-laurie-t-00-33-28)**
 > "Greg Laurie,"
 
-**[00:34:40](/episodes/ep-ZZGWo6oDscc.md#ent-person-greg-laurie-t-00-34-07)**
+**[00:34:40](/episodes/ep-ZZGWo6oDscc.md#ent-person-greg-laurie-t-00-34-40)**
 > "...he court documents claim that Greg Laurie and the Harvest Christian Fellowship sent funding..."
 
-**[00:37:24](/episodes/ep-ZZGWo6oDscc.md#ent-person-greg-laurie-t-00-36-53)**
+**[00:37:24](/episodes/ep-ZZGWo6oDscc.md#ent-person-greg-laurie-t-00-37-04)**
 > "...ust not right, not right now, Greg Laurie, until we get to the bottom of whether or not you..."
 
 </details>
@@ -337,13 +337,13 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (3)</summary>
 
-- [00:33:28](/episodes/ep-ZZGWo6oDscc.md#t-00-32-45) (Citation) **Candace Owens**: ["There are 12 lawsuits alleging abuse of young men at a Romanian childr..."](/statements/statement-21fc0bb38b00.md)
+- [00:33:28](/episodes/ep-ZZGWo6oDscc.md#t-00-32-44) (Citation) **Candace Owens**: ["There are 12 lawsuits alleging abuse of young men at a Romanian childr..."](/statements/statement-21fc0bb38b00.md)
   - Also about: [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md), [Romania](/entities/gpe-romania.md)
 
 - [00:34:40](/episodes/ep-ZZGWo6oDscc.md#t-00-34-07) (Accusation) **Candace Owens** (via paraphrase): ["Court documents claim Greg Laurie and Harvest Christian Fellowship fun..."](/statements/statement-9c5ee77bc192.md)
   - Also about: [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md), [Paul Havsgaard](/entities/person-paul-havsgaard.md)
 
-- [00:37:04](/episodes/ep-ZZGWo6oDscc.md#t-00-36-53) (Accusation) **Candace Owens**: ["Turning Point USA welcomes pastors who appear to be rehabilitating ped..."](/statements/statement-b6cf54701c63.md)
+- [00:37:04](/episodes/ep-ZZGWo6oDscc.md#t-00-36-29) (Accusation) **Candace Owens**: ["Turning Point USA welcomes pastors who appear to be rehabilitating ped..."](/statements/statement-b6cf54701c63.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Turning Point Faith](/entities/org-turning-point-faith.md)
 
 </details>
@@ -351,7 +351,7 @@ Source: [About Harvest](https://harvest.org/newsroom/about-harvest/)
 <details>
 <summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1)</summary>
 
-- [00:13:35](/episodes/ep-wcD2khO3rOA.md#t-00-12-53) (Accusation) **Candace Owens**: ["Turning Point Faith works with Greg Laurie while Harvest Christian Fel..."](/statements/statement-6141210a0ed9.md)
+- [00:13:35](/episodes/ep-wcD2khO3rOA.md#t-00-12-53) (Accusation) **Candace Owens**: ["Turning Point Faith is partnering with Greg Laurie's Harvest Church wh..."](/statements/statement-6141210a0ed9.md)
   - Also about: [Turning Point Faith](/entities/org-turning-point-faith.md), [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md), [Romania](/entities/gpe-romania.md)
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "United States Army Special Forces"
-description: "United States Army Special Forces (Organizations) - 12 mentions"
+description: "United States Army Special Forces (Organizations) - 13 mentions"
 id: "org-us-army-special-forces"
 type: "ORG"
 aliases:
@@ -24,10 +24,10 @@ _Type: Organizations_
 Source: [1st Special Forces Command (Airborne)](https://www.army.mil/1sfc)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-us-army-special-forces-t-00-06-25">2026-03-23 · 00:06:31</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-us-army-special-forces-t-00-43-48">2026-01-13 · 00:44:18</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-org-us-army-special-forces-t-00-18-23">2026-08-06 · 00:18:30</a></strong></div>
-<div><span>Episodes</span><strong>6</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Episodes</span><strong>7</strong></div>
+<div><span>Mentions</span><strong>13</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
@@ -38,6 +38,7 @@ Source: [1st Special Forces Command (Airborne)](https://www.army.mil/1sfc)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-IqHsl7d2dos.md#ent-org-us-army-special-forces-t-00-11-08">TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-us-army-special-forces-t-00-43-48" style="--pulse-height:17%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-us-army-special-forces-t-00-06-25" style="--pulse-height:17%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-us-army-special-forces-t-00-48-33" style="--pulse-height:33%" aria-label="Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336: 2 mentions" title="2026-05-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-org-us-army-special-forces-t-00-39-55" style="--pulse-height:17%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
@@ -49,6 +50,7 @@ Source: [1st Special Forces Command (Airborne)](https://www.army.mil/1sfc)
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-us-army-special-forces-t-00-43-48) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-us-army-special-forces-t-00-06-25) | 1 |
 | 2026-05-11 | [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md#ent-org-us-army-special-forces-t-00-48-33) | 2 |
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-org-us-army-special-forces-t-00-39-55) | 1 |
@@ -62,7 +64,7 @@ Source: [1st Special Forces Command (Airborne)](https://www.army.mil/1sfc)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (13)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
@@ -127,6 +129,14 @@ Source: [1st Special Forces Command (Airborne)](https://www.army.mil/1sfc)
 
 **[00:06:31](/episodes/ep-B9TyCs-6o_0.md#ent-org-us-army-special-forces-t-00-06-25)**
 > "case but also is military and has served the country and therefore like most military men respect Joe Kent's accomplishment he came under fire for merely listing absent any commentary Joe Kent's qualifications and his background having served this country this is what Jack Posobiec wrote and I'm going to show you how Laura Loomer responded she he wrote Joe Kent has six bronze star medals with five oak leaf clusters across 11 combat deployments as a Green Beret in some of the Some of the biggest battles of the GWOT,"
+
+</details>
+
+<details>
+<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
+
+**[00:44:18](/episodes/ep-ZZGWo6oDscc.md#ent-org-us-army-special-forces-t-00-43-48)**
+> "...ilar, the Gaza whistleblower, Green Beret, I've been to Gaza. I was arrested on the 3rd of ..."
 
 </details>
 

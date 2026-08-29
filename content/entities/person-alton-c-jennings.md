@@ -22,8 +22,8 @@ _Type: People_
 Source: [Turning Point USA and Young America’s Foundation In Legal Battle Over A Dead Grandfather’s Will](https://www.anarchistfederation.net/exclusive-turning-point-usa-and-young-americas-foundation-in-legal-battle-over-a-dead-grandfathers-will/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-alton-c-jennings-t-00-15-13">2026-01-13 · 00:15:43</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-alton-c-jennings-t-00-15-58">2026-01-13 · 00:16:01</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-alton-c-jennings-t-00-15-12">2026-01-13 · 00:15:39</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-alton-c-jennings-t-00-15-51">2026-01-13 · 00:16:00</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -34,15 +34,15 @@ Source: [Turning Point USA and Young America’s Foundation In Legal Battle Over
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-alton-c-jennings-t-00-15-13">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (3 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-alton-c-jennings-t-00-15-12">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-alton-c-jennings-t-00-15-13" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-alton-c-jennings-t-00-15-12" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-alton-c-jennings-t-00-15-13) | 3 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-alton-c-jennings-t-00-15-12) | 3 |
 
 </details>
 </section>
@@ -55,13 +55,13 @@ Source: [Turning Point USA and Young America’s Foundation In Legal Battle Over
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (3 mentions)</summary>
 
-**[00:15:43](/episodes/ep-ZZGWo6oDscc.md#ent-person-alton-c-jennings-t-00-15-13)**
+**[00:15:39](/episodes/ep-ZZGWo6oDscc.md#ent-person-alton-c-jennings-t-00-15-12)**
 > "...ment and trust of a man named Alton C."
 
-**[00:15:52](/episodes/ep-ZZGWo6oDscc.md#ent-person-alton-c-jennings-t-00-15-13)**
+**[00:15:51](/episodes/ep-ZZGWo6oDscc.md#ent-person-alton-c-jennings-t-00-15-51)**
 > "Alton died at 95 years old in a very long life."
 
-**[00:16:01](/episodes/ep-ZZGWo6oDscc.md#ent-person-alton-c-jennings-t-00-15-58)**
+**[00:16:00](/episodes/ep-ZZGWo6oDscc.md#ent-person-alton-c-jennings-t-00-15-51)**
 > "Alton began showing signs of cognitive decline in 2020."
 
 </details>
@@ -77,7 +77,7 @@ Source: [Turning Point USA and Young America’s Foundation In Legal Battle Over
 - **[Mitchell Manley Sr.](/entities/person-mitchell-manley-sr.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:16:01](/episodes/ep-ZZGWo6oDscc.md#t-00-15-58): “Alton began showing signs of cognitive decline in 2020. And at that time, a year later, rather in 2021, he hired a caretaker. That caretaker's name is Mitch Manley Sr.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:16:01](/episodes/ep-ZZGWo6oDscc.md#t-00-15-51): “Alton began showing signs of cognitive decline in 2020. And at that time, a year later, rather in 2021, he hired a caretaker. That caretaker's name is Mitch Manley Sr.”
 
 </details>
 
@@ -89,7 +89,7 @@ Source: [Turning Point USA and Young America’s Foundation In Legal Battle Over
 - **[Mitchell Manley Sr.](/entities/person-mitchell-manley-sr.md)** hired by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:16:01](/episodes/ep-ZZGWo6oDscc.md#t-00-15-58): “Alton began showing signs of cognitive decline in 2020. And at that time, a year later, rather in 2021, he hired a caretaker. That caretaker's name is Mitch Manley Sr.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:16:01](/episodes/ep-ZZGWo6oDscc.md#t-00-15-51): “Alton began showing signs of cognitive decline in 2020. And at that time, a year later, rather in 2021, he hired a caretaker. That caretaker's name is Mitch Manley Sr.”
 
 </details>
 
@@ -103,12 +103,12 @@ Source: [Turning Point USA and Young America’s Foundation In Legal Battle Over
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (3)</summary>
 
-- [00:15:42](/episodes/ep-ZZGWo6oDscc.md#t-00-15-13) (Citation) **Candace Owens**: ["A December 2024 court petition challenged the last will, testament, an..."](/statements/statement-5a11a9e8c496.md)
+- [00:15:42](/episodes/ep-ZZGWo6oDscc.md#t-00-15-12) (Citation) **Candace Owens**: ["A December 2024 court petition challenged the last will, testament, an..."](/statements/statement-5a11a9e8c496.md)
 
-- [00:16:23](/episodes/ep-ZZGWo6oDscc.md#t-00-15-58) (Accusation) **Anonymous Source #1 (Ep ZZGWo6oDscc)** (via quoted document): ["After being hired as Alton C. Jennings's caretaker, Mitchell Manley Sr..."](/statements/statement-35de484f46fe.md)
+- [00:16:23](/episodes/ep-ZZGWo6oDscc.md#t-00-15-51) (Accusation) **Anonymous Source #1 (Ep ZZGWo6oDscc)** (via quoted document): ["After being hired as Alton C. Jennings's caretaker, Mitchell Manley Sr..."](/statements/statement-35de484f46fe.md)
   - Also about: [Mitchell Manley Sr.](/entities/person-mitchell-manley-sr.md)
 
-- [00:17:00](/episodes/ep-ZZGWo6oDscc.md#t-00-16-43) (Accusation) **Anonymous Source #1 (Ep ZZGWo6oDscc)** (via quoted document): ["Four months before Alton C. Jennings died, his will was changed in Nov..."](/statements/statement-c59ce538da60.md)
+- [00:17:00](/episodes/ep-ZZGWo6oDscc.md#t-00-16-23) (Accusation) **Anonymous Source #1 (Ep ZZGWo6oDscc)** (via quoted document): ["Four months before Alton C. Jennings died, his will was changed in Nov..."](/statements/statement-c59ce538da60.md)
   - Also about: [Turning Point Action](/entities/org-turning-point-action.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
 </details>

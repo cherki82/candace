@@ -27,7 +27,7 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
-**Timestamp:** [00:26:33](/episodes/ep-NIEbqsLAK8g.md#t-00-26-32) 
+**Timestamp:** [00:26:33](/episodes/ep-NIEbqsLAK8g.md#t-00-26-30) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1593);return false;">Play</a>
 
 > this is actually there was a walkway or a bridge elevated that that was just that was just from our events team that was setting up that event. They went up there to as they always did to show Charlie the crowd size. So they took those images.

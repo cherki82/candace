@@ -10,13 +10,13 @@ description: "An evidence-first research workbench for imported video, audio, an
 <div class="kg-home-actions"><a class="primary" href="/index/claims">Explore factual claims</a><a href="/index/explorer">Search all statements</a><a href="/index/threads">Follow a reviewed theory thread</a></div>
 </div>
 
-<p class="kg-freshness"><strong>159 sources</strong> · processed through <time datetime="2026-08-21">2026-08-21</time> · generated <time datetime="2026-08-28">2026-08-28</time></p>
+<p class="kg-freshness"><strong>159 sources</strong> · processed through <time datetime="2026-08-21">2026-08-21</time> · generated <time datetime="2026-08-29">2026-08-29</time></p>
 
 <div class="kg-stat-grid">
-<div><strong>6,902</strong><span>Claims &amp; statements</span></div>
-<div><strong>4,023</strong><span>Tracked entities</span></div>
-<div><strong>1,703</strong><span>Timeline events</span></div>
-<div><strong>2,708</strong><span>Research sources</span></div>
+<div><strong>6,905</strong><span>Claims &amp; statements</span></div>
+<div><strong>4,029</strong><span>Tracked entities</span></div>
+<div><strong>1,704</strong><span>Timeline events</span></div>
+<div><strong>2,724</strong><span>Research sources</span></div>
 </div>
 
 ## Latest source additions
@@ -68,34 +68,34 @@ description: "An evidence-first research workbench for imported video, audio, an
 
 <div class="verification-feed">
 <article>
+<span class="status-badge status-true">true</span>
+<a href="/statements/statement-63eaaa31c41d">The Epstein matter is not about female victims; it is about the integrity of the government.</a>
+<small>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291</small>
+</article>
+<article>
+<span class="status-badge status-true">true</span>
+<a href="/statements/statement-4108402e7361">The Epstein conduct was not really pedophilia because the victims were not five-year-olds and were instead technically underage.</a>
+<small>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291</small>
+</article>
+<article>
+<span class="status-badge status-true">true</span>
+<a href="/statements/statement-65cacd9c8735">Nelda Buckman said that she and Erika Kirk discussed womanhood, what the culture teaches young women, and what they want to teach young women.</a>
+<small>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291</small>
+</article>
+<article>
+<span class="status-badge status-true">true</span>
+<a href="/statements/statement-27c869572b62">Future history books should not describe Gazans as the victims; they should identify Israel as the victim and Iran and Hamas as the aggressors.</a>
+<small>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290</small>
+</article>
+<article>
+<span class="status-badge status-true">true</span>
+<a href="/statements/statement-457a08a3d576">Mitch Snow told Candace Owens that he saw Brian Harpole and Erika Kirk at Fort Huachuca on different days leading up to Charlie Kirk&#x27;s assassination.</a>
+<small>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</small>
+</article>
+<article>
 <span class="status-badge status-mixed">mixed</span>
-<a href="/statements/statement-1b0c9fa3365f">Owens said Turning Point Faith held a pastor summit led by Rob McCoy and Sean Feucht.</a>
-<small>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</small>
-</article>
-<article>
-<span class="status-badge status-true">true</span>
-<a href="/statements/statement-6dd328c8876c">The Washington Post reported that Moon&#x27;s American Freedom Coalition built support for Oliver North during the Iran-Contra probe with about $5 million and personnel supplied by Unificationists.</a>
-<small>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</small>
-</article>
-<article>
-<span class="status-badge status-true">true</span>
-<a href="/statements/statement-dd41a700aabe">The Washington Post reported that a 1978 congressional investigation concluded the Unification Church and Moon&#x27;s other religious and secular organizations formed one international organization that moved money freely among its entities.</a>
-<small>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</small>
-</article>
-<article>
-<span class="status-badge status-mixed">mixed</span>
-<a href="/statements/statement-131c88f72f66">Lori Frantzve established the Everyday Heroes foundation, from which the Romanian Angels Project emerged to work with the military in Romania helping orphans.</a>
-<small>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</small>
-</article>
-<article>
-<span class="status-badge status-true">true</span>
-<a href="/statements/statement-c02c1d9f9d24">Owens said the aircraft later known as N888KG was registered in Romania from 2013 to 2015.</a>
-<small>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287</small>
-</article>
-<article>
-<span class="status-badge status-true">true</span>
-<a href="/statements/statement-7617a96d8f2d">Ben Shapiro is like a cancer that spreads and metastasizes.</a>
-<small>DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286</small>
+<a href="/statements/statement-8e69357e3b15">Paul E. Vallely, a Turning Point USA board member and former commander of the 7th Psychological Operations Group, co-authored Mind War with Michael Aquino in 1980.</a>
+<small>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</small>
 </article>
 </div>
 

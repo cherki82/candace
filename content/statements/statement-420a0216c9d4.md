@@ -37,8 +37,8 @@ type: "accusation"
 
 ## Verification
 
-_This statement has not yet been verified._
+_This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Accusation | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** No

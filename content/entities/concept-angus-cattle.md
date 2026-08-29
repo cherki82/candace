@@ -1,6 +1,6 @@
 ---
 title: "Angus cattle"
-description: "Angus cattle (Concepts) - 2 mentions"
+description: "Angus cattle (Concepts) - 4 mentions"
 id: "concept-angus-cattle"
 type: "CONCEPT"
 aliases:
@@ -22,9 +22,9 @@ Source: [About | American Angus Association](https://www.angus.org/about)
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-angus-cattle-t-00-29-48">2026-01-12 · 00:30:21</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-angus-cattle-t-00-30-33">2026-01-12 · 00:30:33</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-concept-angus-cattle-t-00-26-25">2026-01-16 · 00:26:40</a></strong></div>
+<div><span>Episodes</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,12 +36,14 @@ Source: [About | American Angus Association](https://www.angus.org/about)
 <p>Highest activity: <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-angus-cattle-t-00-29-48">American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-angus-cattle-t-00-29-48" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-concept-angus-cattle-t-00-26-25" style="--pulse-height:100%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-angus-cattle-t-00-29-48) | 2 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-angus-cattle-t-00-26-25) | 2 |
 
 </details>
 </section>
@@ -49,7 +51,18 @@ Source: [About | American Angus Association](https://www.angus.org/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+
+<details>
+<summary>Myron Gaines x Candace Owens (2 mentions)</summary>
+
+**[00:26:25](/episodes/ep-2T39-oADLj0.md#ent-concept-angus-cattle-t-00-26-25)**
+> "...ch has been creating an elite Angus herd by using ultrasound technology to select gen..."
+
+**[00:26:40](/episodes/ep-2T39-oADLj0.md#ent-concept-angus-cattle-t-00-26-25)**
+> "...e top 1% or 2%. of the entire Angus population as their breeding stock, producing bee..."
+
+</details>
 
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (2 mentions)</summary>

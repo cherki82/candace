@@ -198,7 +198,7 @@ Source: [Meet the Attorney General | U.S. Department of Justice](https://www.jus
 <details>
 <summary>Myron Gaines x Candace Owens (1 mentions)</summary>
 
-**[00:22:25](/episodes/ep-2T39-oADLj0.md#ent-person-pam-bondi-t-00-22-23)**
+**[00:22:23](/episodes/ep-2T39-oADLj0.md#ent-person-pam-bondi-t-00-22-23)**
 > "Pam Bondi did the whole crazy bit"
 
 </details>

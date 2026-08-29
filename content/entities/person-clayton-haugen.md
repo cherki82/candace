@@ -82,7 +82,7 @@ Source: [Clayton Haugen v. Activision complaint](https://torrentfreak.com/images
 - **[November Renaissance](/entities/work-november-renaissance.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:08:59](/episodes/ep-X92MllIHDzw.md#t-00-08-59): “Clayton Haugen, speaking about this movie.”
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:08:57](/episodes/ep-X92MllIHDzw.md#t-00-08-15): “Here is the director, Clayton Haugen, speaking about this movie.”
 
 </details>
 
@@ -94,7 +94,7 @@ Source: [Clayton Haugen v. Activision complaint](https://torrentfreak.com/images
 - **[Dillon Aero](/entities/org-dillon-aero.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:05:23](/episodes/ep-X92MllIHDzw.md#t-00-04-49): “And he does marketing.”
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:05:23](/episodes/ep-X92MllIHDzw.md#t-00-04-49): “And he does marketing. For the defense contracting firm, Dillon Aerospace,”
 
 </details>
 
@@ -113,14 +113,14 @@ Source: [Clayton Haugen v. Activision complaint](https://torrentfreak.com/images
 - **[Dillon Aero](/entities/org-dillon-aero.md)** employs this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:05:23](/episodes/ep-X92MllIHDzw.md#t-00-04-49): “And he does marketing.”
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:05:23](/episodes/ep-X92MllIHDzw.md#t-00-04-49): “And he does marketing. For the defense contracting firm, Dillon Aerospace,”
 
 </details>
 
 - **[November Renaissance](/entities/work-november-renaissance.md)** has director this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:08:59](/episodes/ep-X92MllIHDzw.md#t-00-08-59): “Clayton Haugen, speaking about this movie.”
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:08:57](/episodes/ep-X92MllIHDzw.md#t-00-08-15): “Here is the director, Clayton Haugen, speaking about this movie.”
 
 </details>
 

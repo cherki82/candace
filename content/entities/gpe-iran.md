@@ -1,6 +1,6 @@
 ---
 title: "Iran"
-description: "Iran (Places) - 252 mentions"
+description: "Iran (Places) - 251 mentions"
 id: "gpe-iran"
 type: "GPE"
 aliases:
@@ -25,7 +25,7 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ja26iltROkM.md#ent-gpe-iran-t-00-35-19">2025-09-22 · 00:35:22</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-iran-t-01-07-34">2026-08-21 · 01:07:34</a></strong></div>
 <div><span>Episodes</span><strong>58</strong></div>
-<div><span>Mentions</span><strong>252</strong></div>
+<div><span>Mentions</span><strong>251</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>99</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
@@ -47,7 +47,7 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-iran-t-00-13-15" style="--pulse-height:8%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-iran-t-00-50-14" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-iran-t-00-34-41" style="--pulse-height:8%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-02-32" style="--pulse-height:65%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 15 mentions" title="2026-01-13 · 15 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-02-28" style="--pulse-height:61%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 14 mentions" title="2026-01-13 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-iran-t-00-46-00" style="--pulse-height:13%" aria-label="Myron Gaines x Candace Owens: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-iran-t-00-55-12" style="--pulse-height:13%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-iran-t-00-35-10" style="--pulse-height:9%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
@@ -110,7 +110,7 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-iran-t-00-13-15) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-iran-t-00-50-14) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-iran-t-00-34-41) | 1 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-02-32) | 15 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-02-28) | 14 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-iran-t-00-46-00) | 3 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-iran-t-00-55-12) | 3 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-iran-t-00-35-10) | 2 |
@@ -164,7 +164,7 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (252)</strong></summary>
+<summary><strong class="section-title">Raw mentions (251)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -1027,60 +1027,57 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 **[00:46:15](/episodes/ep-2T39-oADLj0.md#ent-gpe-iran-t-00-46-00)**
 > "when Trump bombed Iran"
 
-**[00:46:10](/episodes/ep-2T39-oADLj0.md#ent-gpe-iran-t-00-46-00)**
+**[00:46:08](/episodes/ep-2T39-oADLj0.md#ent-gpe-iran-t-00-46-00)**
 > "... I remember when Trump bombed Iran."
 
 **[00:47:09](/episodes/ep-2T39-oADLj0.md#ent-gpe-iran-t-00-46-48)**
-> "...s he still wants his war with iran they still want a regime change in iran and we ha..."
+> "Rob your house, your dogs start barking and the robber goes away and they're like, oh, you were just panicking. It's like, no, it's because the dogs were barking that this thing didn't happen. So no, every time we—by the way, he still wants his war with Iran. They still want a regime change in Iran, and we have to continue to bark and continue to say that it's not okay. And it worked because we held the"
 
 </details>
 
 <details>
-<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (15 mentions)</summary>
+<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (14 mentions)</summary>
 
-**[00:02:32](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-02-32)**
+**[00:02:28](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-02-28)**
 > "...e people are trying to get in iran these people are really"
 
-**[00:03:18](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-03-11)**
+**[00:03:18](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-03-04)**
 > "Anyways, war with Iran,"
 
-**[00:03:48](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-03-48)**
+**[00:03:45](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-03-45)**
 > "...involved in Israel's war with Iran."
 
-**[00:04:11](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-03-48)**
+**[00:04:08](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-03-45)**
 > "...lie was adamant that war with Iran would not benefit the Trump campaign and it would..."
 
-**[00:04:40](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-04-33)**
+**[00:04:40](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-04-19)**
 > "...hat we need to go to war with Iran."
 
 **[00:04:53](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-04-53)**
 > "...some updates about Israel and Iran and potentially the United States. On one side is..."
 
-**[00:06:11](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-05-37)**
+**[00:06:09](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-05-34)**
 > "...really have many Jews left in Persia, but also you have secular younger Persians. Who'..."
 
 **[00:08:02](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-08-02)**
 > "To the people of Iran,"
 
-**[00:09:29](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-08-58)**
-> "not so concerned about Iran,"
-
-**[00:09:30](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-09-30)**
+**[00:09:28](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-09-28)**
 > "concerned about Iran very concerned about the murderous israeli regime..."
 
-**[00:11:18](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-10-59)**
+**[00:11:18](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-10-50)**
 > "...ediately following this trip, Iran and Israel's 12-day war commences."
 
-**[00:11:31](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-10-59)**
+**[00:11:31](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-11-31)**
 > "But on June 13th, Iran and Israel's 12-day war commences. Every time I s..."
 
-**[00:12:06](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-11-44)**
+**[00:12:06](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-12-06)**
 > "Point being is that that Iran and Israel's 12 day war commences. And we know th..."
 
-**[00:13:12](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-13-05)**
+**[00:12:59](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-12-51)**
 > "and everyone says a war with Iran is over."
 
-**[00:14:15](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-13-49)**
+**[00:14:12](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iran-t-00-14-12)**
 > "...tanyahu, his war ambitions in Iran,"
 
 </details>
@@ -1736,25 +1733,25 @@ Source: [Iran - Wikipedia](https://en.wikipedia.org/wiki/Iran)
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (7)</summary>
 
-- [00:03:18](/episodes/ep-ZZGWo6oDscc.md#t-00-03-11) (Accusation) **Candace Owens**: ["War with Iran is back on the table because Israel wants it."](/statements/statement-120b0bd48279.md)
+- [00:03:18](/episodes/ep-ZZGWo6oDscc.md#t-00-03-04) (Accusation) **Candace Owens**: ["War with Iran is back on the table because Israel wants it."](/statements/statement-120b0bd48279.md)
   - Also about: [Israel](/entities/gpe-israel.md)
 
-- [00:03:30](/episodes/ep-ZZGWo6oDscc.md#t-00-03-11) (Claim) **Candace Owens** (via paraphrase): ["According to Tucker Carlson and others, Charlie Kirk went head-to-head..."](/statements/statement-b2921bff7c51.md)
+- [00:03:30](/episodes/ep-ZZGWo6oDscc.md#t-00-03-04) (Claim) **Candace Owens** (via paraphrase): ["According to Tucker Carlson and others, Charlie Kirk went head-to-head..."](/statements/statement-b2921bff7c51.md)
   - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 
 - [00:04:53](/episodes/ep-ZZGWo6oDscc.md#t-00-04-53) (Opinion) **Charlie Kirk** (via quoted speech): ["Calls by Lindsey Graham and John Bolton for regime change in Iran are ..."](/statements/statement-a8987db34ae3.md)
   - Also about: [Lindsey Graham](/entities/person-lindsey-graham.md), [John Bolton](/entities/person-john-bolton.md), [Neoconservatism](/entities/concept-neoconservatism.md)
 
-- [00:05:37](/episodes/ep-ZZGWo6oDscc.md#t-00-05-37) (Opinion) **Charlie Kirk** (via quoted speech): ["Plans for wars in the Middle East rarely unfold as drawn up and may ha..."](/statements/statement-319086dc735c.md)
+- [00:05:37](/episodes/ep-ZZGWo6oDscc.md#t-00-05-34) (Opinion) **Charlie Kirk** (via quoted speech): ["Plans for wars in the Middle East rarely unfold as drawn up and may ha..."](/statements/statement-319086dc735c.md)
   - Also about: [Middle East](/entities/gpe-middle-east.md), [Neoconservatism](/entities/concept-neoconservatism.md)
 
 - [00:08:19](/episodes/ep-ZZGWo6oDscc.md#t-00-08-02) (Prediction) **Lindsey Graham** (via quoted speech): ["If Iran's Ayatollahs keep killing people demanding a better life, Dona..."](/statements/statement-255f7d09de6b.md)
   - Also about: [Donald J. Trump](/entities/person-donald-trump.md)
 
-- [00:13:31](/episodes/ep-ZZGWo6oDscc.md#t-00-13-05) (Accusation) **Candace Owens**: ["The CIA and Mossad are manufacturing a color revolution in Iran and pr..."](/statements/statement-7735fd0be3a8.md)
+- [00:13:31](/episodes/ep-ZZGWo6oDscc.md#t-00-12-51) (Accusation) **Candace Owens**: ["I might actually believe Iran's protests were organic if the CIA and M..."](/statements/statement-7735fd0be3a8.md)
   - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Mossad](/entities/org-mossad.md), [Color revolution](/entities/concept-color-revolution.md)
 
-- [00:14:12](/episodes/ep-ZZGWo6oDscc.md#t-00-13-49) (Accusation) **Candace Owens**: ["Charlie Kirk's assassination was good for Benjamin Netanyahu's war amb..."](/statements/statement-ba3417f20e97.md)
+- [00:14:12](/episodes/ep-ZZGWo6oDscc.md#t-00-13-31) (Accusation) **Candace Owens**: ["Charlie Kirk's assassination was good for Benjamin Netanyahu's war amb..."](/statements/statement-ba3417f20e97.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Israel](/entities/gpe-israel.md)
 
 </details>

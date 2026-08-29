@@ -80,7 +80,7 @@ Source: [Oprah Winfrey | Oprah Daily](https://www.oprahdaily.com/author/220766/o
 **[00:13:35](/episodes/ep-2T39-oADLj0.md#ent-person-oprah-winfrey-t-00-13-35)**
 > "Taylor Swift or Oprah"
 
-**[00:14:19](/episodes/ep-2T39-oADLj0.md#ent-person-oprah-winfrey-t-00-14-14)**
+**[00:14:14](/episodes/ep-2T39-oADLj0.md#ent-person-oprah-winfrey-t-00-14-14)**
 > "Oprah was communicating to the housewife, right?"
 
 </details>

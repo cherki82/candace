@@ -1,6 +1,6 @@
 ---
 title: "France"
-description: "France (Places) - 353 mentions"
+description: "France (Places) - 354 mentions"
 id: "gpe-france"
 type: "GPE"
 aliases:
@@ -24,7 +24,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-gpe-france-t-00-01-27">2025-10-06 · 00:01:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-france-t-00-55-00">2026-08-21 · 00:55:00</a></strong></div>
 <div><span>Episodes</span><strong>56</strong></div>
-<div><span>Mentions</span><strong>353</strong></div>
+<div><span>Mentions</span><strong>354</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>40</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
@@ -54,7 +54,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-france-t-00-19-44" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 3 mentions" title="2026-01-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-france-t-00-53-48" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 4 mentions" title="2026-01-06 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-france-t-00-56-35" style="--pulse-height:8%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 4 mentions" title="2026-01-07 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-france-t-00-40-14" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-france-t-00-40-14" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-france-t-00-22-34" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-france-t-01-00-11" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-france-t-00-21-55" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
@@ -115,7 +115,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-france-t-00-19-44) | 3 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-france-t-00-53-48) | 4 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-france-t-00-56-35) | 4 |
-| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-france-t-00-40-14) | 3 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-france-t-00-40-14) | 4 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-france-t-00-22-34) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-france-t-01-00-11) | 2 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-france-t-00-21-55) | 1 |
@@ -159,7 +159,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (353)</strong></summary>
+<summary><strong class="section-title">Raw mentions (354)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (5 mentions)</summary>
@@ -774,7 +774,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (3 mentions)</summary>
+<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (4 mentions)</summary>
 
 **[00:40:32](/episodes/ep-X92MllIHDzw.md#ent-gpe-france-t-00-40-14)**
 > "Bitcoin from France"
@@ -784,6 +784,9 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 
 **[00:40:37](/episodes/ep-X92MllIHDzw.md#ent-gpe-france-t-00-40-14)**
 > "...sh and anybody's ever been in france"
+
+**[00:40:47](/episodes/ep-X92MllIHDzw.md#ent-gpe-france-t-00-40-47)**
+> "french people don't speak perfect english they are not w..."
 
 </details>
 

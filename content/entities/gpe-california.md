@@ -43,7 +43,7 @@ Source: [California State Portal | CA.gov](https://www.ca.gov/)
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-california-t-00-21-13" style="--pulse-height:20%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-gpe-california-t-00-28-53" style="--pulse-height:40%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#t-00-33-28" style="--pulse-height:20%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-california-t-00-44-22" style="--pulse-height:20%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-california-t-00-44-29" style="--pulse-height:20%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-california-t-00-10-31" style="--pulse-height:20%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-california-t-00-29-18" style="--pulse-height:20%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-gpe-california-t-00-44-57" style="--pulse-height:60%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 3 mentions" title="2026-03-06 · 3 mentions"><span></span></a>
@@ -79,7 +79,7 @@ Source: [California State Portal | CA.gov](https://www.ca.gov/)
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-california-t-00-21-13) | 1 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-gpe-california-t-00-28-53) | 2 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#t-00-33-28) | 1 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-california-t-00-44-22) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-california-t-00-44-29) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-california-t-00-10-31) | 1 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-california-t-00-29-18) | 1 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-gpe-california-t-00-44-57) | 3 |
@@ -266,7 +266,7 @@ Source: [California State Portal | CA.gov](https://www.ca.gov/)
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
 
-**[00:44:31](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-california-t-00-44-22)**
+**[00:44:31](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-california-t-00-44-29)**
 > "a small district outside of California"
 
 </details>
@@ -274,7 +274,7 @@ Source: [California State Portal | CA.gov](https://www.ca.gov/)
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:33:54](/episodes/ep-ZZGWo6oDscc.md#t-00-33-28)**
+**[00:33:46](/episodes/ep-ZZGWo6oDscc.md#t-00-33-28)**
 > "...tian Fellowship in Riverside, California."
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "Jesus Christ"
-description: "Jesus Christ (People) - 315 mentions"
+description: "Jesus Christ (People) - 319 mentions"
 id: "person-jesus-christ"
 type: "PERSON"
 aliases:
@@ -23,8 +23,8 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-jesus-christ-t-00-08-02">2025-09-15 · 00:08:04</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-jesus-christ-t-00-58-18">2026-08-21 · 00:58:39</a></strong></div>
-<div><span>Episodes</span><strong>104</strong></div>
-<div><span>Mentions</span><strong>315</strong></div>
+<div><span>Episodes</span><strong>106</strong></div>
+<div><span>Mentions</span><strong>319</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -59,9 +59,11 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-jesus-christ-t-00-58-36" style="--pulse-height:21%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 3 mentions" title="2026-01-06 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-jesus-christ-t-01-09-47" style="--pulse-height:21%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-jesus-christ-t-00-25-03" style="--pulse-height:29%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 4 mentions" title="2026-01-12 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-jesus-christ-t-00-45-20" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-jesus-christ-t-00-45-48" style="--pulse-height:14%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-jesus-christ-t-00-26-32" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-jesus-christ-t-00-59-24" style="--pulse-height:14%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-person-jesus-christ-t-00-54-19" style="--pulse-height:14%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-person-jesus-christ-t-00-54-16" style="--pulse-height:21%" aria-label="Myron Gaines x Candace Owens: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-jesus-christ-t-00-45-09" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-jesus-christ-t-00-41-46" style="--pulse-height:14%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-person-jesus-christ-t-00-18-10" style="--pulse-height:8%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-jesus-christ-t-00-50-24" style="--pulse-height:21%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 3 mentions" title="2026-01-28 · 3 mentions"><span></span></a>
@@ -168,9 +170,11 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-jesus-christ-t-00-58-36) | 3 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-jesus-christ-t-01-09-47) | 3 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-jesus-christ-t-00-25-03) | 4 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-jesus-christ-t-00-45-20) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-jesus-christ-t-00-45-48) | 2 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-jesus-christ-t-00-26-32) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-jesus-christ-t-00-59-24) | 2 |
-| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-jesus-christ-t-00-54-19) | 2 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-jesus-christ-t-00-54-16) | 3 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-jesus-christ-t-00-45-09) | 1 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-jesus-christ-t-00-41-46) | 2 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-person-jesus-christ-t-00-18-10) | 1 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-jesus-christ-t-00-50-24) | 3 |
@@ -255,7 +259,7 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (315)</strong></summary>
+<summary><strong class="section-title">Raw mentions (319)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -1375,6 +1379,14 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 </details>
 
 <details>
+<summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
+
+**[00:45:17](/episodes/ep-NIEbqsLAK8g.md#ent-person-jesus-christ-t-00-45-09)**
+> "Christ is king"
+
+</details>
+
+<details>
 <summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (2 mentions)</summary>
 
 **[00:59:24](/episodes/ep-X92MllIHDzw.md#ent-person-jesus-christ-t-00-59-24)**
@@ -1386,21 +1398,35 @@ Source: [Encyclopaedia Britannica — Jesus](https://www.britannica.com/biograph
 </details>
 
 <details>
-<summary>Myron Gaines x Candace Owens (2 mentions)</summary>
+<summary>Myron Gaines x Candace Owens (3 mentions)</summary>
 
-**[00:54:44](/episodes/ep-2T39-oADLj0.md#ent-person-jesus-christ-t-00-54-19)**
+**[00:54:39](/episodes/ep-2T39-oADLj0.md#ent-person-jesus-christ-t-00-54-16)**
 > "it is not about Jesus Christ"
 
-**[00:56:36](/episodes/ep-2T39-oADLj0.md#ent-person-jesus-christ-t-00-56-14)**
+**[00:56:34](/episodes/ep-2T39-oADLj0.md#ent-person-jesus-christ-t-00-55-36)**
 > "Christ is king."
+
+**[00:55:36](/episodes/ep-2T39-oADLj0.md#ent-person-jesus-christ-t-00-55-36)**
+> "...y convince you you know there jesus performed miracles and this was just one of them ..."
 
 </details>
 
 <details>
-<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
 
-**[00:45:52](/episodes/ep-ZZGWo6oDscc.md#ent-person-jesus-christ-t-00-45-20)**
+**[00:26:32](/episodes/ep-BKcOm32ZEGk.md#ent-person-jesus-christ-t-00-26-32)**
+> "...to make everyone turn against Christ. I mean, that push over the last couple of years,..."
+
+</details>
+
+<details>
+<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2 mentions)</summary>
+
+**[00:45:48](/episodes/ep-ZZGWo6oDscc.md#ent-person-jesus-christ-t-00-45-48)**
 > "...defeated because the truth is Christ. Christ is king."
+
+**[00:44:51](/episodes/ep-ZZGWo6oDscc.md#ent-person-jesus-christ-t-00-44-27)**
+> "...If there were ever a time for Jesus to return, this feels like it would be it."
 
 </details>
 

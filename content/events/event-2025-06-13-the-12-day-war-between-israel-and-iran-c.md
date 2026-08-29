@@ -16,7 +16,7 @@ date: "2025-06-13"
 ### 1. CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 2...
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
-**Timestamp:** [00:11:31](/episodes/ep-ZZGWo6oDscc.md#event-event-2025-06-13-the-12-day-war-between-israel-and-iran-c-t-00-10-59) 
+**Timestamp:** [00:11:31](/episodes/ep-ZZGWo6oDscc.md#event-event-2025-06-13-the-12-day-war-between-israel-and-iran-c-t-00-11-31) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(691);return false;">▶️ Play</a>
 
 > But on June 13th, Iran and Israel's 12-day war commences. Every time I start building these planes,

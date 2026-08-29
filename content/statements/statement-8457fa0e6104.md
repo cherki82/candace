@@ -46,4 +46,4 @@ Transcript context confirms Owens explicitly voiced her suspicion that some char
 
 ---
 
-**Type:** Accusation | **Verifiable:** Yes
+**Type:** Accusation | **Verifiable:** No

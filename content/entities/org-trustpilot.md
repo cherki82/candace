@@ -37,8 +37,8 @@ Source: [Trustpilot Trust Centre](https://corporate.trustpilot.com/trust)
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-trustpilot-t-00-35-40" style="--pulse-height:50%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-org-trustpilot-t-00-49-20" style="--pulse-height:50%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-trustpilot-t-00-42-40" style="--pulse-height:50%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-trustpilot-t-00-31-02" style="--pulse-height:50%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-trustpilot-t-00-17-40" style="--pulse-height:50%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-trustpilot-t-00-30-57" style="--pulse-height:50%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-trustpilot-t-00-17-31" style="--pulse-height:50%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-org-trustpilot-t-00-25-13" style="--pulse-height:50%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-org-trustpilot-t-00-28-21" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-trustpilot-t-00-30-57" style="--pulse-height:50%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
@@ -61,8 +61,8 @@ Source: [Trustpilot Trust Centre](https://corporate.trustpilot.com/trust)
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-org-trustpilot-t-00-35-40) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-org-trustpilot-t-00-49-20) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-trustpilot-t-00-42-40) | 1 |
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-trustpilot-t-00-31-02) | 1 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-trustpilot-t-00-17-40) | 1 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-trustpilot-t-00-30-57) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-trustpilot-t-00-17-31) | 1 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-trustpilot-t-00-25-13) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-org-trustpilot-t-00-28-21) | 2 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-org-trustpilot-t-00-30-57) | 1 |
@@ -177,7 +177,7 @@ Source: [Trustpilot Trust Centre](https://corporate.trustpilot.com/trust)
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
 
-**[00:17:58](/episodes/ep-NIEbqsLAK8g.md#ent-org-trustpilot-t-00-17-40)**
+**[00:17:58](/episodes/ep-NIEbqsLAK8g.md#ent-org-trustpilot-t-00-17-31)**
 > "five-star rating on Trustpilot"
 
 </details>
@@ -185,7 +185,7 @@ Source: [Trustpilot Trust Centre](https://corporate.trustpilot.com/trust)
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
 
-**[00:31:27](/episodes/ep-BKcOm32ZEGk.md#ent-org-trustpilot-t-00-31-02)**
+**[00:31:27](/episodes/ep-BKcOm32ZEGk.md#ent-org-trustpilot-t-00-30-57)**
 > "five-star rating on Trustpilot"
 
 </details>

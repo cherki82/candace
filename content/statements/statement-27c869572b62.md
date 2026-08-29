@@ -4,9 +4,10 @@ description: "\"Future history books should not describe Gazans as the victims; 
 statement_id: "statement-27c869572b62"
 speaker: "Mike Pompeo"
 type: "opinion"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -37,8 +38,22 @@ type: "opinion"
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Verified as an attributed opinion, not as an objective judgment about the conflict. In the primary clip played in the episode, Mike Pompeo said history books should not write about 'the victims of Gaza,' then clarified that civilian victims did exist in Gaza but argued that Israel was the victim and that Iran and Hamas were the aggressors. The source statement accurately captures the position he expressed, while his clarification is important context.
+
+**Confidence:** High
+
+**Sources:**
+
+- [A Conversation with Sec. Mike Pompeo — The MirYam Institute](https://www.miryaminstitute.org/commentary-blog/briefing-a-conversation-with-sec-mike-pompeo)
+- [Mike Pompeo Applauded for Saying 'We Need to Make Sure' That History Books 'Don't Write About the Victims of Gaza'](https://www.mediaite.com/politics/mike-pompeo-applauded-for-saying-we-need-to-make-sure-that-history-books-dont-write-about-the-victims-of-gaza/)
+
+*Verified: 2026-08-28T23:27:35.586057*
 
 ---
 
-**Type:** Opinion | **Verifiable:** No
+**Type:** Opinion | **Verifiable:** Yes

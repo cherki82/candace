@@ -1,6 +1,6 @@
 ---
 title: "God"
-description: "God (Concepts) - 542 mentions"
+description: "God (Concepts) - 548 mentions"
 id: "concept-god"
 type: "CONCEPT"
 aliases:
@@ -22,8 +22,8 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-57-16">2025-09-15 · 00:57:42</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#t-00-58-18">2026-08-21 · 00:58:39</a></strong></div>
-<div><span>Episodes</span><strong>103</strong></div>
-<div><span>Mentions</span><strong>542</strong></div>
+<div><span>Episodes</span><strong>104</strong></div>
+<div><span>Mentions</span><strong>548</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -78,7 +78,8 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 <a href="/episodes/ep-zSKrxIUMNqw.md#t-00-32-50" style="--pulse-height:10%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 3 mentions" title="2026-01-07 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#t-00-22-55" style="--pulse-height:13%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 4 mentions" title="2026-01-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#t-00-36-40" style="--pulse-height:17%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 5 mentions" title="2026-01-12 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#t-00-00-00" style="--pulse-height:20%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 6 mentions" title="2026-01-13 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#t-00-00-31" style="--pulse-height:17%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 5 mentions" title="2026-01-13 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#t-00-27-39" style="--pulse-height:23%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 7 mentions" title="2026-01-14 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#t-00-56-58" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#t-00-13-59" style="--pulse-height:23%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 7 mentions" title="2026-01-27 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#t-00-08-46" style="--pulse-height:53%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 16 mentions" title="2026-01-28 · 16 mentions"><span></span></a>
@@ -186,7 +187,8 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#t-00-32-50) | 3 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#t-00-22-55) | 4 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#t-00-36-40) | 5 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#t-00-00-00) | 6 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#t-00-00-31) | 5 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#t-00-27-39) | 7 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#t-00-56-58) | 1 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#t-00-13-59) | 7 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#t-00-08-46) | 16 |
@@ -252,7 +254,7 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (542)</strong></summary>
+<summary><strong class="section-title">Raw mentions (548)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (4 mentions)</summary>
@@ -1610,24 +1612,47 @@ Source: [Encyclopaedia Britannica — God](https://www.britannica.com/topic/God)
 </details>
 
 <details>
-<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (6 mentions)</summary>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (7 mentions)</summary>
 
-**[00:00:32](/episodes/ep-ZZGWo6oDscc.md#t-00-00-00)**
-> "their backgrounds, finding God,"
+**[00:27:46](/episodes/ep-BKcOm32ZEGk.md#t-00-27-39)**
+> "certain actually that god is real that's what they're fighting fighting god..."
 
-**[00:00:35](/episodes/ep-ZZGWo6oDscc.md#t-00-00-00)**
+**[00:29:02](/episodes/ep-BKcOm32ZEGk.md#t-00-28-49)**
+> "...n goodness, eternal goodness, God?"
+
+**[00:32:35](/episodes/ep-BKcOm32ZEGk.md#t-00-32-19)**
+> "...eing created to conflict with God."
+
+**[00:34:13](/episodes/ep-BKcOm32ZEGk.md#t-00-34-13)**
+> "...and essentially try and erase god from the story of creation to create a scientific..."
+
+**[00:34:34](/episodes/ep-BKcOm32ZEGk.md#t-00-34-34)**
+> "... science they're trying to be god this is like the next step for them we're control..."
+
+**[00:36:05](/episodes/ep-BKcOm32ZEGk.md#t-00-35-53)**
+> "...wo, I went into Dionysus, the god of Amiens, which was from that town where weird t..."
+
+**[00:36:19](/episodes/ep-BKcOm32ZEGk.md#t-00-35-53)**
+> "...uivalent, Dionysus being like God of wine and revelry, Shiva would be the equivalen..."
+
+</details>
+
+<details>
+<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (5 mentions)</summary>
+
+**[00:00:31](/episodes/ep-ZZGWo6oDscc.md#t-00-00-31)**
 > "the grift of finding God I'm referring to,"
 
-**[00:18:17](/episodes/ep-ZZGWo6oDscc.md#t-00-18-11)**
+**[00:18:17](/episodes/ep-ZZGWo6oDscc.md#t-00-17-43)**
 > "...'m sure this was all done for God."
 
-**[00:25:42](/episodes/ep-ZZGWo6oDscc.md#t-00-25-18)**
+**[00:25:28](/episodes/ep-ZZGWo6oDscc.md#t-00-25-18)**
 > "...you are in fact a in effect a god yourself responsible for your own decisions conce..."
 
-**[00:46:58](/episodes/ep-ZZGWo6oDscc.md#t-00-46-50)**
+**[00:46:54](/episodes/ep-ZZGWo6oDscc.md#t-00-46-54)**
 > "...ney and they don't believe in god by the way many of them were brainwashed themselv..."
 
-**[00:47:56](/episodes/ep-ZZGWo6oDscc.md#t-00-47-56)**
+**[00:47:56](/episodes/ep-ZZGWo6oDscc.md#t-00-47-37)**
 > "...he details but the details of god are from the mother of god look in the end god wi..."
 
 </details>

@@ -29,7 +29,7 @@ type: "opinion"
 ## Source
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
-**Timestamp:** [00:25:03](/episodes/ep-ZZGWo6oDscc.md#t-00-24-39) 
+**Timestamp:** [00:25:03](/episodes/ep-ZZGWo6oDscc.md#t-00-24-38) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1503);return false;">Play</a>
 
 > So the Temple of Set exists to explore the self, the personality, and we do this through the media of ancient Egyptian religion, which we found to be the most sophisticated. So what you see in the Temple of Set is not anything with an agenda towards good or evil per se, but rather towards... understanding consciousness and once you understand consciousness to maximize your personal use of it in such a way that you are not the slave to conventions or or to propaganda of any sort for that matter

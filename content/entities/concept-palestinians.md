@@ -1,6 +1,6 @@
 ---
 title: "Palestinians"
-description: "Palestinians (Concepts) - 18 mentions"
+description: "Palestinians (Concepts) - 22 mentions"
 id: "concept-palestinians"
 type: "CONCEPT"
 aliases:
@@ -19,8 +19,8 @@ _Type: Concepts_
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-concept-palestinians-t-00-46-58">2025-10-09 · 00:47:13</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-mLvJqdxS-FY.md#ent-concept-palestinians-t-00-50-45">2026-07-16 · 00:51:11</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Episodes</span><strong>11</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -33,6 +33,8 @@ _Type: Concepts_
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-pc3pxRyNFZk.md#ent-concept-palestinians-t-00-46-58" style="--pulse-height:40%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 2 mentions" title="2025-10-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-concept-palestinians-t-00-47-48" style="--pulse-height:20%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-palestinians-t-00-43-19" style="--pulse-height:40%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-concept-palestinians-t-00-33-05" style="--pulse-height:40%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-palestinians-t-00-44-48" style="--pulse-height:40%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-concept-palestinians-t-00-30-37" style="--pulse-height:20%" aria-label="SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339: 1 mentions" title="2026-05-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-concept-palestinians-t-00-07-58" style="--pulse-height:80%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 4 mentions" title="2026-05-27 · 4 mentions"><span></span></a>
@@ -47,6 +49,8 @@ _Type: Concepts_
 |---|---|---:|
 | 2025-10-09 | [REVELATIONS: The Truth About Charlie's Medical Report | Candace Ep 251](/episodes/ep-pc3pxRyNFZk.md#ent-concept-palestinians-t-00-46-58) | 2 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-concept-palestinians-t-00-47-48) | 1 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-palestinians-t-00-43-19) | 2 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-palestinians-t-00-33-05) | 2 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-concept-palestinians-t-00-44-48) | 2 |
 | 2026-05-14 | [SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339](/episodes/ep-Pb7UlpRdW6U.md#ent-concept-palestinians-t-00-30-37) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-concept-palestinians-t-00-07-58) | 4 |
@@ -61,7 +65,7 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
 
 <details>
 <summary>COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361 (1 mentions)</summary>
@@ -140,6 +144,28 @@ _Type: Concepts_
 
 **[00:54:08](/episodes/ep-i8m_6D4QGmk.md#ent-concept-palestinians-t-00-53-52)**
 > "...e thousands of dead, innocent Palestinian children from beneath the rubble in Gaza so that ..."
+
+</details>
+
+<details>
+<summary>Myron Gaines x Candace Owens (2 mentions)</summary>
+
+**[00:33:19](/episodes/ep-2T39-oADLj0.md#ent-concept-palestinians-t-00-33-05)**
+> "...aths there were every year of Palestinians versus Israelis."
+
+**[00:34:12](/episodes/ep-2T39-oADLj0.md#ent-concept-palestinians-t-00-34-12)**
+> "...use no one ever sees like the palestinian perspective because it's like almost like in amer..."
+
+</details>
+
+<details>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (2 mentions)</summary>
+
+**[00:43:33](/episodes/ep-BKcOm32ZEGk.md#ent-concept-palestinians-t-00-43-19)**
+> "...urdered tens and thousands of Palestinian women and children and innocent men because it's ..."
+
+**[00:44:42](/episodes/ep-BKcOm32ZEGk.md#ent-concept-palestinians-t-00-44-42)**
+> "... textbooks about the innocent Palestinians. He's like, oh, I mean, we're on camera."
 
 </details>
 

@@ -36,7 +36,7 @@ Source: [About Virginia | Commonwealth of Virginia](https://www.commonwealth.vir
 <a href="/episodes/ep-6DhWawD4ZiM.md#ent-gpe-virginia-t-00-26-00" style="--pulse-height:50%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 2 mentions" title="2025-12-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-virginia-t-00-34-45" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 4 mentions" title="2026-01-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-virginia-t-00-23-16" style="--pulse-height:50%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-virginia-t-00-50-30" style="--pulse-height:25%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-virginia-t-00-50-22" style="--pulse-height:25%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-gpe-virginia-t-00-08-54" style="--pulse-height:25%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-gpe-virginia-t-00-15-54" style="--pulse-height:25%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#t-00-06-07" style="--pulse-height:25%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
@@ -56,7 +56,7 @@ Source: [About Virginia | Commonwealth of Virginia](https://www.commonwealth.vir
 | 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-gpe-virginia-t-00-26-00) | 2 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-virginia-t-00-34-45) | 4 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-virginia-t-00-23-16) | 2 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-virginia-t-00-50-30) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-virginia-t-00-50-22) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-gpe-virginia-t-00-08-54) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-gpe-virginia-t-00-15-54) | 1 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#t-00-06-07) | 1 |
@@ -141,7 +141,7 @@ Source: [About Virginia | Commonwealth of Virginia](https://www.commonwealth.vir
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:50:46](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-virginia-t-00-50-30)**
+**[00:50:44](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-virginia-t-00-50-22)**
 > "...nnected the dots in our rural Virginia area."
 
 </details>

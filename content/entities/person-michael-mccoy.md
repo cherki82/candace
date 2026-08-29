@@ -1,6 +1,6 @@
 ---
 title: "Michael McCoy"
-description: "Michael McCoy (People) - 352 mentions"
+description: "Michael McCoy (People) - 353 mentions"
 id: "person-michael-mccoy"
 type: "PERSON"
 aliases:
@@ -26,7 +26,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-person-michael-mccoy-t-00-19-30">2025-10-01 · 00:19:30</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-michael-mccoy-t-01-06-19">2026-08-21 · 01:06:28</a></strong></div>
 <div><span>Episodes</span><strong>71</strong></div>
-<div><span>Mentions</span><strong>352</strong></div>
+<div><span>Mentions</span><strong>353</strong></div>
 <div><span>Statements by</span><strong>4</strong></div>
 <div><span>Statements about</span><strong>75</strong></div>
 <div><span>Relationships</span><strong>30</strong></div>
@@ -63,8 +63,8 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-michael-mccoy-t-00-19-05" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-michael-mccoy-t-00-11-36" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-michael-mccoy-t-00-06-24" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-person-michael-mccoy-t-00-59-40" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-michael-mccoy-t-00-19-00" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-person-michael-mccoy-t-00-59-40" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-michael-mccoy-t-00-18-49" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-michael-mccoy-t-00-29-56" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-michael-mccoy-t-00-24-42" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-michael-mccoy-t-00-21-01" style="--pulse-height:8%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 3 mentions" title="2026-02-04 · 3 mentions"><span></span></a>
@@ -139,8 +139,8 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-michael-mccoy-t-00-19-05) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-michael-mccoy-t-00-11-36) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-michael-mccoy-t-00-06-24) | 1 |
-| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-michael-mccoy-t-00-59-40) | 1 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-michael-mccoy-t-00-19-00) | 1 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-michael-mccoy-t-00-59-40) | 2 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-michael-mccoy-t-00-18-49) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-michael-mccoy-t-00-29-56) | 2 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-michael-mccoy-t-00-24-42) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-michael-mccoy-t-00-21-01) | 3 |
@@ -191,7 +191,7 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (352)</strong></summary>
+<summary><strong class="section-title">Raw mentions (353)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>
@@ -888,16 +888,19 @@ Source: [Michael McCoy & Blake Neff | Charlie Kirk Today](https://www.tbn.org/pr
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
 
-**[00:19:00](/episodes/ep-NIEbqsLAK8g.md#ent-person-michael-mccoy-t-00-19-00)**
+**[00:19:00](/episodes/ep-NIEbqsLAK8g.md#ent-person-michael-mccoy-t-00-18-49)**
 > "Elizabeth and Mikey are in the shadows"
 
 </details>
 
 <details>
-<summary>Myron Gaines x Candace Owens (1 mentions)</summary>
+<summary>Myron Gaines x Candace Owens (2 mentions)</summary>
 
-**[00:59:43](/episodes/ep-2T39-oADLj0.md#ent-person-michael-mccoy-t-00-59-40)**
+**[00:59:40](/episodes/ep-2T39-oADLj0.md#ent-person-michael-mccoy-t-00-59-40)**
 > "Mikey McCoy was the person"
+
+**[00:59:46](/episodes/ep-2T39-oADLj0.md#ent-person-michael-mccoy-t-00-59-40)**
+> "...annel back with a speech from Mikey and everyone was kind of trying to soft sell Mike..."
 
 </details>
 

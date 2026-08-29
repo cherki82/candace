@@ -279,13 +279,13 @@ Source: [Epstein Library | U.S. Department of Justice](https://www.justice.gov/e
 **[00:18:05](/episodes/ep-2T39-oADLj0.md#ent-work-epstein-files-t-00-18-05)**
 > "what Epstein files"
 
-**[00:19:24](/episodes/ep-2T39-oADLj0.md#ent-work-epstein-files-t-00-18-50)**
+**[00:19:20](/episodes/ep-2T39-oADLj0.md#ent-work-epstein-files-t-00-18-50)**
 > "...e actually to see about these Epstein files."
 
-**[00:19:31](/episodes/ep-2T39-oADLj0.md#ent-work-epstein-files-t-00-19-31)**
+**[00:19:29](/episodes/ep-2T39-oADLj0.md#ent-work-epstein-files-t-00-19-29)**
 > "...hat needed to happen with the Epstein files."
 
-**[00:21:59](/episodes/ep-2T39-oADLj0.md#ent-work-epstein-files-t-00-21-47)**
+**[00:21:57](/episodes/ep-2T39-oADLj0.md#ent-work-epstein-files-t-00-21-47)**
 > "The Epstein files was the name on the paper."
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "Internal Revenue Service"
-description: "Internal Revenue Service (Organizations) - 171 mentions"
+description: "Internal Revenue Service (Organizations) - 170 mentions"
 id: "org-internal-revenue-service"
 type: "ORG"
 aliases:
@@ -24,7 +24,7 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-internal-revenue-service-t-01-06-07">2025-09-16 · 01:06:16</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-internal-revenue-service-t-01-15-28">2026-08-17 · 01:15:51</a></strong></div>
 <div><span>Episodes</span><strong>49</strong></div>
-<div><span>Mentions</span><strong>171</strong></div>
+<div><span>Mentions</span><strong>170</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -52,7 +52,7 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-internal-revenue-service-t-00-56-30" style="--pulse-height:83%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 5 mentions" title="2026-01-06 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-internal-revenue-service-t-01-13-46" style="--pulse-height:83%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 5 mentions" title="2026-01-09 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-org-internal-revenue-service-t-00-49-07" style="--pulse-height:83%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 5 mentions" title="2026-01-16 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-org-internal-revenue-service-t-00-48-04" style="--pulse-height:83%" aria-label="Myron Gaines x Candace Owens: 5 mentions" title="2026-01-16 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-org-internal-revenue-service-t-00-48-04" style="--pulse-height:67%" aria-label="Myron Gaines x Candace Owens: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-org-internal-revenue-service-t-01-04-02" style="--pulse-height:67%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-org-internal-revenue-service-t-00-36-10" style="--pulse-height:67%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 4 mentions" title="2026-02-05 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-org-internal-revenue-service-t-00-34-35" style="--pulse-height:83%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 5 mentions" title="2026-02-10 · 5 mentions"><span></span></a>
@@ -106,7 +106,7 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-internal-revenue-service-t-00-56-30) | 5 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-internal-revenue-service-t-01-13-46) | 5 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-internal-revenue-service-t-00-49-07) | 5 |
-| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-internal-revenue-service-t-00-48-04) | 5 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-internal-revenue-service-t-00-48-04) | 4 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-org-internal-revenue-service-t-01-04-02) | 4 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-org-internal-revenue-service-t-00-36-10) | 4 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-internal-revenue-service-t-00-34-35) | 5 |
@@ -145,7 +145,7 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (171)</strong></summary>
+<summary><strong class="section-title">Raw mentions (170)</strong></summary>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (4 mentions)</summary>
@@ -656,21 +656,18 @@ Source: [IRS — The agency, its mission and statutory authority](https://www.ir
 </details>
 
 <details>
-<summary>Myron Gaines x Candace Owens (5 mentions)</summary>
+<summary>Myron Gaines x Candace Owens (4 mentions)</summary>
 
-**[00:48:16](/episodes/ep-2T39-oADLj0.md#ent-org-internal-revenue-service-t-00-48-04)**
+**[00:48:09](/episodes/ep-2T39-oADLj0.md#ent-org-internal-revenue-service-t-00-48-04)**
 > "the IRS is fighting back"
 
 **[00:48:27](/episodes/ep-2T39-oADLj0.md#ent-org-internal-revenue-service-t-00-48-04)**
-> "The IRS can obviously take your wages,"
-
-**[00:48:34](/episodes/ep-2T39-oADLj0.md#ent-org-internal-revenue-service-t-00-48-04)**
 > "it's not a question if the IRS is going to act against you, but when."
 
-**[00:48:38](/episodes/ep-2T39-oADLj0.md#ent-org-internal-revenue-service-t-00-48-04)**
+**[00:48:37](/episodes/ep-2T39-oADLj0.md#ent-org-internal-revenue-service-t-00-48-04)**
 > "...is offering a completely free IRS research and discovery call to show you exactly w..."
 
-**[00:48:51](/episodes/ep-2T39-oADLj0.md#ent-org-internal-revenue-service-t-00-48-44)**
+**[00:48:50](/episodes/ep-2T39-oADLj0.md#ent-org-internal-revenue-service-t-00-48-44)**
 > "...nting yourself or calling the IRS on your own,"
 
 </details>

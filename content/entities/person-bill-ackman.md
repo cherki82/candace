@@ -50,7 +50,7 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-bill-ackman-t-00-35-35" style="--pulse-height:8%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sImMM04XdWY.md#ent-person-bill-ackman-t-00-14-43" style="--pulse-height:26%" aria-label="Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269: 5 mentions" title="2025-11-20 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-person-bill-ackman-t-00-16-56" style="--pulse-height:11%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-bill-ackman-t-00-01-23" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-bill-ackman-t-00-01-19" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-bill-ackman-t-00-54-01" style="--pulse-height:11%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 2 mentions" title="2026-01-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-person-bill-ackman-t-00-50-24" style="--pulse-height:11%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-person-bill-ackman-t-00-43-43" style="--pulse-height:8%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
@@ -82,7 +82,7 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-bill-ackman-t-00-35-35) | 1 |
 | 2025-11-20 | [Another French Front: Did Charlie Kirk Save My Life? | Candace Ep 269](/episodes/ep-sImMM04XdWY.md#ent-person-bill-ackman-t-00-14-43) | 5 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-person-bill-ackman-t-00-16-56) | 2 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-bill-ackman-t-00-01-23) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-bill-ackman-t-00-01-19) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-bill-ackman-t-00-54-01) | 2 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-person-bill-ackman-t-00-50-24) | 2 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-person-bill-ackman-t-00-43-43) | 1 |
@@ -249,7 +249,7 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:01:58](/episodes/ep-ZZGWo6oDscc.md#ent-person-bill-ackman-t-00-01-23)**
+**[00:01:54](/episodes/ep-ZZGWo6oDscc.md#ent-person-bill-ackman-t-00-01-19)**
 > "by the way, Bill Ackman confirmed it,"
 
 </details>
@@ -760,7 +760,7 @@ Source: [Bill Ackman | Pershing Square USA](https://pershingsquareusa.com/team/b
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
 
-- [00:01:58](/episodes/ep-ZZGWo6oDscc.md#t-00-01-23) (Claim) **Candace Owens** (via paraphrase): ["Bill Ackman confirmed that he gave a presentation encouraging younger ..."](/statements/statement-4c4334b7bc81.md)
+- [00:01:58](/episodes/ep-ZZGWo6oDscc.md#t-00-01-19) (Claim) **Candace Owens** (via paraphrase): ["Bill Ackman confirmed that he gave a presentation encouraging younger ..."](/statements/statement-4c4334b7bc81.md)
   - Also about: [Land grab](/entities/concept-land-grab.md)
 
 </details>

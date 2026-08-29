@@ -38,7 +38,7 @@ Source: [Coronavirus disease (COVID-19) - WHO](https://www.who.int/health-topics
 <p>Highest activity: <a href="/episodes/ep-1QZ4X6q1DPg.md#ent-concept-covid-19-t-00-06-54">Hunter Biden Returns. The White House Ghosts Me Regarding Erika… | Candace Ep 340</a> (9 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-concept-covid-19-t-00-29-20" style="--pulse-height:11%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-covid-19-t-00-24-06" style="--pulse-height:33%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 3 mentions" title="2026-01-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-covid-19-t-00-23-59" style="--pulse-height:33%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 3 mentions" title="2026-01-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-covid-19-t-00-13-24" style="--pulse-height:44%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 4 mentions" title="2026-02-04 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-covid-19-t-00-22-04" style="--pulse-height:22%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 2 mentions" title="2026-02-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-cZxHqYsWRYg.md#ent-concept-covid-19-t-00-47-33" style="--pulse-height:11%" aria-label="Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3: 1 mentions" title="2026-02-28 · 1 mentions"><span></span></a>
@@ -60,7 +60,7 @@ Source: [Coronavirus disease (COVID-19) - WHO](https://www.who.int/health-topics
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-concept-covid-19-t-00-29-20) | 1 |
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-covid-19-t-00-24-06) | 3 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-covid-19-t-00-23-59) | 3 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-concept-covid-19-t-00-13-24) | 4 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-concept-covid-19-t-00-22-04) | 2 |
 | 2026-02-28 | [Bride Of Charlie: Have No Fear, Lori Is Here. | Episode 3](/episodes/ep-cZxHqYsWRYg.md#ent-concept-covid-19-t-00-47-33) | 1 |
@@ -259,13 +259,13 @@ Source: [Coronavirus disease (COVID-19) - WHO](https://www.who.int/health-topics
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (3 mentions)</summary>
 
-**[00:24:15](/episodes/ep-BKcOm32ZEGk.md#ent-concept-covid-19-t-00-24-06)**
+**[00:24:15](/episodes/ep-BKcOm32ZEGk.md#ent-concept-covid-19-t-00-23-59)**
 > "Create COVID in a lab"
 
-**[00:32:07](/episodes/ep-BKcOm32ZEGk.md#ent-concept-covid-19-t-00-31-40)**
+**[00:32:07](/episodes/ep-BKcOm32ZEGk.md#ent-concept-covid-19-t-00-31-39)**
 > "...d in that. I feel like it was COVID,"
 
-**[00:32:21](/episodes/ep-BKcOm32ZEGk.md#ent-concept-covid-19-t-00-32-21)**
+**[00:32:21](/episodes/ep-BKcOm32ZEGk.md#ent-concept-covid-19-t-00-32-19)**
 > "...g how they tried to establish COVID to mirror a religion."
 
 </details>
@@ -301,9 +301,9 @@ _No relationships extracted yet._
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (2)</summary>
 
-- [00:24:11](/episodes/ep-BKcOm32ZEGk.md#t-00-24-06) (Accusation) **Candace Owens**: ["COVID-19 was created in a lab, people were made sick, and people were ..."](/statements/statement-ee790d7aa477.md)
+- [00:24:11](/episodes/ep-BKcOm32ZEGk.md#t-00-23-59) (Accusation) **Candace Owens**: ["COVID-19 was created in a lab, people were made sick, and people were ..."](/statements/statement-ee790d7aa477.md)
 
-- [00:32:19](/episodes/ep-BKcOm32ZEGk.md#t-00-31-40) (Citation) **Candace Owens**: ["A Spectator UK article argued that COVID-19 was established to mirror ..."](/statements/statement-1d6a5f522fbd.md)
+- [00:32:19](/episodes/ep-BKcOm32ZEGk.md#t-00-32-19) (Citation) **Candace Owens**: ["A Spectator UK article argued that COVID-19 was established to mirror ..."](/statements/statement-1d6a5f522fbd.md)
   - Also about: [The Spectator](/entities/org-the-spectator.md)
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "Rob McCoy"
-description: "Rob McCoy (People) - 177 mentions"
+description: "Rob McCoy (People) - 176 mentions"
 id: "person-rob-mccoy"
 type: "PERSON"
 aliases:
@@ -28,10 +28,10 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-rob-mccoy-t-00-56-12">2025-09-17 · 00:56:12</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-person-rob-mccoy-t-00-54-01">2026-08-11 · 00:54:18</a></strong></div>
 <div><span>Episodes</span><strong>45</strong></div>
-<div><span>Mentions</span><strong>177</strong></div>
+<div><span>Mentions</span><strong>176</strong></div>
 <div><span>Statements by</span><strong>14</strong></div>
 <div><span>Statements about</span><strong>38</strong></div>
-<div><span>Relationships</span><strong>52</strong></div>
+<div><span>Relationships</span><strong>54</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -64,8 +64,8 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-person-rob-mccoy-t-00-09-42" style="--pulse-height:17%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 2 mentions" title="2025-12-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-rob-mccoy-t-00-06-24" style="--pulse-height:92%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 11 mentions" title="2026-01-09 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-rob-mccoy-t-00-14-50" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-person-rob-mccoy-t-00-53-48" style="--pulse-height:25%" aria-label="Myron Gaines x Candace Owens: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-rob-mccoy-t-00-35-11" style="--pulse-height:58%" aria-label="A Legal Turning Point? | Candace Ep 292: 7 mentions" title="2026-01-19 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-person-rob-mccoy-t-00-53-48" style="--pulse-height:50%" aria-label="Myron Gaines x Candace Owens: 6 mentions" title="2026-01-16 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-rob-mccoy-t-00-35-11" style="--pulse-height:25%" aria-label="A Legal Turning Point? | Candace Ep 292: 3 mentions" title="2026-01-19 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-rob-mccoy-t-00-09-46" style="--pulse-height:33%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-rob-mccoy-t-00-12-50" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-rob-mccoy-t-00-22-52" style="--pulse-height:8%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
@@ -114,8 +114,8 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-person-rob-mccoy-t-00-09-42) | 2 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-rob-mccoy-t-00-06-24) | 11 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-rob-mccoy-t-00-14-50) | 1 |
-| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-rob-mccoy-t-00-53-48) | 3 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-rob-mccoy-t-00-35-11) | 7 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-rob-mccoy-t-00-53-48) | 6 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-rob-mccoy-t-00-35-11) | 3 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-rob-mccoy-t-00-09-46) | 4 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-rob-mccoy-t-00-12-50) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-rob-mccoy-t-00-22-52) | 1 |
@@ -141,7 +141,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (177)</strong></summary>
+<summary><strong class="section-title">Raw mentions (176)</strong></summary>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (2 mentions)</summary>
@@ -333,24 +333,12 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 </details>
 
 <details>
-<summary>A Legal Turning Point? | Candace Ep 292 (7 mentions)</summary>
+<summary>A Legal Turning Point? | Candace Ep 292 (3 mentions)</summary>
 
 **[00:35:20](/episodes/ep-NIEbqsLAK8g.md#ent-person-rob-mccoy-t-00-35-11)**
 > "Pastor Rob McCoy, the leader of Turning Point Faith"
 
-**[00:19:00](/episodes/ep-NIEbqsLAK8g.md#ent-person-rob-mccoy-t-00-34-33)**
-> "It's probably Elizabeth McCoy. I feel like if I had to guess, it's her, because..."
-
-**[00:19:39](/episodes/ep-NIEbqsLAK8g.md#ent-person-rob-mccoy-t-00-34-33)**
-> "... think I think it's Elizabeth McCoy. Remember,"
-
-**[00:19:41](/episodes/ep-NIEbqsLAK8g.md#ent-person-rob-mccoy-t-00-34-33)**
-> "it was Elizabeth McCoy."
-
-**[00:19:46](/episodes/ep-NIEbqsLAK8g.md#ent-person-rob-mccoy-t-00-34-33)**
-> "...piracy theory. It's Elizabeth McCoy. She's going to slide to that spot and then she's..."
-
-**[00:34:59](/episodes/ep-NIEbqsLAK8g.md#ent-person-rob-mccoy-t-00-34-33)**
+**[00:34:59](/episodes/ep-NIEbqsLAK8g.md#ent-person-rob-mccoy-t-00-34-18)**
 > "Rob McCoy."
 
 **[00:35:58](/episodes/ep-NIEbqsLAK8g.md#ent-person-rob-mccoy-t-00-35-58)**
@@ -367,16 +355,25 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 </details>
 
 <details>
-<summary>Myron Gaines x Candace Owens (3 mentions)</summary>
+<summary>Myron Gaines x Candace Owens (6 mentions)</summary>
 
 **[00:53:48](/episodes/ep-2T39-oADLj0.md#ent-person-rob-mccoy-t-00-53-48)**
 > "faith in quotation marks because charlie would have believed the people that came to him and told him to grow the organization and you know to become the boots on the ground for faith he cared very deeply about his faith and the characters the cast of characters and the pastors that are around him rotten like very rotten the mccoys rob mccoy unbelievably rotten and i've been covering a lot with him and"
 
-**[00:54:19](/episodes/ep-2T39-oADLj0.md#ent-person-rob-mccoy-t-00-54-19)**
+**[00:54:16](/episodes/ep-2T39-oADLj0.md#ent-person-rob-mccoy-t-00-54-16)**
 > "...nizations and ministries with Rob McCoy at the center of some of these scandals, it's loo..."
 
-**[00:59:43](/episodes/ep-2T39-oADLj0.md#ent-person-rob-mccoy-t-00-54-19)**
+**[00:59:40](/episodes/ep-2T39-oADLj0.md#ent-person-rob-mccoy-t-00-54-16)**
 > "Mikey McCoy was the person that they wanted to launch as the ..."
+
+**[00:46:48](/episodes/ep-2T39-oADLj0.md#ent-person-rob-mccoy-t-00-53-48)**
+> "...ing robbers outside trying to rob"
+
+**[00:47:09](/episodes/ep-2T39-oADLj0.md#ent-person-rob-mccoy-t-00-53-48)**
+> "Rob your house, your dogs start barking and the robbe..."
+
+**[00:59:59](/episodes/ep-2T39-oADLj0.md#ent-person-rob-mccoy-t-00-54-16)**
+> "And you're brought in by Rob, your dad, who is dirty. I mean, very dirty guy. ..."
 
 </details>
 
@@ -1153,7 +1150,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 </details>
 
 <details>
-<summary>Works For (4)</summary>
+<summary>Works For (5)</summary>
 
 - **[Potter's Fields Ministries](/entities/org-potters-fields-ministries.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1184,10 +1181,17 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 
 </details>
 
+- **[Turning Point Faith](/entities/org-turning-point-faith.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Legal Turning Point? | Candace Ep 292 @ 00:35:18](/episodes/ep-NIEbqsLAK8g.md#t-00-35-11): “Pastor Rob McCoy, the leader of Turning Point Faith”
+
+</details>
+
 </details>
 
 <details>
-<summary>Referenced By (26)</summary>
+<summary>Referenced By (27)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -1279,6 +1283,13 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265 @ 00:03:48](/episodes/ep-7RLtGgkTh9o.md#t-00-03-30): “Rob McCoy being the lead pastor in Thousand Oaks—one of their many churches across the United States”
+
+</details>
+
+- **[Turning Point Faith](/entities/org-turning-point-faith.md)** employs this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Legal Turning Point? | Candace Ep 292 @ 00:35:18](/episodes/ep-NIEbqsLAK8g.md#t-00-35-11): “Pastor Rob McCoy, the leader of Turning Point Faith”
 
 </details>
 
@@ -1524,7 +1535,7 @@ Source: [Rob McCoy | TPUSA Faith](https://tpusafaith.com/staff/rob-mccoy/)
 <details>
 <summary>Myron Gaines x Candace Owens (1)</summary>
 
-- [00:54:16](/episodes/ep-2T39-oADLj0.md#t-00-53-48) (Accusation) **Candace Owens**: ["Calvary Chapel has repeatedly been accused of hostile takeovers of fai..."](/statements/statement-069dad6c023a.md)
+- [00:54:16](/episodes/ep-2T39-oADLj0.md#t-00-53-48) (Accusation) **Candace Owens**: ["Owens said it looked like Calvary Chapel had previously been accused o..."](/statements/statement-069dad6c023a.md)
   - Also about: [Calvary Chapel](/entities/org-calvary-chapel.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>

@@ -17,7 +17,7 @@ _Type: Organizations_
 Source: [The History & Impact of Planned Parenthood](https://www.plannedparenthood.org/about-us/who-we-are/our-history)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-org-planned-parenthood-t-00-05-13">2026-01-16 · 00:05:39</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-org-planned-parenthood-t-00-05-00">2026-01-16 · 00:05:25</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-planned-parenthood-t-00-32-39">2026-03-02 · 00:32:55</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
@@ -29,16 +29,16 @@ Source: [The History & Impact of Planned Parenthood](https://www.plannedparentho
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-2T39-oADLj0.md#ent-org-planned-parenthood-t-00-05-13">Myron Gaines x Candace Owens</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-2T39-oADLj0.md#ent-org-planned-parenthood-t-00-05-00">Myron Gaines x Candace Owens</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-2T39-oADLj0.md#ent-org-planned-parenthood-t-00-05-13" style="--pulse-height:100%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-org-planned-parenthood-t-00-05-00" style="--pulse-height:100%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-org-planned-parenthood-t-00-32-39" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-planned-parenthood-t-00-05-13) | 1 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-planned-parenthood-t-00-05-00) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-org-planned-parenthood-t-00-32-39) | 1 |
 
 </details>
@@ -60,7 +60,7 @@ Source: [The History & Impact of Planned Parenthood](https://www.plannedparentho
 <details>
 <summary>Myron Gaines x Candace Owens (1 mentions)</summary>
 
-**[00:05:39](/episodes/ep-2T39-oADLj0.md#ent-org-planned-parenthood-t-00-05-13)**
+**[00:05:25](/episodes/ep-2T39-oADLj0.md#ent-org-planned-parenthood-t-00-05-00)**
 > "from Planned Parenthood"
 
 </details>

@@ -39,7 +39,7 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 <p>Highest activity: <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-org-israel-defense-forces-t-00-07-48">LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341</a> (13 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-israel-defense-forces-t-00-07-51" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-israel-defense-forces-t-00-51-49" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-israel-defense-forces-t-00-51-56" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-israel-defense-forces-t-00-45-42" style="--pulse-height:38%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 5 mentions" title="2026-01-29 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-y8lak3CRwDw.md#ent-org-israel-defense-forces-t-00-53-53" style="--pulse-height:8%" aria-label="Bride Of Charlie: What Happened In Romania? | Episode 6: 1 mentions" title="2026-03-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-israel-defense-forces-t-00-37-50" style="--pulse-height:15%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 2 mentions" title="2026-03-09 · 2 mentions"><span></span></a>
@@ -61,7 +61,7 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-israel-defense-forces-t-00-07-51) | 1 |
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-israel-defense-forces-t-00-51-49) | 1 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-israel-defense-forces-t-00-51-56) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-israel-defense-forces-t-00-45-42) | 5 |
 | 2026-03-04 | [Bride Of Charlie: What Happened In Romania? | Episode 6](/episodes/ep-y8lak3CRwDw.md#ent-org-israel-defense-forces-t-00-53-53) | 1 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-org-israel-defense-forces-t-00-37-50) | 2 |
@@ -314,7 +314,7 @@ Source: [Israel Defense Forces](https://www.idf.il/en/)
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
 
-**[00:52:03](/episodes/ep-BKcOm32ZEGk.md#ent-org-israel-defense-forces-t-00-51-49)**
+**[00:52:03](/episodes/ep-BKcOm32ZEGk.md#ent-org-israel-defense-forces-t-00-51-56)**
 > "training and recruitment from Israel directly from the IDF"
 
 </details>

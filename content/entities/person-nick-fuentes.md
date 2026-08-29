@@ -1,6 +1,6 @@
 ---
 title: "Nick Fuentes"
-description: "Nick Fuentes (People) - 96 mentions"
+description: "Nick Fuentes (People) - 95 mentions"
 id: "person-nick-fuentes"
 type: "PERSON"
 categories:
@@ -20,10 +20,10 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ozWJz2spBcI.md#ent-person-nick-fuentes-t-00-46-12">2025-10-06 · 00:46:28</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#ent-person-nick-fuentes-t-00-25-58">2026-07-22 · 00:26:06</a></strong></div>
 <div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>96</strong></div>
-<div><span>Statements by</span><strong>5</strong></div>
-<div><span>Statements about</span><strong>19</strong></div>
-<div><span>Relationships</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>95</strong></div>
+<div><span>Statements by</span><strong>4</strong></div>
+<div><span>Statements about</span><strong>20</strong></div>
+<div><span>Relationships</span><strong>22</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -43,9 +43,9 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-person-nick-fuentes-t-00-51-55" style="--pulse-height:8%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-person-nick-fuentes-t-00-15-40" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-nick-fuentes-t-00-40-43" style="--pulse-height:10%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-nick-fuentes-t-00-54-42" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-nick-fuentes-t-00-54-36" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-nick-fuentes-t-00-34-38" style="--pulse-height:17%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 5 mentions" title="2026-01-16 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-person-nick-fuentes-t-00-43-14" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-person-nick-fuentes-t-00-43-14" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-nick-fuentes-t-00-49-39" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-person-nick-fuentes-t-01-04-42" style="--pulse-height:10%" aria-label="TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330: 3 mentions" title="2026-04-29 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-eMtjzXkQrsU.md#ent-person-nick-fuentes-t-00-24-01" style="--pulse-height:8%" aria-label="A Tale of Two PR Disasters: Blake Lively &amp; Turning Point USA. | Candace Ep 333: 1 mentions" title="2026-05-05 · 1 mentions"><span></span></a>
@@ -69,9 +69,9 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-nick-fuentes-t-00-51-55) | 2 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-person-nick-fuentes-t-00-15-40) | 2 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-nick-fuentes-t-00-40-43) | 3 |
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-nick-fuentes-t-00-54-42) | 1 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-nick-fuentes-t-00-54-36) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-nick-fuentes-t-00-34-38) | 5 |
-| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-nick-fuentes-t-00-43-14) | 2 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-nick-fuentes-t-00-43-14) | 1 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-nick-fuentes-t-00-49-39) | 1 |
 | 2026-04-29 | [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330](/episodes/ep-qZ8RWfyuewQ.md#ent-person-nick-fuentes-t-01-04-42) | 3 |
 | 2026-05-05 | [A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333](/episodes/ep-eMtjzXkQrsU.md#ent-person-nick-fuentes-t-00-24-01) | 1 |
@@ -85,7 +85,7 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (96)</strong></summary>
+<summary><strong class="section-title">Raw mentions (95)</strong></summary>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
@@ -168,10 +168,7 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 </details>
 
 <details>
-<summary>Myron Gaines x Candace Owens (2 mentions)</summary>
-
-**[00:43:18](/episodes/ep-2T39-oADLj0.md#ent-person-nick-fuentes-t-00-43-14)**
-> "the Nic Fuentes backstory"
+<summary>Myron Gaines x Candace Owens (1 mentions)</summary>
 
 **[00:43:14](/episodes/ep-2T39-oADLj0.md#ent-person-nick-fuentes-t-00-43-14)**
 > "so and then the nick fuentes thing i"
@@ -181,7 +178,7 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
 
-**[00:54:46](/episodes/ep-BKcOm32ZEGk.md#ent-person-nick-fuentes-t-00-54-42)**
+**[00:54:46](/episodes/ep-BKcOm32ZEGk.md#ent-person-nick-fuentes-t-00-54-36)**
 > "I don't watch Nick Fuentes"
 
 </details>
@@ -491,8 +488,20 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 - **[Candace Owens](/entities/person-candace-owens.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:54:46](/episodes/ep-BKcOm32ZEGk.md#t-00-54-42): “i don't watch nick fuentes...it was the most obvious thing to me in the entire world he's a federal informant”
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:54:46](/episodes/ep-BKcOm32ZEGk.md#t-00-54-36): “i don't watch nick fuentes...it was the most obvious thing to me in the entire world he's a federal informant”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:01:07](/episodes/ep-X92MllIHDzw.md#t-00-00-45): “I also have maintained that he's clearly a federal informant, but who cares if people want to follow him?”
+
+</details>
+
+</details>
+
+<details>
+<summary>Appeared With (1)</summary>
+
+- **[Jeremy Boreing](/entities/person-jeremy-boreing.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:43:25](/episodes/ep-2T39-oADLj0.md#t-00-43-14): “twitter audio or x audio space that he did with jeremy boring who at that time was the ceo of daily wire and i heard the backstory i was like this is insane like what happened to him nobody can look at that backstory of what happened to him and not realize that it was just evil”
 
 </details>
 
@@ -594,20 +603,27 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 - **[Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:40:07](/episodes/ep-X92MllIHDzw.md#t-00-39-31): “the night before by Milo Yiannopoulos.”
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:40:07](/episodes/ep-X92MllIHDzw.md#t-00-39-31): “And we know for a fact, he was informed the night before, the night before by Milo Yiannopoulos. That the feds were going to beat that there was there was some Fed trap happening. And despite that, he went with a bullhorn, didn't just attend, he had a bullhorn and he's telling people to storm and he doesn't get arrested.”
 
 </details>
 
 </details>
 
 <details>
-<summary>Referenced By (10)</summary>
+<summary>Referenced By (11)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:54:46](/episodes/ep-BKcOm32ZEGk.md#t-00-54-42): “i don't watch nick fuentes...it was the most obvious thing to me in the entire world he's a federal informant”
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:54:46](/episodes/ep-BKcOm32ZEGk.md#t-00-54-36): “i don't watch nick fuentes...it was the most obvious thing to me in the entire world he's a federal informant”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:01:07](/episodes/ep-X92MllIHDzw.md#t-00-00-45): “I also have maintained that he's clearly a federal informant, but who cares if people want to follow him?”
+
+</details>
+
+- **[Jeremy Boreing](/entities/person-jeremy-boreing.md)** appeared with this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:43:25](/episodes/ep-2T39-oADLj0.md#t-00-43-14): “twitter audio or x audio space that he did with jeremy boring who at that time was the ceo of daily wire and i heard the backstory i was like this is insane like what happened to him nobody can look at that backstory of what happened to him and not realize that it was just evil”
 
 </details>
 
@@ -674,7 +690,7 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 - **[Milo Yiannopoulos](/entities/person-milo-yiannopoulos.md)** warned this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:40:07](/episodes/ep-X92MllIHDzw.md#t-00-39-31): “the night before by Milo Yiannopoulos.”
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:40:07](/episodes/ep-X92MllIHDzw.md#t-00-39-31): “And we know for a fact, he was informed the night before, the night before by Milo Yiannopoulos. That the feds were going to beat that there was there was some Fed trap happening. And despite that, he went with a bullhorn, didn't just attend, he had a bullhorn and he's telling people to storm and he doesn't get arrested.”
 
 </details>
 
@@ -683,12 +699,12 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Nick Fuentes (5)</strong></summary>
+<summary><strong class="section-title">Statements by Nick Fuentes (4)</strong></summary>
 
 <details>
-<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (5)</summary>
+<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (4)</summary>
 
-- [00:37:24](/episodes/ep-X92MllIHDzw.md#t-00-37-15) [○] (Opinion) ["The Epstein conduct was not really pedophilia because the victims were not five-..."](/statements/statement-4108402e7361.md)
+- [00:37:24](/episodes/ep-X92MllIHDzw.md#t-00-37-15) [✓] (Opinion) ["The Epstein conduct was not really pedophilia because the victims were not five-..."](/statements/statement-4108402e7361.md)
   - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
 
 - [00:37:53](/episodes/ep-X92MllIHDzw.md#t-00-37-15) [○] (Accusation) ["Jeffrey Epstein was probably a Jewish spy working with Israel and Israeli intell..."](/statements/statement-82394ee7cf91.md)
@@ -697,17 +713,15 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 - [00:42:37](/episodes/ep-X92MllIHDzw.md#t-00-42-10) [○] (Accusation) ["The Epstein operation was run-of-the-mill prostitution and sex trafficking condu..."](/statements/statement-49d4216cc82e.md)
   - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Israel](/entities/gpe-israel.md)
 
-- [00:42:52](/episodes/ep-X92MllIHDzw.md#t-00-42-10) [○] (Opinion) ["The Epstein matter is not about female victims; it is about the integrity of the..."](/statements/statement-63eaaa31c41d.md)
+- [00:42:52](/episodes/ep-X92MllIHDzw.md#t-00-42-10) [✓] (Opinion) ["The Epstein matter is not about female victims; it is about the integrity of the..."](/statements/statement-63eaaa31c41d.md)
   - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Marjorie Taylor Greene](/entities/person-marjorie-taylor-greene.md), [United States](/entities/gpe-united-states.md)
-
-- [00:44:18](/episodes/ep-X92MllIHDzw.md#t-00-44-18) [○] (Opinion) ["People from sub-Saharan Africa do not have a high IQ."](/statements/statement-e65d3024fc54.md)
 
 </details>
 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Nick Fuentes (19)</strong></summary>
+<summary><strong class="section-title">Statements about Nick Fuentes (20)</strong></summary>
 
 <details>
 <summary>The World Is A Stage: Trump Survives...Again? | Ep 343 (1)</summary>
@@ -729,7 +743,7 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 </details>
 
 <details>
-<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (8)</summary>
+<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (9)</summary>
 
 - [00:01:07](/episodes/ep-X92MllIHDzw.md#t-00-00-45) (Accusation) **Candace Owens**: ["Nick Fuentes is a federal informant."](/statements/statement-5d0250cc8684.md)
 
@@ -750,6 +764,8 @@ Source: [Far-right influencer Nick Fuentes accused of pepper spraying woman on h
 
 - [00:40:32](/episodes/ep-X92MllIHDzw.md#t-00-40-14) (Accusation) **Candace Owens**: ["Oh, I just got a quarter-million in Bitcoin from France from a guy who..."](/statements/statement-b212a8de94e1.md)
   - Also about: [France](/entities/gpe-france.md)
+
+- [00:44:18](/episodes/ep-X92MllIHDzw.md#t-00-44-18) (Opinion) **Candace Owens** (via paraphrase): ["Candace Owens says Nick Fuentes told her that people from sub-Saharan ..."](/statements/statement-e65d3024fc54.md)
 
 </details>
 

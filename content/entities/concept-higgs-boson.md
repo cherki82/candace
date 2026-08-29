@@ -21,7 +21,7 @@ _Type: Concepts_
 Source: [The Higgs boson | CERN](https://home.cern/science/physics/higgs-boson)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-higgs-boson-t-00-32-21">2026-01-14 · 00:32:56</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-higgs-boson-t-00-32-56">2026-01-14 · 00:32:56</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-higgs-boson-t-00-10-58">2026-02-04 · 00:11:18</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
@@ -67,7 +67,7 @@ Source: [The Higgs boson | CERN](https://home.cern/science/physics/higgs-boson)
 **[00:33:42](/episodes/ep-BKcOm32ZEGk.md#ent-concept-higgs-boson-t-00-33-05)**
 > "something called a Higgs boson"
 
-**[00:32:56](/episodes/ep-BKcOm32ZEGk.md#ent-concept-higgs-boson-t-00-32-21)**
+**[00:32:56](/episodes/ep-BKcOm32ZEGk.md#ent-concept-higgs-boson-t-00-32-56)**
 > "...mber we're trying to find the god particle that was another push mark jump on here and mansp..."
 
 **[00:34:13](/episodes/ep-BKcOm32ZEGk.md#ent-concept-higgs-boson-t-00-34-13)**

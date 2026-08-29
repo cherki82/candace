@@ -4,9 +4,10 @@ description: "\"Johnnie Moore said Christians were committed to building a world
 statement_id: "statement-a7519478aa4c"
 speaker: "Johnnie Moore"
 type: "promise"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -35,7 +36,22 @@ type: "promise"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The source-scoped transcript at 22:54 contains Johnnie Moore saying, in first person plural, that they are committed to building a great wall of Christian Zionism all over the world to push back antisemitism. The original episode recording preserves the clip, the Podscripts episode transcript reproduces the full wording and attribution, and a separate transcript of BBC Global News Podcast reporting independently identifies Moore and quotes the central phrase. This verifies the attributed-speech claim; it does not assess the merits of Christian Zionism.
+
+**Confidence:** High
+
+**Sources:**
+
+- [American Horror Story: Charlie Kirk's Shining Disciples | Candace Ep 288](https://www.youtube.com/watch?v=CMcktj3Egfo&t=1374s)
+- [Candace - American Horror Story: Charlie Kirk's Shining Disciples | Candace Ep 288 Transcript and Discussion](https://podscripts.co/podcasts/candace/american-horror-story-charlie-kirks-shining-disciples-candace-ep-288)
+- [Global News Podcast - Trump says Musk has lost his mind Transcript and Discussion](https://podscripts.co/podcasts/global-news-podcast/trump-says-musk-has-lost-his-mind)
+
+*Verified: 2026-08-28T22:20:19.432536*
 
 ---
 

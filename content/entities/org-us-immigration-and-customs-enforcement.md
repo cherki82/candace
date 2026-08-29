@@ -24,7 +24,7 @@ _Type: Organizations_
 Source: [U.S. Immigration and Customs Enforcement | USAGov](https://www.usa.gov/agencies/u-s-immigration-and-customs-enforcement)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-us-immigration-and-customs-enforcement-t-00-51-49">2026-01-14 · 00:52:03</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-us-immigration-and-customs-enforcement-t-00-51-56">2026-01-14 · 00:52:03</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Wjul6YV6izo.md#ent-org-us-immigration-and-customs-enforcement-t-00-45-47">2026-01-30 · 00:45:47</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>5</strong></div>
@@ -38,7 +38,7 @@ Source: [U.S. Immigration and Customs Enforcement | USAGov](https://www.usa.gov/
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-us-immigration-and-customs-enforcement-t-00-45-42">Candace x Bassem Youssef | Candace Ep 298</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-us-immigration-and-customs-enforcement-t-00-51-49" style="--pulse-height:33%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-us-immigration-and-customs-enforcement-t-00-51-56" style="--pulse-height:33%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-us-immigration-and-customs-enforcement-t-00-45-42" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-org-us-immigration-and-customs-enforcement-t-00-45-47" style="--pulse-height:33%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
 </div>
@@ -46,7 +46,7 @@ Source: [U.S. Immigration and Customs Enforcement | USAGov](https://www.usa.gov/
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-us-immigration-and-customs-enforcement-t-00-51-49) | 1 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-us-immigration-and-customs-enforcement-t-00-51-56) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-us-immigration-and-customs-enforcement-t-00-45-42) | 3 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-us-immigration-and-customs-enforcement-t-00-45-47) | 1 |
 
@@ -83,7 +83,7 @@ Source: [U.S. Immigration and Customs Enforcement | USAGov](https://www.usa.gov/
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
 
-**[00:52:03](/episodes/ep-BKcOm32ZEGk.md#ent-org-us-immigration-and-customs-enforcement-t-00-51-49)**
+**[00:52:03](/episodes/ep-BKcOm32ZEGk.md#ent-org-us-immigration-and-customs-enforcement-t-00-51-56)**
 > "a lot of drama involving ICE"
 
 </details>

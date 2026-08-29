@@ -16,7 +16,7 @@ _Type: Places_
 Source: [About Hungary](https://abouthungary.hu/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-hungary-t-00-11-56">2026-01-19 · 00:11:56</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-hungary-t-00-11-37">2026-01-19 · 00:11:56</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-k1b1NDCrNFs.md#ent-gpe-hungary-t-00-37-31">2026-05-06 · 00:37:31</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>6</strong></div>
@@ -30,7 +30,7 @@ Source: [About Hungary](https://abouthungary.hu/)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-hungary-t-00-46-53">Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-hungary-t-00-11-56" style="--pulse-height:25%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-hungary-t-00-11-37" style="--pulse-height:25%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-hungary-t-00-46-53" style="--pulse-height:100%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 4 mentions" title="2026-01-28 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-gpe-hungary-t-00-37-31" style="--pulse-height:25%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
 </div>
@@ -38,7 +38,7 @@ Source: [About Hungary](https://abouthungary.hu/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-hungary-t-00-11-56) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-hungary-t-00-11-37) | 1 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-hungary-t-00-46-53) | 4 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-gpe-hungary-t-00-37-31) | 1 |
 
@@ -78,7 +78,7 @@ Source: [About Hungary](https://abouthungary.hu/)
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
 
-**[00:11:56](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-hungary-t-00-11-56)**
+**[00:11:56](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-hungary-t-00-11-37)**
 > "In Budapest, Hungary,"
 
 </details>

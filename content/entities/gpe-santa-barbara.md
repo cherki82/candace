@@ -1,6 +1,6 @@
 ---
 title: "Santa Barbara"
-description: "Santa Barbara (Places) - 40 mentions"
+description: "Santa Barbara (Places) - 41 mentions"
 id: "gpe-santa-barbara"
 type: "GPE"
 categories:
@@ -20,7 +20,7 @@ Source: [City of Santa Barbara](https://santabarbaraca.gov/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-santa-barbara-t-00-26-14">2025-11-17 · 00:26:38</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-eMtjzXkQrsU.md#ent-gpe-santa-barbara-t-00-29-20">2026-05-05 · 00:29:32</a></strong></div>
 <div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>40</strong></div>
+<div><span>Mentions</span><strong>41</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,7 +33,7 @@ Source: [City of Santa Barbara](https://santabarbaraca.gov/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-santa-barbara-t-00-26-14" style="--pulse-height:30%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 3 mentions" title="2025-11-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-SKGUzGHymcI.md#ent-gpe-santa-barbara-t-00-27-51" style="--pulse-height:40%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 4 mentions" title="2025-11-19 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-santa-barbara-t-00-33-28" style="--pulse-height:10%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-santa-barbara-t-00-33-28" style="--pulse-height:20%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-santa-barbara-t-01-07-56" style="--pulse-height:10%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-gpe-santa-barbara-t-00-16-13" style="--pulse-height:70%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 7 mentions" title="2026-03-23 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-SgVcnx4Oh30.md#ent-gpe-santa-barbara-t-00-06-26" style="--pulse-height:100%" aria-label="REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315: 10 mentions" title="2026-03-24 · 10 mentions"><span></span></a>
@@ -47,7 +47,7 @@ Source: [City of Santa Barbara](https://santabarbaraca.gov/)
 |---|---|---:|
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-santa-barbara-t-00-26-14) | 3 |
 | 2025-11-19 | [Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268](/episodes/ep-SKGUzGHymcI.md#ent-gpe-santa-barbara-t-00-27-51) | 4 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-santa-barbara-t-00-33-28) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-santa-barbara-t-00-33-28) | 2 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-santa-barbara-t-01-07-56) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-gpe-santa-barbara-t-00-16-13) | 7 |
 | 2026-03-24 | [REVEALED: Erika Went To A Weird Place On 9/10 | Candace Ep 315](/episodes/ep-SgVcnx4Oh30.md#ent-gpe-santa-barbara-t-00-06-26) | 10 |
@@ -61,7 +61,7 @@ Source: [City of Santa Barbara](https://santabarbaraca.gov/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (40)</strong></summary>
+<summary><strong class="section-title">Raw mentions (41)</strong></summary>
 
 <details>
 <summary>A Tale of Two PR Disasters: Blake Lively & Turning Point USA. | Candace Ep 333 (1 mentions)</summary>
@@ -190,10 +190,13 @@ Source: [City of Santa Barbara](https://santabarbaraca.gov/)
 </details>
 
 <details>
-<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
+<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2 mentions)</summary>
 
-**[00:34:05](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-santa-barbara-t-00-33-28)**
+**[00:34:07](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-santa-barbara-t-00-33-28)**
 > "He's from Santa Barbara, actually."
+
+**[00:34:00](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-santa-barbara-t-00-33-28)**
+> "...m there, that area. He's from Santa Barbara, actually."
 
 </details>
 

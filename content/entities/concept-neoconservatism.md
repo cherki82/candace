@@ -1,6 +1,6 @@
 ---
 title: "Neoconservatism"
-description: "Neoconservatism (Concepts) - 28 mentions"
+description: "Neoconservatism (Concepts) - 29 mentions"
 id: "concept-neoconservatism"
 type: "CONCEPT"
 aliases:
@@ -24,8 +24,8 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-neoconservatism-t-00-28-02">2026-01-07 · 00:28:10</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-neoconservatism-t-00-41-14">2026-08-07 · 00:41:23</a></strong></div>
-<div><span>Episodes</span><strong>9</strong></div>
-<div><span>Mentions</span><strong>28</strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>29</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,7 +37,8 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 <p>Highest activity: <a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-neoconservatism-t-00-01-46">WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-neoconservatism-t-00-28-02" style="--pulse-height:30%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 3 mentions" title="2026-01-07 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-neoconservatism-t-00-04-33" style="--pulse-height:30%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-neoconservatism-t-00-04-19" style="--pulse-height:30%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-concept-neoconservatism-t-00-46-48" style="--pulse-height:10%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-concept-neoconservatism-t-00-05-05" style="--pulse-height:30%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 3 mentions" title="2026-03-02 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-neoconservatism-t-00-01-46" style="--pulse-height:100%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 10 mentions" title="2026-03-17 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-DEtFh2Ff-58.md#ent-concept-neoconservatism-t-00-43-49" style="--pulse-height:30%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 3 mentions" title="2026-03-26 · 3 mentions"><span></span></a>
@@ -51,7 +52,8 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-concept-neoconservatism-t-00-28-02) | 3 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-neoconservatism-t-00-04-33) | 3 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-neoconservatism-t-00-04-19) | 3 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-neoconservatism-t-00-46-48) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-concept-neoconservatism-t-00-05-05) | 3 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-concept-neoconservatism-t-00-01-46) | 10 |
 | 2026-03-26 | [VIRAL! It's Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317](/episodes/ep-DEtFh2Ff-58.md#ent-concept-neoconservatism-t-00-43-49) | 3 |
@@ -66,7 +68,7 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (28)</strong></summary>
+<summary><strong class="section-title">Raw mentions (29)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (2 mentions)</summary>
@@ -170,15 +172,23 @@ Source: [Neoconservatism | Definition, Ideology, & History](https://www.britanni
 </details>
 
 <details>
+<summary>Myron Gaines x Candace Owens (1 mentions)</summary>
+
+**[00:46:48](/episodes/ep-2T39-oADLj0.md#ent-concept-neoconservatism-t-00-46-48)**
+> "and then you saw the neocons go oh you were you were panicking it was just goi..."
+
+</details>
+
+<details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (3 mentions)</summary>
 
-**[00:04:40](/episodes/ep-ZZGWo6oDscc.md#ent-concept-neoconservatism-t-00-04-33)**
+**[00:04:40](/episodes/ep-ZZGWo6oDscc.md#ent-concept-neoconservatism-t-00-04-19)**
 > "...to Charlie Kirk regarding the neocons who could buy their way apparently onto the Turni..."
 
 **[00:06:55](/episodes/ep-ZZGWo6oDscc.md#ent-concept-neoconservatism-t-00-06-25)**
 > "...'t want to live there because neocons insist on bombing and taking these countries reso..."
 
-**[00:14:06](/episodes/ep-ZZGWo6oDscc.md#ent-concept-neoconservatism-t-00-13-49)**
+**[00:14:04](/episodes/ep-ZZGWo6oDscc.md#ent-concept-neoconservatism-t-00-13-31)**
 > "staying away from neocons, we don't hear that now being reflected at Turnin..."
 
 </details>
@@ -226,7 +236,7 @@ _No relationships extracted yet._
 - [00:04:53](/episodes/ep-ZZGWo6oDscc.md#t-00-04-53) (Opinion) **Charlie Kirk** (via quoted speech): ["Calls by Lindsey Graham and John Bolton for regime change in Iran are ..."](/statements/statement-a8987db34ae3.md)
   - Also about: [Lindsey Graham](/entities/person-lindsey-graham.md), [John Bolton](/entities/person-john-bolton.md), [Iran](/entities/gpe-iran.md)
 
-- [00:05:37](/episodes/ep-ZZGWo6oDscc.md#t-00-05-37) (Opinion) **Charlie Kirk** (via quoted speech): ["Plans for wars in the Middle East rarely unfold as drawn up and may ha..."](/statements/statement-319086dc735c.md)
+- [00:05:37](/episodes/ep-ZZGWo6oDscc.md#t-00-05-34) (Opinion) **Charlie Kirk** (via quoted speech): ["Plans for wars in the Middle East rarely unfold as drawn up and may ha..."](/statements/statement-319086dc735c.md)
   - Also about: [Middle East](/entities/gpe-middle-east.md), [Iran](/entities/gpe-iran.md)
 
 </details>

@@ -26,23 +26,13 @@ veracity: "mixed"
 - [MindWar](/entities/work-mindwar.md) (work)
 - [Turning Point USA](/entities/org-turning-point-usa.md) (org)
 
-## Appearances (2)
-
-### 1. The Past Is Prologue: Why Charlie Kirk Was Murdered | Candac...
+## Source
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [01:20:10](/episodes/ep-wcD2khO3rOA.md#t-01-19-32) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(4810);return false;">Play</a>
 
 > Paul E. Vallely... retired army intel officer. He co-wrote the book Mind War with Michael Aquino, who was an army intel psychological operations officer... Paul Vallely is also on the advisory board of Turning Point USA.
-
-### 2. CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 2...
-
-**Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
-**Timestamp:** [00:20:54](/episodes/ep-ZZGWo6oDscc.md#t-00-20-15) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1254);return false;">Play</a>
-
-> And while he was serving, he collaborated with a major that was working under him, okay? This major became his official research and analysis team leader, and his name was Major Michael, look at those eyebrows, unbelievable, Michael Aquino. They hit it off so well, Paul and Michael, so well that in 1980, the two of them decided to co-author a book. correctly termed aptly entitled mind war
 
 ## Verification
 

@@ -46,7 +46,7 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-united-states-congress-t-00-03-53" style="--pulse-height:33%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-united-states-congress-t-00-36-06" style="--pulse-height:33%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-org-united-states-congress-t-00-42-32" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-united-states-congress-t-00-43-53" style="--pulse-height:67%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-united-states-congress-t-00-43-48" style="--pulse-height:67%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-org-united-states-congress-t-00-40-47" style="--pulse-height:33%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-org-united-states-congress-t-00-53-21" style="--pulse-height:33%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-united-states-congress-t-01-00-24" style="--pulse-height:33%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
@@ -74,7 +74,7 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-united-states-congress-t-00-03-53) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-united-states-congress-t-00-36-06) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-united-states-congress-t-00-42-32) | 3 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-united-states-congress-t-00-43-53) | 2 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-united-states-congress-t-00-43-48) | 2 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-united-states-congress-t-00-40-47) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-united-states-congress-t-00-53-21) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-united-states-congress-t-01-00-24) | 1 |
@@ -214,7 +214,7 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 <details>
 <summary>Myron Gaines x Candace Owens (1 mentions)</summary>
 
-**[00:53:31](/episodes/ep-2T39-oADLj0.md#ent-org-united-states-congress-t-00-53-21)**
+**[00:53:28](/episodes/ep-2T39-oADLj0.md#ent-org-united-states-congress-t-00-53-21)**
 > "what's happening in Congress"
 
 </details>
@@ -222,10 +222,10 @@ Source: [Constitution of the United States | Constitution Annotated](https://con
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2 mentions)</summary>
 
-**[00:44:22](/episodes/ep-ZZGWo6oDscc.md#ent-org-united-states-congress-t-00-43-53)**
-> "...ed on the 3rd of September in Congress for calling out APAC. I'd love to come on and tal..."
+**[00:44:18](/episodes/ep-ZZGWo6oDscc.md#ent-org-united-states-congress-t-00-43-48)**
+> "obviously. Obviously. Anyways, he writes, Candace Anthony Aguilar, the Gaza whistleblower, Green Beret, I've been to Gaza. I was arrested on the 3rd of September in Congress for calling out AIPAC. I'd love to come on and talk."
 
-**[00:50:07](/episodes/ep-ZZGWo6oDscc.md#ent-org-united-states-congress-t-00-49-46)**
+**[00:50:06](/episodes/ep-ZZGWo6oDscc.md#ent-org-united-states-congress-t-00-49-40)**
 > "standing ovations at Congress."
 
 </details>
@@ -365,7 +365,7 @@ _No relationships extracted yet._
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
 
-- [00:44:19](/episodes/ep-ZZGWo6oDscc.md#t-00-43-53) (Claim) **Anthony Aguilar** (via quoted post): ["I was arrested on September 3 in Congress for calling out AIPAC."](/statements/statement-09e4671aaede.md)
+- [00:44:18](/episodes/ep-ZZGWo6oDscc.md#t-00-43-48) (Claim) **Anthony Aguilar** (via quoted post): ["I was arrested on September 3 in Congress for calling out AIPAC."](/statements/statement-09e4671aaede.md)
   - Also about: [Anthony Aguilar](/entities/person-anthony-aguilar.md), [American Israel Public Affairs Committee](/entities/org-aipac.md)
 
 </details>

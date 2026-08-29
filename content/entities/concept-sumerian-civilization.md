@@ -91,10 +91,10 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 **[00:12:04](/episodes/ep-BKcOm32ZEGk.md#ent-concept-sumerian-civilization-t-00-11-47)**
 > "ancient Sumerian civilization"
 
-**[00:12:47](/episodes/ep-BKcOm32ZEGk.md#ent-concept-sumerian-civilization-t-00-12-10)**
+**[00:12:47](/episodes/ep-BKcOm32ZEGk.md#ent-concept-sumerian-civilization-t-00-12-35)**
 > "so to speak, the Sumerian culture was known for their advancement in glass,"
 
-**[00:35:25](/episodes/ep-BKcOm32ZEGk.md#ent-concept-sumerian-civilization-t-00-35-19)**
+**[00:35:25](/episodes/ep-BKcOm32ZEGk.md#ent-concept-sumerian-civilization-t-00-35-17)**
 > "...ject when they first got this Sumerian technology hooked up with a computer."
 
 </details>

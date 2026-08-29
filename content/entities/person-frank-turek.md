@@ -54,7 +54,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-person-frank-turek-t-00-27-06" style="--pulse-height:12%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 3 mentions" title="2025-12-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-frank-turek-t-00-19-13" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#t-01-01-26" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-frank-turek-t-00-24-18" style="--pulse-height:16%" aria-label="A Legal Turning Point? | Candace Ep 292: 4 mentions" title="2026-01-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-frank-turek-t-00-24-14" style="--pulse-height:16%" aria-label="A Legal Turning Point? | Candace Ep 292: 4 mentions" title="2026-01-19 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-person-frank-turek-t-00-00-00" style="--pulse-height:24%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 6 mentions" title="2026-01-30 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-frank-turek-t-00-46-11" style="--pulse-height:16%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 4 mentions" title="2026-02-02 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-frank-turek-t-00-29-18" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
@@ -112,7 +112,7 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-frank-turek-t-00-27-06) | 3 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-frank-turek-t-00-19-13) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#t-01-01-26) | 1 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-frank-turek-t-00-24-18) | 4 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-frank-turek-t-00-24-14) | 4 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-person-frank-turek-t-00-00-00) | 6 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-frank-turek-t-00-46-11) | 4 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-frank-turek-t-00-29-18) | 1 |
@@ -950,10 +950,10 @@ Source: [Frank Turek | CrossExamined.org](https://crossexamined.org/frank-turek/
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (4 mentions)</summary>
 
-**[00:24:26](/episodes/ep-NIEbqsLAK8g.md#ent-person-frank-turek-t-00-24-18)**
+**[00:24:26](/episodes/ep-NIEbqsLAK8g.md#ent-person-frank-turek-t-00-24-14)**
 > "Frank Turek came out and he said that while they were driving over to the event, he was showing Charlie live drone footage on his phone."
 
-**[00:24:39](/episodes/ep-NIEbqsLAK8g.md#ent-person-frank-turek-t-00-24-18)**
+**[00:24:39](/episodes/ep-NIEbqsLAK8g.md#ent-person-frank-turek-t-00-24-14)**
 > "...pole, apparently unaware that Frank Turek had already told the truth,"
 
 **[00:25:07](/episodes/ep-NIEbqsLAK8g.md#ent-person-frank-turek-t-00-25-07)**

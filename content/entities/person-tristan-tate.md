@@ -17,7 +17,7 @@ _Type: People_
 Source: [Influencer Tate brothers, who face human trafficking charges in Romania, arrive in the US | AP](https://www.ap.org/news-highlights/spotlights/2025/influencer-tate-brothers-who-face-human-trafficking-charges-in-romania-arrive-in-the-us/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-tristan-tate-t-00-49-46">2026-01-13 · 00:49:50</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-tristan-tate-t-00-49-40">2026-01-13 · 00:49:40</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-person-tristan-tate-t-00-56-28">2026-08-06 · 00:56:37</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
@@ -31,7 +31,7 @@ Source: [Influencer Tate brothers, who face human trafficking charges in Romania
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-2T39-oADLj0.md#ent-person-tristan-tate-t-00-02-55">Myron Gaines x Candace Owens</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-tristan-tate-t-00-49-46" style="--pulse-height:50%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-tristan-tate-t-00-49-40" style="--pulse-height:50%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-tristan-tate-t-00-02-55" style="--pulse-height:100%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ChuWo-n49B8.md#ent-person-tristan-tate-t-00-56-28" style="--pulse-height:50%" aria-label="LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372: 1 mentions" title="2026-08-06 · 1 mentions"><span></span></a>
 </div>
@@ -39,7 +39,7 @@ Source: [Influencer Tate brothers, who face human trafficking charges in Romania
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-tristan-tate-t-00-49-46) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-tristan-tate-t-00-49-40) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-tristan-tate-t-00-02-55) | 2 |
 | 2026-08-06 | [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372](/episodes/ep-ChuWo-n49B8.md#ent-person-tristan-tate-t-00-56-28) | 1 |
 
@@ -73,7 +73,7 @@ Source: [Influencer Tate brothers, who face human trafficking charges in Romania
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:49:50](/episodes/ep-ZZGWo6oDscc.md#ent-person-tristan-tate-t-00-49-46)**
+**[00:49:40](/episodes/ep-ZZGWo6oDscc.md#ent-person-tristan-tate-t-00-49-40)**
 > "...y Epstein. If Andrew Tate and Tristan Tate were working for the government trafficking,"
 
 </details>
@@ -103,7 +103,7 @@ Source: [Influencer Tate brothers, who face human trafficking charges in Romania
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
 
-- [00:49:42](/episodes/ep-ZZGWo6oDscc.md#t-00-49-04) (Accusation) **Candace Owens**: ["The government protects its own and protected Jeffrey Epstein; if Andr..."](/statements/statement-3b563919285d.md)
+- [00:49:42](/episodes/ep-ZZGWo6oDscc.md#t-00-49-40) (Accusation) **Candace Owens**: ["The government protects its own and protected Jeffrey Epstein; if Andr..."](/statements/statement-3b563919285d.md)
   - Also about: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Andrew Tate](/entities/person-andrew-tate.md), [United States](/entities/gpe-united-states.md)
 
 </details>

@@ -22,7 +22,7 @@ _Type: Organizations_
 Source: [United States Military Academy | West Point Redbook](https://catalog.westpoint.edu/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-united-states-military-academy-t-00-03-28">2026-01-14 · 00:03:48</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-united-states-military-academy-t-00-03-19">2026-01-14 · 00:03:48</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-military-academy-t-00-04-12">2026-03-10 · 00:04:12</a></strong></div>
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
@@ -34,9 +34,9 @@ Source: [United States Military Academy | West Point Redbook](https://catalog.we
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-united-states-military-academy-t-00-03-28">PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-united-states-military-academy-t-00-03-19">PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-united-states-military-academy-t-00-03-28" style="--pulse-height:100%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-united-states-military-academy-t-00-03-19" style="--pulse-height:100%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-united-states-military-academy-t-00-04-58" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-org-united-states-military-academy-t-00-27-17" style="--pulse-height:100%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-military-academy-t-00-04-12" style="--pulse-height:100%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
@@ -45,7 +45,7 @@ Source: [United States Military Academy | West Point Redbook](https://catalog.we
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-united-states-military-academy-t-00-03-28) | 1 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-united-states-military-academy-t-00-03-19) | 1 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-united-states-military-academy-t-00-04-58) | 1 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-org-united-states-military-academy-t-00-27-17) | 1 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-org-united-states-military-academy-t-00-04-12) | 1 |
@@ -85,7 +85,7 @@ Source: [United States Military Academy | West Point Redbook](https://catalog.we
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
 
-**[00:03:48](/episodes/ep-BKcOm32ZEGk.md#ent-org-united-states-military-academy-t-00-03-28)**
+**[00:03:48](/episodes/ep-BKcOm32ZEGk.md#ent-org-united-states-military-academy-t-00-03-19)**
 > "Charlie wanted to go to West Point"
 
 </details>
@@ -105,7 +105,7 @@ _No relationships extracted yet._
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1)</summary>
 
-- [00:03:48](/episodes/ep-BKcOm32ZEGk.md#t-00-03-28) (Claim) **Candace Owens**: ["Charlie Kirk wanted to attend West Point but instead started Turning P..."](/statements/statement-4de814e967b1.md)
+- [00:03:48](/episodes/ep-BKcOm32ZEGk.md#t-00-03-19) (Claim) **Candace Owens**: ["Charlie Kirk wanted to attend West Point but instead started Turning P..."](/statements/statement-4de814e967b1.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>

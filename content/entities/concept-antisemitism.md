@@ -1,6 +1,6 @@
 ---
 title: "Antisemitism"
-description: "Antisemitism (Concepts) - 123 mentions"
+description: "Antisemitism (Concepts) - 122 mentions"
 id: "concept-antisemitism"
 type: "CONCEPT"
 aliases:
@@ -27,7 +27,7 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-concept-antisemitism-t-00-00-00">2025-10-01 · 00:00:21</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-concept-antisemitism-t-00-23-09">2026-07-23 · 00:23:09</a></strong></div>
 <div><span>Episodes</span><strong>39</strong></div>
-<div><span>Mentions</span><strong>123</strong></div>
+<div><span>Mentions</span><strong>122</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>21</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -45,9 +45,9 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-concept-antisemitism-t-01-02-58" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-antisemitism-t-00-00-00" style="--pulse-height:8%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-antisemitism-t-00-20-32" style="--pulse-height:36%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 5 mentions" title="2026-01-12 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-antisemitism-t-00-26-44" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-antisemitism-t-00-26-32" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-concept-antisemitism-t-00-44-56" style="--pulse-height:14%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-concept-antisemitism-t-01-08-31" style="--pulse-height:43%" aria-label="Myron Gaines x Candace Owens: 6 mentions" title="2026-01-16 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-concept-antisemitism-t-01-08-29" style="--pulse-height:36%" aria-label="Myron Gaines x Candace Owens: 5 mentions" title="2026-01-16 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-NIEbqsLAK8g.md#ent-concept-antisemitism-t-00-35-01" style="--pulse-height:21%" aria-label="A Legal Turning Point? | Candace Ep 292: 3 mentions" title="2026-01-19 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-antisemitism-t-00-30-12" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-antisemitism-t-00-02-39" style="--pulse-height:21%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
@@ -89,9 +89,9 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-concept-antisemitism-t-01-02-58) | 1 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-concept-antisemitism-t-00-00-00) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-antisemitism-t-00-20-32) | 5 |
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-antisemitism-t-00-26-44) | 1 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-antisemitism-t-00-26-32) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-concept-antisemitism-t-00-44-56) | 2 |
-| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-antisemitism-t-01-08-31) | 6 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-antisemitism-t-01-08-29) | 5 |
 | 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-concept-antisemitism-t-00-35-01) | 3 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-antisemitism-t-00-30-12) | 1 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-antisemitism-t-00-02-39) | 3 |
@@ -128,7 +128,7 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (123)</strong></summary>
+<summary><strong class="section-title">Raw mentions (122)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. More Text Messages From Charlie Kirk. | Ep 365 (2 mentions)</summary>
@@ -543,7 +543,7 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 **[00:35:07](/episodes/ep-NIEbqsLAK8g.md#ent-concept-antisemitism-t-00-35-01)**
 > "January the 21st, where we're going to talk about anti-Semitism."
 
-**[00:35:53](/episodes/ep-NIEbqsLAK8g.md#ent-concept-antisemitism-t-00-35-29)**
+**[00:35:53](/episodes/ep-NIEbqsLAK8g.md#ent-concept-antisemitism-t-00-35-31)**
 > "...t, but maybe it's not because anti-Semitism is now notice."
 
 **[00:36:35](/episodes/ep-NIEbqsLAK8g.md#ent-concept-antisemitism-t-00-36-35)**
@@ -563,10 +563,10 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 </details>
 
 <details>
-<summary>Myron Gaines x Candace Owens (6 mentions)</summary>
+<summary>Myron Gaines x Candace Owens (5 mentions)</summary>
 
-**[01:08:31](/episodes/ep-2T39-oADLj0.md#ent-concept-antisemitism-t-01-08-31)**
-> "being called anti-Semite"
+**[01:08:29](/episodes/ep-2T39-oADLj0.md#ent-concept-antisemitism-t-01-08-29)**
+> "...cal news station being called anti-Semite."
 
 **[00:33:54](/episodes/ep-2T39-oADLj0.md#ent-concept-antisemitism-t-00-33-39)**
 > "...omeone who actually is not an anti-semite right his parents survived the holocaust and he's..."
@@ -580,15 +580,12 @@ Source: [Antisemitism | Holocaust Encyclopedia](https://encyclopedia.ushmm.org/c
 **[00:45:08](/episodes/ep-2T39-oADLj0.md#ent-concept-antisemitism-t-00-44-53)**
 > "...l what are they saying that's anti-semitic well well it's just anti-semitic and they don't e..."
 
-**[01:08:31](/episodes/ep-2T39-oADLj0.md#ent-concept-antisemitism-t-01-08-31)**
-> "...cal news station being called anti-Semite."
-
 </details>
 
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
 
-**[00:26:51](/episodes/ep-BKcOm32ZEGk.md#ent-concept-antisemitism-t-00-26-44)**
+**[00:26:51](/episodes/ep-BKcOm32ZEGk.md#ent-concept-antisemitism-t-00-26-32)**
 > "It's anti-Semitic"
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "Federal Bureau of Investigation"
-description: "Federal Bureau of Investigation (Organizations) - 55 mentions"
+description: "Federal Bureau of Investigation (Organizations) - 54 mentions"
 id: "org-federal-bureau-of-investigation"
 type: "ORG"
 aliases:
@@ -26,9 +26,9 @@ Source: [About - FBI](https://www.fbi.gov/about)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-federal-bureau-of-investigation-t-00-14-17">2026-01-05 · 00:14:44</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-org-federal-bureau-of-investigation-t-00-22-06">2026-07-20 · 00:22:39</a></strong></div>
 <div><span>Episodes</span><strong>19</strong></div>
-<div><span>Mentions</span><strong>55</strong></div>
+<div><span>Mentions</span><strong>54</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>29</strong></div>
+<div><span>Statements about</span><strong>27</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -40,8 +40,8 @@ Source: [About - FBI](https://www.fbi.gov/about)
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-federal-bureau-of-investigation-t-00-14-17" style="--pulse-height:17%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-federal-bureau-of-investigation-t-00-08-14" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-federal-bureau-of-investigation-t-00-42-37" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-org-federal-bureau-of-investigation-t-00-18-50" style="--pulse-height:33%" aria-label="Myron Gaines x Candace Owens: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-federal-bureau-of-investigation-t-00-07-01" style="--pulse-height:58%" aria-label="A Legal Turning Point? | Candace Ep 292: 7 mentions" title="2026-01-19 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-org-federal-bureau-of-investigation-t-00-18-50" style="--pulse-height:25%" aria-label="Myron Gaines x Candace Owens: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-federal-bureau-of-investigation-t-00-06-46" style="--pulse-height:58%" aria-label="A Legal Turning Point? | Candace Ep 292: 7 mentions" title="2026-01-19 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-federal-bureau-of-investigation-t-00-36-04" style="--pulse-height:8%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-federal-bureau-of-investigation-t-00-34-40" style="--pulse-height:25%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-org-federal-bureau-of-investigation-t-00-46-05" style="--pulse-height:8%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
@@ -64,8 +64,8 @@ Source: [About - FBI](https://www.fbi.gov/about)
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-federal-bureau-of-investigation-t-00-14-17) | 2 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-federal-bureau-of-investigation-t-00-08-14) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-federal-bureau-of-investigation-t-00-42-37) | 1 |
-| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-federal-bureau-of-investigation-t-00-18-50) | 4 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-federal-bureau-of-investigation-t-00-07-01) | 7 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-federal-bureau-of-investigation-t-00-18-50) | 3 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-federal-bureau-of-investigation-t-00-06-46) | 7 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-federal-bureau-of-investigation-t-00-36-04) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-federal-bureau-of-investigation-t-00-34-40) | 3 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-federal-bureau-of-investigation-t-00-46-05) | 1 |
@@ -87,7 +87,7 @@ Source: [About - FBI](https://www.fbi.gov/about)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (55)</strong></summary>
+<summary><strong class="section-title">Raw mentions (54)</strong></summary>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (12 mentions)</summary>
@@ -282,34 +282,31 @@ Source: [About - FBI](https://www.fbi.gov/about)
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (7 mentions)</summary>
 
-**[00:07:14](/episodes/ep-NIEbqsLAK8g.md#ent-org-federal-bureau-of-investigation-t-00-07-01)**
+**[00:07:14](/episodes/ep-NIEbqsLAK8g.md#ent-org-federal-bureau-of-investigation-t-00-06-46)**
 > "yes, FBI graduated from the FBI National Academy. It tells us that state of Texas master peace officer."
 
-**[00:09:03](/episodes/ep-NIEbqsLAK8g.md#ent-org-federal-bureau-of-investigation-t-00-09-03)**
+**[00:09:03](/episodes/ep-NIEbqsLAK8g.md#ent-org-federal-bureau-of-investigation-t-00-08-59)**
 > "...y tells us that he joined the FBI."
 
-**[00:09:17](/episodes/ep-NIEbqsLAK8g.md#ent-org-federal-bureau-of-investigation-t-00-09-03)**
+**[00:09:17](/episodes/ep-NIEbqsLAK8g.md#ent-org-federal-bureau-of-investigation-t-00-08-59)**
 > "that stands for the FBI Agents Association,"
 
-**[00:09:35](/episodes/ep-NIEbqsLAK8g.md#ent-org-federal-bureau-of-investigation-t-00-09-03)**
+**[00:09:35](/episodes/ep-NIEbqsLAK8g.md#ent-org-federal-bureau-of-investigation-t-00-08-59)**
 > "help FBI special agents join together to protect and advan..."
 
-**[00:10:15](/episodes/ep-NIEbqsLAK8g.md#ent-org-federal-bureau-of-investigation-t-00-09-03)**
+**[00:10:15](/episodes/ep-NIEbqsLAK8g.md#ent-org-federal-bureau-of-investigation-t-00-08-59)**
 > "...te a $10 million check to the FBI AA,"
 
-**[00:11:39](/episodes/ep-NIEbqsLAK8g.md#ent-org-federal-bureau-of-investigation-t-00-11-11)**
+**[00:11:39](/episodes/ep-NIEbqsLAK8g.md#ent-org-federal-bureau-of-investigation-t-00-11-37)**
 > "Texas, working for the FBI on the elite Hostage Rescue Team."
 
-**[00:11:57](/episodes/ep-NIEbqsLAK8g.md#ent-org-federal-bureau-of-investigation-t-00-11-56)**
+**[00:11:57](/episodes/ep-NIEbqsLAK8g.md#ent-org-federal-bureau-of-investigation-t-00-11-37)**
 > "if you didn't know, the FBI also has sub offices all around the globe. And Gr..."
 
 </details>
 
 <details>
-<summary>Myron Gaines x Candace Owens (4 mentions)</summary>
-
-**[00:19:24](/episodes/ep-2T39-oADLj0.md#ent-org-federal-bureau-of-investigation-t-00-18-50)**
-> "we get the FBI"
+<summary>Myron Gaines x Candace Owens (3 mentions)</summary>
 
 **[00:19:20](/episodes/ep-2T39-oADLj0.md#ent-org-federal-bureau-of-investigation-t-00-18-50)**
 > "... going to do this, we get the FBI."
@@ -391,7 +388,7 @@ Source: [About - FBI](https://www.fbi.gov/about)
 - **[Greg Shaffer](/entities/person-greg-shaffer.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [A Legal Turning Point? | Candace Ep 292 @ 00:11:37](/episodes/ep-NIEbqsLAK8g.md#t-00-11-11): “He also is from Dallas, Texas, working for the FBI on the elite Hostage Rescue Team. He was a supervisor on the Dallas Joint Terrorism Task Force.”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:11:37](/episodes/ep-NIEbqsLAK8g.md#t-00-11-37): “He also is from Dallas, Texas, working for the FBI on the elite Hostage Rescue Team. He was a supervisor on the Dallas Joint Terrorism Task Force.”
 
 </details>
 
@@ -429,7 +426,7 @@ Source: [About - FBI](https://www.fbi.gov/about)
 - **[Greg Shaffer](/entities/person-greg-shaffer.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [A Legal Turning Point? | Candace Ep 292 @ 00:11:37](/episodes/ep-NIEbqsLAK8g.md#t-00-11-11): “He also is from Dallas, Texas, working for the FBI on the elite Hostage Rescue Team. He was a supervisor on the Dallas Joint Terrorism Task Force.”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:11:37](/episodes/ep-NIEbqsLAK8g.md#t-00-11-37): “He also is from Dallas, Texas, working for the FBI on the elite Hostage Rescue Team. He was a supervisor on the Dallas Joint Terrorism Task Force.”
 
 </details>
 
@@ -452,7 +449,7 @@ Source: [About - FBI](https://www.fbi.gov/about)
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Federal Bureau of Investigation (29)</strong></summary>
+<summary><strong class="section-title">Statements about Federal Bureau of Investigation (27)</strong></summary>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (4)</summary>
@@ -562,18 +559,12 @@ Source: [About - FBI](https://www.fbi.gov/about)
 </details>
 
 <details>
-<summary>A Legal Turning Point? | Candace Ep 292 (4)</summary>
+<summary>A Legal Turning Point? | Candace Ep 292 (2)</summary>
 
-- [00:00:27](/episodes/ep-NIEbqsLAK8g.md#t-00-00-00) (Accusation) **Candace Owens**: ["Federal authorities are doing nothing to investigate Charlie Kirk's as..."](/statements/statement-1dfa3c1a7731.md)
-  - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:05:42](/episodes/ep-NIEbqsLAK8g.md#t-00-05-42) (Accusation) **Anonymous Source #1 (Ep NIEbqsLAK8g)** (via read message): ["The email source claimed Dan Flood connected Charlie Kirk's alleged mo..."](/statements/statement-5af4e3a94351.md)
-  - Also about: [Dan Flood](/entities/person-dan-flood.md), [Robert Eugene Flood](/entities/person-robert-eugene-flood.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-- [00:09:17](/episodes/ep-NIEbqsLAK8g.md#t-00-09-03) (Citation) **Candace Owens**: ["The FBI Agents Association is a charity founded in 1981 that says it h..."](/statements/statement-d70f584ccc65.md)
+- [00:09:17](/episodes/ep-NIEbqsLAK8g.md#t-00-08-59) (Citation) **Candace Owens**: ["The FBI Agents Association is a charity founded in 1981 that says it h..."](/statements/statement-d70f584ccc65.md)
   - Also about: [FBI Agents Association](/entities/org-fbi-agents-association.md)
 
-- [00:11:37](/episodes/ep-NIEbqsLAK8g.md#t-00-11-11) (Claim) **Candace Owens**: ["Greg Shaffer worked for the FBI Hostage Rescue Team, supervised the Da..."](/statements/statement-69178e8428ef.md)
+- [00:11:37](/episodes/ep-NIEbqsLAK8g.md#t-00-11-05) (Claim) **Candace Owens**: ["Greg Shaffer worked for the FBI Hostage Rescue Team, supervised the Da..."](/statements/statement-69178e8428ef.md)
   - Also about: [Greg Shaffer](/entities/person-greg-shaffer.md), [FBI Hostage Rescue Team](/entities/org-fbi-hostage-rescue-team.md), [North Texas Joint Terrorism Task Force](/entities/org-north-texas-joint-terrorism-task-force.md)
 
 </details>

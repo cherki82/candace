@@ -27,7 +27,7 @@ Source: [University Mission Statement | University of Rhode Island](https://web.
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -74,7 +74,29 @@ Source: [University Mission Statement | University of Rhode Island](https://web.
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Attended By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:07:49](/episodes/ep-2T39-oADLj0.md#t-00-07-35): “Maybe it was Women's Studies 201 at the University of Rhode Island. And at that time, I was like, yeah, I'm a feminist, of course.”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** attended this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:07:49](/episodes/ep-2T39-oADLj0.md#t-00-07-35): “Maybe it was Women's Studies 201 at the University of Rhode Island. And at that time, I was like, yeah, I'm a feminist, of course.”
+
+</details>
+
+</details>
 
 </details>
 

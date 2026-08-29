@@ -14,7 +14,7 @@ date: "2025-05-23"
 ## Mentioned In
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
-**Timestamp:** [00:09:57](/episodes/ep-ZZGWo6oDscc.md#event-event-2025-05-23-the-su-btu-anchor-plane-arrived-in-provo-t-00-09-30) 
+**Timestamp:** [00:09:57](/episodes/ep-ZZGWo6oDscc.md#event-event-2025-05-23-the-su-btu-anchor-plane-arrived-in-provo-t-00-09-28) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(597);return false;">▶️ Play</a>
 
 > The anchor plane comes in May 23rd. lands into Provo.

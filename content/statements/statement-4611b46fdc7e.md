@@ -28,7 +28,7 @@ veracity: "true"
 ## Source
 
 **Episode:** [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md)
-**Timestamp:** [00:37:22](/episodes/ep-BKcOm32ZEGk.md#t-00-37-21) 
+**Timestamp:** [00:37:22](/episodes/ep-BKcOm32ZEGk.md#t-00-37-09) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2242);return false;">Play</a>
 
 > So when they got caught with this, I want you to know they come out and they say. Oh, that was a prank. I'm sorry. It's a massive statute, as you're about to see. You're telling us that the leading scientists in the world decided to meet by the cloak of night to do a prank and someone at the facility gave a statement and said they were the PR guy said they were taking their sense of humor too far.

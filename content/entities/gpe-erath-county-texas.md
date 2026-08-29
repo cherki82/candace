@@ -22,8 +22,8 @@ _Type: Places_
 Source: [Erath County, Texas](https://www.co.erath.tx.us/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-erath-county-texas-t-00-14-04">2026-01-19 · 00:14:22</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-erath-county-texas-t-00-14-04">2026-01-19 · 00:14:55</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-erath-county-texas-t-00-14-16">2026-01-19 · 00:14:22</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-erath-county-texas-t-00-14-16">2026-01-19 · 00:14:55</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -34,15 +34,15 @@ Source: [Erath County, Texas](https://www.co.erath.tx.us/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-erath-county-texas-t-00-14-04">A Legal Turning Point? | Candace Ep 292</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-erath-county-texas-t-00-14-16">A Legal Turning Point? | Candace Ep 292</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-erath-county-texas-t-00-14-04" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-erath-county-texas-t-00-14-16" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-erath-county-texas-t-00-14-04) | 2 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-erath-county-texas-t-00-14-16) | 2 |
 
 </details>
 </section>
@@ -55,10 +55,10 @@ Source: [Erath County, Texas](https://www.co.erath.tx.us/)
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (2 mentions)</summary>
 
-**[00:14:22](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-erath-county-texas-t-00-14-04)**
+**[00:14:22](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-erath-county-texas-t-00-14-16)**
 > "county sheriff in Erath, Texas"
 
-**[00:14:55](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-erath-county-texas-t-00-14-04)**
+**[00:14:55](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-erath-county-texas-t-00-14-16)**
 > "I then went to work for the Erath County Sheriff's Office and after 12 years of service,"
 
 </details>

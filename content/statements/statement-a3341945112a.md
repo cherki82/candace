@@ -28,7 +28,7 @@ veracity: "true"
 ## Source
 
 **Episode:** [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md)
-**Timestamp:** [00:43:19](/episodes/ep-BKcOm32ZEGk.md#t-00-42-53) 
+**Timestamp:** [00:43:19](/episodes/ep-BKcOm32ZEGk.md#t-00-43-19) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2599);return false;">Play</a>
 
 > Yeah, he discussed options to take out Assange just to make sure we were above bar there.

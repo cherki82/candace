@@ -1,6 +1,6 @@
 ---
 title: "Israel"
-description: "Israel (Places) - 1559 mentions"
+description: "Israel (Places) - 1565 mentions"
 id: "gpe-israel"
 type: "GPE"
 aliases:
@@ -27,10 +27,10 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-israel-t-00-13-27">2025-09-11 · 00:13:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-israel-t-00-55-41">2026-08-21 · 00:55:41</a></strong></div>
 <div><span>Episodes</span><strong>141</strong></div>
-<div><span>Mentions</span><strong>1,559</strong></div>
+<div><span>Mentions</span><strong>1,565</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>300</strong></div>
-<div><span>Relationships</span><strong>58</strong></div>
+<div><span>Relationships</span><strong>60</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -88,11 +88,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-israel-t-00-54-57" style="--pulse-height:8%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-israel-t-00-34-01" style="--pulse-height:23%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 13 mentions" title="2026-01-09 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-israel-t-00-00-45" style="--pulse-height:25%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 14 mentions" title="2026-01-12 · 14 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-israel-t-00-03-11" style="--pulse-height:21%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 12 mentions" title="2026-01-13 · 12 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-gpe-israel-t-00-43-45" style="--pulse-height:9%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 5 mentions" title="2026-01-14 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-israel-t-00-37-15" style="--pulse-height:9%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 5 mentions" title="2026-01-16 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-israel-t-00-03-04" style="--pulse-height:23%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 13 mentions" title="2026-01-13 · 13 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-gpe-israel-t-00-43-45" style="--pulse-height:11%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 6 mentions" title="2026-01-14 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-israel-t-00-37-15" style="--pulse-height:11%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 6 mentions" title="2026-01-16 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-israel-t-00-18-05" style="--pulse-height:25%" aria-label="Myron Gaines x Candace Owens: 14 mentions" title="2026-01-16 · 14 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-israel-t-00-02-06" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 4 mentions" title="2026-01-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-israel-t-00-01-54" style="--pulse-height:12%" aria-label="A Legal Turning Point? | Candace Ep 292: 7 mentions" title="2026-01-19 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-israel-t-00-29-10" style="--pulse-height:11%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 6 mentions" title="2026-01-20 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-gpe-israel-t-00-17-50" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-israel-t-00-02-39" style="--pulse-height:21%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 12 mentions" title="2026-01-22 · 12 mentions"><span></span></a>
@@ -234,11 +234,11 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-israel-t-00-54-57) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-israel-t-00-34-01) | 13 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-israel-t-00-00-45) | 14 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-israel-t-00-03-11) | 12 |
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-gpe-israel-t-00-43-45) | 5 |
-| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-israel-t-00-37-15) | 5 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-israel-t-00-03-04) | 13 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-gpe-israel-t-00-43-45) | 6 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-israel-t-00-37-15) | 6 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-israel-t-00-18-05) | 14 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-israel-t-00-02-06) | 4 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-israel-t-00-01-54) | 7 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-israel-t-00-29-10) | 6 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-gpe-israel-t-00-17-50) | 1 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-israel-t-00-02-39) | 12 |
@@ -336,7 +336,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (1559)</strong></summary>
+<summary><strong class="section-title">Raw mentions (1565)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (10 mentions)</summary>
@@ -3310,12 +3310,12 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>A Legal Turning Point? | Candace Ep 292 (4 mentions)</summary>
+<summary>A Legal Turning Point? | Candace Ep 292 (7 mentions)</summary>
 
-**[00:02:30](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-israel-t-00-02-06)**
+**[00:02:30](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-israel-t-00-01-54)**
 > "the one-time prime minister of Israel"
 
-**[00:03:52](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-israel-t-00-03-33)**
+**[00:03:52](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-israel-t-00-03-21)**
 > "...ney laundering operation from Israel to buy off cops here in America. He claims that h..."
 
 **[00:35:23](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-israel-t-00-35-11)**
@@ -3324,10 +3324,19 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:36:35](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-israel-t-00-36-35)**
 > "...were basically promoting that israel is giving charlie an award for fighting anti-semi..."
 
+**[00:03:01](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-israel-t-00-02-39)**
+> "...tly known as the voice of the Israeli people. So then he starts emailing me in another ..."
+
+**[00:35:27](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-israel-t-00-35-27)**
+> "January the 21st. 21st. The Israeli See business, you then. man."
+
+**[00:35:31](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-israel-t-00-35-31)**
+> "Not the Israeli businessman. Look, it is an Israeli business. Ope..."
+
 </details>
 
 <details>
-<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (5 mentions)</summary>
+<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (6 mentions)</summary>
 
 **[00:37:57](/episodes/ep-X92MllIHDzw.md#ent-gpe-israel-t-00-37-15)**
 > "probably working with Israel."
@@ -3344,24 +3353,24 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:46:23](/episodes/ep-X92MllIHDzw.md#ent-gpe-israel-t-00-46-23)**
 > "It's Israel versus America. It's not bigger than that."
 
+**[00:38:01](/episodes/ep-X92MllIHDzw.md#ent-gpe-israel-t-00-38-00)**
+> "He's working with Israeli intelligence."
+
 </details>
 
 <details>
 <summary>Myron Gaines x Candace Owens (14 mentions)</summary>
 
-**[00:18:27](/episodes/ep-2T39-oADLj0.md#ent-gpe-israel-t-00-18-05)**
+**[00:18:05](/episodes/ep-2T39-oADLj0.md#ent-gpe-israel-t-00-18-05)**
 > "which is Israel"
 
 **[00:32:32](/episodes/ep-2T39-oADLj0.md#ent-gpe-israel-t-00-32-04)**
 > "...ff, wasn't up on the topic of Israel."
 
-**[00:32:51](/episodes/ep-2T39-oADLj0.md#ent-gpe-israel-t-00-32-49)**
-> "Israel,"
-
-**[00:32:51](/episodes/ep-2T39-oADLj0.md#ent-gpe-israel-t-00-32-49)**
+**[00:32:45](/episodes/ep-2T39-oADLj0.md#ent-gpe-israel-t-00-32-45)**
 > "I'm a Christian and obviously Israel has biblical connotations. And so I'm."
 
-**[00:32:59](/episodes/ep-2T39-oADLj0.md#ent-gpe-israel-t-00-32-49)**
+**[00:32:59](/episodes/ep-2T39-oADLj0.md#ent-gpe-israel-t-00-32-45)**
 > "I support Israel almost like it's a periphery,"
 
 **[00:34:21](/episodes/ep-2T39-oADLj0.md#ent-gpe-israel-t-00-34-12)**
@@ -3379,7 +3388,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:42:27](/episodes/ep-2T39-oADLj0.md#ent-gpe-israel-t-00-42-00)**
 > "... it comes to the criticism of israel yeah"
 
-**[00:45:38](/episodes/ep-2T39-oADLj0.md#ent-gpe-israel-t-00-45-36)**
+**[00:45:36](/episodes/ep-2T39-oADLj0.md#ent-gpe-israel-t-00-45-36)**
 > "...year old kids for questioning Israel?"
 
 **[00:46:15](/episodes/ep-2T39-oADLj0.md#ent-gpe-israel-t-00-46-00)**
@@ -3391,10 +3400,13 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[01:08:51](/episodes/ep-2T39-oADLj0.md#ent-gpe-israel-t-01-08-47)**
 > "...onna tell me like you do with israel that i'll get into heaven if i just ignore how ch..."
 
+**[00:33:19](/episodes/ep-2T39-oADLj0.md#ent-gpe-israel-t-00-33-05)**
+> "...y year of Palestinians versus Israelis."
+
 </details>
 
 <details>
-<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (5 mentions)</summary>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (6 mentions)</summary>
 
 **[00:43:45](/episodes/ep-BKcOm32ZEGk.md#ent-gpe-israel-t-00-43-45)**
 > "That's true in Israel"
@@ -3402,55 +3414,61 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 **[00:44:21](/episodes/ep-BKcOm32ZEGk.md#ent-gpe-israel-t-00-44-21)**
 > "...people of the nation state of Israel, though that the aggressor was the Iranian regime..."
 
-**[00:52:03](/episodes/ep-BKcOm32ZEGk.md#ent-gpe-israel-t-00-51-49)**
+**[00:52:03](/episodes/ep-BKcOm32ZEGk.md#ent-gpe-israel-t-00-51-56)**
 > "...training and recruitment from Israel directly from the IDF. This potentially means Isr..."
 
-**[00:52:31](/episodes/ep-BKcOm32ZEGk.md#ent-gpe-israel-t-00-52-31)**
+**[00:52:31](/episodes/ep-BKcOm32ZEGk.md#ent-gpe-israel-t-00-51-56)**
 > "...'t like what they're doing in Israel."
 
-**[00:54:46](/episodes/ep-BKcOm32ZEGk.md#ent-gpe-israel-t-00-54-42)**
+**[00:54:46](/episodes/ep-BKcOm32ZEGk.md#ent-gpe-israel-t-00-54-36)**
 > "...only problem was him being an israel spy i don't watch nick fuentes i obviously as soo..."
+
+**[00:44:51](/episodes/ep-BKcOm32ZEGk.md#ent-gpe-israel-t-00-44-42)**
+> "...it's the focus is just on the Israelis because that matters more to us and the CIA."
 
 </details>
 
 <details>
-<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (12 mentions)</summary>
+<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (13 mentions)</summary>
 
-**[00:03:23](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-israel-t-00-03-11)**
+**[00:03:18](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-israel-t-00-03-04)**
 > "Israel wants it."
 
-**[00:03:48](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-israel-t-00-03-48)**
+**[00:03:45](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-israel-t-00-03-45)**
 > "... Trump not to get involved in Israel's war with Iran."
 
-**[00:04:06](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-israel-t-00-03-48)**
+**[00:04:03](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-israel-t-00-03-45)**
 > "...They're lobbying on behalf of Israel."
 
 **[00:04:53](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-israel-t-00-04-53)**
 > "Let's do some updates about Israel and Iran and potentially the United States. On on..."
 
-**[00:07:11](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-israel-t-00-07-08)**
-> "...gest black male file whatever israel has on him it is terrifying okay it is terrifying..."
+**[00:07:11](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-israel-t-00-07-06)**
+> "is uh tucker carlson similarly echoed this at the time lindsey graham was just doing what lindsey graham does he's i think personally he's got the largest blackmail file whatever israel has on him it is terrifying okay it is terrifying we know what lindsey graham probably gets up to we've had some male hookers come out come out and make some allegations but they were running a pretty sophisticated blackmail ring in dc and lindsey graham just comes out and immediately is like whatever israel wants all the time all the time Bomb him now,"
 
-**[00:11:18](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-israel-t-00-10-59)**
+**[00:11:18](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-israel-t-00-10-50)**
 > "...following this trip, Iran and Israel's 12-day war commences."
 
-**[00:11:31](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-israel-t-00-10-59)**
+**[00:11:31](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-israel-t-00-11-31)**
 > "But on June 13th, Iran and Israel's 12-day war commences. Every time I start building..."
 
-**[00:11:37](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-israel-t-00-10-59)**
-> "something's going on in Israel and these planes get going. And I've learned Prov..."
+**[00:11:54](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-israel-t-00-11-31)**
+> "Out of Israel during wartime, Provo would be a great place for this person to go. And there were some strange cancellations. But again, I'm going to save that government cancellations in Provo at that time. But I'm going to save that again for when we go through the Egyptian planes."
 
-**[00:11:54](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-israel-t-00-11-44)**
-> "Out of Israel during wartime, Probo would be a great place for ..."
-
-**[00:12:06](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-israel-t-00-11-44)**
+**[00:12:06](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-israel-t-00-12-06)**
 > "...t being is that that Iran and Israel's 12 day war commences. And we know that then betwe..."
 
-**[00:20:30](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-israel-t-00-20-15)**
+**[00:20:30](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-israel-t-00-20-30)**
 > "...am he was in japan korea iraq israel you name it all over the place throughout europe"
 
-**[00:41:58](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-israel-t-00-41-33)**
+**[00:41:55](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-israel-t-00-41-30)**
 > "Israel calling out citizens in America by their name and..."
+
+**[00:08:58](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-israel-t-00-08-58)**
+> "... to win against the murderous Israeli regime."
+
+**[00:09:28](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-israel-t-00-09-28)**
+> "...concerned about the murderous israeli regime okay and we're going to look at that timel..."
 
 </details>
 
@@ -5860,6 +5878,18 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
+<summary>Has Former Prime Minister (1)</summary>
+
+- **[Golda Meir](/entities/person-golda-meir.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Legal Turning Point? | Candace Ep 292 @ 00:02:24](/episodes/ep-NIEbqsLAK8g.md#t-00-01-54): “Golda Meir, the one-time prime minister of Israel”
+
+</details>
+
+</details>
+
+<details>
 <summary>Has Prime Minister (1)</summary>
 
 - **[Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)**
@@ -5985,7 +6015,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 </details>
 
 <details>
-<summary>Referenced By (30)</summary>
+<summary>Referenced By (31)</summary>
 
 - **[Ian Carroll](/entities/person-ian-carroll.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -6096,6 +6126,13 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:36:57](/episodes/ep-AH1KVKkweUE.md#t-00-36-38): “remove our ties from Israel, stop funding that demonic pedophilic state of Baal”
 - [VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 @ 00:41:31](/episodes/ep-1CFDtD0IgEg.md#t-00-41-31): “I'm referring to Israel that worships Baal, worships murder. They are obsessed with death. It's constant destruction.”
 - [LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 @ 00:15:26](/episodes/ep-ChuWo-n49B8.md#t-00-15-05): “So yeah, we'd rather not trust an Israeli tech firm to extract messages that do not sound at all as though they were written by a native English speaker.”
+
+</details>
+
+- **[Golda Meir](/entities/person-golda-meir.md)** former prime minister of this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Legal Turning Point? | Candace Ep 292 @ 00:02:24](/episodes/ep-NIEbqsLAK8g.md#t-00-01-54): “Golda Meir, the one-time prime minister of Israel”
 
 </details>
 
@@ -7152,7 +7189,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (2)</summary>
 
-- [00:03:33](/episodes/ep-NIEbqsLAK8g.md#t-00-03-33) (Accusation) **Anonymous Source #1 (Ep NIEbqsLAK8g)** (via read message): ["The email source alleged that bought-and-paid-for police officers acro..."](/statements/statement-09966aaf479e.md)
+- [00:03:33](/episodes/ep-NIEbqsLAK8g.md#t-00-03-21) (Accusation) **Anonymous Source #1 (Ep NIEbqsLAK8g)** (via read message): ["The email source alleged that bought-and-paid-for police officers acro..."](/statements/statement-09966aaf479e.md)
   - Also about: [United States](/entities/gpe-united-states.md)
 
 - [00:36:35](/episodes/ep-NIEbqsLAK8g.md#t-00-35-58) (Claim) **Candace Owens**: ["Israel will honor Charlie Kirk with an award for opposing antisemitism..."](/statements/statement-e5b54027305b.md)
@@ -7177,7 +7214,7 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (2)</summary>
 
-- [00:43:25](/episodes/ep-BKcOm32ZEGk.md#t-00-42-53) (Accusation) **Candace Owens** (via paraphrase): ["Mike Pompeo was arguing that future history books should omit the kill..."](/statements/statement-881ef72df2a3.md)
+- [00:43:25](/episodes/ep-BKcOm32ZEGk.md#t-00-43-19) (Accusation) **Candace Owens** (via paraphrase): ["Mike Pompeo was arguing that future history books should omit the kill..."](/statements/statement-881ef72df2a3.md)
   - Also about: [Mike Pompeo](/entities/person-mike-pompeo.md), [Palestine](/entities/gpe-palestine.md), [Gaza](/entities/gpe-gaza.md)
 
 - [00:43:56](/episodes/ep-BKcOm32ZEGk.md#t-00-43-45) (Opinion) **Mike Pompeo** (via quoted speech): ["Future history books should not describe Gazans as the victims; they s..."](/statements/statement-27c869572b62.md)
@@ -7188,16 +7225,16 @@ Source: [Member States - United Nations](https://www.un.org/en/about-us/member-s
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (4)</summary>
 
-- [00:03:18](/episodes/ep-ZZGWo6oDscc.md#t-00-03-11) (Accusation) **Candace Owens**: ["War with Iran is back on the table because Israel wants it."](/statements/statement-120b0bd48279.md)
+- [00:03:18](/episodes/ep-ZZGWo6oDscc.md#t-00-03-04) (Accusation) **Candace Owens**: ["War with Iran is back on the table because Israel wants it."](/statements/statement-120b0bd48279.md)
   - Also about: [Iran](/entities/gpe-iran.md)
 
-- [00:03:30](/episodes/ep-ZZGWo6oDscc.md#t-00-03-11) (Claim) **Candace Owens** (via paraphrase): ["According to Tucker Carlson and others, Charlie Kirk went head-to-head..."](/statements/statement-b2921bff7c51.md)
+- [00:03:30](/episodes/ep-ZZGWo6oDscc.md#t-00-03-04) (Claim) **Candace Owens** (via paraphrase): ["According to Tucker Carlson and others, Charlie Kirk went head-to-head..."](/statements/statement-b2921bff7c51.md)
   - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 
-- [00:07:11](/episodes/ep-ZZGWo6oDscc.md#t-00-07-08) (Accusation) **Candace Owens**: ["I think personally he's got the largest blackmail file, whatever Israe..."](/statements/statement-7c2487d3cfc3.md)
+- [00:07:11](/episodes/ep-ZZGWo6oDscc.md#t-00-07-06) (Accusation) **Candace Owens**: ["I think personally he's got the largest blackmail file, whatever Israe..."](/statements/statement-7c2487d3cfc3.md)
   - Also about: [Lindsey Graham](/entities/person-lindsey-graham.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
-- [00:14:12](/episodes/ep-ZZGWo6oDscc.md#t-00-13-49) (Accusation) **Candace Owens**: ["Charlie Kirk's assassination was good for Benjamin Netanyahu's war amb..."](/statements/statement-ba3417f20e97.md)
+- [00:14:12](/episodes/ep-ZZGWo6oDscc.md#t-00-13-31) (Accusation) **Candace Owens**: ["Charlie Kirk's assassination was good for Benjamin Netanyahu's war amb..."](/statements/statement-ba3417f20e97.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Iran](/entities/gpe-iran.md)
 
 </details>

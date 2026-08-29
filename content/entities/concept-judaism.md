@@ -35,9 +35,9 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 <p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-judaism-t-00-16-11">Candace x Bassem Youssef | Candace Ep 298</a> (24 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-judaism-t-00-22-21" style="--pulse-height:12%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-judaism-t-00-51-34" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-judaism-t-00-51-30" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-concept-judaism-t-00-37-15" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-concept-judaism-t-00-05-13" style="--pulse-height:17%" aria-label="Myron Gaines x Candace Owens: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-concept-judaism-t-00-05-00" style="--pulse-height:17%" aria-label="Myron Gaines x Candace Owens: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#t-00-40-49" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-judaism-t-00-01-23" style="--pulse-height:8%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-concept-judaism-t-00-38-43" style="--pulse-height:8%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
@@ -78,9 +78,9 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-judaism-t-00-22-21) | 3 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-judaism-t-00-51-34) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-judaism-t-00-51-30) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-concept-judaism-t-00-37-15) | 2 |
-| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-judaism-t-00-05-13) | 4 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-judaism-t-00-05-00) | 4 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#t-00-40-49) | 1 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-judaism-t-00-01-23) | 2 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-concept-judaism-t-00-38-43) | 1 |
@@ -746,7 +746,7 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 <details>
 <summary>Myron Gaines x Candace Owens (4 mentions)</summary>
 
-**[00:05:25](/episodes/ep-2T39-oADLj0.md#ent-concept-judaism-t-00-05-13)**
+**[00:05:25](/episodes/ep-2T39-oADLj0.md#ent-concept-judaism-t-00-05-00)**
 > "...nated the Tsar. You had these Jewish women like Emma Goldman who came over to America...."
 
 **[00:31:31](/episodes/ep-2T39-oADLj0.md#ent-concept-judaism-t-00-31-31)**
@@ -755,7 +755,7 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 **[00:36:37](/episodes/ep-2T39-oADLj0.md#ent-concept-judaism-t-00-36-37)**
 > "...ve like side of Australia the Jewish conservatives did also write a letter in support ..."
 
-**[00:44:55](/episodes/ep-2T39-oADLj0.md#ent-concept-judaism-t-00-36-37)**
+**[00:44:53](/episodes/ep-2T39-oADLj0.md#ent-concept-judaism-t-00-36-37)**
 > "...know, they had the Republican Jewish coalition a couple of weeks ago."
 
 </details>
@@ -763,7 +763,7 @@ Source: [Introduction to Judaism | Holocaust Encyclopedia](https://encyclopedia.
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:51:34](/episodes/ep-ZZGWo6oDscc.md#ent-concept-judaism-t-00-51-34)**
+**[00:51:30](/episodes/ep-ZZGWo6oDscc.md#ent-concept-judaism-t-00-51-30)**
 > "...e catholic do i pretend to be jewish do i pretend to be muslim no they just they're th..."
 
 </details>

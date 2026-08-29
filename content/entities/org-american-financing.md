@@ -1825,13 +1825,13 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 **[00:40:10](/episodes/ep-ZZGWo6oDscc.md#ent-org-american-financing-t-00-40-10)**
 > "...also reminding you guys about american financing because between groceries travel and higher"
 
-**[00:40:44](/episodes/ep-ZZGWo6oDscc.md#ent-org-american-financing-t-00-40-10)**
+**[00:40:41](/episodes/ep-ZZGWo6oDscc.md#ent-org-american-financing-t-00-40-10)**
 > "...ve considered reaching out to American Financing, but maybe hesitated because you didn't want to g..."
 
 **[00:40:49](/episodes/ep-ZZGWo6oDscc.md#ent-org-american-financing-t-00-40-49)**
 > "Well, that's why American Financing created the SMART Equity Loan, which is a simple,..."
 
-**[00:41:16](/episodes/ep-ZZGWo6oDscc.md#ent-org-american-financing-t-00-40-49)**
+**[00:41:10](/episodes/ep-ZZGWo6oDscc.md#ent-org-american-financing-t-00-40-49)**
 > "...00-795-1210, or you can visit AmericanFinancing.net slash Owens, AmericanFinancing.net slash Owen..."
 
 </details>
@@ -2434,7 +2434,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (32)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -2468,6 +2468,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 - [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:46:22](/episodes/ep-AoYZel7_cGQ.md#t-00-46-15): “But American Financing offers a smart equity loan so that you don't actually have to.”
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:42:27](/episodes/ep-AH1KVKkweUE.md#t-00-42-27): “i also want to remind you guys about american financing because it is no secret that everything is starting to feel a lot more expensive these days”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:57:26](/episodes/ep-_cNtgris8Ik.md#t-00-57-01): “American financing can help you consolidate high interest credit. interest credit card debts that you have some breathing room.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:40:30](/episodes/ep-ZZGWo6oDscc.md#t-00-40-10): “also reminding you guys about american financing”
 
 </details>
 
@@ -2491,7 +2492,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 <summary>Referenced By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (32)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -2525,6 +2526,7 @@ Source: [About Us - American Financing](https://www.americanfinancing.net/about-
 - [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:46:22](/episodes/ep-AoYZel7_cGQ.md#t-00-46-15): “But American Financing offers a smart equity loan so that you don't actually have to.”
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:42:27](/episodes/ep-AH1KVKkweUE.md#t-00-42-27): “i also want to remind you guys about american financing because it is no secret that everything is starting to feel a lot more expensive these days”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:57:26](/episodes/ep-_cNtgris8Ik.md#t-00-57-01): “American financing can help you consolidate high interest credit. interest credit card debts that you have some breathing room.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:40:30](/episodes/ep-ZZGWo6oDscc.md#t-00-40-10): “also reminding you guys about american financing”
 
 </details>
 

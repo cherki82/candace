@@ -11,7 +11,7 @@ object: "person-tyler-bowyer"
 
 ## [Turning Point Action](/entities/org-turning-point-action) employs [Tyler Bowyer](/entities/person-tyler-bowyer)
 
-### Evidence (4 mentions)
+### Evidence (5 mentions)
 
 **[Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA)**
 
@@ -24,6 +24,10 @@ object: "person-tyler-bowyer"
 **[Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY)**
 
 - [00:16:51](/episodes/ep-DdPjoy5W-wY#t-00-16-51): _At Turning Point Action, we have a ton of jobs posting_
+
+**[CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc)**
+
+- [00:17:27](/episodes/ep-ZZGWo6oDscc#t-00-17-27): _He left it, split it amongst turning point action, headed up by none other than Tyler Boyer._
 
 **[TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI)**
 

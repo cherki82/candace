@@ -42,7 +42,7 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-liberty-university-t-00-31-41" style="--pulse-height:8%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 1 mentions" title="2025-12-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-liberty-university-t-00-06-24" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 38 mentions" title="2026-01-09 · 38 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-org-liberty-university-t-00-00-00" style="--pulse-height:42%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 16 mentions" title="2026-01-12 · 16 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-liberty-university-t-00-09-30" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-liberty-university-t-00-09-28" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-org-liberty-university-t-00-14-06" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-org-liberty-university-t-00-32-21" style="--pulse-height:8%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 2 mentions" title="2026-02-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-liberty-university-t-00-05-48" style="--pulse-height:8%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 2 mentions" title="2026-03-06 · 2 mentions"><span></span></a>
@@ -61,7 +61,7 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-liberty-university-t-00-31-41) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-liberty-university-t-00-06-24) | 38 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-liberty-university-t-00-00-00) | 16 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-liberty-university-t-00-09-30) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-liberty-university-t-00-09-28) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-liberty-university-t-00-14-06) | 2 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-liberty-university-t-00-32-21) | 2 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-liberty-university-t-00-05-48) | 2 |
@@ -146,7 +146,7 @@ Source: [About Liberty | Liberty University](https://www.liberty.edu/about/)
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:09:30](/episodes/ep-ZZGWo6oDscc.md#ent-org-liberty-university-t-00-09-30)**
+**[00:09:28](/episodes/ep-ZZGWo6oDscc.md#ent-org-liberty-university-t-00-09-28)**
 > "...e priests and the pastors and liberty university there's a reason that we're waiting on that but s..."
 
 </details>

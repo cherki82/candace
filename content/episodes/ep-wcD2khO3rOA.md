@@ -892,7 +892,7 @@ youtube_url: "https://www.youtube.com/watch?v=wcD2khO3rOA"
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Lori Frantzve](/entities/person-lori-frantzve.md), [Otto Busher III](/entities/person-otto-busher-iii.md)
 - [00:12:20](#t-00-12-10) [◐] (Claim) **Candace Owens**: ["Tyler Bowyer traveled to Romania in 2011 to work with the Romanian government an..."](/statements/statement-dee027851b21.md)
   - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Romania](/entities/gpe-romania.md), [Ukraine](/entities/gpe-ukraine.md)
-- [00:13:35](#t-00-12-53) [✓] (Accusation) **Candace Owens**: ["Turning Point Faith works with Greg Laurie while Harvest Christian Fellowship fa..."](/statements/statement-6141210a0ed9.md)
+- [00:13:35](#t-00-12-53) [✓] (Accusation) **Candace Owens**: ["Turning Point Faith is partnering with Greg Laurie's Harvest Church while lawsui..."](/statements/statement-6141210a0ed9.md)
   - About: [Turning Point Faith](/entities/org-turning-point-faith.md), [Greg Laurie](/entities/person-greg-laurie.md), [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md)
 - [00:13:54](#t-00-13-35) [◐] (Claim) **Candace Owens**: ["Andrew Kolvet’s brother Curtis is a lieutenant colonel stationed in Romania, and..."](/statements/statement-005748582539.md)
   - About: [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Astrid Tuminez](/entities/person-astrid-tuminez.md)

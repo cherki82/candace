@@ -71,7 +71,7 @@ Source: [About | Republican Jewish Coalition](https://www.rjchq.org/about)
 <details>
 <summary>Myron Gaines x Candace Owens (1 mentions)</summary>
 
-**[00:44:55](/episodes/ep-2T39-oADLj0.md#ent-org-republican-jewish-coalition-t-00-44-53)**
+**[00:44:53](/episodes/ep-2T39-oADLj0.md#ent-org-republican-jewish-coalition-t-00-44-53)**
 > "they had the Republican Jewish coalition"
 
 </details>

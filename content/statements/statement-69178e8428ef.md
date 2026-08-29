@@ -30,7 +30,7 @@ veracity: "true"
 ## Source
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
-**Timestamp:** [00:11:37](/episodes/ep-NIEbqsLAK8g.md#t-00-11-11) 
+**Timestamp:** [00:11:37](/episodes/ep-NIEbqsLAK8g.md#t-00-11-05) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(697);return false;">Play</a>
 
 > He also is from Dallas, Texas, working for the FBI on the elite Hostage Rescue Team. He was a supervisor on the Dallas Joint Terrorism Task Force. And get this, also another Eastern European connection because he was also a part of their organization in Budapest. In Budapest, Hungary, if you didn't know, the FBI also has sub offices all around the globe. And Greg was at least stationed in Budapest. He probably was stationed in other places.

@@ -91,7 +91,7 @@ Source: [November Renaissance by Michael Gee and Clayton Haugen — Kickstarter]
 - **[Clayton Haugen](/entities/person-clayton-haugen.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:08:59](/episodes/ep-X92MllIHDzw.md#t-00-08-59): “Clayton Haugen, speaking about this movie.”
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:08:57](/episodes/ep-X92MllIHDzw.md#t-00-08-15): “Here is the director, Clayton Haugen, speaking about this movie.”
 
 </details>
 
@@ -110,7 +110,7 @@ Source: [November Renaissance by Michael Gee and Clayton Haugen — Kickstarter]
 - **[Clayton Haugen](/entities/person-clayton-haugen.md)** director of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:08:59](/episodes/ep-X92MllIHDzw.md#t-00-08-59): “Clayton Haugen, speaking about this movie.”
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:08:57](/episodes/ep-X92MllIHDzw.md#t-00-08-15): “Here is the director, Clayton Haugen, speaking about this movie.”
 
 </details>
 

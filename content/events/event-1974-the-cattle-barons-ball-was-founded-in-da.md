@@ -14,7 +14,7 @@ date: "1974"
 ## Mentioned In
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
-**Timestamp:** [00:04:37](/episodes/ep-NIEbqsLAK8g.md#event-event-1974-the-cattle-barons-ball-was-founded-in-da-t-00-04-16) 
+**Timestamp:** [00:04:37](/episodes/ep-NIEbqsLAK8g.md#event-event-1974-the-cattle-barons-ball-was-founded-in-da-t-00-04-02) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(277);return false;">▶️ Play</a>
 
 > To be clear, it's the world's largest single night fundraiser. It was founded 50 years ago.

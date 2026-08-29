@@ -1,6 +1,6 @@
 ---
 title: "Nimi Skincare"
-description: "Nimi Skincare (Organizations) - 285 mentions"
+description: "Nimi Skincare (Organizations) - 286 mentions"
 id: "org-nimi-skincare"
 type: "ORG"
 aliases:
@@ -44,7 +44,7 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-nimi-skincare-t-00-51-30">2025-09-18 · 00:51:33</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-org-nimi-skincare-t-00-28-47">2026-08-19 · 00:28:47</a></strong></div>
 <div><span>Episodes</span><strong>65</strong></div>
-<div><span>Mentions</span><strong>285</strong></div>
+<div><span>Mentions</span><strong>286</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -74,10 +74,10 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-nimi-skincare-t-00-01-41" style="--pulse-height:56%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 5 mentions" title="2026-01-06 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-nimi-skincare-t-00-35-26" style="--pulse-height:44%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 4 mentions" title="2026-01-07 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-org-nimi-skincare-t-00-45-49" style="--pulse-height:56%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 5 mentions" title="2026-01-12 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-nimi-skincare-t-00-00-41" style="--pulse-height:89%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 8 mentions" title="2026-01-13 · 8 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#t-00-45-25" style="--pulse-height:11%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-nimi-skincare-t-00-01-19" style="--pulse-height:89%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 8 mentions" title="2026-01-13 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#t-00-45-25" style="--pulse-height:22%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-org-nimi-skincare-t-00-33-30" style="--pulse-height:44%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-nimi-skincare-t-00-00-42" style="--pulse-height:78%" aria-label="A Legal Turning Point? | Candace Ep 292: 7 mentions" title="2026-01-19 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-nimi-skincare-t-00-00-33" style="--pulse-height:67%" aria-label="A Legal Turning Point? | Candace Ep 292: 6 mentions" title="2026-01-19 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-org-nimi-skincare-t-00-26-49" style="--pulse-height:78%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 7 mentions" title="2026-01-20 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-org-nimi-skincare-t-00-01-27" style="--pulse-height:78%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 7 mentions" title="2026-01-27 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-nimi-skincare-t-00-35-05" style="--pulse-height:78%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 7 mentions" title="2026-01-28 · 7 mentions"><span></span></a>
@@ -144,10 +144,10 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-nimi-skincare-t-00-01-41) | 5 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-org-nimi-skincare-t-00-35-26) | 4 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-nimi-skincare-t-00-45-49) | 5 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-nimi-skincare-t-00-00-41) | 8 |
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#t-00-45-25) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-nimi-skincare-t-00-01-19) | 8 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#t-00-45-25) | 2 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-nimi-skincare-t-00-33-30) | 4 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-nimi-skincare-t-00-00-42) | 7 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-nimi-skincare-t-00-00-33) | 6 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-org-nimi-skincare-t-00-26-49) | 7 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-org-nimi-skincare-t-00-01-27) | 7 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-nimi-skincare-t-00-35-05) | 7 |
@@ -197,7 +197,7 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (285)</strong></summary>
+<summary><strong class="section-title">Raw mentions (286)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (4 mentions)</summary>
@@ -944,27 +944,24 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 </details>
 
 <details>
-<summary>A Legal Turning Point? | Candace Ep 292 (7 mentions)</summary>
+<summary>A Legal Turning Point? | Candace Ep 292 (6 mentions)</summary>
 
-**[00:01:09](/episodes/ep-NIEbqsLAK8g.md#ent-org-nimi-skincare-t-00-00-42)**
+**[00:01:09](/episodes/ep-NIEbqsLAK8g.md#ent-org-nimi-skincare-t-00-00-33)**
 > "Okay, before we get started, a quick thank you to Nimi Skin Care for supporting the show."
 
-**[00:01:13](/episodes/ep-NIEbqsLAK8g.md#ent-org-nimi-skincare-t-00-00-42)**
-> "Nimi Skin Care makes my skin glow."
-
-**[00:01:21](/episodes/ep-NIEbqsLAK8g.md#ent-org-nimi-skincare-t-00-00-42)**
+**[00:01:21](/episodes/ep-NIEbqsLAK8g.md#ent-org-nimi-skincare-t-00-01-15)**
 > "So visit nimiskincare.com today."
 
-**[00:16:38](/episodes/ep-NIEbqsLAK8g.md#ent-org-nimi-skincare-t-00-16-10)**
+**[00:16:38](/episodes/ep-NIEbqsLAK8g.md#ent-org-nimi-skincare-t-00-16-16)**
 > "is Nimi Skincare."
 
-**[00:16:51](/episodes/ep-NIEbqsLAK8g.md#ent-org-nimi-skincare-t-00-16-10)**
+**[00:16:51](/episodes/ep-NIEbqsLAK8g.md#ent-org-nimi-skincare-t-00-16-16)**
 > "...ed is actually simplicity and Nimi Skincare is clean."
 
-**[00:17:22](/episodes/ep-NIEbqsLAK8g.md#ent-org-nimi-skincare-t-00-16-55)**
+**[00:17:22](/episodes/ep-NIEbqsLAK8g.md#ent-org-nimi-skincare-t-00-17-01)**
 > "And sticking with Nimi skincare has been a part of that. You can learn more at ni..."
 
-**[00:17:31](/episodes/ep-NIEbqsLAK8g.md#ent-org-nimi-skincare-t-00-16-55)**
+**[00:17:31](/episodes/ep-NIEbqsLAK8g.md#ent-org-nimi-skincare-t-00-17-31)**
 > "That's NIMIskincare.com."
 
 </details>
@@ -987,38 +984,41 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 </details>
 
 <details>
-<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (2 mentions)</summary>
 
 **[00:45:31](/episodes/ep-BKcOm32ZEGk.md#t-00-45-25)**
 > "exactly why I use Nimi"
+
+**[00:45:52](/episodes/ep-BKcOm32ZEGk.md#t-00-45-25)**
+> "Mimi skincare is clean. It's made in America and it is built around steady values instead of trends."
 
 </details>
 
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (8 mentions)</summary>
 
-**[00:01:19](/episodes/ep-ZZGWo6oDscc.md#ent-org-nimi-skincare-t-00-00-41)**
+**[00:01:19](/episodes/ep-ZZGWo6oDscc.md#ent-org-nimi-skincare-t-00-01-19)**
 > "...going to be brought to you by Nimi Skin Care,"
 
-**[00:01:31](/episodes/ep-ZZGWo6oDscc.md#ent-org-nimi-skincare-t-00-01-23)**
+**[00:01:23](/episodes/ep-ZZGWo6oDscc.md#ent-org-nimi-skincare-t-00-01-19)**
 > "so that's why I love Nimi Skin Care. You can visit NimiSkincare.com today."
 
-**[00:29:52](/episodes/ep-ZZGWo6oDscc.md#ent-org-nimi-skincare-t-00-29-24)**
+**[00:29:50](/episodes/ep-ZZGWo6oDscc.md#ent-org-nimi-skincare-t-00-29-42)**
 > "..., you guys, I've spoken about Nimi skincare before."
 
-**[00:30:10](/episodes/ep-ZZGWo6oDscc.md#ent-org-nimi-skincare-t-00-30-03)**
+**[00:30:10](/episodes/ep-ZZGWo6oDscc.md#ent-org-nimi-skincare-t-00-29-42)**
 > "Well, I'm sticking with Nimi because it's clean and straightforward and it's c..."
 
-**[00:30:18](/episodes/ep-ZZGWo6oDscc.md#ent-org-nimi-skincare-t-00-30-03)**
+**[00:30:18](/episodes/ep-ZZGWo6oDscc.md#ent-org-nimi-skincare-t-00-30-18)**
 > "Every Nimi box has a hidden Bible verse."
 
-**[00:30:30](/episodes/ep-ZZGWo6oDscc.md#ent-org-nimi-skincare-t-00-30-03)**
+**[00:30:30](/episodes/ep-ZZGWo6oDscc.md#ent-org-nimi-skincare-t-00-30-18)**
 > "...d that's why I've stayed with Nimi skincare."
 
-**[00:30:37](/episodes/ep-ZZGWo6oDscc.md#ent-org-nimi-skincare-t-00-30-03)**
+**[00:30:37](/episodes/ep-ZZGWo6oDscc.md#ent-org-nimi-skincare-t-00-30-18)**
 > "...ou can learn more by visiting NimiSkincare.com. And if you want to use my code CANDACE10 at ..."
 
-**[00:30:44](/episodes/ep-ZZGWo6oDscc.md#ent-org-nimi-skincare-t-00-30-03)**
+**[00:30:44](/episodes/ep-ZZGWo6oDscc.md#ent-org-nimi-skincare-t-00-30-18)**
 > "That's NimiSkincare.com."
 
 </details>
@@ -1385,7 +1385,7 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (19)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (20)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:54:41](/episodes/ep-his-JBjlkh8.md#t-00-54-11): “Also, you guys know I have to tell you about Nimmie Skincare. I love them.”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:33:17](/episodes/ep-2tFYJf1klgY.md#t-00-32-55): “it's the only skincare brand that I have stayed consistent with. It's what I use, it's what I trust”
@@ -1406,6 +1406,7 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:44:11](/episodes/ep-N4uM8Jdr410.md#t-00-44-11): “I also have to tell you guys about Nimi Skincare. You know I love them. What makes their skin products so great is that their tallow comes from grass-fed, grass-finished cattle.”
 - [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:44:49](/episodes/ep-AoYZel7_cGQ.md#t-00-44-49): “Nimmy skincare makes the best tallow skincare products I've ever used.”
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:25:15](/episodes/ep-AH1KVKkweUE.md#t-00-24-57): “All right, you guys, Nimi makes the best tallow skincare products that I've ever used.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:01:23](/episodes/ep-ZZGWo6oDscc.md#t-00-01-19): “It's refreshing to work with a brand that has not changed with every single cultural trend. They have clean ingredients, simple routines, and products made in America, so that's why I love Nimi Skin Care.”
 
 </details>
 
@@ -1415,7 +1416,7 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (19)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (20)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:54:41](/episodes/ep-his-JBjlkh8.md#t-00-54-11): “Also, you guys know I have to tell you about Nimmie Skincare. I love them.”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:33:17](/episodes/ep-2tFYJf1klgY.md#t-00-32-55): “it's the only skincare brand that I have stayed consistent with. It's what I use, it's what I trust”
@@ -1436,6 +1437,7 @@ Source: [Nimi Skincare — Candace](https://www.nimiskincare.com/pages/candace)
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:44:11](/episodes/ep-N4uM8Jdr410.md#t-00-44-11): “I also have to tell you guys about Nimi Skincare. You know I love them. What makes their skin products so great is that their tallow comes from grass-fed, grass-finished cattle.”
 - [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:44:49](/episodes/ep-AoYZel7_cGQ.md#t-00-44-49): “Nimmy skincare makes the best tallow skincare products I've ever used.”
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:25:15](/episodes/ep-AH1KVKkweUE.md#t-00-24-57): “All right, you guys, Nimi makes the best tallow skincare products that I've ever used.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:01:23](/episodes/ep-ZZGWo6oDscc.md#t-00-01-19): “It's refreshing to work with a brand that has not changed with every single cultural trend. They have clean ingredients, simple routines, and products made in America, so that's why I love Nimi Skin Care.”
 
 </details>
 

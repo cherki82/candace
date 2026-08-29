@@ -58,7 +58,7 @@ Source: [State of Arizona official website](https://az.gov/)
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-25-20" style="--pulse-height:84%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 16 mentions" title="2026-01-06 · 16 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-arizona-t-00-01-21" style="--pulse-height:26%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 5 mentions" title="2026-01-07 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-arizona-t-00-09-20" style="--pulse-height:21%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 4 mentions" title="2026-01-09 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-arizona-t-00-17-27" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-arizona-t-00-17-43" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-arizona-t-00-08-31" style="--pulse-height:21%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-arizona-t-00-00-01" style="--pulse-height:42%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 8 mentions" title="2026-01-22 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-arizona-t-00-13-23" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
@@ -135,7 +135,7 @@ Source: [State of Arizona official website](https://az.gov/)
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-arizona-t-00-25-20) | 16 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-arizona-t-00-01-21) | 5 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-arizona-t-00-09-20) | 4 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-arizona-t-00-17-27) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-arizona-t-00-17-43) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-arizona-t-00-08-31) | 4 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-arizona-t-00-00-01) | 8 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-arizona-t-00-13-23) | 1 |
@@ -961,7 +961,7 @@ Source: [State of Arizona official website](https://az.gov/)
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:17:55](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-arizona-t-00-17-27)**
+**[00:17:55](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-arizona-t-00-17-43)**
 > "...ld like to give two causes in Arizona."
 
 </details>

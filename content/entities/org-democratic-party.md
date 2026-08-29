@@ -1,6 +1,6 @@
 ---
 title: "Democratic Party"
-description: "Democratic Party (Organizations) - 17 mentions"
+description: "Democratic Party (Organizations) - 18 mentions"
 id: "org-democratic-party"
 type: "ORG"
 aliases:
@@ -24,7 +24,7 @@ Source: [Democratic National Committee](https://democrats.org/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-democratic-party-t-00-41-26">2026-01-05 · 00:41:26</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-democratic-party-t-00-46-33">2026-08-21 · 00:46:33</a></strong></div>
 <div><span>Episodes</span><strong>13</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,7 +37,7 @@ Source: [Democratic National Committee](https://democrats.org/)
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-democratic-party-t-00-41-26" style="--pulse-height:33%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#t-00-13-45" style="--pulse-height:33%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#t-00-14-54" style="--pulse-height:33%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-org-democratic-party-t-00-24-41" style="--pulse-height:67%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-org-democratic-party-t-00-34-48" style="--pulse-height:33%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 1 mentions" title="2026-04-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-org-democratic-party-t-00-33-58" style="--pulse-height:67%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 2 mentions" title="2026-04-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-69A8TzAGHlU.md#t-00-58-45" style="--pulse-height:33%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
@@ -55,7 +55,7 @@ Source: [Democratic National Committee](https://democrats.org/)
 |---|---|---:|
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-democratic-party-t-00-41-26) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#t-00-13-45) | 1 |
-| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#t-00-14-54) | 1 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-democratic-party-t-00-24-41) | 2 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-org-democratic-party-t-00-34-48) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-org-democratic-party-t-00-33-58) | 2 |
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#t-00-58-45) | 1 |
@@ -73,7 +73,7 @@ Source: [Democratic National Committee](https://democrats.org/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (18)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -165,10 +165,13 @@ Source: [Democratic National Committee](https://democrats.org/)
 </details>
 
 <details>
-<summary>Myron Gaines x Candace Owens (1 mentions)</summary>
+<summary>Myron Gaines x Candace Owens (2 mentions)</summary>
 
-**[00:14:54](/episodes/ep-2T39-oADLj0.md#t-00-14-54)**
+**[00:14:54](/episodes/ep-2T39-oADLj0.md#ent-org-democratic-party-t-00-24-41)**
 > "The Democrats would have exposed that"
+
+**[00:24:41](/episodes/ep-2T39-oADLj0.md#ent-org-democratic-party-t-00-24-41)**
+> "...hing really bad like that The Democrats would have exposed that"
 
 </details>
 

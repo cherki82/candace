@@ -1,6 +1,6 @@
 ---
-title: "Turning Point Faith works with Greg Laurie while Harvest Chr..."
-description: "\"Turning Point Faith works with Greg Laurie while Harvest Christian Fellowship faces current allegations involving trafficking children from Romania.\" — Candace Owens"
+title: "Turning Point Faith is partnering with Greg Laurie's Harvest..."
+description: "\"Turning Point Faith is partnering with Greg Laurie's Harvest Church while lawsuits allege abuse and sex trafficking by former Harvest Christian Fellow...\" — Candace Owens"
 statement_id: "statement-6141210a0ed9"
 speaker: "Candace Owens"
 type: "accusation"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> Turning Point Faith works with Greg Laurie while Harvest Christian Fellowship faces current allegations involving trafficking children from Romania.
+> Turning Point Faith is partnering with Greg Laurie's Harvest Church while lawsuits allege abuse and sex trafficking by former Harvest Christian Fellowship pastor Paul Havsgaard at a Romanian children's home.
 
 ## Attribution
 
@@ -25,6 +25,7 @@ veracity: "true"
 - [Greg Laurie](/entities/person-greg-laurie.md) (person)
 - [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md) (org)
 - [Romania](/entities/gpe-romania.md) (gpe)
+- [Paul Havsgaard](/entities/person-paul-havsgaard.md) (person)
 
 ## Appearances (2)
 
@@ -39,10 +40,10 @@ veracity: "true"
 ### 2. CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 2...
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
-**Timestamp:** [00:32:53](/episodes/ep-ZZGWo6oDscc.md#t-00-32-45) 
+**Timestamp:** [00:32:53](/episodes/ep-ZZGWo6oDscc.md#t-00-32-44) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1973);return false;">Play</a>
 
-> which is why she's soon going to be speaking with Greg Laurie's Harvest Church for Turning Point USA's Faith Make Heaven Crowded Tour, okay? I can show you that. I think we have that here on the website so you can see if this is a real thing that's happening. And yeah, they're partnering with the Harvest Church to do this.
+> which is why she's soon going to be speaking with Greg Laurie's Harvest Church for Turning Point USA's Faith Make Heaven Crowded Tour, okay? ... And yeah, they're partnering with the Harvest Church to do this. ... Here's an article which tells us that Greg Laurie, there's been a number of lawsuits filed against Harvest Christian Fellowship. The founder, Greg Laurie, and also the churches related to alleged abuse of young men at a children's home in Romania. OK, there's now there's 12 lawsuits, actually. The original lawsuit was filed in September by two men. Claiming that Paul Havsgaard, he is a former pastor and a missionary at Harvest Christian Fellowship in Riverside, California. ... they're alleging that he abused them at a children's shelter in Bucharest, Romania. The allegations include children being tied. to radiators, being made to kneel down on walnut shells, being touched inappropriately, and being pimped out for sex.
 
 ## Verification
 

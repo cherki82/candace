@@ -4,9 +4,10 @@ description: "\"The Epstein matter is not about female victims; it is about the 
 statement_id: "statement-63eaaa31c41d"
 speaker: "Nick Fuentes"
 type: "opinion"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -36,8 +37,22 @@ type: "opinion"
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Verified narrowly as a quotation of Nick Fuentes's expressed framing, not as validation of that framing or of any underlying Epstein-related allegation. The source-scoped transcript at 42:52 records Fuentes contrasting 'female victims' with 'the integrity of our government'; the live transcript of the publicly available video reproduces the same wording and surrounding caveats.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Transcript of Candace Owens ACCUSES Nick Fuentes of Being a Fed Asset](https://youtubetotranscript.com/transcript?current_language_code=en&v=DdGzINE_510)
+- [Candace Owens ACCUSES Nick Fuentes of Being a Fed Asset](https://www.youtube.com/watch?v=DdGzINE_510)
+
+*Verified: 2026-08-29T00:34:41.881464*
 
 ---
 
-**Type:** Opinion | **Verifiable:** No
+**Type:** Opinion | **Verifiable:** Yes

@@ -17,7 +17,7 @@ _Type: People_
 Source: [Peter Thiel biography | SMU](https://www.smu.edu/tateseries/~/media/site/tateseries/speakers/1415/bios/peter%20thiel)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-peter-thiel-t-00-25-30">2026-01-14 · 00:25:34</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-peter-thiel-t-00-25-21">2026-01-14 · 00:25:34</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-H9p2ZGHAs9A.md#ent-person-peter-thiel-t-00-03-42">2026-03-11 · 00:03:42</a></strong></div>
 <div><span>Episodes</span><strong>6</strong></div>
 <div><span>Mentions</span><strong>19</strong></div>
@@ -31,7 +31,7 @@ Source: [Peter Thiel biography | SMU](https://www.smu.edu/tateseries/~/media/sit
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-peter-thiel-t-00-33-17">Candace x Baron Coleman LIVE!! | Candace Ep 293</a> (7 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-peter-thiel-t-00-25-30" style="--pulse-height:14%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-peter-thiel-t-00-25-21" style="--pulse-height:14%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-peter-thiel-t-00-33-17" style="--pulse-height:100%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 7 mentions" title="2026-01-20 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-peter-thiel-t-00-46-04" style="--pulse-height:14%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-peter-thiel-t-00-24-28" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 7 mentions" title="2026-02-02 · 7 mentions"><span></span></a>
@@ -42,7 +42,7 @@ Source: [Peter Thiel biography | SMU](https://www.smu.edu/tateseries/~/media/sit
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-peter-thiel-t-00-25-30) | 1 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-peter-thiel-t-00-25-21) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-peter-thiel-t-00-33-17) | 7 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-peter-thiel-t-00-46-04) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-peter-thiel-t-00-24-28) | 7 |
@@ -139,7 +139,7 @@ Source: [Peter Thiel biography | SMU](https://www.smu.edu/tateseries/~/media/sit
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
 
-**[00:25:34](/episodes/ep-BKcOm32ZEGk.md#ent-person-peter-thiel-t-00-25-30)**
+**[00:25:34](/episodes/ep-BKcOm32ZEGk.md#ent-person-peter-thiel-t-00-25-21)**
 > "people like Peter Thiel"
 
 </details>

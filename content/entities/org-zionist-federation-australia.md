@@ -21,13 +21,13 @@ _Type: Organizations_
 Source: [Zionist Federation of Australia](https://www.zfa.com.au/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#t-00-36-24">2026-01-16 · 00:36:27</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#t-00-36-24">2026-01-16 · 00:36:27</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#t-00-36-24">2026-01-16 · 00:36:24</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#t-00-36-24">2026-01-16 · 00:36:24</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
-<div><span>Relationships</span><strong>0</strong></div>
+<div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -54,7 +54,7 @@ Source: [Zionist Federation of Australia](https://www.zfa.com.au/)
 <details>
 <summary>Myron Gaines x Candace Owens (1 mentions)</summary>
 
-**[00:36:27](/episodes/ep-2T39-oADLj0.md#t-00-36-24)**
+**[00:36:24](/episodes/ep-2T39-oADLj0.md#t-00-36-24)**
 > "the Zionist organization of Australia maybe it was ZOA"
 
 </details>
@@ -64,7 +64,29 @@ Source: [Zionist Federation of Australia](https://www.zfa.com.au/)
 <details open>
 <summary><strong class="section-title">Relationships</strong></summary>
 
-_No relationships extracted yet._
+<details>
+<summary>Criticized (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:36:24](/episodes/ep-2T39-oADLj0.md#t-00-36-24): “I was going to tour in Australia and the Zionist lobby found out and they publicly posted it was like the Zionist organization of Australia maybe it was ZOA publicly posted this thing this ... her butt she should be allowed to speak but they were effectively the adl and they posted this thing and publicly said that i should not be allowed in my my rhetoric was dangerous they lied and said that i said that jews what did they say that i said that jews drink the blood of children which was it was just like completely so”
+
+</details>
+
+</details>
+
+<details>
+<summary>Referenced By (1)</summary>
+
+- **[Candace Owens](/entities/person-candace-owens.md)** criticized by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:36:24](/episodes/ep-2T39-oADLj0.md#t-00-36-24): “I was going to tour in Australia and the Zionist lobby found out and they publicly posted it was like the Zionist organization of Australia maybe it was ZOA publicly posted this thing this ... her butt she should be allowed to speak but they were effectively the adl and they posted this thing and publicly said that i should not be allowed in my my rhetoric was dangerous they lied and said that i said that jews what did they say that i said that jews drink the blood of children which was it was just like completely so”
+
+</details>
+
+</details>
 
 </details>
 

@@ -24,7 +24,7 @@ type: "accusation"
 - [Brian Harpole](/entities/person-brian-harpole.md) (person)
 - [Fort Huachuca](/entities/gpe-fort-huachuca.md) (gpe)
 
-## Appearances (3)
+## Appearances (2)
 
 ### 1. You Won't Believe What Happened While We Were Off Air... | C...
 
@@ -34,15 +34,7 @@ type: "accusation"
 
 > And he's basically 100% certain he saw Brian Harpole at this top brass meeting. That took place on the morning of the 9th, a meeting which was concluding on the morning of the 9th around 7.30 a.m. He sent me all of the receipts to back this up, okay?
 
-### 2. CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 2...
-
-**Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
-**Timestamp:** [00:28:47](/episodes/ep-ZZGWo6oDscc.md#t-00-28-05) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(1727);return false;">Play</a>
-
-> A psychological operation when Mitch Snow came and told us that he saw Brian Harpole and he saw Erika Kirk at Fort Huachuca in the days leading up to Charlie's assassination. Different days.
-
-### 3. Update! Erika Did Not Go Home. Source Confirms AI Voice Tact...
+### 2. Update! Erika Did Not Go Home. Source Confirms AI Voice Tact...
 
 **Episode:** [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336](/episodes/ep-KpxIBWkNsSs.md)
 **Timestamp:** [00:46:27](/episodes/ep-KpxIBWkNsSs.md#t-00-46-01) 

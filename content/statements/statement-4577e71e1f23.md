@@ -26,7 +26,7 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md)
-**Timestamp:** [00:51:12](/episodes/ep-BKcOm32ZEGk.md#t-00-51-05) 
+**Timestamp:** [00:51:12](/episodes/ep-BKcOm32ZEGk.md#t-00-51-12) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3072);return false;">Play</a>
 
 > But what it ended up happening was their evil plans forced me to really focus on this podcast and what I wanted to do with this podcast since I wasn't allowed to go on tour and they were trying to get me canceled successfully for speaking events and calling people up and threatening them for hosting me on stage. All of that happened in 2024.

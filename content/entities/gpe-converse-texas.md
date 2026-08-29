@@ -21,8 +21,8 @@ _Type: Places_
 Source: [City of Converse](https://www.conversetx.net/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-converse-texas-t-00-42-55">2026-01-19 · 00:43:25</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-converse-texas-t-00-42-55">2026-01-19 · 00:43:25</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-converse-texas-t-00-43-02">2026-01-19 · 00:43:25</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-converse-texas-t-00-43-02">2026-01-19 · 00:43:25</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -33,15 +33,15 @@ Source: [City of Converse](https://www.conversetx.net/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-converse-texas-t-00-42-55">A Legal Turning Point? | Candace Ep 292</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-converse-texas-t-00-43-02">A Legal Turning Point? | Candace Ep 292</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-converse-texas-t-00-42-55" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-converse-texas-t-00-43-02" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-converse-texas-t-00-42-55) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-converse-texas-t-00-43-02) | 1 |
 
 </details>
 </section>
@@ -54,7 +54,7 @@ Source: [City of Converse](https://www.conversetx.net/)
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
 
-**[00:43:25](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-converse-texas-t-00-42-55)**
+**[00:43:25](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-converse-texas-t-00-43-02)**
 > "I grew up in Converse, Texas"
 
 </details>

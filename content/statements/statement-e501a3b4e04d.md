@@ -28,7 +28,7 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
-**Timestamp:** [00:50:32](/episodes/ep-ZZGWo6oDscc.md#t-00-50-30) 
+**Timestamp:** [00:50:32](/episodes/ep-ZZGWo6oDscc.md#t-00-50-22) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3032);return false;">Play</a>
 
 > I stand against pornography as a Catholic and you should, too, because that's a part of a psychological operation. It renders men weaker.

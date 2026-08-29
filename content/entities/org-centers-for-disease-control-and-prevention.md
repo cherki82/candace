@@ -38,7 +38,7 @@ Source: [About CDC](https://www.cdc.gov/about/)
 <p>Highest activity: <a href="/episodes/ep-N4uM8Jdr410.md#ent-org-centers-for-disease-control-and-prevention-t-00-28-09">UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-centers-for-disease-control-and-prevention-t-00-29-20" style="--pulse-height:33%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-centers-for-disease-control-and-prevention-t-00-30-47" style="--pulse-height:33%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-centers-for-disease-control-and-prevention-t-00-31-02" style="--pulse-height:33%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-centers-for-disease-control-and-prevention-t-00-19-55" style="--pulse-height:33%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-org-centers-for-disease-control-and-prevention-t-00-28-09" style="--pulse-height:100%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 3 mentions" title="2026-07-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-org-centers-for-disease-control-and-prevention-t-00-31-29" style="--pulse-height:100%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 3 mentions" title="2026-07-22 · 3 mentions"><span></span></a>
@@ -50,7 +50,7 @@ Source: [About CDC](https://www.cdc.gov/about/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-centers-for-disease-control-and-prevention-t-00-29-20) | 1 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-centers-for-disease-control-and-prevention-t-00-30-47) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-centers-for-disease-control-and-prevention-t-00-31-02) | 1 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-centers-for-disease-control-and-prevention-t-00-19-55) | 1 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-centers-for-disease-control-and-prevention-t-00-28-09) | 3 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-org-centers-for-disease-control-and-prevention-t-00-31-29) | 3 |
@@ -129,7 +129,7 @@ Source: [About CDC](https://www.cdc.gov/about/)
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:31:08](/episodes/ep-ZZGWo6oDscc.md#ent-org-centers-for-disease-control-and-prevention-t-00-30-47)**
+**[00:31:02](/episodes/ep-ZZGWo6oDscc.md#ent-org-centers-for-disease-control-and-prevention-t-00-31-02)**
 > "While the CDC remains silent..."
 
 </details>
@@ -157,7 +157,7 @@ _No relationships extracted yet._
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
 
-- [00:31:08](/episodes/ep-ZZGWo6oDscc.md#t-00-30-47) (Citation) **Candace Owens**: ["The CDC has admitted that millions of Americans suffer parasitic infec..."](/statements/statement-468ada009e16.md)
+- [00:31:08](/episodes/ep-ZZGWo6oDscc.md#t-00-31-02) (Citation) **Candace Owens**: ["The CDC has admitted that millions of Americans suffer parasitic infec..."](/statements/statement-468ada009e16.md)
 
 </details>
 

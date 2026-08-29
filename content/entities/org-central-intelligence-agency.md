@@ -1,6 +1,6 @@
 ---
 title: "Central Intelligence Agency"
-description: "Central Intelligence Agency (Organizations) - 177 mentions"
+description: "Central Intelligence Agency (Organizations) - 175 mentions"
 id: "org-central-intelligence-agency"
 type: "ORG"
 aliases:
@@ -25,7 +25,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-central-intelligence-agency-t-01-11-09">2025-09-16 · 01:11:17</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-org-central-intelligence-agency-t-00-31-29">2026-08-18 · 00:31:35</a></strong></div>
 <div><span>Episodes</span><strong>69</strong></div>
-<div><span>Mentions</span><strong>177</strong></div>
+<div><span>Mentions</span><strong>175</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>61</strong></div>
 <div><span>Relationships</span><strong>28</strong></div>
@@ -63,10 +63,10 @@ Source: [About CIA](https://www.cia.gov/about/)
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-central-intelligence-agency-t-00-35-51" style="--pulse-height:41%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 7 mentions" title="2026-01-05 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-central-intelligence-agency-t-00-48-07" style="--pulse-height:29%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 5 mentions" title="2026-01-09 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-org-central-intelligence-agency-t-00-10-50" style="--pulse-height:35%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 6 mentions" title="2026-01-12 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-central-intelligence-agency-t-00-13-05" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-central-intelligence-agency-t-00-01-59" style="--pulse-height:53%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 9 mentions" title="2026-01-14 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-central-intelligence-agency-t-00-13-31" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-central-intelligence-agency-t-00-01-56" style="--pulse-height:47%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 8 mentions" title="2026-01-14 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-org-central-intelligence-agency-t-00-32-03" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-org-central-intelligence-agency-t-00-04-29" style="--pulse-height:12%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-org-central-intelligence-agency-t-00-04-29" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-central-intelligence-agency-t-00-03-23" style="--pulse-height:12%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 2 mentions" title="2026-01-22 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-org-central-intelligence-agency-t-00-36-32" style="--pulse-height:12%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 2 mentions" title="2026-01-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-central-intelligence-agency-t-00-22-52" style="--pulse-height:18%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
@@ -137,10 +137,10 @@ Source: [About CIA](https://www.cia.gov/about/)
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-central-intelligence-agency-t-00-35-51) | 7 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-central-intelligence-agency-t-00-48-07) | 5 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-central-intelligence-agency-t-00-10-50) | 6 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-central-intelligence-agency-t-00-13-05) | 1 |
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-central-intelligence-agency-t-00-01-59) | 9 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-central-intelligence-agency-t-00-13-31) | 1 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-central-intelligence-agency-t-00-01-56) | 8 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-central-intelligence-agency-t-00-32-03) | 1 |
-| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-central-intelligence-agency-t-00-04-29) | 2 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-central-intelligence-agency-t-00-04-29) | 1 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-central-intelligence-agency-t-00-03-23) | 2 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-org-central-intelligence-agency-t-00-36-32) | 2 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-central-intelligence-agency-t-00-22-52) | 3 |
@@ -186,7 +186,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (177)</strong></summary>
+<summary><strong class="section-title">Raw mentions (175)</strong></summary>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1 mentions)</summary>
@@ -645,20 +645,17 @@ Source: [About CIA](https://www.cia.gov/about/)
 </details>
 
 <details>
-<summary>Myron Gaines x Candace Owens (2 mentions)</summary>
+<summary>Myron Gaines x Candace Owens (1 mentions)</summary>
 
 **[00:04:41](/episodes/ep-2T39-oADLj0.md#ent-org-central-intelligence-agency-t-00-04-29)**
-> "This was a CIA-sponsored psyop."
-
-**[00:04:44](/episodes/ep-2T39-oADLj0.md#ent-org-central-intelligence-agency-t-00-04-29)**
 > "... Steinem was sponsored by the CIA,"
 
 </details>
 
 <details>
-<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (9 mentions)</summary>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (8 mentions)</summary>
 
-**[00:02:15](/episodes/ep-BKcOm32ZEGk.md#ent-org-central-intelligence-agency-t-00-01-59)**
+**[00:02:15](/episodes/ep-BKcOm32ZEGk.md#ent-org-central-intelligence-agency-t-00-01-56)**
 > "the CIA's Looking Glass Project"
 
 **[00:06:54](/episodes/ep-BKcOm32ZEGk.md#ent-org-central-intelligence-agency-t-00-06-54)**
@@ -667,19 +664,16 @@ Source: [About CIA](https://www.cia.gov/about/)
 **[00:11:31](/episodes/ep-BKcOm32ZEGk.md#ent-org-central-intelligence-agency-t-00-11-02)**
 > "...is brings us obviously to the CIA,"
 
-**[00:11:33](/episodes/ep-BKcOm32ZEGk.md#ent-org-central-intelligence-agency-t-00-11-02)**
-> "CIA's project Looking Glass."
-
 **[00:11:35](/episodes/ep-BKcOm32ZEGk.md#ent-org-central-intelligence-agency-t-00-11-02)**
 > "...n the military and within the CIA apparatus that came forward to reveal that the de..."
 
-**[00:19:19](/episodes/ep-BKcOm32ZEGk.md#ent-org-central-intelligence-agency-t-00-18-58)**
+**[00:19:19](/episodes/ep-BKcOm32ZEGk.md#ent-org-central-intelligence-agency-t-00-18-43)**
 > "...his document, released by the CIA,"
 
-**[00:35:25](/episodes/ep-BKcOm32ZEGk.md#ent-org-central-intelligence-agency-t-00-35-19)**
+**[00:35:25](/episodes/ep-BKcOm32ZEGk.md#ent-org-central-intelligence-agency-t-00-35-17)**
 > "...ct when they started, not the CIA's looking glass project when they first got this ..."
 
-**[00:42:43](/episodes/ep-BKcOm32ZEGk.md#ent-org-central-intelligence-agency-t-00-42-09)**
+**[00:42:43](/episodes/ep-BKcOm32ZEGk.md#ent-org-central-intelligence-agency-t-00-42-36)**
 > "...d that during his time at the CIA,"
 
 **[00:44:51](/episodes/ep-BKcOm32ZEGk.md#ent-org-central-intelligence-agency-t-00-44-42)**
@@ -690,7 +684,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:13:38](/episodes/ep-ZZGWo6oDscc.md#ent-org-central-intelligence-agency-t-00-13-05)**
+**[00:13:38](/episodes/ep-ZZGWo6oDscc.md#ent-org-central-intelligence-agency-t-00-13-31)**
 > "Really, CIA and Mossad, if you haven't done this literally in..."
 
 </details>
@@ -1141,7 +1135,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 - **[Mike Pompeo](/entities/person-mike-pompeo.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:42:43](/episodes/ep-BKcOm32ZEGk.md#t-00-42-09): “Mike Pompeo, former U.S. Secretary of State... during his time at the CIA...”
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:42:43](/episodes/ep-BKcOm32ZEGk.md#t-00-42-36): “Mike Pompeo, former U.S. Secretary of State... during his time at the CIA...”
 
 </details>
 
@@ -1229,7 +1223,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 - **[Mike Pompeo](/entities/person-mike-pompeo.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:42:43](/episodes/ep-BKcOm32ZEGk.md#t-00-42-09): “Mike Pompeo, former U.S. Secretary of State... during his time at the CIA...”
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:42:43](/episodes/ep-BKcOm32ZEGk.md#t-00-42-36): “Mike Pompeo, former U.S. Secretary of State... during his time at the CIA...”
 
 </details>
 
@@ -1504,7 +1498,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1)</summary>
 
-- [00:43:19](/episodes/ep-BKcOm32ZEGk.md#t-00-42-53) (Accusation) **Candace Owens** (via paraphrase): ["Mike Pompeo discussed options to take out Julian Assange."](/statements/statement-a3341945112a.md)
+- [00:43:19](/episodes/ep-BKcOm32ZEGk.md#t-00-43-19) (Accusation) **Candace Owens** (via paraphrase): ["Mike Pompeo discussed options to take out Julian Assange."](/statements/statement-a3341945112a.md)
   - Also about: [Mike Pompeo](/entities/person-mike-pompeo.md), [Julian Assange](/entities/person-julian-assange.md)
 
 </details>
@@ -1512,7 +1506,7 @@ Source: [About CIA](https://www.cia.gov/about/)
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
 
-- [00:13:31](/episodes/ep-ZZGWo6oDscc.md#t-00-13-05) (Accusation) **Candace Owens**: ["The CIA and Mossad are manufacturing a color revolution in Iran and pr..."](/statements/statement-7735fd0be3a8.md)
+- [00:13:31](/episodes/ep-ZZGWo6oDscc.md#t-00-12-51) (Accusation) **Candace Owens**: ["I might actually believe Iran's protests were organic if the CIA and M..."](/statements/statement-7735fd0be3a8.md)
   - Also about: [Mossad](/entities/org-mossad.md), [Iran](/entities/gpe-iran.md), [Color revolution](/entities/concept-color-revolution.md)
 
 </details>

@@ -432,7 +432,7 @@ Source: [Encyclopaedia Britannica — Zionism](https://www.britannica.com/topic/
 **[00:56:02](/episodes/ep-2T39-oADLj0.md#ent-concept-pro-israel-advocacy-t-00-55-36)**
 > "abandon the pro-Israel cause"
 
-**[00:32:41](/episodes/ep-2T39-oADLj0.md#ent-concept-pro-israel-advocacy-t-00-32-04)**
+**[00:32:40](/episodes/ep-2T39-oADLj0.md#ent-concept-pro-israel-advocacy-t-00-32-04)**
 > "...there and say things that are pro-Israel."
 
 </details>

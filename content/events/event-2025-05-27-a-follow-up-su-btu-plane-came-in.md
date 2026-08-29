@@ -14,7 +14,7 @@ date: "2025-05-27"
 ## Mentioned In
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
-**Timestamp:** [00:10:15](/episodes/ep-ZZGWo6oDscc.md#event-event-2025-05-27-a-follow-up-su-btu-plane-came-in-t-00-10-15) 
+**Timestamp:** [00:10:15](/episodes/ep-ZZGWo6oDscc.md#event-event-2025-05-27-a-follow-up-su-btu-plane-came-in-t-00-10-10) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(615);return false;">▶️ Play</a>
 
 > May 27th is when that follow-up plane comes in. That's always going to be a quick trip.

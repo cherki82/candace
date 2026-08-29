@@ -1,6 +1,6 @@
 ---
 title: "Satanism"
-description: "Satanism (Concepts) - 25 mentions"
+description: "Satanism (Concepts) - 26 mentions"
 id: "concept-satanism"
 type: "CONCEPT"
 aliases:
@@ -24,8 +24,8 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-satanism-t-00-12-10">2026-01-14 · 00:12:10</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-concept-satanism-t-00-41-11">2026-08-19 · 00:41:11</a></strong></div>
-<div><span>Episodes</span><strong>12</strong></div>
-<div><span>Mentions</span><strong>25</strong></div>
+<div><span>Episodes</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>26</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,8 +36,9 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-satanism-t-00-21-04">Candace x Bassem Youssef | Candace Ep 298</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-satanism-t-00-27-27" style="--pulse-height:50%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 3 mentions" title="2026-01-14 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-concept-satanism-t-00-45-06" style="--pulse-height:17%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-satanism-t-00-27-39" style="--pulse-height:50%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 3 mentions" title="2026-01-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-concept-satanism-t-00-15-34" style="--pulse-height:17%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-concept-satanism-t-00-45-09" style="--pulse-height:17%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-satanism-t-00-16-54" style="--pulse-height:33%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 2 mentions" title="2026-01-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-satanism-t-00-21-04" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 6 mentions" title="2026-01-29 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-satanism-t-00-38-00" style="--pulse-height:17%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
@@ -53,8 +54,9 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-satanism-t-00-27-27) | 3 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-concept-satanism-t-00-45-06) | 1 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-satanism-t-00-27-39) | 3 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-concept-satanism-t-00-15-34) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-concept-satanism-t-00-45-09) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-satanism-t-00-16-54) | 2 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-satanism-t-00-21-04) | 6 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-satanism-t-00-38-00) | 1 |
@@ -72,7 +74,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (25)</strong></summary>
+<summary><strong class="section-title">Raw mentions (26)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
@@ -190,21 +192,29 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
 
-**[00:45:11](/episodes/ep-NIEbqsLAK8g.md#ent-concept-satanism-t-00-45-06)**
+**[00:45:11](/episodes/ep-NIEbqsLAK8g.md#ent-concept-satanism-t-00-45-09)**
 > "they're Satanists"
+
+</details>
+
+<details>
+<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (1 mentions)</summary>
+
+**[00:15:54](/episodes/ep-X92MllIHDzw.md#ent-concept-satanism-t-00-15-34)**
+> "this guy who was about satanist"
 
 </details>
 
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (3 mentions)</summary>
 
-**[00:28:06](/episodes/ep-BKcOm32ZEGk.md#ent-concept-satanism-t-00-27-27)**
+**[00:28:06](/episodes/ep-BKcOm32ZEGk.md#ent-concept-satanism-t-00-27-39)**
 > "they're open Satanists"
 
 **[00:12:10](/episodes/ep-BKcOm32ZEGk.md#ent-concept-satanism-t-00-12-10)**
 > "...as we discussed yesterday the satanist kind of taking um and reintroducing these things ..."
 
-**[00:13:00](/episodes/ep-BKcOm32ZEGk.md#ent-concept-satanism-t-00-12-50)**
+**[00:13:00](/episodes/ep-BKcOm32ZEGk.md#ent-concept-satanism-t-00-12-35)**
 > "The people that are Satanists have this power."
 
 </details>

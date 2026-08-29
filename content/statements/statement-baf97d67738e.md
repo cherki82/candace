@@ -1,6 +1,6 @@
 ---
-title: "Nebraska's Cattlemen's Ball became a separate 501(c)(3) that..."
-description: "\"Nebraska's Cattlemen's Ball became a separate 501(c)(3) that benefits the Fred & Pamela Buffett Cancer Center.\" — Candace Owens"
+title: "Candace Owens said Nebraska once hosted its own Cattle Baron..."
+description: "\"Candace Owens said Nebraska once hosted its own Cattle Baron's Ball that might be relevant, and that it later became a separate 501(c)(3), the Cattlem...\" — Candace Owens"
 statement_id: "statement-baf97d67738e"
 speaker: "Candace Owens"
 type: "citation"
@@ -11,7 +11,7 @@ veracity: "mixed"
 
 ## Statement
 
-> Nebraska's Cattlemen's Ball became a separate 501(c)(3) that benefits the Fred & Pamela Buffett Cancer Center.
+> Candace Owens said Nebraska once hosted its own Cattle Baron's Ball that might be relevant, and that it later became a separate 501(c)(3), the Cattlemen's Ball, benefiting the Fred & Pamela Buffett Cancer Center.
 
 ## Attribution
 
@@ -28,7 +28,7 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
-**Timestamp:** [00:05:03](/episodes/ep-NIEbqsLAK8g.md#t-00-05-01) 
+**Timestamp:** [00:05:03](/episodes/ep-NIEbqsLAK8g.md#t-00-04-42) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(303);return false;">Play</a>
 
 > Nebraska also once hosted its own cattle barons ball that might be relevant. They eventually from the cattle barons ball minted their own separate 501c3 referred to as cattlemen's ball, which is the same exact idea, but it benefits a different cancer center, the Fred and Pamela Buffett Cancer Center.

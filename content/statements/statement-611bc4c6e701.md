@@ -27,7 +27,7 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
-**Timestamp:** [00:35:51](/episodes/ep-ZZGWo6oDscc.md#t-00-35-31) 
+**Timestamp:** [00:35:51](/episodes/ep-ZZGWo6oDscc.md#t-00-35-48) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2151);return false;">Play</a>
 
 > And what they told me, and this is also proven currently right now, a bunch of South Korean women have filed an unprecedented lawsuit against United States military for the same thing, for running a brothel where they are stationed in South Korea.

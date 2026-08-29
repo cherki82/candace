@@ -1,6 +1,6 @@
 ---
 title: "Florida"
-description: "Florida (Places) - 30 mentions"
+description: "Florida (Places) - 29 mentions"
 id: "gpe-florida"
 type: "GPE"
 categories:
@@ -19,7 +19,7 @@ Source: [MyFlorida | Official Page for Sunshine State Government](https://www.my
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-gpe-florida-t-00-01-20">2025-09-11 · 00:01:46</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-florida-t-00-39-17">2026-08-21 · 00:39:17</a></strong></div>
 <div><span>Episodes</span><strong>25</strong></div>
-<div><span>Mentions</span><strong>30</strong></div>
+<div><span>Mentions</span><strong>29</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -38,9 +38,9 @@ Source: [MyFlorida | Official Page for Sunshine State Government](https://www.my
 <a href="/episodes/ep-r1PS67aRmcA.md#ent-gpe-florida-t-00-02-10" style="--pulse-height:33%" aria-label="Ben Shapiro Is Crying Again. | Candace Ep 261: 1 mentions" title="2025-11-08 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-gpe-florida-t-00-18-59" style="--pulse-height:33%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-florida-t-00-16-07" style="--pulse-height:33%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-florida-t-00-45-20" style="--pulse-height:33%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-florida-t-00-45-11" style="--pulse-height:33%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-florida-t-00-20-05" style="--pulse-height:100%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-florida-t-00-04-16" style="--pulse-height:67%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-florida-t-00-04-42" style="--pulse-height:33%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-gpe-florida-t-00-04-46" style="--pulse-height:67%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 2 mentions" title="2026-02-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-gpe-florida-t-00-44-37" style="--pulse-height:33%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 1 mentions" title="2026-02-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-gpe-florida-t-00-09-45" style="--pulse-height:33%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 1 mentions" title="2026-03-12 · 1 mentions"><span></span></a>
@@ -68,9 +68,9 @@ Source: [MyFlorida | Official Page for Sunshine State Government](https://www.my
 | 2025-11-08 | [Ben Shapiro Is Crying Again. | Candace Ep 261](/episodes/ep-r1PS67aRmcA.md#ent-gpe-florida-t-00-02-10) | 1 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-gpe-florida-t-00-18-59) | 1 |
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-gpe-florida-t-00-16-07) | 1 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-florida-t-00-45-20) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-florida-t-00-45-11) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-florida-t-00-20-05) | 3 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-florida-t-00-04-16) | 2 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-florida-t-00-04-42) | 1 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-florida-t-00-04-46) | 2 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-gpe-florida-t-00-44-37) | 1 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-gpe-florida-t-00-09-45) | 1 |
@@ -92,7 +92,7 @@ Source: [MyFlorida | Official Page for Sunshine State Government](https://www.my
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (30)</strong></summary>
+<summary><strong class="section-title">Raw mentions (29)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -213,12 +213,9 @@ Source: [MyFlorida | Official Page for Sunshine State Government](https://www.my
 </details>
 
 <details>
-<summary>A Legal Turning Point? | Candace Ep 292 (2 mentions)</summary>
+<summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
 
-**[00:05:00](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-florida-t-00-04-16)**
-> "Florida is up there"
-
-**[00:05:01](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-florida-t-00-05-01)**
+**[00:05:01](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-florida-t-00-04-42)**
 > "Florida is up there."
 
 </details>
@@ -240,7 +237,7 @@ Source: [MyFlorida | Official Page for Sunshine State Government](https://www.my
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:45:43](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-florida-t-00-45-20)**
+**[00:45:43](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-florida-t-00-45-11)**
 > "We're already seeing that in Florida. They're like coming to the table like,"
 
 </details>

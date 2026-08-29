@@ -33,7 +33,7 @@ Source: [Roma Capitale](https://www.comune.roma.it/)
 <p>Highest activity: <a href="/episodes/ep-qZ8RWfyuewQ.md#ent-gpe-rome-t-01-02-28">TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330</a> (8 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-rome-t-00-34-49" style="--pulse-height:12%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-rome-t-00-38-39" style="--pulse-height:12%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-rome-t-00-38-33" style="--pulse-height:12%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-rome-t-00-20-03" style="--pulse-height:12%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-gpe-rome-t-00-23-33" style="--pulse-height:12%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-rome-t-00-19-12" style="--pulse-height:12%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
@@ -48,7 +48,7 @@ Source: [Roma Capitale](https://www.comune.roma.it/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-rome-t-00-34-49) | 1 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-rome-t-00-38-39) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-rome-t-00-38-33) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-rome-t-00-20-03) | 1 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-gpe-rome-t-00-23-33) | 1 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-gpe-rome-t-00-19-12) | 1 |
@@ -154,7 +154,7 @@ Source: [Roma Capitale](https://www.comune.roma.it/)
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
 
-**[00:38:39](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-rome-t-00-38-39)**
+**[00:38:39](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-rome-t-00-38-33)**
 > "Pontifical Universities in Rome"
 
 </details>

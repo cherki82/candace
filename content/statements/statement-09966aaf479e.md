@@ -28,7 +28,7 @@ type: "accusation"
 ## Source
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
-**Timestamp:** [00:03:33](/episodes/ep-NIEbqsLAK8g.md#t-00-03-33) 
+**Timestamp:** [00:03:33](/episodes/ep-NIEbqsLAK8g.md#t-00-03-21) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(213);return false;">Play</a>
 
 > He says that allegedly all of the bought and paid for cops throughout America are a part of what's known as the Cattlemen's Ball, colloquially the Cattle Baron's Ball, which he claims is just one big massive. money laundering operation from Israel to buy off cops here in America. He claims that he was a part of it, by the way. So basically,

@@ -1,6 +1,6 @@
 ---
 title: "Mitch Snow"
-description: "Mitch Snow (People) - 111 mentions"
+description: "Mitch Snow (People) - 109 mentions"
 id: "person-mitch-snow"
 type: "PERSON"
 categories:
@@ -20,8 +20,8 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-mitch-snow-t-00-35-09">2026-01-05 · 00:35:09</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-mitch-snow-t-00-31-13">2026-08-21 · 00:31:41</a></strong></div>
 <div><span>Episodes</span><strong>24</strong></div>
-<div><span>Mentions</span><strong>111</strong></div>
-<div><span>Statements by</span><strong>2</strong></div>
+<div><span>Mentions</span><strong>109</strong></div>
+<div><span>Statements by</span><strong>3</strong></div>
 <div><span>Statements about</span><strong>20</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
@@ -35,9 +35,9 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-mitch-snow-t-00-16-07" style="--pulse-height:32%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 6 mentions" title="2026-01-06 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-mitch-snow-t-00-34-01" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#t-00-01-26" style="--pulse-height:11%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-mitch-snow-t-00-28-47" style="--pulse-height:32%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 6 mentions" title="2026-01-13 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-mitch-snow-t-00-28-26" style="--pulse-height:21%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 4 mentions" title="2026-01-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#t-00-11-29" style="--pulse-height:16%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-mitch-snow-t-00-47-30" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-mitch-snow-t-00-47-50" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-mitch-snow-t-00-04-42" style="--pulse-height:26%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 5 mentions" title="2026-01-20 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-mitch-snow-t-00-05-51" style="--pulse-height:26%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 5 mentions" title="2026-01-28 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-person-mitch-snow-t-00-17-54" style="--pulse-height:11%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 2 mentions" title="2026-02-09 · 2 mentions"><span></span></a>
@@ -64,9 +64,9 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-mitch-snow-t-00-16-07) | 6 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-mitch-snow-t-00-34-01) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#t-00-01-26) | 2 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-mitch-snow-t-00-28-47) | 6 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-mitch-snow-t-00-28-26) | 4 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#t-00-11-29) | 3 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-mitch-snow-t-00-47-30) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-mitch-snow-t-00-47-50) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-mitch-snow-t-00-04-42) | 5 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-mitch-snow-t-00-05-51) | 5 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-mitch-snow-t-00-17-54) | 2 |
@@ -91,7 +91,7 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (111)</strong></summary>
+<summary><strong class="section-title">Raw mentions (109)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -400,7 +400,7 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
 
-**[00:47:50](/episodes/ep-NIEbqsLAK8g.md#ent-person-mitch-snow-t-00-47-30)**
+**[00:47:50](/episodes/ep-NIEbqsLAK8g.md#ent-person-mitch-snow-t-00-47-50)**
 > "Mitch Snow abused women 20 years ago"
 
 </details>
@@ -420,24 +420,18 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 </details>
 
 <details>
-<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (6 mentions)</summary>
+<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (4 mentions)</summary>
 
-**[00:16:11](/episodes/ep-ZZGWo6oDscc.md#ent-person-mitch-snow-t-00-28-47)**
+**[00:16:00](/episodes/ep-ZZGWo6oDscc.md#ent-person-mitch-snow-t-00-28-26)**
 > "...ker. That caretaker's name is Mitch Manley Sr."
 
-**[00:16:27](/episodes/ep-ZZGWo6oDscc.md#ent-person-mitch-snow-t-00-28-47)**
+**[00:16:23](/episodes/ep-ZZGWo6oDscc.md#ent-person-mitch-snow-t-00-28-26)**
 > "Mitch Manley Sr."
 
-**[00:16:38](/episodes/ep-ZZGWo6oDscc.md#ent-person-mitch-snow-t-00-28-47)**
-> "...w, I should now tell you that Mitch Manley, his son,"
-
-**[00:16:41](/episodes/ep-ZZGWo6oDscc.md#ent-person-mitch-snow-t-00-28-47)**
-> "so Mitch Manley is the caretaker."
-
-**[00:16:43](/episodes/ep-ZZGWo6oDscc.md#ent-person-mitch-snow-t-00-28-47)**
+**[00:16:38](/episodes/ep-ZZGWo6oDscc.md#ent-person-mitch-snow-t-00-28-26)**
 > "His son is Mitch Manley Jr., who was working for Turning Point USA..."
 
-**[00:28:47](/episodes/ep-ZZGWo6oDscc.md#ent-person-mitch-snow-t-00-28-47)**
+**[00:28:47](/episodes/ep-ZZGWo6oDscc.md#ent-person-mitch-snow-t-00-28-26)**
 > "... psychological operation when Mitch Snow came and told us that he saw Brian Harpole and he..."
 
 </details>
@@ -675,7 +669,15 @@ Source: [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charli
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Mitch Snow (2)</strong></summary>
+<summary><strong class="section-title">Statements by Mitch Snow (3)</strong></summary>
+
+<details>
+<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
+
+- [00:28:47](/episodes/ep-ZZGWo6oDscc.md#t-00-28-26) [✓] (Accusation) ["Mitch Snow told Candace Owens that he saw Brian Harpole and Erika Kirk at Fort H..."](/statements/statement-457a08a3d576.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Erika Kirk](/entities/person-erika-kirk.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
+
+</details>
 
 <details>
 <summary>You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 (2)</summary>

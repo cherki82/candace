@@ -28,7 +28,7 @@ veracity: "true"
 ## Source
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
-**Timestamp:** [00:20:51](/episodes/ep-NIEbqsLAK8g.md#t-00-20-25) 
+**Timestamp:** [00:20:51](/episodes/ep-NIEbqsLAK8g.md#t-00-20-06) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1251);return false;">Play</a>
 
 > This week, I received a letter from Turning Point titled Demand to Cease and Desist Defamatory Comments.

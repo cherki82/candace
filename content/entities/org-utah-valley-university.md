@@ -684,7 +684,7 @@ Source: [About UVU - Utah Valley University](https://www.uvu.edu/about/)
 **[00:25:20](/episodes/ep-NIEbqsLAK8g.md#ent-org-utah-valley-university-t-00-25-07)**
 > "number one, I went to UVU and I actually put the drone up. We were going to do the survey."
 
-**[00:28:10](/episodes/ep-NIEbqsLAK8g.md#ent-org-utah-valley-university-t-00-27-33)**
+**[00:28:10](/episodes/ep-NIEbqsLAK8g.md#ent-org-utah-valley-university-t-00-28-10)**
 > "UVU prohibited Turning Point USA from flying drones f..."
 
 </details>

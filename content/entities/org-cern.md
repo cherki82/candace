@@ -1,6 +1,6 @@
 ---
 title: "CERN"
-description: "CERN (Organizations) - 13 mentions"
+description: "CERN (Organizations) - 12 mentions"
 id: "org-cern"
 type: "ORG"
 aliases:
@@ -21,10 +21,10 @@ _Type: Organizations_
 Source: [About CERN](https://home.cern/about/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-cern-t-00-29-36">2026-01-14 · 00:29:41</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-cern-t-00-29-34">2026-01-14 · 00:29:41</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-cern-t-00-05-10">2026-03-09 · 00:05:24</a></strong></div>
 <div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>13</strong></div>
+<div><span>Mentions</span><strong>12</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,18 +33,18 @@ Source: [About CERN](https://home.cern/about/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-cern-t-00-29-36">PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290</a> (7 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-cern-t-00-29-34">PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-cern-t-00-29-36" style="--pulse-height:100%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 7 mentions" title="2026-01-14 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-cern-t-00-23-07" style="--pulse-height:29%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-cern-t-00-10-16" style="--pulse-height:43%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 3 mentions" title="2026-02-04 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-cern-t-00-05-10" style="--pulse-height:14%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-cern-t-00-29-34" style="--pulse-height:100%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 6 mentions" title="2026-01-14 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-cern-t-00-23-07" style="--pulse-height:33%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-cern-t-00-10-16" style="--pulse-height:50%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 3 mentions" title="2026-02-04 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-i8m_6D4QGmk.md#ent-org-cern-t-00-05-10" style="--pulse-height:17%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-cern-t-00-29-36) | 7 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-cern-t-00-29-34) | 6 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-cern-t-00-23-07) | 2 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-org-cern-t-00-10-16) | 3 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-org-cern-t-00-05-10) | 1 |
@@ -55,7 +55,7 @@ Source: [About CERN](https://home.cern/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (13)</strong></summary>
+<summary><strong class="section-title">Raw mentions (12)</strong></summary>
 
 <details>
 <summary>Donald Trump Has Betrayed America. | Candace Ep 308 (1 mentions)</summary>
@@ -91,27 +91,24 @@ Source: [About CERN](https://home.cern/about/)
 </details>
 
 <details>
-<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (7 mentions)</summary>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (6 mentions)</summary>
 
-**[00:29:41](/episodes/ep-BKcOm32ZEGk.md#ent-org-cern-t-00-29-36)**
+**[00:29:41](/episodes/ep-BKcOm32ZEGk.md#ent-org-cern-t-00-29-34)**
 > "speak more about ... CERN"
 
-**[00:32:42](/episodes/ep-BKcOm32ZEGk.md#ent-org-cern-t-00-32-21)**
+**[00:32:42](/episodes/ep-BKcOm32ZEGk.md#ent-org-cern-t-00-32-19)**
 > "...ularly, I would say regarding CERN. What do you actually know about CERN? I'm going ..."
-
-**[00:32:52](/episodes/ep-BKcOm32ZEGk.md#ent-org-cern-t-00-32-21)**
-> "what CERN is and what they were."
 
 **[00:33:10](/episodes/ep-BKcOm32ZEGk.md#ent-org-cern-t-00-33-05)**
 > "...t. This is all on my own. But CERN was basically established in 1954 to research par..."
 
-**[00:35:38](/episodes/ep-BKcOm32ZEGk.md#ent-org-cern-t-00-35-19)**
+**[00:35:38](/episodes/ep-BKcOm32ZEGk.md#ent-org-cern-t-00-35-17)**
 > "...more about what happened with CERN, which I've always wondered about."
 
-**[00:36:41](/episodes/ep-BKcOm32ZEGk.md#ent-org-cern-t-00-36-37)**
+**[00:36:41](/episodes/ep-BKcOm32ZEGk.md#ent-org-cern-t-00-36-32)**
 > "Okay, this took place. CERN discovers satanic human sacrifice taking place."
 
-**[00:36:52](/episodes/ep-BKcOm32ZEGk.md#ent-org-cern-t-00-36-37)**
+**[00:36:52](/episodes/ep-BKcOm32ZEGk.md#ent-org-cern-t-00-36-32)**
 > "... staged on the grounds of the European Organization for Nuclear Research,"
 
 </details>
@@ -161,9 +158,9 @@ _No relationships extracted yet._
 - [00:33:47](/episodes/ep-BKcOm32ZEGk.md#t-00-33-47) (Claim) **Mark from Candace's production team (surname unidentified)**: ["In 2012, CERN observed a reaction consistent with the Higgs boson theo..."](/statements/statement-9fdba916dcd9.md)
   - Also about: [Higgs boson](/entities/concept-higgs-boson.md), [Peter Higgs](/entities/person-peter-higgs.md)
 
-- [00:36:37](/episodes/ep-BKcOm32ZEGk.md#t-00-36-37) (Citation) **Candace Owens**: ["An article read during the episode reported that a satanic human-sacri..."](/statements/statement-ba91c8450d69.md)
+- [00:36:37](/episodes/ep-BKcOm32ZEGk.md#t-00-36-32) (Citation) **Candace Owens**: ["An article read during the episode reported that a satanic human-sacri..."](/statements/statement-ba91c8450d69.md)
 
-- [00:37:22](/episodes/ep-BKcOm32ZEGk.md#t-00-37-21) (Claim) **Anonymous Source #2 (Ep BKcOm32ZEGk)** (via quoted article): ["The staged ritual video was a prank, and the participants had taken th..."](/statements/statement-4611b46fdc7e.md)
+- [00:37:22](/episodes/ep-BKcOm32ZEGk.md#t-00-37-09) (Claim) **Anonymous Source #2 (Ep BKcOm32ZEGk)** (via quoted article): ["The staged ritual video was a prank, and the participants had taken th..."](/statements/statement-4611b46fdc7e.md)
 
 </details>
 

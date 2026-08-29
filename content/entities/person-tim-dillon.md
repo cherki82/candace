@@ -37,7 +37,7 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-tim-dillon-t-00-04-13" style="--pulse-height:89%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 8 mentions" title="2026-01-05 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-tim-dillon-t-01-00-00" style="--pulse-height:11%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-tim-dillon-t-00-38-25" style="--pulse-height:11%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-tim-dillon-t-00-28-10" style="--pulse-height:11%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-tim-dillon-t-00-28-15" style="--pulse-height:11%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-tim-dillon-t-00-03-29" style="--pulse-height:56%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 5 mentions" title="2026-01-21 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-tim-dillon-t-01-38-54" style="--pulse-height:22%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-person-tim-dillon-t-00-46-57" style="--pulse-height:11%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
@@ -62,7 +62,7 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-tim-dillon-t-00-04-13) | 8 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-tim-dillon-t-01-00-00) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-tim-dillon-t-00-38-25) | 1 |
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-tim-dillon-t-00-28-10) | 1 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-tim-dillon-t-00-28-15) | 1 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-tim-dillon-t-00-03-29) | 5 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-tim-dillon-t-01-38-54) | 2 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-person-tim-dillon-t-00-46-57) | 1 |
@@ -225,7 +225,7 @@ Source: [About – Tim Dillon](https://timdilloncomedy.com/about/)
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
 
-**[00:28:40](/episodes/ep-BKcOm32ZEGk.md#ent-person-tim-dillon-t-00-28-10)**
+**[00:28:40](/episodes/ep-BKcOm32ZEGk.md#ent-person-tim-dillon-t-00-28-15)**
 > "Like Tim Dillon said"
 
 </details>

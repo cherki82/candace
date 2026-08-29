@@ -1252,10 +1252,10 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 <details>
 <summary>Myron Gaines x Candace Owens (6 mentions)</summary>
 
-**[00:27:25](/episodes/ep-2T39-oADLj0.md#ent-person-ben-shapiro-t-00-27-07)**
+**[00:27:19](/episodes/ep-2T39-oADLj0.md#ent-person-ben-shapiro-t-00-27-07)**
 > "Ben Shapiro, has had a meteoric downfall."
 
-**[00:28:25](/episodes/ep-2T39-oADLj0.md#ent-person-ben-shapiro-t-00-28-18)**
+**[00:28:18](/episodes/ep-2T39-oADLj0.md#ent-person-ben-shapiro-t-00-28-18)**
 > "... that I guess that infuriated Ben Shapiro. Is that true or?"
 
 **[00:28:30](/episodes/ep-2T39-oADLj0.md#ent-person-ben-shapiro-t-00-28-18)**
@@ -1267,7 +1267,7 @@ Source: [Ben Shapiro | The Daily Wire](https://www.dailywire.com/author/ben-shap
 **[00:42:27](/episodes/ep-2T39-oADLj0.md#ent-person-ben-shapiro-t-00-42-00)**
 > "...of drama with megan kelly and ben shapiro and everything else like that what are your thoug..."
 
-**[00:44:55](/episodes/ep-2T39-oADLj0.md#ent-person-ben-shapiro-t-00-44-53)**
+**[00:44:53](/episodes/ep-2T39-oADLj0.md#ent-person-ben-shapiro-t-00-44-53)**
 > "And then, you know, seeing Ben Shapiro have a meltdown, you know, you know, they had the..."
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "Tax Network USA"
-description: "Tax Network USA (Organizations) - 125 mentions"
+description: "Tax Network USA (Organizations) - 124 mentions"
 id: "org-tax-network-usa"
 type: "ORG"
 aliases:
@@ -25,7 +25,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-org-tax-network-usa-t-01-05-24">2025-09-16 · 01:05:59</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-org-tax-network-usa-t-01-15-56">2026-08-17 · 01:15:56</a></strong></div>
 <div><span>Episodes</span><strong>43</strong></div>
-<div><span>Mentions</span><strong>125</strong></div>
+<div><span>Mentions</span><strong>124</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -47,7 +47,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-tax-network-usa-t-00-56-30" style="--pulse-height:100%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 5 mentions" title="2026-01-06 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-tax-network-usa-t-01-13-46" style="--pulse-height:80%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 4 mentions" title="2026-01-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-org-tax-network-usa-t-00-49-50" style="--pulse-height:80%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-org-tax-network-usa-t-00-48-04" style="--pulse-height:80%" aria-label="Myron Gaines x Candace Owens: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-org-tax-network-usa-t-00-48-04" style="--pulse-height:60%" aria-label="Myron Gaines x Candace Owens: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-org-tax-network-usa-t-01-04-02" style="--pulse-height:80%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-org-tax-network-usa-t-00-36-52" style="--pulse-height:60%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 3 mentions" title="2026-02-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-org-tax-network-usa-t-00-33-51" style="--pulse-height:100%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 5 mentions" title="2026-02-10 · 5 mentions"><span></span></a>
@@ -95,7 +95,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-tax-network-usa-t-00-56-30) | 5 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-tax-network-usa-t-01-13-46) | 4 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-tax-network-usa-t-00-49-50) | 4 |
-| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-tax-network-usa-t-00-48-04) | 4 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-tax-network-usa-t-00-48-04) | 3 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-org-tax-network-usa-t-01-04-02) | 4 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-org-tax-network-usa-t-00-36-52) | 3 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-org-tax-network-usa-t-00-33-51) | 5 |
@@ -134,7 +134,7 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (125)</strong></summary>
+<summary><strong class="section-title">Raw mentions (124)</strong></summary>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (2 mentions)</summary>
@@ -528,19 +528,16 @@ Source: [Tax Network USA — About Us](https://www.tnusa.com/about-us/)
 </details>
 
 <details>
-<summary>Myron Gaines x Candace Owens (4 mentions)</summary>
+<summary>Myron Gaines x Candace Owens (3 mentions)</summary>
 
-**[00:48:38](/episodes/ep-2T39-oADLj0.md#ent-org-tax-network-usa-t-00-48-04)**
+**[00:48:37](/episodes/ep-2T39-oADLj0.md#ent-org-tax-network-usa-t-00-48-04)**
 > "Tax Network USA is offering"
 
-**[00:48:57](/episodes/ep-2T39-oADLj0.md#ent-org-tax-network-usa-t-00-48-44)**
+**[00:48:56](/episodes/ep-2T39-oADLj0.md#ent-org-tax-network-usa-t-00-48-44)**
 > "... protected the right way with Tax Network USA and start the process of settling your tax matter..."
 
 **[00:49:03](/episodes/ep-2T39-oADLj0.md#ent-org-tax-network-usa-t-00-48-44)**
 > "...your free discovery call with Tax Network USA."
-
-**[00:49:11](/episodes/ep-2T39-oADLj0.md#ent-org-tax-network-usa-t-00-48-44)**
-> "Again, that's tnusa.com slash Candace."
 
 </details>
 

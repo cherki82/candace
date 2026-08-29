@@ -58,7 +58,7 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-christians-t-00-04-48" style="--pulse-height:10%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-concept-christians-t-00-48-07" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 10 mentions" title="2026-01-09 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-christians-t-00-22-46" style="--pulse-height:10%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-christians-t-00-05-37" style="--pulse-height:10%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-christians-t-00-05-34" style="--pulse-height:10%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-concept-christians-t-00-02-09" style="--pulse-height:10%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christians-t-00-01-23" style="--pulse-height:30%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christians-t-00-24-38" style="--pulse-height:80%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 8 mentions" title="2026-01-29 · 8 mentions"><span></span></a>
@@ -115,7 +115,7 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-concept-christians-t-00-04-48) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-concept-christians-t-00-48-07) | 10 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-christians-t-00-22-46) | 1 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-christians-t-00-05-37) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-christians-t-00-05-34) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-concept-christians-t-00-02-09) | 1 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christians-t-00-01-23) | 3 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-christians-t-00-24-38) | 8 |
@@ -431,7 +431,7 @@ Source: [Christians - Pew Research Center](https://www.pewresearch.org/religion/
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:06:09](/episodes/ep-ZZGWo6oDscc.md#ent-concept-christians-t-00-05-37)**
+**[00:06:09](/episodes/ep-ZZGWo6oDscc.md#ent-concept-christians-t-00-05-34)**
 > "You have underground Christians."
 
 </details>

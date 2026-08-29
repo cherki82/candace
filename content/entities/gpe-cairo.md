@@ -42,7 +42,7 @@ Source: [Cairo Governorate Portal](https://cairo.gov.eg/en/Pages/default.aspx)
 <a href="/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-10-47" style="--pulse-height:45%" aria-label="Operation: “See you in Valhalla, Charlie”. | Candace Ep 270: 5 mentions" title="2025-11-21 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-cairo-t-00-21-46" style="--pulse-height:9%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-cairo-t-00-18-23" style="--pulse-height:18%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-cairo-t-00-10-15" style="--pulse-height:27%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-cairo-t-00-10-10" style="--pulse-height:27%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-cairo-t-01-42-45" style="--pulse-height:9%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-cairo-t-00-06-52" style="--pulse-height:64%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 7 mentions" title="2026-05-27 · 7 mentions"><span></span></a>
 </div>
@@ -57,7 +57,7 @@ Source: [Cairo Governorate Portal](https://cairo.gov.eg/en/Pages/default.aspx)
 | 2025-11-21 | [Operation: “See you in Valhalla, Charlie”. | Candace Ep 270](/episodes/ep-mKXdKV-OBog.md#ent-gpe-cairo-t-00-10-47) | 5 |
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-cairo-t-00-21-46) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-cairo-t-00-18-23) | 2 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-cairo-t-00-10-15) | 3 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-cairo-t-00-10-10) | 3 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-cairo-t-01-42-45) | 1 |
 | 2026-05-27 | [BREAKING NEWS: We've Identified "SAM702" At Fort Huachuca. | Ep 344](/episodes/ep-MhakwJxK-Zk.md#ent-gpe-cairo-t-00-06-52) | 7 |
 
@@ -106,13 +106,13 @@ Source: [Cairo Governorate Portal](https://cairo.gov.eg/en/Pages/default.aspx)
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (3 mentions)</summary>
 
-**[00:10:27](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-cairo-t-00-10-15)**
+**[00:10:24](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-cairo-t-00-10-10)**
 > "...t flying around in circles in Cairo,"
 
-**[00:11:07](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-cairo-t-00-10-59)**
+**[00:10:59](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-cairo-t-00-10-50)**
 > "... leaves Provo heading back to Cairo. And once again, it does not transpond during tha..."
 
-**[00:11:27](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-cairo-t-00-10-59)**
+**[00:11:27](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-cairo-t-00-10-50)**
 > "...dn't even say it went back to Cairo."
 
 </details>
@@ -259,7 +259,7 @@ _No relationships extracted yet._
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
 
-- [00:10:24](/episodes/ep-ZZGWo6oDscc.md#t-00-10-15) (Claim) **Candace Owens**: ["Aircraft can trick their transponders, and the relevant flights to Pro..."](/statements/statement-c27c15b8cb80.md)
+- [00:10:24](/episodes/ep-ZZGWo6oDscc.md#t-00-10-10) (Claim) **Candace Owens**: ["Aircraft can trick their transponders, and the relevant flights to Pro..."](/statements/statement-c27c15b8cb80.md)
   - Also about: [SU-BTU](/entities/vehicle-su-btu.md), [Provo](/entities/gpe-provo.md)
 
 </details>

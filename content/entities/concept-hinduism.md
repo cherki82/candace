@@ -22,7 +22,7 @@ _Type: Concepts_
 Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](https://www.youtube.com/watch?v=BKcOm32ZEGk)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-hinduism-t-00-35-55">2026-01-14 · 00:36:19</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-hinduism-t-00-35-53">2026-01-14 · 00:36:19</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-hinduism-t-00-11-55">2026-02-04 · 00:12:06</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
@@ -34,16 +34,16 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-hinduism-t-00-35-55">PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-hinduism-t-00-35-53">PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-hinduism-t-00-35-55" style="--pulse-height:100%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-hinduism-t-00-35-53" style="--pulse-height:100%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-hinduism-t-00-11-34" style="--pulse-height:100%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-hinduism-t-00-35-55) | 2 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-hinduism-t-00-35-53) | 2 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-concept-hinduism-t-00-11-34) | 2 |
 
 </details>
@@ -68,10 +68,10 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (2 mentions)</summary>
 
-**[00:36:19](/episodes/ep-BKcOm32ZEGk.md#ent-concept-hinduism-t-00-35-55)**
+**[00:36:19](/episodes/ep-BKcOm32ZEGk.md#ent-concept-hinduism-t-00-35-53)**
 > "Shiva in the Hindu faith"
 
-**[00:38:33](/episodes/ep-BKcOm32ZEGk.md#ent-concept-hinduism-t-00-38-07)**
+**[00:38:33](/episodes/ep-BKcOm32ZEGk.md#ent-concept-hinduism-t-00-38-30)**
 > "is taking place under a Hindu deity."
 
 </details>

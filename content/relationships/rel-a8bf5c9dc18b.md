@@ -15,7 +15,7 @@ object: "person-donald-trump"
 
 **[Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0)**
 
-- [00:23:36](/episodes/ep-2T39-oADLj0#t-00-23-36): _he took a lot of money from miriam adelson the adelson Hundreds family of millions. hundreds of millions of dollars from miriam adelson_
+- [00:23:32](/episodes/ep-2T39-oADLj0#t-00-23-32): _he took a lot of money from miriam adelson the adelson ... hundreds of millions of dollars from miriam adelson and i think that's kind of the beginning of everything_
 
 **[BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE)**
 

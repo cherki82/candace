@@ -38,9 +38,9 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-concept-christianity-t-00-07-27" style="--pulse-height:11%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 4 mentions" title="2026-01-07 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-concept-christianity-t-00-22-55" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 35 mentions" title="2026-01-09 · 35 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-christianity-t-00-22-21" style="--pulse-height:9%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 3 mentions" title="2026-01-12 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-christianity-t-00-18-50" style="--pulse-height:17%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 6 mentions" title="2026-01-13 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-christianity-t-00-18-26" style="--pulse-height:17%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 6 mentions" title="2026-01-13 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-concept-christianity-t-00-02-09" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-32-49" style="--pulse-height:26%" aria-label="Myron Gaines x Candace Owens: 9 mentions" title="2026-01-16 · 9 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-32-45" style="--pulse-height:26%" aria-label="Myron Gaines x Candace Owens: 9 mentions" title="2026-01-16 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-christianity-t-00-35-08" style="--pulse-height:11%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 4 mentions" title="2026-01-20 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-00-40" style="--pulse-height:40%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 14 mentions" title="2026-01-22 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-concept-christianity-t-00-33-43" style="--pulse-height:14%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 5 mentions" title="2026-01-27 · 5 mentions"><span></span></a>
@@ -109,9 +109,9 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-concept-christianity-t-00-07-27) | 4 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-concept-christianity-t-00-22-55) | 35 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-christianity-t-00-22-21) | 3 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-christianity-t-00-18-50) | 6 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-christianity-t-00-18-26) | 6 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-concept-christianity-t-00-02-09) | 1 |
-| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-32-49) | 9 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-32-45) | 9 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-christianity-t-00-35-08) | 4 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-christianity-t-00-00-40) | 14 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-concept-christianity-t-00-33-43) | 5 |
@@ -551,7 +551,7 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 **[00:50:26](/episodes/ep-1mYNOqzAdXs.md#ent-concept-christianity-t-00-50-26)**
 > "I really do because it's like it's there's something especially gross about doing it while wearing a veneer of Christianity you can almost understand it for a lot of the the Jewish Americans right in the same way like I always say like we were raised as black Americans and like you're kind of learning about slavery and like that's going to be your scariest point of historical reference in school you can understand when a Jewish Zionist how they could fall into that trap and a lot of them are now waking up the scales are falling from their eyes they are not with Bibi Netanyahu (Benjamin Netanyahu)"
 
-**[00:50:18](/episodes/ep-1mYNOqzAdXs.md#ent-concept-christianity-t-00-50-02)**
+**[00:50:18](/episodes/ep-1mYNOqzAdXs.md#ent-concept-christianity-t-00-50-26)**
 > "...the board, by the way, I find Christian Zionists to be worse than the radical Zionists th..."
 
 **[00:56:49](/episodes/ep-1mYNOqzAdXs.md#ent-concept-christianity-t-00-56-23)**
@@ -689,7 +689,7 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 **[00:13:09](/episodes/ep-i8m_6D4QGmk.md#ent-concept-christianity-t-00-12-57)**
 > "...in, it has nothing to do with Christianity."
 
-**[00:53:38](/episodes/ep-i8m_6D4QGmk.md#ent-concept-christianity-t-00-53-11)**
+**[00:53:38](/episodes/ep-i8m_6D4QGmk.md#ent-concept-christianity-t-00-12-57)**
 > "Allow the Christian Zionists, the ones who make videos telling you ho..."
 
 **[00:53:52](/episodes/ep-i8m_6D4QGmk.md#ent-concept-christianity-t-00-53-52)**
@@ -1065,31 +1065,31 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 <details>
 <summary>Myron Gaines x Candace Owens (9 mentions)</summary>
 
-**[00:32:08](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-32-49)**
+**[00:32:04](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-32-45)**
 > "I'm a Christian"
 
-**[00:00:01](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-32-49)**
+**[00:00:01](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-32-45)**
 > "... allowed to be anything but a Christian Zionist and he was changing in the last few weeks..."
 
-**[00:32:51](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-32-49)**
+**[00:32:45](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-32-45)**
 > "I'm a Christian and obviously Israel has biblical connotations. A..."
 
-**[00:37:35](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-37-15)**
+**[00:37:15](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-37-15)**
 > "are you drunk on Christian blood again?"
 
-**[00:54:53](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-54-48)**
+**[00:54:48](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-37-15)**
 > "Christian Zionist influencers have been losing their minds ..."
 
-**[00:55:03](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-54-48)**
+**[00:55:00](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-37-15)**
 > "why are Christian Zionists trying to use Bible verses to say that w..."
 
-**[00:55:10](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-55-10)**
+**[00:55:08](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-55-08)**
 > "... they are telling us it was a christian miracle his neck just stopped a 30 odd six from 1..."
 
 **[00:55:36](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-55-36)**
 > "you know modern christian miracle you know that's fed slop but it's worse t..."
 
-**[00:56:52](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-56-52)**
+**[00:56:52](/episodes/ep-2T39-oADLj0.md#ent-concept-christianity-t-00-55-36)**
 > "... allowed to be anything but a christian zionist um and he was changing in the last few we..."
 
 </details>
@@ -1097,22 +1097,22 @@ Source: [Christianity | Definition, Origin, History, Beliefs, Symbols, Types, & 
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (6 mentions)</summary>
 
-**[00:06:09](/episodes/ep-ZZGWo6oDscc.md#ent-concept-christianity-t-00-18-50)**
+**[00:06:09](/episodes/ep-ZZGWo6oDscc.md#ent-concept-christianity-t-00-18-26)**
 > "You have underground Christians."
 
-**[00:18:50](/episodes/ep-ZZGWo6oDscc.md#ent-concept-christianity-t-00-18-50)**
+**[00:18:50](/episodes/ep-ZZGWo6oDscc.md#ent-concept-christianity-t-00-18-26)**
 > "...military members people using christianity for ultimately what looks like militant aims"
 
-**[00:19:09](/episodes/ep-ZZGWo6oDscc.md#ent-concept-christianity-t-00-18-50)**
+**[00:19:09](/episodes/ep-ZZGWo6oDscc.md#ent-concept-christianity-t-00-19-09)**
 > "People using Christianity for ultimately what looks like militant aims."
 
-**[00:33:32](/episodes/ep-ZZGWo6oDscc.md#ent-concept-christianity-t-00-18-50)**
+**[00:33:28](/episodes/ep-ZZGWo6oDscc.md#ent-concept-christianity-t-00-19-09)**
 > "...awsuits filed against Harvest Christian Fellowship."
 
-**[00:33:54](/episodes/ep-ZZGWo6oDscc.md#ent-concept-christianity-t-00-18-50)**
+**[00:33:46](/episodes/ep-ZZGWo6oDscc.md#ent-concept-christianity-t-00-19-09)**
 > "...r and a missionary at Harvest Christian Fellowship in Riverside, California."
 
-**[00:34:40](/episodes/ep-ZZGWo6oDscc.md#ent-concept-christianity-t-00-18-50)**
+**[00:34:40](/episodes/ep-ZZGWo6oDscc.md#ent-concept-christianity-t-00-19-09)**
 > "...t Greg Laurie and the Harvest Christian Fellowship sent funding to Havsgaard,"
 
 </details>

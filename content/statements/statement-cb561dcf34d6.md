@@ -29,7 +29,7 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
-**Timestamp:** [00:14:09](/episodes/ep-NIEbqsLAK8g.md#t-00-14-04) 
+**Timestamp:** [00:14:09](/episodes/ep-NIEbqsLAK8g.md#t-00-13-35) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(849);return false;">Play</a>
 
 > Oddly, all of Charlie's security that day was from Texas, from Rick Cutler to Dan Flood, even Brian Harpole.

@@ -29,12 +29,12 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-china-t-00-30-28">A Legal Turning Point? | Candace Ep 292</a> (11 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-china-t-00-30-27">A Legal Turning Point? | Candace Ep 292</a> (11 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-gpe-china-t-00-30-42" style="--pulse-height:18%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 2 mentions" title="2025-10-01 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-china-t-00-48-27" style="--pulse-height:9%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-china-t-00-16-17" style="--pulse-height:55%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 6 mentions" title="2026-01-16 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-china-t-00-30-28" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 11 mentions" title="2026-01-19 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-china-t-00-30-27" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 11 mentions" title="2026-01-19 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-china-t-00-48-34" style="--pulse-height:18%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 2 mentions" title="2026-01-27 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-china-t-00-55-12" style="--pulse-height:18%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ti5Fxrvegno.md#ent-gpe-china-t-00-36-05" style="--pulse-height:9%" aria-label="Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305: 1 mentions" title="2026-02-10 · 1 mentions"><span></span></a>
@@ -55,7 +55,7 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-gpe-china-t-00-30-42) | 2 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-china-t-00-48-27) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-china-t-00-16-17) | 6 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-china-t-00-30-28) | 11 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-china-t-00-30-27) | 11 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-gpe-china-t-00-48-34) | 2 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-china-t-00-55-12) | 2 |
 | 2026-02-10 | [Here’s Why It’s Time For The Police To Question Erika Kirk… | Candace Ep 305](/episodes/ep-ti5Fxrvegno.md#ent-gpe-china-t-00-36-05) | 1 |
@@ -245,10 +245,10 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (11 mentions)</summary>
 
-**[00:30:41](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-china-t-00-30-28)**
+**[00:30:41](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-china-t-00-30-27)**
 > "while she was quote unquote living in China"
 
-**[00:31:25](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-china-t-00-31-25)**
+**[00:31:25](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-china-t-00-31-23)**
 > "... more global. I was living in China and doing a lot of work with the victims from sex..."
 
 **[00:32:38](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-china-t-00-32-38)**
@@ -257,7 +257,7 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 **[00:32:44](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-china-t-00-32-44)**
 > "Go to China then. Go to China and take a video."
 
-**[00:32:48](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-china-t-00-32-48)**
+**[00:32:48](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-china-t-00-32-46)**
 > "Go to China."
 
 **[00:32:51](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-china-t-00-32-51)**
@@ -266,16 +266,16 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 **[00:33:29](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-china-t-00-33-04)**
 > "... doing for everyday heroes in China."
 
-**[00:33:48](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-china-t-00-33-48)**
+**[00:33:48](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-china-t-00-33-38)**
 > "... specifically what charity in China she was working with. And I'm sure, you know, I k..."
 
-**[00:33:54](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-china-t-00-33-48)**
+**[00:33:54](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-china-t-00-33-38)**
 > "people in China don't have access to YouTube."
 
-**[00:34:21](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-china-t-00-33-48)**
+**[00:34:21](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-china-t-00-34-18)**
 > "When was she in China?"
 
-**[00:46:37](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-china-t-00-46-10)**
+**[00:46:37](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-china-t-00-46-37)**
 > "...you knew how long you were in china for that's not something you don't just pick up e..."
 
 </details>
@@ -331,11 +331,12 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 <summary>Former Residence Of (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:20:44](/episodes/ep-2tFYJf1klgY.md#t-00-20-44): “I was living in China and doing a lot of work with the victims from sex trafficking”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:33:17](/episodes/ep-DdPjoy5W-wY.md#t-00-33-17): “I was living in China”
 - [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:48:17](/episodes/ep-SubDoZWHARo.md#t-00-47-55): “Erika Kirk says that she lived in China and worked with child sex trafficking victims”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:31:23](/episodes/ep-NIEbqsLAK8g.md#t-00-30-58): “I was living in China and doing a lot of work with the victims from sex trafficking”
 
 </details>
 
@@ -345,11 +346,12 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 <summary>Referenced By (1)</summary>
 
 - **[Erika Kirk](/entities/person-erika-kirk.md)** formerly lived in this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:20:44](/episodes/ep-2tFYJf1klgY.md#t-00-20-44): “I was living in China and doing a lot of work with the victims from sex trafficking”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:33:17](/episodes/ep-DdPjoy5W-wY.md#t-00-33-17): “I was living in China”
 - [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:48:17](/episodes/ep-SubDoZWHARo.md#t-00-47-55): “Erika Kirk says that she lived in China and worked with child sex trafficking victims”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:31:23](/episodes/ep-NIEbqsLAK8g.md#t-00-30-58): “I was living in China and doing a lot of work with the victims from sex trafficking”
 
 </details>
 
@@ -412,10 +414,10 @@ Source: [Foreign Investment Guide of the People’s Republic of China: Country O
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (3)</summary>
 
-- [00:31:25](/episodes/ep-NIEbqsLAK8g.md#t-00-30-58) (Claim) **Erika Kirk**: ["Erika Kirk said that while living in China she worked with sex-traffic..."](/statements/statement-eddb8602cc35.md)
+- [00:31:25](/episodes/ep-NIEbqsLAK8g.md#t-00-31-23) (Claim) **Erika Kirk**: ["Erika Kirk said that while living in China she worked with sex-traffic..."](/statements/statement-eddb8602cc35.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md), [United States Army](/entities/org-united-states-army.md)
 
-- [00:32:01](/episodes/ep-NIEbqsLAK8g.md#t-00-31-25) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens reported that Turning Point USA's official response said..."](/statements/statement-d5bf18c557bc.md)
+- [00:32:01](/episodes/ep-NIEbqsLAK8g.md#t-00-31-23) (Claim) **Candace Owens** (via paraphrase): ["Candace Owens reported that Turning Point USA's official response said..."](/statements/statement-d5bf18c557bc.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:32:52](/episodes/ep-NIEbqsLAK8g.md#t-00-32-51) (Claim) **Charlie Kirk**: ["Charlie Kirk said his wife had lived in China for six months and had v..."](/statements/statement-831742ddc462.md)

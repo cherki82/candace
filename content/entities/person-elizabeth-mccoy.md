@@ -1,6 +1,6 @@
 ---
 title: "Elizabeth McCoy"
-description: "Elizabeth McCoy (People) - 32 mentions"
+description: "Elizabeth McCoy (People) - 31 mentions"
 id: "person-elizabeth-mccoy"
 type: "PERSON"
 aliases:
@@ -25,7 +25,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-person-elizabeth-mccoy-t-00-42-01">2025-11-05 · 00:42:32</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-AoYZel7_cGQ.md#ent-person-elizabeth-mccoy-t-00-16-30">2026-07-30 · 00:16:40</a></strong></div>
 <div><span>Episodes</span><strong>20</strong></div>
-<div><span>Mentions</span><strong>32</strong></div>
+<div><span>Mentions</span><strong>31</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>12</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
@@ -34,14 +34,14 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-elizabeth-mccoy-t-00-19-00">A Legal Turning Point? | Candace Ep 292</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-DEtFh2Ff-58.md#ent-person-elizabeth-mccoy-t-00-15-28">VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-LATnak75Si0.md#ent-person-elizabeth-mccoy-t-00-42-01" style="--pulse-height:25%" aria-label="Mamdani Wins. Charlie Kirk Questions Haunt &quot;MAGA&quot;. | Candace Ep 259: 1 mentions" title="2025-11-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-SKGUzGHymcI.md#ent-person-elizabeth-mccoy-t-00-29-52" style="--pulse-height:50%" aria-label="Charlie Kirk And The Crossing Of The Delaware | Candace Ep 268: 2 mentions" title="2025-11-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#t-00-18-23" style="--pulse-height:25%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-elizabeth-mccoy-t-00-11-36" style="--pulse-height:50%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-elizabeth-mccoy-t-00-17-25" style="--pulse-height:25%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-elizabeth-mccoy-t-00-19-00" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 4 mentions" title="2026-01-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-elizabeth-mccoy-t-00-18-49" style="--pulse-height:75%" aria-label="A Legal Turning Point? | Candace Ep 292: 3 mentions" title="2026-01-19 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-elizabeth-mccoy-t-01-08-36" style="--pulse-height:25%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-elizabeth-mccoy-t-01-05-44" style="--pulse-height:25%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-elizabeth-mccoy-t-00-27-33" style="--pulse-height:50%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
@@ -66,7 +66,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#t-00-18-23) | 1 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-elizabeth-mccoy-t-00-11-36) | 2 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-elizabeth-mccoy-t-00-17-25) | 1 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-elizabeth-mccoy-t-00-19-00) | 4 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-elizabeth-mccoy-t-00-18-49) | 3 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-elizabeth-mccoy-t-01-08-36) | 1 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-elizabeth-mccoy-t-01-05-44) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-elizabeth-mccoy-t-00-27-33) | 2 |
@@ -88,7 +88,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (32)</strong></summary>
+<summary><strong class="section-title">Raw mentions (31)</strong></summary>
 
 <details>
 <summary>A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 (2 mentions)</summary>
@@ -224,18 +224,15 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 </details>
 
 <details>
-<summary>A Legal Turning Point? | Candace Ep 292 (4 mentions)</summary>
+<summary>A Legal Turning Point? | Candace Ep 292 (3 mentions)</summary>
 
-**[00:19:00](/episodes/ep-NIEbqsLAK8g.md#ent-person-elizabeth-mccoy-t-00-19-00)**
+**[00:19:00](/episodes/ep-NIEbqsLAK8g.md#ent-person-elizabeth-mccoy-t-00-18-49)**
 > "It's probably Elizabeth McCoy."
 
-**[00:19:39](/episodes/ep-NIEbqsLAK8g.md#ent-person-elizabeth-mccoy-t-00-19-00)**
+**[00:19:39](/episodes/ep-NIEbqsLAK8g.md#ent-person-elizabeth-mccoy-t-00-19-27)**
 > "...at's why I think I think it's Elizabeth McCoy. Remember,"
 
-**[00:19:41](/episodes/ep-NIEbqsLAK8g.md#ent-person-elizabeth-mccoy-t-00-19-00)**
-> "it was Elizabeth McCoy."
-
-**[00:19:46](/episodes/ep-NIEbqsLAK8g.md#ent-person-elizabeth-mccoy-t-00-19-45)**
+**[00:19:46](/episodes/ep-NIEbqsLAK8g.md#ent-person-elizabeth-mccoy-t-00-19-27)**
 > "...is my conspiracy theory. It's Elizabeth McCoy. She's going to slide to that spot and then she's..."
 
 </details>
@@ -298,7 +295,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:11:51](/episodes/ep-OEAHy3SsIiI.md#t-00-11-36): “she's very close with Elizabeth McCoy. She's very close with her.”
-- [A Legal Turning Point? | Candace Ep 292 @ 00:18:57](/episodes/ep-NIEbqsLAK8g.md#t-00-18-17): “It's probably Elizabeth McCoy. I feel like if I had to guess, it's her, because they're best friends”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:18:57](/episodes/ep-NIEbqsLAK8g.md#t-00-18-49): “It's probably Elizabeth McCoy. I feel like if I had to guess, it's her, because they're best friends”
 
 </details>
 
@@ -339,7 +336,7 @@ Source: [Team | Turning Point USA](https://tpusa.com/team/)
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:11:51](/episodes/ep-OEAHy3SsIiI.md#t-00-11-36): “she's very close with Elizabeth McCoy. She's very close with her.”
-- [A Legal Turning Point? | Candace Ep 292 @ 00:18:57](/episodes/ep-NIEbqsLAK8g.md#t-00-18-17): “It's probably Elizabeth McCoy. I feel like if I had to guess, it's her, because they're best friends”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:18:57](/episodes/ep-NIEbqsLAK8g.md#t-00-18-49): “It's probably Elizabeth McCoy. I feel like if I had to guess, it's her, because they're best friends”
 
 </details>
 

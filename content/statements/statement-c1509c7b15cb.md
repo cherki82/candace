@@ -35,8 +35,8 @@ type: "factual_claim"
 
 ## Verification
 
-_This statement has not yet been verified._
+_This statement is marked as not verifiable (opinion/subjective)._
 
 ---
 
-**Type:** Factual Claim | **Verifiable:** Yes
+**Type:** Factual Claim | **Verifiable:** No

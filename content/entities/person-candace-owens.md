@@ -1,6 +1,6 @@
 ---
 title: "Candace Owens"
-description: "Candace Owens (People) - 2626 mentions"
+description: "Candace Owens (People) - 2625 mentions"
 id: "person-candace-owens"
 type: "PERSON"
 aliases:
@@ -25,10 +25,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-candace-owens-t-00-06-24">2025-09-11 · 00:07:01</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-candace-owens-t-01-04-57">2026-08-21 · 01:05:31</a></strong></div>
 <div><span>Episodes</span><strong>156</strong></div>
-<div><span>Mentions</span><strong>2,626</strong></div>
-<div><span>Statements by</span><strong>4,800</strong></div>
+<div><span>Mentions</span><strong>2,625</strong></div>
+<div><span>Statements by</span><strong>4,803</strong></div>
 <div><span>Statements about</span><strong>567</strong></div>
-<div><span>Relationships</span><strong>752</strong></div>
+<div><span>Relationships</span><strong>758</strong></div>
 <div><span>Threads</span><strong>1</strong></div>
 </div>
 
@@ -89,11 +89,11 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-candace-owens-t-00-01-21" style="--pulse-height:23%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 14 mentions" title="2026-01-07 · 14 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-candace-owens-t-00-00-00" style="--pulse-height:18%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 11 mentions" title="2026-01-09 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-candace-owens-t-00-00-45" style="--pulse-height:28%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 17 mentions" title="2026-01-12 · 17 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-candace-owens-t-00-00-41" style="--pulse-height:12%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 7 mentions" title="2026-01-13 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-candace-owens-t-00-00-40" style="--pulse-height:13%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 8 mentions" title="2026-01-14 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-candace-owens-t-00-00-31" style="--pulse-height:12%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 7 mentions" title="2026-01-13 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-candace-owens-t-00-00-34" style="--pulse-height:10%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 6 mentions" title="2026-01-14 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-candace-owens-t-00-43-39" style="--pulse-height:12%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 7 mentions" title="2026-01-16 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-person-candace-owens-t-00-00-34" style="--pulse-height:15%" aria-label="Myron Gaines x Candace Owens: 9 mentions" title="2026-01-16 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-candace-owens-t-00-35-11" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 5 mentions" title="2026-01-19 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-person-candace-owens-t-00-00-34" style="--pulse-height:13%" aria-label="Myron Gaines x Candace Owens: 8 mentions" title="2026-01-16 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-candace-owens-t-00-35-11" style="--pulse-height:12%" aria-label="A Legal Turning Point? | Candace Ep 292: 7 mentions" title="2026-01-19 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-candace-owens-t-00-09-46" style="--pulse-height:25%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 15 mentions" title="2026-01-20 · 15 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-candace-owens-t-00-00-41" style="--pulse-height:17%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 10 mentions" title="2026-01-21 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-candace-owens-t-00-00-40" style="--pulse-height:18%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 11 mentions" title="2026-01-22 · 11 mentions"><span></span></a>
@@ -250,11 +250,11 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-candace-owens-t-00-01-21) | 14 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-candace-owens-t-00-00-00) | 11 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-candace-owens-t-00-00-45) | 17 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-candace-owens-t-00-00-41) | 7 |
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-candace-owens-t-00-00-40) | 8 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-candace-owens-t-00-00-31) | 7 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-candace-owens-t-00-00-34) | 6 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-candace-owens-t-00-43-39) | 7 |
-| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-candace-owens-t-00-00-34) | 9 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-candace-owens-t-00-35-11) | 5 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-candace-owens-t-00-00-34) | 8 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-candace-owens-t-00-35-11) | 7 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-candace-owens-t-00-09-46) | 15 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-candace-owens-t-00-00-41) | 10 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-candace-owens-t-00-00-40) | 11 |
@@ -364,7 +364,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2626)</strong></summary>
+<summary><strong class="section-title">Raw mentions (2625)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (34 mentions)</summary>
@@ -5240,22 +5240,28 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>A Legal Turning Point? | Candace Ep 292 (5 mentions)</summary>
+<summary>A Legal Turning Point? | Candace Ep 292 (7 mentions)</summary>
 
 **[00:35:15](/episodes/ep-NIEbqsLAK8g.md#ent-person-candace-owens-t-00-35-11)**
 > "Consider Candace Owens, Tucker Carlson"
 
-**[00:00:52](/episodes/ep-NIEbqsLAK8g.md#ent-person-candace-owens-t-00-00-42)**
+**[00:00:52](/episodes/ep-NIEbqsLAK8g.md#ent-person-candace-owens-t-00-00-33)**
 > "Welcome back to Candace."
 
-**[00:18:17](/episodes/ep-NIEbqsLAK8g.md#ent-person-candace-owens-t-00-18-17)**
+**[00:18:17](/episodes/ep-NIEbqsLAK8g.md#ent-person-candace-owens-t-00-18-05)**
 > "...by visiting pdsdebt.com slash Candace. Again, that's pdsdebt.com slash Candace."
 
-**[00:43:49](/episodes/ep-NIEbqsLAK8g.md#ent-person-candace-owens-t-00-43-40)**
+**[00:43:49](/episodes/ep-NIEbqsLAK8g.md#ent-person-candace-owens-t-00-43-45)**
 > "... of videos real quick like ha candace says she was so crazy she's crazy crazier than sh..."
 
-**[00:45:00](/episodes/ep-NIEbqsLAK8g.md#ent-person-candace-owens-t-00-44-22)**
+**[00:45:00](/episodes/ep-NIEbqsLAK8g.md#ent-person-candace-owens-t-00-44-29)**
 > "Facts, all biz writes sup Candace and crew."
+
+**[00:38:56](/episodes/ep-NIEbqsLAK8g.md#ent-person-candace-owens-t-00-38-33)**
+> "Go to magisterium.com slash candice or download the app for free on iOS or Android. U..."
+
+**[00:39:09](/episodes/ep-NIEbqsLAK8g.md#ent-person-candace-owens-t-00-38-33)**
+> ".... Visit magisterium.com slash candice."
 
 </details>
 
@@ -5286,18 +5292,18 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Myron Gaines x Candace Owens (9 mentions)</summary>
+<summary>Myron Gaines x Candace Owens (8 mentions)</summary>
 
 **[00:00:34](/episodes/ep-2T39-oADLj0.md#ent-person-candace-owens-t-00-00-34)**
 > "Candace, thank you for having me here."
 
-**[00:12:01](/episodes/ep-2T39-oADLj0.md#ent-person-candace-owens-t-00-11-56)**
+**[00:11:56](/episodes/ep-2T39-oADLj0.md#ent-person-candace-owens-t-00-11-56)**
 > "...o look at my life and to say, Candace did this and so therefore I can do this. My life ..."
 
-**[00:26:57](/episodes/ep-2T39-oADLj0.md#ent-person-candace-owens-t-00-26-32)**
+**[00:26:54](/episodes/ep-2T39-oADLj0.md#ent-person-candace-owens-t-00-26-25)**
 > "....com today and use promo code Candace at checkout and you'll get 20 bucks off your firs..."
 
-**[00:27:03](/episodes/ep-2T39-oADLj0.md#ent-person-candace-owens-t-00-26-32)**
+**[00:27:03](/episodes/ep-2T39-oADLj0.md#ent-person-candace-owens-t-00-26-25)**
 > "...riverbendranch.com promo code Candace."
 
 **[00:34:47](/episodes/ep-2T39-oADLj0.md#ent-person-candace-owens-t-00-34-47)**
@@ -5309,36 +5315,27 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 **[00:49:03](/episodes/ep-2T39-oADLj0.md#ent-person-candace-owens-t-00-48-44)**
 > "...1000 or visit tnusa.com slash Candace for your free discovery call with Tax Network USA..."
 
-**[00:49:11](/episodes/ep-2T39-oADLj0.md#ent-person-candace-owens-t-00-48-44)**
-> "Again, that's tnusa.com slash Candace."
-
 **[01:09:35](/episodes/ep-2T39-oADLj0.md#ent-person-candace-owens-t-01-09-35)**
 > "...sense so so thank you so much candace i appreciate it"
 
 </details>
 
 <details>
-<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (8 mentions)</summary>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (6 mentions)</summary>
 
-**[00:00:55](/episodes/ep-BKcOm32ZEGk.md#ent-person-candace-owens-t-00-00-40)**
+**[00:00:55](/episodes/ep-BKcOm32ZEGk.md#ent-person-candace-owens-t-00-00-34)**
 > "Welcome back to Candace."
 
-**[00:30:51](/episodes/ep-BKcOm32ZEGk.md#ent-person-candace-owens-t-00-30-18)**
+**[00:30:51](/episodes/ep-BKcOm32ZEGk.md#ent-person-candace-owens-t-00-30-15)**
 > "...u can visit preborn.com slash candace. Again, that's preborn.com slash candace."
 
-**[00:31:40](/episodes/ep-BKcOm32ZEGk.md#ent-person-candace-owens-t-00-31-40)**
+**[00:31:40](/episodes/ep-BKcOm32ZEGk.md#ent-person-candace-owens-t-00-31-39)**
 > "...by visiting pdsdebt.com slash Candace. Again,"
-
-**[00:31:52](/episodes/ep-BKcOm32ZEGk.md#ent-person-candace-owens-t-00-31-40)**
-> "Yes, that dot com slash Candace."
 
 **[00:47:16](/episodes/ep-BKcOm32ZEGk.md#ent-person-candace-owens-t-00-46-50)**
 > "...ckout when you use promo code Candace and visit fieldofgreens.com. Again,"
 
-**[00:47:23](/episodes/ep-BKcOm32ZEGk.md#ent-person-candace-owens-t-00-46-50)**
-> "...and be sure to use promo code Candace at checkout."
-
-**[00:50:38](/episodes/ep-BKcOm32ZEGk.md#ent-person-candace-owens-t-00-50-21)**
+**[00:50:38](/episodes/ep-BKcOm32ZEGk.md#ent-person-candace-owens-t-00-50-38)**
 > "... why we ended up building the candace owens website was because they knocked us they demoneti..."
 
 **[00:55:12](/episodes/ep-BKcOm32ZEGk.md#ent-person-candace-owens-t-00-55-12)**
@@ -5349,13 +5346,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (7 mentions)</summary>
 
-**[00:00:57](/episodes/ep-ZZGWo6oDscc.md#ent-person-candace-owens-t-00-00-41)**
+**[00:00:47](/episodes/ep-ZZGWo6oDscc.md#ent-person-candace-owens-t-00-00-31)**
 > "...inly puts another coin in the Candace was right jar."
 
-**[00:01:01](/episodes/ep-ZZGWo6oDscc.md#ent-person-candace-owens-t-00-00-41)**
+**[00:01:01](/episodes/ep-ZZGWo6oDscc.md#ent-person-candace-owens-t-00-00-31)**
 > "...ight into it. Welcome back to Candace."
 
-**[00:31:56](/episodes/ep-ZZGWo6oDscc.md#ent-person-candace-owens-t-00-31-30)**
+**[00:31:53](/episodes/ep-ZZGWo6oDscc.md#ent-person-candace-owens-t-00-31-39)**
 > "visit twc.health slash candace and use code candace at checkout,"
 
 **[00:32:01](/episodes/ep-ZZGWo6oDscc.md#ent-person-candace-owens-t-00-32-01)**
@@ -5364,10 +5361,10 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 **[00:40:10](/episodes/ep-ZZGWo6oDscc.md#ent-person-candace-owens-t-00-40-10)**
 > "...cozyearth.com and use my code candace for up to 20 off again that's cozyearth.com code ..."
 
-**[00:43:53](/episodes/ep-ZZGWo6oDscc.md#ent-person-candace-owens-t-00-43-53)**
+**[00:43:48](/episodes/ep-ZZGWo6oDscc.md#ent-person-candace-owens-t-00-43-48)**
 > "Candace, this is Anthony Aguilar. We mentioned him yester..."
 
-**[00:44:20](/episodes/ep-ZZGWo6oDscc.md#ent-person-candace-owens-t-00-43-53)**
+**[00:44:18](/episodes/ep-ZZGWo6oDscc.md#ent-person-candace-owens-t-00-43-48)**
 > "Candace"
 
 </details>
@@ -8776,7 +8773,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - **[Nick Fuentes](/entities/person-nick-fuentes.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:54:46](/episodes/ep-BKcOm32ZEGk.md#t-00-54-42): “i don't watch nick fuentes...it was the most obvious thing to me in the entire world he's a federal informant”
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:54:46](/episodes/ep-BKcOm32ZEGk.md#t-00-54-36): “i don't watch nick fuentes...it was the most obvious thing to me in the entire world he's a federal informant”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:01:07](/episodes/ep-X92MllIHDzw.md#t-00-00-45): “I also have maintained that he's clearly a federal informant, but who cares if people want to follow him?”
 
 </details>
@@ -9200,13 +9197,25 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
+<summary>Attended (1)</summary>
+
+- **[University of Rhode Island](/entities/org-university-of-rhode-island.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:07:49](/episodes/ep-2T39-oADLj0.md#t-00-07-35): “Maybe it was Women's Studies 201 at the University of Rhode Island. And at that time, I was like, yeah, I'm a feminist, of course.”
+
+</details>
+
+</details>
+
+<details>
 <summary>Authored (3)</summary>
 
 - **[Blackout](/entities/work-blackout.md)**
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Myron Gaines x Candace Owens @ 00:07:38](/episodes/ep-2T39-oADLj0.md#t-00-07-35): “actually. I think it's in this book or it's in my last book, actually. It's in Blackout of this teacher that I had and I was required to take Feminism 101. It was called Women's Studies.”
-- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-33): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-30): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:51:49](/episodes/ep-X92MllIHDzw.md#t-00-51-13): “the hard copy autographed bundle, both of my books, Make Him a Sandwich and Blackout.”
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:55:07](/episodes/ep-CEF7gQRWYCE.md#t-00-55-01): “You can also buy the hard copied bundle, both of our books, my books, pardon, Make Him a Sandwich and Blackout, both of them.”
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:57:56](/episodes/ep-HYn0P-P1wUw.md#t-00-57-56): “All right, you guys telling you that we have our new merch up on the website. You can also buy a hard copy of the autographed bundle, which is now available on the shop. It's both of my books, Make Him a Sandwich and Blackout, hand signed by me.”
@@ -9216,7 +9225,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - **[Make Him a Sandwich](/entities/work-make-him-a-sandwich.md)**
 <details class="relationship-evidence"><summary>Show all evidence (16)</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-33): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-30): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:51:49](/episodes/ep-X92MllIHDzw.md#t-00-51-13): “the hard copy autographed bundle, both of my books, Make Him a Sandwich and Blackout.”
 - [Myron Gaines x Candace Owens @ 00:06:01](/episodes/ep-2T39-oADLj0.md#t-00-05-45): “In your book, Make Them a Sandwich.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:25:25](/episodes/ep-GY6GWceEqtQ.md#t-00-24-46): “If you guys have my book, Make Him a Sandwich, I have a whole chapter on Taylor Swift just documenting the things that she does.”
@@ -9293,7 +9302,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:19](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “wanted to show you that because the Daily Wire continues to exhibit stalker vibes”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:13:00](/episodes/ep-zSKrxIUMNqw.md#t-00-12-29): “This was such a slimy act by a former employer.”
-- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:40:10](/episodes/ep-BKcOm32ZEGk.md#t-00-39-34): “this brings me to Daily Wire...they're unhinged”
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:40:10](/episodes/ep-BKcOm32ZEGk.md#t-00-39-55): “this brings me to Daily Wire...they're unhinged”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:23:52](/episodes/ep-eLgD5yUVbko.md#t-00-23-45): “But there is one that I think the public is becoming aware of. I'm also saying it because I have been often said to you that this organization like the Daily Wire. wire has in my view and my understanding of what gang stalking is has been doing this since the day they fired me it has not stopped it's been an onslaught of my life every way trying to stop speeches trying to get people to say things about me having articles written uh you know trying to have other people reach out and go after my advertisers it has been non i was fired from daily wire in 2020 we're in 2020 26 it has been over two years and you're telling me they stopped personally suing me to get involved with Alliance Defending Freedom and to encourage other people to sue me as these people are telling me there”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:27:26](/episodes/ep-uC_GjKU8rs8.md#t-00-27-26): “People see the Daily Wire and they see Ben (Ben Shapiro) and they don't want to support that. They don't want to support someone who tells them that they're evil and stupid and wrong for listening and supporting Theo Vaughn.”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:00:24](/episodes/ep-k1b1NDCrNFs.md#t-00-00-01): “I guess you can just toss another coin in the "I told you so" swear jar. Daily Wire operates like a deranged cult, and they will never stop trying to destroy my life. We're going to speak about that.”
@@ -10355,7 +10364,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Criticized By (42)</summary>
+<summary>Criticized By (43)</summary>
 
 - **[Eyal Yakobi](/entities/person-eyal-yakobi.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -10692,6 +10701,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 </details>
 
+- **[Zionist Federation of Australia](/entities/org-zionist-federation-australia.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:36:24](/episodes/ep-2T39-oADLj0.md#t-00-36-24): “I was going to tour in Australia and the Zionist lobby found out and they publicly posted it was like the Zionist organization of Australia maybe it was ZOA publicly posted this thing this ... her butt she should be allowed to speak but they were effectively the adl and they posted this thing and publicly said that i should not be allowed in my my rhetoric was dangerous they lied and said that i said that jews what did they say that i said that jews drink the blood of children which was it was just like completely so”
+
+</details>
+
 </details>
 
 <details>
@@ -10700,7 +10716,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - **[Shmuley Boteach](/entities/person-shmuley-boteach.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Myron Gaines x Candace Owens @ 00:34:38](/episodes/ep-2T39-oADLj0.md#t-00-34-12): “you start talking about it i remember you had debated uh a rabbi forget i can't remember his name a a couple of them rabbi couple of there was them rabbi shmuley”
+- [Myron Gaines x Candace Owens @ 00:34:21](/episodes/ep-2T39-oADLj0.md#t-00-34-12): “we support israel unequivocally every single time and you never even hear the other perspective so uh and i've said that too like october 7th kind of opened up this discussion whereas like i remember before it like if you talked about it you would get demonetized banned that's what got me demonetized was was that topic especially before october 7th so you start talking about it i remember you had debated uh a rabbi forget i can't remember his name a ... a couple of them rabbi couple of there was them rabbi shmuley yeah and then there was that idiot and the other one”
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 01:11:23](/episodes/ep-E7P2ShoYDUA.md#t-01-10-52): “I've had debates with Rabbi Shmuley, who I can't stand, on Piers Morgan for free.”
 
 </details>
@@ -10708,7 +10724,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - **[Michael Barclay](/entities/person-michael-barclay.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Myron Gaines x Candace Owens @ 00:34:38](/episodes/ep-2T39-oADLj0.md#t-00-34-12): “you start talking about it i remember you had debated uh a rabbi forget i can't remember his name a a couple of them rabbi couple of there was them rabbi shmuley yeah and then there was that idiot and the other one who was oh gosh i have i have to remember his name he was my favorite candace this yeah yeah the is the worst anti-semitism he actually was low-key my favorite because he was so over the top oh yeah like oh hey yeah he was so over the top and he was like you can't even say what was it witches skylar what was What was the name of that rabbi? barclay Rabbi yeah okay Barclay.”
+- [Myron Gaines x Candace Owens @ 00:34:21](/episodes/ep-2T39-oADLj0.md#t-00-34-12): “i remember you had debated uh a rabbi forget i can't remember his name a ... barclay Rabbi yeah okay Barclay. yeah That was his and name.”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:38:29](/episodes/ep-Wjul6YV6izo.md#t-00-38-29): “Frank Turek, I've invited him on this show many times. He gives me Rabbi Barclay, who I had that debate with when I was over the Daily Wire.”
 
 </details>
@@ -10930,7 +10946,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Nimi Skincare](/entities/org-nimi-skincare.md)**
-<details class="relationship-evidence"><summary>Show all evidence (19)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (20)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:54:41](/episodes/ep-his-JBjlkh8.md#t-00-54-11): “Also, you guys know I have to tell you about Nimmie Skincare. I love them.”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:33:17](/episodes/ep-2tFYJf1klgY.md#t-00-32-55): “it's the only skincare brand that I have stayed consistent with. It's what I use, it's what I trust”
@@ -10951,6 +10967,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:44:11](/episodes/ep-N4uM8Jdr410.md#t-00-44-11): “I also have to tell you guys about Nimi Skincare. You know I love them. What makes their skin products so great is that their tallow comes from grass-fed, grass-finished cattle.”
 - [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:44:49](/episodes/ep-AoYZel7_cGQ.md#t-00-44-49): “Nimmy skincare makes the best tallow skincare products I've ever used.”
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:25:15](/episodes/ep-AH1KVKkweUE.md#t-00-24-57): “All right, you guys, Nimi makes the best tallow skincare products that I've ever used.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:01:23](/episodes/ep-ZZGWo6oDscc.md#t-00-01-19): “It's refreshing to work with a brand that has not changed with every single cultural trend. They have clean ingredients, simple routines, and products made in America, so that's why I love Nimi Skin Care.”
 
 </details>
 
@@ -10993,7 +11010,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[American Financing](/entities/org-american-financing.md)**
-<details class="relationship-evidence"><summary>Show all evidence (32)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -11027,6 +11044,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:46:22](/episodes/ep-AoYZel7_cGQ.md#t-00-46-15): “But American Financing offers a smart equity loan so that you don't actually have to.”
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:42:27](/episodes/ep-AH1KVKkweUE.md#t-00-42-27): “i also want to remind you guys about american financing because it is no secret that everything is starting to feel a lot more expensive these days”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:57:26](/episodes/ep-_cNtgris8Ik.md#t-00-57-01): “American financing can help you consolidate high interest credit. interest credit card debts that you have some breathing room.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:40:30](/episodes/ep-ZZGWo6oDscc.md#t-00-40-10): “also reminding you guys about american financing”
 
 </details>
 
@@ -11117,11 +11135,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Cozy Earth](/entities/org-cozy-earth.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:39:33](/episodes/ep-H9p2ZGHAs9A.md#t-00-39-06): “Cozy Earth offers a 100-night sleep trial so you can experience the comfort in your own home. Plus, everything is backed by a 10-year warranty, which just shows how much confidence they have in the quality and craftsmanship.”
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:29:51](/episodes/ep-cPidFQDJLbo.md#t-00-29-34): “That's why I have been loving my Cozy Earth brushed bamboo jogger set lately. It is seriously one of the softest things I own, but what really sold me is how cooling and breathable it feels.”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:58:42](/episodes/ep-EtLHqDbxqks.md#t-00-58-27): “Made from viscose, bamboo, breathable, soft, and built for summer. Head to CozyEarth.com and use my code CANDICE for an exclusive 20% off.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:39:30](/episodes/ep-ZZGWo6oDscc.md#t-00-39-00): “Fresh sheets, luxe towels, quality pajamas, those small changes completely change how your home feels. That's why I love Cozy Earth.”
 
 </details>
 
@@ -11150,7 +11169,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[The Wellness Company](/entities/org-the-wellness-company.md)**
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:31:56](/episodes/ep-kaWtDuoY_ns.md#t-00-31-56): “This is where the wellness company steps in to help you own your health.”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:25:32](/episodes/ep-qZ8RWfyuewQ.md#t-00-25-23): “Dr. Peter McCullough recommends doing a parasite cleanse at least once a year as a preventative measure. The wellness company offers a hard-to-access RX parasite cleanse, a USA-compounded ivermectin and menbendazole treatment.”
@@ -11160,6 +11179,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:27:17](/episodes/ep-a2bZf4fic10.md#t-00-27-17): “The Wellness Company offers a hard-to-access prescription parasite cleanse, the USA-compounded ivermectin and mebendazole.”
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:28:54](/episodes/ep-N4uM8Jdr410.md#t-00-28-43): “If you get sick, the CDC recommends Bactrim. That's why the Wellness Company created the medical emergency kit, because it comes with generic Bactrim plus seven additional prescription medications to help treat more than 25 common illnesses and medical emergencies, all prescribed before you need them.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:32:01](/episodes/ep-ds6umq1rHAw.md#t-00-31-29): “That's why the wellness company created the medical emergency kit because it comes with generic Bactrim plus seven additional prescription medications to help.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:30:44](/episodes/ep-ZZGWo6oDscc.md#t-00-30-18): “Also want to tell you guys about the wellness company”
 
 </details>
 
@@ -11874,7 +11894,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 - [Myron Gaines x Candace Owens @ 00:01:29](/episodes/ep-2T39-oADLj0.md#t-00-01-29): “So kind of with that, I saw that you had did a debate on Jubilee with a bunch of feminists.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 01:01:53](/episodes/ep-X92MllIHDzw.md#t-01-01-53): “we have an interview dropping tomorrow between me and Myron Gaines ... he interviewed me”
-- [A Legal Turning Point? | Candace Ep 292 @ 00:41:09](/episodes/ep-NIEbqsLAK8g.md#t-00-40-49): “we aired it was actually me being interviewed by Myron, which actually took place at the end of last year”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:41:09](/episodes/ep-NIEbqsLAK8g.md#t-00-40-39): “we aired it was actually me being interviewed by Myron, which actually took place at the end of last year”
 
 </details>
 
@@ -11932,7 +11952,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - **[George Farmer](/entities/person-george-farmer.md)**
 <details class="relationship-evidence"><summary>Show all evidence (15)</summary>
 
-- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:06:24](/episodes/ep-BKcOm32ZEGk.md#t-00-06-16): “The story had my husband. I've told it many times how I got engaged 18 days later... But I already knew George... I looked at my husband's face and I already knew him.”
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:06:24](/episodes/ep-BKcOm32ZEGk.md#t-00-06-23): “The story had my husband. I've told it many times how I got engaged 18 days later... But I already knew George... I looked at my husband's face and I already knew him.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:46:12](/episodes/ep-GY6GWceEqtQ.md#t-00-45-47): “I could bake cookies with any of George (George Farmer)'s exes. I just don't care. He's my husband.”
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 01:32:35](/episodes/ep-nPhCKwJ6ye8.md#t-01-32-20): “George could be sending text messages right now. We are married. He has every login that I have.”
 - [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:27:51](/episodes/ep-5-HUyv9LyMg.md#t-00-27-35): “my husband George Farmer”
@@ -12301,12 +12321,19 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Threatened By (1)</summary>
+<summary>Threatened By (2)</summary>
 
 - **[Valhalla VFT](/entities/org-valhalla-vft.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:51:13](/episodes/ep-KpxIBWkNsSs.md#t-00-51-13): “was we were threatened literally threatened i mean when you see these messages that valhalla was sending about how i would be ruined he explicitly says we're going to ruin her by being if she does not like basically revoke her commentary about Fort Huachuca we're going to basically bury her in everything Mitch (Mitch Snow) has done in his past i'm talking to his ex-wife i'm like what is why are valhalla and Paramount Tactical then they called Mitch (Mitch Snow) And they tried to play good cop.”
+
+</details>
+
+- **[Shmuley Boteach](/entities/person-shmuley-boteach.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:38:10](/episodes/ep-2T39-oADLj0.md#t-00-38-10): “Didn't he try to sue you for that? ... no he threatened to sue and um so yeah it was quite a time but they successfully got me banned i've never been in trouble nothing and they decided that i am too dangerous to speak in their country So that I still think, and this has been my belief, everything that is happening, God wants to happen.”
 
 </details>
 
@@ -12365,7 +12392,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - **[Goldco](/entities/org-goldco.md)**
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:33:13](/episodes/ep-X92MllIHDzw.md#t-00-32-47): “That's why I have partnered with a great precious metals company,”
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:33:13](/episodes/ep-X92MllIHDzw.md#t-00-32-47): “That's why I have partnered with a great precious metals company, Goldco. They have helped tens of thousands of Americans protect their money with gold and silver.”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:31:23](/episodes/ep-i8m_6D4QGmk.md#t-00-30-59): “That's why I want you to reach out to my partners over at GoldCo. They are the number one gold and silver company in the country.”
 
 </details>
@@ -12519,7 +12546,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>Referenced By (367)</summary>
+<summary>Referenced By (370)</summary>
 
 - **[Rob McCoy](/entities/person-rob-mccoy.md)** accused this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
@@ -12640,7 +12667,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - **[Nick Fuentes](/entities/person-nick-fuentes.md)** accused by this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:54:46](/episodes/ep-BKcOm32ZEGk.md#t-00-54-42): “i don't watch nick fuentes...it was the most obvious thing to me in the entire world he's a federal informant”
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:54:46](/episodes/ep-BKcOm32ZEGk.md#t-00-54-36): “i don't watch nick fuentes...it was the most obvious thing to me in the entire world he's a federal informant”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:01:07](/episodes/ep-X92MllIHDzw.md#t-00-00-45): “I also have maintained that he's clearly a federal informant, but who cares if people want to follow him?”
 
 </details>
@@ -12954,11 +12981,18 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 </details>
 
+- **[University of Rhode Island](/entities/org-university-of-rhode-island.md)** attended by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:07:49](/episodes/ep-2T39-oADLj0.md#t-00-07-35): “Maybe it was Women's Studies 201 at the University of Rhode Island. And at that time, I was like, yeah, I'm a feminist, of course.”
+
+</details>
+
 - **[Blackout](/entities/work-blackout.md)** authored by this
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
 - [Myron Gaines x Candace Owens @ 00:07:38](/episodes/ep-2T39-oADLj0.md#t-00-07-35): “actually. I think it's in this book or it's in my last book, actually. It's in Blackout of this teacher that I had and I was required to take Feminism 101. It was called Women's Studies.”
-- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-33): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-30): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:51:49](/episodes/ep-X92MllIHDzw.md#t-00-51-13): “the hard copy autographed bundle, both of my books, Make Him a Sandwich and Blackout.”
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:55:07](/episodes/ep-CEF7gQRWYCE.md#t-00-55-01): “You can also buy the hard copied bundle, both of our books, my books, pardon, Make Him a Sandwich and Blackout, both of them.”
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:57:56](/episodes/ep-HYn0P-P1wUw.md#t-00-57-56): “All right, you guys telling you that we have our new merch up on the website. You can also buy a hard copy of the autographed bundle, which is now available on the shop. It's both of my books, Make Him a Sandwich and Blackout, hand signed by me.”
@@ -12968,7 +13002,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - **[Make Him a Sandwich](/entities/work-make-him-a-sandwich.md)** authored by this
 <details class="relationship-evidence"><summary>Show all evidence (16)</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-33): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:41:41](/episodes/ep-ZZGWo6oDscc.md#t-00-41-30): “I have signed both of my books and yeah, they're personally signed so I don't use a stamp. Now available on the shop website, Make Him a Sandwich and Blackout.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:51:49](/episodes/ep-X92MllIHDzw.md#t-00-51-13): “the hard copy autographed bundle, both of my books, Make Him a Sandwich and Blackout.”
 - [Myron Gaines x Candace Owens @ 00:06:01](/episodes/ep-2T39-oADLj0.md#t-00-05-45): “In your book, Make Them a Sandwich.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:25:25](/episodes/ep-GY6GWceEqtQ.md#t-00-24-46): “If you guys have my book, Make Him a Sandwich, I have a whole chapter on Taylor Swift just documenting the things that she does.”
@@ -13380,6 +13414,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 @ 00:09:30](/episodes/ep-CMcktj3Egfo.md#t-00-09-30): “Dennis Prager, who had just written this open article about me, and it was not done in a very nice way”
+
+</details>
+
+- **[Zionist Federation of Australia](/entities/org-zionist-federation-australia.md)** criticized this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:36:24](/episodes/ep-2T39-oADLj0.md#t-00-36-24): “I was going to tour in Australia and the Zionist lobby found out and they publicly posted it was like the Zionist organization of Australia maybe it was ZOA publicly posted this thing this ... her butt she should be allowed to speak but they were effectively the adl and they posted this thing and publicly said that i should not be allowed in my my rhetoric was dangerous they lied and said that i said that jews what did they say that i said that jews drink the blood of children which was it was just like completely so”
 
 </details>
 
@@ -14369,7 +14410,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - **[Shmuley Boteach](/entities/person-shmuley-boteach.md)** debated this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Myron Gaines x Candace Owens @ 00:34:38](/episodes/ep-2T39-oADLj0.md#t-00-34-12): “you start talking about it i remember you had debated uh a rabbi forget i can't remember his name a a couple of them rabbi couple of there was them rabbi shmuley”
+- [Myron Gaines x Candace Owens @ 00:34:21](/episodes/ep-2T39-oADLj0.md#t-00-34-12): “we support israel unequivocally every single time and you never even hear the other perspective so uh and i've said that too like october 7th kind of opened up this discussion whereas like i remember before it like if you talked about it you would get demonetized banned that's what got me demonetized was was that topic especially before october 7th so you start talking about it i remember you had debated uh a rabbi forget i can't remember his name a ... a couple of them rabbi couple of there was them rabbi shmuley yeah and then there was that idiot and the other one”
 - [Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 @ 01:11:23](/episodes/ep-E7P2ShoYDUA.md#t-01-10-52): “I've had debates with Rabbi Shmuley, who I can't stand, on Piers Morgan for free.”
 
 </details>
@@ -14377,7 +14418,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - **[Michael Barclay](/entities/person-michael-barclay.md)** debated this
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
-- [Myron Gaines x Candace Owens @ 00:34:38](/episodes/ep-2T39-oADLj0.md#t-00-34-12): “you start talking about it i remember you had debated uh a rabbi forget i can't remember his name a a couple of them rabbi couple of there was them rabbi shmuley yeah and then there was that idiot and the other one who was oh gosh i have i have to remember his name he was my favorite candace this yeah yeah the is the worst anti-semitism he actually was low-key my favorite because he was so over the top oh yeah like oh hey yeah he was so over the top and he was like you can't even say what was it witches skylar what was What was the name of that rabbi? barclay Rabbi yeah okay Barclay.”
+- [Myron Gaines x Candace Owens @ 00:34:21](/episodes/ep-2T39-oADLj0.md#t-00-34-12): “i remember you had debated uh a rabbi forget i can't remember his name a ... barclay Rabbi yeah okay Barclay. yeah That was his and name.”
 - [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299 @ 00:38:29](/episodes/ep-Wjul6YV6izo.md#t-00-38-29): “Frank Turek, I've invited him on this show many times. He gives me Rabbi Barclay, who I had that debate with when I was over the Daily Wire.”
 
 </details>
@@ -14555,7 +14596,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Nimi Skincare](/entities/org-nimi-skincare.md)** endorsed by this
-<details class="relationship-evidence"><summary>Show all evidence (19)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (20)</summary>
 
 - [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273 @ 00:54:41](/episodes/ep-his-JBjlkh8.md#t-00-54-11): “Also, you guys know I have to tell you about Nimmie Skincare. I love them.”
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:33:17](/episodes/ep-2tFYJf1klgY.md#t-00-32-55): “it's the only skincare brand that I have stayed consistent with. It's what I use, it's what I trust”
@@ -14576,6 +14617,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:44:11](/episodes/ep-N4uM8Jdr410.md#t-00-44-11): “I also have to tell you guys about Nimi Skincare. You know I love them. What makes their skin products so great is that their tallow comes from grass-fed, grass-finished cattle.”
 - [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:44:49](/episodes/ep-AoYZel7_cGQ.md#t-00-44-49): “Nimmy skincare makes the best tallow skincare products I've ever used.”
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:25:15](/episodes/ep-AH1KVKkweUE.md#t-00-24-57): “All right, you guys, Nimi makes the best tallow skincare products that I've ever used.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:01:23](/episodes/ep-ZZGWo6oDscc.md#t-00-01-19): “It's refreshing to work with a brand that has not changed with every single cultural trend. They have clean ingredients, simple routines, and products made in America, so that's why I love Nimi Skin Care.”
 
 </details>
 
@@ -14618,7 +14660,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[American Financing](/entities/org-american-financing.md)** endorsed by this
-<details class="relationship-evidence"><summary>Show all evidence (32)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (33)</summary>
 
 - [Bride Of Charlie: The Lost Years... | Episode 5 @ 00:48:25](/episodes/ep-2tFYJf1klgY.md#t-00-48-06): “Also going to tell you guys about American financing because between groceries, travel and higher prices, it's easy to feel overwhelmed”
 - [Bride Of Charlie: Crazy In Love | Episode 7 @ 00:54:10](/episodes/ep-DdPjoy5W-wY.md#t-00-53-33): “Also going to remind you guys about American financing”
@@ -14652,6 +14694,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368 @ 00:46:22](/episodes/ep-AoYZel7_cGQ.md#t-00-46-15): “But American Financing offers a smart equity loan so that you don't actually have to.”
 - [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 @ 00:42:27](/episodes/ep-AH1KVKkweUE.md#t-00-42-27): “i also want to remind you guys about american financing because it is no secret that everything is starting to feel a lot more expensive these days”
 - [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 @ 00:57:26](/episodes/ep-_cNtgris8Ik.md#t-00-57-01): “American financing can help you consolidate high interest credit. interest credit card debts that you have some breathing room.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:40:30](/episodes/ep-ZZGWo6oDscc.md#t-00-40-10): “also reminding you guys about american financing”
 
 </details>
 
@@ -14742,11 +14785,12 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[Cozy Earth](/entities/org-cozy-earth.md)** endorsed by this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:39:33](/episodes/ep-H9p2ZGHAs9A.md#t-00-39-06): “Cozy Earth offers a 100-night sleep trial so you can experience the comfort in your own home. Plus, everything is backed by a 10-year warranty, which just shows how much confidence they have in the quality and craftsmanship.”
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:29:51](/episodes/ep-cPidFQDJLbo.md#t-00-29-34): “That's why I have been loving my Cozy Earth brushed bamboo jogger set lately. It is seriously one of the softest things I own, but what really sold me is how cooling and breathable it feels.”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:58:42](/episodes/ep-EtLHqDbxqks.md#t-00-58-27): “Made from viscose, bamboo, breathable, soft, and built for summer. Head to CozyEarth.com and use my code CANDICE for an exclusive 20% off.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:39:30](/episodes/ep-ZZGWo6oDscc.md#t-00-39-00): “Fresh sheets, luxe towels, quality pajamas, those small changes completely change how your home feels. That's why I love Cozy Earth.”
 
 </details>
 
@@ -14775,7 +14819,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 - **[The Wellness Company](/entities/org-the-wellness-company.md)** endorsed by this
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:31:56](/episodes/ep-kaWtDuoY_ns.md#t-00-31-56): “This is where the wellness company steps in to help you own your health.”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:25:32](/episodes/ep-qZ8RWfyuewQ.md#t-00-25-23): “Dr. Peter McCullough recommends doing a parasite cleanse at least once a year as a preventative measure. The wellness company offers a hard-to-access RX parasite cleanse, a USA-compounded ivermectin and menbendazole treatment.”
@@ -14785,6 +14829,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:27:17](/episodes/ep-a2bZf4fic10.md#t-00-27-17): “The Wellness Company offers a hard-to-access prescription parasite cleanse, the USA-compounded ivermectin and mebendazole.”
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:28:54](/episodes/ep-N4uM8Jdr410.md#t-00-28-43): “If you get sick, the CDC recommends Bactrim. That's why the Wellness Company created the medical emergency kit, because it comes with generic Bactrim plus seven additional prescription medications to help treat more than 25 common illnesses and medical emergencies, all prescribed before you need them.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:32:01](/episodes/ep-ds6umq1rHAw.md#t-00-31-29): “That's why the wellness company created the medical emergency kit because it comes with generic Bactrim plus seven additional prescription medications to help.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:30:44](/episodes/ep-ZZGWo6oDscc.md#t-00-30-18): “Also want to tell you guys about the wellness company”
 
 </details>
 
@@ -15277,7 +15322,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 - [Myron Gaines x Candace Owens @ 00:01:29](/episodes/ep-2T39-oADLj0.md#t-00-01-29): “So kind of with that, I saw that you had did a debate on Jubilee with a bunch of feminists.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 01:01:53](/episodes/ep-X92MllIHDzw.md#t-01-01-53): “we have an interview dropping tomorrow between me and Myron Gaines ... he interviewed me”
-- [A Legal Turning Point? | Candace Ep 292 @ 00:41:09](/episodes/ep-NIEbqsLAK8g.md#t-00-40-49): “we aired it was actually me being interviewed by Myron, which actually took place at the end of last year”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:41:09](/episodes/ep-NIEbqsLAK8g.md#t-00-40-39): “we aired it was actually me being interviewed by Myron, which actually took place at the end of last year”
 
 </details>
 
@@ -15746,7 +15791,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 
 - [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285 @ 00:48:19](/episodes/ep-HYn0P-P1wUw.md#t-00-48-07): “wanted to show you that because the Daily Wire continues to exhibit stalker vibes”
 - [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286 @ 00:13:00](/episodes/ep-zSKrxIUMNqw.md#t-00-12-29): “This was such a slimy act by a former employer.”
-- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:40:10](/episodes/ep-BKcOm32ZEGk.md#t-00-39-34): “this brings me to Daily Wire...they're unhinged”
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:40:10](/episodes/ep-BKcOm32ZEGk.md#t-00-39-55): “this brings me to Daily Wire...they're unhinged”
 - [Trump Attacks The Pope. The Tyler Robinson Narrative Collapses. | Candace Ep 323 @ 00:23:52](/episodes/ep-eLgD5yUVbko.md#t-00-23-45): “But there is one that I think the public is becoming aware of. I'm also saying it because I have been often said to you that this organization like the Daily Wire. wire has in my view and my understanding of what gang stalking is has been doing this since the day they fired me it has not stopped it's been an onslaught of my life every way trying to stop speeches trying to get people to say things about me having articles written uh you know trying to have other people reach out and go after my advertisers it has been non i was fired from daily wire in 2020 we're in 2020 26 it has been over two years and you're telling me they stopped personally suing me to get involved with Alliance Defending Freedom and to encourage other people to sue me as these people are telling me there”
 - [Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332 @ 00:27:26](/episodes/ep-uC_GjKU8rs8.md#t-00-27-26): “People see the Daily Wire and they see Ben (Ben Shapiro) and they don't want to support that. They don't want to support someone who tells them that they're evil and stupid and wrong for listening and supporting Theo Vaughn.”
 - [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334 @ 00:00:24](/episodes/ep-k1b1NDCrNFs.md#t-00-00-01): “I guess you can just toss another coin in the "I told you so" swear jar. Daily Wire operates like a deranged cult, and they will never stop trying to destroy my life. We're going to speak about that.”
@@ -15818,6 +15863,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
 - [Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336 @ 00:51:13](/episodes/ep-KpxIBWkNsSs.md#t-00-51-13): “was we were threatened literally threatened i mean when you see these messages that valhalla was sending about how i would be ruined he explicitly says we're going to ruin her by being if she does not like basically revoke her commentary about Fort Huachuca we're going to basically bury her in everything Mitch (Mitch Snow) has done in his past i'm talking to his ex-wife i'm like what is why are valhalla and Paramount Tactical then they called Mitch (Mitch Snow) And they tried to play good cop.”
+
+</details>
+
+- **[Shmuley Boteach](/entities/person-shmuley-boteach.md)** threatened this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [Myron Gaines x Candace Owens @ 00:38:10](/episodes/ep-2T39-oADLj0.md#t-00-38-10): “Didn't he try to sue you for that? ... no he threatened to sue and um so yeah it was quite a time but they successfully got me banned i've never been in trouble nothing and they decided that i am too dangerous to speak in their country So that I still think, and this has been my belief, everything that is happening, God wants to happen.”
 
 </details>
 
@@ -15922,7 +15974,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by Candace Owens (4800)</strong></summary>
+<summary><strong class="section-title">Statements by Candace Owens (4803)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (27)</summary>
@@ -23377,42 +23429,42 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <summary>A Legal Turning Point? | Candace Ep 292 (16)</summary>
 
 - [00:00:27](/episodes/ep-NIEbqsLAK8g.md#t-00-00-00) [✗] (Accusation) ["Federal authorities are doing nothing to investigate Charlie Kirk's assassinatio..."](/statements/statement-1dfa3c1a7731.md)
-  - About: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:04:31](/episodes/ep-NIEbqsLAK8g.md#t-00-04-16) [✓] (Citation) ["The Cattle Baron's Ball in Dallas is a single-night fundraiser for the American ..."](/statements/statement-cfddeb98f35b.md)
+- [00:04:31](/episodes/ep-NIEbqsLAK8g.md#t-00-04-02) [✓] (Citation) ["The Cattle Baron's Ball in Dallas is a single-night fundraiser for the American ..."](/statements/statement-cfddeb98f35b.md)
   - About: [American Cancer Society](/entities/org-american-cancer-society.md), [Dallas, Texas](/entities/gpe-dallas-texas.md)
 
-- [00:05:03](/episodes/ep-NIEbqsLAK8g.md#t-00-05-01) [◐] (Citation) ["Nebraska's Cattlemen's Ball became a separate 501(c)(3) that benefits the Fred &..."](/statements/statement-baf97d67738e.md)
+- [00:05:03](/episodes/ep-NIEbqsLAK8g.md#t-00-04-42) [◐] (Citation) ["Candace Owens said Nebraska once hosted its own Cattle Baron's Ball that might b..."](/statements/statement-baf97d67738e.md)
   - About: [Cattlemen's Ball of Nebraska](/entities/org-cattlemens-ball-of-nebraska.md), [Fred & Pamela Buffett Cancer Center](/entities/org-fred-pamela-buffett-cancer-center.md), [Nebraska](/entities/gpe-nebraska.md)
 
-- [00:06:38](/episodes/ep-NIEbqsLAK8g.md#t-00-06-17) [○] (Citation) ["A professional profile says Robert Eugene Flood spent 33 years with the Texas A&..."](/statements/statement-d34b5529bef5.md)
+- [00:06:38](/episodes/ep-NIEbqsLAK8g.md#t-00-06-03) [○] (Citation) ["A professional profile says Robert Eugene Flood spent 33 years with the Texas A&..."](/statements/statement-d34b5529bef5.md)
   - About: [Robert Eugene Flood](/entities/person-robert-eugene-flood.md), [Texas A&M University Police Department](/entities/org-texas-am-university-police-department.md), [Bosque County Sheriff's Office](/entities/org-bosque-county-sheriffs-office.md)
 
-- [00:07:33](/episodes/ep-NIEbqsLAK8g.md#t-00-07-01) [○] (Citation) ["Robert Eugene Flood's professional profile says he was a Marine staff sergeant r..."](/statements/statement-5605fa48507e.md)
+- [00:07:33](/episodes/ep-NIEbqsLAK8g.md#t-00-07-31) [○] (Citation) ["Robert Eugene Flood's professional profile says he was a Marine staff sergeant r..."](/statements/statement-5605fa48507e.md)
   - About: [Robert Eugene Flood](/entities/person-robert-eugene-flood.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md), [United States Army](/entities/org-united-states-army.md)
 
-- [00:07:59](/episodes/ep-NIEbqsLAK8g.md#t-00-07-46) [○] (Claim) ["Candace Owens could not find Illinois news coverage mentioning Robert Eugene Flo..."](/statements/statement-27f37317e429.md)
+- [00:07:59](/episodes/ep-NIEbqsLAK8g.md#t-00-07-59) [○] (Claim) ["Candace Owens could not find Illinois news coverage mentioning Robert Eugene Flo..."](/statements/statement-27f37317e429.md)
   - About: [Robert Eugene Flood](/entities/person-robert-eugene-flood.md), [Illinois](/entities/gpe-illinois.md)
 
-- [00:09:17](/episodes/ep-NIEbqsLAK8g.md#t-00-09-03) [◐] (Citation) ["The FBI Agents Association is a charity founded in 1981 that says it has 14,000 ..."](/statements/statement-d70f584ccc65.md)
+- [00:09:17](/episodes/ep-NIEbqsLAK8g.md#t-00-08-59) [◐] (Citation) ["The FBI Agents Association is a charity founded in 1981 that says it has 14,000 ..."](/statements/statement-d70f584ccc65.md)
   - About: [FBI Agents Association](/entities/org-fbi-agents-association.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
 
-- [00:11:37](/episodes/ep-NIEbqsLAK8g.md#t-00-11-11) [✓] (Claim) ["Greg Shaffer worked for the FBI Hostage Rescue Team, supervised the Dallas Joint..."](/statements/statement-69178e8428ef.md)
+- [00:11:37](/episodes/ep-NIEbqsLAK8g.md#t-00-11-05) [✓] (Claim) ["Greg Shaffer worked for the FBI Hostage Rescue Team, supervised the Dallas Joint..."](/statements/statement-69178e8428ef.md)
   - About: [Greg Shaffer](/entities/person-greg-shaffer.md), [FBI Hostage Rescue Team](/entities/org-fbi-hostage-rescue-team.md), [North Texas Joint Terrorism Task Force](/entities/org-north-texas-joint-terrorism-task-force.md)
 
-- [00:12:34](/episodes/ep-NIEbqsLAK8g.md#t-00-11-56) [◐] (Claim) ["Nelda and Karl Buckman, who live in New Braunfels, donated $10 million to Turnin..."](/statements/statement-8b0459b08316.md)
+- [00:12:34](/episodes/ep-NIEbqsLAK8g.md#t-00-12-12) [◐] (Claim) ["Nelda and Karl Buckman, who live in New Braunfels, donated $10 million to Turnin..."](/statements/statement-8b0459b08316.md)
   - About: [Nelda Yaw Buckman](/entities/person-nelda-yaw-buckman.md), [Karl Buckman](/entities/person-karl-buckman.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:12:53](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40) [○] (Claim) ["Dan Flood lives in New Braunfels, Texas, and attended middle and high school in ..."](/statements/statement-83305badaf78.md)
+- [00:12:53](/episodes/ep-NIEbqsLAK8g.md#t-00-12-53) [○] (Claim) ["Dan Flood lives in New Braunfels, Texas, and attended middle and high school in ..."](/statements/statement-83305badaf78.md)
   - About: [Dan Flood](/entities/person-dan-flood.md), [New Braunfels](/entities/gpe-new-braunfels-texas.md), [Allen, Texas](/entities/gpe-allen-texas.md)
 
-- [00:14:09](/episodes/ep-NIEbqsLAK8g.md#t-00-14-04) [○] (Claim) ["All of Charlie Kirk's security personnel on the day of his assassination, includ..."](/statements/statement-cb561dcf34d6.md)
+- [00:14:09](/episodes/ep-NIEbqsLAK8g.md#t-00-13-35) [○] (Claim) ["All of Charlie Kirk's security personnel on the day of his assassination, includ..."](/statements/statement-cb561dcf34d6.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Rick Cutler](/entities/person-rick-cutler.md), [Dan Flood](/entities/person-dan-flood.md)
 
-- [00:29:45](/episodes/ep-NIEbqsLAK8g.md#t-00-29-00) [○] (Accusation) ["Turning Point USA and its security representatives are lying about the drones an..."](/statements/statement-73e35afd8842.md)
+- [00:29:45](/episodes/ep-NIEbqsLAK8g.md#t-00-29-42) [○] (Accusation) ["Turning Point USA and its security representatives are lying about the drones an..."](/statements/statement-73e35afd8842.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Brian Harpole](/entities/person-brian-harpole.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
-- [00:32:01](/episodes/ep-NIEbqsLAK8g.md#t-00-31-25) [○] (Claim) ["Candace Owens reported that Turning Point USA's official response said Erika Kir..."](/statements/statement-d5bf18c557bc.md)
+- [00:32:01](/episodes/ep-NIEbqsLAK8g.md#t-00-31-23) [○] (Claim) ["Candace Owens reported that Turning Point USA's official response said Erika Kir..."](/statements/statement-d5bf18c557bc.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [China](/entities/gpe-china.md)
 
 - [00:36:35](/episodes/ep-NIEbqsLAK8g.md#t-00-35-58) [✓] (Claim) ["Israel will honor Charlie Kirk with an award for opposing antisemitism."](/statements/statement-e5b54027305b.md)
@@ -23421,13 +23473,13 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:37:13](/episodes/ep-NIEbqsLAK8g.md#t-00-36-35) [○] (Claim) ["Turning Point USA purged employees it mistakenly believed were giving informatio..."](/statements/statement-748e6baffd52.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Candace Owens](/entities/person-candace-owens.md)
 
-- [00:42:55](/episodes/ep-NIEbqsLAK8g.md#t-00-42-16) [○] (Opinion) ["Erika Kirk is not leading Turning Point USA in the direction Charlie Kirk would ..."](/statements/statement-77061ecc2cfa.md)
+- [00:42:55](/episodes/ep-NIEbqsLAK8g.md#t-00-42-22) [○] (Opinion) ["Erika Kirk is not leading Turning Point USA in the direction Charlie Kirk would ..."](/statements/statement-77061ecc2cfa.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
 
 <details>
-<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (34)</summary>
+<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (35)</summary>
 
 - [00:00:28](/episodes/ep-X92MllIHDzw.md#t-00-00-00) [✓] (Claim) ["Candace Owens says Erika Kirk disputes the narrative that she was at Fort Huachu..."](/statements/statement-8759d87a53d4.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
@@ -23515,6 +23567,9 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:40:32](/episodes/ep-X92MllIHDzw.md#t-00-40-14) [◐] (Accusation) ["Oh, I just got a quarter-million in Bitcoin from France from a guy who killed hi..."](/statements/statement-b212a8de94e1.md)
   - About: [Nick Fuentes](/entities/person-nick-fuentes.md), [France](/entities/gpe-france.md)
 
+- [00:44:18](/episodes/ep-X92MllIHDzw.md#t-00-44-18) [○] (Opinion) ["Candace Owens says Nick Fuentes told her that people from sub-Saharan Africa do ..."](/statements/statement-e65d3024fc54.md)
+  - About: [Nick Fuentes](/entities/person-nick-fuentes.md)
+
 - [00:55:26](/episodes/ep-X92MllIHDzw.md#t-00-54-47) [○] (Claim) ["Candace Owens was placed in an extraordinary learners program after a high test ..."](/statements/statement-1f227ca94102.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [King School](/entities/org-king-school-stamford.md)
 
@@ -23547,16 +23602,16 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:04:48](/episodes/ep-2T39-oADLj0.md#t-00-04-29) [○] (Accusation) ["The feminist protests Owens was discussing were sponsored by men in government."](/statements/statement-09c6e868618b.md)
   - About: [Feminism](/entities/concept-feminism.md)
 
-- [00:05:41](/episodes/ep-2T39-oADLj0.md#t-00-05-13) [✓] (Claim) ["Emma Goldman was Margaret Sanger's mentor."](/statements/statement-d4c9228da759.md)
+- [00:05:41](/episodes/ep-2T39-oADLj0.md#t-00-05-00) [✓] (Claim) ["Emma Goldman was Margaret Sanger's mentor."](/statements/statement-d4c9228da759.md)
   - About: [Emma Goldman](/entities/person-emma-goldman.md), [Margaret Sanger](/entities/person-margaret-sanger.md)
 
-- [00:06:35](/episodes/ep-2T39-oADLj0.md#t-00-06-19) [◐] (Claim) ["Women are more miserable than they have ever been."](/statements/statement-b79132b86ecf.md)
+- [00:06:35](/episodes/ep-2T39-oADLj0.md#t-00-06-20) [◐] (Claim) ["Women are more miserable than they have ever been."](/statements/statement-b79132b86ecf.md)
   - About: [Feminism](/entities/concept-feminism.md)
 
 - [00:07:40](/episodes/ep-2T39-oADLj0.md#t-00-07-35) [○] (Claim) ["The University of Rhode Island required Candace Owens to take a Women's Studies ..."](/statements/statement-c5abd0e3c5c6.md)
   - About: [University of Rhode Island](/entities/org-university-of-rhode-island.md), [Candace Owens](/entities/person-candace-owens.md)
 
-- [00:12:39](/episodes/ep-2T39-oADLj0.md#t-00-11-56) [◐] (Claim) ["Girls begin speaking earlier than boys, and women speak more words than men thro..."](/statements/statement-9c4e6cce5617.md)
+- [00:12:39](/episodes/ep-2T39-oADLj0.md#t-00-12-36) [◐] (Claim) ["Girls begin speaking earlier than boys, and women speak more words than men thro..."](/statements/statement-9c4e6cce5617.md)
   - About: [Feminism](/entities/concept-feminism.md)
 
 - [00:14:54](/episodes/ep-2T39-oADLj0.md#t-00-14-14) [✗] (Claim) ["The ten women after the world's richest woman became rich because of whom they d..."](/statements/statement-7ada138a7c26.md)
@@ -23619,7 +23674,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:52:43](/episodes/ep-2T39-oADLj0.md#t-00-52-09) [○] (Accusation) ["Charlie Kirk's assassination was a military hit."](/statements/statement-3a399e27bdc8.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [United States Armed Forces](/entities/org-united-states-armed-forces.md)
 
-- [00:54:16](/episodes/ep-2T39-oADLj0.md#t-00-53-48) [◐] (Accusation) ["Calvary Chapel has repeatedly been accused of hostile takeovers of faith organiz..."](/statements/statement-069dad6c023a.md)
+- [00:54:16](/episodes/ep-2T39-oADLj0.md#t-00-53-48) [◐] (Accusation) ["Owens said it looked like Calvary Chapel had previously been accused of hostile ..."](/statements/statement-069dad6c023a.md)
   - About: [Calvary Chapel](/entities/org-calvary-chapel.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 - [00:55:59](/episodes/ep-2T39-oADLj0.md#t-00-55-36) [◐] (Accusation) ["People around Turning Point USA lied about the Hamptons summit and Charlie Kirk'..."](/statements/statement-92f56347a9ec.md)
@@ -23658,118 +23713,124 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 </details>
 
 <details>
-<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (15)</summary>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (16)</summary>
 
 - [00:00:19](/episodes/ep-BKcOm32ZEGk.md#t-00-00-00) [✗] (Claim) ["Fruit of the Loom's logo had a cornucopia."](/statements/statement-f364442bc84a.md)
   - About: [Fruit of the Loom](/entities/org-fruit-of-the-loom.md)
 
-- [00:02:36](/episodes/ep-BKcOm32ZEGk.md#t-00-01-59) [○] (Claim) ["Charlie Kirk repeatedly told Candace Owens that he was a time traveler."](/statements/statement-9afdb0bd9fc3.md)
+- [00:02:36](/episodes/ep-BKcOm32ZEGk.md#t-00-01-56) [○] (Claim) ["Charlie Kirk repeatedly told Candace Owens that he was a time traveler."](/statements/statement-9afdb0bd9fc3.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
 
-- [00:03:19](/episodes/ep-BKcOm32ZEGk.md#t-00-02-43) [○] (Claim) ["Before he had much fame, Charlie Kirk was required to have security with him at ..."](/statements/statement-d72077f27f3f.md)
+- [00:03:19](/episodes/ep-BKcOm32ZEGk.md#t-00-03-19) [○] (Claim) ["Before he had much fame, Charlie Kirk was required to have security with him at ..."](/statements/statement-d72077f27f3f.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Bill Montgomery](/entities/person-bill-montgomery.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:03:48](/episodes/ep-BKcOm32ZEGk.md#t-00-03-28) [✓] (Claim) ["Charlie Kirk wanted to attend West Point but instead started Turning Point USA w..."](/statements/statement-4de814e967b1.md)
+- [00:03:48](/episodes/ep-BKcOm32ZEGk.md#t-00-03-19) [✓] (Claim) ["Charlie Kirk wanted to attend West Point but instead started Turning Point USA w..."](/statements/statement-4de814e967b1.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [United States Military Academy](/entities/org-united-states-military-academy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:04:44](/episodes/ep-BKcOm32ZEGk.md#t-00-04-10) [○] (Opinion) ["Based on her conversations with Charlie Kirk, Candace Owens believes he had been..."](/statements/statement-578962b6dc1a.md)
+- [00:04:18](/episodes/ep-BKcOm32ZEGk.md#t-00-03-54) [?] (Claim) ["When Charlie Kirk was young, adults wanted to drug him; his mother refused, and ..."](/statements/statement-7fad0c9ade03.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [00:04:44](/episodes/ep-BKcOm32ZEGk.md#t-00-04-21) [○] (Opinion) ["Based on her conversations with Charlie Kirk, Candace Owens believes he had been..."](/statements/statement-578962b6dc1a.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
 
 - [00:19:52](/episodes/ep-BKcOm32ZEGk.md#t-00-19-48) [✓] (Accusation) ["The script for The Matrix was allegedly stolen."](/statements/statement-3d6f8ab67f82.md)
   - About: [The Matrix](/entities/work-the-matrix.md)
 
-- [00:22:27](/episodes/ep-BKcOm32ZEGk.md#t-00-21-57) [○] (Accusation) ["People managing Charlie Kirk panicked when he began pushing back and decided to ..."](/statements/statement-be49665a1d41.md)
+- [00:22:27](/episodes/ep-BKcOm32ZEGk.md#t-00-21-49) [○] (Accusation) ["People managing Charlie Kirk seemed to panic when he began pushing back and, acc..."](/statements/statement-be49665a1d41.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
-- [00:24:11](/episodes/ep-BKcOm32ZEGk.md#t-00-24-06) [◐] (Accusation) ["COVID-19 was created in a lab, people were made sick, and people were forced to ..."](/statements/statement-ee790d7aa477.md)
+- [00:24:11](/episodes/ep-BKcOm32ZEGk.md#t-00-23-59) [◐] (Accusation) ["COVID-19 was created in a lab, people were made sick, and people were forced to ..."](/statements/statement-ee790d7aa477.md)
   - About: [COVID-19](/entities/concept-covid-19.md)
 
-- [00:28:16](/episodes/ep-BKcOm32ZEGk.md#t-00-28-10) [○] (Claim) ["Candace Owens lost a job partly because she said pornography was a spiritual wea..."](/statements/statement-86cf5bc991df.md)
+- [00:28:16](/episodes/ep-BKcOm32ZEGk.md#t-00-28-15) [○] (Claim) ["Candace Owens lost a job partly because she said pornography was a spiritual wea..."](/statements/statement-86cf5bc991df.md)
   - About: [Candace Owens](/entities/person-candace-owens.md)
 
-- [00:32:19](/episodes/ep-BKcOm32ZEGk.md#t-00-31-40) [◐] (Citation) ["A Spectator UK article argued that COVID-19 was established to mirror a religion..."](/statements/statement-1d6a5f522fbd.md)
+- [00:32:19](/episodes/ep-BKcOm32ZEGk.md#t-00-32-19) [◐] (Citation) ["A Spectator UK article argued that COVID-19 was established to mirror a religion..."](/statements/statement-1d6a5f522fbd.md)
   - About: [The Spectator](/entities/org-the-spectator.md), [COVID-19](/entities/concept-covid-19.md)
 
-- [00:36:37](/episodes/ep-BKcOm32ZEGk.md#t-00-36-37) [✓] (Citation) ["An article read during the episode reported that a satanic human-sacrifice scene..."](/statements/statement-ba91c8450d69.md)
+- [00:36:37](/episodes/ep-BKcOm32ZEGk.md#t-00-36-32) [✓] (Citation) ["An article read during the episode reported that a satanic human-sacrifice scene..."](/statements/statement-ba91c8450d69.md)
   - About: [CERN](/entities/org-cern.md)
 
-- [00:43:19](/episodes/ep-BKcOm32ZEGk.md#t-00-42-53) [✓] (Accusation) ["Mike Pompeo discussed options to take out Julian Assange."](/statements/statement-a3341945112a.md)
+- [00:43:19](/episodes/ep-BKcOm32ZEGk.md#t-00-43-19) [✓] (Accusation) ["Mike Pompeo discussed options to take out Julian Assange."](/statements/statement-a3341945112a.md)
   - About: [Mike Pompeo](/entities/person-mike-pompeo.md), [Julian Assange](/entities/person-julian-assange.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
 
-- [00:43:25](/episodes/ep-BKcOm32ZEGk.md#t-00-42-53) [◐] (Accusation) ["Mike Pompeo was arguing that future history books should omit the killing of Pal..."](/statements/statement-881ef72df2a3.md)
+- [00:43:25](/episodes/ep-BKcOm32ZEGk.md#t-00-43-19) [◐] (Accusation) ["Mike Pompeo was arguing that future history books should omit the killing of Pal..."](/statements/statement-881ef72df2a3.md)
   - About: [Mike Pompeo](/entities/person-mike-pompeo.md), [Palestine](/entities/gpe-palestine.md), [Gaza](/entities/gpe-gaza.md)
 
-- [00:50:38](/episodes/ep-BKcOm32ZEGk.md#t-00-50-21) [◐] (Claim) ["In 2024, YouTube demonetized Candace Owens."](/statements/statement-4fa9721c2695.md)
+- [00:50:38](/episodes/ep-BKcOm32ZEGk.md#t-00-50-38) [◐] (Claim) ["In 2024, YouTube demonetized Candace Owens."](/statements/statement-4fa9721c2695.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [YouTube](/entities/org-youtube.md)
 
-- [00:51:12](/episodes/ep-BKcOm32ZEGk.md#t-00-51-05) [◐] (Accusation) ["In 2024, people tried to cancel Candace Owens's speaking events and threatened o..."](/statements/statement-4577e71e1f23.md)
+- [00:51:12](/episodes/ep-BKcOm32ZEGk.md#t-00-51-12) [◐] (Accusation) ["In 2024, people tried to cancel Candace Owens's speaking events and threatened o..."](/statements/statement-4577e71e1f23.md)
   - About: [Candace Owens](/entities/person-candace-owens.md)
 
 </details>
 
 <details>
-<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (29)</summary>
+<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (30)</summary>
 
 - [00:00:25](/episodes/ep-ZZGWo6oDscc.md#t-00-00-00) [○] (Opinion) ["I don't like Turning Point Faith; I'm an enemy of Turning Point Faith."](/statements/statement-b5678d64141f.md)
   - About: [Turning Point Faith](/entities/org-turning-point-faith.md)
 
-- [00:01:58](/episodes/ep-ZZGWo6oDscc.md#t-00-01-23) [○] (Claim) ["Bill Ackman confirmed that he gave a presentation encouraging younger generation..."](/statements/statement-4c4334b7bc81.md)
+- [00:01:58](/episodes/ep-ZZGWo6oDscc.md#t-00-01-19) [○] (Claim) ["Bill Ackman confirmed that he gave a presentation encouraging younger generation..."](/statements/statement-4c4334b7bc81.md)
   - About: [Bill Ackman](/entities/person-bill-ackman.md), [Land grab](/entities/concept-land-grab.md)
 
-- [00:03:18](/episodes/ep-ZZGWo6oDscc.md#t-00-03-11) [◐] (Accusation) ["War with Iran is back on the table because Israel wants it."](/statements/statement-120b0bd48279.md)
+- [00:03:18](/episodes/ep-ZZGWo6oDscc.md#t-00-03-04) [◐] (Accusation) ["War with Iran is back on the table because Israel wants it."](/statements/statement-120b0bd48279.md)
   - About: [Israel](/entities/gpe-israel.md), [Iran](/entities/gpe-iran.md)
 
-- [00:03:30](/episodes/ep-ZZGWo6oDscc.md#t-00-03-11) [◐] (Claim) ["According to Tucker Carlson and others, Charlie Kirk went head-to-head with Benj..."](/statements/statement-b2921bff7c51.md)
+- [00:03:30](/episodes/ep-ZZGWo6oDscc.md#t-00-03-04) [◐] (Claim) ["According to Tucker Carlson and others, Charlie Kirk went head-to-head with Benj..."](/statements/statement-b2921bff7c51.md)
   - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 
-- [00:07:11](/episodes/ep-ZZGWo6oDscc.md#t-00-07-08) [◐] (Accusation) ["I think personally he's got the largest blackmail file, whatever Israel has on h..."](/statements/statement-7c2487d3cfc3.md)
+- [00:07:11](/episodes/ep-ZZGWo6oDscc.md#t-00-07-06) [◐] (Accusation) ["I think personally he's got the largest blackmail file, whatever Israel has on h..."](/statements/statement-7c2487d3cfc3.md)
   - About: [Lindsey Graham](/entities/person-lindsey-graham.md), [Israel](/entities/gpe-israel.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
-- [00:10:15](/episodes/ep-ZZGWo6oDscc.md#t-00-09-30) [○] (Claim) ["The aircraft SU-BTU flew into Provo after May 27 with Walid Mahmoud aboard."](/statements/statement-7d7f3b51147c.md)
+- [00:10:15](/episodes/ep-ZZGWo6oDscc.md#t-00-10-10) [○] (Claim) ["The aircraft SU-BTU flew into Provo after May 27 with Walid Mahmoud aboard."](/statements/statement-7d7f3b51147c.md)
   - About: [SU-BTU](/entities/vehicle-su-btu.md), [Provo](/entities/gpe-provo.md), [Egypt](/entities/gpe-egypt.md)
 
-- [00:10:24](/episodes/ep-ZZGWo6oDscc.md#t-00-10-15) [◐] (Claim) ["Aircraft can trick their transponders, and the relevant flights to Provo do not ..."](/statements/statement-c27c15b8cb80.md)
+- [00:10:24](/episodes/ep-ZZGWo6oDscc.md#t-00-10-10) [◐] (Claim) ["Aircraft can trick their transponders, and the relevant flights to Provo do not ..."](/statements/statement-c27c15b8cb80.md)
   - About: [SU-BTU](/entities/vehicle-su-btu.md), [Provo](/entities/gpe-provo.md), [Cairo](/entities/gpe-cairo.md)
 
-- [00:12:25](/episodes/ep-ZZGWo6oDscc.md#t-00-11-44) [○] (Citation) ["On June 19, Erika Kirk deleted 126 Instagram posts, according to Social Blade."](/statements/statement-e19b9bb16ace.md)
+- [00:12:25](/episodes/ep-ZZGWo6oDscc.md#t-00-12-06) [○] (Citation) ["On June 19, Erika Kirk deleted 126 Instagram posts, according to Social Blade."](/statements/statement-e19b9bb16ace.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Instagram](/entities/org-instagram.md), [Social Blade](/entities/org-social-blade.md)
 
-- [00:13:31](/episodes/ep-ZZGWo6oDscc.md#t-00-13-05) [◐] (Accusation) ["The CIA and Mossad are manufacturing a color revolution in Iran and pretending i..."](/statements/statement-7735fd0be3a8.md)
+- [00:13:31](/episodes/ep-ZZGWo6oDscc.md#t-00-12-51) [◐] (Accusation) ["I might actually believe Iran's protests were organic if the CIA and Mossad used..."](/statements/statement-7735fd0be3a8.md)
   - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Mossad](/entities/org-mossad.md), [Iran](/entities/gpe-iran.md)
 
-- [00:14:12](/episodes/ep-ZZGWo6oDscc.md#t-00-13-49) [○] (Accusation) ["Charlie Kirk's assassination was good for Benjamin Netanyahu's war ambitions in ..."](/statements/statement-ba3417f20e97.md)
+- [00:14:12](/episodes/ep-ZZGWo6oDscc.md#t-00-13-31) [○] (Accusation) ["Charlie Kirk's assassination was good for Benjamin Netanyahu's war ambitions in ..."](/statements/statement-ba3417f20e97.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Iran](/entities/gpe-iran.md)
 
-- [00:15:42](/episodes/ep-ZZGWo6oDscc.md#t-00-15-13) [✓] (Citation) ["A December 2024 court petition challenged the last will, testament, and trust of..."](/statements/statement-5a11a9e8c496.md)
+- [00:15:42](/episodes/ep-ZZGWo6oDscc.md#t-00-15-12) [✓] (Citation) ["A December 2024 court petition challenged the last will, testament, and trust of..."](/statements/statement-5a11a9e8c496.md)
   - About: [Alton C. Jennings](/entities/person-alton-c-jennings.md)
 
-- [00:16:38](/episodes/ep-ZZGWo6oDscc.md#t-00-15-58) [✓] (Claim) ["Mitch Manley Jr., the caretaker's son, was working for Turning Point USA on Char..."](/statements/statement-6e6155a9c6df.md)
+- [00:16:38](/episodes/ep-ZZGWo6oDscc.md#t-00-16-23) [✓] (Claim) ["Mitch Manley Jr., the caretaker's son, was working for Turning Point USA on Char..."](/statements/statement-6e6155a9c6df.md)
   - About: [Mitch Manley Jr.](/entities/person-mitch-manley-jr.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Mitchell Manley Sr.](/entities/person-mitchell-manley-sr.md)
 
-- [00:19:47](/episodes/ep-ZZGWo6oDscc.md#t-00-19-30) [✓] (Claim) ["Paul E. Vallely was a military commander of the 7th Psychological Operations Gro..."](/statements/statement-cf3bd1ed90b0.md)
+- [00:19:30](/episodes/ep-ZZGWo6oDscc.md#t-00-19-09) [◐] (Claim) ["Paul E. Vallely, a Turning Point USA board member and former commander of the 7t..."](/statements/statement-8e69357e3b15.md)
+  - About: [Paul E. Vallely](/entities/person-paul-e-vallely.md), [Michael Aquino](/entities/person-michael-aquino.md), [MindWar](/entities/work-mindwar.md)
+
+- [00:19:47](/episodes/ep-ZZGWo6oDscc.md#t-00-19-09) [✓] (Claim) ["Paul E. Vallely was a military commander of the 7th Psychological Operations Gro..."](/statements/statement-cf3bd1ed90b0.md)
   - About: [Paul E. Vallely](/entities/person-paul-e-vallely.md), [7th Psychological Operations Group](/entities/org-7th-psychological-operations-group.md)
 
-- [00:20:07](/episodes/ep-ZZGWo6oDscc.md#t-00-19-30) [◐] (Accusation) ["The U.S. military runs mind wars, and military-operated internet farms and bots ..."](/statements/statement-8f716ef30cf8.md)
+- [00:20:07](/episodes/ep-ZZGWo6oDscc.md#t-00-19-47) [◐] (Accusation) ["The U.S. military runs mind wars, and Candace Owens suggested military-run inter..."](/statements/statement-8f716ef30cf8.md)
   - About: [United States Armed Forces](/entities/org-united-states-armed-forces.md), [Psychological operations](/entities/concept-psychological-operations.md), [Dead Internet theory](/entities/concept-dead-internet-theory.md)
 
-- [00:22:05](/episodes/ep-ZZGWo6oDscc.md#t-00-21-21) [◐] (Accusation) ["The moon landing and the Manson murders were military operations."](/statements/statement-ea198cc13b65.md)
+- [00:22:05](/episodes/ep-ZZGWo6oDscc.md#t-00-21-58) [◐] (Accusation) ["The moon landing and the Manson murders were military operations."](/statements/statement-ea198cc13b65.md)
   - About: [United States Armed Forces](/entities/org-united-states-armed-forces.md), [Psychological operations](/entities/concept-psychological-operations.md), [CHAOS: Charles Manson, the CIA, and the Secret History of the Sixties](/entities/work-chaos-charles-manson-cia-secret-history.md)
 
-- [00:22:22](/episodes/ep-ZZGWo6oDscc.md#t-00-22-07) [✓] (Claim) ["Michael Aquino joined the Church of Satan in 1969, became editor of The Cloven H..."](/statements/statement-d9193d15f876.md)
+- [00:22:22](/episodes/ep-ZZGWo6oDscc.md#t-00-21-58) [✓] (Claim) ["Michael Aquino joined the Church of Satan in 1969, became editor of The Cloven H..."](/statements/statement-d9193d15f876.md)
   - About: [Michael Aquino](/entities/person-michael-aquino.md), [Church of Satan](/entities/org-church-of-satan.md), [The Cloven Hoof](/entities/work-the-cloven-hoof.md)
 
-- [00:27:54](/episodes/ep-ZZGWo6oDscc.md#t-00-27-22) [✓] (Accusation) ["The San Francisco police investigated sexual-abuse allegations connected to the ..."](/statements/statement-dd1511335777.md)
+- [00:27:54](/episodes/ep-ZZGWo6oDscc.md#t-00-27-11) [✓] (Accusation) ["The San Francisco police investigated sexual-abuse allegations connected to the ..."](/statements/statement-dd1511335777.md)
   - About: [Michael Aquino](/entities/person-michael-aquino.md), [San Francisco Police Department](/entities/org-san-francisco-police-department.md), [Presidio Child Development Center](/entities/org-presidio-child-development-center.md)
 
-- [00:28:26](/episodes/ep-ZZGWo6oDscc.md#t-00-28-05) [◐] (Claim) ["Fort Huachuca is a hub for Army intelligence and psychological operations and ha..."](/statements/statement-5b5e6a75a4ae.md)
+- [00:28:26](/episodes/ep-ZZGWo6oDscc.md#t-00-28-26) [◐] (Claim) ["Fort Huachuca is a hub for Army intelligence and psychological operations and ha..."](/statements/statement-5b5e6a75a4ae.md)
   - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [United States Army](/entities/org-united-states-army.md), [Psychological operations](/entities/concept-psychological-operations.md)
 
-- [00:30:47](/episodes/ep-ZZGWo6oDscc.md#t-00-30-03) [◐] (Claim) ["Peer-reviewed studies identified direct connections between antiparasitic medica..."](/statements/statement-bad3e03873d9.md)
+- [00:30:47](/episodes/ep-ZZGWo6oDscc.md#t-00-30-18) [◐] (Claim) ["Peer-reviewed studies identified direct connections between antiparasitic medica..."](/statements/statement-bad3e03873d9.md)
 
-- [00:31:08](/episodes/ep-ZZGWo6oDscc.md#t-00-30-47) [✓] (Citation) ["The CDC has admitted that millions of Americans suffer parasitic infections that..."](/statements/statement-468ada009e16.md)
+- [00:31:08](/episodes/ep-ZZGWo6oDscc.md#t-00-31-02) [✓] (Citation) ["The CDC has admitted that millions of Americans suffer parasitic infections that..."](/statements/statement-468ada009e16.md)
   - About: [Centers for Disease Control and Prevention](/entities/org-centers-for-disease-control-and-prevention.md)
 
-- [00:33:28](/episodes/ep-ZZGWo6oDscc.md#t-00-32-45) [✓] (Citation) ["There are 12 lawsuits alleging abuse of young men at a Romanian children's home ..."](/statements/statement-21fc0bb38b00.md)
+- [00:33:28](/episodes/ep-ZZGWo6oDscc.md#t-00-32-44) [✓] (Citation) ["There are 12 lawsuits alleging abuse of young men at a Romanian children's home ..."](/statements/statement-21fc0bb38b00.md)
   - About: [Greg Laurie](/entities/person-greg-laurie.md), [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md), [Romania](/entities/gpe-romania.md)
 
 - [00:33:47](/episodes/ep-ZZGWo6oDscc.md#t-00-33-28) [✓] (Accusation) ["Lawsuits allege that former Harvest Christian Fellowship pastor and missionary P..."](/statements/statement-a151346748f0.md)
@@ -23778,22 +23839,22 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:34:40](/episodes/ep-ZZGWo6oDscc.md#t-00-34-07) [✓] (Accusation) ["Court documents claim Greg Laurie and Harvest Christian Fellowship funded Paul H..."](/statements/statement-9c5ee77bc192.md)
   - About: [Greg Laurie](/entities/person-greg-laurie.md), [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md), [Paul Havsgaard](/entities/person-paul-havsgaard.md)
 
-- [00:35:51](/episodes/ep-ZZGWo6oDscc.md#t-00-35-31) [◐] (Accusation) ["South Korean women filed an unprecedented lawsuit accusing the U.S. military of ..."](/statements/statement-611bc4c6e701.md)
+- [00:35:51](/episodes/ep-ZZGWo6oDscc.md#t-00-35-48) [◐] (Accusation) ["South Korean women filed an unprecedented lawsuit accusing the U.S. military of ..."](/statements/statement-611bc4c6e701.md)
   - About: [United States Armed Forces](/entities/org-united-states-armed-forces.md), [South Korea](/entities/gpe-south-korea.md)
 
-- [00:37:04](/episodes/ep-ZZGWo6oDscc.md#t-00-36-53) [◐] (Accusation) ["Turning Point USA welcomes pastors who appear to be rehabilitating pedophiles."](/statements/statement-b6cf54701c63.md)
+- [00:37:04](/episodes/ep-ZZGWo6oDscc.md#t-00-36-29) [◐] (Accusation) ["Turning Point USA welcomes pastors who appear to be rehabilitating pedophiles."](/statements/statement-b6cf54701c63.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Turning Point Faith](/entities/org-turning-point-faith.md), [Greg Laurie](/entities/person-greg-laurie.md)
 
-- [00:38:10](/episodes/ep-ZZGWo6oDscc.md#t-00-37-38) [✓] (Claim) ["Dilbert creator Scott Adams died at age 68 after losing his battle with prostate..."](/statements/statement-32fdd954d048.md)
+- [00:38:10](/episodes/ep-ZZGWo6oDscc.md#t-00-37-43) [✓] (Claim) ["Dilbert creator Scott Adams died at age 68 after losing his battle with prostate..."](/statements/statement-32fdd954d048.md)
   - About: [Scott Adams](/entities/person-scott-adams.md), [Dilbert](/entities/work-dilbert.md)
 
 - [00:43:18](/episodes/ep-ZZGWo6oDscc.md#t-00-42-43) [○] (Accusation) ["Those in power prefer vaccines, pollution, and chemicals as methods for making A..."](/statements/statement-32332db35e40.md)
   - About: [United States](/entities/gpe-united-states.md), [Global governance](/entities/concept-global-governance.md)
 
-- [00:49:42](/episodes/ep-ZZGWo6oDscc.md#t-00-49-04) [◐] (Accusation) ["The government protects its own and protected Jeffrey Epstein; if Andrew Tate an..."](/statements/statement-3b563919285d.md)
+- [00:49:42](/episodes/ep-ZZGWo6oDscc.md#t-00-49-40) [◐] (Accusation) ["The government protects its own and protected Jeffrey Epstein; if Andrew Tate an..."](/statements/statement-3b563919285d.md)
   - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Andrew Tate](/entities/person-andrew-tate.md), [Tristan Tate](/entities/person-tristan-tate.md)
 
-- [00:50:32](/episodes/ep-ZZGWo6oDscc.md#t-00-50-30) [◐] (Claim) ["Pornography is part of a psychological operation and renders men weaker."](/statements/statement-e501a3b4e04d.md)
+- [00:50:32](/episodes/ep-ZZGWo6oDscc.md#t-00-50-22) [◐] (Claim) ["Pornography is part of a psychological operation and renders men weaker."](/statements/statement-e501a3b4e04d.md)
   - About: [Pornography](/entities/concept-pornography.md), [Psychological operations](/entities/concept-psychological-operations.md), [Catholicism](/entities/concept-catholicism.md)
 
 </details>
@@ -23962,7 +24023,7 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 - [00:12:20](/episodes/ep-wcD2khO3rOA.md#t-00-12-10) [◐] (Claim) ["Tyler Bowyer traveled to Romania in 2011 to work with the Romanian government an..."](/statements/statement-dee027851b21.md)
   - About: [Tyler Bowyer](/entities/person-tyler-bowyer.md), [Romania](/entities/gpe-romania.md), [Ukraine](/entities/gpe-ukraine.md)
 
-- [00:13:35](/episodes/ep-wcD2khO3rOA.md#t-00-12-53) [✓] (Accusation) ["Turning Point Faith works with Greg Laurie while Harvest Christian Fellowship fa..."](/statements/statement-6141210a0ed9.md)
+- [00:13:35](/episodes/ep-wcD2khO3rOA.md#t-00-12-53) [✓] (Accusation) ["Turning Point Faith is partnering with Greg Laurie's Harvest Church while lawsui..."](/statements/statement-6141210a0ed9.md)
   - About: [Turning Point Faith](/entities/org-turning-point-faith.md), [Greg Laurie](/entities/person-greg-laurie.md), [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md)
 
 - [00:13:54](/episodes/ep-wcD2khO3rOA.md#t-00-13-35) [◐] (Claim) ["Andrew Kolvet’s brother Curtis is a lieutenant colonel stationed in Romania, and..."](/statements/statement-005748582539.md)
@@ -31613,18 +31674,18 @@ Source: [Candace Owens | Official Publisher Page | Simon & Schuster](https://www
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (5)</summary>
 
-- [00:02:36](/episodes/ep-BKcOm32ZEGk.md#t-00-01-59) (Claim) **Candace Owens**: ["Charlie Kirk repeatedly told Candace Owens that he was a time traveler..."](/statements/statement-9afdb0bd9fc3.md)
+- [00:02:36](/episodes/ep-BKcOm32ZEGk.md#t-00-01-56) (Claim) **Candace Owens**: ["Charlie Kirk repeatedly told Candace Owens that he was a time traveler..."](/statements/statement-9afdb0bd9fc3.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:04:44](/episodes/ep-BKcOm32ZEGk.md#t-00-04-10) (Opinion) **Candace Owens**: ["Based on her conversations with Charlie Kirk, Candace Owens believes h..."](/statements/statement-578962b6dc1a.md)
+- [00:04:44](/episodes/ep-BKcOm32ZEGk.md#t-00-04-21) (Opinion) **Candace Owens**: ["Based on her conversations with Charlie Kirk, Candace Owens believes h..."](/statements/statement-578962b6dc1a.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:28:16](/episodes/ep-BKcOm32ZEGk.md#t-00-28-10) (Claim) **Candace Owens**: ["Candace Owens lost a job partly because she said pornography was a spi..."](/statements/statement-86cf5bc991df.md)
+- [00:28:16](/episodes/ep-BKcOm32ZEGk.md#t-00-28-15) (Claim) **Candace Owens**: ["Candace Owens lost a job partly because she said pornography was a spi..."](/statements/statement-86cf5bc991df.md)
 
-- [00:50:38](/episodes/ep-BKcOm32ZEGk.md#t-00-50-21) (Claim) **Candace Owens**: ["In 2024, YouTube demonetized Candace Owens."](/statements/statement-4fa9721c2695.md)
+- [00:50:38](/episodes/ep-BKcOm32ZEGk.md#t-00-50-38) (Claim) **Candace Owens**: ["In 2024, YouTube demonetized Candace Owens."](/statements/statement-4fa9721c2695.md)
   - Also about: [YouTube](/entities/org-youtube.md)
 
-- [00:51:12](/episodes/ep-BKcOm32ZEGk.md#t-00-51-05) (Accusation) **Candace Owens**: ["In 2024, people tried to cancel Candace Owens's speaking events and th..."](/statements/statement-4577e71e1f23.md)
+- [00:51:12](/episodes/ep-BKcOm32ZEGk.md#t-00-51-12) (Accusation) **Candace Owens**: ["In 2024, people tried to cancel Candace Owens's speaking events and th..."](/statements/statement-4577e71e1f23.md)
 
 </details>
 

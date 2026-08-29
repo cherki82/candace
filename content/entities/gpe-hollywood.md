@@ -50,7 +50,7 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-gpe-hollywood-t-00-05-17" style="--pulse-height:20%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 3 mentions" title="2026-01-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-gpe-hollywood-t-00-14-48" style="--pulse-height:27%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 4 mentions" title="2026-01-07 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-hollywood-t-00-15-01" style="--pulse-height:27%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 4 mentions" title="2026-01-12 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-hollywood-t-00-21-21" style="--pulse-height:13%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-hollywood-t-00-21-58" style="--pulse-height:13%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-hollywood-t-00-35-50" style="--pulse-height:13%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-hollywood-t-00-20-19" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-gpe-hollywood-t-00-24-17" style="--pulse-height:33%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 5 mentions" title="2026-01-21 · 5 mentions"><span></span></a>
@@ -96,7 +96,7 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-gpe-hollywood-t-00-05-17) | 3 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-gpe-hollywood-t-00-14-48) | 4 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-hollywood-t-00-15-01) | 4 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-hollywood-t-00-21-21) | 2 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-hollywood-t-00-21-58) | 2 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-hollywood-t-00-35-50) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-hollywood-t-00-20-19) | 1 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-gpe-hollywood-t-00-24-17) | 5 |
@@ -515,7 +515,7 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 <details>
 <summary>Myron Gaines x Candace Owens (1 mentions)</summary>
 
-**[00:20:53](/episodes/ep-2T39-oADLj0.md#ent-gpe-hollywood-t-00-20-19)**
+**[00:20:49](/episodes/ep-2T39-oADLj0.md#ent-gpe-hollywood-t-00-20-19)**
 > "He had access to Hollywood."
 
 </details>
@@ -523,7 +523,7 @@ Source: [Hollywood Community Plan - City of Los Angeles](https://planning.lacity
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2 mentions)</summary>
 
-**[00:21:58](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-hollywood-t-00-21-21)**
+**[00:21:58](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-hollywood-t-00-21-58)**
 > "This is what established Hollywood."
 
 **[00:26:12](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-hollywood-t-00-25-58)**

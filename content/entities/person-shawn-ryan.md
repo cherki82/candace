@@ -43,7 +43,7 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 <a href="/episodes/ep-his-JBjlkh8.md#ent-person-shawn-ryan-t-00-08-43" style="--pulse-height:10%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-person-shawn-ryan-t-00-40-54" style="--pulse-height:30%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 3 mentions" title="2025-12-17 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-shawn-ryan-t-00-00-57" style="--pulse-height:10%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-shawn-ryan-t-00-24-18" style="--pulse-height:10%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-shawn-ryan-t-00-24-14" style="--pulse-height:10%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-shawn-ryan-t-00-09-30" style="--pulse-height:10%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-shawn-ryan-t-00-59-20" style="--pulse-height:10%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-person-shawn-ryan-t-00-14-51" style="--pulse-height:100%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 10 mentions" title="2026-04-30 · 10 mentions"><span></span></a>
@@ -77,7 +77,7 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-shawn-ryan-t-00-08-43) | 1 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-shawn-ryan-t-00-40-54) | 3 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-shawn-ryan-t-00-00-57) | 1 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-shawn-ryan-t-00-24-18) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-shawn-ryan-t-00-24-14) | 1 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-shawn-ryan-t-00-09-30) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-shawn-ryan-t-00-59-20) | 1 |
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-person-shawn-ryan-t-00-14-51) | 10 |
@@ -351,7 +351,7 @@ Source: [Bio - Shawn Ryan Show](https://shawnryanshow.com/pages/bio)
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
 
-**[00:24:44](/episodes/ep-NIEbqsLAK8g.md#ent-person-shawn-ryan-t-00-24-18)**
+**[00:24:44](/episodes/ep-NIEbqsLAK8g.md#ent-person-shawn-ryan-t-00-24-14)**
 > "he moved to tell Sean Ryan that actually there were no drones because the university denied their request to fly them."
 
 </details>

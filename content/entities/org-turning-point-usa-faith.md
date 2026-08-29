@@ -1,6 +1,6 @@
 ---
 title: "Turning Point USA Faith"
-description: "Turning Point USA Faith (Organizations) - 73 mentions"
+description: "Turning Point USA Faith (Organizations) - 74 mentions"
 id: "org-turning-point-usa-faith"
 type: "ORG"
 aliases:
@@ -28,8 +28,8 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-adJ4LNGp84I.md#ent-org-turning-point-usa-faith-t-00-42-50">2025-10-01 · 00:43:09</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-org-turning-point-usa-faith-t-00-58-53">2026-06-24 · 00:59:22</a></strong></div>
-<div><span>Episodes</span><strong>17</strong></div>
-<div><span>Mentions</span><strong>73</strong></div>
+<div><span>Episodes</span><strong>18</strong></div>
+<div><span>Mentions</span><strong>74</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>17</strong></div>
@@ -49,6 +49,7 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-turning-point-usa-faith-t-00-32-07" style="--pulse-height:8%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-his-JBjlkh8.md#ent-org-turning-point-usa-faith-t-00-07-24" style="--pulse-height:12%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 2 mentions" title="2025-12-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-faith-t-00-18-07" style="--pulse-height:12%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 2 mentions" title="2025-12-18 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-org-turning-point-usa-faith-t-00-14-50" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#ent-org-turning-point-usa-faith-t-00-15-11" style="--pulse-height:8%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jsqUIkszZd0.md#ent-org-turning-point-usa-faith-t-00-00-00" style="--pulse-height:47%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 8 mentions" title="2026-04-14 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-org-turning-point-usa-faith-t-00-47-18" style="--pulse-height:8%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
@@ -71,6 +72,7 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-turning-point-usa-faith-t-00-32-07) | 1 |
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-turning-point-usa-faith-t-00-07-24) | 2 |
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-turning-point-usa-faith-t-00-18-07) | 2 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-turning-point-usa-faith-t-00-14-50) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#ent-org-turning-point-usa-faith-t-00-15-11) | 1 |
 | 2026-04-14 | [BREAKING: The ATF Traced A Gun On 9/10. Erika's "Friend" Wanted To Own Its Company. | Candace Ep 324](/episodes/ep-jsqUIkszZd0.md#ent-org-turning-point-usa-faith-t-00-00-00) | 8 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-org-turning-point-usa-faith-t-00-47-18) | 1 |
@@ -86,7 +88,7 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (73)</strong></summary>
+<summary><strong class="section-title">Raw mentions (74)</strong></summary>
 
 <details>
 <summary>Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355 (1 mentions)</summary>
@@ -191,6 +193,14 @@ Source: [About TPUSA Faith](https://tpusafaith.com/about/)
 
 **[00:15:11](/episodes/ep-B9TyCs-6o_0.md#ent-org-turning-point-usa-faith-t-00-15-11)**
 > "following Turning Point Faith events for years"
+
+</details>
+
+<details>
+<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (1 mentions)</summary>
+
+**[00:14:53](/episodes/ep-X92MllIHDzw.md#ent-org-turning-point-usa-faith-t-00-14-50)**
+> "turning point faith,"
 
 </details>
 

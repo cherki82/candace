@@ -1,11 +1,11 @@
 ---
 title: "Claims & Statements"
-description: "Browse 4042 factual claims and 6902 attributed statements"
+description: "Browse 4044 factual claims and 6905 attributed statements"
 ---
 
 # Claims & Statements
 
-_4042 factual claims within 6902 attributed statements._
+_4044 factual claims within 6905 attributed statements._
 
 [Open the filterable Claims Explorer](/index/claims) to browse claims by date, speaker, entity, and verification outcome.
 
@@ -53,7 +53,7 @@ _4042 factual claims within 6902 attributed statements._
 <div class="tab-content tab-content-bytype">
 
 <details open>
-<summary><strong class="section-title">Factual Claims (4042)</strong></summary>
+<summary><strong class="section-title">Factual Claims (4044)</strong></summary>
 
 <details>
 <summary>2026-08-21 · Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (21)</summary>
@@ -11146,61 +11146,61 @@ _4042 factual claims within 6902 attributed statements._
 
 <div class="filter-item">
 
-- [00:01:44](/episodes/ep-NIEbqsLAK8g.md#t-00-01-25) [○] **Anonymous Source #1 (Ep NIEbqsLAK8g)**: ["The email source claimed he knew Charlie Kirk was going to be assassinated."](/statements/statement-577795d1e8c1.md)
+- [00:01:44](/episodes/ep-NIEbqsLAK8g.md#t-00-01-15) [○] **Anonymous Source #1 (Ep NIEbqsLAK8g)**: ["The email source claimed he knew Charlie Kirk was going to be assassinated."](/statements/statement-577795d1e8c1.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item">
 
-- [00:02:28](/episodes/ep-NIEbqsLAK8g.md#t-00-02-06) [○] **Anonymous Source #1 (Ep NIEbqsLAK8g)**: ["The email source claimed Golda Meir and Lyndon B. Johnson were siblings."](/statements/statement-6fc4e471c12a.md)
+- [00:02:28](/episodes/ep-NIEbqsLAK8g.md#t-00-01-54) [○] **Anonymous Source #1 (Ep NIEbqsLAK8g)**: ["The email source claimed Golda Meir and Lyndon B. Johnson were siblings."](/statements/statement-6fc4e471c12a.md)
   - About: [Golda Meir](/entities/person-golda-meir.md), [Lyndon B. Johnson](/entities/person-lyndon-b-johnson.md)
 
 </div>
 <div class="filter-item">
 
-- [00:07:59](/episodes/ep-NIEbqsLAK8g.md#t-00-07-46) [○] **Candace Owens**: ["Candace Owens could not find Illinois news coverage mentioning Robert Eugene Flo..."](/statements/statement-27f37317e429.md)
+- [00:07:59](/episodes/ep-NIEbqsLAK8g.md#t-00-07-59) [○] **Candace Owens**: ["Candace Owens could not find Illinois news coverage mentioning Robert Eugene Flo..."](/statements/statement-27f37317e429.md)
   - About: [Robert Eugene Flood](/entities/person-robert-eugene-flood.md), [Illinois](/entities/gpe-illinois.md)
 
 </div>
 <div class="filter-item">
 
-- [00:11:37](/episodes/ep-NIEbqsLAK8g.md#t-00-11-11) [✓] **Candace Owens**: ["Greg Shaffer worked for the FBI Hostage Rescue Team, supervised the Dallas Joint..."](/statements/statement-69178e8428ef.md)
+- [00:11:37](/episodes/ep-NIEbqsLAK8g.md#t-00-11-05) [✓] **Candace Owens**: ["Greg Shaffer worked for the FBI Hostage Rescue Team, supervised the Dallas Joint..."](/statements/statement-69178e8428ef.md)
   - About: [Greg Shaffer](/entities/person-greg-shaffer.md), [FBI Hostage Rescue Team](/entities/org-fbi-hostage-rescue-team.md), [North Texas Joint Terrorism Task Force](/entities/org-north-texas-joint-terrorism-task-force.md)
 
 </div>
 <div class="filter-item">
 
-- [00:12:34](/episodes/ep-NIEbqsLAK8g.md#t-00-11-56) [◐] **Candace Owens**: ["Nelda and Karl Buckman, who live in New Braunfels, donated $10 million to Turnin..."](/statements/statement-8b0459b08316.md)
+- [00:12:34](/episodes/ep-NIEbqsLAK8g.md#t-00-12-12) [◐] **Candace Owens**: ["Nelda and Karl Buckman, who live in New Braunfels, donated $10 million to Turnin..."](/statements/statement-8b0459b08316.md)
   - About: [Nelda Yaw Buckman](/entities/person-nelda-yaw-buckman.md), [Karl Buckman](/entities/person-karl-buckman.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
 <div class="filter-item">
 
-- [00:12:53](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40) [○] **Candace Owens**: ["Dan Flood lives in New Braunfels, Texas, and attended middle and high school in ..."](/statements/statement-83305badaf78.md)
+- [00:12:53](/episodes/ep-NIEbqsLAK8g.md#t-00-12-53) [○] **Candace Owens**: ["Dan Flood lives in New Braunfels, Texas, and attended middle and high school in ..."](/statements/statement-83305badaf78.md)
   - About: [Dan Flood](/entities/person-dan-flood.md), [New Braunfels](/entities/gpe-new-braunfels-texas.md), [Allen, Texas](/entities/gpe-allen-texas.md)
 
 </div>
 <div class="filter-item">
 
-- [00:13:09](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40) [○] **Anonymous Source #2 (Ep NIEbqsLAK8g)**: ["Dan Flood's high-school friend said they attended middle and high school togethe..."](/statements/statement-cc198aec3a7a.md)
+- [00:13:09](/episodes/ep-NIEbqsLAK8g.md#t-00-12-53) [○] **Anonymous Source #2 (Ep NIEbqsLAK8g)**: ["Dan Flood's high-school friend said they attended middle and high school togethe..."](/statements/statement-cc198aec3a7a.md)
   - About: [Dan Flood](/entities/person-dan-flood.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Dallas, Texas](/entities/gpe-dallas-texas.md)
 
 </div>
 <div class="filter-item">
 
-- [00:14:09](/episodes/ep-NIEbqsLAK8g.md#t-00-14-04) [○] **Candace Owens**: ["All of Charlie Kirk's security personnel on the day of his assassination, includ..."](/statements/statement-cb561dcf34d6.md)
+- [00:14:09](/episodes/ep-NIEbqsLAK8g.md#t-00-13-35) [○] **Candace Owens**: ["All of Charlie Kirk's security personnel on the day of his assassination, includ..."](/statements/statement-cb561dcf34d6.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Rick Cutler](/entities/person-rick-cutler.md), [Dan Flood](/entities/person-dan-flood.md)
 
 </div>
 <div class="filter-item">
 
-- [00:14:28](/episodes/ep-NIEbqsLAK8g.md#t-00-14-04) [✓] **Bobby Harpole**: ["Bobby Harpole said he began his law-enforcement career with the Texas Department..."](/statements/statement-5bf1f2178c87.md)
+- [00:14:28](/episodes/ep-NIEbqsLAK8g.md#t-00-14-16) [✓] **Bobby Harpole**: ["Bobby Harpole said he began his law-enforcement career with the Texas Department..."](/statements/statement-5bf1f2178c87.md)
   - About: [Bobby Harpole](/entities/person-bobby-harpole.md), [Texas Department of Public Safety](/entities/org-texas-department-of-public-safety.md), [Erath County Sheriff's Office](/entities/org-erath-county-sheriffs-office.md)
 
 </div>
 <div class="filter-item">
 
-- [00:20:51](/episodes/ep-NIEbqsLAK8g.md#t-00-20-25) [✓] **Zach De Gregorio**: ["Zach De Gregorio received a Turning Point USA letter titled 'Demand to Cease and..."](/statements/statement-9db10fe7a657.md)
+- [00:20:51](/episodes/ep-NIEbqsLAK8g.md#t-00-20-06) [✓] **Zach De Gregorio**: ["Zach De Gregorio received a Turning Point USA letter titled 'Demand to Cease and..."](/statements/statement-9db10fe7a657.md)
   - About: [Zach De Gregorio](/entities/person-zach-de-gregorio.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Wolves and Finance](/entities/org-wolves-and-finance.md)
 
 </div>
@@ -11212,7 +11212,7 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:26:33](/episodes/ep-NIEbqsLAK8g.md#t-00-26-32) [○] **Andrew Kolvet**: ["The crowd images shown to Charlie Kirk came from an elevated walkway or bridge a..."](/statements/statement-b223ebe949ad.md)
+- [00:26:33](/episodes/ep-NIEbqsLAK8g.md#t-00-26-30) [○] **Andrew Kolvet**: ["The crowd images shown to Charlie Kirk came from an elevated walkway or bridge a..."](/statements/statement-b223ebe949ad.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
 </div>
@@ -11224,19 +11224,19 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:30:58](/episodes/ep-NIEbqsLAK8g.md#t-00-30-28) [✓] **Erika Kirk**: ["Everyday Heroes Like You initially funded and promoted transparent grassroots or..."](/statements/statement-f3e38bba5ce2.md)
+- [00:30:58](/episodes/ep-NIEbqsLAK8g.md#t-00-30-27) [✓] **Erika Kirk**: ["Everyday Heroes Like You initially funded and promoted transparent grassroots or..."](/statements/statement-f3e38bba5ce2.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Everyday Heroes Like You](/entities/org-everyday-heroes-like-you.md)
 
 </div>
 <div class="filter-item">
 
-- [00:31:25](/episodes/ep-NIEbqsLAK8g.md#t-00-30-58) [◐] **Erika Kirk**: ["Erika Kirk said that while living in China she worked with sex-trafficking victi..."](/statements/statement-eddb8602cc35.md)
+- [00:31:25](/episodes/ep-NIEbqsLAK8g.md#t-00-31-23) [◐] **Erika Kirk**: ["Erika Kirk said that while living in China she worked with sex-trafficking victi..."](/statements/statement-eddb8602cc35.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [China](/entities/gpe-china.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md)
 
 </div>
 <div class="filter-item">
 
-- [00:32:01](/episodes/ep-NIEbqsLAK8g.md#t-00-31-25) [○] **Candace Owens**: ["Candace Owens reported that Turning Point USA's official response said Erika Kir..."](/statements/statement-d5bf18c557bc.md)
+- [00:32:01](/episodes/ep-NIEbqsLAK8g.md#t-00-31-23) [○] **Candace Owens**: ["Candace Owens reported that Turning Point USA's official response said Erika Kir..."](/statements/statement-d5bf18c557bc.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [China](/entities/gpe-china.md)
 
 </div>
@@ -11416,7 +11416,7 @@ _4042 factual claims within 6902 attributed statements._
 </details>
 
 <details>
-<summary>2026-01-16 · Myron Gaines x Candace Owens (18)</summary>
+<summary>2026-01-16 · Myron Gaines x Candace Owens (19)</summary>
 
 <div class="filter-item">
 
@@ -11438,13 +11438,13 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:05:41](/episodes/ep-2T39-oADLj0.md#t-00-05-13) [✓] **Candace Owens**: ["Emma Goldman was Margaret Sanger's mentor."](/statements/statement-d4c9228da759.md)
+- [00:05:41](/episodes/ep-2T39-oADLj0.md#t-00-05-00) [✓] **Candace Owens**: ["Emma Goldman was Margaret Sanger's mentor."](/statements/statement-d4c9228da759.md)
   - About: [Emma Goldman](/entities/person-emma-goldman.md), [Margaret Sanger](/entities/person-margaret-sanger.md)
 
 </div>
 <div class="filter-item">
 
-- [00:06:35](/episodes/ep-2T39-oADLj0.md#t-00-06-19) [◐] **Candace Owens**: ["Women are more miserable than they have ever been."](/statements/statement-b79132b86ecf.md)
+- [00:06:35](/episodes/ep-2T39-oADLj0.md#t-00-06-20) [◐] **Candace Owens**: ["Women are more miserable than they have ever been."](/statements/statement-b79132b86ecf.md)
   - About: [Feminism](/entities/concept-feminism.md)
 
 </div>
@@ -11456,7 +11456,7 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:12:39](/episodes/ep-2T39-oADLj0.md#t-00-11-56) [◐] **Candace Owens**: ["Girls begin speaking earlier than boys, and women speak more words than men thro..."](/statements/statement-9c4e6cce5617.md)
+- [00:12:39](/episodes/ep-2T39-oADLj0.md#t-00-12-36) [◐] **Candace Owens**: ["Girls begin speaking earlier than boys, and women speak more words than men thro..."](/statements/statement-9c4e6cce5617.md)
   - About: [Feminism](/entities/concept-feminism.md)
 
 </div>
@@ -11516,7 +11516,7 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [01:03:17](/episodes/ep-2T39-oADLj0.md#t-01-03-01) [✓] **Anonymous Source #1 (Ep 2T39-oADLj0)**: ["Something military-related was housed on the third floor of the Losey building."](/statements/statement-426165d54ef7.md)
+- [01:03:17](/episodes/ep-2T39-oADLj0.md#t-01-03-01) [✓] **Anonymous Source #1 (Ep 2T39-oADLj0)**: ["According to Candace Owens's anonymous source, something military-related was in..."](/statements/statement-426165d54ef7.md)
   - About: [United States Armed Forces](/entities/org-united-states-armed-forces.md)
 
 </div>
@@ -11524,6 +11524,12 @@ _4042 factual claims within 6902 attributed statements._
 
 - [01:03:36](/episodes/ep-2T39-oADLj0.md#t-01-03-36) [◐] **Candace Owens**: ["Charlie Kirk was not shot with a .30-06, and the bullet did not destroy his neck..."](/statements/statement-1de490c6769b.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [01:06:59](/episodes/ep-2T39-oADLj0.md#t-01-06-59) [○] **George Zinn**: ["George Zinn told a nurse that he was being paid, though he did not know how he w..."](/statements/statement-806ba9cea5e3.md)
+  - About: [George Zinn](/entities/person-george-zinn.md)
 
 </div>
 </details>
@@ -11539,31 +11545,31 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:02:36](/episodes/ep-BKcOm32ZEGk.md#t-00-01-59) [○] **Candace Owens**: ["Charlie Kirk repeatedly told Candace Owens that he was a time traveler."](/statements/statement-9afdb0bd9fc3.md)
+- [00:02:36](/episodes/ep-BKcOm32ZEGk.md#t-00-01-56) [○] **Candace Owens**: ["Charlie Kirk repeatedly told Candace Owens that he was a time traveler."](/statements/statement-9afdb0bd9fc3.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
 <div class="filter-item">
 
-- [00:03:19](/episodes/ep-BKcOm32ZEGk.md#t-00-02-43) [○] **Candace Owens**: ["Before he had much fame, Charlie Kirk was required to have security with him at ..."](/statements/statement-d72077f27f3f.md)
+- [00:03:19](/episodes/ep-BKcOm32ZEGk.md#t-00-03-19) [○] **Candace Owens**: ["Before he had much fame, Charlie Kirk was required to have security with him at ..."](/statements/statement-d72077f27f3f.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Bill Montgomery](/entities/person-bill-montgomery.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
 <div class="filter-item">
 
-- [00:03:48](/episodes/ep-BKcOm32ZEGk.md#t-00-03-28) [✓] **Candace Owens**: ["Charlie Kirk wanted to attend West Point but instead started Turning Point USA w..."](/statements/statement-4de814e967b1.md)
+- [00:03:48](/episodes/ep-BKcOm32ZEGk.md#t-00-03-19) [✓] **Candace Owens**: ["Charlie Kirk wanted to attend West Point but instead started Turning Point USA w..."](/statements/statement-4de814e967b1.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [United States Military Academy](/entities/org-united-states-military-academy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
 <div class="filter-item">
 
-- [00:04:18](/episodes/ep-BKcOm32ZEGk.md#t-00-04-10) [?] **Charlie Kirk**: ["When Charlie Kirk was young, adults wanted to drug him; his mother refused, and ..."](/statements/statement-7fad0c9ade03.md)
+- [00:04:18](/episodes/ep-BKcOm32ZEGk.md#t-00-03-54) [?] **Candace Owens**: ["When Charlie Kirk was young, adults wanted to drug him; his mother refused, and ..."](/statements/statement-7fad0c9ade03.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item">
 
-- [00:28:16](/episodes/ep-BKcOm32ZEGk.md#t-00-28-10) [○] **Candace Owens**: ["Candace Owens lost a job partly because she said pornography was a spiritual wea..."](/statements/statement-86cf5bc991df.md)
+- [00:28:16](/episodes/ep-BKcOm32ZEGk.md#t-00-28-15) [○] **Candace Owens**: ["Candace Owens lost a job partly because she said pornography was a spiritual wea..."](/statements/statement-86cf5bc991df.md)
   - About: [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
@@ -11593,89 +11599,95 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:37:22](/episodes/ep-BKcOm32ZEGk.md#t-00-37-21) [✓] **Anonymous Source #2 (Ep BKcOm32ZEGk)**: ["The staged ritual video was a prank, and the participants had taken their sense ..."](/statements/statement-4611b46fdc7e.md)
+- [00:37:22](/episodes/ep-BKcOm32ZEGk.md#t-00-37-09) [✓] **Anonymous Source #2 (Ep BKcOm32ZEGk)**: ["The staged ritual video was a prank, and the participants had taken their sense ..."](/statements/statement-4611b46fdc7e.md)
   - About: [CERN](/entities/org-cern.md)
 
 </div>
 <div class="filter-item">
 
-- [00:50:38](/episodes/ep-BKcOm32ZEGk.md#t-00-50-21) [◐] **Candace Owens**: ["In 2024, YouTube demonetized Candace Owens."](/statements/statement-4fa9721c2695.md)
+- [00:50:38](/episodes/ep-BKcOm32ZEGk.md#t-00-50-38) [◐] **Candace Owens**: ["In 2024, YouTube demonetized Candace Owens."](/statements/statement-4fa9721c2695.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [YouTube](/entities/org-youtube.md)
 
 </div>
 </details>
 
 <details>
-<summary>2026-01-13 · CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (12)</summary>
+<summary>2026-01-13 · CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (13)</summary>
 
 <div class="filter-item">
 
-- [00:01:58](/episodes/ep-ZZGWo6oDscc.md#t-00-01-23) [○] **Candace Owens**: ["Bill Ackman confirmed that he gave a presentation encouraging younger generation..."](/statements/statement-4c4334b7bc81.md)
+- [00:01:58](/episodes/ep-ZZGWo6oDscc.md#t-00-01-19) [○] **Candace Owens**: ["Bill Ackman confirmed that he gave a presentation encouraging younger generation..."](/statements/statement-4c4334b7bc81.md)
   - About: [Bill Ackman](/entities/person-bill-ackman.md), [Land grab](/entities/concept-land-grab.md)
 
 </div>
 <div class="filter-item">
 
-- [00:03:30](/episodes/ep-ZZGWo6oDscc.md#t-00-03-11) [◐] **Candace Owens**: ["According to Tucker Carlson and others, Charlie Kirk went head-to-head with Benj..."](/statements/statement-b2921bff7c51.md)
+- [00:03:30](/episodes/ep-ZZGWo6oDscc.md#t-00-03-04) [◐] **Candace Owens**: ["According to Tucker Carlson and others, Charlie Kirk went head-to-head with Benj..."](/statements/statement-b2921bff7c51.md)
   - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 
 </div>
 <div class="filter-item">
 
-- [00:10:15](/episodes/ep-ZZGWo6oDscc.md#t-00-09-30) [○] **Candace Owens**: ["The aircraft SU-BTU flew into Provo after May 27 with Walid Mahmoud aboard."](/statements/statement-7d7f3b51147c.md)
+- [00:10:15](/episodes/ep-ZZGWo6oDscc.md#t-00-10-10) [○] **Candace Owens**: ["The aircraft SU-BTU flew into Provo after May 27 with Walid Mahmoud aboard."](/statements/statement-7d7f3b51147c.md)
   - About: [SU-BTU](/entities/vehicle-su-btu.md), [Provo](/entities/gpe-provo.md), [Egypt](/entities/gpe-egypt.md)
 
 </div>
 <div class="filter-item">
 
-- [00:10:24](/episodes/ep-ZZGWo6oDscc.md#t-00-10-15) [◐] **Candace Owens**: ["Aircraft can trick their transponders, and the relevant flights to Provo do not ..."](/statements/statement-c27c15b8cb80.md)
+- [00:10:24](/episodes/ep-ZZGWo6oDscc.md#t-00-10-10) [◐] **Candace Owens**: ["Aircraft can trick their transponders, and the relevant flights to Provo do not ..."](/statements/statement-c27c15b8cb80.md)
   - About: [SU-BTU](/entities/vehicle-su-btu.md), [Provo](/entities/gpe-provo.md), [Cairo](/entities/gpe-cairo.md)
 
 </div>
 <div class="filter-item">
 
-- [00:16:38](/episodes/ep-ZZGWo6oDscc.md#t-00-15-58) [✓] **Candace Owens**: ["Mitch Manley Jr., the caretaker's son, was working for Turning Point USA on Char..."](/statements/statement-6e6155a9c6df.md)
+- [00:16:38](/episodes/ep-ZZGWo6oDscc.md#t-00-16-23) [✓] **Candace Owens**: ["Mitch Manley Jr., the caretaker's son, was working for Turning Point USA on Char..."](/statements/statement-6e6155a9c6df.md)
   - About: [Mitch Manley Jr.](/entities/person-mitch-manley-jr.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Mitchell Manley Sr.](/entities/person-mitchell-manley-sr.md)
 
 </div>
 <div class="filter-item">
 
-- [00:19:47](/episodes/ep-ZZGWo6oDscc.md#t-00-19-30) [✓] **Candace Owens**: ["Paul E. Vallely was a military commander of the 7th Psychological Operations Gro..."](/statements/statement-cf3bd1ed90b0.md)
+- [00:19:30](/episodes/ep-ZZGWo6oDscc.md#t-00-19-09) [◐] **Candace Owens**: ["Paul E. Vallely, a Turning Point USA board member and former commander of the 7t..."](/statements/statement-8e69357e3b15.md)
+  - About: [Paul E. Vallely](/entities/person-paul-e-vallely.md), [Michael Aquino](/entities/person-michael-aquino.md), [MindWar](/entities/work-mindwar.md)
+
+</div>
+<div class="filter-item">
+
+- [00:19:47](/episodes/ep-ZZGWo6oDscc.md#t-00-19-09) [✓] **Candace Owens**: ["Paul E. Vallely was a military commander of the 7th Psychological Operations Gro..."](/statements/statement-cf3bd1ed90b0.md)
   - About: [Paul E. Vallely](/entities/person-paul-e-vallely.md), [7th Psychological Operations Group](/entities/org-7th-psychological-operations-group.md)
 
 </div>
 <div class="filter-item">
 
-- [00:22:22](/episodes/ep-ZZGWo6oDscc.md#t-00-22-07) [✓] **Candace Owens**: ["Michael Aquino joined the Church of Satan in 1969, became editor of The Cloven H..."](/statements/statement-d9193d15f876.md)
+- [00:22:22](/episodes/ep-ZZGWo6oDscc.md#t-00-21-58) [✓] **Candace Owens**: ["Michael Aquino joined the Church of Satan in 1969, became editor of The Cloven H..."](/statements/statement-d9193d15f876.md)
   - About: [Michael Aquino](/entities/person-michael-aquino.md), [Church of Satan](/entities/org-church-of-satan.md), [The Cloven Hoof](/entities/work-the-cloven-hoof.md)
 
 </div>
 <div class="filter-item">
 
-- [00:28:26](/episodes/ep-ZZGWo6oDscc.md#t-00-28-05) [◐] **Candace Owens**: ["Fort Huachuca is a hub for Army intelligence and psychological operations and ha..."](/statements/statement-5b5e6a75a4ae.md)
+- [00:28:26](/episodes/ep-ZZGWo6oDscc.md#t-00-28-26) [◐] **Candace Owens**: ["Fort Huachuca is a hub for Army intelligence and psychological operations and ha..."](/statements/statement-5b5e6a75a4ae.md)
   - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [United States Army](/entities/org-united-states-army.md), [Psychological operations](/entities/concept-psychological-operations.md)
 
 </div>
 <div class="filter-item">
 
-- [00:30:47](/episodes/ep-ZZGWo6oDscc.md#t-00-30-03) [◐] **Candace Owens**: ["Peer-reviewed studies identified direct connections between antiparasitic medica..."](/statements/statement-bad3e03873d9.md)
+- [00:30:47](/episodes/ep-ZZGWo6oDscc.md#t-00-30-18) [◐] **Candace Owens**: ["Peer-reviewed studies identified direct connections between antiparasitic medica..."](/statements/statement-bad3e03873d9.md)
 
 </div>
 <div class="filter-item">
 
-- [00:38:10](/episodes/ep-ZZGWo6oDscc.md#t-00-37-38) [✓] **Candace Owens**: ["Dilbert creator Scott Adams died at age 68 after losing his battle with prostate..."](/statements/statement-32fdd954d048.md)
+- [00:38:10](/episodes/ep-ZZGWo6oDscc.md#t-00-37-43) [✓] **Candace Owens**: ["Dilbert creator Scott Adams died at age 68 after losing his battle with prostate..."](/statements/statement-32fdd954d048.md)
   - About: [Scott Adams](/entities/person-scott-adams.md), [Dilbert](/entities/work-dilbert.md)
 
 </div>
 <div class="filter-item">
 
-- [00:44:19](/episodes/ep-ZZGWo6oDscc.md#t-00-43-53) [◐] **Anthony Aguilar**: ["I was arrested on September 3 in Congress for calling out AIPAC."](/statements/statement-09e4671aaede.md)
+- [00:44:18](/episodes/ep-ZZGWo6oDscc.md#t-00-43-48) [◐] **Anthony Aguilar**: ["I was arrested on September 3 in Congress for calling out AIPAC."](/statements/statement-09e4671aaede.md)
   - About: [Anthony Aguilar](/entities/person-anthony-aguilar.md), [American Israel Public Affairs Committee](/entities/org-aipac.md), [United States Congress](/entities/org-united-states-congress.md)
 
 </div>
 <div class="filter-item">
 
-- [00:50:32](/episodes/ep-ZZGWo6oDscc.md#t-00-50-30) [◐] **Candace Owens**: ["Pornography is part of a psychological operation and renders men weaker."](/statements/statement-e501a3b4e04d.md)
+- [00:50:32](/episodes/ep-ZZGWo6oDscc.md#t-00-50-22) [◐] **Candace Owens**: ["Pornography is part of a psychological operation and renders men weaker."](/statements/statement-e501a3b4e04d.md)
   - About: [Pornography](/entities/concept-pornography.md), [Psychological operations](/entities/concept-psychological-operations.md), [Catholicism](/entities/concept-catholicism.md)
 
 </div>
@@ -24248,7 +24260,7 @@ _4042 factual claims within 6902 attributed statements._
 </details>
 
 <details>
-<summary><strong class="section-title">Accusations (1538)</strong></summary>
+<summary><strong class="section-title">Accusations (1539)</strong></summary>
 
 <details>
 <summary>2026-08-21 · Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (8)</summary>
@@ -30974,36 +30986,36 @@ _4042 factual claims within 6902 attributed statements._
 <div class="filter-item">
 
 - [00:00:27](/episodes/ep-NIEbqsLAK8g.md#t-00-00-00) [✗] **Candace Owens**: ["Federal authorities are doing nothing to investigate Charlie Kirk's assassinatio..."](/statements/statement-1dfa3c1a7731.md)
-  - About: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item">
 
-- [00:02:06](/episodes/ep-NIEbqsLAK8g.md#t-00-02-06) [○] **Anonymous Source #1 (Ep NIEbqsLAK8g)**: ["The email source claimed the families of corrupt police officers and mafia membe..."](/statements/statement-87a17771b303.md)
+- [00:02:06](/episodes/ep-NIEbqsLAK8g.md#t-00-01-54) [○] **Anonymous Source #1 (Ep NIEbqsLAK8g)**: ["The email source claimed the families of corrupt police officers and mafia membe..."](/statements/statement-87a17771b303.md)
   - About: [John F. Kennedy](/entities/person-john-f-kennedy.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Texas](/entities/gpe-texas.md)
 
 </div>
 <div class="filter-item">
 
-- [00:03:33](/episodes/ep-NIEbqsLAK8g.md#t-00-03-33) [○] **Anonymous Source #1 (Ep NIEbqsLAK8g)**: ["The email source alleged that bought-and-paid-for police officers across the Uni..."](/statements/statement-09966aaf479e.md)
+- [00:03:33](/episodes/ep-NIEbqsLAK8g.md#t-00-03-21) [○] **Anonymous Source #1 (Ep NIEbqsLAK8g)**: ["The email source alleged that bought-and-paid-for police officers across the Uni..."](/statements/statement-09966aaf479e.md)
   - About: [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
 
 </div>
 <div class="filter-item">
 
-- [00:05:42](/episodes/ep-NIEbqsLAK8g.md#t-00-05-42) [○] **Anonymous Source #1 (Ep NIEbqsLAK8g)**: ["The email source claimed Dan Flood connected Charlie Kirk's alleged monitoring a..."](/statements/statement-5af4e3a94351.md)
+- [00:05:42](/episodes/ep-NIEbqsLAK8g.md#t-00-05-25) [○] **Anonymous Source #1 (Ep NIEbqsLAK8g)**: ["The email source claimed Dan Flood connected Charlie Kirk's alleged monitoring a..."](/statements/statement-5af4e3a94351.md)
   - About: [Dan Flood](/entities/person-dan-flood.md), [Robert Eugene Flood](/entities/person-robert-eugene-flood.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item">
 
-- [00:21:34](/episodes/ep-NIEbqsLAK8g.md#t-00-20-51) [○] **Zach De Gregorio**: ["Turning Point USA's letter did not address most of Zach De Gregorio's questions ..."](/statements/statement-8da643fcc1bb.md)
+- [00:21:34](/episodes/ep-NIEbqsLAK8g.md#t-00-21-32) [○] **Zach De Gregorio**: ["Turning Point USA's letter did not address most of Zach De Gregorio's questions ..."](/statements/statement-8da643fcc1bb.md)
   - About: [Zach De Gregorio](/entities/person-zach-de-gregorio.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Wolves and Finance](/entities/org-wolves-and-finance.md)
 
 </div>
 <div class="filter-item">
 
-- [00:29:45](/episodes/ep-NIEbqsLAK8g.md#t-00-29-00) [○] **Candace Owens**: ["Turning Point USA and its security representatives are lying about the drones an..."](/statements/statement-73e35afd8842.md)
+- [00:29:45](/episodes/ep-NIEbqsLAK8g.md#t-00-29-42) [○] **Candace Owens**: ["Turning Point USA and its security representatives are lying about the drones an..."](/statements/statement-73e35afd8842.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Brian Harpole](/entities/person-brian-harpole.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
 </div>
@@ -31162,7 +31174,7 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:54:16](/episodes/ep-2T39-oADLj0.md#t-00-53-48) [◐] **Candace Owens**: ["Calvary Chapel has repeatedly been accused of hostile takeovers of faith organiz..."](/statements/statement-069dad6c023a.md)
+- [00:54:16](/episodes/ep-2T39-oADLj0.md#t-00-53-48) [◐] **Candace Owens**: ["Owens said it looked like Calvary Chapel had previously been accused of hostile ..."](/statements/statement-069dad6c023a.md)
   - About: [Calvary Chapel](/entities/org-calvary-chapel.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
@@ -31227,103 +31239,109 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:22:27](/episodes/ep-BKcOm32ZEGk.md#t-00-21-57) [○] **Candace Owens**: ["People managing Charlie Kirk panicked when he began pushing back and decided to ..."](/statements/statement-be49665a1d41.md)
+- [00:22:27](/episodes/ep-BKcOm32ZEGk.md#t-00-21-49) [○] **Candace Owens**: ["People managing Charlie Kirk seemed to panic when he began pushing back and, acc..."](/statements/statement-be49665a1d41.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
 <div class="filter-item">
 
-- [00:24:11](/episodes/ep-BKcOm32ZEGk.md#t-00-24-06) [◐] **Candace Owens**: ["COVID-19 was created in a lab, people were made sick, and people were forced to ..."](/statements/statement-ee790d7aa477.md)
+- [00:24:11](/episodes/ep-BKcOm32ZEGk.md#t-00-23-59) [◐] **Candace Owens**: ["COVID-19 was created in a lab, people were made sick, and people were forced to ..."](/statements/statement-ee790d7aa477.md)
   - About: [COVID-19](/entities/concept-covid-19.md)
 
 </div>
 <div class="filter-item">
 
-- [00:43:19](/episodes/ep-BKcOm32ZEGk.md#t-00-42-53) [✓] **Candace Owens**: ["Mike Pompeo discussed options to take out Julian Assange."](/statements/statement-a3341945112a.md)
+- [00:43:19](/episodes/ep-BKcOm32ZEGk.md#t-00-43-19) [✓] **Candace Owens**: ["Mike Pompeo discussed options to take out Julian Assange."](/statements/statement-a3341945112a.md)
   - About: [Mike Pompeo](/entities/person-mike-pompeo.md), [Julian Assange](/entities/person-julian-assange.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
 
 </div>
 <div class="filter-item">
 
-- [00:43:25](/episodes/ep-BKcOm32ZEGk.md#t-00-42-53) [◐] **Candace Owens**: ["Mike Pompeo was arguing that future history books should omit the killing of Pal..."](/statements/statement-881ef72df2a3.md)
+- [00:43:25](/episodes/ep-BKcOm32ZEGk.md#t-00-43-19) [◐] **Candace Owens**: ["Mike Pompeo was arguing that future history books should omit the killing of Pal..."](/statements/statement-881ef72df2a3.md)
   - About: [Mike Pompeo](/entities/person-mike-pompeo.md), [Palestine](/entities/gpe-palestine.md), [Gaza](/entities/gpe-gaza.md)
 
 </div>
 <div class="filter-item">
 
-- [00:48:26](/episodes/ep-BKcOm32ZEGk.md#t-00-48-12) [○] **Anonymous Source #1 (Ep BKcOm32ZEGk)**: ["Carly said her father, a military police officer stationed with Michael Aquino i..."](/statements/statement-8377c5a6c29d.md)
+- [00:48:26](/episodes/ep-BKcOm32ZEGk.md#t-00-48-11) [○] **Anonymous Source #1 (Ep BKcOm32ZEGk)**: ["Carly said her father, a military police officer stationed with Michael Aquino i..."](/statements/statement-8377c5a6c29d.md)
   - About: [Michael Aquino](/entities/person-michael-aquino.md), [United States Armed Forces](/entities/org-united-states-armed-forces.md)
 
 </div>
 <div class="filter-item">
 
-- [00:51:12](/episodes/ep-BKcOm32ZEGk.md#t-00-51-05) [◐] **Candace Owens**: ["In 2024, people tried to cancel Candace Owens's speaking events and threatened o..."](/statements/statement-4577e71e1f23.md)
+- [00:51:12](/episodes/ep-BKcOm32ZEGk.md#t-00-51-12) [◐] **Candace Owens**: ["In 2024, people tried to cancel Candace Owens's speaking events and threatened o..."](/statements/statement-4577e71e1f23.md)
   - About: [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
 </details>
 
 <details>
-<summary>2026-01-13 · CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (17)</summary>
+<summary>2026-01-13 · CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (18)</summary>
 
 <div class="filter-item">
 
-- [00:03:18](/episodes/ep-ZZGWo6oDscc.md#t-00-03-11) [◐] **Candace Owens**: ["War with Iran is back on the table because Israel wants it."](/statements/statement-120b0bd48279.md)
+- [00:03:18](/episodes/ep-ZZGWo6oDscc.md#t-00-03-04) [◐] **Candace Owens**: ["War with Iran is back on the table because Israel wants it."](/statements/statement-120b0bd48279.md)
   - About: [Israel](/entities/gpe-israel.md), [Iran](/entities/gpe-iran.md)
 
 </div>
 <div class="filter-item">
 
-- [00:07:11](/episodes/ep-ZZGWo6oDscc.md#t-00-07-08) [◐] **Candace Owens**: ["I think personally he's got the largest blackmail file, whatever Israel has on h..."](/statements/statement-7c2487d3cfc3.md)
+- [00:07:11](/episodes/ep-ZZGWo6oDscc.md#t-00-07-06) [◐] **Candace Owens**: ["I think personally he's got the largest blackmail file, whatever Israel has on h..."](/statements/statement-7c2487d3cfc3.md)
   - About: [Lindsey Graham](/entities/person-lindsey-graham.md), [Israel](/entities/gpe-israel.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
 </div>
 <div class="filter-item">
 
-- [00:07:43](/episodes/ep-ZZGWo6oDscc.md#t-00-07-08) [✓] **Tucker Carlson**: ["What you don't want are flighty, emotionally incontinent, silly people on the pa..."](/statements/statement-b3c35b55e3f1.md)
+- [00:07:43](/episodes/ep-ZZGWo6oDscc.md#t-00-07-06) [✓] **Tucker Carlson**: ["What you don't want are flighty, emotionally incontinent, silly people on the pa..."](/statements/statement-b3c35b55e3f1.md)
   - About: [Lindsey Graham](/entities/person-lindsey-graham.md)
 
 </div>
 <div class="filter-item">
 
-- [00:13:31](/episodes/ep-ZZGWo6oDscc.md#t-00-13-05) [◐] **Candace Owens**: ["The CIA and Mossad are manufacturing a color revolution in Iran and pretending i..."](/statements/statement-7735fd0be3a8.md)
+- [00:13:31](/episodes/ep-ZZGWo6oDscc.md#t-00-12-51) [◐] **Candace Owens**: ["I might actually believe Iran's protests were organic if the CIA and Mossad used..."](/statements/statement-7735fd0be3a8.md)
   - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Mossad](/entities/org-mossad.md), [Iran](/entities/gpe-iran.md)
 
 </div>
 <div class="filter-item">
 
-- [00:14:12](/episodes/ep-ZZGWo6oDscc.md#t-00-13-49) [○] **Candace Owens**: ["Charlie Kirk's assassination was good for Benjamin Netanyahu's war ambitions in ..."](/statements/statement-ba3417f20e97.md)
+- [00:14:12](/episodes/ep-ZZGWo6oDscc.md#t-00-13-31) [○] **Candace Owens**: ["Charlie Kirk's assassination was good for Benjamin Netanyahu's war ambitions in ..."](/statements/statement-ba3417f20e97.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Iran](/entities/gpe-iran.md)
 
 </div>
 <div class="filter-item">
 
-- [00:16:23](/episodes/ep-ZZGWo6oDscc.md#t-00-15-58) [✓] **Anonymous Source #1 (Ep ZZGWo6oDscc)**: ["After being hired as Alton C. Jennings's caretaker, Mitchell Manley Sr. isolated..."](/statements/statement-35de484f46fe.md)
+- [00:16:23](/episodes/ep-ZZGWo6oDscc.md#t-00-15-51) [✓] **Anonymous Source #1 (Ep ZZGWo6oDscc)**: ["After being hired as Alton C. Jennings's caretaker, Mitchell Manley Sr. isolated..."](/statements/statement-35de484f46fe.md)
   - About: [Mitchell Manley Sr.](/entities/person-mitchell-manley-sr.md), [Alton C. Jennings](/entities/person-alton-c-jennings.md)
 
 </div>
 <div class="filter-item">
 
-- [00:17:00](/episodes/ep-ZZGWo6oDscc.md#t-00-16-43) [✓] **Anonymous Source #1 (Ep ZZGWo6oDscc)**: ["Four months before Alton C. Jennings died, his will was changed in November 2023..."](/statements/statement-c59ce538da60.md)
+- [00:17:00](/episodes/ep-ZZGWo6oDscc.md#t-00-16-23) [✓] **Anonymous Source #1 (Ep ZZGWo6oDscc)**: ["Four months before Alton C. Jennings died, his will was changed in November 2023..."](/statements/statement-c59ce538da60.md)
   - About: [Alton C. Jennings](/entities/person-alton-c-jennings.md), [Turning Point Action](/entities/org-turning-point-action.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
 </div>
 <div class="filter-item">
 
-- [00:20:07](/episodes/ep-ZZGWo6oDscc.md#t-00-19-30) [◐] **Candace Owens**: ["The U.S. military runs mind wars, and military-operated internet farms and bots ..."](/statements/statement-8f716ef30cf8.md)
+- [00:20:07](/episodes/ep-ZZGWo6oDscc.md#t-00-19-47) [◐] **Candace Owens**: ["The U.S. military runs mind wars, and Candace Owens suggested military-run inter..."](/statements/statement-8f716ef30cf8.md)
   - About: [United States Armed Forces](/entities/org-united-states-armed-forces.md), [Psychological operations](/entities/concept-psychological-operations.md), [Dead Internet theory](/entities/concept-dead-internet-theory.md)
 
 </div>
 <div class="filter-item">
 
-- [00:22:05](/episodes/ep-ZZGWo6oDscc.md#t-00-21-21) [◐] **Candace Owens**: ["The moon landing and the Manson murders were military operations."](/statements/statement-ea198cc13b65.md)
+- [00:22:05](/episodes/ep-ZZGWo6oDscc.md#t-00-21-58) [◐] **Candace Owens**: ["The moon landing and the Manson murders were military operations."](/statements/statement-ea198cc13b65.md)
   - About: [United States Armed Forces](/entities/org-united-states-armed-forces.md), [Psychological operations](/entities/concept-psychological-operations.md), [CHAOS: Charles Manson, the CIA, and the Secret History of the Sixties](/entities/work-chaos-charles-manson-cia-secret-history.md)
 
 </div>
 <div class="filter-item">
 
-- [00:27:54](/episodes/ep-ZZGWo6oDscc.md#t-00-27-22) [✓] **Candace Owens**: ["The San Francisco police investigated sexual-abuse allegations connected to the ..."](/statements/statement-dd1511335777.md)
+- [00:27:54](/episodes/ep-ZZGWo6oDscc.md#t-00-27-11) [✓] **Candace Owens**: ["The San Francisco police investigated sexual-abuse allegations connected to the ..."](/statements/statement-dd1511335777.md)
   - About: [Michael Aquino](/entities/person-michael-aquino.md), [San Francisco Police Department](/entities/org-san-francisco-police-department.md), [Presidio Child Development Center](/entities/org-presidio-child-development-center.md)
+
+</div>
+<div class="filter-item">
+
+- [00:28:47](/episodes/ep-ZZGWo6oDscc.md#t-00-28-26) [✓] **Mitch Snow**: ["Mitch Snow told Candace Owens that he saw Brian Harpole and Erika Kirk at Fort H..."](/statements/statement-457a08a3d576.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Erika Kirk](/entities/person-erika-kirk.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </div>
 <div class="filter-item">
@@ -31340,19 +31358,19 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:35:51](/episodes/ep-ZZGWo6oDscc.md#t-00-35-31) [◐] **Candace Owens**: ["South Korean women filed an unprecedented lawsuit accusing the U.S. military of ..."](/statements/statement-611bc4c6e701.md)
+- [00:35:51](/episodes/ep-ZZGWo6oDscc.md#t-00-35-48) [◐] **Candace Owens**: ["South Korean women filed an unprecedented lawsuit accusing the U.S. military of ..."](/statements/statement-611bc4c6e701.md)
   - About: [United States Armed Forces](/entities/org-united-states-armed-forces.md), [South Korea](/entities/gpe-south-korea.md)
 
 </div>
 <div class="filter-item">
 
-- [00:36:06](/episodes/ep-ZZGWo6oDscc.md#t-00-35-31) [○] **Anonymous Source #2 (Ep ZZGWo6oDscc)**: ["At overseas military bases, female recruiters posing as casting directors find y..."](/statements/statement-4add20828ffc.md)
+- [00:36:06](/episodes/ep-ZZGWo6oDscc.md#t-00-35-48) [○] **Anonymous Source #2 (Ep ZZGWo6oDscc)**: ["At overseas military bases, female recruiters posing as casting directors find y..."](/statements/statement-4add20828ffc.md)
   - About: [United States Armed Forces](/entities/org-united-states-armed-forces.md), [Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md)
 
 </div>
 <div class="filter-item">
 
-- [00:37:04](/episodes/ep-ZZGWo6oDscc.md#t-00-36-53) [◐] **Candace Owens**: ["Turning Point USA welcomes pastors who appear to be rehabilitating pedophiles."](/statements/statement-b6cf54701c63.md)
+- [00:37:04](/episodes/ep-ZZGWo6oDscc.md#t-00-36-29) [◐] **Candace Owens**: ["Turning Point USA welcomes pastors who appear to be rehabilitating pedophiles."](/statements/statement-b6cf54701c63.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Turning Point Faith](/entities/org-turning-point-faith.md), [Greg Laurie](/entities/person-greg-laurie.md)
 
 </div>
@@ -31364,7 +31382,7 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:49:42](/episodes/ep-ZZGWo6oDscc.md#t-00-49-04) [◐] **Candace Owens**: ["The government protects its own and protected Jeffrey Epstein; if Andrew Tate an..."](/statements/statement-3b563919285d.md)
+- [00:49:42](/episodes/ep-ZZGWo6oDscc.md#t-00-49-40) [◐] **Candace Owens**: ["The government protects its own and protected Jeffrey Epstein; if Andrew Tate an..."](/statements/statement-3b563919285d.md)
   - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Andrew Tate](/entities/person-andrew-tate.md), [Tristan Tate](/entities/person-tristan-tate.md)
 
 </div>
@@ -31518,7 +31536,7 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:13:35](/episodes/ep-wcD2khO3rOA.md#t-00-12-53) [✓] **Candace Owens**: ["Turning Point Faith works with Greg Laurie while Harvest Christian Fellowship fa..."](/statements/statement-6141210a0ed9.md)
+- [00:13:35](/episodes/ep-wcD2khO3rOA.md#t-00-12-53) [✓] **Candace Owens**: ["Turning Point Faith is partnering with Greg Laurie's Harvest Church while lawsui..."](/statements/statement-6141210a0ed9.md)
   - About: [Turning Point Faith](/entities/org-turning-point-faith.md), [Greg Laurie](/entities/person-greg-laurie.md), [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md)
 
 </div>
@@ -35464,7 +35482,7 @@ _4042 factual claims within 6902 attributed statements._
 
 <div class="filter-item">
 
-- [00:22:54](/episodes/ep-CMcktj3Egfo.md#t-00-22-46) [○] **Johnnie Moore**: ["Johnnie Moore said Christians were committed to building a worldwide wall of Chr..."](/statements/statement-a7519478aa4c.md)
+- [00:22:54](/episodes/ep-CMcktj3Egfo.md#t-00-22-46) [✓] **Johnnie Moore**: ["Johnnie Moore said Christians were committed to building a worldwide wall of Chr..."](/statements/statement-a7519478aa4c.md)
   - About: [Johnnie Moore](/entities/person-johnnie-moore.md), [Christian Zionism](/entities/concept-christian-zionism.md), [Antisemitism](/entities/concept-antisemitism.md)
 
 </div>
@@ -38094,31 +38112,31 @@ _4042 factual claims within 6902 attributed statements._
 
 <div class="filter-item">
 
-- [00:04:31](/episodes/ep-NIEbqsLAK8g.md#t-00-04-16) [✓] **Candace Owens**: ["The Cattle Baron's Ball in Dallas is a single-night fundraiser for the American ..."](/statements/statement-cfddeb98f35b.md)
+- [00:04:31](/episodes/ep-NIEbqsLAK8g.md#t-00-04-02) [✓] **Candace Owens**: ["The Cattle Baron's Ball in Dallas is a single-night fundraiser for the American ..."](/statements/statement-cfddeb98f35b.md)
   - About: [American Cancer Society](/entities/org-american-cancer-society.md), [Dallas, Texas](/entities/gpe-dallas-texas.md)
 
 </div>
 <div class="filter-item">
 
-- [00:05:03](/episodes/ep-NIEbqsLAK8g.md#t-00-05-01) [◐] **Candace Owens**: ["Nebraska's Cattlemen's Ball became a separate 501(c)(3) that benefits the Fred &..."](/statements/statement-baf97d67738e.md)
+- [00:05:03](/episodes/ep-NIEbqsLAK8g.md#t-00-04-42) [◐] **Candace Owens**: ["Candace Owens said Nebraska once hosted its own Cattle Baron's Ball that might b..."](/statements/statement-baf97d67738e.md)
   - About: [Cattlemen's Ball of Nebraska](/entities/org-cattlemens-ball-of-nebraska.md), [Fred & Pamela Buffett Cancer Center](/entities/org-fred-pamela-buffett-cancer-center.md), [Nebraska](/entities/gpe-nebraska.md)
 
 </div>
 <div class="filter-item">
 
-- [00:06:38](/episodes/ep-NIEbqsLAK8g.md#t-00-06-17) [○] **Candace Owens**: ["A professional profile says Robert Eugene Flood spent 33 years with the Texas A&..."](/statements/statement-d34b5529bef5.md)
+- [00:06:38](/episodes/ep-NIEbqsLAK8g.md#t-00-06-03) [○] **Candace Owens**: ["A professional profile says Robert Eugene Flood spent 33 years with the Texas A&..."](/statements/statement-d34b5529bef5.md)
   - About: [Robert Eugene Flood](/entities/person-robert-eugene-flood.md), [Texas A&M University Police Department](/entities/org-texas-am-university-police-department.md), [Bosque County Sheriff's Office](/entities/org-bosque-county-sheriffs-office.md)
 
 </div>
 <div class="filter-item">
 
-- [00:07:33](/episodes/ep-NIEbqsLAK8g.md#t-00-07-01) [○] **Candace Owens**: ["Robert Eugene Flood's professional profile says he was a Marine staff sergeant r..."](/statements/statement-5605fa48507e.md)
+- [00:07:33](/episodes/ep-NIEbqsLAK8g.md#t-00-07-31) [○] **Candace Owens**: ["Robert Eugene Flood's professional profile says he was a Marine staff sergeant r..."](/statements/statement-5605fa48507e.md)
   - About: [Robert Eugene Flood](/entities/person-robert-eugene-flood.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md), [United States Army](/entities/org-united-states-army.md)
 
 </div>
 <div class="filter-item">
 
-- [00:09:17](/episodes/ep-NIEbqsLAK8g.md#t-00-09-03) [◐] **Candace Owens**: ["The FBI Agents Association is a charity founded in 1981 that says it has 14,000 ..."](/statements/statement-d70f584ccc65.md)
+- [00:09:17](/episodes/ep-NIEbqsLAK8g.md#t-00-08-59) [◐] **Candace Owens**: ["The FBI Agents Association is a charity founded in 1981 that says it has 14,000 ..."](/statements/statement-d70f584ccc65.md)
   - About: [FBI Agents Association](/entities/org-fbi-agents-association.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
 
 </div>
@@ -38182,13 +38200,13 @@ _4042 factual claims within 6902 attributed statements._
 
 <div class="filter-item">
 
-- [00:32:19](/episodes/ep-BKcOm32ZEGk.md#t-00-31-40) [◐] **Candace Owens**: ["A Spectator UK article argued that COVID-19 was established to mirror a religion..."](/statements/statement-1d6a5f522fbd.md)
+- [00:32:19](/episodes/ep-BKcOm32ZEGk.md#t-00-32-19) [◐] **Candace Owens**: ["A Spectator UK article argued that COVID-19 was established to mirror a religion..."](/statements/statement-1d6a5f522fbd.md)
   - About: [The Spectator](/entities/org-the-spectator.md), [COVID-19](/entities/concept-covid-19.md)
 
 </div>
 <div class="filter-item">
 
-- [00:36:37](/episodes/ep-BKcOm32ZEGk.md#t-00-36-37) [✓] **Candace Owens**: ["An article read during the episode reported that a satanic human-sacrifice scene..."](/statements/statement-ba91c8450d69.md)
+- [00:36:37](/episodes/ep-BKcOm32ZEGk.md#t-00-36-32) [✓] **Candace Owens**: ["An article read during the episode reported that a satanic human-sacrifice scene..."](/statements/statement-ba91c8450d69.md)
   - About: [CERN](/entities/org-cern.md)
 
 </div>
@@ -38199,25 +38217,25 @@ _4042 factual claims within 6902 attributed statements._
 
 <div class="filter-item">
 
-- [00:12:25](/episodes/ep-ZZGWo6oDscc.md#t-00-11-44) [○] **Candace Owens**: ["On June 19, Erika Kirk deleted 126 Instagram posts, according to Social Blade."](/statements/statement-e19b9bb16ace.md)
+- [00:12:25](/episodes/ep-ZZGWo6oDscc.md#t-00-12-06) [○] **Candace Owens**: ["On June 19, Erika Kirk deleted 126 Instagram posts, according to Social Blade."](/statements/statement-e19b9bb16ace.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Instagram](/entities/org-instagram.md), [Social Blade](/entities/org-social-blade.md)
 
 </div>
 <div class="filter-item">
 
-- [00:15:42](/episodes/ep-ZZGWo6oDscc.md#t-00-15-13) [✓] **Candace Owens**: ["A December 2024 court petition challenged the last will, testament, and trust of..."](/statements/statement-5a11a9e8c496.md)
+- [00:15:42](/episodes/ep-ZZGWo6oDscc.md#t-00-15-12) [✓] **Candace Owens**: ["A December 2024 court petition challenged the last will, testament, and trust of..."](/statements/statement-5a11a9e8c496.md)
   - About: [Alton C. Jennings](/entities/person-alton-c-jennings.md)
 
 </div>
 <div class="filter-item">
 
-- [00:31:08](/episodes/ep-ZZGWo6oDscc.md#t-00-30-47) [✓] **Candace Owens**: ["The CDC has admitted that millions of Americans suffer parasitic infections that..."](/statements/statement-468ada009e16.md)
+- [00:31:08](/episodes/ep-ZZGWo6oDscc.md#t-00-31-02) [✓] **Candace Owens**: ["The CDC has admitted that millions of Americans suffer parasitic infections that..."](/statements/statement-468ada009e16.md)
   - About: [Centers for Disease Control and Prevention](/entities/org-centers-for-disease-control-and-prevention.md)
 
 </div>
 <div class="filter-item">
 
-- [00:33:28](/episodes/ep-ZZGWo6oDscc.md#t-00-32-45) [✓] **Candace Owens**: ["There are 12 lawsuits alleging abuse of young men at a Romanian children's home ..."](/statements/statement-21fc0bb38b00.md)
+- [00:33:28](/episodes/ep-ZZGWo6oDscc.md#t-00-32-44) [✓] **Candace Owens**: ["There are 12 lawsuits alleging abuse of young men at a Romanian children's home ..."](/statements/statement-21fc0bb38b00.md)
   - About: [Greg Laurie](/entities/person-greg-laurie.md), [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md), [Romania](/entities/gpe-romania.md)
 
 </div>
@@ -41899,13 +41917,13 @@ _4042 factual claims within 6902 attributed statements._
 
 <div class="filter-item">
 
-- [00:28:33](/episodes/ep-NIEbqsLAK8g.md#t-00-28-16) [○] **Zach De Gregorio**: ["Zach De Gregorio did not believe Turning Point USA's drone explanation and said ..."](/statements/statement-c0eb78a2bbe7.md)
+- [00:28:33](/episodes/ep-NIEbqsLAK8g.md#t-00-28-10) [○] **Zach De Gregorio**: ["Zach De Gregorio did not believe Turning Point USA's drone explanation and said ..."](/statements/statement-c0eb78a2bbe7.md)
   - About: [Zach De Gregorio](/entities/person-zach-de-gregorio.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item">
 
-- [00:42:55](/episodes/ep-NIEbqsLAK8g.md#t-00-42-16) [○] **Candace Owens**: ["Erika Kirk is not leading Turning Point USA in the direction Charlie Kirk would ..."](/statements/statement-77061ecc2cfa.md)
+- [00:42:55](/episodes/ep-NIEbqsLAK8g.md#t-00-42-22) [○] **Candace Owens**: ["Erika Kirk is not leading Turning Point USA in the direction Charlie Kirk would ..."](/statements/statement-77061ecc2cfa.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
@@ -41916,7 +41934,7 @@ _4042 factual claims within 6902 attributed statements._
 
 <div class="filter-item">
 
-- [00:21:23](/episodes/ep-X92MllIHDzw.md#t-00-20-45) [○] **Nelda Yaw Buckman**: ["Nelda Buckman said that she and Erika Kirk discussed womanhood, what the culture..."](/statements/statement-65cacd9c8735.md)
+- [00:21:23](/episodes/ep-X92MllIHDzw.md#t-00-20-45) [✓] **Nelda Yaw Buckman**: ["Nelda Buckman said that she and Erika Kirk discussed womanhood, what the culture..."](/statements/statement-65cacd9c8735.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md)
 
 </div>
@@ -41928,19 +41946,20 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:37:24](/episodes/ep-X92MllIHDzw.md#t-00-37-15) [○] **Nick Fuentes**: ["The Epstein conduct was not really pedophilia because the victims were not five-..."](/statements/statement-4108402e7361.md)
+- [00:37:24](/episodes/ep-X92MllIHDzw.md#t-00-37-15) [✓] **Nick Fuentes**: ["The Epstein conduct was not really pedophilia because the victims were not five-..."](/statements/statement-4108402e7361.md)
   - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
 
 </div>
 <div class="filter-item">
 
-- [00:42:52](/episodes/ep-X92MllIHDzw.md#t-00-42-10) [○] **Nick Fuentes**: ["The Epstein matter is not about female victims; it is about the integrity of the..."](/statements/statement-63eaaa31c41d.md)
+- [00:42:52](/episodes/ep-X92MllIHDzw.md#t-00-42-10) [✓] **Nick Fuentes**: ["The Epstein matter is not about female victims; it is about the integrity of the..."](/statements/statement-63eaaa31c41d.md)
   - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Marjorie Taylor Greene](/entities/person-marjorie-taylor-greene.md), [United States](/entities/gpe-united-states.md)
 
 </div>
 <div class="filter-item">
 
-- [00:44:18](/episodes/ep-X92MllIHDzw.md#t-00-44-18) [○] **Nick Fuentes**: ["People from sub-Saharan Africa do not have a high IQ."](/statements/statement-e65d3024fc54.md)
+- [00:44:18](/episodes/ep-X92MllIHDzw.md#t-00-44-18) [○] **Candace Owens**: ["Candace Owens says Nick Fuentes told her that people from sub-Saharan Africa do ..."](/statements/statement-e65d3024fc54.md)
+  - About: [Nick Fuentes](/entities/person-nick-fuentes.md)
 
 </div>
 </details>
@@ -41973,13 +41992,13 @@ _4042 factual claims within 6902 attributed statements._
 
 <div class="filter-item">
 
-- [00:04:44](/episodes/ep-BKcOm32ZEGk.md#t-00-04-10) [○] **Candace Owens**: ["Based on her conversations with Charlie Kirk, Candace Owens believes he had been..."](/statements/statement-578962b6dc1a.md)
+- [00:04:44](/episodes/ep-BKcOm32ZEGk.md#t-00-04-21) [○] **Candace Owens**: ["Based on her conversations with Charlie Kirk, Candace Owens believes he had been..."](/statements/statement-578962b6dc1a.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
 <div class="filter-item">
 
-- [00:43:56](/episodes/ep-BKcOm32ZEGk.md#t-00-43-45) [○] **Mike Pompeo**: ["Future history books should not describe Gazans as the victims; they should iden..."](/statements/statement-27c869572b62.md)
+- [00:43:56](/episodes/ep-BKcOm32ZEGk.md#t-00-43-45) [✓] **Mike Pompeo**: ["Future history books should not describe Gazans as the victims; they should iden..."](/statements/statement-27c869572b62.md)
   - About: [Gaza](/entities/gpe-gaza.md), [Israel](/entities/gpe-israel.md), [Iran](/entities/gpe-iran.md)
 
 </div>
@@ -42002,7 +42021,7 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:05:37](/episodes/ep-ZZGWo6oDscc.md#t-00-05-37) [○] **Charlie Kirk**: ["Plans for wars in the Middle East rarely unfold as drawn up and may have uninten..."](/statements/statement-319086dc735c.md)
+- [00:05:37](/episodes/ep-ZZGWo6oDscc.md#t-00-05-34) [○] **Charlie Kirk**: ["Plans for wars in the Middle East rarely unfold as drawn up and may have uninten..."](/statements/statement-319086dc735c.md)
   - About: [Middle East](/entities/gpe-middle-east.md), [Iran](/entities/gpe-iran.md), [Neoconservatism](/entities/concept-neoconservatism.md)
 
 </div>
@@ -42014,13 +42033,13 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:25:03](/episodes/ep-ZZGWo6oDscc.md#t-00-24-39) [○] **Michael Aquino**: ["The Temple of Set exists to explore the self and personality through ancient Egy..."](/statements/statement-6d7072175f2f.md)
+- [00:25:03](/episodes/ep-ZZGWo6oDscc.md#t-00-24-38) [○] **Michael Aquino**: ["The Temple of Set exists to explore the self and personality through ancient Egy..."](/statements/statement-6d7072175f2f.md)
   - About: [Michael Aquino](/entities/person-michael-aquino.md), [Temple of Set](/entities/org-temple-of-set.md), [Egypt](/entities/gpe-egypt.md)
 
 </div>
 <div class="filter-item">
 
-- [00:31:17](/episodes/ep-ZZGWo6oDscc.md#t-00-30-47) [✓] **Peter A. McCullough**: ["The studies make a clear case to do at least one medical-grade parasite cleanse ..."](/statements/statement-7c76b5f74fc7.md)
+- [00:31:17](/episodes/ep-ZZGWo6oDscc.md#t-00-31-02) [✓] **Peter A. McCullough**: ["The studies make a clear case to do at least one medical-grade parasite cleanse ..."](/statements/statement-7c76b5f74fc7.md)
   - About: [Peter A. McCullough](/entities/person-peter-mccullough.md), [The Wellness Company](/entities/org-the-wellness-company.md)
 
 </div>
@@ -42043,13 +42062,13 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:35:06](/episodes/ep-CMcktj3Egfo.md#t-00-34-41) [○] **Dan Illouz**: ["Dan Illouz called Tucker Carlson and Candace Owens intellectual vandals and an i..."](/statements/statement-27edd2ed7766.md)
+- [00:35:06](/episodes/ep-CMcktj3Egfo.md#t-00-34-41) [✓] **Dan Illouz**: ["Dan Illouz called Tucker Carlson and Candace Owens intellectual vandals and an i..."](/statements/statement-27edd2ed7766.md)
   - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Candace Owens](/entities/person-candace-owens.md), [Knesset](/entities/org-knesset.md)
 
 </div>
 <div class="filter-item">
 
-- [00:35:22](/episodes/ep-CMcktj3Egfo.md#t-00-35-18) [○] **Dan Illouz**: ["Dan Illouz said Tucker Carlson and Candace Owens resembled the woke left, attack..."](/statements/statement-070429465919.md)
+- [00:35:22](/episodes/ep-CMcktj3Egfo.md#t-00-35-18) [✓] **Dan Illouz**: ["Dan Illouz said Tucker Carlson and Candace Owens resembled the woke left, attack..."](/statements/statement-070429465919.md)
   - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
@@ -66565,120 +66584,120 @@ _4042 factual claims within 6902 attributed statements._
 <div class="filter-item">
 
 - [00:00:27](/episodes/ep-NIEbqsLAK8g.md#t-00-00-00) [✗] (Accusation) **Candace Owens**: ["Federal authorities are doing nothing to investigate Charlie Kirk's assassinatio..."](/statements/statement-1dfa3c1a7731.md)
-  - About: [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
-
-</div>
-<div class="filter-item">
-
-- [00:01:44](/episodes/ep-NIEbqsLAK8g.md#t-00-01-25) [○] (Claim) **Anonymous Source #1 (Ep NIEbqsLAK8g)**: ["The email source claimed he knew Charlie Kirk was going to be assassinated."](/statements/statement-577795d1e8c1.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item">
 
-- [00:02:06](/episodes/ep-NIEbqsLAK8g.md#t-00-02-06) [○] (Accusation) **Anonymous Source #1 (Ep NIEbqsLAK8g)**: ["The email source claimed the families of corrupt police officers and mafia membe..."](/statements/statement-87a17771b303.md)
+- [00:01:44](/episodes/ep-NIEbqsLAK8g.md#t-00-01-15) [○] (Claim) **Anonymous Source #1 (Ep NIEbqsLAK8g)**: ["The email source claimed he knew Charlie Kirk was going to be assassinated."](/statements/statement-577795d1e8c1.md)
+  - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+</div>
+<div class="filter-item">
+
+- [00:02:06](/episodes/ep-NIEbqsLAK8g.md#t-00-01-54) [○] (Accusation) **Anonymous Source #1 (Ep NIEbqsLAK8g)**: ["The email source claimed the families of corrupt police officers and mafia membe..."](/statements/statement-87a17771b303.md)
   - About: [John F. Kennedy](/entities/person-john-f-kennedy.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Texas](/entities/gpe-texas.md)
 
 </div>
 <div class="filter-item">
 
-- [00:02:28](/episodes/ep-NIEbqsLAK8g.md#t-00-02-06) [○] (Claim) **Anonymous Source #1 (Ep NIEbqsLAK8g)**: ["The email source claimed Golda Meir and Lyndon B. Johnson were siblings."](/statements/statement-6fc4e471c12a.md)
+- [00:02:28](/episodes/ep-NIEbqsLAK8g.md#t-00-01-54) [○] (Claim) **Anonymous Source #1 (Ep NIEbqsLAK8g)**: ["The email source claimed Golda Meir and Lyndon B. Johnson were siblings."](/statements/statement-6fc4e471c12a.md)
   - About: [Golda Meir](/entities/person-golda-meir.md), [Lyndon B. Johnson](/entities/person-lyndon-b-johnson.md)
 
 </div>
 <div class="filter-item">
 
-- [00:03:33](/episodes/ep-NIEbqsLAK8g.md#t-00-03-33) [○] (Accusation) **Anonymous Source #1 (Ep NIEbqsLAK8g)**: ["The email source alleged that bought-and-paid-for police officers across the Uni..."](/statements/statement-09966aaf479e.md)
+- [00:03:33](/episodes/ep-NIEbqsLAK8g.md#t-00-03-21) [○] (Accusation) **Anonymous Source #1 (Ep NIEbqsLAK8g)**: ["The email source alleged that bought-and-paid-for police officers across the Uni..."](/statements/statement-09966aaf479e.md)
   - About: [Israel](/entities/gpe-israel.md), [United States](/entities/gpe-united-states.md)
 
 </div>
 <div class="filter-item">
 
-- [00:04:31](/episodes/ep-NIEbqsLAK8g.md#t-00-04-16) [✓] (Citation) **Candace Owens**: ["The Cattle Baron's Ball in Dallas is a single-night fundraiser for the American ..."](/statements/statement-cfddeb98f35b.md)
+- [00:04:31](/episodes/ep-NIEbqsLAK8g.md#t-00-04-02) [✓] (Citation) **Candace Owens**: ["The Cattle Baron's Ball in Dallas is a single-night fundraiser for the American ..."](/statements/statement-cfddeb98f35b.md)
   - About: [American Cancer Society](/entities/org-american-cancer-society.md), [Dallas, Texas](/entities/gpe-dallas-texas.md)
 
 </div>
 <div class="filter-item">
 
-- [00:05:03](/episodes/ep-NIEbqsLAK8g.md#t-00-05-01) [◐] (Citation) **Candace Owens**: ["Nebraska's Cattlemen's Ball became a separate 501(c)(3) that benefits the Fred &..."](/statements/statement-baf97d67738e.md)
+- [00:05:03](/episodes/ep-NIEbqsLAK8g.md#t-00-04-42) [◐] (Citation) **Candace Owens**: ["Candace Owens said Nebraska once hosted its own Cattle Baron's Ball that might b..."](/statements/statement-baf97d67738e.md)
   - About: [Cattlemen's Ball of Nebraska](/entities/org-cattlemens-ball-of-nebraska.md), [Fred & Pamela Buffett Cancer Center](/entities/org-fred-pamela-buffett-cancer-center.md), [Nebraska](/entities/gpe-nebraska.md)
 
 </div>
 <div class="filter-item">
 
-- [00:05:42](/episodes/ep-NIEbqsLAK8g.md#t-00-05-42) [○] (Accusation) **Anonymous Source #1 (Ep NIEbqsLAK8g)**: ["The email source claimed Dan Flood connected Charlie Kirk's alleged monitoring a..."](/statements/statement-5af4e3a94351.md)
+- [00:05:42](/episodes/ep-NIEbqsLAK8g.md#t-00-05-25) [○] (Accusation) **Anonymous Source #1 (Ep NIEbqsLAK8g)**: ["The email source claimed Dan Flood connected Charlie Kirk's alleged monitoring a..."](/statements/statement-5af4e3a94351.md)
   - About: [Dan Flood](/entities/person-dan-flood.md), [Robert Eugene Flood](/entities/person-robert-eugene-flood.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item">
 
-- [00:06:38](/episodes/ep-NIEbqsLAK8g.md#t-00-06-17) [○] (Citation) **Candace Owens**: ["A professional profile says Robert Eugene Flood spent 33 years with the Texas A&..."](/statements/statement-d34b5529bef5.md)
+- [00:06:38](/episodes/ep-NIEbqsLAK8g.md#t-00-06-03) [○] (Citation) **Candace Owens**: ["A professional profile says Robert Eugene Flood spent 33 years with the Texas A&..."](/statements/statement-d34b5529bef5.md)
   - About: [Robert Eugene Flood](/entities/person-robert-eugene-flood.md), [Texas A&M University Police Department](/entities/org-texas-am-university-police-department.md), [Bosque County Sheriff's Office](/entities/org-bosque-county-sheriffs-office.md)
 
 </div>
 <div class="filter-item">
 
-- [00:07:33](/episodes/ep-NIEbqsLAK8g.md#t-00-07-01) [○] (Citation) **Candace Owens**: ["Robert Eugene Flood's professional profile says he was a Marine staff sergeant r..."](/statements/statement-5605fa48507e.md)
+- [00:07:33](/episodes/ep-NIEbqsLAK8g.md#t-00-07-31) [○] (Citation) **Candace Owens**: ["Robert Eugene Flood's professional profile says he was a Marine staff sergeant r..."](/statements/statement-5605fa48507e.md)
   - About: [Robert Eugene Flood](/entities/person-robert-eugene-flood.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md), [United States Army](/entities/org-united-states-army.md)
 
 </div>
 <div class="filter-item">
 
-- [00:07:59](/episodes/ep-NIEbqsLAK8g.md#t-00-07-46) [○] (Claim) **Candace Owens**: ["Candace Owens could not find Illinois news coverage mentioning Robert Eugene Flo..."](/statements/statement-27f37317e429.md)
+- [00:07:59](/episodes/ep-NIEbqsLAK8g.md#t-00-07-59) [○] (Claim) **Candace Owens**: ["Candace Owens could not find Illinois news coverage mentioning Robert Eugene Flo..."](/statements/statement-27f37317e429.md)
   - About: [Robert Eugene Flood](/entities/person-robert-eugene-flood.md), [Illinois](/entities/gpe-illinois.md)
 
 </div>
 <div class="filter-item">
 
-- [00:09:17](/episodes/ep-NIEbqsLAK8g.md#t-00-09-03) [◐] (Citation) **Candace Owens**: ["The FBI Agents Association is a charity founded in 1981 that says it has 14,000 ..."](/statements/statement-d70f584ccc65.md)
+- [00:09:17](/episodes/ep-NIEbqsLAK8g.md#t-00-08-59) [◐] (Citation) **Candace Owens**: ["The FBI Agents Association is a charity founded in 1981 that says it has 14,000 ..."](/statements/statement-d70f584ccc65.md)
   - About: [FBI Agents Association](/entities/org-fbi-agents-association.md), [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md)
 
 </div>
 <div class="filter-item">
 
-- [00:11:37](/episodes/ep-NIEbqsLAK8g.md#t-00-11-11) [✓] (Claim) **Candace Owens**: ["Greg Shaffer worked for the FBI Hostage Rescue Team, supervised the Dallas Joint..."](/statements/statement-69178e8428ef.md)
+- [00:11:37](/episodes/ep-NIEbqsLAK8g.md#t-00-11-05) [✓] (Claim) **Candace Owens**: ["Greg Shaffer worked for the FBI Hostage Rescue Team, supervised the Dallas Joint..."](/statements/statement-69178e8428ef.md)
   - About: [Greg Shaffer](/entities/person-greg-shaffer.md), [FBI Hostage Rescue Team](/entities/org-fbi-hostage-rescue-team.md), [North Texas Joint Terrorism Task Force](/entities/org-north-texas-joint-terrorism-task-force.md)
 
 </div>
 <div class="filter-item">
 
-- [00:12:34](/episodes/ep-NIEbqsLAK8g.md#t-00-11-56) [◐] (Claim) **Candace Owens**: ["Nelda and Karl Buckman, who live in New Braunfels, donated $10 million to Turnin..."](/statements/statement-8b0459b08316.md)
+- [00:12:34](/episodes/ep-NIEbqsLAK8g.md#t-00-12-12) [◐] (Claim) **Candace Owens**: ["Nelda and Karl Buckman, who live in New Braunfels, donated $10 million to Turnin..."](/statements/statement-8b0459b08316.md)
   - About: [Nelda Yaw Buckman](/entities/person-nelda-yaw-buckman.md), [Karl Buckman](/entities/person-karl-buckman.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
 <div class="filter-item">
 
-- [00:12:53](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40) [○] (Claim) **Candace Owens**: ["Dan Flood lives in New Braunfels, Texas, and attended middle and high school in ..."](/statements/statement-83305badaf78.md)
+- [00:12:53](/episodes/ep-NIEbqsLAK8g.md#t-00-12-53) [○] (Claim) **Candace Owens**: ["Dan Flood lives in New Braunfels, Texas, and attended middle and high school in ..."](/statements/statement-83305badaf78.md)
   - About: [Dan Flood](/entities/person-dan-flood.md), [New Braunfels](/entities/gpe-new-braunfels-texas.md), [Allen, Texas](/entities/gpe-allen-texas.md)
 
 </div>
 <div class="filter-item">
 
-- [00:13:09](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40) [○] (Claim) **Anonymous Source #2 (Ep NIEbqsLAK8g)**: ["Dan Flood's high-school friend said they attended middle and high school togethe..."](/statements/statement-cc198aec3a7a.md)
+- [00:13:09](/episodes/ep-NIEbqsLAK8g.md#t-00-12-53) [○] (Claim) **Anonymous Source #2 (Ep NIEbqsLAK8g)**: ["Dan Flood's high-school friend said they attended middle and high school togethe..."](/statements/statement-cc198aec3a7a.md)
   - About: [Dan Flood](/entities/person-dan-flood.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Dallas, Texas](/entities/gpe-dallas-texas.md)
 
 </div>
 <div class="filter-item">
 
-- [00:14:09](/episodes/ep-NIEbqsLAK8g.md#t-00-14-04) [○] (Claim) **Candace Owens**: ["All of Charlie Kirk's security personnel on the day of his assassination, includ..."](/statements/statement-cb561dcf34d6.md)
+- [00:14:09](/episodes/ep-NIEbqsLAK8g.md#t-00-13-35) [○] (Claim) **Candace Owens**: ["All of Charlie Kirk's security personnel on the day of his assassination, includ..."](/statements/statement-cb561dcf34d6.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Rick Cutler](/entities/person-rick-cutler.md), [Dan Flood](/entities/person-dan-flood.md)
 
 </div>
 <div class="filter-item">
 
-- [00:14:28](/episodes/ep-NIEbqsLAK8g.md#t-00-14-04) [✓] (Claim) **Bobby Harpole**: ["Bobby Harpole said he began his law-enforcement career with the Texas Department..."](/statements/statement-5bf1f2178c87.md)
+- [00:14:28](/episodes/ep-NIEbqsLAK8g.md#t-00-14-16) [✓] (Claim) **Bobby Harpole**: ["Bobby Harpole said he began his law-enforcement career with the Texas Department..."](/statements/statement-5bf1f2178c87.md)
   - About: [Bobby Harpole](/entities/person-bobby-harpole.md), [Texas Department of Public Safety](/entities/org-texas-department-of-public-safety.md), [Erath County Sheriff's Office](/entities/org-erath-county-sheriffs-office.md)
 
 </div>
 <div class="filter-item">
 
-- [00:20:51](/episodes/ep-NIEbqsLAK8g.md#t-00-20-25) [✓] (Claim) **Zach De Gregorio**: ["Zach De Gregorio received a Turning Point USA letter titled 'Demand to Cease and..."](/statements/statement-9db10fe7a657.md)
+- [00:20:51](/episodes/ep-NIEbqsLAK8g.md#t-00-20-06) [✓] (Claim) **Zach De Gregorio**: ["Zach De Gregorio received a Turning Point USA letter titled 'Demand to Cease and..."](/statements/statement-9db10fe7a657.md)
   - About: [Zach De Gregorio](/entities/person-zach-de-gregorio.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Wolves and Finance](/entities/org-wolves-and-finance.md)
 
 </div>
 <div class="filter-item">
 
-- [00:21:34](/episodes/ep-NIEbqsLAK8g.md#t-00-20-51) [○] (Accusation) **Zach De Gregorio**: ["Turning Point USA's letter did not address most of Zach De Gregorio's questions ..."](/statements/statement-8da643fcc1bb.md)
+- [00:21:34](/episodes/ep-NIEbqsLAK8g.md#t-00-21-32) [○] (Accusation) **Zach De Gregorio**: ["Turning Point USA's letter did not address most of Zach De Gregorio's questions ..."](/statements/statement-8da643fcc1bb.md)
   - About: [Zach De Gregorio](/entities/person-zach-de-gregorio.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Wolves and Finance](/entities/org-wolves-and-finance.md)
 
 </div>
@@ -66690,7 +66709,7 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:26:33](/episodes/ep-NIEbqsLAK8g.md#t-00-26-32) [○] (Claim) **Andrew Kolvet**: ["The crowd images shown to Charlie Kirk came from an elevated walkway or bridge a..."](/statements/statement-b223ebe949ad.md)
+- [00:26:33](/episodes/ep-NIEbqsLAK8g.md#t-00-26-30) [○] (Claim) **Andrew Kolvet**: ["The crowd images shown to Charlie Kirk came from an elevated walkway or bridge a..."](/statements/statement-b223ebe949ad.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
 </div>
@@ -66702,31 +66721,31 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:28:33](/episodes/ep-NIEbqsLAK8g.md#t-00-28-16) [○] (Opinion) **Zach De Gregorio**: ["Zach De Gregorio did not believe Turning Point USA's drone explanation and said ..."](/statements/statement-c0eb78a2bbe7.md)
+- [00:28:33](/episodes/ep-NIEbqsLAK8g.md#t-00-28-10) [○] (Opinion) **Zach De Gregorio**: ["Zach De Gregorio did not believe Turning Point USA's drone explanation and said ..."](/statements/statement-c0eb78a2bbe7.md)
   - About: [Zach De Gregorio](/entities/person-zach-de-gregorio.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item">
 
-- [00:29:45](/episodes/ep-NIEbqsLAK8g.md#t-00-29-00) [○] (Accusation) **Candace Owens**: ["Turning Point USA and its security representatives are lying about the drones an..."](/statements/statement-73e35afd8842.md)
+- [00:29:45](/episodes/ep-NIEbqsLAK8g.md#t-00-29-42) [○] (Accusation) **Candace Owens**: ["Turning Point USA and its security representatives are lying about the drones an..."](/statements/statement-73e35afd8842.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Brian Harpole](/entities/person-brian-harpole.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
 </div>
 <div class="filter-item">
 
-- [00:30:58](/episodes/ep-NIEbqsLAK8g.md#t-00-30-28) [✓] (Claim) **Erika Kirk**: ["Everyday Heroes Like You initially funded and promoted transparent grassroots or..."](/statements/statement-f3e38bba5ce2.md)
+- [00:30:58](/episodes/ep-NIEbqsLAK8g.md#t-00-30-27) [✓] (Claim) **Erika Kirk**: ["Everyday Heroes Like You initially funded and promoted transparent grassroots or..."](/statements/statement-f3e38bba5ce2.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Everyday Heroes Like You](/entities/org-everyday-heroes-like-you.md)
 
 </div>
 <div class="filter-item">
 
-- [00:31:25](/episodes/ep-NIEbqsLAK8g.md#t-00-30-58) [◐] (Claim) **Erika Kirk**: ["Erika Kirk said that while living in China she worked with sex-trafficking victi..."](/statements/statement-eddb8602cc35.md)
+- [00:31:25](/episodes/ep-NIEbqsLAK8g.md#t-00-31-23) [◐] (Claim) **Erika Kirk**: ["Erika Kirk said that while living in China she worked with sex-trafficking victi..."](/statements/statement-eddb8602cc35.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [China](/entities/gpe-china.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md)
 
 </div>
 <div class="filter-item">
 
-- [00:32:01](/episodes/ep-NIEbqsLAK8g.md#t-00-31-25) [○] (Claim) **Candace Owens**: ["Candace Owens reported that Turning Point USA's official response said Erika Kir..."](/statements/statement-d5bf18c557bc.md)
+- [00:32:01](/episodes/ep-NIEbqsLAK8g.md#t-00-31-23) [○] (Claim) **Candace Owens**: ["Candace Owens reported that Turning Point USA's official response said Erika Kir..."](/statements/statement-d5bf18c557bc.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md), [China](/entities/gpe-china.md)
 
 </div>
@@ -66756,7 +66775,7 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:42:55](/episodes/ep-NIEbqsLAK8g.md#t-00-42-16) [○] (Opinion) **Candace Owens**: ["Erika Kirk is not leading Turning Point USA in the direction Charlie Kirk would ..."](/statements/statement-77061ecc2cfa.md)
+- [00:42:55](/episodes/ep-NIEbqsLAK8g.md#t-00-42-22) [○] (Opinion) **Candace Owens**: ["Erika Kirk is not leading Turning Point USA in the direction Charlie Kirk would ..."](/statements/statement-77061ecc2cfa.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
@@ -66899,7 +66918,7 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:21:23](/episodes/ep-X92MllIHDzw.md#t-00-20-45) [○] (Opinion) **Nelda Yaw Buckman**: ["Nelda Buckman said that she and Erika Kirk discussed womanhood, what the culture..."](/statements/statement-65cacd9c8735.md)
+- [00:21:23](/episodes/ep-X92MllIHDzw.md#t-00-20-45) [✓] (Opinion) **Nelda Yaw Buckman**: ["Nelda Buckman said that she and Erika Kirk discussed womanhood, what the culture..."](/statements/statement-65cacd9c8735.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md)
 
 </div>
@@ -66964,7 +66983,7 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:37:24](/episodes/ep-X92MllIHDzw.md#t-00-37-15) [○] (Opinion) **Nick Fuentes**: ["The Epstein conduct was not really pedophilia because the victims were not five-..."](/statements/statement-4108402e7361.md)
+- [00:37:24](/episodes/ep-X92MllIHDzw.md#t-00-37-15) [✓] (Opinion) **Nick Fuentes**: ["The Epstein conduct was not really pedophilia because the victims were not five-..."](/statements/statement-4108402e7361.md)
   - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md)
 
 </div>
@@ -67018,13 +67037,14 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:42:52](/episodes/ep-X92MllIHDzw.md#t-00-42-10) [○] (Opinion) **Nick Fuentes**: ["The Epstein matter is not about female victims; it is about the integrity of the..."](/statements/statement-63eaaa31c41d.md)
+- [00:42:52](/episodes/ep-X92MllIHDzw.md#t-00-42-10) [✓] (Opinion) **Nick Fuentes**: ["The Epstein matter is not about female victims; it is about the integrity of the..."](/statements/statement-63eaaa31c41d.md)
   - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Marjorie Taylor Greene](/entities/person-marjorie-taylor-greene.md), [United States](/entities/gpe-united-states.md)
 
 </div>
 <div class="filter-item">
 
-- [00:44:18](/episodes/ep-X92MllIHDzw.md#t-00-44-18) [○] (Opinion) **Nick Fuentes**: ["People from sub-Saharan Africa do not have a high IQ."](/statements/statement-e65d3024fc54.md)
+- [00:44:18](/episodes/ep-X92MllIHDzw.md#t-00-44-18) [○] (Opinion) **Candace Owens**: ["Candace Owens says Nick Fuentes told her that people from sub-Saharan Africa do ..."](/statements/statement-e65d3024fc54.md)
+  - About: [Nick Fuentes](/entities/person-nick-fuentes.md)
 
 </div>
 <div class="filter-item">
@@ -67072,7 +67092,7 @@ _4042 factual claims within 6902 attributed statements._
 </details>
 
 <details>
-<summary><strong>2026-01-16 · Myron Gaines x Candace Owens</strong> (45)</summary>
+<summary><strong>2026-01-16 · Myron Gaines x Candace Owens</strong> (46)</summary>
 
 <div class="filter-item">
 
@@ -67106,13 +67126,13 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:05:41](/episodes/ep-2T39-oADLj0.md#t-00-05-13) [✓] (Claim) **Candace Owens**: ["Emma Goldman was Margaret Sanger's mentor."](/statements/statement-d4c9228da759.md)
+- [00:05:41](/episodes/ep-2T39-oADLj0.md#t-00-05-00) [✓] (Claim) **Candace Owens**: ["Emma Goldman was Margaret Sanger's mentor."](/statements/statement-d4c9228da759.md)
   - About: [Emma Goldman](/entities/person-emma-goldman.md), [Margaret Sanger](/entities/person-margaret-sanger.md)
 
 </div>
 <div class="filter-item">
 
-- [00:06:35](/episodes/ep-2T39-oADLj0.md#t-00-06-19) [◐] (Claim) **Candace Owens**: ["Women are more miserable than they have ever been."](/statements/statement-b79132b86ecf.md)
+- [00:06:35](/episodes/ep-2T39-oADLj0.md#t-00-06-20) [◐] (Claim) **Candace Owens**: ["Women are more miserable than they have ever been."](/statements/statement-b79132b86ecf.md)
   - About: [Feminism](/entities/concept-feminism.md)
 
 </div>
@@ -67124,7 +67144,7 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:12:39](/episodes/ep-2T39-oADLj0.md#t-00-11-56) [◐] (Claim) **Candace Owens**: ["Girls begin speaking earlier than boys, and women speak more words than men thro..."](/statements/statement-9c4e6cce5617.md)
+- [00:12:39](/episodes/ep-2T39-oADLj0.md#t-00-12-36) [◐] (Claim) **Candace Owens**: ["Girls begin speaking earlier than boys, and women speak more words than men thro..."](/statements/statement-9c4e6cce5617.md)
   - About: [Feminism](/entities/concept-feminism.md)
 
 </div>
@@ -67250,7 +67270,7 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:54:16](/episodes/ep-2T39-oADLj0.md#t-00-53-48) [◐] (Accusation) **Candace Owens**: ["Calvary Chapel has repeatedly been accused of hostile takeovers of faith organiz..."](/statements/statement-069dad6c023a.md)
+- [00:54:16](/episodes/ep-2T39-oADLj0.md#t-00-53-48) [◐] (Accusation) **Candace Owens**: ["Owens said it looked like Calvary Chapel had previously been accused of hostile ..."](/statements/statement-069dad6c023a.md)
   - About: [Calvary Chapel](/entities/org-calvary-chapel.md), [Rob McCoy](/entities/person-rob-mccoy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
@@ -67292,7 +67312,7 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [01:03:17](/episodes/ep-2T39-oADLj0.md#t-01-03-01) [✓] (Claim) **Anonymous Source #1 (Ep 2T39-oADLj0)**: ["Something military-related was housed on the third floor of the Losey building."](/statements/statement-426165d54ef7.md)
+- [01:03:17](/episodes/ep-2T39-oADLj0.md#t-01-03-01) [✓] (Claim) **Anonymous Source #1 (Ep 2T39-oADLj0)**: ["According to Candace Owens's anonymous source, something military-related was in..."](/statements/statement-426165d54ef7.md)
   - About: [United States Armed Forces](/entities/org-united-states-armed-forces.md)
 
 </div>
@@ -67318,6 +67338,12 @@ _4042 factual claims within 6902 attributed statements._
 
 - [01:06:46](/episodes/ep-2T39-oADLj0.md#t-01-06-38) [○] (Accusation) **Candace Owens**: ["The Charlie Kirk killing was an operation involving people compromised through p..."](/statements/statement-826d5f11b52c.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [George Zinn](/entities/person-george-zinn.md)
+
+</div>
+<div class="filter-item">
+
+- [01:06:59](/episodes/ep-2T39-oADLj0.md#t-01-06-59) [○] (Claim) **George Zinn**: ["George Zinn told a nurse that he was being paid, though he did not know how he w..."](/statements/statement-806ba9cea5e3.md)
+  - About: [George Zinn](/entities/person-george-zinn.md)
 
 </div>
 <div class="filter-item">
@@ -67357,31 +67383,31 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:02:36](/episodes/ep-BKcOm32ZEGk.md#t-00-01-59) [○] (Claim) **Candace Owens**: ["Charlie Kirk repeatedly told Candace Owens that he was a time traveler."](/statements/statement-9afdb0bd9fc3.md)
+- [00:02:36](/episodes/ep-BKcOm32ZEGk.md#t-00-01-56) [○] (Claim) **Candace Owens**: ["Charlie Kirk repeatedly told Candace Owens that he was a time traveler."](/statements/statement-9afdb0bd9fc3.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
 <div class="filter-item">
 
-- [00:03:19](/episodes/ep-BKcOm32ZEGk.md#t-00-02-43) [○] (Claim) **Candace Owens**: ["Before he had much fame, Charlie Kirk was required to have security with him at ..."](/statements/statement-d72077f27f3f.md)
+- [00:03:19](/episodes/ep-BKcOm32ZEGk.md#t-00-03-19) [○] (Claim) **Candace Owens**: ["Before he had much fame, Charlie Kirk was required to have security with him at ..."](/statements/statement-d72077f27f3f.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Bill Montgomery](/entities/person-bill-montgomery.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
 <div class="filter-item">
 
-- [00:03:48](/episodes/ep-BKcOm32ZEGk.md#t-00-03-28) [✓] (Claim) **Candace Owens**: ["Charlie Kirk wanted to attend West Point but instead started Turning Point USA w..."](/statements/statement-4de814e967b1.md)
+- [00:03:48](/episodes/ep-BKcOm32ZEGk.md#t-00-03-19) [✓] (Claim) **Candace Owens**: ["Charlie Kirk wanted to attend West Point but instead started Turning Point USA w..."](/statements/statement-4de814e967b1.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [United States Military Academy](/entities/org-united-states-military-academy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
 <div class="filter-item">
 
-- [00:04:18](/episodes/ep-BKcOm32ZEGk.md#t-00-04-10) [?] (Claim) **Charlie Kirk**: ["When Charlie Kirk was young, adults wanted to drug him; his mother refused, and ..."](/statements/statement-7fad0c9ade03.md)
+- [00:04:18](/episodes/ep-BKcOm32ZEGk.md#t-00-03-54) [?] (Claim) **Candace Owens**: ["When Charlie Kirk was young, adults wanted to drug him; his mother refused, and ..."](/statements/statement-7fad0c9ade03.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </div>
 <div class="filter-item">
 
-- [00:04:44](/episodes/ep-BKcOm32ZEGk.md#t-00-04-10) [○] (Opinion) **Candace Owens**: ["Based on her conversations with Charlie Kirk, Candace Owens believes he had been..."](/statements/statement-578962b6dc1a.md)
+- [00:04:44](/episodes/ep-BKcOm32ZEGk.md#t-00-04-21) [○] (Opinion) **Candace Owens**: ["Based on her conversations with Charlie Kirk, Candace Owens believes he had been..."](/statements/statement-578962b6dc1a.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
@@ -67393,25 +67419,25 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:22:27](/episodes/ep-BKcOm32ZEGk.md#t-00-21-57) [○] (Accusation) **Candace Owens**: ["People managing Charlie Kirk panicked when he began pushing back and decided to ..."](/statements/statement-be49665a1d41.md)
+- [00:22:27](/episodes/ep-BKcOm32ZEGk.md#t-00-21-49) [○] (Accusation) **Candace Owens**: ["People managing Charlie Kirk seemed to panic when he began pushing back and, acc..."](/statements/statement-be49665a1d41.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </div>
 <div class="filter-item">
 
-- [00:24:11](/episodes/ep-BKcOm32ZEGk.md#t-00-24-06) [◐] (Accusation) **Candace Owens**: ["COVID-19 was created in a lab, people were made sick, and people were forced to ..."](/statements/statement-ee790d7aa477.md)
+- [00:24:11](/episodes/ep-BKcOm32ZEGk.md#t-00-23-59) [◐] (Accusation) **Candace Owens**: ["COVID-19 was created in a lab, people were made sick, and people were forced to ..."](/statements/statement-ee790d7aa477.md)
   - About: [COVID-19](/entities/concept-covid-19.md)
 
 </div>
 <div class="filter-item">
 
-- [00:28:16](/episodes/ep-BKcOm32ZEGk.md#t-00-28-10) [○] (Claim) **Candace Owens**: ["Candace Owens lost a job partly because she said pornography was a spiritual wea..."](/statements/statement-86cf5bc991df.md)
+- [00:28:16](/episodes/ep-BKcOm32ZEGk.md#t-00-28-15) [○] (Claim) **Candace Owens**: ["Candace Owens lost a job partly because she said pornography was a spiritual wea..."](/statements/statement-86cf5bc991df.md)
   - About: [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
 <div class="filter-item">
 
-- [00:32:19](/episodes/ep-BKcOm32ZEGk.md#t-00-31-40) [◐] (Citation) **Candace Owens**: ["A Spectator UK article argued that COVID-19 was established to mirror a religion..."](/statements/statement-1d6a5f522fbd.md)
+- [00:32:19](/episodes/ep-BKcOm32ZEGk.md#t-00-32-19) [◐] (Citation) **Candace Owens**: ["A Spectator UK article argued that COVID-19 was established to mirror a religion..."](/statements/statement-1d6a5f522fbd.md)
   - About: [The Spectator](/entities/org-the-spectator.md), [COVID-19](/entities/concept-covid-19.md)
 
 </div>
@@ -67441,56 +67467,56 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:36:37](/episodes/ep-BKcOm32ZEGk.md#t-00-36-37) [✓] (Citation) **Candace Owens**: ["An article read during the episode reported that a satanic human-sacrifice scene..."](/statements/statement-ba91c8450d69.md)
+- [00:36:37](/episodes/ep-BKcOm32ZEGk.md#t-00-36-32) [✓] (Citation) **Candace Owens**: ["An article read during the episode reported that a satanic human-sacrifice scene..."](/statements/statement-ba91c8450d69.md)
   - About: [CERN](/entities/org-cern.md)
 
 </div>
 <div class="filter-item">
 
-- [00:37:22](/episodes/ep-BKcOm32ZEGk.md#t-00-37-21) [✓] (Claim) **Anonymous Source #2 (Ep BKcOm32ZEGk)**: ["The staged ritual video was a prank, and the participants had taken their sense ..."](/statements/statement-4611b46fdc7e.md)
+- [00:37:22](/episodes/ep-BKcOm32ZEGk.md#t-00-37-09) [✓] (Claim) **Anonymous Source #2 (Ep BKcOm32ZEGk)**: ["The staged ritual video was a prank, and the participants had taken their sense ..."](/statements/statement-4611b46fdc7e.md)
   - About: [CERN](/entities/org-cern.md)
 
 </div>
 <div class="filter-item">
 
-- [00:43:19](/episodes/ep-BKcOm32ZEGk.md#t-00-42-53) [✓] (Accusation) **Candace Owens**: ["Mike Pompeo discussed options to take out Julian Assange."](/statements/statement-a3341945112a.md)
+- [00:43:19](/episodes/ep-BKcOm32ZEGk.md#t-00-43-19) [✓] (Accusation) **Candace Owens**: ["Mike Pompeo discussed options to take out Julian Assange."](/statements/statement-a3341945112a.md)
   - About: [Mike Pompeo](/entities/person-mike-pompeo.md), [Julian Assange](/entities/person-julian-assange.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
 
 </div>
 <div class="filter-item">
 
-- [00:43:25](/episodes/ep-BKcOm32ZEGk.md#t-00-42-53) [◐] (Accusation) **Candace Owens**: ["Mike Pompeo was arguing that future history books should omit the killing of Pal..."](/statements/statement-881ef72df2a3.md)
+- [00:43:25](/episodes/ep-BKcOm32ZEGk.md#t-00-43-19) [◐] (Accusation) **Candace Owens**: ["Mike Pompeo was arguing that future history books should omit the killing of Pal..."](/statements/statement-881ef72df2a3.md)
   - About: [Mike Pompeo](/entities/person-mike-pompeo.md), [Palestine](/entities/gpe-palestine.md), [Gaza](/entities/gpe-gaza.md)
 
 </div>
 <div class="filter-item">
 
-- [00:43:56](/episodes/ep-BKcOm32ZEGk.md#t-00-43-45) [○] (Opinion) **Mike Pompeo**: ["Future history books should not describe Gazans as the victims; they should iden..."](/statements/statement-27c869572b62.md)
+- [00:43:56](/episodes/ep-BKcOm32ZEGk.md#t-00-43-45) [✓] (Opinion) **Mike Pompeo**: ["Future history books should not describe Gazans as the victims; they should iden..."](/statements/statement-27c869572b62.md)
   - About: [Gaza](/entities/gpe-gaza.md), [Israel](/entities/gpe-israel.md), [Iran](/entities/gpe-iran.md)
 
 </div>
 <div class="filter-item">
 
-- [00:48:26](/episodes/ep-BKcOm32ZEGk.md#t-00-48-12) [○] (Accusation) **Anonymous Source #1 (Ep BKcOm32ZEGk)**: ["Carly said her father, a military police officer stationed with Michael Aquino i..."](/statements/statement-8377c5a6c29d.md)
+- [00:48:26](/episodes/ep-BKcOm32ZEGk.md#t-00-48-11) [○] (Accusation) **Anonymous Source #1 (Ep BKcOm32ZEGk)**: ["Carly said her father, a military police officer stationed with Michael Aquino i..."](/statements/statement-8377c5a6c29d.md)
   - About: [Michael Aquino](/entities/person-michael-aquino.md), [United States Armed Forces](/entities/org-united-states-armed-forces.md)
 
 </div>
 <div class="filter-item">
 
-- [00:50:38](/episodes/ep-BKcOm32ZEGk.md#t-00-50-21) [◐] (Claim) **Candace Owens**: ["In 2024, YouTube demonetized Candace Owens."](/statements/statement-4fa9721c2695.md)
+- [00:50:38](/episodes/ep-BKcOm32ZEGk.md#t-00-50-38) [◐] (Claim) **Candace Owens**: ["In 2024, YouTube demonetized Candace Owens."](/statements/statement-4fa9721c2695.md)
   - About: [Candace Owens](/entities/person-candace-owens.md), [YouTube](/entities/org-youtube.md)
 
 </div>
 <div class="filter-item">
 
-- [00:51:12](/episodes/ep-BKcOm32ZEGk.md#t-00-51-05) [◐] (Accusation) **Candace Owens**: ["In 2024, people tried to cancel Candace Owens's speaking events and threatened o..."](/statements/statement-4577e71e1f23.md)
+- [00:51:12](/episodes/ep-BKcOm32ZEGk.md#t-00-51-12) [◐] (Accusation) **Candace Owens**: ["In 2024, people tried to cancel Candace Owens's speaking events and threatened o..."](/statements/statement-4577e71e1f23.md)
   - About: [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
 </details>
 
 <details>
-<summary><strong>2026-01-13 · CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</strong> (40)</summary>
+<summary><strong>2026-01-13 · CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</strong> (42)</summary>
 
 <div class="filter-item">
 
@@ -67500,19 +67526,19 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:01:58](/episodes/ep-ZZGWo6oDscc.md#t-00-01-23) [○] (Claim) **Candace Owens**: ["Bill Ackman confirmed that he gave a presentation encouraging younger generation..."](/statements/statement-4c4334b7bc81.md)
+- [00:01:58](/episodes/ep-ZZGWo6oDscc.md#t-00-01-19) [○] (Claim) **Candace Owens**: ["Bill Ackman confirmed that he gave a presentation encouraging younger generation..."](/statements/statement-4c4334b7bc81.md)
   - About: [Bill Ackman](/entities/person-bill-ackman.md), [Land grab](/entities/concept-land-grab.md)
 
 </div>
 <div class="filter-item">
 
-- [00:03:18](/episodes/ep-ZZGWo6oDscc.md#t-00-03-11) [◐] (Accusation) **Candace Owens**: ["War with Iran is back on the table because Israel wants it."](/statements/statement-120b0bd48279.md)
+- [00:03:18](/episodes/ep-ZZGWo6oDscc.md#t-00-03-04) [◐] (Accusation) **Candace Owens**: ["War with Iran is back on the table because Israel wants it."](/statements/statement-120b0bd48279.md)
   - About: [Israel](/entities/gpe-israel.md), [Iran](/entities/gpe-iran.md)
 
 </div>
 <div class="filter-item">
 
-- [00:03:30](/episodes/ep-ZZGWo6oDscc.md#t-00-03-11) [◐] (Claim) **Candace Owens**: ["According to Tucker Carlson and others, Charlie Kirk went head-to-head with Benj..."](/statements/statement-b2921bff7c51.md)
+- [00:03:30](/episodes/ep-ZZGWo6oDscc.md#t-00-03-04) [◐] (Claim) **Candace Owens**: ["According to Tucker Carlson and others, Charlie Kirk went head-to-head with Benj..."](/statements/statement-b2921bff7c51.md)
   - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 
 </div>
@@ -67524,19 +67550,19 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:05:37](/episodes/ep-ZZGWo6oDscc.md#t-00-05-37) [○] (Opinion) **Charlie Kirk**: ["Plans for wars in the Middle East rarely unfold as drawn up and may have uninten..."](/statements/statement-319086dc735c.md)
+- [00:05:37](/episodes/ep-ZZGWo6oDscc.md#t-00-05-34) [○] (Opinion) **Charlie Kirk**: ["Plans for wars in the Middle East rarely unfold as drawn up and may have uninten..."](/statements/statement-319086dc735c.md)
   - About: [Middle East](/entities/gpe-middle-east.md), [Iran](/entities/gpe-iran.md), [Neoconservatism](/entities/concept-neoconservatism.md)
 
 </div>
 <div class="filter-item">
 
-- [00:07:11](/episodes/ep-ZZGWo6oDscc.md#t-00-07-08) [◐] (Accusation) **Candace Owens**: ["I think personally he's got the largest blackmail file, whatever Israel has on h..."](/statements/statement-7c2487d3cfc3.md)
+- [00:07:11](/episodes/ep-ZZGWo6oDscc.md#t-00-07-06) [◐] (Accusation) **Candace Owens**: ["I think personally he's got the largest blackmail file, whatever Israel has on h..."](/statements/statement-7c2487d3cfc3.md)
   - About: [Lindsey Graham](/entities/person-lindsey-graham.md), [Israel](/entities/gpe-israel.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
 </div>
 <div class="filter-item">
 
-- [00:07:43](/episodes/ep-ZZGWo6oDscc.md#t-00-07-08) [✓] (Accusation) **Tucker Carlson**: ["What you don't want are flighty, emotionally incontinent, silly people on the pa..."](/statements/statement-b3c35b55e3f1.md)
+- [00:07:43](/episodes/ep-ZZGWo6oDscc.md#t-00-07-06) [✓] (Accusation) **Tucker Carlson**: ["What you don't want are flighty, emotionally incontinent, silly people on the pa..."](/statements/statement-b3c35b55e3f1.md)
   - About: [Lindsey Graham](/entities/person-lindsey-graham.md)
 
 </div>
@@ -67554,120 +67580,132 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:10:15](/episodes/ep-ZZGWo6oDscc.md#t-00-09-30) [○] (Claim) **Candace Owens**: ["The aircraft SU-BTU flew into Provo after May 27 with Walid Mahmoud aboard."](/statements/statement-7d7f3b51147c.md)
+- [00:10:15](/episodes/ep-ZZGWo6oDscc.md#t-00-10-10) [○] (Claim) **Candace Owens**: ["The aircraft SU-BTU flew into Provo after May 27 with Walid Mahmoud aboard."](/statements/statement-7d7f3b51147c.md)
   - About: [SU-BTU](/entities/vehicle-su-btu.md), [Provo](/entities/gpe-provo.md), [Egypt](/entities/gpe-egypt.md)
 
 </div>
 <div class="filter-item">
 
-- [00:10:24](/episodes/ep-ZZGWo6oDscc.md#t-00-10-15) [◐] (Claim) **Candace Owens**: ["Aircraft can trick their transponders, and the relevant flights to Provo do not ..."](/statements/statement-c27c15b8cb80.md)
+- [00:10:24](/episodes/ep-ZZGWo6oDscc.md#t-00-10-10) [◐] (Claim) **Candace Owens**: ["Aircraft can trick their transponders, and the relevant flights to Provo do not ..."](/statements/statement-c27c15b8cb80.md)
   - About: [SU-BTU](/entities/vehicle-su-btu.md), [Provo](/entities/gpe-provo.md), [Cairo](/entities/gpe-cairo.md)
 
 </div>
 <div class="filter-item">
 
-- [00:12:25](/episodes/ep-ZZGWo6oDscc.md#t-00-11-44) [○] (Citation) **Candace Owens**: ["On June 19, Erika Kirk deleted 126 Instagram posts, according to Social Blade."](/statements/statement-e19b9bb16ace.md)
+- [00:12:25](/episodes/ep-ZZGWo6oDscc.md#t-00-12-06) [○] (Citation) **Candace Owens**: ["On June 19, Erika Kirk deleted 126 Instagram posts, according to Social Blade."](/statements/statement-e19b9bb16ace.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md), [Instagram](/entities/org-instagram.md), [Social Blade](/entities/org-social-blade.md)
 
 </div>
 <div class="filter-item">
 
-- [00:13:31](/episodes/ep-ZZGWo6oDscc.md#t-00-13-05) [◐] (Accusation) **Candace Owens**: ["The CIA and Mossad are manufacturing a color revolution in Iran and pretending i..."](/statements/statement-7735fd0be3a8.md)
+- [00:13:31](/episodes/ep-ZZGWo6oDscc.md#t-00-12-51) [◐] (Accusation) **Candace Owens**: ["I might actually believe Iran's protests were organic if the CIA and Mossad used..."](/statements/statement-7735fd0be3a8.md)
   - About: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Mossad](/entities/org-mossad.md), [Iran](/entities/gpe-iran.md)
 
 </div>
 <div class="filter-item">
 
-- [00:14:12](/episodes/ep-ZZGWo6oDscc.md#t-00-13-49) [○] (Accusation) **Candace Owens**: ["Charlie Kirk's assassination was good for Benjamin Netanyahu's war ambitions in ..."](/statements/statement-ba3417f20e97.md)
+- [00:14:12](/episodes/ep-ZZGWo6oDscc.md#t-00-13-31) [○] (Accusation) **Candace Owens**: ["Charlie Kirk's assassination was good for Benjamin Netanyahu's war ambitions in ..."](/statements/statement-ba3417f20e97.md)
   - About: [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md), [Iran](/entities/gpe-iran.md)
 
 </div>
 <div class="filter-item">
 
-- [00:15:42](/episodes/ep-ZZGWo6oDscc.md#t-00-15-13) [✓] (Citation) **Candace Owens**: ["A December 2024 court petition challenged the last will, testament, and trust of..."](/statements/statement-5a11a9e8c496.md)
+- [00:15:42](/episodes/ep-ZZGWo6oDscc.md#t-00-15-12) [✓] (Citation) **Candace Owens**: ["A December 2024 court petition challenged the last will, testament, and trust of..."](/statements/statement-5a11a9e8c496.md)
   - About: [Alton C. Jennings](/entities/person-alton-c-jennings.md)
 
 </div>
 <div class="filter-item">
 
-- [00:16:23](/episodes/ep-ZZGWo6oDscc.md#t-00-15-58) [✓] (Accusation) **Anonymous Source #1 (Ep ZZGWo6oDscc)**: ["After being hired as Alton C. Jennings's caretaker, Mitchell Manley Sr. isolated..."](/statements/statement-35de484f46fe.md)
+- [00:16:23](/episodes/ep-ZZGWo6oDscc.md#t-00-15-51) [✓] (Accusation) **Anonymous Source #1 (Ep ZZGWo6oDscc)**: ["After being hired as Alton C. Jennings's caretaker, Mitchell Manley Sr. isolated..."](/statements/statement-35de484f46fe.md)
   - About: [Mitchell Manley Sr.](/entities/person-mitchell-manley-sr.md), [Alton C. Jennings](/entities/person-alton-c-jennings.md)
 
 </div>
 <div class="filter-item">
 
-- [00:16:38](/episodes/ep-ZZGWo6oDscc.md#t-00-15-58) [✓] (Claim) **Candace Owens**: ["Mitch Manley Jr., the caretaker's son, was working for Turning Point USA on Char..."](/statements/statement-6e6155a9c6df.md)
+- [00:16:38](/episodes/ep-ZZGWo6oDscc.md#t-00-16-23) [✓] (Claim) **Candace Owens**: ["Mitch Manley Jr., the caretaker's son, was working for Turning Point USA on Char..."](/statements/statement-6e6155a9c6df.md)
   - About: [Mitch Manley Jr.](/entities/person-mitch-manley-jr.md), [Turning Point USA](/entities/org-turning-point-usa.md), [Mitchell Manley Sr.](/entities/person-mitchell-manley-sr.md)
 
 </div>
 <div class="filter-item">
 
-- [00:17:00](/episodes/ep-ZZGWo6oDscc.md#t-00-16-43) [✓] (Accusation) **Anonymous Source #1 (Ep ZZGWo6oDscc)**: ["Four months before Alton C. Jennings died, his will was changed in November 2023..."](/statements/statement-c59ce538da60.md)
+- [00:17:00](/episodes/ep-ZZGWo6oDscc.md#t-00-16-23) [✓] (Accusation) **Anonymous Source #1 (Ep ZZGWo6oDscc)**: ["Four months before Alton C. Jennings died, his will was changed in November 2023..."](/statements/statement-c59ce538da60.md)
   - About: [Alton C. Jennings](/entities/person-alton-c-jennings.md), [Turning Point Action](/entities/org-turning-point-action.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
 </div>
 <div class="filter-item">
 
-- [00:19:47](/episodes/ep-ZZGWo6oDscc.md#t-00-19-30) [✓] (Claim) **Candace Owens**: ["Paul E. Vallely was a military commander of the 7th Psychological Operations Gro..."](/statements/statement-cf3bd1ed90b0.md)
+- [00:19:30](/episodes/ep-ZZGWo6oDscc.md#t-00-19-09) [◐] (Claim) **Candace Owens**: ["Paul E. Vallely, a Turning Point USA board member and former commander of the 7t..."](/statements/statement-8e69357e3b15.md)
+  - About: [Paul E. Vallely](/entities/person-paul-e-vallely.md), [Michael Aquino](/entities/person-michael-aquino.md), [MindWar](/entities/work-mindwar.md)
+
+</div>
+<div class="filter-item">
+
+- [00:19:47](/episodes/ep-ZZGWo6oDscc.md#t-00-19-09) [✓] (Claim) **Candace Owens**: ["Paul E. Vallely was a military commander of the 7th Psychological Operations Gro..."](/statements/statement-cf3bd1ed90b0.md)
   - About: [Paul E. Vallely](/entities/person-paul-e-vallely.md), [7th Psychological Operations Group](/entities/org-7th-psychological-operations-group.md)
 
 </div>
 <div class="filter-item">
 
-- [00:20:07](/episodes/ep-ZZGWo6oDscc.md#t-00-19-30) [◐] (Accusation) **Candace Owens**: ["The U.S. military runs mind wars, and military-operated internet farms and bots ..."](/statements/statement-8f716ef30cf8.md)
+- [00:20:07](/episodes/ep-ZZGWo6oDscc.md#t-00-19-47) [◐] (Accusation) **Candace Owens**: ["The U.S. military runs mind wars, and Candace Owens suggested military-run inter..."](/statements/statement-8f716ef30cf8.md)
   - About: [United States Armed Forces](/entities/org-united-states-armed-forces.md), [Psychological operations](/entities/concept-psychological-operations.md), [Dead Internet theory](/entities/concept-dead-internet-theory.md)
 
 </div>
 <div class="filter-item">
 
-- [00:22:05](/episodes/ep-ZZGWo6oDscc.md#t-00-21-21) [◐] (Accusation) **Candace Owens**: ["The moon landing and the Manson murders were military operations."](/statements/statement-ea198cc13b65.md)
+- [00:22:05](/episodes/ep-ZZGWo6oDscc.md#t-00-21-58) [◐] (Accusation) **Candace Owens**: ["The moon landing and the Manson murders were military operations."](/statements/statement-ea198cc13b65.md)
   - About: [United States Armed Forces](/entities/org-united-states-armed-forces.md), [Psychological operations](/entities/concept-psychological-operations.md), [CHAOS: Charles Manson, the CIA, and the Secret History of the Sixties](/entities/work-chaos-charles-manson-cia-secret-history.md)
 
 </div>
 <div class="filter-item">
 
-- [00:22:22](/episodes/ep-ZZGWo6oDscc.md#t-00-22-07) [✓] (Claim) **Candace Owens**: ["Michael Aquino joined the Church of Satan in 1969, became editor of The Cloven H..."](/statements/statement-d9193d15f876.md)
+- [00:22:22](/episodes/ep-ZZGWo6oDscc.md#t-00-21-58) [✓] (Claim) **Candace Owens**: ["Michael Aquino joined the Church of Satan in 1969, became editor of The Cloven H..."](/statements/statement-d9193d15f876.md)
   - About: [Michael Aquino](/entities/person-michael-aquino.md), [Church of Satan](/entities/org-church-of-satan.md), [The Cloven Hoof](/entities/work-the-cloven-hoof.md)
 
 </div>
 <div class="filter-item">
 
-- [00:25:03](/episodes/ep-ZZGWo6oDscc.md#t-00-24-39) [○] (Opinion) **Michael Aquino**: ["The Temple of Set exists to explore the self and personality through ancient Egy..."](/statements/statement-6d7072175f2f.md)
+- [00:25:03](/episodes/ep-ZZGWo6oDscc.md#t-00-24-38) [○] (Opinion) **Michael Aquino**: ["The Temple of Set exists to explore the self and personality through ancient Egy..."](/statements/statement-6d7072175f2f.md)
   - About: [Michael Aquino](/entities/person-michael-aquino.md), [Temple of Set](/entities/org-temple-of-set.md), [Egypt](/entities/gpe-egypt.md)
 
 </div>
 <div class="filter-item">
 
-- [00:27:54](/episodes/ep-ZZGWo6oDscc.md#t-00-27-22) [✓] (Accusation) **Candace Owens**: ["The San Francisco police investigated sexual-abuse allegations connected to the ..."](/statements/statement-dd1511335777.md)
+- [00:27:54](/episodes/ep-ZZGWo6oDscc.md#t-00-27-11) [✓] (Accusation) **Candace Owens**: ["The San Francisco police investigated sexual-abuse allegations connected to the ..."](/statements/statement-dd1511335777.md)
   - About: [Michael Aquino](/entities/person-michael-aquino.md), [San Francisco Police Department](/entities/org-san-francisco-police-department.md), [Presidio Child Development Center](/entities/org-presidio-child-development-center.md)
 
 </div>
 <div class="filter-item">
 
-- [00:28:26](/episodes/ep-ZZGWo6oDscc.md#t-00-28-05) [◐] (Claim) **Candace Owens**: ["Fort Huachuca is a hub for Army intelligence and psychological operations and ha..."](/statements/statement-5b5e6a75a4ae.md)
+- [00:28:26](/episodes/ep-ZZGWo6oDscc.md#t-00-28-26) [◐] (Claim) **Candace Owens**: ["Fort Huachuca is a hub for Army intelligence and psychological operations and ha..."](/statements/statement-5b5e6a75a4ae.md)
   - About: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [United States Army](/entities/org-united-states-army.md), [Psychological operations](/entities/concept-psychological-operations.md)
 
 </div>
 <div class="filter-item">
 
-- [00:30:47](/episodes/ep-ZZGWo6oDscc.md#t-00-30-03) [◐] (Claim) **Candace Owens**: ["Peer-reviewed studies identified direct connections between antiparasitic medica..."](/statements/statement-bad3e03873d9.md)
+- [00:28:47](/episodes/ep-ZZGWo6oDscc.md#t-00-28-26) [✓] (Accusation) **Mitch Snow**: ["Mitch Snow told Candace Owens that he saw Brian Harpole and Erika Kirk at Fort H..."](/statements/statement-457a08a3d576.md)
+  - About: [Brian Harpole](/entities/person-brian-harpole.md), [Erika Kirk](/entities/person-erika-kirk.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </div>
 <div class="filter-item">
 
-- [00:31:08](/episodes/ep-ZZGWo6oDscc.md#t-00-30-47) [✓] (Citation) **Candace Owens**: ["The CDC has admitted that millions of Americans suffer parasitic infections that..."](/statements/statement-468ada009e16.md)
+- [00:30:47](/episodes/ep-ZZGWo6oDscc.md#t-00-30-18) [◐] (Claim) **Candace Owens**: ["Peer-reviewed studies identified direct connections between antiparasitic medica..."](/statements/statement-bad3e03873d9.md)
+
+</div>
+<div class="filter-item">
+
+- [00:31:08](/episodes/ep-ZZGWo6oDscc.md#t-00-31-02) [✓] (Citation) **Candace Owens**: ["The CDC has admitted that millions of Americans suffer parasitic infections that..."](/statements/statement-468ada009e16.md)
   - About: [Centers for Disease Control and Prevention](/entities/org-centers-for-disease-control-and-prevention.md)
 
 </div>
 <div class="filter-item">
 
-- [00:31:17](/episodes/ep-ZZGWo6oDscc.md#t-00-30-47) [✓] (Opinion) **Peter A. McCullough**: ["The studies make a clear case to do at least one medical-grade parasite cleanse ..."](/statements/statement-7c76b5f74fc7.md)
+- [00:31:17](/episodes/ep-ZZGWo6oDscc.md#t-00-31-02) [✓] (Opinion) **Peter A. McCullough**: ["The studies make a clear case to do at least one medical-grade parasite cleanse ..."](/statements/statement-7c76b5f74fc7.md)
   - About: [Peter A. McCullough](/entities/person-peter-mccullough.md), [The Wellness Company](/entities/org-the-wellness-company.md)
 
 </div>
 <div class="filter-item">
 
-- [00:33:28](/episodes/ep-ZZGWo6oDscc.md#t-00-32-45) [✓] (Citation) **Candace Owens**: ["There are 12 lawsuits alleging abuse of young men at a Romanian children's home ..."](/statements/statement-21fc0bb38b00.md)
+- [00:33:28](/episodes/ep-ZZGWo6oDscc.md#t-00-32-44) [✓] (Citation) **Candace Owens**: ["There are 12 lawsuits alleging abuse of young men at a Romanian children's home ..."](/statements/statement-21fc0bb38b00.md)
   - About: [Greg Laurie](/entities/person-greg-laurie.md), [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md), [Romania](/entities/gpe-romania.md)
 
 </div>
@@ -67685,25 +67723,25 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:35:51](/episodes/ep-ZZGWo6oDscc.md#t-00-35-31) [◐] (Accusation) **Candace Owens**: ["South Korean women filed an unprecedented lawsuit accusing the U.S. military of ..."](/statements/statement-611bc4c6e701.md)
+- [00:35:51](/episodes/ep-ZZGWo6oDscc.md#t-00-35-48) [◐] (Accusation) **Candace Owens**: ["South Korean women filed an unprecedented lawsuit accusing the U.S. military of ..."](/statements/statement-611bc4c6e701.md)
   - About: [United States Armed Forces](/entities/org-united-states-armed-forces.md), [South Korea](/entities/gpe-south-korea.md)
 
 </div>
 <div class="filter-item">
 
-- [00:36:06](/episodes/ep-ZZGWo6oDscc.md#t-00-35-31) [○] (Accusation) **Anonymous Source #2 (Ep ZZGWo6oDscc)**: ["At overseas military bases, female recruiters posing as casting directors find y..."](/statements/statement-4add20828ffc.md)
+- [00:36:06](/episodes/ep-ZZGWo6oDscc.md#t-00-35-48) [○] (Accusation) **Anonymous Source #2 (Ep ZZGWo6oDscc)**: ["At overseas military bases, female recruiters posing as casting directors find y..."](/statements/statement-4add20828ffc.md)
   - About: [United States Armed Forces](/entities/org-united-states-armed-forces.md), [Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md)
 
 </div>
 <div class="filter-item">
 
-- [00:37:04](/episodes/ep-ZZGWo6oDscc.md#t-00-36-53) [◐] (Accusation) **Candace Owens**: ["Turning Point USA welcomes pastors who appear to be rehabilitating pedophiles."](/statements/statement-b6cf54701c63.md)
+- [00:37:04](/episodes/ep-ZZGWo6oDscc.md#t-00-36-29) [◐] (Accusation) **Candace Owens**: ["Turning Point USA welcomes pastors who appear to be rehabilitating pedophiles."](/statements/statement-b6cf54701c63.md)
   - About: [Turning Point USA](/entities/org-turning-point-usa.md), [Turning Point Faith](/entities/org-turning-point-faith.md), [Greg Laurie](/entities/person-greg-laurie.md)
 
 </div>
 <div class="filter-item">
 
-- [00:38:10](/episodes/ep-ZZGWo6oDscc.md#t-00-37-38) [✓] (Claim) **Candace Owens**: ["Dilbert creator Scott Adams died at age 68 after losing his battle with prostate..."](/statements/statement-32fdd954d048.md)
+- [00:38:10](/episodes/ep-ZZGWo6oDscc.md#t-00-37-43) [✓] (Claim) **Candace Owens**: ["Dilbert creator Scott Adams died at age 68 after losing his battle with prostate..."](/statements/statement-32fdd954d048.md)
   - About: [Scott Adams](/entities/person-scott-adams.md), [Dilbert](/entities/work-dilbert.md)
 
 </div>
@@ -67715,19 +67753,19 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:44:19](/episodes/ep-ZZGWo6oDscc.md#t-00-43-53) [◐] (Claim) **Anthony Aguilar**: ["I was arrested on September 3 in Congress for calling out AIPAC."](/statements/statement-09e4671aaede.md)
+- [00:44:18](/episodes/ep-ZZGWo6oDscc.md#t-00-43-48) [◐] (Claim) **Anthony Aguilar**: ["I was arrested on September 3 in Congress for calling out AIPAC."](/statements/statement-09e4671aaede.md)
   - About: [Anthony Aguilar](/entities/person-anthony-aguilar.md), [American Israel Public Affairs Committee](/entities/org-aipac.md), [United States Congress](/entities/org-united-states-congress.md)
 
 </div>
 <div class="filter-item">
 
-- [00:49:42](/episodes/ep-ZZGWo6oDscc.md#t-00-49-04) [◐] (Accusation) **Candace Owens**: ["The government protects its own and protected Jeffrey Epstein; if Andrew Tate an..."](/statements/statement-3b563919285d.md)
+- [00:49:42](/episodes/ep-ZZGWo6oDscc.md#t-00-49-40) [◐] (Accusation) **Candace Owens**: ["The government protects its own and protected Jeffrey Epstein; if Andrew Tate an..."](/statements/statement-3b563919285d.md)
   - About: [Jeffrey Epstein](/entities/person-jeffrey-epstein.md), [Andrew Tate](/entities/person-andrew-tate.md), [Tristan Tate](/entities/person-tristan-tate.md)
 
 </div>
 <div class="filter-item">
 
-- [00:50:32](/episodes/ep-ZZGWo6oDscc.md#t-00-50-30) [◐] (Claim) **Candace Owens**: ["Pornography is part of a psychological operation and renders men weaker."](/statements/statement-e501a3b4e04d.md)
+- [00:50:32](/episodes/ep-ZZGWo6oDscc.md#t-00-50-22) [◐] (Claim) **Candace Owens**: ["Pornography is part of a psychological operation and renders men weaker."](/statements/statement-e501a3b4e04d.md)
   - About: [Pornography](/entities/concept-pornography.md), [Psychological operations](/entities/concept-psychological-operations.md), [Catholicism](/entities/concept-catholicism.md)
 
 </div>
@@ -67888,7 +67926,7 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:22:54](/episodes/ep-CMcktj3Egfo.md#t-00-22-46) [○] (Promise) **Johnnie Moore**: ["Johnnie Moore said Christians were committed to building a worldwide wall of Chr..."](/statements/statement-a7519478aa4c.md)
+- [00:22:54](/episodes/ep-CMcktj3Egfo.md#t-00-22-46) [✓] (Promise) **Johnnie Moore**: ["Johnnie Moore said Christians were committed to building a worldwide wall of Chr..."](/statements/statement-a7519478aa4c.md)
   - About: [Johnnie Moore](/entities/person-johnnie-moore.md), [Christian Zionism](/entities/concept-christian-zionism.md), [Antisemitism](/entities/concept-antisemitism.md)
 
 </div>
@@ -67972,13 +68010,13 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:35:06](/episodes/ep-CMcktj3Egfo.md#t-00-34-41) [○] (Opinion) **Dan Illouz**: ["Dan Illouz called Tucker Carlson and Candace Owens intellectual vandals and an i..."](/statements/statement-27edd2ed7766.md)
+- [00:35:06](/episodes/ep-CMcktj3Egfo.md#t-00-34-41) [✓] (Opinion) **Dan Illouz**: ["Dan Illouz called Tucker Carlson and Candace Owens intellectual vandals and an i..."](/statements/statement-27edd2ed7766.md)
   - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Candace Owens](/entities/person-candace-owens.md), [Knesset](/entities/org-knesset.md)
 
 </div>
 <div class="filter-item">
 
-- [00:35:22](/episodes/ep-CMcktj3Egfo.md#t-00-35-18) [○] (Opinion) **Dan Illouz**: ["Dan Illouz said Tucker Carlson and Candace Owens resembled the woke left, attack..."](/statements/statement-070429465919.md)
+- [00:35:22](/episodes/ep-CMcktj3Egfo.md#t-00-35-18) [✓] (Opinion) **Dan Illouz**: ["Dan Illouz said Tucker Carlson and Candace Owens resembled the woke left, attack..."](/statements/statement-070429465919.md)
   - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </div>
@@ -68163,7 +68201,7 @@ _4042 factual claims within 6902 attributed statements._
 </div>
 <div class="filter-item">
 
-- [00:13:35](/episodes/ep-wcD2khO3rOA.md#t-00-12-53) [✓] (Accusation) **Candace Owens**: ["Turning Point Faith works with Greg Laurie while Harvest Christian Fellowship fa..."](/statements/statement-6141210a0ed9.md)
+- [00:13:35](/episodes/ep-wcD2khO3rOA.md#t-00-12-53) [✓] (Accusation) **Candace Owens**: ["Turning Point Faith is partnering with Greg Laurie's Harvest Church while lawsui..."](/statements/statement-6141210a0ed9.md)
   - About: [Turning Point Faith](/entities/org-turning-point-faith.md), [Greg Laurie](/entities/person-greg-laurie.md), [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md)
 
 </div>
@@ -85002,4 +85040,4 @@ _4042 factual claims within 6902 attributed statements._
 
 ---
 
-*Generated: 2026-08-28 22:19:00*
+*Generated: 2026-08-29 06:53:52*

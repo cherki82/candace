@@ -39,7 +39,7 @@ Source: [Founder & CEO | Nelda Studios | National Angels](https://www.nationalan
 <p>Highest activity: <a href="/episodes/ep-X92MllIHDzw.md#ent-person-nelda-yaw-buckman-t-00-20-05">OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291</a> (9 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-nelda-yaw-buckman-t-00-20-05" style="--pulse-height:100%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 9 mentions" title="2026-01-16 · 9 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-nelda-yaw-buckman-t-00-12-40" style="--pulse-height:11%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-nelda-yaw-buckman-t-00-12-12" style="--pulse-height:11%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-nelda-yaw-buckman-t-00-56-43" style="--pulse-height:33%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 3 mentions" title="2026-03-12 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-SubDoZWHARo.md#ent-person-nelda-yaw-buckman-t-00-49-19" style="--pulse-height:11%" aria-label="Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325: 1 mentions" title="2026-04-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-G3zdOeHpvS0.md#ent-person-nelda-yaw-buckman-t-00-25-46" style="--pulse-height:11%" aria-label="A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351: 1 mentions" title="2026-06-17 · 1 mentions"><span></span></a>
@@ -49,7 +49,7 @@ Source: [Founder & CEO | Nelda Studios | National Angels](https://www.nationalan
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-nelda-yaw-buckman-t-00-20-05) | 9 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-nelda-yaw-buckman-t-00-12-40) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-nelda-yaw-buckman-t-00-12-12) | 1 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-nelda-yaw-buckman-t-00-56-43) | 3 |
 | 2026-04-15 | [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo.md#ent-person-nelda-yaw-buckman-t-00-49-19) | 1 |
 | 2026-06-17 | [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351](/episodes/ep-G3zdOeHpvS0.md#ent-person-nelda-yaw-buckman-t-00-25-46) | 1 |
@@ -95,7 +95,7 @@ Source: [Founder & CEO | Nelda Studios | National Angels](https://www.nationalan
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
 
-**[00:12:44](/episodes/ep-NIEbqsLAK8g.md#ent-person-nelda-yaw-buckman-t-00-12-40)**
+**[00:12:44](/episodes/ep-NIEbqsLAK8g.md#ent-person-nelda-yaw-buckman-t-00-12-12)**
 > "Nelda and Karl Buckman"
 
 </details>
@@ -169,8 +169,8 @@ Source: [Founder & CEO | Nelda Studios | National Angels](https://www.nationalan
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
-- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:20:29](/episodes/ep-X92MllIHDzw.md#t-00-20-05): “large donation from the couple,”
-- [A Legal Turning Point? | Candace Ep 292 @ 00:12:34](/episodes/ep-NIEbqsLAK8g.md#t-00-11-56): “because Turning Point's number one donor who last year in June. Cut a check for $10 million, the couple, Nelda and Karl Buckman, they live there,”
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:20:29](/episodes/ep-X92MllIHDzw.md#t-00-20-05): “it was widely reported at the beginning of this year. So we're not really breaking any stories here at the Turning Point headquarters. I believe the one in Florida, the Florida campus was going to be renamed the Buckman campus because of the donation, large donation from the couple, largest ever in Turning Point. turning points history, which came from Karl and his wife, Nelda Buckman. Okay.”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:12:34](/episodes/ep-NIEbqsLAK8g.md#t-00-12-12): “because Turning Point's number one donor who last year in June. Cut a check for $10 million, the couple, Nelda and Karl Buckman, they live there,”
 - [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:49:27](/episodes/ep-SubDoZWHARo.md#t-00-49-19): “Nelda Buckman. The number one donor to Turning Point USA”
 - [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:25:46](/episodes/ep-G3zdOeHpvS0.md#t-00-25-46): “their biggest donor of Turning Point USA, Nelda Buckman”
 
@@ -184,7 +184,7 @@ Source: [Founder & CEO | Nelda Studios | National Angels](https://www.nationalan
 - **[New Braunfels](/entities/gpe-new-braunfels-texas.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [A Legal Turning Point? | Candace Ep 292 @ 00:12:40](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40): “the couple, Nelda and Karl Buckman, they live there”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:12:40](/episodes/ep-NIEbqsLAK8g.md#t-00-12-12): “the couple, Nelda and Karl Buckman, they live there”
 
 </details>
 
@@ -243,8 +243,8 @@ Source: [Founder & CEO | Nelda Studios | National Angels](https://www.nationalan
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** funded by this
 <details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
-- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:20:29](/episodes/ep-X92MllIHDzw.md#t-00-20-05): “large donation from the couple,”
-- [A Legal Turning Point? | Candace Ep 292 @ 00:12:34](/episodes/ep-NIEbqsLAK8g.md#t-00-11-56): “because Turning Point's number one donor who last year in June. Cut a check for $10 million, the couple, Nelda and Karl Buckman, they live there,”
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:20:29](/episodes/ep-X92MllIHDzw.md#t-00-20-05): “it was widely reported at the beginning of this year. So we're not really breaking any stories here at the Turning Point headquarters. I believe the one in Florida, the Florida campus was going to be renamed the Buckman campus because of the donation, large donation from the couple, largest ever in Turning Point. turning points history, which came from Karl and his wife, Nelda Buckman. Okay.”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:12:34](/episodes/ep-NIEbqsLAK8g.md#t-00-12-12): “because Turning Point's number one donor who last year in June. Cut a check for $10 million, the couple, Nelda and Karl Buckman, they live there,”
 - [Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325 @ 00:49:27](/episodes/ep-SubDoZWHARo.md#t-00-49-19): “Nelda Buckman. The number one donor to Turning Point USA”
 - [A SHOCKING Discovery About The Man Who Mic’ed Charlie Kirk. | Ep 351 @ 00:25:46](/episodes/ep-G3zdOeHpvS0.md#t-00-25-46): “their biggest donor of Turning Point USA, Nelda Buckman”
 
@@ -254,14 +254,14 @@ Source: [Founder & CEO | Nelda Studios | National Angels](https://www.nationalan
 <details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:20:33](/episodes/ep-X92MllIHDzw.md#t-00-20-05): “which came from Karl and his wife, Nelda Buckman.”
-- [A Legal Turning Point? | Candace Ep 292 @ 00:12:34](/episodes/ep-NIEbqsLAK8g.md#t-00-11-56): “because Turning Point's number one donor who last year in June. Cut a check for $10 million, the couple, Nelda and Karl Buckman, they live there,”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:12:34](/episodes/ep-NIEbqsLAK8g.md#t-00-12-12): “because Turning Point's number one donor who last year in June. Cut a check for $10 million, the couple, Nelda and Karl Buckman, they live there,”
 
 </details>
 
 - **[New Braunfels](/entities/gpe-new-braunfels-texas.md)** residence of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [A Legal Turning Point? | Candace Ep 292 @ 00:12:40](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40): “the couple, Nelda and Karl Buckman, they live there”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:12:40](/episodes/ep-NIEbqsLAK8g.md#t-00-12-12): “the couple, Nelda and Karl Buckman, they live there”
 
 </details>
 
@@ -275,7 +275,7 @@ Source: [Founder & CEO | Nelda Studios | National Angels](https://www.nationalan
 <details>
 <summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (1)</summary>
 
-- [00:21:23](/episodes/ep-X92MllIHDzw.md#t-00-20-45) [○] (Opinion) ["Nelda Buckman said that she and Erika Kirk discussed womanhood, what the culture..."](/statements/statement-65cacd9c8735.md)
+- [00:21:23](/episodes/ep-X92MllIHDzw.md#t-00-20-45) [✓] (Opinion) ["Nelda Buckman said that she and Erika Kirk discussed womanhood, what the culture..."](/statements/statement-65cacd9c8735.md)
   - About: [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
@@ -288,7 +288,7 @@ Source: [Founder & CEO | Nelda Studios | National Angels](https://www.nationalan
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1)</summary>
 
-- [00:12:34](/episodes/ep-NIEbqsLAK8g.md#t-00-11-56) (Claim) **Candace Owens**: ["Nelda and Karl Buckman, who live in New Braunfels, donated $10 million..."](/statements/statement-8b0459b08316.md)
+- [00:12:34](/episodes/ep-NIEbqsLAK8g.md#t-00-12-12) (Claim) **Candace Owens**: ["Nelda and Karl Buckman, who live in New Braunfels, donated $10 million..."](/statements/statement-8b0459b08316.md)
   - Also about: [Karl Buckman](/entities/person-karl-buckman.md), [Turning Point USA](/entities/org-turning-point-usa.md), [New Braunfels](/entities/gpe-new-braunfels-texas.md)
 
 </details>

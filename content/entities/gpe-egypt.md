@@ -1,6 +1,6 @@
 ---
 title: "Egypt"
-description: "Egypt (Places) - 243 mentions"
+description: "Egypt (Places) - 245 mentions"
 id: "gpe-egypt"
 type: "GPE"
 aliases:
@@ -22,8 +22,8 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-egypt-t-00-47-32">2025-10-09 · 00:47:32</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-gpe-egypt-t-00-46-14">2026-07-20 · 00:46:14</a></strong></div>
-<div><span>Episodes</span><strong>48</strong></div>
-<div><span>Mentions</span><strong>243</strong></div>
+<div><span>Episodes</span><strong>49</strong></div>
+<div><span>Mentions</span><strong>245</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>6</strong></div>
@@ -60,8 +60,9 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-egypt-t-00-16-07" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-egypt-t-00-50-55" style="--pulse-height:17%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-egypt-t-00-01-26" style="--pulse-height:8%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-egypt-t-00-09-30" style="--pulse-height:33%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 6 mentions" title="2026-01-13 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-egypt-t-00-56-52" style="--pulse-height:11%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-egypt-t-00-09-28" style="--pulse-height:33%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 6 mentions" title="2026-01-13 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-gpe-egypt-t-00-40-15" style="--pulse-height:17%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 3 mentions" title="2026-01-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-egypt-t-00-56-52" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-egypt-t-00-01-32" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-egypt-t-00-28-43" style="--pulse-height:8%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-egypt-t-00-13-44" style="--pulse-height:56%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 10 mentions" title="2026-01-29 · 10 mentions"><span></span></a>
@@ -113,8 +114,9 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-egypt-t-00-16-07) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-egypt-t-00-50-55) | 3 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-egypt-t-00-01-26) | 1 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-egypt-t-00-09-30) | 6 |
-| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-egypt-t-00-56-52) | 2 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-egypt-t-00-09-28) | 6 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-gpe-egypt-t-00-40-15) | 3 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-egypt-t-00-56-52) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-egypt-t-00-01-32) | 1 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-gpe-egypt-t-00-28-43) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-egypt-t-00-13-44) | 10 |
@@ -142,7 +144,7 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (243)</strong></summary>
+<summary><strong class="section-title">Raw mentions (245)</strong></summary>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2 mentions)</summary>
@@ -425,35 +427,46 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 </details>
 
 <details>
-<summary>Myron Gaines x Candace Owens (2 mentions)</summary>
+<summary>Myron Gaines x Candace Owens (1 mentions)</summary>
 
 **[00:56:52](/episodes/ep-2T39-oADLj0.md#ent-gpe-egypt-t-00-56-52)**
 > "...some weird stuff, this Egyptian plane that started tracking him."
 
-**[00:57:06](/episodes/ep-2T39-oADLj0.md#ent-gpe-egypt-t-00-56-52)**
-> "this Egyptian plane that started tracking him."
+</details>
+
+<details>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (3 mentions)</summary>
+
+**[00:40:15](/episodes/ep-BKcOm32ZEGk.md#ent-gpe-egypt-t-00-40-15)**
+> "...least threat they are mocking egyptian planes but they have put in a voiceover Again, dr..."
+
+**[00:41:16](/episodes/ep-BKcOm32ZEGk.md#ent-gpe-egypt-t-00-41-16)**
+> "At Egyptian Air, we definitely never mix up our time zones, f..."
+
+**[00:41:25](/episodes/ep-BKcOm32ZEGk.md#ent-gpe-egypt-t-00-41-16)**
+> "...s our business, is our motto. Egyptian Air, wherever you travel, we will follow."
 
 </details>
 
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (6 mentions)</summary>
 
-**[00:09:30](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-egypt-t-00-09-30)**
+**[00:09:28](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-egypt-t-00-09-28)**
 > "...tu this is when we get to the egyptian planes here but i'm building this all up for you ..."
 
-**[00:10:01](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-egypt-t-00-09-30)**
+**[00:09:57](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-egypt-t-00-09-28)**
 > "...erns that I'm seeing with the Egyptian planes,"
 
-**[00:11:59](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-egypt-t-00-11-44)**
+**[00:11:54](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-egypt-t-00-11-31)**
 > "...in for when we go through the Egyptian planes."
 
-**[00:25:09](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-egypt-t-00-24-39)**
+**[00:25:03](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-egypt-t-00-24-38)**
 > "... through the media of ancient Egyptian religion,"
 
-**[00:27:08](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-egypt-t-00-24-39)**
+**[00:27:00](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-egypt-t-00-24-38)**
 > "what they follow is the Egyptian book of the dead."
 
-**[00:51:34](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-egypt-t-00-51-34)**
+**[00:51:30](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-egypt-t-00-51-30)**
 > "... into the future stealing not egyptian but sumerian technology which is what they did th..."
 
 </details>
@@ -1232,10 +1245,10 @@ Source: [United Nations — Egypt](https://www.un.org/en/about-us/member-states/
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2)</summary>
 
-- [00:10:15](/episodes/ep-ZZGWo6oDscc.md#t-00-09-30) (Claim) **Candace Owens**: ["The aircraft SU-BTU flew into Provo after May 27 with Walid Mahmoud ab..."](/statements/statement-7d7f3b51147c.md)
+- [00:10:15](/episodes/ep-ZZGWo6oDscc.md#t-00-10-10) (Claim) **Candace Owens**: ["The aircraft SU-BTU flew into Provo after May 27 with Walid Mahmoud ab..."](/statements/statement-7d7f3b51147c.md)
   - Also about: [SU-BTU](/entities/vehicle-su-btu.md), [Provo](/entities/gpe-provo.md)
 
-- [00:25:03](/episodes/ep-ZZGWo6oDscc.md#t-00-24-39) (Opinion) **Michael Aquino** (via quoted speech): ["The Temple of Set exists to explore the self and personality through a..."](/statements/statement-6d7072175f2f.md)
+- [00:25:03](/episodes/ep-ZZGWo6oDscc.md#t-00-24-38) (Opinion) **Michael Aquino** (via quoted speech): ["The Temple of Set exists to explore the self and personality through a..."](/statements/statement-6d7072175f2f.md)
   - Also about: [Michael Aquino](/entities/person-michael-aquino.md), [Temple of Set](/entities/org-temple-of-set.md)
 
 </details>

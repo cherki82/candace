@@ -22,7 +22,7 @@ Source: [Shinzo Abe | Prime Minister of Japan and His Cabinet](https://japan.kan
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-person-shinzo-abe-t-00-13-06">2026-01-12 · 00:13:19</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-shinzo-abe-t-00-15-13">2026-01-13 · 00:15:13</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-shinzo-abe-t-00-15-12">2026-01-13 · 00:15:12</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -36,14 +36,14 @@ Source: [Shinzo Abe | Prime Minister of Japan and His Cabinet](https://japan.kan
 <p>Highest activity: <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-shinzo-abe-t-00-13-06">American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-shinzo-abe-t-00-13-06" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-shinzo-abe-t-00-15-13" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-shinzo-abe-t-00-15-12" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-shinzo-abe-t-00-13-06) | 1 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-shinzo-abe-t-00-15-13) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-shinzo-abe-t-00-15-12) | 1 |
 
 </details>
 </section>
@@ -56,7 +56,7 @@ Source: [Shinzo Abe | Prime Minister of Japan and His Cabinet](https://japan.kan
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:15:13](/episodes/ep-ZZGWo6oDscc.md#ent-person-shinzo-abe-t-00-15-13)**
+**[00:15:12](/episodes/ep-ZZGWo6oDscc.md#ent-person-shinzo-abe-t-00-15-12)**
 > "...told you the assassination of Abe Shinzo, the former prime minister of Japan,"
 
 </details>

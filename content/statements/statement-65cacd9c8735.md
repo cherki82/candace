@@ -4,9 +4,10 @@ description: "\"Nelda Buckman said that she and Erika Kirk discussed womanhood, 
 statement_id: "statement-65cacd9c8735"
 speaker: "Nelda Yaw Buckman"
 type: "opinion"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -34,8 +35,21 @@ type: "opinion"
 
 ## Verification
 
-_This statement is marked as not verifiable (opinion/subjective)._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+Verified as a quote-attribution claim, not as an assessment of the underlying opinion. In the source-scoped transcript at 21:23, Candace Owens explicitly introduces a quotation from Nelda Buckman; The Daily Wire's January 1, 2026 article directly attributes the same wording to Buckman. The wording and attribution match.
+
+**Confidence:** High
+
+**Sources:**
+
+- [Turning Point USA Begins New Year With Renamed Headquarters Following $10 Million Gift](https://www.dailywire.com/news/turning-point-usa-begins-new-year-with-renamed-headquarters-following-10-million-gift)
+
+*Verified: 2026-08-29T00:34:41.881456*
 
 ---
 
-**Type:** Opinion | **Verifiable:** No
+**Type:** Opinion | **Verifiable:** Yes

@@ -17,7 +17,7 @@ _Type: Concepts_
 Source: [Cathy O'Brien](https://en.wikipedia.org/wiki/Cathy_O%27Brien_(conspiracy_theorist))
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-project-monarch-t-00-51-49">2026-01-14 · 00:51:49</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-project-monarch-t-00-51-12">2026-01-14 · 00:51:49</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-sKuYLNx3iRo.md#ent-concept-project-monarch-t-00-36-48">2026-06-24 · 00:36:59</a></strong></div>
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>7</strong></div>
@@ -31,7 +31,7 @@ Source: [Cathy O'Brien](https://en.wikipedia.org/wiki/Cathy_O%27Brien_(conspirac
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-A39g5oqB_eM.md#ent-concept-project-monarch-t-00-36-32">EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-project-monarch-t-00-51-49" style="--pulse-height:33%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-project-monarch-t-00-51-12" style="--pulse-height:33%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-concept-project-monarch-t-00-36-32" style="--pulse-height:100%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 3 mentions" title="2026-01-27 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-concept-project-monarch-t-00-13-33" style="--pulse-height:33%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-concept-project-monarch-t-00-35-38" style="--pulse-height:67%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 2 mentions" title="2026-06-24 · 2 mentions"><span></span></a>
@@ -40,7 +40,7 @@ Source: [Cathy O'Brien](https://en.wikipedia.org/wiki/Cathy_O%27Brien_(conspirac
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-project-monarch-t-00-51-49) | 1 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-project-monarch-t-00-51-12) | 1 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-concept-project-monarch-t-00-36-32) | 3 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-project-monarch-t-00-13-33) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-concept-project-monarch-t-00-35-38) | 2 |
@@ -89,7 +89,7 @@ Source: [Cathy O'Brien](https://en.wikipedia.org/wiki/Cathy_O%27Brien_(conspirac
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
 
-**[00:51:49](/episodes/ep-BKcOm32ZEGk.md#ent-concept-project-monarch-t-00-51-49)**
+**[00:51:49](/episodes/ep-BKcOm32ZEGk.md#ent-concept-project-monarch-t-00-51-12)**
 > "I know about Project Monarch"
 
 </details>

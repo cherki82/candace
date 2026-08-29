@@ -35,7 +35,7 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 <a href="/episodes/ep-2WEHTk0Xewg.md#ent-person-ghislaine-maxwell-t-00-18-10" style="--pulse-height:33%" aria-label="Who Ordered The Hit On Charlie Kirk? | Candace Ep 237: 1 mentions" title="2025-09-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Qt0VHV-POCg.md#ent-person-ghislaine-maxwell-t-00-53-32" style="--pulse-height:33%" aria-label="Why Isn&#x27;t The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254: 1 mentions" title="2025-10-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-ghislaine-maxwell-t-00-15-24" style="--pulse-height:33%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-ghislaine-maxwell-t-00-36-11" style="--pulse-height:33%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-ghislaine-maxwell-t-00-36-29" style="--pulse-height:33%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-person-ghislaine-maxwell-t-00-41-41" style="--pulse-height:100%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 3 mentions" title="2026-02-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-q1NRQQAYS_Q.md#ent-person-ghislaine-maxwell-t-00-46-37" style="--pulse-height:33%" aria-label="SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321: 1 mentions" title="2026-04-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1mYNOqzAdXs.md#ent-person-ghislaine-maxwell-t-00-39-05" style="--pulse-height:100%" aria-label="Secret Service Admits &quot;There Was No Threat&quot;. ATF Releases Report. | Candace Ep 326: 3 mentions" title="2026-04-16 · 3 mentions"><span></span></a>
@@ -51,7 +51,7 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 | 2025-09-17 | [Who Ordered The Hit On Charlie Kirk? | Candace Ep 237](/episodes/ep-2WEHTk0Xewg.md#ent-person-ghislaine-maxwell-t-00-18-10) | 1 |
 | 2025-10-29 | [Why Isn't The Trump Family Asking Questions About Charlie Kirk? | Candace Ep 254](/episodes/ep-Qt0VHV-POCg.md#ent-person-ghislaine-maxwell-t-00-53-32) | 1 |
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-ghislaine-maxwell-t-00-15-24) | 1 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-ghislaine-maxwell-t-00-36-11) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-ghislaine-maxwell-t-00-36-29) | 1 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-person-ghislaine-maxwell-t-00-41-41) | 3 |
 | 2026-04-02 | [SNAPPED: Blake Neff Names A Killer. Pam Bondi Gets Fired. | Candace Ep 321](/episodes/ep-q1NRQQAYS_Q.md#ent-person-ghislaine-maxwell-t-00-46-37) | 1 |
 | 2026-04-16 | [Secret Service Admits "There Was No Threat". ATF Releases Report. | Candace Ep 326](/episodes/ep-1mYNOqzAdXs.md#ent-person-ghislaine-maxwell-t-00-39-05) | 3 |
@@ -136,7 +136,7 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:36:37](/episodes/ep-ZZGWo6oDscc.md#ent-person-ghislaine-maxwell-t-00-36-11)**
+**[00:36:29](/episodes/ep-ZZGWo6oDscc.md#ent-person-ghislaine-maxwell-t-00-36-29)**
 > "so think of like a Ghislaine Maxwell,"
 
 </details>
@@ -260,7 +260,7 @@ Source: [Human Trafficking and Sexual Exploitation of Minors | U.S. Department o
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
 
-- [00:36:06](/episodes/ep-ZZGWo6oDscc.md#t-00-35-31) (Accusation) **Anonymous Source #2 (Ep ZZGWo6oDscc)** (via paraphrase): ["At overseas military bases, female recruiters posing as casting direct..."](/statements/statement-4add20828ffc.md)
+- [00:36:06](/episodes/ep-ZZGWo6oDscc.md#t-00-35-48) (Accusation) **Anonymous Source #2 (Ep ZZGWo6oDscc)** (via paraphrase): ["At overseas military bases, female recruiters posing as casting direct..."](/statements/statement-4add20828ffc.md)
   - Also about: [United States Armed Forces](/entities/org-united-states-armed-forces.md)
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "United States Armed Forces"
-description: "United States Armed Forces (Organizations) - 21 mentions"
+description: "United States Armed Forces (Organizations) - 22 mentions"
 id: "org-united-states-armed-forces"
 type: "ORG"
 aliases:
@@ -26,8 +26,8 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-LATnak75Si0.md#ent-org-united-states-armed-forces-t-00-50-59">2025-11-05 · 00:51:29</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-org-united-states-armed-forces-t-00-54-41">2026-06-26 · 00:55:06</a></strong></div>
-<div><span>Episodes</span><strong>14</strong></div>
-<div><span>Mentions</span><strong>21</strong></div>
+<div><span>Episodes</span><strong>15</strong></div>
+<div><span>Mentions</span><strong>22</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>32</strong></div>
 <div><span>Relationships</span><strong>10</strong></div>
@@ -44,8 +44,9 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 <a href="/episodes/ep-his-JBjlkh8.md#ent-org-united-states-armed-forces-t-00-37-21" style="--pulse-height:33%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 1 mentions" title="2025-12-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-org-united-states-armed-forces-t-00-18-15" style="--pulse-height:33%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-org-united-states-armed-forces-t-00-32-25" style="--pulse-height:33%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-united-states-armed-forces-t-00-35-31" style="--pulse-height:33%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-united-states-armed-forces-t-00-35-48" style="--pulse-height:33%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-united-states-armed-forces-t-00-13-05" style="--pulse-height:33%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-org-united-states-armed-forces-t-00-52-58" style="--pulse-height:33%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-united-states-armed-forces-t-00-16-16" style="--pulse-height:67%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-org-united-states-armed-forces-t-00-18-13" style="--pulse-height:33%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DdPjoy5W-wY.md#ent-org-united-states-armed-forces-t-00-57-25" style="--pulse-height:33%" aria-label="Bride Of Charlie: Crazy In Love | Episode 7: 1 mentions" title="2026-03-06 · 1 mentions"><span></span></a>
@@ -63,8 +64,9 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-united-states-armed-forces-t-00-37-21) | 1 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-org-united-states-armed-forces-t-00-18-15) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-united-states-armed-forces-t-00-32-25) | 1 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-united-states-armed-forces-t-00-35-31) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-united-states-armed-forces-t-00-35-48) | 1 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-united-states-armed-forces-t-00-13-05) | 1 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-united-states-armed-forces-t-00-52-58) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-org-united-states-armed-forces-t-00-16-16) | 2 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-org-united-states-armed-forces-t-00-18-13) | 1 |
 | 2026-03-06 | [Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY.md#ent-org-united-states-armed-forces-t-00-57-25) | 1 |
@@ -78,7 +80,7 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (21)</strong></summary>
+<summary><strong class="section-title">Raw mentions (22)</strong></summary>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (3 mentions)</summary>
@@ -144,6 +146,14 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 </details>
 
 <details>
+<summary>Myron Gaines x Candace Owens (1 mentions)</summary>
+
+**[00:52:58](/episodes/ep-2T39-oADLj0.md#ent-org-united-states-armed-forces-t-00-52-58)**
+> "I think I don't view the U.S. military as."
+
+</details>
+
+<details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
 
 **[00:13:11](/episodes/ep-BKcOm32ZEGk.md#ent-org-united-states-armed-forces-t-00-13-05)**
@@ -154,7 +164,7 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:35:55](/episodes/ep-ZZGWo6oDscc.md#ent-org-united-states-armed-forces-t-00-35-31)**
+**[00:35:48](/episodes/ep-ZZGWo6oDscc.md#ent-org-united-states-armed-forces-t-00-35-48)**
 > "...unprecedented lawsuit against United States military for the same thing, for running a brothel where t..."
 
 </details>
@@ -233,7 +243,7 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 - **[Bill Montgomery](/entities/person-bill-montgomery.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:03:41](/episodes/ep-BKcOm32ZEGk.md#t-00-03-28): “He has since passed the late Bill Montgomery and he was from the military.”
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:03:41](/episodes/ep-BKcOm32ZEGk.md#t-00-03-19): “He has since passed the late Bill Montgomery and he was from the military.”
 
 </details>
 
@@ -278,7 +288,7 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 - **[Bill Montgomery](/entities/person-bill-montgomery.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:03:41](/episodes/ep-BKcOm32ZEGk.md#t-00-03-28): “He has since passed the late Bill Montgomery and he was from the military.”
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:03:41](/episodes/ep-BKcOm32ZEGk.md#t-00-03-19): “He has since passed the late Bill Montgomery and he was from the military.”
 
 </details>
 
@@ -406,14 +416,14 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 - [00:52:43](/episodes/ep-2T39-oADLj0.md#t-00-52-09) (Accusation) **Candace Owens**: ["Charlie Kirk's assassination was a military hit."](/statements/statement-3a399e27bdc8.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [01:03:17](/episodes/ep-2T39-oADLj0.md#t-01-03-01) (Claim) **Anonymous Source #1 (Ep 2T39-oADLj0)** (via read message): ["Something military-related was housed on the third floor of the Losey ..."](/statements/statement-426165d54ef7.md)
+- [01:03:17](/episodes/ep-2T39-oADLj0.md#t-01-03-01) (Claim) **Anonymous Source #1 (Ep 2T39-oADLj0)** (via read message): ["According to Candace Owens's anonymous source, something military-rela..."](/statements/statement-426165d54ef7.md)
 
 </details>
 
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1)</summary>
 
-- [00:48:26](/episodes/ep-BKcOm32ZEGk.md#t-00-48-12) (Accusation) **Anonymous Source #1 (Ep BKcOm32ZEGk)** (via read message): ["Carly said her father, a military police officer stationed with Michae..."](/statements/statement-8377c5a6c29d.md)
+- [00:48:26](/episodes/ep-BKcOm32ZEGk.md#t-00-48-11) (Accusation) **Anonymous Source #1 (Ep BKcOm32ZEGk)** (via read message): ["Carly said her father, a military police officer stationed with Michae..."](/statements/statement-8377c5a6c29d.md)
   - Also about: [Michael Aquino](/entities/person-michael-aquino.md)
 
 </details>
@@ -421,16 +431,16 @@ Source: [About | U.S. Department of Defense](https://www.defense.gov/About/Branc
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (4)</summary>
 
-- [00:20:07](/episodes/ep-ZZGWo6oDscc.md#t-00-19-30) (Accusation) **Candace Owens**: ["The U.S. military runs mind wars, and military-operated internet farms..."](/statements/statement-8f716ef30cf8.md)
+- [00:20:07](/episodes/ep-ZZGWo6oDscc.md#t-00-19-47) (Accusation) **Candace Owens**: ["The U.S. military runs mind wars, and Candace Owens suggested military..."](/statements/statement-8f716ef30cf8.md)
   - Also about: [Psychological operations](/entities/concept-psychological-operations.md), [Dead Internet theory](/entities/concept-dead-internet-theory.md)
 
-- [00:22:05](/episodes/ep-ZZGWo6oDscc.md#t-00-21-21) (Accusation) **Candace Owens**: ["The moon landing and the Manson murders were military operations."](/statements/statement-ea198cc13b65.md)
+- [00:22:05](/episodes/ep-ZZGWo6oDscc.md#t-00-21-58) (Accusation) **Candace Owens**: ["The moon landing and the Manson murders were military operations."](/statements/statement-ea198cc13b65.md)
   - Also about: [Psychological operations](/entities/concept-psychological-operations.md), [CHAOS: Charles Manson, the CIA, and the Secret History of the Sixties](/entities/work-chaos-charles-manson-cia-secret-history.md)
 
-- [00:35:51](/episodes/ep-ZZGWo6oDscc.md#t-00-35-31) (Accusation) **Candace Owens**: ["South Korean women filed an unprecedented lawsuit accusing the U.S. mi..."](/statements/statement-611bc4c6e701.md)
+- [00:35:51](/episodes/ep-ZZGWo6oDscc.md#t-00-35-48) (Accusation) **Candace Owens**: ["South Korean women filed an unprecedented lawsuit accusing the U.S. mi..."](/statements/statement-611bc4c6e701.md)
   - Also about: [South Korea](/entities/gpe-south-korea.md)
 
-- [00:36:06](/episodes/ep-ZZGWo6oDscc.md#t-00-35-31) (Accusation) **Anonymous Source #2 (Ep ZZGWo6oDscc)** (via paraphrase): ["At overseas military bases, female recruiters posing as casting direct..."](/statements/statement-4add20828ffc.md)
+- [00:36:06](/episodes/ep-ZZGWo6oDscc.md#t-00-35-48) (Accusation) **Anonymous Source #2 (Ep ZZGWo6oDscc)** (via paraphrase): ["At overseas military bases, female recruiters posing as casting direct..."](/statements/statement-4add20828ffc.md)
   - Also about: [Ghislaine Maxwell](/entities/person-ghislaine-maxwell.md)
 
 </details>

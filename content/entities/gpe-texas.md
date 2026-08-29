@@ -1,6 +1,6 @@
 ---
 title: "Texas"
-description: "Texas (Places) - 110 mentions"
+description: "Texas (Places) - 104 mentions"
 id: "gpe-texas"
 type: "GPE"
 categories:
@@ -19,7 +19,7 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-texas-t-00-37-12">2025-10-09 · 00:37:30</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-gpe-texas-t-00-06-02">2026-08-17 · 00:06:02</a></strong></div>
 <div><span>Episodes</span><strong>31</strong></div>
-<div><span>Mentions</span><strong>110</strong></div>
+<div><span>Mentions</span><strong>104</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -28,39 +28,39 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-02-06">A Legal Turning Point? | Candace Ep 292</a> (25 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-01-54">A Legal Turning Point? | Candace Ep 292</a> (19 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-texas-t-00-37-12" style="--pulse-height:12%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 3 mentions" title="2025-10-09 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-texas-t-00-01-22" style="--pulse-height:8%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-pc3pxRyNFZk.md#ent-gpe-texas-t-00-37-12" style="--pulse-height:16%" aria-label="REVELATIONS: The Truth About Charlie&#x27;s Medical Report | Candace Ep 251: 3 mentions" title="2025-10-09 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-iHav0PPzUz8.md#ent-gpe-texas-t-00-01-22" style="--pulse-height:11%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 2 mentions" title="2025-10-30 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Qfwr08Ebczo.md#ent-gpe-texas-t-00-13-27" style="--pulse-height:8%" aria-label="EXCLUSIVE: Kash Patel Dances Around Israelis On 9/10. | Candace Ep 258: 1 mentions" title="2025-11-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-MUA9ebCF4Ow.md#ent-gpe-texas-t-00-53-33" style="--pulse-height:8%" aria-label="Megyn Kelly Goes SCORCHED EARTH On Those Lying About Charlie Kirk. | Candace Ep 263: 1 mentions" title="2025-11-12 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-gpe-texas-t-00-53-05" style="--pulse-height:8%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-JQjCAsfoXEE.md#ent-gpe-texas-t-00-49-32" style="--pulse-height:8%" aria-label="Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266: 1 mentions" title="2025-11-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-texas-t-00-44-40" style="--pulse-height:8%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-texas-t-00-01-46" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-texas-t-00-05-37" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-texas-t-00-53-52" style="--pulse-height:12%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-02-06" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 25 mentions" title="2026-01-19 · 25 mentions"><span></span></a>
-<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-texas-t-00-13-23" style="--pulse-height:24%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 6 mentions" title="2026-01-20 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-texas-t-00-42-10" style="--pulse-height:16%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 4 mentions" title="2026-01-27 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-texas-t-00-56-02" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-texas-t-00-01-46" style="--pulse-height:11%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-texas-t-00-05-34" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-texas-t-00-53-52" style="--pulse-height:16%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 3 mentions" title="2026-01-16 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-01-54" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 19 mentions" title="2026-01-19 · 19 mentions"><span></span></a>
+<a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-texas-t-00-13-23" style="--pulse-height:32%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 6 mentions" title="2026-01-20 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-A39g5oqB_eM.md#ent-gpe-texas-t-00-42-10" style="--pulse-height:21%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 4 mentions" title="2026-01-27 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-texas-t-00-56-02" style="--pulse-height:11%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 2 mentions" title="2026-01-28 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-gpe-texas-t-00-36-10" style="--pulse-height:8%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-gpe-texas-t-00-00-01" style="--pulse-height:8%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-texas-t-00-03-27" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-texas-t-00-11-18" style="--pulse-height:8%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-texas-t-00-10-19" style="--pulse-height:44%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 11 mentions" title="2026-04-01 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-texas-t-00-21-26" style="--pulse-height:32%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 8 mentions" title="2026-04-14 · 8 mentions"><span></span></a>
-<a href="/episodes/ep--9MOUvgGyi4.md#ent-gpe-texas-t-00-44-40" style="--pulse-height:56%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 14 mentions" title="2026-04-22 · 14 mentions"><span></span></a>
-<a href="/episodes/ep-k1b1NDCrNFs.md#ent-gpe-texas-t-00-38-16" style="--pulse-height:8%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 2 mentions" title="2026-05-06 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-texas-t-00-47-13" style="--pulse-height:8%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 2 mentions" title="2026-05-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-DEtFh2Ff-58.md#ent-gpe-texas-t-00-11-18" style="--pulse-height:11%" aria-label="VIRAL! It&#x27;s Okay Not To Believe A Word Erika Kirk Says. | Candace Ep 317: 2 mentions" title="2026-03-26 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-rupRLXmSndU.md#ent-gpe-texas-t-00-10-19" style="--pulse-height:58%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 11 mentions" title="2026-04-01 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-jsqUIkszZd0.md#ent-gpe-texas-t-00-21-26" style="--pulse-height:42%" aria-label="BREAKING: The ATF Traced A Gun On 9/10. Erika&#x27;s &quot;Friend&quot; Wanted To Own Its Company. | Candace Ep 324: 8 mentions" title="2026-04-14 · 8 mentions"><span></span></a>
+<a href="/episodes/ep--9MOUvgGyi4.md#ent-gpe-texas-t-00-44-40" style="--pulse-height:74%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 14 mentions" title="2026-04-22 · 14 mentions"><span></span></a>
+<a href="/episodes/ep-k1b1NDCrNFs.md#ent-gpe-texas-t-00-38-16" style="--pulse-height:11%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 2 mentions" title="2026-05-06 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-4DvYXBn_5JI.md#ent-gpe-texas-t-00-47-13" style="--pulse-height:11%" aria-label="September 10th: The OTHER Shooting That The Media Forgot. | Candace Ep 337: 2 mentions" title="2026-05-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-Dkxa9OUA9K8.md#ent-gpe-texas-t-01-04-41" style="--pulse-height:8%" aria-label="LIVE With Victor Marx: What Did He Know About 9/10? | Candace Ep 341: 1 mentions" title="2026-05-19 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-texas-t-00-09-55" style="--pulse-height:12%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 3 mentions" title="2026-05-26 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-BxN2-aeMYIs.md#ent-gpe-texas-t-00-09-55" style="--pulse-height:16%" aria-label="The World Is A Stage: Trump Survives...Again? | Ep 343: 3 mentions" title="2026-05-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-MhakwJxK-Zk.md#ent-gpe-texas-t-00-12-35" style="--pulse-height:8%" aria-label="BREAKING NEWS: We&#x27;ve Identified &quot;SAM702&quot; At Fort Huachuca. | Ep 344: 1 mentions" title="2026-05-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-WoXd4oLwd3w.md#ent-gpe-texas-t-00-43-32" style="--pulse-height:8%" aria-label="REVEALED! Trump Scolded Charlie Kirk Over Epstein. Butler Narrative Collapses. | Ep 348: 1 mentions" title="2026-06-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-texas-t-00-08-50" style="--pulse-height:12%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 3 mentions" title="2026-06-18 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-texas-t-00-29-14" style="--pulse-height:8%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 2 mentions" title="2026-08-07 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-HGtMfbePDKk.md#ent-gpe-texas-t-00-33-19" style="--pulse-height:8%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 2 mentions" title="2026-08-11 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-E7P2ShoYDUA.md#ent-gpe-texas-t-00-05-23" style="--pulse-height:8%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 2 mentions" title="2026-08-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-3QJqtW_NOSI.md#ent-gpe-texas-t-00-08-50" style="--pulse-height:16%" aria-label="The Whistleblower: Did Epstein’s Network Reemerge In Charlie Kirk’s World? | Ep 352: 3 mentions" title="2026-06-18 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-d7VsbEIWkP8.md#ent-gpe-texas-t-00-29-14" style="--pulse-height:11%" aria-label="A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373: 2 mentions" title="2026-08-07 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-HGtMfbePDKk.md#ent-gpe-texas-t-00-33-19" style="--pulse-height:11%" aria-label="Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday&#x27;s Debate.: 2 mentions" title="2026-08-11 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-E7P2ShoYDUA.md#ent-gpe-texas-t-00-05-23" style="--pulse-height:11%" aria-label="Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376: 2 mentions" title="2026-08-17 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -74,9 +74,9 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 | 2025-11-17 | [Operation Mocking-Plane: The Charlie Kirk Plot Thickens. | Candace Ep 266](/episodes/ep-JQjCAsfoXEE.md#ent-gpe-texas-t-00-49-32) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-texas-t-00-44-40) | 1 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-texas-t-00-01-46) | 2 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-texas-t-00-05-37) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-texas-t-00-05-34) | 1 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-texas-t-00-53-52) | 3 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-02-06) | 25 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-01-54) | 19 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-texas-t-00-13-23) | 6 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-gpe-texas-t-00-42-10) | 4 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-texas-t-00-56-02) | 2 |
@@ -104,7 +104,7 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (110)</strong></summary>
+<summary><strong class="section-title">Raw mentions (104)</strong></summary>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (2 mentions)</summary>
@@ -414,37 +414,28 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 </details>
 
 <details>
-<summary>A Legal Turning Point? | Candace Ep 292 (25 mentions)</summary>
+<summary>A Legal Turning Point? | Candace Ep 292 (19 mentions)</summary>
 
-**[00:02:23](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-02-06)**
+**[00:02:23](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-01-54)**
 > "a group of Texas boys"
 
-**[00:04:30](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-04-16)**
+**[00:04:30](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-01-54)**
 > "Texas."
 
-**[00:04:43](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-04-16)**
+**[00:04:43](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-04-42)**
 > "Texas. And now it's basically spread its tentacles into..."
 
-**[00:04:49](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-04-16)**
-> "...tes that they're in. Majority Texas, obviously,"
-
-**[00:06:38](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-06-17)**
+**[00:06:38](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-04-42)**
 > "... to see it. 33 years with the Texas A&M University Police Department Chief Deputy Rob..."
 
-**[00:06:46](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-06-17)**
+**[00:06:46](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-06-46)**
 > "...w enforcement in Illinois and Texas."
 
-**[00:06:54](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-06-17)**
-> "...to remember that Illinois and Texas."
-
-**[00:06:58](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-06-17)**
+**[00:06:58](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-06-46)**
 > "Texas Sheriff's Office."
 
-**[00:07:14](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-07-01)**
+**[00:07:14](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-06-46)**
 > "...my. It tells us that state of Texas master peace officer."
-
-**[00:08:52](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-08-25)**
-> "...sity Park police back down in Texas,"
 
 **[00:08:55](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-08-25)**
 > "chief deputy sheriff for Texas law enforcement."
@@ -452,43 +443,34 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 **[00:11:39](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-08-25)**
 > "Texas, working for the FBI on the elite Hostage Rescue ..."
 
-**[00:12:17](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-11-56)**
+**[00:12:17](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-12-12)**
 > "...ming you about New Braunfels, Texas,"
 
-**[00:12:21](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-11-56)**
-> "...this seemingly random city in Texas."
-
-**[00:12:53](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-12-40)**
+**[00:12:53](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-12-12)**
 > "... also lives in New Braunfels, Texas."
 
-**[00:13:03](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-12-40)**
+**[00:13:03](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-12-12)**
 > "Texas,"
 
-**[00:13:08](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-12-40)**
+**[00:13:08](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-12-12)**
 > "Texas."
 
-**[00:13:43](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-13-21)**
+**[00:13:43](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-13-35)**
 > "...ould-be cattle barons ball in Texas where he ran into him, who were the billionaires ..."
 
-**[00:14:09](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-14-04)**
+**[00:14:09](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-13-35)**
 > "...'s security that day was from Texas, from Rick Cutler to Dan Flood, even Brian Harpol..."
 
-**[00:14:18](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-14-04)**
-> "Texas, and similar to Dan,"
-
-**[00:14:22](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-14-04)**
-> "... for county sheriff in Erath, Texas,"
-
-**[00:14:32](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-14-04)**
+**[00:14:32](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-13-35)**
 > "I was born in Denton, Texas and grew up."
 
-**[00:14:41](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-14-04)**
+**[00:14:41](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-13-35)**
 > "...ement career in 1968 with the Texas Department of Public Safety,"
 
-**[00:15:28](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-15-28)**
+**[00:15:28](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-14-55)**
 > "and of course, all through Texas,"
 
-**[00:43:26](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-15-28)**
+**[00:43:26](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-texas-t-00-14-55)**
 > "Texas and know New Braunfels, Texas well. It's definite..."
 
 </details>
@@ -510,7 +492,7 @@ Source: [Texas.gov | The Official Website of the State of Texas](https://www.tex
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:05:55](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-texas-t-00-05-37)**
+**[00:05:47](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-texas-t-00-05-34)**
 > "... and a half times the size of Texas."
 
 </details>
@@ -638,13 +620,13 @@ _No relationships extracted yet._
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (3)</summary>
 
-- [00:02:06](/episodes/ep-NIEbqsLAK8g.md#t-00-02-06) (Accusation) **Anonymous Source #1 (Ep NIEbqsLAK8g)** (via read message): ["The email source claimed the families of corrupt police officers and m..."](/statements/statement-87a17771b303.md)
+- [00:02:06](/episodes/ep-NIEbqsLAK8g.md#t-00-01-54) (Accusation) **Anonymous Source #1 (Ep NIEbqsLAK8g)** (via read message): ["The email source claimed the families of corrupt police officers and m..."](/statements/statement-87a17771b303.md)
   - Also about: [John F. Kennedy](/entities/person-john-f-kennedy.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
-- [00:06:38](/episodes/ep-NIEbqsLAK8g.md#t-00-06-17) (Citation) **Candace Owens**: ["A professional profile says Robert Eugene Flood spent 33 years with th..."](/statements/statement-d34b5529bef5.md)
+- [00:06:38](/episodes/ep-NIEbqsLAK8g.md#t-00-06-03) (Citation) **Candace Owens**: ["A professional profile says Robert Eugene Flood spent 33 years with th..."](/statements/statement-d34b5529bef5.md)
   - Also about: [Robert Eugene Flood](/entities/person-robert-eugene-flood.md), [Texas A&M University Police Department](/entities/org-texas-am-university-police-department.md), [Bosque County Sheriff's Office](/entities/org-bosque-county-sheriffs-office.md)
 
-- [00:14:09](/episodes/ep-NIEbqsLAK8g.md#t-00-14-04) (Claim) **Candace Owens**: ["All of Charlie Kirk's security personnel on the day of his assassinati..."](/statements/statement-cb561dcf34d6.md)
+- [00:14:09](/episodes/ep-NIEbqsLAK8g.md#t-00-13-35) (Claim) **Candace Owens**: ["All of Charlie Kirk's security personnel on the day of his assassinati..."](/statements/statement-cb561dcf34d6.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Rick Cutler](/entities/person-rick-cutler.md), [Dan Flood](/entities/person-dan-flood.md)
 
 </details>

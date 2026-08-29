@@ -63,7 +63,7 @@ Source: [Amazon founder Jeff Bezos | About Amazon](https://www.aboutamazon.com/n
 **[00:13:18](/episodes/ep-2T39-oADLj0.md#ent-person-jeff-bezos-t-00-13-18)**
 > "say Jeff Bezos. Everyone would say the same answers,"
 
-**[00:14:47](/episodes/ep-2T39-oADLj0.md#ent-person-jeff-bezos-t-00-14-14)**
+**[00:14:44](/episodes/ep-2T39-oADLj0.md#ent-person-jeff-bezos-t-00-14-14)**
 > "Oh, it's Jeff Bezos. It's Elon Musk."
 
 </details>

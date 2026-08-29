@@ -18,7 +18,7 @@ Source: [Scott Adams | Television Academy](https://www.televisionacademy.com/bio
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-c5BcKF91iec.md#ent-person-scott-adams-t-00-52-22">2025-10-27 · 00:52:39</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-scott-adams-t-00-39-00">2026-01-13 · 00:39:15</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-scott-adams-t-00-39-00">2026-01-13 · 00:39:13</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -33,7 +33,7 @@ Source: [Scott Adams | Television Academy](https://www.televisionacademy.com/bio
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-c5BcKF91iec.md#ent-person-scott-adams-t-00-52-22" style="--pulse-height:25%" aria-label="Charlie&#x27;s Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252: 1 mentions" title="2025-10-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Cq7nj9rxPdo.md#ent-person-scott-adams-t-00-07-44" style="--pulse-height:100%" aria-label="Charlie Ripped A Hole In Reality | Candace Ep 253: 4 mentions" title="2025-10-28 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-scott-adams-t-00-37-38" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 4 mentions" title="2026-01-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-scott-adams-t-00-37-43" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 4 mentions" title="2026-01-13 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -41,7 +41,7 @@ Source: [Scott Adams | Television Academy](https://www.televisionacademy.com/bio
 |---|---|---:|
 | 2025-10-27 | [Charlie's Angels Or Demons? Disturbing Footage Emerges. | Candace Ep 252](/episodes/ep-c5BcKF91iec.md#ent-person-scott-adams-t-00-52-22) | 1 |
 | 2025-10-28 | [Charlie Ripped A Hole In Reality | Candace Ep 253](/episodes/ep-Cq7nj9rxPdo.md#ent-person-scott-adams-t-00-07-44) | 4 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-scott-adams-t-00-37-38) | 4 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-scott-adams-t-00-37-43) | 4 |
 
 </details>
 </section>
@@ -54,16 +54,16 @@ Source: [Scott Adams | Television Academy](https://www.televisionacademy.com/bio
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (4 mentions)</summary>
 
-**[00:38:10](/episodes/ep-ZZGWo6oDscc.md#ent-person-scott-adams-t-00-37-38)**
+**[00:38:10](/episodes/ep-ZZGWo6oDscc.md#ent-person-scott-adams-t-00-37-43)**
 > "... to acknowledge the fact that Scott Adams,"
 
-**[00:38:36](/episodes/ep-ZZGWo6oDscc.md#ent-person-scott-adams-t-00-38-18)**
+**[00:38:31](/episodes/ep-ZZGWo6oDscc.md#ent-person-scott-adams-t-00-38-18)**
 > "...And like I told you, watching Scott Adams explain it on a little whiteboard of what had hap..."
 
 **[00:39:00](/episodes/ep-ZZGWo6oDscc.md#ent-person-scott-adams-t-00-39-00)**
 > "You know, so Scott Adams gets to see Charlie first and he was a very honor..."
 
-**[00:39:15](/episodes/ep-ZZGWo6oDscc.md#ent-person-scott-adams-t-00-39-00)**
+**[00:39:13](/episodes/ep-ZZGWo6oDscc.md#ent-person-scott-adams-t-00-39-00)**
 > "So say a prayer for Scott Adams and his family."
 
 </details>
@@ -104,7 +104,7 @@ Source: [Scott Adams | Television Academy](https://www.televisionacademy.com/bio
 - **[Dilbert](/entities/work-dilbert.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:38:10](/episodes/ep-ZZGWo6oDscc.md#t-00-37-38): “Anyways, before we get into some of your comments, I do want to acknowledge the fact that Scott Adams, the creator of Dilbert, died 68.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:38:10](/episodes/ep-ZZGWo6oDscc.md#t-00-37-43): “Anyways, before we get into some of your comments, I do want to acknowledge the fact that Scott Adams, the creator of Dilbert, died at 68.”
 
 </details>
 
@@ -128,7 +128,7 @@ Source: [Scott Adams | Television Academy](https://www.televisionacademy.com/bio
 - **[Dilbert](/entities/work-dilbert.md)** authored by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:38:10](/episodes/ep-ZZGWo6oDscc.md#t-00-37-38): “Anyways, before we get into some of your comments, I do want to acknowledge the fact that Scott Adams, the creator of Dilbert, died 68.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:38:10](/episodes/ep-ZZGWo6oDscc.md#t-00-37-43): “Anyways, before we get into some of your comments, I do want to acknowledge the fact that Scott Adams, the creator of Dilbert, died at 68.”
 
 </details>
 
@@ -149,7 +149,7 @@ Source: [Scott Adams | Television Academy](https://www.televisionacademy.com/bio
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
 
-- [00:38:10](/episodes/ep-ZZGWo6oDscc.md#t-00-37-38) (Claim) **Candace Owens**: ["Dilbert creator Scott Adams died at age 68 after losing his battle wit..."](/statements/statement-32fdd954d048.md)
+- [00:38:10](/episodes/ep-ZZGWo6oDscc.md#t-00-37-43) (Claim) **Candace Owens**: ["Dilbert creator Scott Adams died at age 68 after losing his battle wit..."](/statements/statement-32fdd954d048.md)
   - Also about: [Dilbert](/entities/work-dilbert.md)
 
 </details>

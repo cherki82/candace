@@ -1,6 +1,6 @@
 ---
 title: "Satan"
-description: "Satan (Concepts) - 67 mentions"
+description: "Satan (Concepts) - 68 mentions"
 id: "concept-satan"
 type: "CONCEPT"
 aliases:
@@ -22,10 +22,10 @@ _Type: Concepts_
 Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](https://www.youtube.com/watch?v=BKcOm32ZEGk)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-satan-t-00-31-40">2026-01-14 · 00:31:56</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-satan-t-00-31-39">2026-01-14 · 00:31:56</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-satan-t-00-54-39">2026-08-07 · 00:55:15</a></strong></div>
 <div><span>Episodes</span><strong>26</strong></div>
-<div><span>Mentions</span><strong>67</strong></div>
+<div><span>Mentions</span><strong>68</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,9 +36,9 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-satan-t-01-02-00">Candace x Bassem Youssef | Candace Ep 298</a> (11 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-satan-t-00-31-40" style="--pulse-height:18%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-X92MllIHDzw.md#ent-concept-satan-t-00-45-38" style="--pulse-height:36%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-concept-satan-t-00-41-32" style="--pulse-height:18%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-satan-t-00-31-39" style="--pulse-height:18%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-concept-satan-t-00-45-38" style="--pulse-height:45%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 5 mentions" title="2026-01-16 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-concept-satan-t-00-41-22" style="--pulse-height:18%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-satan-t-01-02-00" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 11 mentions" title="2026-01-29 · 11 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-concept-satan-t-00-00-45" style="--pulse-height:73%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 8 mentions" title="2026-01-30 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-satan-t-00-00-00" style="--pulse-height:27%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 3 mentions" title="2026-02-02 · 3 mentions"><span></span></a>
@@ -67,9 +67,9 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-satan-t-00-31-40) | 2 |
-| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-concept-satan-t-00-45-38) | 4 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-concept-satan-t-00-41-32) | 2 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-satan-t-00-31-39) | 2 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-concept-satan-t-00-45-38) | 5 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-concept-satan-t-00-41-22) | 2 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-satan-t-01-02-00) | 11 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-concept-satan-t-00-00-45) | 8 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-satan-t-00-00-00) | 3 |
@@ -100,7 +100,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (67)</strong></summary>
+<summary><strong class="section-title">Raw mentions (68)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (3 mentions)</summary>
@@ -397,7 +397,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (2 mentions)</summary>
 
-**[00:41:32](/episodes/ep-NIEbqsLAK8g.md#ent-concept-satan-t-00-41-32)**
+**[00:41:32](/episodes/ep-NIEbqsLAK8g.md#ent-concept-satan-t-00-41-22)**
 > "Satan just wrapping his tail around the world"
 
 **[00:46:10](/episodes/ep-NIEbqsLAK8g.md#ent-concept-satan-t-00-46-10)**
@@ -406,12 +406,12 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 </details>
 
 <details>
-<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (4 mentions)</summary>
+<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (5 mentions)</summary>
 
 **[00:46:14](/episodes/ep-X92MllIHDzw.md#ent-concept-satan-t-00-45-38)**
 > "convince them that Satan is a conspiracy theory."
 
-**[00:15:54](/episodes/ep-X92MllIHDzw.md#ent-concept-satan-t-00-15-34)**
+**[00:15:54](/episodes/ep-X92MllIHDzw.md#ent-concept-satan-t-00-45-38)**
 > "...ted his own kind of church of satan called the temple of set but he was also accused ..."
 
 **[00:46:28](/episodes/ep-X92MllIHDzw.md#ent-concept-satan-t-00-46-23)**
@@ -420,15 +420,18 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 **[00:57:23](/episodes/ep-X92MllIHDzw.md#ent-concept-satan-t-00-56-58)**
 > "Rachel writes, Satan knows that his time is short."
 
+**[00:49:00](/episodes/ep-X92MllIHDzw.md#ent-concept-satan-t-00-49-00)**
+> "The greatest trick the devil ever pulled was convincing the world he didn't ex..."
+
 </details>
 
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (2 mentions)</summary>
 
-**[00:31:56](/episodes/ep-BKcOm32ZEGk.md#ent-concept-satan-t-00-31-40)**
+**[00:31:56](/episodes/ep-BKcOm32ZEGk.md#ent-concept-satan-t-00-31-39)**
 > "modern science kind of being run by Satan"
 
-**[00:51:37](/episodes/ep-BKcOm32ZEGk.md#ent-concept-satan-t-00-51-05)**
+**[00:51:37](/episodes/ep-BKcOm32ZEGk.md#ent-concept-satan-t-00-51-12)**
 > "Satan loves the dark,"
 
 </details>

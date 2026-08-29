@@ -28,7 +28,7 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
-**Timestamp:** [00:22:05](/episodes/ep-ZZGWo6oDscc.md#t-00-21-21) 
+**Timestamp:** [00:22:05](/episodes/ep-ZZGWo6oDscc.md#t-00-21-58) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1325);return false;">Play</a>
 
 > And in 1969, lo and behold, speaking of. Speaking of the book Chaos, when the military was just spiking the ball, psychological operations, moon landing, whenever you're ready, the Manson murders, whenever you're ready, all military.

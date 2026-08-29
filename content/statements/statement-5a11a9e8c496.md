@@ -26,7 +26,7 @@ veracity: "true"
 ## Source
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
-**Timestamp:** [00:15:42](/episodes/ep-ZZGWo6oDscc.md#t-00-15-13) 
+**Timestamp:** [00:15:42](/episodes/ep-ZZGWo6oDscc.md#t-00-15-12) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(942);return false;">Play</a>
 
 > In December of 2024, a court petition was filed challenging the last will and testament and trust of a man named Alton C. Jennings. Okay. Alton died at 95 years old in a very long life. Per the lawsuit, these are still just allegations. Per the lawsuit, Alton began showing signs of cognitive decline in 2020.

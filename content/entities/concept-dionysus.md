@@ -21,7 +21,7 @@ _Type: Concepts_
 Source: [Dionysus | Britannica](https://www.britannica.com/topic/Dionysus)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-dionysus-t-00-35-55">2026-01-14 · 00:36:10</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-dionysus-t-00-35-53">2026-01-14 · 00:36:10</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-dionysus-t-00-11-55">2026-02-04 · 00:12:03</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>6</strong></div>
@@ -35,14 +35,14 @@ Source: [Dionysus | Britannica](https://www.britannica.com/topic/Dionysus)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-dionysus-t-00-07-27">REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-dionysus-t-00-35-55" style="--pulse-height:50%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-dionysus-t-00-35-53" style="--pulse-height:50%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-concept-dionysus-t-00-07-27" style="--pulse-height:100%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 4 mentions" title="2026-02-04 · 4 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-dionysus-t-00-35-55) | 2 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-dionysus-t-00-35-53) | 2 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-concept-dionysus-t-00-07-27) | 4 |
 
 </details>
@@ -73,10 +73,10 @@ Source: [Dionysus | Britannica](https://www.britannica.com/topic/Dionysus)
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (2 mentions)</summary>
 
-**[00:36:10](/episodes/ep-BKcOm32ZEGk.md#ent-concept-dionysus-t-00-35-55)**
+**[00:36:10](/episodes/ep-BKcOm32ZEGk.md#ent-concept-dionysus-t-00-35-53)**
 > "I went into Dionysus"
 
-**[00:36:25](/episodes/ep-BKcOm32ZEGk.md#ent-concept-dionysus-t-00-35-55)**
+**[00:36:25](/episodes/ep-BKcOm32ZEGk.md#ent-concept-dionysus-t-00-35-53)**
 > "Dionysus being like God of wine and revelry,"
 
 </details>

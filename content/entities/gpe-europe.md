@@ -32,7 +32,7 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-gpe-europe-t-00-02-55" style="--pulse-height:62%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 5 mentions" title="2025-12-02 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-europe-t-00-57-06" style="--pulse-height:25%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-europe-t-00-14-04" style="--pulse-height:25%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-europe-t-00-14-16" style="--pulse-height:25%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-europe-t-00-46-53" style="--pulse-height:12%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-europe-t-00-13-07" style="--pulse-height:50%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 4 mentions" title="2026-01-29 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-europe-t-00-28-00" style="--pulse-height:12%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
@@ -56,7 +56,7 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 |---|---|---:|
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-gpe-europe-t-00-02-55) | 5 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-europe-t-00-57-06) | 2 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-europe-t-00-14-04) | 2 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-europe-t-00-14-16) | 2 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-europe-t-00-46-53) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-europe-t-00-13-07) | 4 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-europe-t-00-28-00) | 1 |
@@ -282,10 +282,10 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (2 mentions)</summary>
 
-**[00:14:35](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-europe-t-00-14-04)**
+**[00:14:35](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-europe-t-00-14-16)**
 > "living in numerous states and Europe"
 
-**[00:15:27](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-europe-t-00-14-45)**
+**[00:15:27](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-europe-t-00-14-55)**
 > "through Europe,"
 
 </details>

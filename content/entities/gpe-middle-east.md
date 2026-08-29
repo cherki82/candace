@@ -1,6 +1,6 @@
 ---
 title: "Middle East"
-description: "Middle East (Places) - 75 mentions"
+description: "Middle East (Places) - 76 mentions"
 id: "gpe-middle-east"
 type: "GPE"
 aliases:
@@ -23,8 +23,8 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-q7f8r-THr84.md#ent-gpe-middle-east-t-00-54-45">2025-09-16 · 00:55:10</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-gpe-middle-east-t-00-41-31">2026-08-04 · 00:41:31</a></strong></div>
-<div><span>Episodes</span><strong>35</strong></div>
-<div><span>Mentions</span><strong>75</strong></div>
+<div><span>Episodes</span><strong>36</strong></div>
+<div><span>Mentions</span><strong>76</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -46,6 +46,7 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-middle-east-t-00-47-54" style="--pulse-height:12%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 1 mentions" title="2025-12-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-middle-east-t-00-03-11" style="--pulse-height:38%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 3 mentions" title="2025-12-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-middle-east-t-00-04-53" style="--pulse-height:38%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-middle-east-t-00-42-00" style="--pulse-height:12%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-middle-east-t-00-50-49" style="--pulse-height:38%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 3 mentions" title="2026-01-29 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-middle-east-t-00-34-26" style="--pulse-height:12%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-middle-east-t-00-52-59" style="--pulse-height:12%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
@@ -86,6 +87,7 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-gpe-middle-east-t-00-47-54) | 1 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-middle-east-t-00-03-11) | 3 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-middle-east-t-00-04-53) | 3 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-middle-east-t-00-42-00) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-middle-east-t-00-50-49) | 3 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-middle-east-t-00-34-26) | 1 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-middle-east-t-00-52-59) | 1 |
@@ -117,7 +119,7 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (75)</strong></summary>
+<summary><strong class="section-title">Raw mentions (76)</strong></summary>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (2 mentions)</summary>
@@ -393,15 +395,23 @@ Source: [Middle East - Wikipedia](https://en.wikipedia.org/wiki/Middle_East)
 </details>
 
 <details>
+<summary>Myron Gaines x Candace Owens (1 mentions)</summary>
+
+**[00:42:03](/episodes/ep-2T39-oADLj0.md#ent-gpe-middle-east-t-00-42-00)**
+> "...es to israel's control of the middle east what they're doing over there how they've been ab..."
+
+</details>
+
+<details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (3 mentions)</summary>
 
 **[00:05:25](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-middle-east-t-00-04-53)**
 > "...nd start a new chapter in the Middle East."
 
-**[00:05:37](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-middle-east-t-00-05-37)**
+**[00:05:34](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-middle-east-t-00-05-34)**
 > "...s, and especially wars in the Middle East?"
 
-**[00:06:32](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-middle-east-t-00-06-25)**
+**[00:06:25](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-middle-east-t-00-06-25)**
 > "...o live in this country in the Middle East. You wouldn't want to live in Iraq."
 
 </details>
@@ -588,7 +598,7 @@ _No relationships extracted yet._
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
 
-- [00:05:37](/episodes/ep-ZZGWo6oDscc.md#t-00-05-37) (Opinion) **Charlie Kirk** (via quoted speech): ["Plans for wars in the Middle East rarely unfold as drawn up and may ha..."](/statements/statement-319086dc735c.md)
+- [00:05:37](/episodes/ep-ZZGWo6oDscc.md#t-00-05-34) (Opinion) **Charlie Kirk** (via quoted speech): ["Plans for wars in the Middle East rarely unfold as drawn up and may ha..."](/statements/statement-319086dc735c.md)
   - Also about: [Iran](/entities/gpe-iran.md), [Neoconservatism](/entities/concept-neoconservatism.md)
 
 </details>

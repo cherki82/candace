@@ -29,7 +29,7 @@ veracity: "true"
 ## Source
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
-**Timestamp:** [00:16:38](/episodes/ep-ZZGWo6oDscc.md#t-00-15-58) 
+**Timestamp:** [00:16:38](/episodes/ep-ZZGWo6oDscc.md#t-00-16-23) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(998);return false;">Play</a>
 
 > Now, I should now tell you that Mitch Manley, his son, so Mitch Manley is the caretaker. His son is Mitch Manley Jr., who was working for Turning Point USA at this time. He's actually working on Charlie Kirk's show.

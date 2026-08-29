@@ -1,6 +1,6 @@
 ---
 title: "Psychological operations"
-description: "Psychological operations (Concepts) - 37 mentions"
+description: "Psychological operations (Concepts) - 41 mentions"
 id: "concept-psychological-operations"
 type: "CONCEPT"
 aliases:
@@ -24,8 +24,8 @@ Source: [U.S. Army: Psychological Operations](https://www.goarmy.com/careers-and
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-psychological-operations-t-00-02-03">2026-01-12 · 00:02:03</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-concept-psychological-operations-t-01-19-22">2026-08-17 · 01:19:40</a></strong></div>
-<div><span>Episodes</span><strong>16</strong></div>
-<div><span>Mentions</span><strong>37</strong></div>
+<div><span>Episodes</span><strong>19</strong></div>
+<div><span>Mentions</span><strong>41</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>9</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -34,10 +34,13 @@ Source: [U.S. Army: Psychological Operations](https://www.goarmy.com/careers-and
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-psychological-operations-t-00-22-07">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (10 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-psychological-operations-t-00-21-58">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-psychological-operations-t-00-02-03" style="--pulse-height:10%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-psychological-operations-t-00-22-07" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 10 mentions" title="2026-01-13 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-psychological-operations-t-00-21-58" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 10 mentions" title="2026-01-13 · 10 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-psychological-operations-t-00-48-48" style="--pulse-height:10%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-concept-psychological-operations-t-00-04-29" style="--pulse-height:20%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-concept-psychological-operations-t-00-15-34" style="--pulse-height:10%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-concept-psychological-operations-t-00-17-23" style="--pulse-height:30%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 3 mentions" title="2026-02-05 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-1hcjQGgvxUY.md#ent-concept-psychological-operations-t-00-39-28" style="--pulse-height:20%" aria-label="Okay…These Text Messages Are Crazy! | Candace Ep 307: 2 mentions" title="2026-02-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-concept-psychological-operations-t-00-58-16" style="--pulse-height:10%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
@@ -58,7 +61,10 @@ Source: [U.S. Army: Psychological Operations](https://www.goarmy.com/careers-and
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-psychological-operations-t-00-02-03) | 1 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-psychological-operations-t-00-22-07) | 10 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-psychological-operations-t-00-21-58) | 10 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-psychological-operations-t-00-48-48) | 1 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-psychological-operations-t-00-04-29) | 2 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-concept-psychological-operations-t-00-15-34) | 1 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-concept-psychological-operations-t-00-17-23) | 3 |
 | 2026-02-13 | [Okay…These Text Messages Are Crazy! | Candace Ep 307](/episodes/ep-1hcjQGgvxUY.md#ent-concept-psychological-operations-t-00-39-28) | 2 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-psychological-operations-t-00-58-16) | 1 |
@@ -80,7 +86,7 @@ Source: [U.S. Army: Psychological Operations](https://www.goarmy.com/careers-and
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (37)</strong></summary>
+<summary><strong class="section-title">Raw mentions (41)</strong></summary>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (2 mentions)</summary>
@@ -231,36 +237,63 @@ Source: [U.S. Army: Psychological Operations](https://www.goarmy.com/careers-and
 </details>
 
 <details>
+<summary>Myron Gaines x Candace Owens (2 mentions)</summary>
+
+**[00:04:41](/episodes/ep-2T39-oADLj0.md#ent-concept-psychological-operations-t-00-04-29)**
+> "This was a CIA-sponsored psyop. Gloria Steinem was sponsored by the CIA, okay? T..."
+
+**[00:42:47](/episodes/ep-2T39-oADLj0.md#ent-concept-psychological-operations-t-00-42-40)**
+> "...re letting you know this is a psychological operation. That's what they're telling you. They've gone ma..."
+
+</details>
+
+<details>
+<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (1 mentions)</summary>
+
+**[00:15:50](/episodes/ep-X92MllIHDzw.md#ent-concept-psychological-operations-t-00-15-34)**
+> "this retired Army general who actually ran psychological operations"
+
+</details>
+
+<details>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
+
+**[00:49:10](/episodes/ep-BKcOm32ZEGk.md#ent-concept-psychological-operations-t-00-48-48)**
+> "...they just kind of let him run psychological operations?"
+
+</details>
+
+<details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (10 mentions)</summary>
 
-**[00:19:49](/episodes/ep-ZZGWo6oDscc.md#ent-concept-psychological-operations-t-00-22-07)**
+**[00:19:47](/episodes/ep-ZZGWo6oDscc.md#ent-concept-psychological-operations-t-00-21-58)**
 > "...r for none other than the 7th Psychological Operations Group."
 
-**[00:20:02](/episodes/ep-ZZGWo6oDscc.md#ent-concept-psychological-operations-t-00-22-07)**
+**[00:19:59](/episodes/ep-ZZGWo6oDscc.md#ent-concept-psychological-operations-t-00-21-58)**
 > "The seventh psychological operations group, there were six before it. And what number ..."
 
-**[00:22:12](/episodes/ep-ZZGWo6oDscc.md#ent-concept-psychological-operations-t-00-22-07)**
+**[00:22:08](/episodes/ep-ZZGWo6oDscc.md#ent-concept-psychological-operations-t-00-21-58)**
 > "psychological operations,"
 
-**[00:23:23](/episodes/ep-ZZGWo6oDscc.md#ent-concept-psychological-operations-t-00-22-52)**
+**[00:23:20](/episodes/ep-ZZGWo6oDscc.md#ent-concept-psychological-operations-t-00-22-52)**
 > "who's head of PSYOPs, along with Paul Vallely, who's a board member,"
 
-**[00:27:52](/episodes/ep-ZZGWo6oDscc.md#ent-concept-psychological-operations-t-00-27-22)**
+**[00:27:40](/episodes/ep-ZZGWo6oDscc.md#ent-concept-psychological-operations-t-00-27-11)**
 > "psychological operations."
 
-**[00:28:47](/episodes/ep-ZZGWo6oDscc.md#ent-concept-psychological-operations-t-00-28-47)**
+**[00:28:47](/episodes/ep-ZZGWo6oDscc.md#ent-concept-psychological-operations-t-00-28-26)**
 > "A psychological operation when Mitch Snow came and told us that he saw Bria..."
 
-**[00:29:07](/episodes/ep-ZZGWo6oDscc.md#ent-concept-psychological-operations-t-00-28-47)**
+**[00:28:59](/episodes/ep-ZZGWo6oDscc.md#ent-concept-psychological-operations-t-00-28-59)**
 > "that's the home of army intel psychological operations and you should know that."
 
-**[00:45:28](/episodes/ep-ZZGWo6oDscc.md#ent-concept-psychological-operations-t-00-45-20)**
+**[00:45:24](/episodes/ep-ZZGWo6oDscc.md#ent-concept-psychological-operations-t-00-45-11)**
 > "...n the first thing, which is a psychological operation."
 
-**[00:49:09](/episodes/ep-ZZGWo6oDscc.md#ent-concept-psychological-operations-t-00-49-04)**
+**[00:49:04](/episodes/ep-ZZGWo6oDscc.md#ent-concept-psychological-operations-t-00-49-04)**
 > "...I'm learning about this whole psychological operation."
 
-**[00:50:35](/episodes/ep-ZZGWo6oDscc.md#ent-concept-psychological-operations-t-00-50-30)**
+**[00:50:27](/episodes/ep-ZZGWo6oDscc.md#ent-concept-psychological-operations-t-00-50-22)**
 > "...o, because that's a part of a psychological operation."
 
 </details>
@@ -323,16 +356,16 @@ _No relationships extracted yet._
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (4)</summary>
 
-- [00:20:07](/episodes/ep-ZZGWo6oDscc.md#t-00-19-30) (Accusation) **Candace Owens**: ["The U.S. military runs mind wars, and military-operated internet farms..."](/statements/statement-8f716ef30cf8.md)
+- [00:20:07](/episodes/ep-ZZGWo6oDscc.md#t-00-19-47) (Accusation) **Candace Owens**: ["The U.S. military runs mind wars, and Candace Owens suggested military..."](/statements/statement-8f716ef30cf8.md)
   - Also about: [United States Armed Forces](/entities/org-united-states-armed-forces.md), [Dead Internet theory](/entities/concept-dead-internet-theory.md)
 
-- [00:22:05](/episodes/ep-ZZGWo6oDscc.md#t-00-21-21) (Accusation) **Candace Owens**: ["The moon landing and the Manson murders were military operations."](/statements/statement-ea198cc13b65.md)
+- [00:22:05](/episodes/ep-ZZGWo6oDscc.md#t-00-21-58) (Accusation) **Candace Owens**: ["The moon landing and the Manson murders were military operations."](/statements/statement-ea198cc13b65.md)
   - Also about: [United States Armed Forces](/entities/org-united-states-armed-forces.md), [CHAOS: Charles Manson, the CIA, and the Secret History of the Sixties](/entities/work-chaos-charles-manson-cia-secret-history.md)
 
-- [00:28:26](/episodes/ep-ZZGWo6oDscc.md#t-00-28-05) (Claim) **Candace Owens**: ["Fort Huachuca is a hub for Army intelligence and psychological operati..."](/statements/statement-5b5e6a75a4ae.md)
+- [00:28:26](/episodes/ep-ZZGWo6oDscc.md#t-00-28-26) (Claim) **Candace Owens**: ["Fort Huachuca is a hub for Army intelligence and psychological operati..."](/statements/statement-5b5e6a75a4ae.md)
   - Also about: [Fort Huachuca](/entities/gpe-fort-huachuca.md), [United States Army](/entities/org-united-states-army.md)
 
-- [00:50:32](/episodes/ep-ZZGWo6oDscc.md#t-00-50-30) (Claim) **Candace Owens**: ["Pornography is part of a psychological operation and renders men weake..."](/statements/statement-e501a3b4e04d.md)
+- [00:50:32](/episodes/ep-ZZGWo6oDscc.md#t-00-50-22) (Claim) **Candace Owens**: ["Pornography is part of a psychological operation and renders men weake..."](/statements/statement-e501a3b4e04d.md)
   - Also about: [Pornography](/entities/concept-pornography.md), [Catholicism](/entities/concept-catholicism.md)
 
 </details>

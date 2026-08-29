@@ -1,6 +1,6 @@
 ---
 title: "MAGA movement"
-description: "MAGA movement (Concepts) - 123 mentions"
+description: "MAGA movement (Concepts) - 124 mentions"
 id: "concept-maga-movement"
 type: "CONCEPT"
 aliases:
@@ -25,7 +25,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#t-00-36-23">2025-09-15 · 00:36:29</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-HGtMfbePDKk.md#ent-concept-maga-movement-t-00-25-16">2026-08-11 · 00:25:35</a></strong></div>
 <div><span>Episodes</span><strong>43</strong></div>
-<div><span>Mentions</span><strong>123</strong></div>
+<div><span>Mentions</span><strong>124</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>8</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -54,7 +54,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <a href="/episodes/ep-YaZfwLQ7vrI.md#ent-concept-maga-movement-t-00-05-21" style="--pulse-height:42%" aria-label="Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262: 5 mentions" title="2025-11-10 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-concept-maga-movement-t-00-33-32" style="--pulse-height:8%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-concept-maga-movement-t-00-38-52" style="--pulse-height:8%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-maga-movement-t-00-52-31" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-maga-movement-t-00-52-34" style="--pulse-height:17%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-concept-maga-movement-t-00-18-50" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-maga-movement-t-00-11-11" style="--pulse-height:17%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 2 mentions" title="2026-01-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-maga-movement-t-00-26-58" style="--pulse-height:25%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 3 mentions" title="2026-02-11 · 3 mentions"><span></span></a>
@@ -102,7 +102,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 | 2025-11-10 | [Why Is Everyone Crashing Out Over The Charlie Kirk Investigation? | Candace Ep 262](/episodes/ep-YaZfwLQ7vrI.md#ent-concept-maga-movement-t-00-05-21) | 5 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-concept-maga-movement-t-00-33-32) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-concept-maga-movement-t-00-38-52) | 1 |
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-maga-movement-t-00-52-31) | 1 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-maga-movement-t-00-52-34) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-maga-movement-t-00-18-50) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-maga-movement-t-00-11-11) | 2 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-maga-movement-t-00-26-58) | 3 |
@@ -134,7 +134,7 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (123)</strong></summary>
+<summary><strong class="section-title">Raw mentions (124)</strong></summary>
 
 <details>
 <summary>Huh? Erika Kirk Sits Down With A Trans-Loving Reporter. We Reveal The Moderator For Friday's Debate. (2 mentions)</summary>
@@ -422,16 +422,19 @@ Source: [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Cand
 <details>
 <summary>Myron Gaines x Candace Owens (1 mentions)</summary>
 
-**[00:18:52](/episodes/ep-2T39-oADLj0.md#ent-concept-maga-movement-t-00-18-50)**
+**[00:18:50](/episodes/ep-2T39-oADLj0.md#ent-concept-maga-movement-t-00-18-50)**
 > "the original MAGA movement"
 
 </details>
 
 <details>
-<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (2 mentions)</summary>
 
-**[00:52:46](/episodes/ep-BKcOm32ZEGk.md#ent-concept-maga-movement-t-00-52-31)**
+**[00:52:46](/episodes/ep-BKcOm32ZEGk.md#ent-concept-maga-movement-t-00-52-34)**
 > "you're MAGA, you like Trump"
+
+**[00:52:34](/episodes/ep-BKcOm32ZEGk.md#ent-concept-maga-movement-t-00-52-34)**
+> "...re trying to go, well, you're MAGA, you like Trump, so accept."
 
 </details>
 

@@ -32,7 +32,7 @@ _Type: Concepts_
 <p>Highest activity: <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-islam-t-00-27-38">Candace x Bassem Youssef | Candace Ep 298</a> (18 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-islam-t-00-04-51" style="--pulse-height:8%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-islam-t-00-51-34" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-islam-t-00-51-30" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-concept-islam-t-00-27-38" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 18 mentions" title="2026-01-29 · 18 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-concept-islam-t-00-50-31" style="--pulse-height:17%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 3 mentions" title="2026-01-30 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-islam-t-00-38-00" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
@@ -53,7 +53,7 @@ _Type: Concepts_
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-islam-t-00-04-51) | 1 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-islam-t-00-51-34) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-islam-t-00-51-30) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-concept-islam-t-00-27-38) | 18 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-concept-islam-t-00-50-31) | 3 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-islam-t-00-38-00) | 1 |
@@ -312,7 +312,7 @@ _Type: Concepts_
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:51:34](/episodes/ep-ZZGWo6oDscc.md#ent-concept-islam-t-00-51-34)**
+**[00:51:30](/episodes/ep-ZZGWo6oDscc.md#ent-concept-islam-t-00-51-30)**
 > "... be jewish do i pretend to be muslim no they just they're they're thieves they're glor..."
 
 </details>

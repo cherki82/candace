@@ -23,8 +23,8 @@ _Type: Organizations_
 Source: [FBI Joint Terrorism Task Force Turns 45 - Dallas Division Reflects on Past Success](https://www.justice.gov/usao-ndtx/pr/fbi-joint-terrorism-task-force-turns-45-dallas-division-reflects-past-success)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-north-texas-joint-terrorism-task-force-t-00-11-11">2026-01-19 · 00:11:43</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-north-texas-joint-terrorism-task-force-t-00-11-11">2026-01-19 · 00:11:43</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-north-texas-joint-terrorism-task-force-t-00-11-37">2026-01-19 · 00:11:43</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-north-texas-joint-terrorism-task-force-t-00-11-37">2026-01-19 · 00:11:43</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -35,15 +35,15 @@ Source: [FBI Joint Terrorism Task Force Turns 45 - Dallas Division Reflects on P
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-north-texas-joint-terrorism-task-force-t-00-11-11">A Legal Turning Point? | Candace Ep 292</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-north-texas-joint-terrorism-task-force-t-00-11-37">A Legal Turning Point? | Candace Ep 292</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-north-texas-joint-terrorism-task-force-t-00-11-11" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-north-texas-joint-terrorism-task-force-t-00-11-37" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-north-texas-joint-terrorism-task-force-t-00-11-11) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-north-texas-joint-terrorism-task-force-t-00-11-37) | 1 |
 
 </details>
 </section>
@@ -56,7 +56,7 @@ Source: [FBI Joint Terrorism Task Force Turns 45 - Dallas Division Reflects on P
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
 
-**[00:11:43](/episodes/ep-NIEbqsLAK8g.md#ent-org-north-texas-joint-terrorism-task-force-t-00-11-11)**
+**[00:11:43](/episodes/ep-NIEbqsLAK8g.md#ent-org-north-texas-joint-terrorism-task-force-t-00-11-37)**
 > "He was a supervisor on the Dallas Joint Terrorism Task Force."
 
 </details>
@@ -72,7 +72,7 @@ Source: [FBI Joint Terrorism Task Force Turns 45 - Dallas Division Reflects on P
 - **[Greg Shaffer](/entities/person-greg-shaffer.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [A Legal Turning Point? | Candace Ep 292 @ 00:11:43](/episodes/ep-NIEbqsLAK8g.md#t-00-11-11): “He was a supervisor on the Dallas Joint Terrorism Task Force.”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:11:43](/episodes/ep-NIEbqsLAK8g.md#t-00-11-37): “He was a supervisor on the Dallas Joint Terrorism Task Force.”
 
 </details>
 
@@ -84,7 +84,7 @@ Source: [FBI Joint Terrorism Task Force Turns 45 - Dallas Division Reflects on P
 - **[Greg Shaffer](/entities/person-greg-shaffer.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [A Legal Turning Point? | Candace Ep 292 @ 00:11:43](/episodes/ep-NIEbqsLAK8g.md#t-00-11-11): “He was a supervisor on the Dallas Joint Terrorism Task Force.”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:11:43](/episodes/ep-NIEbqsLAK8g.md#t-00-11-37): “He was a supervisor on the Dallas Joint Terrorism Task Force.”
 
 </details>
 
@@ -98,7 +98,7 @@ Source: [FBI Joint Terrorism Task Force Turns 45 - Dallas Division Reflects on P
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1)</summary>
 
-- [00:11:37](/episodes/ep-NIEbqsLAK8g.md#t-00-11-11) (Claim) **Candace Owens**: ["Greg Shaffer worked for the FBI Hostage Rescue Team, supervised the Da..."](/statements/statement-69178e8428ef.md)
+- [00:11:37](/episodes/ep-NIEbqsLAK8g.md#t-00-11-05) (Claim) **Candace Owens**: ["Greg Shaffer worked for the FBI Hostage Rescue Team, supervised the Da..."](/statements/statement-69178e8428ef.md)
   - Also about: [Greg Shaffer](/entities/person-greg-shaffer.md), [FBI Hostage Rescue Team](/entities/org-fbi-hostage-rescue-team.md), [Budapest](/entities/gpe-budapest.md)
 
 </details>

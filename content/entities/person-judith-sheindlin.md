@@ -22,7 +22,7 @@ _Type: People_
 Source: [Judge Judy | CBS News](https://www.cbsnews.com/news/judge-judy/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-judith-sheindlin-t-00-29-45">2026-01-19 · 00:30:17</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-judith-sheindlin-t-00-29-42">2026-01-19 · 00:30:17</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-judith-sheindlin-t-00-30-52">2026-04-21 · 00:31:08</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
@@ -34,16 +34,16 @@ Source: [Judge Judy | CBS News](https://www.cbsnews.com/news/judge-judy/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-judith-sheindlin-t-00-29-45">A Legal Turning Point? | Candace Ep 292</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-judith-sheindlin-t-00-29-42">A Legal Turning Point? | Candace Ep 292</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-judith-sheindlin-t-00-29-45" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-judith-sheindlin-t-00-29-42" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-person-judith-sheindlin-t-00-30-52" style="--pulse-height:100%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-judith-sheindlin-t-00-29-45) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-judith-sheindlin-t-00-29-42) | 1 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-person-judith-sheindlin-t-00-30-52) | 1 |
 
 </details>
@@ -65,7 +65,7 @@ Source: [Judge Judy | CBS News](https://www.cbsnews.com/news/judge-judy/)
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
 
-**[00:30:17](/episodes/ep-NIEbqsLAK8g.md#ent-person-judith-sheindlin-t-00-29-45)**
+**[00:30:17](/episodes/ep-NIEbqsLAK8g.md#ent-person-judith-sheindlin-t-00-29-42)**
 > "Judge Judy watched it in bed with my grandma."
 
 </details>

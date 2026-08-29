@@ -26,8 +26,8 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#ent-person-george-zinn-t-00-27-20">2026-08-10 · 00:27:37</a></strong></div>
 <div><span>Episodes</span><strong>23</strong></div>
 <div><span>Mentions</span><strong>67</strong></div>
-<div><span>Statements by</span><strong>1</strong></div>
-<div><span>Statements about</span><strong>21</strong></div>
+<div><span>Statements by</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>22</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -197,7 +197,7 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 <details>
 <summary>Myron Gaines x Candace Owens (1 mentions)</summary>
 
-**[01:06:46](/episodes/ep-2T39-oADLj0.md#ent-person-george-zinn-t-01-06-38)**
+**[01:06:38](/episodes/ep-2T39-oADLj0.md#ent-person-george-zinn-t-01-06-38)**
 > "from George Zinn"
 
 </details>
@@ -444,7 +444,15 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements by George Zinn (1)</strong></summary>
+<summary><strong class="section-title">Statements by George Zinn (2)</strong></summary>
+
+<details>
+<summary>Myron Gaines x Candace Owens (1)</summary>
+
+- [01:06:59](/episodes/ep-2T39-oADLj0.md#t-01-06-59) [○] (Claim) ["George Zinn told a nurse that he was being paid, though he did not know how he w..."](/statements/statement-806ba9cea5e3.md)
+  - About: [George Zinn](/entities/person-george-zinn.md)
+
+</details>
 
 <details>
 <summary>Bearing False Witness: Who Made The Charlie Kirk Videos Go Viral? | Candace Ep 241 (1)</summary>
@@ -456,7 +464,7 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about George Zinn (21)</strong></summary>
+<summary><strong class="section-title">Statements about George Zinn (22)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (2)</summary>
@@ -498,10 +506,12 @@ Source: [Utah County Sheriff: Arrest and Booking of George Zinn](https://www.uta
 </details>
 
 <details>
-<summary>Myron Gaines x Candace Owens (1)</summary>
+<summary>Myron Gaines x Candace Owens (2)</summary>
 
 - [01:06:46](/episodes/ep-2T39-oADLj0.md#t-01-06-38) (Accusation) **Candace Owens**: ["The Charlie Kirk killing was an operation involving people compromised..."](/statements/statement-826d5f11b52c.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md)
+
+- [01:06:59](/episodes/ep-2T39-oADLj0.md#t-01-06-59) (Claim) **George Zinn** (via quoted speech): ["George Zinn told a nurse that he was being paid, though he did not kno..."](/statements/statement-806ba9cea5e3.md)
 
 </details>
 

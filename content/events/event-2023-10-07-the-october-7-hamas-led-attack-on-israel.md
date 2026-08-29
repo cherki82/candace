@@ -11,7 +11,7 @@ date: "2023-10-07"
 
 > The October 7 Hamas-led attack on Israel occurred.
 
-## Mentioned In (18 times)
+## Mentioned In (19 times)
 
 ### 1. Myron Gaines x Candace Owens
 
@@ -156,3 +156,11 @@ date: "2023-10-07"
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(565);return false;">▶️ Play</a>
 
 > this was post-October 7th, of course, where the thugs just started thugging a bit harder
+
+### 19. PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To ...
+
+**Episode:** [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md)
+**Timestamp:** [00:43:45](/episodes/ep-BKcOm32ZEGk.md#event-event-2023-10-07-the-october-7-hamas-led-attack-on-israel-t-00-43-45) 
+<a href="#" onclick="if(parent.seekTo)parent.seekTo(2625);return false;">▶️ Play</a>
+
+> The next generation of young people won't remember October 7th in the same way.

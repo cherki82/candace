@@ -22,7 +22,7 @@ _Type: Organizations_
 Source: [About The Spectator](https://spectator.com/about/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-the-spectator-t-00-32-21">2026-01-14 · 00:32:21</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-the-spectator-t-00-32-19">2026-01-14 · 00:32:21</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-19vHhjF7-NA.md#t-00-28-30">2026-06-11 · 00:28:37</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
@@ -34,9 +34,9 @@ Source: [About The Spectator](https://spectator.com/about/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-the-spectator-t-00-32-21">PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-the-spectator-t-00-32-19">PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-the-spectator-t-00-32-21" style="--pulse-height:100%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-the-spectator-t-00-32-19" style="--pulse-height:100%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xi8SYJTUXPM.md#ent-org-the-spectator-t-00-36-06" style="--pulse-height:100%" aria-label="Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328: 1 mentions" title="2026-04-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#t-00-28-30" style="--pulse-height:100%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
 </div>
@@ -44,7 +44,7 @@ Source: [About The Spectator](https://spectator.com/about/)
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-the-spectator-t-00-32-21) | 1 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-the-spectator-t-00-32-19) | 1 |
 | 2026-04-21 | [Lori Frantzve’s Gun Deal? Terryl’s Footage Faux Pas. | Candace Ep 328](/episodes/ep-xi8SYJTUXPM.md#ent-org-the-spectator-t-00-36-06) | 1 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#t-00-28-30) | 1 |
 
@@ -75,7 +75,7 @@ Source: [About The Spectator](https://spectator.com/about/)
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
 
-**[00:32:21](/episodes/ep-BKcOm32ZEGk.md#ent-org-the-spectator-t-00-32-21)**
+**[00:32:21](/episodes/ep-BKcOm32ZEGk.md#ent-org-the-spectator-t-00-32-19)**
 > "In the Spectator UK"
 
 </details>
@@ -95,7 +95,7 @@ _No relationships extracted yet._
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1)</summary>
 
-- [00:32:19](/episodes/ep-BKcOm32ZEGk.md#t-00-31-40) (Citation) **Candace Owens**: ["A Spectator UK article argued that COVID-19 was established to mirror ..."](/statements/statement-1d6a5f522fbd.md)
+- [00:32:19](/episodes/ep-BKcOm32ZEGk.md#t-00-32-19) (Citation) **Candace Owens**: ["A Spectator UK article argued that COVID-19 was established to mirror ..."](/statements/statement-1d6a5f522fbd.md)
   - Also about: [COVID-19](/entities/concept-covid-19.md)
 
 </details>

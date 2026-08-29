@@ -51,7 +51,7 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-gpe-ukraine-t-00-18-15" style="--pulse-height:50%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 5 mentions" title="2025-12-05 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-ukraine-t-00-00-00" style="--pulse-height:20%" aria-label="Erika Kirk Tells Me To &quot;Stop&quot;. Tyler Robinson Makes His First Appearance. | Candace Ep 279: 2 mentions" title="2025-12-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-ukraine-t-00-12-53" style="--pulse-height:40%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 4 mentions" title="2026-01-09 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-ukraine-t-00-52-57" style="--pulse-height:10%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-gpe-ukraine-t-00-52-58" style="--pulse-height:10%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-ukraine-t-01-15-19" style="--pulse-height:20%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-gpe-ukraine-t-00-16-47" style="--pulse-height:20%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 2 mentions" title="2026-02-04 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-ukraine-t-00-04-53" style="--pulse-height:20%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
@@ -92,7 +92,7 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-gpe-ukraine-t-00-18-15) | 5 |
 | 2025-12-12 | [Erika Kirk Tells Me To "Stop". Tyler Robinson Makes His First Appearance. | Candace Ep 279](/episodes/ep-6J6lRZPQ4jk.md#ent-gpe-ukraine-t-00-00-00) | 2 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-ukraine-t-00-12-53) | 4 |
-| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-ukraine-t-00-52-57) | 1 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-gpe-ukraine-t-00-52-58) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-ukraine-t-01-15-19) | 2 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-gpe-ukraine-t-00-16-47) | 2 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-ukraine-t-00-04-53) | 2 |
@@ -321,7 +321,7 @@ Source: [General facts | Ministry of Foreign Affairs of Ukraine](https://mfa.gov
 <details>
 <summary>Myron Gaines x Candace Owens (1 mentions)</summary>
 
-**[00:53:10](/episodes/ep-2T39-oADLj0.md#ent-gpe-ukraine-t-00-52-57)**
+**[00:53:10](/episodes/ep-2T39-oADLj0.md#ent-gpe-ukraine-t-00-52-58)**
 > "I don't know that there's a difference in the decisions that are made in Ukraine or America."
 
 </details>

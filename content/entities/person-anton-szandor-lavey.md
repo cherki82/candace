@@ -22,7 +22,7 @@ _Type: People_
 Source: [Anton Szandor LaVey | Church of Satan](https://churchofsatan.com/history-anton-szandor-lavey/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-anton-szandor-lavey-t-00-22-52">2026-01-13 · 00:23:08</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-anton-szandor-lavey-t-00-22-52">2026-01-13 · 00:22:52</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-anton-szandor-lavey-t-00-23-33">2026-01-13 · 00:23:33</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
@@ -55,7 +55,7 @@ Source: [Anton Szandor LaVey | Church of Satan](https://churchofsatan.com/histor
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2 mentions)</summary>
 
-**[00:23:08](/episodes/ep-ZZGWo6oDscc.md#ent-person-anton-szandor-lavey-t-00-22-52)**
+**[00:22:52](/episodes/ep-ZZGWo6oDscc.md#ent-person-anton-szandor-lavey-t-00-22-52)**
 > "...sm, you could say. He accuses Anton LaVey, who's the founder of the Church of Satan, of her..."
 
 **[00:23:33](/episodes/ep-ZZGWo6oDscc.md#ent-person-anton-szandor-lavey-t-00-23-33)**

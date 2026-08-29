@@ -22,7 +22,7 @@ Source: [Fresh and Fit Podcast | Spotify](https://open.spotify.com/show/2zNaoDiT
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-person-myron-gaines-t-00-02-55">2026-01-16 · 00:03:06</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#t-00-40-49">2026-01-19 · 00:41:09</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#t-00-40-39">2026-01-19 · 00:41:09</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
@@ -37,7 +37,7 @@ Source: [Fresh and Fit Podcast | Spotify](https://open.spotify.com/show/2zNaoDiT
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-myron-gaines-t-01-01-53" style="--pulse-height:100%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-myron-gaines-t-00-02-55" style="--pulse-height:100%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#t-00-40-49" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#t-00-40-39" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -45,7 +45,7 @@ Source: [Fresh and Fit Podcast | Spotify](https://open.spotify.com/show/2zNaoDiT
 |---|---|---:|
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-myron-gaines-t-01-01-53) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-myron-gaines-t-00-02-55) | 1 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#t-00-40-49) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#t-00-40-39) | 1 |
 
 </details>
 </section>
@@ -58,7 +58,7 @@ Source: [Fresh and Fit Podcast | Spotify](https://open.spotify.com/show/2zNaoDiT
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
 
-**[00:41:09](/episodes/ep-NIEbqsLAK8g.md#t-00-40-49)**
+**[00:41:09](/episodes/ep-NIEbqsLAK8g.md#t-00-40-39)**
 > "me being interviewed by Myron"
 
 </details>
@@ -111,7 +111,7 @@ Source: [Fresh and Fit Podcast | Spotify](https://open.spotify.com/show/2zNaoDiT
 
 - [Myron Gaines x Candace Owens @ 00:01:29](/episodes/ep-2T39-oADLj0.md#t-00-01-29): “So kind of with that, I saw that you had did a debate on Jubilee with a bunch of feminists.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 01:01:53](/episodes/ep-X92MllIHDzw.md#t-01-01-53): “we have an interview dropping tomorrow between me and Myron Gaines ... he interviewed me”
-- [A Legal Turning Point? | Candace Ep 292 @ 00:41:09](/episodes/ep-NIEbqsLAK8g.md#t-00-40-49): “we aired it was actually me being interviewed by Myron, which actually took place at the end of last year”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:41:09](/episodes/ep-NIEbqsLAK8g.md#t-00-40-39): “we aired it was actually me being interviewed by Myron, which actually took place at the end of last year”
 
 </details>
 
@@ -125,7 +125,7 @@ Source: [Fresh and Fit Podcast | Spotify](https://open.spotify.com/show/2zNaoDiT
 
 - [Myron Gaines x Candace Owens @ 00:01:29](/episodes/ep-2T39-oADLj0.md#t-00-01-29): “So kind of with that, I saw that you had did a debate on Jubilee with a bunch of feminists.”
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 01:01:53](/episodes/ep-X92MllIHDzw.md#t-01-01-53): “we have an interview dropping tomorrow between me and Myron Gaines ... he interviewed me”
-- [A Legal Turning Point? | Candace Ep 292 @ 00:41:09](/episodes/ep-NIEbqsLAK8g.md#t-00-40-49): “we aired it was actually me being interviewed by Myron, which actually took place at the end of last year”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:41:09](/episodes/ep-NIEbqsLAK8g.md#t-00-40-39): “we aired it was actually me being interviewed by Myron, which actually took place at the end of last year”
 
 </details>
 

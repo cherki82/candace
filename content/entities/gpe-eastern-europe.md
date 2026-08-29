@@ -32,7 +32,7 @@ Source: [Eastern Europe | Britannica](https://www.britannica.com/place/eastern-E
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-eastern-europe-t-00-06-24" style="--pulse-height:29%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#t-00-14-06" style="--pulse-height:14%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#t-00-11-11" style="--pulse-height:14%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#t-00-11-37" style="--pulse-height:14%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-gpe-eastern-europe-t-00-23-59" style="--pulse-height:57%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 4 mentions" title="2026-02-27 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-gpe-eastern-europe-t-00-10-20" style="--pulse-height:29%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-gpe-eastern-europe-t-00-00-01" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 7 mentions" title="2026-03-03 · 7 mentions"><span></span></a>
@@ -56,7 +56,7 @@ Source: [Eastern Europe | Britannica](https://www.britannica.com/place/eastern-E
 |---|---|---:|
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-eastern-europe-t-00-06-24) | 2 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#t-00-14-06) | 1 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#t-00-11-11) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#t-00-11-37) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-gpe-eastern-europe-t-00-23-59) | 4 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-gpe-eastern-europe-t-00-10-20) | 2 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-gpe-eastern-europe-t-00-00-01) | 7 |
@@ -285,7 +285,7 @@ Source: [Eastern Europe | Britannica](https://www.britannica.com/place/eastern-E
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
 
-**[00:11:43](/episodes/ep-NIEbqsLAK8g.md#t-00-11-11)**
+**[00:11:43](/episodes/ep-NIEbqsLAK8g.md#t-00-11-37)**
 > "another Eastern European connection"
 
 </details>

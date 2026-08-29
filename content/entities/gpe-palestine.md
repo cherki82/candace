@@ -317,7 +317,7 @@ _No relationships extracted yet._
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1)</summary>
 
-- [00:43:25](/episodes/ep-BKcOm32ZEGk.md#t-00-42-53) (Accusation) **Candace Owens** (via paraphrase): ["Mike Pompeo was arguing that future history books should omit the kill..."](/statements/statement-881ef72df2a3.md)
+- [00:43:25](/episodes/ep-BKcOm32ZEGk.md#t-00-43-19) (Accusation) **Candace Owens** (via paraphrase): ["Mike Pompeo was arguing that future history books should omit the kill..."](/statements/statement-881ef72df2a3.md)
   - Also about: [Mike Pompeo](/entities/person-mike-pompeo.md), [Gaza](/entities/gpe-gaza.md), [Israel](/entities/gpe-israel.md)
 
 </details>

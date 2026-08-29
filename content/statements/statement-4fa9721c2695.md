@@ -29,7 +29,7 @@ veracity: "mixed"
 ### 1. PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To ...
 
 **Episode:** [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md)
-**Timestamp:** [00:50:38](/episodes/ep-BKcOm32ZEGk.md#t-00-50-21) 
+**Timestamp:** [00:50:38](/episodes/ep-BKcOm32ZEGk.md#t-00-50-38) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3038);return false;">Play</a>
 
 > don't like you so much why not just scrub the internet of you is this a planned awakening they did because remember please are you are you new here last year 2024 rather was a struggle we had to really fight that's why we ended up building the candace owens website was because they knocked us they demonetized us on youtube they were throttling us

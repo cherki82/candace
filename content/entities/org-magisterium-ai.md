@@ -183,10 +183,10 @@ Source: [Magisterium AI](https://www.magisterium.com/)
 **[00:38:19](/episodes/ep-NIEbqsLAK8g.md#ent-org-magisterium-ai-t-00-37-57)**
 > "... programs that are out there, magisterium AI acts as a"
 
-**[00:38:56](/episodes/ep-NIEbqsLAK8g.md#ent-org-magisterium-ai-t-00-38-39)**
+**[00:38:56](/episodes/ep-NIEbqsLAK8g.md#ent-org-magisterium-ai-t-00-38-33)**
 > "Go to magisterium.com slash candice or download the app for free on..."
 
-**[00:39:13](/episodes/ep-NIEbqsLAK8g.md#ent-org-magisterium-ai-t-00-38-39)**
+**[00:39:13](/episodes/ep-NIEbqsLAK8g.md#ent-org-magisterium-ai-t-00-38-33)**
 > "It's a no brainer. Visit magisterium.com slash candice."
 
 </details>

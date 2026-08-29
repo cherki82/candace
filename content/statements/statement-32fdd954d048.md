@@ -27,10 +27,10 @@ veracity: "true"
 ## Source
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
-**Timestamp:** [00:38:10](/episodes/ep-ZZGWo6oDscc.md#t-00-37-38) 
+**Timestamp:** [00:38:10](/episodes/ep-ZZGWo6oDscc.md#t-00-37-43) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2290);return false;">Play</a>
 
-> I do want to acknowledge the fact that Scott Adams, the creator of Dilbert, died 68. ... He lost his battle with prostate cancer. He was just 68 years old. So it's very sad.
+> Anyways, before we get into some of your comments, I do want to acknowledge the fact that Scott Adams, the creator of Dilbert, died at 68. ... He lost his battle with prostate cancer. He was just 68 years old.
 
 ## Verification
 

@@ -1,6 +1,6 @@
 ---
 title: "X-Men"
-description: "X-Men (Works & Media) - 2 mentions"
+description: "X-Men (Works & Media) - 4 mentions"
 id: "work-x-men"
 type: "WORK"
 aliases:
@@ -22,10 +22,10 @@ _Type: Works & Media_
 Source: [Mystique | Marvel](https://www.marvel.com/characters/mystique)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-work-x-men-t-01-04-57">2026-08-21 · 01:05:31</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-work-x-men-t-00-04-21">2026-01-14 · 00:04:21</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-work-x-men-t-01-07-02">2026-08-21 · 01:07:02</a></strong></div>
-<div><span>Episodes</span><strong>1</strong></div>
-<div><span>Mentions</span><strong>2</strong></div>
+<div><span>Episodes</span><strong>3</strong></div>
+<div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,12 +36,16 @@ Source: [Mystique | Marvel](https://www.marvel.com/characters/mystique)
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-_cNtgris8Ik.md#ent-work-x-men-t-01-04-57">Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-work-x-men-t-00-04-21" style="--pulse-height:50%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-work-x-men-t-00-10-22" style="--pulse-height:50%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-_cNtgris8Ik.md#ent-work-x-men-t-01-04-57" style="--pulse-height:100%" aria-label="Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379: 2 mentions" title="2026-08-21 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-work-x-men-t-00-04-21) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-work-x-men-t-00-10-22) | 1 |
 | 2026-08-21 | [Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379](/episodes/ep-_cNtgris8Ik.md#ent-work-x-men-t-01-04-57) | 2 |
 
 </details>
@@ -50,7 +54,7 @@ Source: [Mystique | Marvel](https://www.marvel.com/characters/mystique)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (2)</strong></summary>
+<summary><strong class="section-title">Raw mentions (4)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (2 mentions)</summary>
@@ -60,6 +64,22 @@ Source: [Mystique | Marvel](https://www.marvel.com/characters/mystique)
 
 **[01:07:02](/episodes/ep-_cNtgris8Ik.md#ent-work-x-men-t-01-07-02)**
 > "...show knows that in i'm a huge x-men fan and i'm mystique always i'm always mystique S..."
+
+</details>
+
+<details>
+<summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
+
+**[00:10:56](/episodes/ep-NIEbqsLAK8g.md#ent-work-x-men-t-00-10-22)**
+> "the X-Men school"
+
+</details>
+
+<details>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
+
+**[00:04:21](/episodes/ep-BKcOm32ZEGk.md#ent-work-x-men-t-00-04-21)**
+> "...t they could send him to this x-men school that's the best way I can describe it I wo..."
 
 </details>
 

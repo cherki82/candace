@@ -168,7 +168,7 @@ Source: [Elon Musk | Tesla](https://www.tesla.com/elon-musk)
 **[00:13:13](/episodes/ep-2T39-oADLj0.md#ent-person-elon-musk-t-00-14-14)**
 > "You would say Elon or you would say,"
 
-**[00:14:47](/episodes/ep-2T39-oADLj0.md#ent-person-elon-musk-t-00-14-14)**
+**[00:14:44](/episodes/ep-2T39-oADLj0.md#ent-person-elon-musk-t-00-14-14)**
 > "Oh, it's Jeff Bezos. It's Elon Musk."
 
 </details>

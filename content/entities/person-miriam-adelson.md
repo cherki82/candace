@@ -185,10 +185,10 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 <details>
 <summary>Myron Gaines x Candace Owens (3 mentions)</summary>
 
-**[00:27:09](/episodes/ep-2T39-oADLj0.md#ent-person-miriam-adelson-t-00-27-07)**
+**[00:27:07](/episodes/ep-2T39-oADLj0.md#ent-person-miriam-adelson-t-00-27-07)**
 > "we're talking about Miriam Adelson and Epstein"
 
-**[00:23:36](/episodes/ep-2T39-oADLj0.md#ent-person-miriam-adelson-t-00-23-26)**
+**[00:23:32](/episodes/ep-2T39-oADLj0.md#ent-person-miriam-adelson-t-00-23-26)**
 > "...d he took a lot of money from miriam adelson the adelson"
 
 **[00:23:44](/episodes/ep-2T39-oADLj0.md#ent-person-miriam-adelson-t-00-23-44)**
@@ -242,7 +242,7 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 - **[Donald J. Trump](/entities/person-donald-trump.md)**
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
-- [Myron Gaines x Candace Owens @ 00:23:36](/episodes/ep-2T39-oADLj0.md#t-00-23-26): “he took a lot of money from miriam adelson the adelson Hundreds family of millions. hundreds of millions of dollars from miriam adelson”
+- [Myron Gaines x Candace Owens @ 00:23:32](/episodes/ep-2T39-oADLj0.md#t-00-23-26): “he took a lot of money from miriam adelson the adelson ... hundreds of millions of dollars from miriam adelson and i think that's kind of the beginning of everything”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 00:48:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-48-09): “yeah it's I don't even know what we're doing anymore and I'm like we I was got behind Trump (Donald J. Trump) we're supposed to do no new wars and then it's like Bibi (Benjamin Netanyahu)'s like here's what you're going to do here's what you're going to do obviously look he took Miriam Adelson's money and so I don't even pay attention to it anymore”
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:21:12](/episodes/ep-CEF7gQRWYCE.md#t-00-20-42): “miriam adel said ... she's doing her thing and just giving trump 200 million dollars”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:37:50](/episodes/ep-i8m_6D4QGmk.md#t-00-37-50): “So Trump is saying that the person that he took $100 million, $200 million from, I think in the end, loves Israel more than she loves America.”
@@ -308,7 +308,7 @@ Source: [Adelson Family Foundation - Leadership](https://www.adelsonfoundation.o
 - **[Donald J. Trump](/entities/person-donald-trump.md)** funded by this
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
-- [Myron Gaines x Candace Owens @ 00:23:36](/episodes/ep-2T39-oADLj0.md#t-00-23-26): “he took a lot of money from miriam adelson the adelson Hundreds family of millions. hundreds of millions of dollars from miriam adelson”
+- [Myron Gaines x Candace Owens @ 00:23:32](/episodes/ep-2T39-oADLj0.md#t-00-23-26): “he took a lot of money from miriam adelson the adelson ... hundreds of millions of dollars from miriam adelson and i think that's kind of the beginning of everything”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 00:48:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-48-09): “yeah it's I don't even know what we're doing anymore and I'm like we I was got behind Trump (Donald J. Trump) we're supposed to do no new wars and then it's like Bibi (Benjamin Netanyahu)'s like here's what you're going to do here's what you're going to do obviously look he took Miriam Adelson's money and so I don't even pay attention to it anymore”
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:21:12](/episodes/ep-CEF7gQRWYCE.md#t-00-20-42): “miriam adel said ... she's doing her thing and just giving trump 200 million dollars”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:37:50](/episodes/ep-i8m_6D4QGmk.md#t-00-37-50): “So Trump is saying that the person that he took $100 million, $200 million from, I think in the end, loves Israel more than she loves America.”

@@ -16,7 +16,7 @@ date: "2024"
 ### 1. PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To ...
 
 **Episode:** [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md)
-**Timestamp:** [00:50:38](/episodes/ep-BKcOm32ZEGk.md#event-event-2024-candace-owens-said-platform-restrictions-t-00-50-21) 
+**Timestamp:** [00:50:38](/episodes/ep-BKcOm32ZEGk.md#event-event-2024-candace-owens-said-platform-restrictions-t-00-50-38) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3038);return false;">▶️ Play</a>
 
 > that's why we ended up building the candace owens website was because they knocked us

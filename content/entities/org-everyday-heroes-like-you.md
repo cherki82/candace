@@ -322,10 +322,10 @@ Source: [Erika Frantzve | Ministry](https://www.mrserikakirk.com/ministry)
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (2)</summary>
 
-- [00:30:58](/episodes/ep-NIEbqsLAK8g.md#t-00-30-28) (Claim) **Erika Kirk**: ["Everyday Heroes Like You initially funded and promoted transparent gra..."](/statements/statement-f3e38bba5ce2.md)
+- [00:30:58](/episodes/ep-NIEbqsLAK8g.md#t-00-30-27) (Claim) **Erika Kirk**: ["Everyday Heroes Like You initially funded and promoted transparent gra..."](/statements/statement-f3e38bba5ce2.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md)
 
-- [00:31:25](/episodes/ep-NIEbqsLAK8g.md#t-00-30-58) (Claim) **Erika Kirk**: ["Erika Kirk said that while living in China she worked with sex-traffic..."](/statements/statement-eddb8602cc35.md)
+- [00:31:25](/episodes/ep-NIEbqsLAK8g.md#t-00-31-23) (Claim) **Erika Kirk**: ["Erika Kirk said that while living in China she worked with sex-traffic..."](/statements/statement-eddb8602cc35.md)
   - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [China](/entities/gpe-china.md), [United States Marine Corps](/entities/org-united-states-marine-corps.md)
 
 </details>

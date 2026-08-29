@@ -479,7 +479,7 @@ Source: [About Us - Paramount Tactical](https://www.paramounttactical.com/pages/
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1)</summary>
 
-- [00:29:45](/episodes/ep-NIEbqsLAK8g.md#t-00-29-00) (Accusation) **Candace Owens**: ["Turning Point USA and its security representatives are lying about the..."](/statements/statement-73e35afd8842.md)
+- [00:29:45](/episodes/ep-NIEbqsLAK8g.md#t-00-29-42) (Accusation) **Candace Owens**: ["Turning Point USA and its security representatives are lying about the..."](/statements/statement-73e35afd8842.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Brian Harpole](/entities/person-brian-harpole.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md)
 
 </details>

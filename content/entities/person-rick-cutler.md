@@ -32,7 +32,7 @@ Source: [KSL — Charlie Kirk security detail account](https://www.ksl.com/artic
 <p>Highest activity: <a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-rick-cutler-t-00-09-14">Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355</a> (13 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-rick-cutler-t-01-17-26" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-rick-cutler-t-00-14-04" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-rick-cutler-t-00-13-35" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-sKuYLNx3iRo.md#ent-person-rick-cutler-t-00-09-14" style="--pulse-height:100%" aria-label="Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355: 13 mentions" title="2026-06-24 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-a2bZf4fic10.md#ent-person-rick-cutler-t-00-13-44" style="--pulse-height:23%" aria-label="EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357: 3 mentions" title="2026-06-26 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-EtLHqDbxqks.md#ent-person-rick-cutler-t-01-02-36" style="--pulse-height:15%" aria-label="I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358: 2 mentions" title="2026-07-14 · 2 mentions"><span></span></a>
@@ -47,7 +47,7 @@ Source: [KSL — Charlie Kirk security detail account](https://www.ksl.com/artic
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-rick-cutler-t-01-17-26) | 1 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-rick-cutler-t-00-14-04) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-rick-cutler-t-00-13-35) | 1 |
 | 2026-06-24 | [Charlie’s Final Ride To The Hospital Isn’t Adding Up. Neither Is Daily Wire’s Accounting. | Ep 355](/episodes/ep-sKuYLNx3iRo.md#ent-person-rick-cutler-t-00-09-14) | 13 |
 | 2026-06-26 | [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357](/episodes/ep-a2bZf4fic10.md#ent-person-rick-cutler-t-00-13-44) | 3 |
 | 2026-07-14 | [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358](/episodes/ep-EtLHqDbxqks.md#ent-person-rick-cutler-t-01-02-36) | 2 |
@@ -201,7 +201,7 @@ Source: [KSL — Charlie Kirk security detail account](https://www.ksl.com/artic
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
 
-**[00:14:09](/episodes/ep-NIEbqsLAK8g.md#ent-person-rick-cutler-t-00-14-04)**
+**[00:14:09](/episodes/ep-NIEbqsLAK8g.md#ent-person-rick-cutler-t-00-13-35)**
 > "Oddly, all of Charlie's security that day was from Texas, from Rick Cutler to Dan Flood, even Brian Harpole."
 
 </details>
@@ -256,7 +256,7 @@ _No relationships extracted yet._
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1)</summary>
 
-- [00:14:09](/episodes/ep-NIEbqsLAK8g.md#t-00-14-04) (Claim) **Candace Owens**: ["All of Charlie Kirk's security personnel on the day of his assassinati..."](/statements/statement-cb561dcf34d6.md)
+- [00:14:09](/episodes/ep-NIEbqsLAK8g.md#t-00-13-35) (Claim) **Candace Owens**: ["All of Charlie Kirk's security personnel on the day of his assassinati..."](/statements/statement-cb561dcf34d6.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Dan Flood](/entities/person-dan-flood.md), [Brian Harpole](/entities/person-brian-harpole.md)
 
 </details>

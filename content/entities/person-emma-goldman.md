@@ -36,7 +36,7 @@ Source: [Emma Goldman | Biography | Britannica](https://www.britannica.com/biogr
 <p>Highest activity: <a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-emma-goldman-t-00-12-07">MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-K1tFD7FfoCU.md#ent-person-emma-goldman-t-00-12-07" style="--pulse-height:100%" aria-label="MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257: 2 mentions" title="2025-11-03 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-person-emma-goldman-t-00-05-13" style="--pulse-height:50%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-person-emma-goldman-t-00-05-00" style="--pulse-height:50%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-emma-goldman-t-00-31-57" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 2 mentions" title="2026-03-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-emma-goldman-t-00-07-56" style="--pulse-height:50%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 </div>
@@ -45,7 +45,7 @@ Source: [Emma Goldman | Biography | Britannica](https://www.britannica.com/biogr
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-11-03 | [MATRIX REVELATIONS: Erika Kirk Speaks. Zionists Lie About Charlie. | Candace Ep 257](/episodes/ep-K1tFD7FfoCU.md#ent-person-emma-goldman-t-00-12-07) | 2 |
-| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-emma-goldman-t-00-05-13) | 1 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-emma-goldman-t-00-05-00) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-emma-goldman-t-00-31-57) | 2 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-emma-goldman-t-00-07-56) | 1 |
 
@@ -79,7 +79,7 @@ Source: [Emma Goldman | Biography | Britannica](https://www.britannica.com/biogr
 <details>
 <summary>Myron Gaines x Candace Owens (1 mentions)</summary>
 
-**[00:05:25](/episodes/ep-2T39-oADLj0.md#ent-person-emma-goldman-t-00-05-13)**
+**[00:05:25](/episodes/ep-2T39-oADLj0.md#ent-person-emma-goldman-t-00-05-00)**
 > "these Jewish women like Emma Goldman"
 
 </details>
@@ -106,7 +106,7 @@ Source: [Emma Goldman | Biography | Britannica](https://www.britannica.com/biogr
 - **[Margaret Sanger](/entities/person-margaret-sanger.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Myron Gaines x Candace Owens @ 00:05:25](/episodes/ep-2T39-oADLj0.md#t-00-05-13): “Emma Goldman was the mentor to, what's her face, from Planned Parenthood. I'm blanking on her name for a moment. I was going to say Margaret Sanger. That was her mentor.”
+- [Myron Gaines x Candace Owens @ 00:05:25](/episodes/ep-2T39-oADLj0.md#t-00-05-00): “Emma Goldman was the mentor to, what's her face, from Planned Parenthood. I'm blanking on her name for a moment. I was going to say Margaret Sanger. That was her mentor.”
 
 </details>
 
@@ -118,7 +118,7 @@ Source: [Emma Goldman | Biography | Britannica](https://www.britannica.com/biogr
 - **[Margaret Sanger](/entities/person-margaret-sanger.md)** mentored by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Myron Gaines x Candace Owens @ 00:05:25](/episodes/ep-2T39-oADLj0.md#t-00-05-13): “Emma Goldman was the mentor to, what's her face, from Planned Parenthood. I'm blanking on her name for a moment. I was going to say Margaret Sanger. That was her mentor.”
+- [Myron Gaines x Candace Owens @ 00:05:25](/episodes/ep-2T39-oADLj0.md#t-00-05-00): “Emma Goldman was the mentor to, what's her face, from Planned Parenthood. I'm blanking on her name for a moment. I was going to say Margaret Sanger. That was her mentor.”
 
 </details>
 
@@ -143,7 +143,7 @@ Source: [Emma Goldman | Biography | Britannica](https://www.britannica.com/biogr
 <details>
 <summary>Myron Gaines x Candace Owens (1)</summary>
 
-- [00:05:41](/episodes/ep-2T39-oADLj0.md#t-00-05-13) (Claim) **Candace Owens**: ["Emma Goldman was Margaret Sanger's mentor."](/statements/statement-d4c9228da759.md)
+- [00:05:41](/episodes/ep-2T39-oADLj0.md#t-00-05-00) (Claim) **Candace Owens**: ["Emma Goldman was Margaret Sanger's mentor."](/statements/statement-d4c9228da759.md)
   - Also about: [Margaret Sanger](/entities/person-margaret-sanger.md)
 
 </details>

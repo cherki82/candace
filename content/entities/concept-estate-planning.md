@@ -17,7 +17,7 @@ _Type: Concepts_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-estate-planning-t-00-12-25">2026-01-12 · 00:12:59</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-estate-planning-t-00-14-32">2026-01-13 · 00:14:42</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-estate-planning-t-00-14-42">2026-01-13 · 00:14:42</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -31,14 +31,14 @@ _Type: Concepts_
 <p>Highest activity: <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-estate-planning-t-00-12-25">American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-estate-planning-t-00-12-25" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-estate-planning-t-00-14-32" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-estate-planning-t-00-14-42" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-estate-planning-t-00-12-25) | 1 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-estate-planning-t-00-14-32) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-estate-planning-t-00-14-42) | 1 |
 
 </details>
 </section>
@@ -51,7 +51,7 @@ _Type: Concepts_
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:14:42](/episodes/ep-ZZGWo6oDscc.md#ent-concept-estate-planning-t-00-14-32)**
+**[00:14:42](/episodes/ep-ZZGWo6oDscc.md#ent-concept-estate-planning-t-00-14-42)**
 > "...estioned their expansion into estate planning as it pertains to the elderly,"
 
 </details>

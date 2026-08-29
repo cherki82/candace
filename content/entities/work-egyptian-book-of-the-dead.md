@@ -22,8 +22,8 @@ _Type: Works & Media_
 Source: [The Egyptian Book of the Dead | Getty Exhibitions](https://www.getty.edu/exhibitions/book-of-the-dead/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-egyptian-book-of-the-dead-t-00-26-39">2026-01-13 · 00:27:08</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-egyptian-book-of-the-dead-t-00-26-39">2026-01-13 · 00:27:08</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-egyptian-book-of-the-dead-t-00-26-31">2026-01-13 · 00:27:00</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-egyptian-book-of-the-dead-t-00-26-31">2026-01-13 · 00:27:00</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -34,15 +34,15 @@ Source: [The Egyptian Book of the Dead | Getty Exhibitions](https://www.getty.ed
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-egyptian-book-of-the-dead-t-00-26-39">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-egyptian-book-of-the-dead-t-00-26-31">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-egyptian-book-of-the-dead-t-00-26-39" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-egyptian-book-of-the-dead-t-00-26-31" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-work-egyptian-book-of-the-dead-t-00-26-39) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-work-egyptian-book-of-the-dead-t-00-26-31) | 1 |
 
 </details>
 </section>
@@ -55,7 +55,7 @@ Source: [The Egyptian Book of the Dead | Getty Exhibitions](https://www.getty.ed
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:27:08](/episodes/ep-ZZGWo6oDscc.md#ent-work-egyptian-book-of-the-dead-t-00-26-39)**
+**[00:27:00](/episodes/ep-ZZGWo6oDscc.md#ent-work-egyptian-book-of-the-dead-t-00-26-31)**
 > "what they follow is the Egyptian book of the dead."
 
 </details>

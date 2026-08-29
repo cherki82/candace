@@ -2774,7 +2774,7 @@ Source: [Utah County Attorney — Criminal Information](https://atty.utahcounty.
 <details>
 <summary>Myron Gaines x Candace Owens (3 mentions)</summary>
 
-**[01:06:22](/episodes/ep-2T39-oADLj0.md#ent-person-tyler-robinson-t-01-06-18)**
+**[01:06:18](/episodes/ep-2T39-oADLj0.md#ent-person-tyler-robinson-t-01-06-18)**
 > "I think Tyler Robinson's only contribution was that he had his prints on t..."
 
 **[01:06:38](/episodes/ep-2T39-oADLj0.md#ent-person-tyler-robinson-t-01-06-38)**

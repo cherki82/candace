@@ -14,7 +14,7 @@ date: "2006"
 ## Mentioned In
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
-**Timestamp:** [00:47:50](/episodes/ep-NIEbqsLAK8g.md#event-event-2006-a-commenter-alleged-that-mitch-snow-had--t-00-47-30) 
+**Timestamp:** [00:47:50](/episodes/ep-NIEbqsLAK8g.md#event-event-2006-a-commenter-alleged-that-mitch-snow-had--t-00-47-50) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(2870);return false;">▶️ Play</a>
 
 > she was doing the whole mitch snow abused women 20 years ago how dare you listen

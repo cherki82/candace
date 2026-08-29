@@ -545,7 +545,7 @@ Source: [American Financing | National Home Mortgage Lender](https://www.america
 **[00:40:49](/episodes/ep-ZZGWo6oDscc.md#ent-work-smart-equity-loan-t-00-40-49)**
 > "...merican Financing created the SMART Equity Loan, which is a simple, smart way to get your finance..."
 
-**[00:40:59](/episodes/ep-ZZGWo6oDscc.md#ent-work-smart-equity-loan-t-00-40-49)**
+**[00:40:57](/episodes/ep-ZZGWo6oDscc.md#ent-work-smart-equity-loan-t-00-40-49)**
 > "the SMART Equity Loan offers a fixed rate, so you'll have one..."
 
 </details>

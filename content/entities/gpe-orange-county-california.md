@@ -23,8 +23,8 @@ _Type: Places_
 Source: [Orange County | Orange County](https://www.ocgov.com/)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-orange-county-california-t-00-32-45">2026-01-13 · 00:33:11</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-orange-county-california-t-00-32-45">2026-01-13 · 00:33:20</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-orange-county-california-t-00-32-44">2026-01-13 · 00:33:10</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-orange-county-california-t-00-32-44">2026-01-13 · 00:33:20</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -35,15 +35,15 @@ Source: [Orange County | Orange County](https://www.ocgov.com/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-orange-county-california-t-00-32-45">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-orange-county-california-t-00-32-44">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-orange-county-california-t-00-32-45" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-orange-county-california-t-00-32-44" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-orange-county-california-t-00-32-45) | 2 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-orange-county-california-t-00-32-44) | 2 |
 
 </details>
 </section>
@@ -56,10 +56,10 @@ Source: [Orange County | Orange County](https://www.ocgov.com/)
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2 mentions)</summary>
 
-**[00:33:11](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-orange-county-california-t-00-32-45)**
+**[00:33:10](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-orange-county-california-t-00-32-44)**
 > "... in, is that live streamed in Orange County?"
 
-**[00:33:20](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-orange-county-california-t-00-32-45)**
+**[00:33:20](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-orange-county-california-t-00-32-44)**
 > "Orange County is Harvest Orange County Church."
 
 </details>

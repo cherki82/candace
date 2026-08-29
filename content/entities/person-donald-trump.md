@@ -1,6 +1,6 @@
 ---
 title: "Donald J. Trump"
-description: "Donald J. Trump (People) - 968 mentions"
+description: "Donald J. Trump (People) - 966 mentions"
 id: "person-donald-trump"
 type: "PERSON"
 aliases:
@@ -30,7 +30,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#ent-person-donald-trump-t-00-19-31">2025-09-11 · 00:08:08</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-donald-trump-t-00-37-05">2026-08-19 · 00:37:05</a></strong></div>
 <div><span>Episodes</span><strong>130</strong></div>
-<div><span>Mentions</span><strong>968</strong></div>
+<div><span>Mentions</span><strong>966</strong></div>
 <div><span>Statements by</span><strong>37</strong></div>
 <div><span>Statements about</span><strong>226</strong></div>
 <div><span>Relationships</span><strong>153</strong></div>
@@ -83,9 +83,9 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-donald-trump-t-00-22-44" style="--pulse-height:19%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 9 mentions" title="2026-01-07 · 9 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-donald-trump-t-00-21-28" style="--pulse-height:15%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 7 mentions" title="2026-01-09 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-donald-trump-t-00-42-32" style="--pulse-height:8%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-donald-trump-t-00-03-48" style="--pulse-height:15%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 7 mentions" title="2026-01-13 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-donald-trump-t-00-51-49" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 3 mentions" title="2026-01-14 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-person-donald-trump-t-00-17-39" style="--pulse-height:23%" aria-label="Myron Gaines x Candace Owens: 11 mentions" title="2026-01-16 · 11 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-donald-trump-t-00-03-45" style="--pulse-height:12%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 6 mentions" title="2026-01-13 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-donald-trump-t-00-51-56" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 3 mentions" title="2026-01-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-person-donald-trump-t-00-17-39" style="--pulse-height:21%" aria-label="Myron Gaines x Candace Owens: 10 mentions" title="2026-01-16 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-donald-trump-t-00-40-49" style="--pulse-height:27%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 13 mentions" title="2026-01-20 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-donald-trump-t-00-01-25" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 2 mentions" title="2026-01-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-donald-trump-t-00-08-33" style="--pulse-height:8%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
@@ -218,9 +218,9 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-donald-trump-t-00-22-44) | 9 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-donald-trump-t-00-21-28) | 7 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-donald-trump-t-00-42-32) | 1 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-donald-trump-t-00-03-48) | 7 |
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-donald-trump-t-00-51-49) | 3 |
-| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-donald-trump-t-00-17-39) | 11 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-donald-trump-t-00-03-45) | 6 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-donald-trump-t-00-51-56) | 3 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-donald-trump-t-00-17-39) | 10 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-donald-trump-t-00-40-49) | 13 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-donald-trump-t-00-01-25) | 2 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-donald-trump-t-00-08-33) | 1 |
@@ -313,7 +313,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (968)</strong></summary>
+<summary><strong class="section-title">Raw mentions (966)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (4 mentions)</summary>
@@ -2943,36 +2943,33 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 </details>
 
 <details>
-<summary>Myron Gaines x Candace Owens (11 mentions)</summary>
+<summary>Myron Gaines x Candace Owens (10 mentions)</summary>
 
-**[00:17:48](/episodes/ep-2T39-oADLj0.md#ent-person-donald-trump-t-00-17-39)**
+**[00:17:45](/episodes/ep-2T39-oADLj0.md#ent-person-donald-trump-t-00-17-39)**
 > "this administration with Trump"
 
-**[00:17:57](/episodes/ep-2T39-oADLj0.md#ent-person-donald-trump-t-00-17-52)**
+**[00:17:52](/episodes/ep-2T39-oADLj0.md#ent-person-donald-trump-t-00-17-52)**
 > "...I spent a lot of time helping Trump get elected,"
-
-**[00:18:01](/episodes/ep-2T39-oADLj0.md#ent-person-donald-trump-t-00-17-52)**
-> "trying to help Trump get elected and Trump is"
 
 **[00:18:31](/episodes/ep-2T39-oADLj0.md#ent-person-donald-trump-t-00-18-05)**
 > "...orting him. The literal Never Trump movement is now supporting Trump and telling us t..."
 
-**[00:21:33](/episodes/ep-2T39-oADLj0.md#ent-person-donald-trump-t-00-21-02)**
+**[00:21:27](/episodes/ep-2T39-oADLj0.md#ent-person-donald-trump-t-00-21-02)**
 > "in my view, and Trump took us to this line and then balked. And I'm not..."
 
 **[00:22:10](/episodes/ep-2T39-oADLj0.md#ent-person-donald-trump-t-00-22-01)**
 > "... it. Anytime they love to hit Trump when it comes to this Epstein thing."
 
-**[00:22:25](/episodes/ep-2T39-oADLj0.md#ent-person-donald-trump-t-00-22-23)**
+**[00:22:23](/episodes/ep-2T39-oADLj0.md#ent-person-donald-trump-t-00-22-23)**
 > "...I'm a pretty good vibe person Trump's not into kids right so the nature of the emails w..."
 
-**[00:23:18](/episodes/ep-2T39-oADLj0.md#ent-person-donald-trump-t-00-22-57)**
+**[00:23:15](/episodes/ep-2T39-oADLj0.md#ent-person-donald-trump-t-00-22-57)**
 > "...ver they have on Epstein with Trump and Epstein is going to implicate Trump in any of..."
 
-**[00:23:27](/episodes/ep-2T39-oADLj0.md#ent-person-donald-trump-t-00-23-26)**
+**[00:23:26](/episodes/ep-2T39-oADLj0.md#ent-person-donald-trump-t-00-23-26)**
 > "Trump has a type and I have never felt that vibe from h..."
 
-**[00:46:10](/episodes/ep-2T39-oADLj0.md#ent-person-donald-trump-t-00-46-00)**
+**[00:46:08](/episodes/ep-2T39-oADLj0.md#ent-person-donald-trump-t-00-46-00)**
 > "... because when I remember when Trump bombed Iran."
 
 **[01:05:00](/episodes/ep-2T39-oADLj0.md#ent-person-donald-trump-t-01-04-36)**
@@ -2983,39 +2980,36 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (3 mentions)</summary>
 
-**[00:52:21](/episodes/ep-BKcOm32ZEGk.md#ent-person-donald-trump-t-00-51-49)**
+**[00:52:21](/episodes/ep-BKcOm32ZEGk.md#ent-person-donald-trump-t-00-51-56)**
 > "the Trump administration"
 
-**[00:52:46](/episodes/ep-BKcOm32ZEGk.md#ent-person-donald-trump-t-00-52-31)**
-> "well, you're MAGA, you like Trump, so accept."
-
-**[00:52:47](/episodes/ep-BKcOm32ZEGk.md#ent-person-donald-trump-t-00-52-31)**
+**[00:52:47](/episodes/ep-BKcOm32ZEGk.md#ent-person-donald-trump-t-00-52-34)**
 > "...ccept this and it's like well trump's not acting maga trump is acting never trump so i'..."
+
+**[00:52:34](/episodes/ep-BKcOm32ZEGk.md#ent-person-donald-trump-t-00-52-34)**
+> "..., well, you're MAGA, you like Trump, so accept."
 
 </details>
 
 <details>
-<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (7 mentions)</summary>
+<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (6 mentions)</summary>
 
-**[00:03:48](/episodes/ep-ZZGWo6oDscc.md#ent-person-donald-trump-t-00-03-48)**
+**[00:03:45](/episodes/ep-ZZGWo6oDscc.md#ent-person-donald-trump-t-00-03-45)**
 > "...e month of June for President Trump not to get involved in Israel's war with Iran."
 
-**[00:04:03](/episodes/ep-ZZGWo6oDscc.md#ent-person-donald-trump-t-00-03-48)**
-> "And yet everybody around Trump,"
-
-**[00:04:05](/episodes/ep-ZZGWo6oDscc.md#ent-person-donald-trump-t-00-03-48)**
+**[00:04:03](/episodes/ep-ZZGWo6oDscc.md#ent-person-donald-trump-t-00-03-45)**
 > "Trump is completely infiltrated."
 
-**[00:04:11](/episodes/ep-ZZGWo6oDscc.md#ent-person-donald-trump-t-00-03-48)**
+**[00:04:08](/episodes/ep-ZZGWo6oDscc.md#ent-person-donald-trump-t-00-03-45)**
 > "...th Iran would not benefit the Trump campaign and it would not benefit the American pe..."
 
-**[00:08:17](/episodes/ep-ZZGWo6oDscc.md#ent-person-donald-trump-t-00-08-02)**
+**[00:08:13](/episodes/ep-ZZGWo6oDscc.md#ent-person-donald-trump-t-00-08-02)**
 > "Trump is not Barack Obama."
 
-**[00:08:28](/episodes/ep-ZZGWo6oDscc.md#ent-person-donald-trump-t-00-08-23)**
+**[00:08:23](/episodes/ep-ZZGWo6oDscc.md#ent-person-donald-trump-t-00-08-23)**
 > "Trump is going to kill you."
 
-**[00:42:04](/episodes/ep-ZZGWo6oDscc.md#ent-person-donald-trump-t-00-41-33)**
+**[00:42:04](/episodes/ep-ZZGWo6oDscc.md#ent-person-donald-trump-t-00-42-04)**
 > "President Trump must put an end to this immediately."
 
 </details>
@@ -4344,7 +4338,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - **[Miriam Adelson](/entities/person-miriam-adelson.md)**
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
-- [Myron Gaines x Candace Owens @ 00:23:36](/episodes/ep-2T39-oADLj0.md#t-00-23-26): “he took a lot of money from miriam adelson the adelson Hundreds family of millions. hundreds of millions of dollars from miriam adelson”
+- [Myron Gaines x Candace Owens @ 00:23:32](/episodes/ep-2T39-oADLj0.md#t-00-23-26): “he took a lot of money from miriam adelson the adelson ... hundreds of millions of dollars from miriam adelson and i think that's kind of the beginning of everything”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 00:48:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-48-09): “yeah it's I don't even know what we're doing anymore and I'm like we I was got behind Trump (Donald J. Trump) we're supposed to do no new wars and then it's like Bibi (Benjamin Netanyahu)'s like here's what you're going to do here's what you're going to do obviously look he took Miriam Adelson's money and so I don't even pay attention to it anymore”
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:21:12](/episodes/ep-CEF7gQRWYCE.md#t-00-20-42): “miriam adel said ... she's doing her thing and just giving trump 200 million dollars”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:37:50](/episodes/ep-i8m_6D4QGmk.md#t-00-37-50): “So Trump is saying that the person that he took $100 million, $200 million from, I think in the end, loves Israel more than she loves America.”
@@ -5044,7 +5038,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 - **[Miriam Adelson](/entities/person-miriam-adelson.md)** funded this
 <details class="relationship-evidence"><summary>Show all evidence (5)</summary>
 
-- [Myron Gaines x Candace Owens @ 00:23:36](/episodes/ep-2T39-oADLj0.md#t-00-23-26): “he took a lot of money from miriam adelson the adelson Hundreds family of millions. hundreds of millions of dollars from miriam adelson”
+- [Myron Gaines x Candace Owens @ 00:23:32](/episodes/ep-2T39-oADLj0.md#t-00-23-26): “he took a lot of money from miriam adelson the adelson ... hundreds of millions of dollars from miriam adelson and i think that's kind of the beginning of everything”
 - [Candace x Bassem Youssef | Candace Ep 298 @ 00:48:09](/episodes/ep-xjzb_t5Tk9o.md#t-00-48-09): “yeah it's I don't even know what we're doing anymore and I'm like we I was got behind Trump (Donald J. Trump) we're supposed to do no new wars and then it's like Bibi (Benjamin Netanyahu)'s like here's what you're going to do here's what you're going to do obviously look he took Miriam Adelson's money and so I don't even pay attention to it anymore”
 - [BAAL SO HARD: The Epstein Files | Candace Ep 300 @ 00:21:12](/episodes/ep-CEF7gQRWYCE.md#t-00-20-42): “miriam adel said ... she's doing her thing and just giving trump 200 million dollars”
 - [Donald Trump Has Betrayed America. | Candace Ep 308 @ 00:37:50](/episodes/ep-i8m_6D4QGmk.md#t-00-37-50): “So Trump is saying that the person that he took $100 million, $200 million from, I think in the end, loves Israel more than she loves America.”
@@ -6229,7 +6223,7 @@ Source: [President Donald J. Trump - White House](https://www.whitehouse.gov/adm
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2)</summary>
 
-- [00:03:30](/episodes/ep-ZZGWo6oDscc.md#t-00-03-11) (Claim) **Candace Owens** (via paraphrase): ["According to Tucker Carlson and others, Charlie Kirk went head-to-head..."](/statements/statement-b2921bff7c51.md)
+- [00:03:30](/episodes/ep-ZZGWo6oDscc.md#t-00-03-04) (Claim) **Candace Owens** (via paraphrase): ["According to Tucker Carlson and others, Charlie Kirk went head-to-head..."](/statements/statement-b2921bff7c51.md)
   - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Benjamin Netanyahu](/entities/person-benjamin-netanyahu.md)
 
 - [00:08:19](/episodes/ep-ZZGWo6oDscc.md#t-00-08-02) (Prediction) **Lindsey Graham** (via quoted speech): ["If Iran's Ayatollahs keep killing people demanding a better life, Dona..."](/statements/statement-255f7d09de6b.md)

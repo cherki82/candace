@@ -4,9 +4,10 @@ description: "\"Dan Illouz called Tucker Carlson and Candace Owens intellectual 
 statement_id: "statement-27edd2ed7766"
 speaker: "Dan Illouz"
 type: "opinion"
+veracity: "true"
 ---
 
-**Status:** ○ Not yet verified
+**Status:** ✓ True
 
 ## Statement
 
@@ -37,7 +38,22 @@ type: "opinion"
 
 ## Verification
 
-_This statement has not yet been verified._
+> **Note:** Statements are extracted from podcast transcripts using AI analysis.
+> Speaker attribution and content may contain errors. Always verify against primary sources.
+
+### Analysis
+
+The transcript context shows Dan Illouz speaking from the Knesset lectern and calling Carlson and Owens a new enemy rising from within, describing a poison sold to Americans as patriotism, and naming their intellectual vandalism. The original recording contains the speech, while contemporaneous JTA/Washington Jewish Week and JNS reports independently reproduce those remarks and attribution. The statement accurately paraphrases Illouz's words and is verified as an attributed-speech claim, not as an endorsement of his characterization.
+
+**Confidence:** High
+
+**Sources:**
+
+- [American Horror Story: Charlie Kirk's Shining Disciples | Candace Ep 288](https://www.youtube.com/watch?v=CMcktj3Egfo&t=2106s)
+- [Knesset Member Decries 'New Enemy': Tucker Carlson and Candace Owens](https://www.washingtonjewishweek.com/knesset-member-decries-new-enemy-tucker-carlson-and-candace-owens/)
+- [Likud MK warns of 'enemy rising from within' the American right](https://www.jns.org/u.s.-news/likud-mk-sounds-alarm-on-enemy-rising-from-within-the-american-right)
+
+*Verified: 2026-08-28T22:20:19.432542*
 
 ---
 

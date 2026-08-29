@@ -29,7 +29,7 @@ veracity: "true"
 ## Source
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
-**Timestamp:** [00:31:17](/episodes/ep-ZZGWo6oDscc.md#t-00-30-47) 
+**Timestamp:** [00:31:17](/episodes/ep-ZZGWo6oDscc.md#t-00-31-02) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1877);return false;">Play</a>
 
 > Peter McCullough, who's the chief scientific officer over at the Wellness Company and the world's most published cardiologist, says, quote, these studies make a clear case to do at least one medical grade parasite cleanse annually, end quote.

@@ -1,6 +1,6 @@
 ---
 title: "Bible"
-description: "Bible (Works & Media) - 87 mentions"
+description: "Bible (Works & Media) - 88 mentions"
 id: "work-bible"
 type: "WORK"
 aliases:
@@ -23,8 +23,8 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-iHav0PPzUz8.md#ent-work-bible-t-00-38-18">2025-10-30 · 00:38:18</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-5zgkrOaCCj4.md#ent-work-bible-t-00-47-58">2026-08-10 · 00:48:08</a></strong></div>
-<div><span>Episodes</span><strong>25</strong></div>
-<div><span>Mentions</span><strong>87</strong></div>
+<div><span>Episodes</span><strong>26</strong></div>
+<div><span>Mentions</span><strong>88</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>4</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -36,6 +36,7 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 <p>Highest activity: <a href="/episodes/ep-jTj9Ip46r4w.md#ent-work-bible-t-00-28-15">Bride Of Charlie: The Ties That Bind | Episode 4</a> (19 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-iHav0PPzUz8.md#ent-work-bible-t-00-38-18" style="--pulse-height:26%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 5 mentions" title="2025-10-30 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-work-bible-t-00-26-55" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-work-bible-t-00-56-14" style="--pulse-height:26%" aria-label="Myron Gaines x Candace Owens: 5 mentions" title="2026-01-16 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-work-bible-t-00-01-23" style="--pulse-height:16%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-work-bible-t-01-06-57" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
@@ -66,6 +67,7 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-work-bible-t-00-38-18) | 5 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-work-bible-t-00-26-55) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-work-bible-t-00-56-14) | 5 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-work-bible-t-00-01-23) | 3 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-work-bible-t-01-06-57) | 1 |
@@ -97,7 +99,7 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (87)</strong></summary>
+<summary><strong class="section-title">Raw mentions (88)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE: Never Before Seen Photos Of “Tyler Robinson” On Campus. More On George Zinn... | Ep 374 (1 mentions)</summary>
@@ -451,17 +453,25 @@ Source: [Bible | Description, History, Books, & Facts | Britannica](https://www.
 **[00:56:34](/episodes/ep-2T39-oADLj0.md#ent-work-bible-t-00-56-14)**
 > "Because let me tell you how the Bible works,"
 
-**[00:55:03](/episodes/ep-2T39-oADLj0.md#ent-work-bible-t-00-54-48)**
+**[00:55:00](/episodes/ep-2T39-oADLj0.md#ent-work-bible-t-00-54-48)**
 > "...istian Zionists trying to use Bible verses to say that we shouldn't question anything..."
 
 **[00:55:36](/episodes/ep-2T39-oADLj0.md#ent-work-bible-t-00-55-36)**
 > "...ristian slop people using the bible to psychologically convince you you know there je..."
 
-**[00:56:25](/episodes/ep-2T39-oADLj0.md#ent-work-bible-t-00-56-14)**
+**[00:56:21](/episodes/ep-2T39-oADLj0.md#ent-work-bible-t-00-56-14)**
 > "...you're not going to hold up a Bible like a false prophet and tell me not to look here..."
 
 **[00:56:39](/episodes/ep-2T39-oADLj0.md#ent-work-bible-t-00-56-14)**
 > "And if anybody using the Bible to tell you not to pursue truth,"
+
+</details>
+
+<details>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
+
+**[00:26:55](/episodes/ep-BKcOm32ZEGk.md#ent-work-bible-t-00-26-55)**
+> "...n they set about removing the bible from the classroom classroom Creating Hollywood i..."
 
 </details>
 

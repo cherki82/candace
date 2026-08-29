@@ -27,7 +27,7 @@ type: "citation"
 ## Source
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
-**Timestamp:** [00:12:25](/episodes/ep-ZZGWo6oDscc.md#t-00-11-44) 
+**Timestamp:** [00:12:25](/episodes/ep-ZZGWo6oDscc.md#t-00-12-06) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(745);return false;">Play</a>
 
 > another interesting thing which I didn't introduce as I've been building out this timeline in the background is that on June 19th, Erika purges her Instagram. ... She deletes 126 Instagram posts. By no means a little. That is according to Social Blade.

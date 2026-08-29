@@ -26,7 +26,7 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md)
-**Timestamp:** [00:12:39](/episodes/ep-2T39-oADLj0.md#t-00-11-56) 
+**Timestamp:** [00:12:39](/episodes/ep-2T39-oADLj0.md#t-00-12-36) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(759);return false;">Play</a>
 
 > If you have a daughter and a son, you know this. Women start, girls start speaking faster and we will speak more words from men for the rest of our lives.

@@ -17,7 +17,7 @@ _Type: Concepts_
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-UBkFkg4UNY8.md#ent-concept-operation-mocking-pastor-t-00-35-39">2025-09-23 · 00:35:55</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-concept-operation-mocking-pastor-t-00-35-29">2026-01-19 · 00:35:34</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-concept-operation-mocking-pastor-t-00-35-31">2026-01-19 · 00:35:34</a></strong></div>
 <div><span>Episodes</span><strong>6</strong></div>
 <div><span>Mentions</span><strong>8</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -35,7 +35,7 @@ _Type: Concepts_
 <a href="/episodes/ep-ozWJz2spBcI.md#ent-concept-operation-mocking-pastor-t-00-55-55" style="--pulse-height:50%" aria-label="TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248: 1 mentions" title="2025-10-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-concept-operation-mocking-pastor-t-00-27-59" style="--pulse-height:50%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-concept-operation-mocking-pastor-t-00-39-09" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-concept-operation-mocking-pastor-t-00-34-33" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-concept-operation-mocking-pastor-t-00-34-18" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
@@ -46,7 +46,7 @@ _Type: Concepts_
 | 2025-10-06 | [TPUSA Wants Us To Stop Asking Questions About 9/10?! | Candace Ep 248](/episodes/ep-ozWJz2spBcI.md#ent-concept-operation-mocking-pastor-t-00-55-55) | 1 |
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-concept-operation-mocking-pastor-t-00-27-59) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-concept-operation-mocking-pastor-t-00-39-09) | 2 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-concept-operation-mocking-pastor-t-00-34-33) | 2 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-concept-operation-mocking-pastor-t-00-34-18) | 2 |
 
 </details>
 </section>
@@ -59,10 +59,10 @@ _Type: Concepts_
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (2 mentions)</summary>
 
-**[00:34:33](/episodes/ep-NIEbqsLAK8g.md#ent-concept-operation-mocking-pastor-t-00-34-33)**
+**[00:34:33](/episodes/ep-NIEbqsLAK8g.md#ent-concept-operation-mocking-pastor-t-00-34-18)**
 > "Operation Mocking Pastor is back."
 
-**[00:35:34](/episodes/ep-NIEbqsLAK8g.md#ent-concept-operation-mocking-pastor-t-00-35-29)**
+**[00:35:34](/episodes/ep-NIEbqsLAK8g.md#ent-concept-operation-mocking-pastor-t-00-35-31)**
 > "Operation Mocking Pastor is an Israeli business."
 
 </details>

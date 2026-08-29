@@ -44,7 +44,7 @@ veracity: "false"
 ### 3. PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To ...
 
 **Episode:** [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md)
-**Timestamp:** [00:23:47](/episodes/ep-BKcOm32ZEGk.md#t-00-23-21) 
+**Timestamp:** [00:23:47](/episodes/ep-BKcOm32ZEGk.md#t-00-23-15) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1427);return false;">Play</a>
 
 > is getting to the heart of evil and how the world is run to figure out that Brigitte was born a man. What are we going to do? We're going to file a lawsuit. A lawsuit filing was a mistake,

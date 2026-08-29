@@ -39,7 +39,7 @@ Source: [Lyndon B. Johnson - LBJ Library](https://www.lbjlibrary.org/life-and-le
 <p>Highest activity: <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-lyndon-b-johnson-t-00-49-54">American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-lyndon-b-johnson-t-00-49-54" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-lyndon-b-johnson-t-00-02-49" style="--pulse-height:50%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-lyndon-b-johnson-t-00-02-39" style="--pulse-height:50%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-lyndon-b-johnson-t-00-47-31" style="--pulse-height:50%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-person-lyndon-b-johnson-t-00-43-34" style="--pulse-height:50%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-lyndon-b-johnson-t-00-48-38" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
@@ -53,7 +53,7 @@ Source: [Lyndon B. Johnson - LBJ Library](https://www.lbjlibrary.org/life-and-le
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-lyndon-b-johnson-t-00-49-54) | 2 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-lyndon-b-johnson-t-00-02-49) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-lyndon-b-johnson-t-00-02-39) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-lyndon-b-johnson-t-00-47-31) | 1 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-person-lyndon-b-johnson-t-00-43-34) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-lyndon-b-johnson-t-00-48-38) | 2 |
@@ -138,7 +138,7 @@ Source: [Lyndon B. Johnson - LBJ Library](https://www.lbjlibrary.org/life-and-le
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
 
-**[00:02:55](/episodes/ep-NIEbqsLAK8g.md#ent-person-lyndon-b-johnson-t-00-02-49)**
+**[00:02:55](/episodes/ep-NIEbqsLAK8g.md#ent-person-lyndon-b-johnson-t-00-02-39)**
 > "I already hate Lyndon Baines Johnson for free."
 
 </details>
@@ -177,7 +177,7 @@ _No relationships extracted yet._
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1)</summary>
 
-- [00:02:28](/episodes/ep-NIEbqsLAK8g.md#t-00-02-06) (Claim) **Anonymous Source #1 (Ep NIEbqsLAK8g)** (via read message): ["The email source claimed Golda Meir and Lyndon B. Johnson were sibling..."](/statements/statement-6fc4e471c12a.md)
+- [00:02:28](/episodes/ep-NIEbqsLAK8g.md#t-00-01-54) (Claim) **Anonymous Source #1 (Ep NIEbqsLAK8g)** (via read message): ["The email source claimed Golda Meir and Lyndon B. Johnson were sibling..."](/statements/statement-6fc4e471c12a.md)
   - Also about: [Golda Meir](/entities/person-golda-meir.md)
 
 </details>

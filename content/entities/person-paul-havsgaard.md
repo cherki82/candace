@@ -17,12 +17,12 @@ _Type: People_
 Source: [Lawsuits accuse former California megachurch pastor of child sex abuse in Bucharest | AP](https://apnews.com/article/f1a8c9e20021387e387ec4240a330f83)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-paul-havsgaard-t-00-33-28">2026-01-13 · 00:33:52</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-paul-havsgaard-t-00-33-28">2026-01-13 · 00:33:46</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-YeEtS7nix3o.md#ent-person-paul-havsgaard-t-00-40-58">2026-06-09 · 00:40:58</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>4</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>2</strong></div>
+<div><span>Statements about</span><strong>3</strong></div>
 <div><span>Relationships</span><strong>4</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -70,10 +70,10 @@ Source: [Lawsuits accuse former California megachurch pastor of child sex abuse 
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2 mentions)</summary>
 
-**[00:33:52](/episodes/ep-ZZGWo6oDscc.md#ent-person-paul-havsgaard-t-00-33-28)**
+**[00:33:46](/episodes/ep-ZZGWo6oDscc.md#ent-person-paul-havsgaard-t-00-33-28)**
 > "Claiming that Paul Havsgaard,"
 
-**[00:35:05](/episodes/ep-ZZGWo6oDscc.md#ent-person-paul-havsgaard-t-00-34-51)**
+**[00:35:05](/episodes/ep-ZZGWo6oDscc.md#ent-person-paul-havsgaard-t-00-34-40)**
 > "What Paul Havsgaard is being alleged to have done."
 
 </details>
@@ -101,7 +101,7 @@ Source: [Lawsuits accuse former California megachurch pastor of child sex abuse 
 - **[Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:34:40](/episodes/ep-ZZGWo6oDscc.md#t-00-34-07): “The court documents claim that Greg Laurie and the Harvest Christian Fellowship sent funding to Havsgaard, which they obviously did send funding to him while he was there, and they were negligent in supervising him while he was there,”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:34:40](/episodes/ep-ZZGWo6oDscc.md#t-00-34-40): “The court documents claim that Greg Laurie and the Harvest Christian Fellowship sent funding to Havsgaard, which they obviously did send funding to him while he was there, and they were negligent in supervising him while he was there,”
 
 </details>
 
@@ -120,7 +120,7 @@ Source: [Lawsuits accuse former California megachurch pastor of child sex abuse 
 - **[Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md)** funded this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:34:40](/episodes/ep-ZZGWo6oDscc.md#t-00-34-07): “The court documents claim that Greg Laurie and the Harvest Christian Fellowship sent funding to Havsgaard, which they obviously did send funding to him while he was there, and they were negligent in supervising him while he was there,”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:34:40](/episodes/ep-ZZGWo6oDscc.md#t-00-34-40): “The court documents claim that Greg Laurie and the Harvest Christian Fellowship sent funding to Havsgaard, which they obviously did send funding to him while he was there, and they were negligent in supervising him while he was there,”
 
 </details>
 
@@ -129,7 +129,7 @@ Source: [Lawsuits accuse former California megachurch pastor of child sex abuse 
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Paul Havsgaard (2)</strong></summary>
+<summary><strong class="section-title">Statements about Paul Havsgaard (3)</strong></summary>
 
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2)</summary>
@@ -139,6 +139,14 @@ Source: [Lawsuits accuse former California megachurch pastor of child sex abuse 
 
 - [00:34:40](/episodes/ep-ZZGWo6oDscc.md#t-00-34-07) (Accusation) **Candace Owens** (via paraphrase): ["Court documents claim Greg Laurie and Harvest Christian Fellowship fun..."](/statements/statement-9c5ee77bc192.md)
   - Also about: [Greg Laurie](/entities/person-greg-laurie.md), [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md)
+
+</details>
+
+<details>
+<summary>The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287 (1)</summary>
+
+- [00:13:35](/episodes/ep-wcD2khO3rOA.md#t-00-12-53) (Accusation) **Candace Owens**: ["Turning Point Faith is partnering with Greg Laurie's Harvest Church wh..."](/statements/statement-6141210a0ed9.md)
+  - Also about: [Turning Point Faith](/entities/org-turning-point-faith.md), [Greg Laurie](/entities/person-greg-laurie.md), [Harvest Christian Fellowship](/entities/org-harvest-christian-fellowship.md)
 
 </details>
 

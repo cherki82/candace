@@ -1,6 +1,6 @@
 ---
-title: "Something military-related was housed on the third floor of ..."
-description: "\"Something military-related was housed on the third floor of the Losey building.\" — Anonymous Source #1 (Ep 2T39-oADLj0)"
+title: "According to Candace Owens's anonymous source, something mil..."
+description: "\"According to Candace Owens's anonymous source, something military-related was in the Losee building, possibly on the third floor.\" — Anonymous Source #1 (Ep 2T39-oADLj0)"
 statement_id: "statement-426165d54ef7"
 speaker: "Anonymous Source #1 (Ep 2T39-oADLj0)"
 type: "factual_claim"
@@ -11,7 +11,7 @@ veracity: "true"
 
 ## Statement
 
-> Something military-related was housed on the third floor of the Losey building.
+> According to Candace Owens's anonymous source, something military-related was in the Losee building, possibly on the third floor.
 
 ## Attribution
 
@@ -31,7 +31,7 @@ veracity: "true"
 **Timestamp:** [01:03:17](/episodes/ep-2T39-oADLj0.md#t-01-03-01) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3797);return false;">Play</a>
 
-> did not come from is the only place on campus that houses i believe on the third floor according to my source like the military something is in the Losey building so there's a lot happening uh that all of that was just a show to mask who the real shooter was I think it's way more likely that the shooter was in the audience or
+> did not come from, is the only place on campus that houses, I believe on the third floor according to my source, like the military—something is in the Losee building.
 
 ## Verification
 

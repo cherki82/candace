@@ -1,6 +1,6 @@
 ---
-title: "Calvary Chapel has repeatedly been accused of hostile takeov..."
-description: "\"Calvary Chapel has repeatedly been accused of hostile takeovers of faith organizations, with Rob McCoy at the center of some scandals.\" — Candace Owens"
+title: "Owens said it looked like Calvary Chapel had previously been..."
+description: "\"Owens said it looked like Calvary Chapel had previously been accused of hostile takeovers of faith organizations, with Rob McCoy at the center of some...\" — Candace Owens"
 statement_id: "statement-069dad6c023a"
 speaker: "Candace Owens"
 type: "accusation"
@@ -11,7 +11,7 @@ veracity: "mixed"
 
 ## Statement
 
-> Calvary Chapel has repeatedly been accused of hostile takeovers of faith organizations, with Rob McCoy at the center of some scandals.
+> Owens said it looked like Calvary Chapel had previously been accused of hostile takeovers of faith organizations, with Rob McCoy at the center of some scandals.
 
 ## Attribution
 

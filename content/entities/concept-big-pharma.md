@@ -1,6 +1,6 @@
 ---
 title: "Big Pharma"
-description: "Big Pharma (Concepts) - 8 mentions"
+description: "Big Pharma (Concepts) - 9 mentions"
 id: "concept-big-pharma"
 type: "CONCEPT"
 aliases:
@@ -24,8 +24,8 @@ Source: [Britannica: Pharmaceutical industry](https://www.britannica.com/topic/p
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-concept-big-pharma-t-00-50-05">2025-12-05 · 00:50:31</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-big-pharma-t-00-56-06">2026-08-07 · 00:56:40</a></strong></div>
-<div><span>Episodes</span><strong>5</strong></div>
-<div><span>Mentions</span><strong>8</strong></div>
+<div><span>Episodes</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>9</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>2</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -37,6 +37,7 @@ Source: [Britannica: Pharmaceutical industry](https://www.britannica.com/topic/p
 <p>Highest activity: <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-concept-big-pharma-t-00-50-05">Shocking Revelation About The Egyptian Planes... | Candace Ep 274</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-concept-big-pharma-t-00-50-05" style="--pulse-height:100%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 3 mentions" title="2025-12-05 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-big-pharma-t-00-23-59" style="--pulse-height:33%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-concept-big-pharma-t-00-31-29" style="--pulse-height:33%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-kaWtDuoY_ns.md#ent-concept-big-pharma-t-00-31-25" style="--pulse-height:33%" aria-label="EXCLUSIVE AUDIO! Tyler Robinson&#x27;s Grandfather Regarding His Rifle. | Candace Ep 327: 1 mentions" title="2026-04-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Ux1kzgQxkws.md#ent-concept-big-pharma-t-00-17-19" style="--pulse-height:67%" aria-label="Candace x Hunter Biden: The Interview: 2 mentions" title="2026-05-21 · 2 mentions"><span></span></a>
@@ -47,6 +48,7 @@ Source: [Britannica: Pharmaceutical industry](https://www.britannica.com/topic/p
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-concept-big-pharma-t-00-50-05) | 3 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-big-pharma-t-00-23-59) | 1 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-concept-big-pharma-t-00-31-29) | 1 |
 | 2026-04-20 | [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327](/episodes/ep-kaWtDuoY_ns.md#ent-concept-big-pharma-t-00-31-25) | 1 |
 | 2026-05-21 | [Candace x Hunter Biden: The Interview](/episodes/ep-Ux1kzgQxkws.md#ent-concept-big-pharma-t-00-17-19) | 2 |
@@ -58,7 +60,7 @@ Source: [Britannica: Pharmaceutical industry](https://www.britannica.com/topic/p
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (8)</strong></summary>
+<summary><strong class="section-title">Raw mentions (9)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (1 mentions)</summary>
@@ -92,6 +94,14 @@ Source: [Britannica: Pharmaceutical industry](https://www.britannica.com/topic/p
 
 **[00:31:29](/episodes/ep-i8m_6D4QGmk.md#ent-concept-big-pharma-t-00-31-29)**
 > "Big Pharma's cancer drug revenue"
+
+</details>
+
+<details>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
+
+**[00:24:21](/episodes/ep-BKcOm32ZEGk.md#ent-concept-big-pharma-t-00-23-59)**
+> "...ntire world to how fraudulent big pharma is like is this now everyone's what is this just ..."
 
 </details>
 

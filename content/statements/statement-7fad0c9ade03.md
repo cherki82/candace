@@ -1,8 +1,8 @@
 ---
 title: "When Charlie Kirk was young, adults wanted to drug him; his ..."
-description: "\"When Charlie Kirk was young, adults wanted to drug him; his mother refused, and he was moved from his regular school to a special school for gifted st...\" — Charlie Kirk"
+description: "\"When Charlie Kirk was young, adults wanted to drug him; his mother refused, and he was moved from his regular school to a special school for gifted st...\" — Candace Owens"
 statement_id: "statement-7fad0c9ade03"
-speaker: "Charlie Kirk"
+speaker: "Candace Owens"
 type: "factual_claim"
 veracity: "unverifiable"
 ---
@@ -15,11 +15,9 @@ veracity: "unverifiable"
 
 ## Attribution
 
-**Speaker:** [Charlie Kirk](/entities/person-charlie-kirk.md) (Quoted)
+**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
 **Delivery:** Paraphrased
-**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** Private conversation recalled by Candace Owens
 
 ## About
 
@@ -30,7 +28,7 @@ veracity: "unverifiable"
 ### 1. PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To ...
 
 **Episode:** [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md)
-**Timestamp:** [00:04:18](/episodes/ep-BKcOm32ZEGk.md#t-00-04-10) 
+**Timestamp:** [00:04:18](/episodes/ep-BKcOm32ZEGk.md#t-00-03-54) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(258);return false;">Play</a>
 
 > and I just think on the basis of what he told me. that when he was really young they wanted to drug him but his mother said no and he was really grateful for that and instead they decided that they could send him to this x-men school that's the best way I can describe it I would certainly by the way for you internet sleuths I'd like to find out which school Charlie had to attend so he was pulled out of the regular school he was attending and he had to go to some special school for the gifted like he was an x-man

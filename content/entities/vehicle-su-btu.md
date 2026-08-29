@@ -1,6 +1,6 @@
 ---
 title: "SU-BTU"
-description: "SU-BTU (Vehicles) - 6 mentions"
+description: "SU-BTU (Vehicles) - 7 mentions"
 id: "vehicle-su-btu"
 type: "VEHICLE"
 aliases:
@@ -23,9 +23,9 @@ Source: [SU-BTU | Flightradar24](https://www.flightradar24.com/data/aircraft/su-
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAuuSq_j2_w.md#ent-vehicle-su-btu-t-00-15-09">2025-12-05 · 00:15:12</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-vehicle-su-btu-t-00-10-15">2026-01-13 · 00:10:43</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-vehicle-su-btu-t-00-10-10">2026-01-13 · 00:10:43</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
-<div><span>Mentions</span><strong>6</strong></div>
+<div><span>Mentions</span><strong>7</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>7</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -34,17 +34,17 @@ Source: [SU-BTU | Flightradar24](https://www.flightradar24.com/data/aircraft/su-
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-ZAuuSq_j2_w.md#ent-vehicle-su-btu-t-00-15-09">Shocking Revelation About The Egyptian Planes... | Candace Ep 274</a> (2 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-vehicle-su-btu-t-00-10-10">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (3 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-vehicle-su-btu-t-00-15-09" style="--pulse-height:100%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-vehicle-su-btu-t-00-10-15" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZAuuSq_j2_w.md#ent-vehicle-su-btu-t-00-15-09" style="--pulse-height:67%" aria-label="Shocking Revelation About The Egyptian Planes... | Candace Ep 274: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-vehicle-su-btu-t-00-10-10" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-12-05 | [Shocking Revelation About The Egyptian Planes... | Candace Ep 274](/episodes/ep-ZAuuSq_j2_w.md#ent-vehicle-su-btu-t-00-15-09) | 2 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-vehicle-su-btu-t-00-10-15) | 2 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-vehicle-su-btu-t-00-10-10) | 3 |
 
 </details>
 </section>
@@ -52,16 +52,19 @@ Source: [SU-BTU | Flightradar24](https://www.flightradar24.com/data/aircraft/su-
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (6)</strong></summary>
+<summary><strong class="section-title">Raw mentions (7)</strong></summary>
 
 <details>
-<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2 mentions)</summary>
+<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (3 mentions)</summary>
 
-**[00:10:24](/episodes/ep-ZZGWo6oDscc.md#ent-vehicle-su-btu-t-00-10-15)**
+**[00:10:24](/episodes/ep-ZZGWo6oDscc.md#ent-vehicle-su-btu-t-00-10-10)**
 > "... to you like this tail number SU-BTU."
 
-**[00:10:43](/episodes/ep-ZZGWo6oDscc.md#ent-vehicle-su-btu-t-00-10-15)**
+**[00:10:43](/episodes/ep-ZZGWo6oDscc.md#ent-vehicle-su-btu-t-00-10-10)**
 > "But this tail number SU-BTU is going to fly into Provo and this Walid Mahmoud..."
+
+**[00:09:28](/episodes/ep-ZZGWo6oDscc.md#ent-vehicle-su-btu-t-00-09-28)**
+> "...e plane light purple plane sb subtu this is when we get to the egyptian planes here b..."
 
 </details>
 
@@ -102,10 +105,10 @@ _No relationships extracted yet._
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2)</summary>
 
-- [00:10:15](/episodes/ep-ZZGWo6oDscc.md#t-00-09-30) (Claim) **Candace Owens**: ["The aircraft SU-BTU flew into Provo after May 27 with Walid Mahmoud ab..."](/statements/statement-7d7f3b51147c.md)
+- [00:10:15](/episodes/ep-ZZGWo6oDscc.md#t-00-10-10) (Claim) **Candace Owens**: ["The aircraft SU-BTU flew into Provo after May 27 with Walid Mahmoud ab..."](/statements/statement-7d7f3b51147c.md)
   - Also about: [Provo](/entities/gpe-provo.md), [Egypt](/entities/gpe-egypt.md)
 
-- [00:10:24](/episodes/ep-ZZGWo6oDscc.md#t-00-10-15) (Claim) **Candace Owens**: ["Aircraft can trick their transponders, and the relevant flights to Pro..."](/statements/statement-c27c15b8cb80.md)
+- [00:10:24](/episodes/ep-ZZGWo6oDscc.md#t-00-10-10) (Claim) **Candace Owens**: ["Aircraft can trick their transponders, and the relevant flights to Pro..."](/statements/statement-c27c15b8cb80.md)
   - Also about: [Provo](/entities/gpe-provo.md), [Cairo](/entities/gpe-cairo.md)
 
 </details>

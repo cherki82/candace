@@ -26,12 +26,11 @@ type: "accusation"
 - [Robert Eugene Flood](/entities/person-robert-eugene-flood.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 - [Fort Huachuca](/entities/gpe-fort-huachuca.md) (gpe)
-- [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md) (org)
 
 ## Source
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
-**Timestamp:** [00:05:42](/episodes/ep-NIEbqsLAK8g.md#t-00-05-42) 
+**Timestamp:** [00:05:42](/episodes/ep-NIEbqsLAK8g.md#t-00-05-25) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(342);return false;">Play</a>
 
 > Again, paraphrasing, but he kept going on with, you're obsessed with Fort Huachuca. You think Charlie has been tracked for a while, right? Well, you haven't even figured out who Dan Flood is. Dan Flood is connected to both. You think it was an inside job from the feds and none of you guys have even worked out who Dan Flood's father is.

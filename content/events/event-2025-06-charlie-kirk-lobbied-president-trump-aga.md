@@ -16,7 +16,7 @@ date: "2025-06"
 ### 1. CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 2...
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
-**Timestamp:** [00:03:48](/episodes/ep-ZZGWo6oDscc.md#event-event-2025-06-charlie-kirk-lobbied-president-trump-aga-t-00-03-48) 
+**Timestamp:** [00:03:48](/episodes/ep-ZZGWo6oDscc.md#event-event-2025-06-charlie-kirk-lobbied-president-trump-aga-t-00-03-45) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(228);return false;">▶️ Play</a>
 
 > He lobbies in the month of June for President Trump not to get involved in Israel's war with Iran.

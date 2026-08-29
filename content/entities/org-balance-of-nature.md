@@ -31,10 +31,10 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-balance-of-nature-t-00-39-24">A Legal Turning Point? | Candace Ep 292</a> (4 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-balance-of-nature-t-00-39-17">A Legal Turning Point? | Candace Ep 292</a> (4 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-balance-of-nature-t-00-59-37" style="--pulse-height:50%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 2 mentions" title="2026-01-05 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-balance-of-nature-t-00-39-24" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 4 mentions" title="2026-01-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-balance-of-nature-t-00-39-17" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 4 mentions" title="2026-01-19 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-balance-of-nature-t-00-42-08" style="--pulse-height:50%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-org-balance-of-nature-t-00-27-23" style="--pulse-height:75%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 3 mentions" title="2026-02-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-org-balance-of-nature-t-00-34-08" style="--pulse-height:25%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
@@ -55,7 +55,7 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-balance-of-nature-t-00-59-37) | 2 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-balance-of-nature-t-00-39-24) | 4 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-balance-of-nature-t-00-39-17) | 4 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-org-balance-of-nature-t-00-42-08) | 2 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-org-balance-of-nature-t-00-27-23) | 3 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-org-balance-of-nature-t-00-34-08) | 1 |
@@ -230,16 +230,16 @@ Source: [Balance of Nature](https://www.balanceofnature.com/)
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (4 mentions)</summary>
 
-**[00:39:53](/episodes/ep-NIEbqsLAK8g.md#ent-org-balance-of-nature-t-00-39-24)**
+**[00:39:53](/episodes/ep-NIEbqsLAK8g.md#ent-org-balance-of-nature-t-00-39-17)**
 > "Head to balanceofnature.com today."
 
-**[00:39:18](/episodes/ep-NIEbqsLAK8g.md#ent-org-balance-of-nature-t-00-38-39)**
+**[00:39:18](/episodes/ep-NIEbqsLAK8g.md#ent-org-balance-of-nature-t-00-39-17)**
 > "...want to remind you guys about Balance of Nature because this year a lot of us are setting the sam..."
 
-**[00:39:26](/episodes/ep-NIEbqsLAK8g.md#ent-org-balance-of-nature-t-00-39-24)**
+**[00:39:26](/episodes/ep-NIEbqsLAK8g.md#ent-org-balance-of-nature-t-00-39-17)**
 > "...'s why so many people turn to Balance of Nature."
 
-**[00:39:42](/episodes/ep-NIEbqsLAK8g.md#ent-org-balance-of-nature-t-00-39-24)**
+**[00:39:42](/episodes/ep-NIEbqsLAK8g.md#ent-org-balance-of-nature-t-00-39-17)**
 > "Balance of Nature's whole health system supplements feature ingredien..."
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "Jewish people"
-description: "Jewish people (Concepts) - 18 mentions"
+description: "Jewish people (Concepts) - 21 mentions"
 id: "concept-jewish-people"
 type: "CONCEPT"
 aliases:
@@ -21,10 +21,10 @@ _Type: Concepts_
 Source: [ADL - Understanding Jewish Identity](https://www.adl.org/sites/default/files/documents/2023-06/understanding-jewish-identity-through-sport.pdf)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-B9TyCs-6o_0.md#t-00-10-21">2026-03-23 · 00:10:45</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#t-00-28-18">2026-01-16 · 00:28:18</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ds6umq1rHAw.md#t-00-05-34">2026-07-22 · 00:05:52</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>18</strong></div>
+<div><span>Episodes</span><strong>10</strong></div>
+<div><span>Mentions</span><strong>21</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,6 +35,8 @@ Source: [ADL - Understanding Jewish Identity](https://www.adl.org/sites/default/
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-69A8TzAGHlU.md#ent-concept-jewish-people-t-00-54-35">BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-2T39-oADLj0.md#t-00-28-18" style="--pulse-height:33%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#t-00-44-56" style="--pulse-height:17%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-B9TyCs-6o_0.md#t-00-10-21" style="--pulse-height:17%" aria-label="EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314: 1 mentions" title="2026-03-23 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZIH5-V6UPkg.md#ent-concept-jewish-people-t-00-37-09" style="--pulse-height:33%" aria-label="An Open Letter To President Donald Trump (My Response) | Candace Ep 322: 2 mentions" title="2026-04-10 · 2 mentions"><span></span></a>
 <a href="/episodes/ep--9MOUvgGyi4.md#t-02-35-53" style="--pulse-height:17%" aria-label="Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329: 1 mentions" title="2026-04-22 · 1 mentions"><span></span></a>
@@ -48,6 +50,8 @@ Source: [ADL - Understanding Jewish Identity](https://www.adl.org/sites/default/
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#t-00-28-18) | 2 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#t-00-44-56) | 1 |
 | 2026-03-23 | [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To Harm Erika! | Candace Ep 314](/episodes/ep-B9TyCs-6o_0.md#t-00-10-21) | 1 |
 | 2026-04-10 | [An Open Letter To President Donald Trump (My Response) | Candace Ep 322](/episodes/ep-ZIH5-V6UPkg.md#ent-concept-jewish-people-t-00-37-09) | 2 |
 | 2026-04-22 | [Victor Marx: The Man Who Weaponized Faith. | Candace Ep 329](/episodes/ep--9MOUvgGyi4.md#t-02-35-53) | 1 |
@@ -63,7 +67,7 @@ Source: [ADL - Understanding Jewish Identity](https://www.adl.org/sites/default/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (18)</strong></summary>
+<summary><strong class="section-title">Raw mentions (21)</strong></summary>
 
 <details>
 <summary>Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 (1 mentions)</summary>
@@ -150,6 +154,25 @@ Source: [ADL - Understanding Jewish Identity](https://www.adl.org/sites/default/
 
 **[00:10:45](/episodes/ep-B9TyCs-6o_0.md#t-00-10-21)**
 > "Israel or the Jews had Charlie murdered. Yes. So, which we do not believe, which we do not believe, but we have been accused of trying to, or we're not interested in the truth. The actual fact of the matter is that behind the scenes, we have given everything we know to give, every single piece of information."
+
+</details>
+
+<details>
+<summary>Myron Gaines x Candace Owens (2 mentions)</summary>
+
+**[00:28:18](/episodes/ep-2T39-oADLj0.md#t-00-28-18)**
+> "...h us and when we talked about Jews We hit the sound effect that you're ching sound e..."
+
+**[00:36:52](/episodes/ep-2T39-oADLj0.md#t-00-36-37)**
+> "...ied and said that i said that jews what did they say that i said that jews drink the..."
+
+</details>
+
+<details>
+<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (1 mentions)</summary>
+
+**[00:45:20](/episodes/ep-X92MllIHDzw.md#t-00-44-56)**
+> "oh, well, that's just all Jews."
 
 </details>
 

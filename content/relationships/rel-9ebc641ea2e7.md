@@ -15,7 +15,7 @@ object: "person-nick-fuentes"
 
 **[OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw)**
 
-- [00:40:07](/episodes/ep-X92MllIHDzw#t-00-40-07): _the night before by Milo Yiannopoulos._
+- [00:40:07](/episodes/ep-X92MllIHDzw#t-00-40-07): _And we know for a fact, he was informed the night before, the night before by Milo Yiannopoulos. That the feds were going to beat that there was there was some Fed trap happening. And despite that, he went with a bullhorn, didn't just attend, he had a bullhorn and he's telling people to storm and he doesn't get arrested._
 
 ### Related
 

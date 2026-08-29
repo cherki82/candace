@@ -17,8 +17,8 @@ _Type: Organizations_
 Source: [County Sheriff | Bosque County, TX](https://www.bosquecounty.gov/179/County-Sheriff)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#t-00-06-17">2026-01-19 · 00:06:56</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#t-00-06-17">2026-01-19 · 00:06:56</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#t-00-06-46">2026-01-19 · 00:06:56</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#t-00-06-46">2026-01-19 · 00:06:56</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -29,15 +29,15 @@ Source: [County Sheriff | Bosque County, TX](https://www.bosquecounty.gov/179/Co
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#t-00-06-17">A Legal Turning Point? | Candace Ep 292</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#t-00-06-46">A Legal Turning Point? | Candace Ep 292</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-NIEbqsLAK8g.md#t-00-06-17" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#t-00-06-46" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#t-00-06-17) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#t-00-06-46) | 1 |
 
 </details>
 </section>
@@ -50,7 +50,7 @@ Source: [County Sheriff | Bosque County, TX](https://www.bosquecounty.gov/179/Co
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
 
-**[00:06:56](/episodes/ep-NIEbqsLAK8g.md#t-00-06-17)**
+**[00:06:56](/episodes/ep-NIEbqsLAK8g.md#t-00-06-46)**
 > "His last assignment was with the Bosque County, Texas Sheriff's Office."
 
 </details>
@@ -66,7 +66,7 @@ Source: [County Sheriff | Bosque County, TX](https://www.bosquecounty.gov/179/Co
 - **[Robert Eugene Flood](/entities/person-robert-eugene-flood.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [A Legal Turning Point? | Candace Ep 292 @ 00:06:56](/episodes/ep-NIEbqsLAK8g.md#t-00-06-17): “His last assignment was with the Bosque County, Texas Sheriff's Office.”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:06:56](/episodes/ep-NIEbqsLAK8g.md#t-00-06-46): “His last assignment was with the Bosque County, Texas Sheriff's Office.”
 
 </details>
 
@@ -78,7 +78,7 @@ Source: [County Sheriff | Bosque County, TX](https://www.bosquecounty.gov/179/Co
 - **[Robert Eugene Flood](/entities/person-robert-eugene-flood.md)** formerly worked for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [A Legal Turning Point? | Candace Ep 292 @ 00:06:56](/episodes/ep-NIEbqsLAK8g.md#t-00-06-17): “His last assignment was with the Bosque County, Texas Sheriff's Office.”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:06:56](/episodes/ep-NIEbqsLAK8g.md#t-00-06-46): “His last assignment was with the Bosque County, Texas Sheriff's Office.”
 
 </details>
 
@@ -92,7 +92,7 @@ Source: [County Sheriff | Bosque County, TX](https://www.bosquecounty.gov/179/Co
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1)</summary>
 
-- [00:06:38](/episodes/ep-NIEbqsLAK8g.md#t-00-06-17) (Citation) **Candace Owens**: ["A professional profile says Robert Eugene Flood spent 33 years with th..."](/statements/statement-d34b5529bef5.md)
+- [00:06:38](/episodes/ep-NIEbqsLAK8g.md#t-00-06-03) (Citation) **Candace Owens**: ["A professional profile says Robert Eugene Flood spent 33 years with th..."](/statements/statement-d34b5529bef5.md)
   - Also about: [Robert Eugene Flood](/entities/person-robert-eugene-flood.md), [Texas A&M University Police Department](/entities/org-texas-am-university-police-department.md), [Illinois](/entities/gpe-illinois.md)
 
 </details>

@@ -22,13 +22,13 @@ _Type: People_
 Source: [What to know about the killing of Charlie Kirk | AP](https://apnews.com/article/e771e3967d5a6024f7cf84d5e0228fed)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-bill-montgomery-t-00-03-28">2026-01-14 · 00:03:37</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-bill-montgomery-t-00-03-19">2026-01-14 · 00:03:37</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-A39g5oqB_eM.md#ent-person-bill-montgomery-t-00-35-54">2026-01-27 · 00:36:23</a></strong></div>
 <div><span>Episodes</span><strong>4</strong></div>
 <div><span>Mentions</span><strong>18</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>6</strong></div>
-<div><span>Relationships</span><strong>19</strong></div>
+<div><span>Relationships</span><strong>21</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
 
@@ -36,18 +36,18 @@ Source: [What to know about the killing of Charlie Kirk | AP](https://apnews.com
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-A39g5oqB_eM.md#ent-person-bill-montgomery-t-00-27-17">EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296</a> (10 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-bill-montgomery-t-00-03-28" style="--pulse-height:20%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-bill-montgomery-t-00-03-19" style="--pulse-height:20%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-bill-montgomery-t-01-01-18" style="--pulse-height:10%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-bill-montgomery-t-00-10-32" style="--pulse-height:50%" aria-label="A Legal Turning Point? | Candace Ep 292: 5 mentions" title="2026-01-19 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-bill-montgomery-t-00-10-22" style="--pulse-height:50%" aria-label="A Legal Turning Point? | Candace Ep 292: 5 mentions" title="2026-01-19 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-person-bill-montgomery-t-00-27-17" style="--pulse-height:100%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 10 mentions" title="2026-01-27 · 10 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-bill-montgomery-t-00-03-28) | 2 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-bill-montgomery-t-00-03-19) | 2 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-bill-montgomery-t-01-01-18) | 1 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-bill-montgomery-t-00-10-32) | 5 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-bill-montgomery-t-00-10-22) | 5 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-person-bill-montgomery-t-00-27-17) | 10 |
 
 </details>
@@ -96,19 +96,19 @@ Source: [What to know about the killing of Charlie Kirk | AP](https://apnews.com
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (5 mentions)</summary>
 
-**[00:10:42](/episodes/ep-NIEbqsLAK8g.md#ent-person-bill-montgomery-t-00-10-32)**
+**[00:10:42](/episodes/ep-NIEbqsLAK8g.md#ent-person-bill-montgomery-t-00-10-22)**
 > "Robert Eugene Flood, probably knew Bill Montgomery,"
 
-**[00:10:52](/episodes/ep-NIEbqsLAK8g.md#ent-person-bill-montgomery-t-00-10-32)**
+**[00:10:52](/episodes/ep-NIEbqsLAK8g.md#ent-person-bill-montgomery-t-00-10-22)**
 > "Don't forget Bill Montgomery was also military as well. He was Air Force."
 
-**[00:11:11](/episodes/ep-NIEbqsLAK8g.md#ent-person-bill-montgomery-t-00-11-11)**
+**[00:11:11](/episodes/ep-NIEbqsLAK8g.md#ent-person-bill-montgomery-t-00-11-05)**
 > "...since he was young and it was Bill Montgomery who organized and initially paid,"
 
-**[00:11:26](/episodes/ep-NIEbqsLAK8g.md#ent-person-bill-montgomery-t-00-11-11)**
+**[00:11:26](/episodes/ep-NIEbqsLAK8g.md#ent-person-bill-montgomery-t-00-11-05)**
 > "Bill Montgomery chose to hire Shaffer Security,"
 
-**[00:12:04](/episodes/ep-NIEbqsLAK8g.md#ent-person-bill-montgomery-t-00-11-56)**
+**[00:12:04](/episodes/ep-NIEbqsLAK8g.md#ent-person-bill-montgomery-t-00-11-37)**
 > "So Bill Montgomery,"
 
 </details>
@@ -124,10 +124,10 @@ Source: [What to know about the killing of Charlie Kirk | AP](https://apnews.com
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (2 mentions)</summary>
 
-**[00:03:37](/episodes/ep-BKcOm32ZEGk.md#ent-person-bill-montgomery-t-00-03-28)**
+**[00:03:37](/episodes/ep-BKcOm32ZEGk.md#ent-person-bill-montgomery-t-00-03-19)**
 > "security was orchestrated by Bill Montgomery"
 
-**[00:03:41](/episodes/ep-BKcOm32ZEGk.md#ent-person-bill-montgomery-t-00-03-28)**
+**[00:03:41](/episodes/ep-BKcOm32ZEGk.md#ent-person-bill-montgomery-t-00-03-19)**
 > "He has since passed the late Bill Montgomery and he was from the military."
 
 </details>
@@ -143,14 +143,15 @@ Source: [What to know about the killing of Charlie Kirk | AP](https://apnews.com
 - **[United States Armed Forces](/entities/org-united-states-armed-forces.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:03:41](/episodes/ep-BKcOm32ZEGk.md#t-00-03-28): “He has since passed the late Bill Montgomery and he was from the military.”
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:03:41](/episodes/ep-BKcOm32ZEGk.md#t-00-03-19): “He has since passed the late Bill Montgomery and he was from the military.”
 
 </details>
 
 - **[United States Air Force](/entities/org-united-states-air-force.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:28:56](/episodes/ep-A39g5oqB_eM.md#t-00-28-43): “Now, Bill Montgomery was Air Force. He's in the Air Force Reserves. Bill Montgomery also happened to be from Lincoln,”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:10:52](/episodes/ep-NIEbqsLAK8g.md#t-00-10-22): “Bill Montgomery was also military as well. He was Air Force.”
 
 </details>
 
@@ -167,10 +168,11 @@ Source: [What to know about the killing of Charlie Kirk | AP](https://apnews.com
 <summary>Founded (1)</summary>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)**
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 01:01:18](/episodes/ep-X92MllIHDzw.md#t-01-01-18): “Turning Point was established in part by Bill Montgomery, who was Air Force involved with the Air Force.”
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:28:41](/episodes/ep-A39g5oqB_eM.md#t-00-27-58): “A month after Montgomery met Kirk, ... the duo launched Turning Point USA.”
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:03:41](/episodes/ep-BKcOm32ZEGk.md#t-00-03-19): “He has since passed the late Bill Montgomery and he was from the military. One of the founded Turning Point USA with Charlie.”
 
 </details>
 
@@ -189,19 +191,26 @@ Source: [What to know about the killing of Charlie Kirk | AP](https://apnews.com
 </details>
 
 <details>
-<summary>Hired (2)</summary>
+<summary>Hired (3)</summary>
 
 - **[Greg Shaffer](/entities/person-greg-shaffer.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [A Legal Turning Point? | Candace Ep 292 @ 00:12:04](/episodes/ep-NIEbqsLAK8g.md#t-00-11-56): “So Bill Montgomery, you've got you got this guy. He hires Greg Shaffer and Dan Flood. And these are they're going to stay with Charlie forever.”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:12:04](/episodes/ep-NIEbqsLAK8g.md#t-00-11-37): “So Bill Montgomery, you've got you got this guy. He hires Greg Shaffer and Dan Flood. And these are they're going to stay with Charlie forever.”
 
 </details>
 
 - **[Dan Flood](/entities/person-dan-flood.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [A Legal Turning Point? | Candace Ep 292 @ 00:12:04](/episodes/ep-NIEbqsLAK8g.md#t-00-11-56): “So Bill Montgomery, you've got you got this guy. He hires Greg Shaffer and Dan Flood. And these are they're going to stay with Charlie forever.”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:12:04](/episodes/ep-NIEbqsLAK8g.md#t-00-11-37): “So Bill Montgomery, you've got you got this guy. He hires Greg Shaffer and Dan Flood. And these are they're going to stay with Charlie forever.”
+
+</details>
+
+- **[Shaffer Security Group](/entities/org-shaffer-security-group.md)**
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Legal Turning Point? | Candace Ep 292 @ 00:11:21](/episodes/ep-NIEbqsLAK8g.md#t-00-11-05): “Bill Montgomery chose to hire Shaffer Security, which was run by Greg Shaffer.”
 
 </details>
 
@@ -239,19 +248,20 @@ Source: [What to know about the killing of Charlie Kirk | AP](https://apnews.com
 </details>
 
 <details>
-<summary>Referenced By (9)</summary>
+<summary>Referenced By (10)</summary>
 
 - **[United States Armed Forces](/entities/org-united-states-armed-forces.md)** formerly employed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:03:41](/episodes/ep-BKcOm32ZEGk.md#t-00-03-28): “He has since passed the late Bill Montgomery and he was from the military.”
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:03:41](/episodes/ep-BKcOm32ZEGk.md#t-00-03-19): “He has since passed the late Bill Montgomery and he was from the military.”
 
 </details>
 
 - **[United States Air Force](/entities/org-united-states-air-force.md)** formerly employed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:28:56](/episodes/ep-A39g5oqB_eM.md#t-00-28-43): “Now, Bill Montgomery was Air Force. He's in the Air Force Reserves. Bill Montgomery also happened to be from Lincoln,”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:10:52](/episodes/ep-NIEbqsLAK8g.md#t-00-10-22): “Bill Montgomery was also military as well. He was Air Force.”
 
 </details>
 
@@ -263,10 +273,11 @@ Source: [What to know about the killing of Charlie Kirk | AP](https://apnews.com
 </details>
 
 - **[Turning Point USA](/entities/org-turning-point-usa.md)** founded by this
-<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
 - [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 01:01:18](/episodes/ep-X92MllIHDzw.md#t-01-01-18): “Turning Point was established in part by Bill Montgomery, who was Air Force involved with the Air Force.”
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:28:41](/episodes/ep-A39g5oqB_eM.md#t-00-27-58): “A month after Montgomery met Kirk, ... the duo launched Turning Point USA.”
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:03:41](/episodes/ep-BKcOm32ZEGk.md#t-00-03-19): “He has since passed the late Bill Montgomery and he was from the military. One of the founded Turning Point USA with Charlie.”
 
 </details>
 
@@ -280,14 +291,21 @@ Source: [What to know about the killing of Charlie Kirk | AP](https://apnews.com
 - **[Greg Shaffer](/entities/person-greg-shaffer.md)** hired by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [A Legal Turning Point? | Candace Ep 292 @ 00:12:04](/episodes/ep-NIEbqsLAK8g.md#t-00-11-56): “So Bill Montgomery, you've got you got this guy. He hires Greg Shaffer and Dan Flood. And these are they're going to stay with Charlie forever.”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:12:04](/episodes/ep-NIEbqsLAK8g.md#t-00-11-37): “So Bill Montgomery, you've got you got this guy. He hires Greg Shaffer and Dan Flood. And these are they're going to stay with Charlie forever.”
 
 </details>
 
 - **[Dan Flood](/entities/person-dan-flood.md)** hired by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [A Legal Turning Point? | Candace Ep 292 @ 00:12:04](/episodes/ep-NIEbqsLAK8g.md#t-00-11-56): “So Bill Montgomery, you've got you got this guy. He hires Greg Shaffer and Dan Flood. And these are they're going to stay with Charlie forever.”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:12:04](/episodes/ep-NIEbqsLAK8g.md#t-00-11-37): “So Bill Montgomery, you've got you got this guy. He hires Greg Shaffer and Dan Flood. And these are they're going to stay with Charlie forever.”
+
+</details>
+
+- **[Shaffer Security Group](/entities/org-shaffer-security-group.md)** hired by this
+<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+
+- [A Legal Turning Point? | Candace Ep 292 @ 00:11:21](/episodes/ep-NIEbqsLAK8g.md#t-00-11-05): “Bill Montgomery chose to hire Shaffer Security, which was run by Greg Shaffer.”
 
 </details>
 
@@ -353,7 +371,7 @@ Source: [What to know about the killing of Charlie Kirk | AP](https://apnews.com
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1)</summary>
 
-- [00:03:19](/episodes/ep-BKcOm32ZEGk.md#t-00-02-43) (Claim) **Candace Owens**: ["Before he had much fame, Charlie Kirk was required to have security wi..."](/statements/statement-d72077f27f3f.md)
+- [00:03:19](/episodes/ep-BKcOm32ZEGk.md#t-00-03-19) (Claim) **Candace Owens**: ["Before he had much fame, Charlie Kirk was required to have security wi..."](/statements/statement-d72077f27f3f.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>

@@ -38,10 +38,10 @@ _No relationships extracted yet._
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2)</summary>
 
-- [00:16:23](/episodes/ep-ZZGWo6oDscc.md#t-00-15-58) [✓] (Accusation) ["After being hired as Alton C. Jennings's caretaker, Mitchell Manley Sr. isolated..."](/statements/statement-35de484f46fe.md)
+- [00:16:23](/episodes/ep-ZZGWo6oDscc.md#t-00-15-51) [✓] (Accusation) ["After being hired as Alton C. Jennings's caretaker, Mitchell Manley Sr. isolated..."](/statements/statement-35de484f46fe.md)
   - About: [Mitchell Manley Sr.](/entities/person-mitchell-manley-sr.md), [Alton C. Jennings](/entities/person-alton-c-jennings.md)
 
-- [00:17:00](/episodes/ep-ZZGWo6oDscc.md#t-00-16-43) [✓] (Accusation) ["Four months before Alton C. Jennings died, his will was changed in November 2023..."](/statements/statement-c59ce538da60.md)
+- [00:17:00](/episodes/ep-ZZGWo6oDscc.md#t-00-16-23) [✓] (Accusation) ["Four months before Alton C. Jennings died, his will was changed in November 2023..."](/statements/statement-c59ce538da60.md)
   - About: [Alton C. Jennings](/entities/person-alton-c-jennings.md), [Turning Point Action](/entities/org-turning-point-action.md), [Tyler Bowyer](/entities/person-tyler-bowyer.md)
 
 </details>

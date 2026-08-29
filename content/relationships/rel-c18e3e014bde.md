@@ -15,7 +15,7 @@ object: "org-turning-point-usa"
 
 **[CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc)**
 
-- [00:19:30](/episodes/ep-ZZGWo6oDscc#t-00-19-30): _Well, enter this TPUSA board member named Paul Valali. Paul E. Valali._
+- [00:19:30](/episodes/ep-ZZGWo6oDscc#t-00-19-30): _Well, enter this TPUSA board member named Paul Vallely. Paul E. Vallely._
 
 ### Related
 

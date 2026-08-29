@@ -24,23 +24,13 @@ veracity: "mixed"
 - [George Zinn](/entities/person-george-zinn.md) (person)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
-## Appearances (2)
-
-### 1. The Past Is Prologue: Why Charlie Kirk Was Murdered | Candac...
+## Source
 
 **Episode:** [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md)
 **Timestamp:** [00:15:38](/episodes/ep-wcD2khO3rOA.md#t-00-14-55) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(938);return false;">Play</a>
 
 > George Zinn was arrested and then it was determined that he had. ... had pornographic images that's our decoy boy of children on his phone and as i told you he told people at the hospital that he was treated at that he would be paid if he did this he didn't know where the money was coming from but all he had to do was jump up and down and say it was me it was me
-
-### 2. Myron Gaines x Candace Owens
-
-**Episode:** [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md)
-**Timestamp:** [01:06:46](/episodes/ep-2T39-oADLj0.md#t-01-06-38) 
-<a href="#" onclick="if(parent.seekTo)parent.seekTo(4006);return false;">Play</a>
-
-> all the people that were involved that day got swept up in pedophile stuff from George Zinn ... Also, Zinn told a nurse that he was being paid. He didn't know how he was going to be paid for doing that afterward.
 
 ## Verification
 

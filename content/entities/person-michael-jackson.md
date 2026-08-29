@@ -1,6 +1,6 @@
 ---
 title: "Michael Jackson"
-description: "Michael Jackson (People) - 20 mentions"
+description: "Michael Jackson (People) - 19 mentions"
 id: "person-michael-jackson"
 type: "PERSON"
 categories:
@@ -20,7 +20,7 @@ Source: [Michael Jackson | Biography, Albums, Songs, Thriller, Beat It, & Facts]
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-michael-jackson-t-00-23-52">2025-11-15 · 00:23:52</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ChuWo-n49B8.md#ent-person-michael-jackson-t-00-39-20">2026-08-06 · 00:39:43</a></strong></div>
 <div><span>Episodes</span><strong>10</strong></div>
-<div><span>Mentions</span><strong>20</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>5</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -34,7 +34,7 @@ Source: [Michael Jackson | Biography, Albums, Songs, Thriller, Beat It, & Facts]
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-person-michael-jackson-t-00-23-52" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 4 mentions" title="2025-11-15 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#t-01-07-28" style="--pulse-height:25%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-michael-jackson-t-00-14-48" style="--pulse-height:75%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 3 mentions" title="2026-01-07 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-person-michael-jackson-t-00-50-02" style="--pulse-height:50%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-person-michael-jackson-t-00-50-02" style="--pulse-height:25%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7FS1tUeSfdE.md#ent-person-michael-jackson-t-00-42-59" style="--pulse-height:25%" aria-label="BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338: 1 mentions" title="2026-05-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mLvJqdxS-FY.md#ent-person-michael-jackson-t-00-57-38" style="--pulse-height:75%" aria-label="COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361: 3 mentions" title="2026-07-16 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-ds6umq1rHAw.md#ent-person-michael-jackson-t-00-02-47" style="--pulse-height:75%" aria-label="Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364: 3 mentions" title="2026-07-22 · 3 mentions"><span></span></a>
@@ -49,7 +49,7 @@ Source: [Michael Jackson | Biography, Albums, Songs, Thriller, Beat It, & Facts]
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-person-michael-jackson-t-00-23-52) | 4 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#t-01-07-28) | 1 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-michael-jackson-t-00-14-48) | 3 |
-| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-michael-jackson-t-00-50-02) | 2 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-michael-jackson-t-00-50-02) | 1 |
 | 2026-05-13 | [BREAKING! The White House Attempted To Rescind This E-mail. | Candace Ep 338](/episodes/ep-7FS1tUeSfdE.md#ent-person-michael-jackson-t-00-42-59) | 1 |
 | 2026-07-16 | [COLLECTIVE AMNESIA: Feds Fumble The Backpack. Frank Turek Changes His Story. | Ep 361](/episodes/ep-mLvJqdxS-FY.md#ent-person-michael-jackson-t-00-57-38) | 3 |
 | 2026-07-22 | [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364](/episodes/ep-ds6umq1rHAw.md#ent-person-michael-jackson-t-00-02-47) | 3 |
@@ -63,7 +63,7 @@ Source: [Michael Jackson | Biography, Albums, Songs, Thriller, Beat It, & Facts]
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (20)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
 
 <details>
 <summary>LEAKED: “Protecting Erika Kirk” Group Chat, Perez Hilton’s Public Breakdown. | Ep 372 (1 mentions)</summary>
@@ -126,10 +126,7 @@ Source: [Michael Jackson | Biography, Albums, Songs, Thriller, Beat It, & Facts]
 </details>
 
 <details>
-<summary>Myron Gaines x Candace Owens (2 mentions)</summary>
-
-**[00:50:17](/episodes/ep-2T39-oADLj0.md#ent-person-michael-jackson-t-00-50-02)**
-> "from Michael Jackson to Kanye to Britney Spears"
+<summary>Myron Gaines x Candace Owens (1 mentions)</summary>
 
 **[00:50:17](/episodes/ep-2T39-oADLj0.md#ent-person-michael-jackson-t-00-50-02)**
 > "... to go back, you look at from Michael Jackson to Kanye to Britney Spears, these are hostile tak..."

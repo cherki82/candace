@@ -48,7 +48,7 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 <a href="/episodes/ep-ewBzjVe3LNQ.md#ent-org-the-wellness-company-t-00-21-26" style="--pulse-height:50%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 2 mentions" title="2025-12-18 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-the-wellness-company-t-00-28-09" style="--pulse-height:50%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 2 mentions" title="2025-12-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-the-wellness-company-t-00-29-20" style="--pulse-height:100%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 4 mentions" title="2026-01-05 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-the-wellness-company-t-00-30-47" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 4 mentions" title="2026-01-13 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-the-wellness-company-t-00-30-18" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 4 mentions" title="2026-01-13 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-the-wellness-company-t-00-19-55" style="--pulse-height:100%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 4 mentions" title="2026-01-22 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-org-the-wellness-company-t-00-19-00" style="--pulse-height:50%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 2 mentions" title="2026-02-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-org-the-wellness-company-t-00-23-00" style="--pulse-height:50%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 2 mentions" title="2026-02-05 · 2 mentions"><span></span></a>
@@ -88,7 +88,7 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#ent-org-the-wellness-company-t-00-21-26) | 2 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-the-wellness-company-t-00-28-09) | 2 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-the-wellness-company-t-00-29-20) | 4 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-the-wellness-company-t-00-30-47) | 4 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-the-wellness-company-t-00-30-18) | 4 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-the-wellness-company-t-00-19-55) | 4 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-org-the-wellness-company-t-00-19-00) | 2 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-org-the-wellness-company-t-00-23-00) | 2 |
@@ -374,16 +374,16 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (4 mentions)</summary>
 
-**[00:30:47](/episodes/ep-ZZGWo6oDscc.md#ent-org-the-wellness-company-t-00-30-47)**
+**[00:30:44](/episodes/ep-ZZGWo6oDscc.md#ent-org-the-wellness-company-t-00-30-18)**
 > "...o want to tell you guys about the wellness company because the big medical hack of 2025 was several ..."
 
-**[00:31:17](/episodes/ep-ZZGWo6oDscc.md#ent-org-the-wellness-company-t-00-30-47)**
+**[00:31:17](/episodes/ep-ZZGWo6oDscc.md#ent-org-the-wellness-company-t-00-31-02)**
 > "...ef scientific officer over at the Wellness Company and the world's most published cardiologist, says..."
 
-**[00:31:30](/episodes/ep-ZZGWo6oDscc.md#ent-org-the-wellness-company-t-00-31-30)**
+**[00:31:30](/episodes/ep-ZZGWo6oDscc.md#ent-org-the-wellness-company-t-00-31-02)**
 > "The Wellness Company's compounded ivermectin and membendazole is a docto..."
 
-**[00:31:39](/episodes/ep-ZZGWo6oDscc.md#ent-org-the-wellness-company-t-00-31-30)**
+**[00:31:39](/episodes/ep-ZZGWo6oDscc.md#ent-org-the-wellness-company-t-00-31-39)**
 > "...omplete four 21-day cleanses. The wellness company makes the process fully digital as well, so it's ..."
 
 </details>
@@ -555,7 +555,7 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 - **[Peter A. McCullough](/entities/person-peter-mccullough.md)**
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:31:11](/episodes/ep-ZZGWo6oDscc.md#t-00-30-47): “They have admitted that millions of Americans suffer from parasitic infections that often go undetected or undiagnosed, which is why Dr. Peter McCullough, who's the chief scientific officer over at the Wellness Company and the world's most published cardiologist, says,”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:31:11](/episodes/ep-ZZGWo6oDscc.md#t-00-31-02): “They have admitted that millions of Americans suffer from parasitic infections that often go undetected or undiagnosed, which is why Dr. Peter McCullough, who's the chief scientific officer over at the Wellness Company and the world's most published cardiologist, says,”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:20:39](/episodes/ep-gG4ZoYUjUc8.md#t-00-19-55): “Peter McCullough, Chief Scientific Officer at the Wellness Company and the world's most popular Most published cardiologists says that these studies make a clear case to do at least one medical-grade parasite cleanse annually.”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:29:53](/episodes/ep-OEAHy3SsIiI.md#t-00-29-53): “This is why Dr. Peter McCullough, the chief scientific officer over at the wellness company and the world's most published cardiologist, says, quote, these studies make a clear case to do at least one medical grade parasite cleanse annually, end quote.”
 
@@ -567,7 +567,7 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:31:56](/episodes/ep-kaWtDuoY_ns.md#t-00-31-56): “This is where the wellness company steps in to help you own your health.”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:25:32](/episodes/ep-qZ8RWfyuewQ.md#t-00-25-23): “Dr. Peter McCullough recommends doing a parasite cleanse at least once a year as a preventative measure. The wellness company offers a hard-to-access RX parasite cleanse, a USA-compounded ivermectin and menbendazole treatment.”
@@ -577,6 +577,7 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:27:17](/episodes/ep-a2bZf4fic10.md#t-00-27-17): “The Wellness Company offers a hard-to-access prescription parasite cleanse, the USA-compounded ivermectin and mebendazole.”
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:28:54](/episodes/ep-N4uM8Jdr410.md#t-00-28-43): “If you get sick, the CDC recommends Bactrim. That's why the Wellness Company created the medical emergency kit, because it comes with generic Bactrim plus seven additional prescription medications to help treat more than 25 common illnesses and medical emergencies, all prescribed before you need them.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:32:01](/episodes/ep-ds6umq1rHAw.md#t-00-31-29): “That's why the wellness company created the medical emergency kit because it comes with generic Bactrim plus seven additional prescription medications to help.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:30:44](/episodes/ep-ZZGWo6oDscc.md#t-00-30-18): “Also want to tell you guys about the wellness company”
 
 </details>
 
@@ -586,7 +587,7 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 <summary>Referenced By (2)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (8)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (9)</summary>
 
 - [EXCLUSIVE AUDIO! Tyler Robinson's Grandfather Regarding His Rifle. | Candace Ep 327 @ 00:31:56](/episodes/ep-kaWtDuoY_ns.md#t-00-31-56): “This is where the wellness company steps in to help you own your health.”
 - [TIME MAGAZINE: World’s Most VILE Person?! | Candace Ep 330 @ 00:25:32](/episodes/ep-qZ8RWfyuewQ.md#t-00-25-23): “Dr. Peter McCullough recommends doing a parasite cleanse at least once a year as a preventative measure. The wellness company offers a hard-to-access RX parasite cleanse, a USA-compounded ivermectin and menbendazole treatment.”
@@ -596,13 +597,14 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 - [EMERGENCY UPDATE IN THE CHARLIE KIRK CASE! | Ep 357 @ 00:27:17](/episodes/ep-a2bZf4fic10.md#t-00-27-17): “The Wellness Company offers a hard-to-access prescription parasite cleanse, the USA-compounded ivermectin and mebendazole.”
 - [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 @ 00:28:54](/episodes/ep-N4uM8Jdr410.md#t-00-28-43): “If you get sick, the CDC recommends Bactrim. That's why the Wellness Company created the medical emergency kit, because it comes with generic Bactrim plus seven additional prescription medications to help treat more than 25 common illnesses and medical emergencies, all prescribed before you need them.”
 - [Andrew Kolvet Blames Me For Erika PR Backlash | “Mormon Mafia” History Explained | Ep 364 @ 00:32:01](/episodes/ep-ds6umq1rHAw.md#t-00-31-29): “That's why the wellness company created the medical emergency kit because it comes with generic Bactrim plus seven additional prescription medications to help.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:30:44](/episodes/ep-ZZGWo6oDscc.md#t-00-30-18): “Also want to tell you guys about the wellness company”
 
 </details>
 
 - **[Peter A. McCullough](/entities/person-peter-mccullough.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (3)</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:31:11](/episodes/ep-ZZGWo6oDscc.md#t-00-30-47): “They have admitted that millions of Americans suffer from parasitic infections that often go undetected or undiagnosed, which is why Dr. Peter McCullough, who's the chief scientific officer over at the Wellness Company and the world's most published cardiologist, says,”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:31:11](/episodes/ep-ZZGWo6oDscc.md#t-00-31-02): “They have admitted that millions of Americans suffer from parasitic infections that often go undetected or undiagnosed, which is why Dr. Peter McCullough, who's the chief scientific officer over at the Wellness Company and the world's most published cardiologist, says,”
 - [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295 @ 00:20:39](/episodes/ep-gG4ZoYUjUc8.md#t-00-19-55): “Peter McCullough, Chief Scientific Officer at the Wellness Company and the world's most popular Most published cardiologists says that these studies make a clear case to do at least one medical-grade parasite cleanse annually.”
 - [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284 @ 00:29:53](/episodes/ep-OEAHy3SsIiI.md#t-00-29-53): “This is why Dr. Peter McCullough, the chief scientific officer over at the wellness company and the world's most published cardiologist, says, quote, these studies make a clear case to do at least one medical grade parasite cleanse annually, end quote.”
 
@@ -618,7 +620,7 @@ Source: [Leadership - The Wellness Company](https://www.twc.health/pages/leaders
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
 
-- [00:31:17](/episodes/ep-ZZGWo6oDscc.md#t-00-30-47) (Opinion) **Peter A. McCullough** (via quoted document): ["The studies make a clear case to do at least one medical-grade parasit..."](/statements/statement-7c76b5f74fc7.md)
+- [00:31:17](/episodes/ep-ZZGWo6oDscc.md#t-00-31-02) (Opinion) **Peter A. McCullough** (via quoted document): ["The studies make a clear case to do at least one medical-grade parasit..."](/statements/statement-7c76b5f74fc7.md)
   - Also about: [Peter A. McCullough](/entities/person-peter-mccullough.md)
 
 </details>

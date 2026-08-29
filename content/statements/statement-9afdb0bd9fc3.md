@@ -26,7 +26,7 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md)
-**Timestamp:** [00:02:36](/episodes/ep-BKcOm32ZEGk.md#t-00-01-59) 
+**Timestamp:** [00:02:36](/episodes/ep-BKcOm32ZEGk.md#t-00-01-56) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(156);return false;">Play</a>
 
 > Charlie Kirk thought that he was a time traveler. He told me he was a time traveler repeatedly. I showed you guys that text message exchange.

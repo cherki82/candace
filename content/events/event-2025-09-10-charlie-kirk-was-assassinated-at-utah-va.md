@@ -64,7 +64,7 @@ date: "2025-09-10"
 ### 7. A Legal Turning Point? | Candace Ep 292
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
-**Timestamp:** [00:06:17](/episodes/ep-NIEbqsLAK8g.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-06-17) 
+**Timestamp:** [00:06:17](/episodes/ep-NIEbqsLAK8g.md#event-event-2025-09-10-charlie-kirk-was-assassinated-at-utah-va-t-00-06-03) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(377);return false;">▶️ Play</a>
 
 > the feds are going to do anything to look into what happened on September 10th.

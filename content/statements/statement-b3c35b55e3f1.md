@@ -28,7 +28,7 @@ veracity: "true"
 ## Source
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
-**Timestamp:** [00:07:43](/episodes/ep-ZZGWo6oDscc.md#t-00-07-08) 
+**Timestamp:** [00:07:43](/episodes/ep-ZZGWo6oDscc.md#t-00-07-06) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(463);return false;">Play</a>
 
 > What you don't want are flighty, emotionally incontinent, silly people on the payroll of foreign nations making decisions in an empire because that's how you get in trouble. People like just throwing this out there, say Lindsey Graham, here he is in the aftermath of Venezuela.

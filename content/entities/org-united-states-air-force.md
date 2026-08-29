@@ -49,7 +49,7 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-air-force-t-00-35-25" style="--pulse-height:33%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 4 mentions" title="2025-12-17 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-united-states-air-force-t-00-19-13" style="--pulse-height:17%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-org-united-states-air-force-t-01-01-18" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-united-states-air-force-t-00-10-32" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-united-states-air-force-t-00-10-22" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-org-united-states-air-force-t-00-14-10" style="--pulse-height:25%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 3 mentions" title="2026-01-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-org-united-states-air-force-t-00-28-43" style="--pulse-height:42%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 5 mentions" title="2026-01-27 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#t-00-45-19" style="--pulse-height:8%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
@@ -83,7 +83,7 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-united-states-air-force-t-00-35-25) | 4 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-united-states-air-force-t-00-19-13) | 2 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-united-states-air-force-t-01-01-18) | 1 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-united-states-air-force-t-00-10-32) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-united-states-air-force-t-00-10-22) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-org-united-states-air-force-t-00-14-10) | 3 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-org-united-states-air-force-t-00-28-43) | 5 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#t-00-45-19) | 1 |
@@ -297,7 +297,7 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
 
-**[00:10:52](/episodes/ep-NIEbqsLAK8g.md#ent-org-united-states-air-force-t-00-10-32)**
+**[00:10:52](/episodes/ep-NIEbqsLAK8g.md#ent-org-united-states-air-force-t-00-10-22)**
 > "Don't forget Bill Montgomery was also military as well. He was Air Force."
 
 </details>
@@ -515,9 +515,10 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 <summary>Formerly Employed (1)</summary>
 
 - **[Bill Montgomery](/entities/person-bill-montgomery.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:28:56](/episodes/ep-A39g5oqB_eM.md#t-00-28-43): “Now, Bill Montgomery was Air Force. He's in the Air Force Reserves. Bill Montgomery also happened to be from Lincoln,”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:10:52](/episodes/ep-NIEbqsLAK8g.md#t-00-10-22): “Bill Montgomery was also military as well. He was Air Force.”
 
 </details>
 
@@ -551,9 +552,10 @@ Source: [United States Air Force: About Us](https://www.af.mil/About-Us/about-us
 <summary>Referenced By (5)</summary>
 
 - **[Bill Montgomery](/entities/person-bill-montgomery.md)** formerly worked for this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296 @ 00:28:56](/episodes/ep-A39g5oqB_eM.md#t-00-28-43): “Now, Bill Montgomery was Air Force. He's in the Air Force Reserves. Bill Montgomery also happened to be from Lincoln,”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:10:52](/episodes/ep-NIEbqsLAK8g.md#t-00-10-22): “Bill Montgomery was also military as well. He was Air Force.”
 
 </details>
 

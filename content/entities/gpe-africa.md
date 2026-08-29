@@ -32,7 +32,7 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-tB5SXXmd9vU.md#ent-gpe-africa-t-00-13-15" style="--pulse-height:20%" aria-label="Charlie Kirk And Brigitte&#x27;s Legionnaires | Candace Ep 271: 1 mentions" title="2025-12-01 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#ent-gpe-africa-t-00-06-27" style="--pulse-height:100%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 5 mentions" title="2025-12-08 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-africa-t-00-18-17" style="--pulse-height:20%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-africa-t-00-18-05" style="--pulse-height:20%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-africa-t-00-49-49" style="--pulse-height:20%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-i8m_6D4QGmk.md#ent-gpe-africa-t-00-03-18" style="--pulse-height:20%" aria-label="Donald Trump Has Betrayed America. | Candace Ep 308: 1 mentions" title="2026-03-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-19vHhjF7-NA.md#ent-gpe-africa-t-00-39-33" style="--pulse-height:20%" aria-label="OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347: 1 mentions" title="2026-06-11 · 1 mentions"><span></span></a>
@@ -46,7 +46,7 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 |---|---|---:|
 | 2025-12-01 | [Charlie Kirk And Brigitte's Legionnaires | Candace Ep 271](/episodes/ep-tB5SXXmd9vU.md#ent-gpe-africa-t-00-13-15) | 1 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#ent-gpe-africa-t-00-06-27) | 5 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-africa-t-00-18-17) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-africa-t-00-18-05) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-gpe-africa-t-00-49-49) | 1 |
 | 2026-03-09 | [Donald Trump Has Betrayed America. | Candace Ep 308](/episodes/ep-i8m_6D4QGmk.md#ent-gpe-africa-t-00-03-18) | 1 |
 | 2026-06-11 | [OCCUPY BAAL STREET: Iran, Albania, And The TPUSA Takeover. | Ep 347](/episodes/ep-19vHhjF7-NA.md#ent-gpe-africa-t-00-39-33) | 1 |
@@ -113,7 +113,7 @@ Source: [UNSD Standard Country or Area Codes](https://unstats.un.org/unsd/method
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
 
-**[00:18:40](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-africa-t-00-18-17)**
+**[00:18:40](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-africa-t-00-18-05)**
 > "nutrient-dense bars from Africa"
 
 </details>

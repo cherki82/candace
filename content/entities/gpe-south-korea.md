@@ -42,7 +42,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 <a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-south-korea-t-00-00-00" style="--pulse-height:15%" aria-label="Charlie Kirk’s Last Trip To Asia… | Candace Ep 277: 4 mentions" title="2025-12-09 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-south-korea-t-00-50-14" style="--pulse-height:100%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 26 mentions" title="2026-01-09 · 26 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-south-korea-t-00-31-08" style="--pulse-height:8%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-south-korea-t-00-20-15" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-south-korea-t-00-20-30" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-gpe-south-korea-t-00-40-20" style="--pulse-height:8%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-south-korea-t-00-28-41" style="--pulse-height:8%" aria-label="CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301: 1 mentions" title="2026-02-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-mFuno0TuuQQ.md#ent-gpe-south-korea-t-00-31-20" style="--pulse-height:8%" aria-label="An Open Letter To Erika Kirk | Candace Ep 303: 1 mentions" title="2026-02-05 · 1 mentions"><span></span></a>
@@ -60,7 +60,7 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 | 2025-12-09 | [Charlie Kirk’s Last Trip To Asia… | Candace Ep 277](/episodes/ep-t4U7NjnUEgc.md#ent-gpe-south-korea-t-00-00-00) | 4 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-south-korea-t-00-50-14) | 26 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-south-korea-t-00-31-08) | 1 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-south-korea-t-00-20-15) | 2 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-south-korea-t-00-20-30) | 2 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-gpe-south-korea-t-00-40-20) | 2 |
 | 2026-02-03 | [CRUMBLING ALIBIS: From 9/11 To 9/10. | Candace Ep 301](/episodes/ep-QRS_hR7NXaQ.md#ent-gpe-south-korea-t-00-28-41) | 1 |
 | 2026-02-05 | [An Open Letter To Erika Kirk | Candace Ep 303](/episodes/ep-mFuno0TuuQQ.md#ent-gpe-south-korea-t-00-31-20) | 1 |
@@ -151,10 +151,10 @@ Source: [Member States | United Nations](https://www.un.org/about-us/member-stat
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2 mentions)</summary>
 
-**[00:20:30](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-south-korea-t-00-20-15)**
+**[00:20:30](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-south-korea-t-00-20-30)**
 > "...rs in vietnam he was in japan korea iraq israel you name it all over the place throug..."
 
-**[00:35:55](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-south-korea-t-00-35-31)**
+**[00:35:48](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-south-korea-t-00-35-48)**
 > "...l where they are stationed in South Korea."
 
 </details>
@@ -293,7 +293,7 @@ _No relationships extracted yet._
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
 
-- [00:35:51](/episodes/ep-ZZGWo6oDscc.md#t-00-35-31) (Accusation) **Candace Owens**: ["South Korean women filed an unprecedented lawsuit accusing the U.S. mi..."](/statements/statement-611bc4c6e701.md)
+- [00:35:51](/episodes/ep-ZZGWo6oDscc.md#t-00-35-48) (Accusation) **Candace Owens**: ["South Korean women filed an unprecedented lawsuit accusing the U.S. mi..."](/statements/statement-611bc4c6e701.md)
   - Also about: [United States Armed Forces](/entities/org-united-states-armed-forces.md)
 
 </details>

@@ -2,7 +2,7 @@
 title: "Timeline"
 ---
 
-_Total events: 1703_
+_Total events: 1704_
 
 > **Note:** Events and dates are extracted automatically using AI. Some dates may be approximate or inferred from context.
 
@@ -335,7 +335,7 @@ _Total events: 1703_
 <input type="radio" id="tab-year-1692" name="timeline-tab" class="tab-radio">
 
 <div class="tab-controls">
-  <label for="tab-year-2026" class="tab-btn">2026 (273)</label>
+  <label for="tab-year-2026" class="tab-btn">2026 (274)</label>
   <label for="tab-year-2025" class="tab-btn">2025 (772)</label>
   <label for="tab-year-2024" class="tab-btn">2024 (104)</label>
   <label for="tab-year-2023" class="tab-btn">2023 (35)</label>
@@ -4078,7 +4078,7 @@ _Total events: 1703_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [A Legal Turning Point? | Candace Ep 292 @ 00:12:46](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40)
+- [A Legal Turning Point? | Candace Ep 292 @ 00:12:46](/episodes/ep-NIEbqsLAK8g.md#t-00-12-12)
 
 </details>
 </div>
@@ -4171,6 +4171,21 @@ _Total events: 1703_
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
 - [PROVE ME WRONG: Tyler Robinson Is A Patsy. | Ca... @ 00:27:08](/episodes/ep-UYkXV9mYbT4.md#t-00-27-01)
+
+</details>
+</div>
+
+<div class="timeline-event filter-item" id="event-2026-01-nelda-buckman-gave-an-exclusive-daily-wi">
+<div class="timeline-date">2026-01</div>
+<div class="timeline-desc"><a href="/events/event-2026-01-nelda-buckman-gave-an-exclusive-daily-wi.md">Nelda Buckman gave an exclusive Daily Wire interview about her developing relationship with Erika Kirk in January 2026.</a></div>
+<div class="timeline-meta">
+<span class="timeline-badge mentions">1× in 1 ep</span>
+<button class="share-btn" onclick="navigator.clipboard.writeText('2026-01: Nelda Buckman gave an exclusive Daily Wire interview about her developing relationship with Erika Kirk in January 2026. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
+</div>
+<details>
+<summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
+
+- [OH SNAP! We Were Right About Fort Huachuca. | C... @ 00:20:45](/episodes/ep-X92MllIHDzw.md#t-00-20-45)
 
 </details>
 </div>
@@ -4362,7 +4377,7 @@ _Total events: 1703_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:38:12](/episodes/ep-ZZGWo6oDscc.md#t-00-37-38)
+- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:38:12](/episodes/ep-ZZGWo6oDscc.md#t-00-37-43)
 
 </details>
 </div>
@@ -20015,7 +20030,7 @@ _Total events: 1703_
 - [The Past Is Prologue: Why Charlie Kirk Was Murd... @ 00:17:51](/episodes/ep-wcD2khO3rOA.md#t-00-17-24)
 - [American Horror Story: Charlie Kirk’s “Shining”... @ 00:11:31](/episodes/ep-CMcktj3Egfo.md#t-00-11-30)
 - [Myron Gaines x Candace Owens @ 00:52:43](/episodes/ep-2T39-oADLj0.md#t-00-52-09)
-- [A Legal Turning Point? | Candace Ep 292 @ 00:06:17](/episodes/ep-NIEbqsLAK8g.md#t-00-06-17)
+- [A Legal Turning Point? | Candace Ep 292 @ 00:06:17](/episodes/ep-NIEbqsLAK8g.md#t-00-06-03)
 - [Candace x Baron Coleman LIVE!! | Candace Ep 293 @ 00:07:26](/episodes/ep-9naMwS0kMBE.md#t-00-07-14)
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist'... @ 00:07:08](/episodes/ep-GY6GWceEqtQ.md#t-00-07-08)
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist'... @ 00:21:04](/episodes/ep-GY6GWceEqtQ.md#t-00-20-34)
@@ -23512,7 +23527,7 @@ _Total events: 1703_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:44:22](/episodes/ep-ZZGWo6oDscc.md#t-00-43-53)
+- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:44:22](/episodes/ep-ZZGWo6oDscc.md#t-00-43-48)
 
 </details>
 </div>
@@ -27662,7 +27677,7 @@ _Total events: 1703_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:03:48](/episodes/ep-ZZGWo6oDscc.md#t-00-03-48)
+- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:03:48](/episodes/ep-ZZGWo6oDscc.md#t-00-03-45)
 - [EXPLOSIVE! TPUSA Accuses Joe Kent Of Leaking To... @ 00:03:30](/episodes/ep-B9TyCs-6o_0.md#t-00-03-17)
 
 </details>
@@ -27678,7 +27693,7 @@ _Total events: 1703_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [A Legal Turning Point? | Candace Ep 292 @ 00:12:34](/episodes/ep-NIEbqsLAK8g.md#t-00-11-56)
+- [A Legal Turning Point? | Candace Ep 292 @ 00:12:34](/episodes/ep-NIEbqsLAK8g.md#t-00-12-12)
 
 </details>
 </div>
@@ -27738,8 +27753,8 @@ _Total events: 1703_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:12:06](/episodes/ep-ZZGWo6oDscc.md#t-00-11-44)
 - [Myron Gaines x Candace Owens @ 00:46:10](/episodes/ep-2T39-oADLj0.md#t-00-46-00)
+- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:12:06](/episodes/ep-ZZGWo6oDscc.md#t-00-12-06)
 
 </details>
 </div>
@@ -27770,9 +27785,9 @@ _Total events: 1703_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:12:25](/episodes/ep-ZZGWo6oDscc.md#t-00-12-25)
 - [Halftime Wars: TPUSA vs The NFL | Candace Ep 304 @ 00:28:30](/episodes/ep-4YgrOhhy708.md#t-00-28-07)
 - [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:28:32](/episodes/ep-MhakwJxK-Zk.md#t-00-28-32)
+- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:12:25](/episodes/ep-ZZGWo6oDscc.md#t-00-12-06)
 
 </details>
 </div>
@@ -27834,7 +27849,7 @@ _Total events: 1703_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:11:31](/episodes/ep-ZZGWo6oDscc.md#t-00-10-59)
+- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:11:31](/episodes/ep-ZZGWo6oDscc.md#t-00-11-31)
 - [BREAKING NEWS: We've Identified "SAM702" At For... @ 00:27:48](/episodes/ep-MhakwJxK-Zk.md#t-00-27-22)
 
 </details>
@@ -27907,7 +27922,7 @@ _Total events: 1703_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:11:01](/episodes/ep-ZZGWo6oDscc.md#t-00-10-59)
+- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:11:01](/episodes/ep-ZZGWo6oDscc.md#t-00-10-50)
 
 </details>
 </div>
@@ -28123,7 +28138,7 @@ _Total events: 1703_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:10:15](/episodes/ep-ZZGWo6oDscc.md#t-00-10-15)
+- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:10:15](/episodes/ep-ZZGWo6oDscc.md#t-00-10-10)
 
 </details>
 </div>
@@ -28153,7 +28168,7 @@ _Total events: 1703_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:09:57](/episodes/ep-ZZGWo6oDscc.md#t-00-09-30)
+- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:09:57](/episodes/ep-ZZGWo6oDscc.md#t-00-09-28)
 
 </details>
 </div>
@@ -29310,7 +29325,7 @@ _Total events: 1703_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [A Legal Turning Point? | Candace Ep 292 @ 00:41:09](/episodes/ep-NIEbqsLAK8g.md#t-00-40-49)
+- [A Legal Turning Point? | Candace Ep 292 @ 00:41:09](/episodes/ep-NIEbqsLAK8g.md#t-00-40-39)
 
 </details>
 </div>
@@ -29597,8 +29612,8 @@ _Total events: 1703_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:15:42](/episodes/ep-ZZGWo6oDscc.md#t-00-15-13)
-- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:14:58](/episodes/ep-ZZGWo6oDscc.md#t-00-14-32)
+- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:15:42](/episodes/ep-ZZGWo6oDscc.md#t-00-15-12)
+- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:14:58](/episodes/ep-ZZGWo6oDscc.md#t-00-14-42)
 
 </details>
 </div>
@@ -31329,7 +31344,7 @@ _Total events: 1703_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [PROJECT LOOKING GLASS: How Did Charlie Know He ... @ 00:50:38](/episodes/ep-BKcOm32ZEGk.md#t-00-50-21)
+- [PROJECT LOOKING GLASS: How Did Charlie Know He ... @ 00:50:38](/episodes/ep-BKcOm32ZEGk.md#t-00-50-38)
 - [Myron Gaines x Candace Owens @ 00:40:30](/episodes/ep-2T39-oADLj0.md#t-00-40-23)
 
 </details>
@@ -31715,7 +31730,7 @@ _Total events: 1703_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:17:08](/episodes/ep-ZZGWo6oDscc.md#t-00-16-43)
+- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:17:08](/episodes/ep-ZZGWo6oDscc.md#t-00-17-08)
 
 </details>
 </div>
@@ -31886,7 +31901,7 @@ _Total events: 1703_
 <div class="timeline-date">2023-10-07</div>
 <div class="timeline-desc"><a href="/events/event-2023-10-07-the-october-7-hamas-led-attack-on-israel.md">The October 7 Hamas-led attack on Israel occurred.</a></div>
 <div class="timeline-meta">
-<span class="timeline-badge mentions">18× in 7 eps</span>
+<span class="timeline-badge mentions">19× in 8 eps</span>
 <button class="share-btn" onclick="navigator.clipboard.writeText('2023-10-07: The October 7 Hamas-led attack on Israel occurred. - Content Knowledge Graph');this.textContent='✓';setTimeout(()=>this.textContent='📋',1500)" title="Copy">📋</button>
 </div>
 <details>
@@ -31910,6 +31925,7 @@ _Total events: 1703_
 - [Candace Owens x Ana Kasparian @ 00:20:56](/episodes/ep-SKNJPul29zU.md#t-00-20-56)
 - [Ivanka Trump “Discovers” An Island. Erika Kirk ... @ 00:33:28](/episodes/ep-tXoI0TTKVrs.md#t-00-33-19)
 - [EXCLUSIVE: Ben Shapiro’s 9/10 “Lunch” Date. Mor... @ 00:09:25](/episodes/ep-amqTMimDr0A.md#t-00-08-51)
+- [PROJECT LOOKING GLASS: How Did Charlie Know He ... @ 00:43:45](/episodes/ep-BKcOm32ZEGk.md#t-00-43-45)
 
 </details>
 </div>
@@ -33041,7 +33057,7 @@ _Total events: 1703_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:16:10](/episodes/ep-ZZGWo6oDscc.md#t-00-15-58)
+- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:16:10](/episodes/ep-ZZGWo6oDscc.md#t-00-15-51)
 
 </details>
 </div>
@@ -33275,7 +33291,7 @@ _Total events: 1703_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:16:01](/episodes/ep-ZZGWo6oDscc.md#t-00-15-58)
+- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:16:01](/episodes/ep-ZZGWo6oDscc.md#t-00-15-51)
 
 </details>
 </div>
@@ -34539,7 +34555,7 @@ _Total events: 1703_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [A Legal Turning Point? | Candace Ep 292 @ 00:14:22](/episodes/ep-NIEbqsLAK8g.md#t-00-14-04)
+- [A Legal Turning Point? | Candace Ep 292 @ 00:14:22](/episodes/ep-NIEbqsLAK8g.md#t-00-14-16)
 
 </details>
 </div>
@@ -35365,7 +35381,7 @@ _Total events: 1703_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [PROJECT LOOKING GLASS: How Did Charlie Know He ... @ 00:35:48](/episodes/ep-BKcOm32ZEGk.md#t-00-35-19)
+- [PROJECT LOOKING GLASS: How Did Charlie Know He ... @ 00:35:48](/episodes/ep-BKcOm32ZEGk.md#t-00-35-17)
 
 </details>
 </div>
@@ -36543,7 +36559,7 @@ _Total events: 1703_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:52:00](/episodes/ep-ZZGWo6oDscc.md#t-00-51-34)
+- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:52:00](/episodes/ep-ZZGWo6oDscc.md#t-00-52-00)
 
 </details>
 </div>
@@ -36558,7 +36574,7 @@ _Total events: 1703_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [PROJECT LOOKING GLASS: How Did Charlie Know He ... @ 00:19:11](/episodes/ep-BKcOm32ZEGk.md#t-00-18-58)
+- [PROJECT LOOKING GLASS: How Did Charlie Know He ... @ 00:19:11](/episodes/ep-BKcOm32ZEGk.md#t-00-18-43)
 
 </details>
 </div>
@@ -38032,7 +38048,7 @@ _Total events: 1703_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [A Legal Turning Point? | Candace Ep 292 @ 00:47:50](/episodes/ep-NIEbqsLAK8g.md#t-00-47-30)
+- [A Legal Turning Point? | Candace Ep 292 @ 00:47:50](/episodes/ep-NIEbqsLAK8g.md#t-00-47-50)
 
 </details>
 </div>
@@ -40043,7 +40059,7 @@ _Total events: 1703_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:28:05](/episodes/ep-ZZGWo6oDscc.md#t-00-28-05)
+- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:28:05](/episodes/ep-ZZGWo6oDscc.md#t-00-27-54)
 
 </details>
 </div>
@@ -40101,7 +40117,7 @@ _Total events: 1703_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:27:54](/episodes/ep-ZZGWo6oDscc.md#t-00-27-22)
+- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:27:54](/episodes/ep-ZZGWo6oDscc.md#t-00-27-54)
 
 </details>
 </div>
@@ -40295,7 +40311,7 @@ _Total events: 1703_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [A Legal Turning Point? | Candace Ep 292 @ 00:09:28](/episodes/ep-NIEbqsLAK8g.md#t-00-09-03)
+- [A Legal Turning Point? | Candace Ep 292 @ 00:09:28](/episodes/ep-NIEbqsLAK8g.md#t-00-08-59)
 
 </details>
 </div>
@@ -40334,7 +40350,7 @@ _Total events: 1703_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:21:17](/episodes/ep-ZZGWo6oDscc.md#t-00-20-56)
+- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:21:17](/episodes/ep-ZZGWo6oDscc.md#t-00-21-15)
 
 </details>
 </div>
@@ -40535,7 +40551,7 @@ _Total events: 1703_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:22:43](/episodes/ep-ZZGWo6oDscc.md#t-00-22-07)
+- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:22:43](/episodes/ep-ZZGWo6oDscc.md#t-00-22-27)
 
 </details>
 </div>
@@ -40574,7 +40590,7 @@ _Total events: 1703_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [A Legal Turning Point? | Candace Ep 292 @ 00:04:37](/episodes/ep-NIEbqsLAK8g.md#t-00-04-16)
+- [A Legal Turning Point? | Candace Ep 292 @ 00:04:37](/episodes/ep-NIEbqsLAK8g.md#t-00-04-02)
 
 </details>
 </div>
@@ -40818,7 +40834,7 @@ _Total events: 1703_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:22:19](/episodes/ep-ZZGWo6oDscc.md#t-00-22-07)
+- [CODE RED: Another TPUSA Trafficking Scandal?! |... @ 00:22:19](/episodes/ep-ZZGWo6oDscc.md#t-00-21-58)
 
 </details>
 </div>
@@ -40861,7 +40877,7 @@ _Total events: 1703_
 <details>
 <summary style="font-size:0.85em;color:var(--gray);cursor:pointer;">Show episode mentions</summary>
 
-- [A Legal Turning Point? | Candace Ep 292 @ 00:14:41](/episodes/ep-NIEbqsLAK8g.md#t-00-14-04)
+- [A Legal Turning Point? | Candace Ep 292 @ 00:14:41](/episodes/ep-NIEbqsLAK8g.md#t-00-14-16)
 
 </details>
 </div>

@@ -17,8 +17,8 @@ _Type: People_
 Source: [Gloria Steinem | Biography | Britannica](https://www.britannica.com/biography/Gloria-Steinem)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-person-gloria-steinem-t-00-04-29">2026-01-16 · 00:04:44</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-person-gloria-steinem-t-00-04-29">2026-01-16 · 00:04:44</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-person-gloria-steinem-t-00-04-29">2026-01-16 · 00:04:41</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-person-gloria-steinem-t-00-04-29">2026-01-16 · 00:04:41</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -50,7 +50,7 @@ Source: [Gloria Steinem | Biography | Britannica](https://www.britannica.com/bio
 <details>
 <summary>Myron Gaines x Candace Owens (1 mentions)</summary>
 
-**[00:04:44](/episodes/ep-2T39-oADLj0.md#ent-person-gloria-steinem-t-00-04-29)**
+**[00:04:41](/episodes/ep-2T39-oADLj0.md#ent-person-gloria-steinem-t-00-04-29)**
 > "Gloria Steinem was sponsored by the CIA"
 
 </details>

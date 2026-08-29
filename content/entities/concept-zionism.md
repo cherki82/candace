@@ -1,6 +1,6 @@
 ---
 title: "Zionism"
-description: "Zionism (Concepts) - 343 mentions"
+description: "Zionism (Concepts) - 342 mentions"
 id: "concept-zionism"
 type: "CONCEPT"
 aliases:
@@ -26,7 +26,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-concept-zionism-t-00-31-15">2025-09-18 · 00:31:27</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-d7VsbEIWkP8.md#ent-concept-zionism-t-00-48-49">2026-08-07 · 00:49:00</a></strong></div>
 <div><span>Episodes</span><strong>79</strong></div>
-<div><span>Mentions</span><strong>343</strong></div>
+<div><span>Mentions</span><strong>342</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>31</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -65,8 +65,8 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <a href="/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-11-15" style="--pulse-height:43%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 6 mentions" title="2025-12-03 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-concept-zionism-t-00-54-08" style="--pulse-height:8%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 1 mentions" title="2025-12-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-zionism-t-00-04-51" style="--pulse-height:43%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 6 mentions" title="2026-01-12 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-zionism-t-00-03-48" style="--pulse-height:14%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-zionism-t-00-52-31" style="--pulse-height:21%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 3 mentions" title="2026-01-14 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-zionism-t-00-03-45" style="--pulse-height:14%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-zionism-t-00-51-56" style="--pulse-height:14%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-concept-zionism-t-00-31-31" style="--pulse-height:93%" aria-label="Myron Gaines x Candace Owens: 13 mentions" title="2026-01-16 · 13 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-zionism-t-00-28-19" style="--pulse-height:50%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 7 mentions" title="2026-01-20 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-zionism-t-00-00-40" style="--pulse-height:43%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 6 mentions" title="2026-01-22 · 6 mentions"><span></span></a>
@@ -149,8 +149,8 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-concept-zionism-t-00-11-15) | 6 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-concept-zionism-t-00-54-08) | 1 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-zionism-t-00-04-51) | 6 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-zionism-t-00-03-48) | 2 |
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-zionism-t-00-52-31) | 3 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-zionism-t-00-03-45) | 2 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-zionism-t-00-51-56) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-zionism-t-00-31-31) | 13 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-zionism-t-00-28-19) | 7 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-zionism-t-00-00-40) | 6 |
@@ -207,7 +207,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (343)</strong></summary>
+<summary><strong class="section-title">Raw mentions (342)</strong></summary>
 
 <details>
 <summary>A Shocking Truth Revealed In The “4K” Footage. Beavis and Butt-Head Send A Messenger… | Ep 373 (6 mentions)</summary>
@@ -708,7 +708,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 **[00:52:34](/episodes/ep-i8m_6D4QGmk.md#ent-concept-zionism-t-00-52-34)**
 > "because Zionists didn't like her Catholic perspectives"
 
-**[00:53:38](/episodes/ep-i8m_6D4QGmk.md#ent-concept-zionism-t-00-53-11)**
+**[00:53:38](/episodes/ep-i8m_6D4QGmk.md#ent-concept-zionism-t-00-52-34)**
 > "Allow the Christian Zionists, the ones who make videos telling you how devilis..."
 
 **[00:53:52](/episodes/ep-i8m_6D4QGmk.md#ent-concept-zionism-t-00-53-52)**
@@ -989,7 +989,7 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 **[00:31:31](/episodes/ep-2T39-oADLj0.md#ent-concept-zionism-t-00-31-31)**
 > "...ersial topic when it comes to zionism jewish power and these other things um and it led..."
 
-**[00:36:27](/episodes/ep-2T39-oADLj0.md#ent-concept-zionism-t-00-36-24)**
+**[00:36:24](/episodes/ep-2T39-oADLj0.md#ent-concept-zionism-t-00-36-24)**
 > "the Zionist lobby found out and they publicly posted it was l..."
 
 **[00:36:37](/episodes/ep-2T39-oADLj0.md#ent-concept-zionism-t-00-36-37)**
@@ -998,36 +998,33 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 **[00:40:07](/episodes/ep-2T39-oADLj0.md#ent-concept-zionism-t-00-40-07)**
 > "...at other ways i guess has the zionist lobby came after you i've seen adl articles i've ..."
 
-**[00:43:51](/episodes/ep-2T39-oADLj0.md#ent-concept-zionism-t-00-43-42)**
+**[00:43:42](/episodes/ep-2T39-oADLj0.md#ent-concept-zionism-t-00-43-42)**
 > "against the Zionist lobby and this rule that you can't speak to Nick ..."
 
 **[00:44:36](/episodes/ep-2T39-oADLj0.md#ent-concept-zionism-t-00-44-24)**
 > "...ut the true free markets that Zionists can't stand they're constantly manipulating the m..."
 
-**[00:45:38](/episodes/ep-2T39-oADLj0.md#ent-concept-zionism-t-00-45-36)**
+**[00:45:36](/episodes/ep-2T39-oADLj0.md#ent-concept-zionism-t-00-45-36)**
 > "what is up with the Zionist lobby that they're going after 18 year old kids f..."
 
-**[00:54:53](/episodes/ep-2T39-oADLj0.md#ent-concept-zionism-t-00-54-48)**
+**[00:54:48](/episodes/ep-2T39-oADLj0.md#ent-concept-zionism-t-00-45-36)**
 > "Christian Zionist influencers have been losing their minds about th..."
 
-**[00:55:03](/episodes/ep-2T39-oADLj0.md#ent-concept-zionism-t-00-54-48)**
+**[00:55:00](/episodes/ep-2T39-oADLj0.md#ent-concept-zionism-t-00-45-36)**
 > "why are Christian Zionists trying to use Bible verses to say that we shouldn..."
 
-**[00:56:52](/episodes/ep-2T39-oADLj0.md#ent-concept-zionism-t-00-56-52)**
+**[00:56:52](/episodes/ep-2T39-oADLj0.md#ent-concept-zionism-t-00-45-36)**
 > "...o be anything but a christian zionist um and he was changing in the last few weeks i wh..."
 
 </details>
 
 <details>
-<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (3 mentions)</summary>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (2 mentions)</summary>
 
-**[00:52:31](/episodes/ep-BKcOm32ZEGk.md#ent-concept-zionism-t-00-52-31)**
-> "Why would I want Zionists to have control"
-
-**[00:52:23](/episodes/ep-BKcOm32ZEGk.md#ent-concept-zionism-t-00-51-49)**
+**[00:52:23](/episodes/ep-BKcOm32ZEGk.md#ent-concept-zionism-t-00-51-56)**
 > "...rolling anything and that the Zionists are controlling his entire cabinet,"
 
-**[00:52:34](/episodes/ep-BKcOm32ZEGk.md#ent-concept-zionism-t-00-52-31)**
+**[00:52:34](/episodes/ep-BKcOm32ZEGk.md#ent-concept-zionism-t-00-52-34)**
 > "Why would I want Zionists to have control,"
 
 </details>
@@ -1035,10 +1032,10 @@ Source: [Holocaust Encyclopedia Glossary - U.S. Holocaust Memorial Museum](https
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2 mentions)</summary>
 
-**[00:04:06](/episodes/ep-ZZGWo6oDscc.md#ent-concept-zionism-t-00-03-48)**
+**[00:04:03](/episodes/ep-ZZGWo6oDscc.md#ent-concept-zionism-t-00-03-45)**
 > "infiltrated a bunch of Zionists. They're lobbying on behalf of Israel."
 
-**[00:49:46](/episodes/ep-ZZGWo6oDscc.md#ent-concept-zionism-t-00-49-46)**
+**[00:49:40](/episodes/ep-ZZGWo6oDscc.md#ent-concept-zionism-t-00-49-40)**
 > "the Zionists wanted to put them in prisons by having no charge..."
 
 </details>

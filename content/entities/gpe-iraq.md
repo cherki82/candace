@@ -287,13 +287,13 @@ Source: [Iraq - The World Factbook](https://www.cia.gov/the-world-factbook/count
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (3 mentions)</summary>
 
-**[00:06:32](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iraq-t-00-06-25)**
+**[00:06:25](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iraq-t-00-06-25)**
 > "... You wouldn't want to live in Iraq."
 
 **[00:06:40](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iraq-t-00-06-25)**
 > "Do I want to live in Iraq?"
 
-**[00:20:30](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iraq-t-00-20-15)**
+**[00:20:30](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-iraq-t-00-20-30)**
 > "...vietnam he was in japan korea iraq israel you name it all over the place throughout ..."
 
 </details>

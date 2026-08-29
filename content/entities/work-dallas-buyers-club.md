@@ -16,8 +16,8 @@ _Type: Works & Media_
 Source: [Dallas Buyers Club - Focus Features](https://www.focusfeatures.com/dallas_buyers_club)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-work-dallas-buyers-club-t-00-15-28">2026-01-19 · 00:15:37</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-work-dallas-buyers-club-t-00-15-28">2026-01-19 · 00:15:37</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-work-dallas-buyers-club-t-00-15-32">2026-01-19 · 00:15:37</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-work-dallas-buyers-club-t-00-15-32">2026-01-19 · 00:15:37</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -28,15 +28,15 @@ Source: [Dallas Buyers Club - Focus Features](https://www.focusfeatures.com/dall
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-work-dallas-buyers-club-t-00-15-28">A Legal Turning Point? | Candace Ep 292</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-work-dallas-buyers-club-t-00-15-32">A Legal Turning Point? | Candace Ep 292</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-work-dallas-buyers-club-t-00-15-28" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-work-dallas-buyers-club-t-00-15-32" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-work-dallas-buyers-club-t-00-15-28) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-work-dallas-buyers-club-t-00-15-32) | 1 |
 
 </details>
 </section>
@@ -49,7 +49,7 @@ Source: [Dallas Buyers Club - Focus Features](https://www.focusfeatures.com/dall
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
 
-**[00:15:37](/episodes/ep-NIEbqsLAK8g.md#ent-work-dallas-buyers-club-t-00-15-28)**
+**[00:15:37](/episodes/ep-NIEbqsLAK8g.md#ent-work-dallas-buyers-club-t-00-15-32)**
 > "All of this to say maybe the Dallas Buyers Club might get a new meaning."
 
 </details>

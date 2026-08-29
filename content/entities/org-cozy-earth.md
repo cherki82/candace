@@ -21,7 +21,7 @@ _Type: Organizations_
 Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-cozy-earth-t-00-39-00">2026-01-13 · 00:39:36</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-cozy-earth-t-00-39-00">2026-01-13 · 00:39:30</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-org-cozy-earth-t-00-29-48">2026-08-04 · 00:29:58</a></strong></div>
 <div><span>Episodes</span><strong>9</strong></div>
 <div><span>Mentions</span><strong>43</strong></div>
@@ -230,10 +230,10 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (3 mentions)</summary>
 
-**[00:39:36](/episodes/ep-ZZGWo6oDscc.md#ent-org-cozy-earth-t-00-39-00)**
+**[00:39:30](/episodes/ep-ZZGWo6oDscc.md#ent-org-cozy-earth-t-00-39-00)**
 > "That's why I love Cozy Earth."
 
-**[00:39:48](/episodes/ep-ZZGWo6oDscc.md#ent-org-cozy-earth-t-00-39-46)**
+**[00:39:45](/episodes/ep-ZZGWo6oDscc.md#ent-org-cozy-earth-t-00-39-45)**
 > "Cozy Earth offers a 100-night sleep trial."
 
 **[00:40:10](/episodes/ep-ZZGWo6oDscc.md#ent-org-cozy-earth-t-00-40-10)**
@@ -250,11 +250,12 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 <summary>Endorsed By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)**
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:39:33](/episodes/ep-H9p2ZGHAs9A.md#t-00-39-06): “Cozy Earth offers a 100-night sleep trial so you can experience the comfort in your own home. Plus, everything is backed by a 10-year warranty, which just shows how much confidence they have in the quality and craftsmanship.”
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:29:51](/episodes/ep-cPidFQDJLbo.md#t-00-29-34): “That's why I have been loving my Cozy Earth brushed bamboo jogger set lately. It is seriously one of the softest things I own, but what really sold me is how cooling and breathable it feels.”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:58:42](/episodes/ep-EtLHqDbxqks.md#t-00-58-27): “Made from viscose, bamboo, breathable, soft, and built for summer. Head to CozyEarth.com and use my code CANDICE for an exclusive 20% off.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:39:30](/episodes/ep-ZZGWo6oDscc.md#t-00-39-00): “Fresh sheets, luxe towels, quality pajamas, those small changes completely change how your home feels. That's why I love Cozy Earth.”
 
 </details>
 
@@ -264,11 +265,12 @@ Source: [Our Story | About Us | Cozy Earth](https://cozyearth.com/pages/about-us
 <summary>Referenced By (1)</summary>
 
 - **[Candace Owens](/entities/person-candace-owens.md)** endorsed this
-<details class="relationship-evidence"><summary>Show all evidence (3)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (4)</summary>
 
 - [EXPLOSIVE! What Erika Kirk Was Doing In Epstein's Orbit… | Candace Ep 310 @ 00:39:33](/episodes/ep-H9p2ZGHAs9A.md#t-00-39-06): “Cozy Earth offers a 100-night sleep trial so you can experience the comfort in your own home. Plus, everything is backed by a 10-year warranty, which just shows how much confidence they have in the quality and craftsmanship.”
 - [TRENDING! I Send Out Some Legal Letters. Victor Marx's Bizarre Text To Erika Goes Viral. | Ep 342 @ 00:29:51](/episodes/ep-cPidFQDJLbo.md#t-00-29-34): “That's why I have been loving my Cozy Earth brushed bamboo jogger set lately. It is seriously one of the softest things I own, but what really sold me is how cooling and breathable it feels.”
 - [I’M BACK! And The Tyler Robinson Show Trial Begins... | Ep 358 @ 00:58:42](/episodes/ep-EtLHqDbxqks.md#t-00-58-27): “Made from viscose, bamboo, breathable, soft, and built for summer. Head to CozyEarth.com and use my code CANDICE for an exclusive 20% off.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:39:30](/episodes/ep-ZZGWo6oDscc.md#t-00-39-00): “Fresh sheets, luxe towels, quality pajamas, those small changes completely change how your home feels. That's why I love Cozy Earth.”
 
 </details>
 

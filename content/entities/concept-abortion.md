@@ -1,6 +1,6 @@
 ---
 title: "Abortion"
-description: "Abortion (Concepts) - 10 mentions"
+description: "Abortion (Concepts) - 11 mentions"
 id: "concept-abortion"
 type: "CONCEPT"
 categories:
@@ -18,8 +18,8 @@ Source: [World Health Organization: Abortion](https://www.who.int/health-topics/
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-abortion-t-00-28-30">2026-01-12 · 00:28:30</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-concept-abortion-t-00-26-59">2026-08-04 · 00:26:59</a></strong></div>
-<div><span>Episodes</span><strong>8</strong></div>
-<div><span>Mentions</span><strong>10</strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>11</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>0</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -31,6 +31,7 @@ Source: [World Health Organization: Abortion](https://www.who.int/health-topics/
 <p>Highest activity: <a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-abortion-t-00-11-40">BAAL SO HARD: The Epstein Files | Candace Ep 300</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-abortion-t-00-28-30" style="--pulse-height:50%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-abortion-t-00-29-34" style="--pulse-height:50%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-abortion-t-00-11-40" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-concept-abortion-t-00-28-06" style="--pulse-height:50%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-abortion-t-00-29-24" style="--pulse-height:50%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
@@ -44,6 +45,7 @@ Source: [World Health Organization: Abortion](https://www.who.int/health-topics/
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-abortion-t-00-28-30) | 1 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-abortion-t-00-29-34) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-abortion-t-00-11-40) | 2 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-abortion-t-00-28-06) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-concept-abortion-t-00-29-24) | 1 |
@@ -58,7 +60,7 @@ Source: [World Health Organization: Abortion](https://www.who.int/health-topics/
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (10)</strong></summary>
+<summary><strong class="section-title">Raw mentions (11)</strong></summary>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (1 mentions)</summary>
@@ -119,6 +121,14 @@ Source: [World Health Organization: Abortion](https://www.who.int/health-topics/
 
 **[00:32:17](/episodes/ep-CEF7gQRWYCE.md#ent-concept-abortion-t-00-31-49)**
 > "...the same devastating lie that abortion is their only option,"
+
+</details>
+
+<details>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
+
+**[00:29:53](/episodes/ep-BKcOm32ZEGk.md#ent-concept-abortion-t-00-29-34)**
+> "...g emotional distress after an abortion."
 
 </details>
 

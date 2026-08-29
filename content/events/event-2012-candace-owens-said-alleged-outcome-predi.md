@@ -14,7 +14,7 @@ date: "2012"
 ## Mentioned In
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
-**Timestamp:** [00:52:00](/episodes/ep-ZZGWo6oDscc.md#event-event-2012-candace-owens-said-alleged-outcome-predi-t-00-51-34) 
+**Timestamp:** [00:52:00](/episodes/ep-ZZGWo6oDscc.md#event-event-2012-candace-owens-said-alleged-outcome-predi-t-00-52-00) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(3120);return false;">▶️ Play</a>
 
 > technology that allowed them to predict outcomes and that technology stopped working in 2012

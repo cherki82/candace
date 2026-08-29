@@ -11,7 +11,7 @@ object: "person-erika-kirk"
 
 ## [China](/entities/gpe-china) former residence of [Erika Kirk](/entities/person-erika-kirk)
 
-### Evidence (3 mentions)
+### Evidence (4 mentions)
 
 **[Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY)**
 
@@ -20,6 +20,10 @@ object: "person-erika-kirk"
 **[Bride Of Charlie: Crazy In Love | Episode 7](/episodes/ep-DdPjoy5W-wY)**
 
 - [00:33:17](/episodes/ep-DdPjoy5W-wY#t-00-33-17): _I was living in China_
+
+**[A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g)**
+
+- [00:31:23](/episodes/ep-NIEbqsLAK8g#t-00-31-23): _I was living in China and doing a lot of work with the victims from sex trafficking_
 
 **[Erika No-Shows JD Vance. Public Relations Lies About Why. | Candace Ep 325](/episodes/ep-SubDoZWHARo)**
 

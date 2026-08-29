@@ -49,7 +49,7 @@ Source: [Washington, DC](https://dc.gov/)
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-gpe-washington-d-c-t-00-34-58" style="--pulse-height:62%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 5 mentions" title="2025-12-20 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-washington-d-c-t-00-14-53" style="--pulse-height:12%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-washington-d-c-t-00-19-13" style="--pulse-height:12%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-washington-d-c-t-00-10-59" style="--pulse-height:25%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-washington-d-c-t-00-10-50" style="--pulse-height:25%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#t-00-18-50" style="--pulse-height:12%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-washington-d-c-t-00-07-13" style="--pulse-height:12%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#t-01-04-00" style="--pulse-height:25%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 2 mentions" title="2026-01-21 · 2 mentions"><span></span></a>
@@ -93,7 +93,7 @@ Source: [Washington, DC](https://dc.gov/)
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-gpe-washington-d-c-t-00-34-58) | 5 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-washington-d-c-t-00-14-53) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-washington-d-c-t-00-19-13) | 1 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-washington-d-c-t-00-10-59) | 2 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-washington-d-c-t-00-10-50) | 2 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#t-00-18-50) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-washington-d-c-t-00-07-13) | 1 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#t-01-04-00) | 2 |
@@ -476,7 +476,7 @@ Source: [Washington, DC](https://dc.gov/)
 <details>
 <summary>Myron Gaines x Candace Owens (1 mentions)</summary>
 
-**[00:19:00](/episodes/ep-2T39-oADLj0.md#t-00-18-50)**
+**[00:18:55](/episodes/ep-2T39-oADLj0.md#t-00-18-50)**
 > "...scary and sinister that is in DC,"
 
 </details>
@@ -484,10 +484,10 @@ Source: [Washington, DC](https://dc.gov/)
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2 mentions)</summary>
 
-**[00:11:23](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-washington-d-c-t-00-10-59)**
+**[00:11:18](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-washington-d-c-t-00-10-50)**
 > "..., who knows, maybe it went to D.C."
 
-**[00:11:27](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-washington-d-c-t-00-10-59)**
+**[00:11:27](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-washington-d-c-t-00-10-50)**
 > "...e could have actually gone to D.C. I don't know. I shouldn't even say it went back t..."
 
 </details>
@@ -657,7 +657,7 @@ Source: [Washington, DC](https://dc.gov/)
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
 
-- [00:07:11](/episodes/ep-ZZGWo6oDscc.md#t-00-07-08) (Accusation) **Candace Owens**: ["I think personally he's got the largest blackmail file, whatever Israe..."](/statements/statement-7c2487d3cfc3.md)
+- [00:07:11](/episodes/ep-ZZGWo6oDscc.md#t-00-07-06) (Accusation) **Candace Owens**: ["I think personally he's got the largest blackmail file, whatever Israe..."](/statements/statement-7c2487d3cfc3.md)
   - Also about: [Lindsey Graham](/entities/person-lindsey-graham.md), [Israel](/entities/gpe-israel.md)
 
 </details>

@@ -17,7 +17,7 @@ _Type: People_
 Source: [Timeline of the Assange legal saga | AP](https://apnews.com/article/0e378a85871a6c42cee6399aa8a78e69)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-julian-assange-t-00-42-53">2026-01-14 · 00:42:56</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-julian-assange-t-00-42-36">2026-01-14 · 00:42:56</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-julian-assange-t-00-57-33">2026-02-02 · 00:57:33</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
@@ -31,14 +31,14 @@ Source: [Timeline of the Assange legal saga | AP](https://apnews.com/article/0e3
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-julian-assange-t-00-14-00">BAAL SO HARD: The Epstein Files | Candace Ep 300</a> (2 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-julian-assange-t-00-42-53" style="--pulse-height:50%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-julian-assange-t-00-42-36" style="--pulse-height:50%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-person-julian-assange-t-00-14-00" style="--pulse-height:100%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 2 mentions" title="2026-02-02 · 2 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-julian-assange-t-00-42-53) | 1 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-julian-assange-t-00-42-36) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-person-julian-assange-t-00-14-00) | 2 |
 
 </details>
@@ -63,7 +63,7 @@ Source: [Timeline of the Assange legal saga | AP](https://apnews.com/article/0e3
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
 
-**[00:42:56](/episodes/ep-BKcOm32ZEGk.md#ent-person-julian-assange-t-00-42-53)**
+**[00:42:56](/episodes/ep-BKcOm32ZEGk.md#ent-person-julian-assange-t-00-42-36)**
 > "Julian Assange"
 
 </details>
@@ -83,7 +83,7 @@ _No relationships extracted yet._
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1)</summary>
 
-- [00:43:19](/episodes/ep-BKcOm32ZEGk.md#t-00-42-53) (Accusation) **Candace Owens** (via paraphrase): ["Mike Pompeo discussed options to take out Julian Assange."](/statements/statement-a3341945112a.md)
+- [00:43:19](/episodes/ep-BKcOm32ZEGk.md#t-00-43-19) (Accusation) **Candace Owens** (via paraphrase): ["Mike Pompeo discussed options to take out Julian Assange."](/statements/statement-a3341945112a.md)
   - Also about: [Mike Pompeo](/entities/person-mike-pompeo.md), [Central Intelligence Agency](/entities/org-central-intelligence-agency.md)
 
 </details>

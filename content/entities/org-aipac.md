@@ -24,7 +24,7 @@ Source: [About AIPAC](https://aipac.org/about)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-org-aipac-t-00-30-01">2025-09-19 · 00:30:01</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-amqTMimDr0A.md#ent-org-aipac-t-00-25-38">2026-07-23 · 00:25:38</a></strong></div>
-<div><span>Episodes</span><strong>21</strong></div>
+<div><span>Episodes</span><strong>22</strong></div>
 <div><span>Mentions</span><strong>41</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>13</strong></div>
@@ -45,6 +45,7 @@ Source: [About AIPAC](https://aipac.org/about)
 <a href="/episodes/ep-yAIb-NuUh_U.md#ent-org-aipac-t-00-57-10" style="--pulse-height:12%" aria-label="What Did Charlie Kirk Discover Near The End? | Candace Ep 264: 1 mentions" title="2025-11-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-org-aipac-t-00-55-59" style="--pulse-height:12%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-org-aipac-t-00-56-20" style="--pulse-height:25%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 2 mentions" title="2025-12-17 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-aipac-t-00-43-48" style="--pulse-height:12%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-aipac-t-00-00-41" style="--pulse-height:12%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-org-aipac-t-00-53-12" style="--pulse-height:12%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-69A8TzAGHlU.md#ent-org-aipac-t-00-51-44" style="--pulse-height:12%" aria-label="BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331: 1 mentions" title="2026-04-30 · 1 mentions"><span></span></a>
@@ -71,6 +72,7 @@ Source: [About AIPAC](https://aipac.org/about)
 | 2025-11-13 | [What Did Charlie Kirk Discover Near The End? | Candace Ep 264](/episodes/ep-yAIb-NuUh_U.md#ent-org-aipac-t-00-57-10) | 1 |
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-org-aipac-t-00-55-59) | 1 |
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-org-aipac-t-00-56-20) | 2 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-aipac-t-00-43-48) | 1 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-aipac-t-00-00-41) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-org-aipac-t-00-53-12) | 1 |
 | 2026-04-30 | [BREAKING NEWS: Brian Harpole Sues Me! | Candace Ep 331](/episodes/ep-69A8TzAGHlU.md#ent-org-aipac-t-00-51-44) | 1 |
@@ -204,6 +206,14 @@ Source: [About AIPAC](https://aipac.org/about)
 </details>
 
 <details>
+<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
+
+**[00:44:18](/episodes/ep-ZZGWo6oDscc.md#ent-org-aipac-t-00-43-48)**
+> "obviously. Obviously. Anyways, he writes, Candace Anthony Aguilar, the Gaza whistleblower, Green Beret, I've been to Gaza. I was arrested on the 3rd of September in Congress for calling out AIPAC. I'd love to come on and talk."
+
+</details>
+
+<details>
 <summary>BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281 (2 mentions)</summary>
 
 **[00:56:29](/episodes/ep-9k2xrAC0H88.md#ent-org-aipac-t-00-56-20)**
@@ -319,7 +329,7 @@ Source: [About AIPAC](https://aipac.org/about)
 - **[Anthony Aguilar](/entities/person-anthony-aguilar.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:44:20](/episodes/ep-ZZGWo6oDscc.md#t-00-43-53): “Anthony Aguilar, the Gaza whistleblower, Green Beret, I've been to Gaza. I was arrested on the 3rd of September in Congress for calling out APAC.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:44:20](/episodes/ep-ZZGWo6oDscc.md#t-00-43-48): “Anthony Aguilar, the Gaza whistleblower, Green Beret, I've been to Gaza. I was arrested on the 3rd of September in Congress for calling out AIPAC.”
 
 </details>
 
@@ -376,7 +386,7 @@ Source: [About AIPAC](https://aipac.org/about)
 - **[Anthony Aguilar](/entities/person-anthony-aguilar.md)** criticized this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:44:20](/episodes/ep-ZZGWo6oDscc.md#t-00-43-53): “Anthony Aguilar, the Gaza whistleblower, Green Beret, I've been to Gaza. I was arrested on the 3rd of September in Congress for calling out APAC.”
+- [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 @ 00:44:20](/episodes/ep-ZZGWo6oDscc.md#t-00-43-48): “Anthony Aguilar, the Gaza whistleblower, Green Beret, I've been to Gaza. I was arrested on the 3rd of September in Congress for calling out AIPAC.”
 
 </details>
 
@@ -467,7 +477,7 @@ Source: [About AIPAC](https://aipac.org/about)
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
 
-- [00:44:19](/episodes/ep-ZZGWo6oDscc.md#t-00-43-53) (Claim) **Anthony Aguilar** (via quoted post): ["I was arrested on September 3 in Congress for calling out AIPAC."](/statements/statement-09e4671aaede.md)
+- [00:44:18](/episodes/ep-ZZGWo6oDscc.md#t-00-43-48) (Claim) **Anthony Aguilar** (via quoted post): ["I was arrested on September 3 in Congress for calling out AIPAC."](/statements/statement-09e4671aaede.md)
   - Also about: [Anthony Aguilar](/entities/person-anthony-aguilar.md), [United States Congress](/entities/org-united-states-congress.md)
 
 </details>

@@ -165,7 +165,7 @@ Source: [Barack Obama | whitehouse.gov](https://obamawhitehouse.archives.gov/160
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:08:17](/episodes/ep-ZZGWo6oDscc.md#ent-person-barack-obama-t-00-08-02)**
+**[00:08:13](/episodes/ep-ZZGWo6oDscc.md#ent-person-barack-obama-t-00-08-02)**
 > "Trump is not Barack Obama."
 
 </details>

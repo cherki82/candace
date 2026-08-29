@@ -284,7 +284,7 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 - **[Nick Fuentes](/entities/person-nick-fuentes.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:40:07](/episodes/ep-X92MllIHDzw.md#t-00-39-31): “the night before by Milo Yiannopoulos.”
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:40:07](/episodes/ep-X92MllIHDzw.md#t-00-39-31): “And we know for a fact, he was informed the night before, the night before by Milo Yiannopoulos. That the feds were going to beat that there was there was some Fed trap happening. And despite that, he went with a bullhorn, didn't just attend, he had a bullhorn and he's telling people to storm and he doesn't get arrested.”
 
 </details>
 
@@ -345,7 +345,7 @@ Source: [Milo Yiannopoulos: Who is the alt-right writer and provocateur? - BBC N
 - **[Nick Fuentes](/entities/person-nick-fuentes.md)** warned by this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:40:07](/episodes/ep-X92MllIHDzw.md#t-00-39-31): “the night before by Milo Yiannopoulos.”
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:40:07](/episodes/ep-X92MllIHDzw.md#t-00-39-31): “And we know for a fact, he was informed the night before, the night before by Milo Yiannopoulos. That the feds were going to beat that there was there was some Fed trap happening. And despite that, he went with a bullhorn, didn't just attend, he had a bullhorn and he's telling people to storm and he doesn't get arrested.”
 
 </details>
 

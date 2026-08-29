@@ -1,6 +1,6 @@
 ---
 title: "Free market"
-description: "Free market (Concepts) - 12 mentions"
+description: "Free market (Concepts) - 14 mentions"
 id: "concept-free-market"
 type: "CONCEPT"
 aliases:
@@ -18,8 +18,8 @@ _Type: Concepts_
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-free-market-t-00-00-00">2026-01-12 · 00:00:22</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-IqHsl7d2dos.md#ent-concept-free-market-t-00-25-41">2026-06-26 · 00:25:52</a></strong></div>
-<div><span>Episodes</span><strong>7</strong></div>
-<div><span>Mentions</span><strong>12</strong></div>
+<div><span>Episodes</span><strong>9</strong></div>
+<div><span>Mentions</span><strong>14</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -31,6 +31,8 @@ _Type: Concepts_
 <p>Highest activity: <a href="/episodes/ep-Pb7UlpRdW6U.md#ent-concept-free-market-t-00-29-22">SUSPICIOUS: More Bizarre Details From WHCD Shooting. Was It Staged? | Candace Ep 339</a> (6 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-free-market-t-00-00-00" style="--pulse-height:17%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-concept-free-market-t-00-44-24" style="--pulse-height:17%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-concept-free-market-t-00-14-06" style="--pulse-height:17%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-concept-free-market-t-00-17-21" style="--pulse-height:17%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-1IY2oD-_xVA.md#ent-concept-free-market-t-00-59-05" style="--pulse-height:17%" aria-label="Bride Of Charlie: Dr. Jerri &amp; Mrs. Hyde | Episode 2: 1 mentions" title="2026-02-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k1b1NDCrNFs.md#ent-concept-free-market-t-00-48-54" style="--pulse-height:17%" aria-label="Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334: 1 mentions" title="2026-05-06 · 1 mentions"><span></span></a>
@@ -43,6 +45,8 @@ _Type: Concepts_
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-free-market-t-00-00-00) | 1 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-free-market-t-00-44-24) | 1 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-concept-free-market-t-00-14-06) | 1 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-concept-free-market-t-00-17-21) | 1 |
 | 2026-02-27 | [Bride Of Charlie: Dr. Jerri & Mrs. Hyde | Episode 2](/episodes/ep-1IY2oD-_xVA.md#ent-concept-free-market-t-00-59-05) | 1 |
 | 2026-05-06 | [Brian Harpole Sends Out MORE Legal Notices. Jeremy Boreing Is Still A Creep. | Candace Ep 334](/episodes/ep-k1b1NDCrNFs.md#ent-concept-free-market-t-00-48-54) | 1 |
@@ -56,7 +60,7 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (12)</strong></summary>
+<summary><strong class="section-title">Raw mentions (14)</strong></summary>
 
 <details>
 <summary>TRUMAN SHOW: Proof That Charlie Kirk Was Targeted By The Elites | Ep 356 (1 mentions)</summary>
@@ -118,6 +122,22 @@ _Type: Concepts_
 
 **[00:17:21](/episodes/ep-4YgrOhhy708.md#ent-concept-free-market-t-00-17-21)**
 > "we were talking about the need for free markets"
+
+</details>
+
+<details>
+<summary>Myron Gaines x Candace Owens (1 mentions)</summary>
+
+**[00:44:36](/episodes/ep-2T39-oADLj0.md#ent-concept-free-market-t-00-44-24)**
+> "...re's something about the true free markets that Zionists can't stand they're constantly mani..."
+
+</details>
+
+<details>
+<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (1 mentions)</summary>
+
+**[00:14:37](/episodes/ep-X92MllIHDzw.md#ent-concept-free-market-t-00-14-06)**
+> "free markets"
 
 </details>
 

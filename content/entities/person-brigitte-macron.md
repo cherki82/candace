@@ -1,6 +1,6 @@
 ---
 title: "Brigitte Macron"
-description: "Brigitte Macron (People) - 264 mentions"
+description: "Brigitte Macron (People) - 263 mentions"
 id: "person-brigitte-macron"
 type: "PERSON"
 aliases:
@@ -26,7 +26,7 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-_dRaEO47-co.md#t-00-19-31">2025-09-11 · 00:19:57</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-9hRcfSrri70.md#ent-person-brigitte-macron-t-00-23-05">2026-08-19 · 00:23:21</a></strong></div>
 <div><span>Episodes</span><strong>66</strong></div>
-<div><span>Mentions</span><strong>264</strong></div>
+<div><span>Mentions</span><strong>263</strong></div>
 <div><span>Statements by</span><strong>1</strong></div>
 <div><span>Statements about</span><strong>43</strong></div>
 <div><span>Relationships</span><strong>9</strong></div>
@@ -63,9 +63,9 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-brigitte-macron-t-00-18-59" style="--pulse-height:9%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 4 mentions" title="2026-01-05 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-brigitte-macron-t-00-52-36" style="--pulse-height:18%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 8 mentions" title="2026-01-06 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-brigitte-macron-t-00-57-40" style="--pulse-height:8%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-brigitte-macron-t-00-23-21" style="--pulse-height:9%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 4 mentions" title="2026-01-14 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-brigitte-macron-t-00-23-15" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 3 mentions" title="2026-01-14 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-person-brigitte-macron-t-00-47-27" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-brigitte-macron-t-00-23-38" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-brigitte-macron-t-00-23-37" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-brigitte-macron-t-00-58-15" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-person-brigitte-macron-t-00-40-28" style="--pulse-height:8%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-person-brigitte-macron-t-00-37-17" style="--pulse-height:8%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
@@ -134,9 +134,9 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-brigitte-macron-t-00-18-59) | 4 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-brigitte-macron-t-00-52-36) | 8 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-brigitte-macron-t-00-57-40) | 1 |
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-brigitte-macron-t-00-23-21) | 4 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-brigitte-macron-t-00-23-15) | 3 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-person-brigitte-macron-t-00-47-27) | 1 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-brigitte-macron-t-00-23-38) | 2 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-brigitte-macron-t-00-23-37) | 2 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-brigitte-macron-t-00-58-15) | 1 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-person-brigitte-macron-t-00-40-28) | 1 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-person-brigitte-macron-t-00-37-17) | 1 |
@@ -181,7 +181,7 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (264)</strong></summary>
+<summary><strong class="section-title">Raw mentions (263)</strong></summary>
 
 <details>
 <summary>EXCLUSIVE FOOTAGE: Caught Red-Handed Doing WHAT With Critical Evidence?! | Ep 378 (1 mentions)</summary>
@@ -632,7 +632,7 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (2 mentions)</summary>
 
-**[00:23:56](/episodes/ep-NIEbqsLAK8g.md#ent-person-brigitte-macron-t-00-23-38)**
+**[00:23:56](/episodes/ep-NIEbqsLAK8g.md#ent-person-brigitte-macron-t-00-23-37)**
 > "it just needed to be left behind in 2025 with Brigitte Macron, okay?"
 
 **[00:45:44](/episodes/ep-NIEbqsLAK8g.md#ent-person-brigitte-macron-t-00-45-44)**
@@ -649,19 +649,16 @@ Source: [Brigitte Macron | Élysée](https://www.elysee.fr/en/brigitte-macron)
 </details>
 
 <details>
-<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (4 mentions)</summary>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (3 mentions)</summary>
 
-**[00:23:35](/episodes/ep-BKcOm32ZEGk.md#ent-person-brigitte-macron-t-00-23-21)**
+**[00:23:35](/episodes/ep-BKcOm32ZEGk.md#ent-person-brigitte-macron-t-00-23-15)**
 > "Brigitte ... filed the lawsuit"
 
-**[00:23:47](/episodes/ep-BKcOm32ZEGk.md#ent-person-brigitte-macron-t-00-23-21)**
+**[00:23:47](/episodes/ep-BKcOm32ZEGk.md#ent-person-brigitte-macron-t-00-23-15)**
 > "...rld is run to figure out that Brigitte was born a man."
 
-**[00:36:05](/episodes/ep-BKcOm32ZEGk.md#ent-person-brigitte-macron-t-00-35-55)**
+**[00:36:05](/episodes/ep-BKcOm32ZEGk.md#ent-person-brigitte-macron-t-00-35-53)**
 > "...at are following our Becoming Brigitte series in season two,"
-
-**[00:36:16](/episodes/ep-BKcOm32ZEGk.md#ent-person-brigitte-macron-t-00-35-55)**
-> "and that's where both Brigitte and Emmanuel are from."
 
 </details>
 

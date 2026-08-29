@@ -17,7 +17,7 @@ _Type: People_
 Source: [John Bolton | Simon & Schuster](https://www.simonandschuster.com/authors/John-Bolton/44882801)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-john-bolton-t-00-04-53">2026-01-13 · 00:05:01</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-john-bolton-t-00-04-53">2026-01-13 · 00:04:53</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-john-bolton-t-00-02-47">2026-03-02 · 00:03:11</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
@@ -60,7 +60,7 @@ Source: [John Bolton | Simon & Schuster](https://www.simonandschuster.com/author
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:05:01](/episodes/ep-ZZGWo6oDscc.md#ent-person-john-bolton-t-00-04-53)**
+**[00:04:53](/episodes/ep-ZZGWo6oDscc.md#ent-person-john-bolton-t-00-04-53)**
 > "John Bolton types,"
 
 </details>

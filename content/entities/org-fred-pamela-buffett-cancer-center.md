@@ -21,8 +21,8 @@ _Type: Organizations_
 Source: [The story of Fred & Pamela Buffett Cancer Center | Nebraska Medicine](https://www.nebraskamed.com/cancer/learn-about-buffett)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-fred-pamela-buffett-cancer-center-t-00-05-01">2026-01-19 · 00:05:20</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-fred-pamela-buffett-cancer-center-t-00-05-01">2026-01-19 · 00:05:20</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-fred-pamela-buffett-cancer-center-t-00-04-42">2026-01-19 · 00:05:20</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-fred-pamela-buffett-cancer-center-t-00-04-42">2026-01-19 · 00:05:20</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -33,15 +33,15 @@ Source: [The story of Fred & Pamela Buffett Cancer Center | Nebraska Medicine](h
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-fred-pamela-buffett-cancer-center-t-00-05-01">A Legal Turning Point? | Candace Ep 292</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-fred-pamela-buffett-cancer-center-t-00-04-42">A Legal Turning Point? | Candace Ep 292</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-fred-pamela-buffett-cancer-center-t-00-05-01" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-fred-pamela-buffett-cancer-center-t-00-04-42" style="--pulse-height:100%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-fred-pamela-buffett-cancer-center-t-00-05-01) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-fred-pamela-buffett-cancer-center-t-00-04-42) | 1 |
 
 </details>
 </section>
@@ -54,7 +54,7 @@ Source: [The story of Fred & Pamela Buffett Cancer Center | Nebraska Medicine](h
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
 
-**[00:05:20](/episodes/ep-NIEbqsLAK8g.md#ent-org-fred-pamela-buffett-cancer-center-t-00-05-01)**
+**[00:05:20](/episodes/ep-NIEbqsLAK8g.md#ent-org-fred-pamela-buffett-cancer-center-t-00-04-42)**
 > "it benefits a different cancer center, the Fred and Pamela Buffett Cancer Center."
 
 </details>
@@ -70,7 +70,7 @@ Source: [The story of Fred & Pamela Buffett Cancer Center | Nebraska Medicine](h
 - **[Cattlemen's Ball of Nebraska](/entities/org-cattlemens-ball-of-nebraska.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [A Legal Turning Point? | Candace Ep 292 @ 00:05:03](/episodes/ep-NIEbqsLAK8g.md#t-00-05-01): “They eventually from the cattle barons ball minted their own separate 501c3 referred to as cattlemen's ball, which is the same exact idea, but it benefits a different cancer center, the Fred and Pamela Buffett Cancer Center.”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:05:03](/episodes/ep-NIEbqsLAK8g.md#t-00-04-42): “They eventually from the cattle barons ball minted their own separate 501c3 referred to as cattlemen's ball, which is the same exact idea, but it benefits a different cancer center, the Fred and Pamela Buffett Cancer Center.”
 
 </details>
 
@@ -82,7 +82,7 @@ Source: [The story of Fred & Pamela Buffett Cancer Center | Nebraska Medicine](h
 - **[Cattlemen's Ball of Nebraska](/entities/org-cattlemens-ball-of-nebraska.md)** funded this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [A Legal Turning Point? | Candace Ep 292 @ 00:05:03](/episodes/ep-NIEbqsLAK8g.md#t-00-05-01): “They eventually from the cattle barons ball minted their own separate 501c3 referred to as cattlemen's ball, which is the same exact idea, but it benefits a different cancer center, the Fred and Pamela Buffett Cancer Center.”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:05:03](/episodes/ep-NIEbqsLAK8g.md#t-00-04-42): “They eventually from the cattle barons ball minted their own separate 501c3 referred to as cattlemen's ball, which is the same exact idea, but it benefits a different cancer center, the Fred and Pamela Buffett Cancer Center.”
 
 </details>
 
@@ -96,7 +96,7 @@ Source: [The story of Fred & Pamela Buffett Cancer Center | Nebraska Medicine](h
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1)</summary>
 
-- [00:05:03](/episodes/ep-NIEbqsLAK8g.md#t-00-05-01) (Citation) **Candace Owens**: ["Nebraska's Cattlemen's Ball became a separate 501(c)(3) that benefits ..."](/statements/statement-baf97d67738e.md)
+- [00:05:03](/episodes/ep-NIEbqsLAK8g.md#t-00-04-42) (Citation) **Candace Owens**: ["Candace Owens said Nebraska once hosted its own Cattle Baron's Ball th..."](/statements/statement-baf97d67738e.md)
   - Also about: [Cattlemen's Ball of Nebraska](/entities/org-cattlemens-ball-of-nebraska.md), [Nebraska](/entities/gpe-nebraska.md)
 
 </details>

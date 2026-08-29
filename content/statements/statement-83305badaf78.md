@@ -27,7 +27,7 @@ type: "factual_claim"
 ## Source
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
-**Timestamp:** [00:12:53](/episodes/ep-NIEbqsLAK8g.md#t-00-12-40) 
+**Timestamp:** [00:12:53](/episodes/ep-NIEbqsLAK8g.md#t-00-12-53) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(773);return false;">Play</a>
 
 > Dan Flood also lives in New Braunfels, Texas. I can confirm that. That's a fact. The question is why? What or who inspired Dan, who is from Allen, Texas, to move out to New Braunfels? That's where he graduated high school, by the way, in Allen, Texas. We know that for a fact because one of his high school buddies after the assassination posted this.

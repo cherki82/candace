@@ -19,7 +19,7 @@ Source: [About YouTube](https://about.youtube/)
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#ent-org-youtube-t-00-41-28">2025-09-18 · 00:42:07</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-youtube-t-00-25-30">2026-08-21 · 00:25:41</a></strong></div>
-<div><span>Episodes</span><strong>68</strong></div>
+<div><span>Episodes</span><strong>69</strong></div>
 <div><span>Mentions</span><strong>154</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>15</strong></div>
@@ -56,8 +56,9 @@ Source: [About YouTube](https://about.youtube/)
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-org-youtube-t-00-19-58" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-youtube-t-00-52-20" style="--pulse-height:8%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-BKcOm32ZEGk.md#ent-org-youtube-t-00-06-54" style="--pulse-height:11%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-org-youtube-t-00-31-13" style="--pulse-height:37%" aria-label="Myron Gaines x Candace Owens: 7 mentions" title="2026-01-16 · 7 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-youtube-t-00-19-45" style="--pulse-height:26%" aria-label="A Legal Turning Point? | Candace Ep 292: 5 mentions" title="2026-01-19 · 5 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-org-youtube-t-00-31-13" style="--pulse-height:32%" aria-label="Myron Gaines x Candace Owens: 6 mentions" title="2026-01-16 · 6 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-org-youtube-t-00-59-24" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-youtube-t-00-20-06" style="--pulse-height:26%" aria-label="A Legal Turning Point? | Candace Ep 292: 5 mentions" title="2026-01-19 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-org-youtube-t-01-15-50" style="--pulse-height:53%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 10 mentions" title="2026-01-20 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-youtube-t-00-47-50" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-youtube-t-01-20-47" style="--pulse-height:8%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 1 mentions" title="2026-01-29 · 1 mentions"><span></span></a>
@@ -129,8 +130,9 @@ Source: [About YouTube](https://about.youtube/)
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-org-youtube-t-00-19-58) | 1 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-org-youtube-t-00-52-20) | 1 |
 | 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-org-youtube-t-00-06-54) | 2 |
-| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-youtube-t-00-31-13) | 7 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-youtube-t-00-19-45) | 5 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-youtube-t-00-31-13) | 6 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-org-youtube-t-00-59-24) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-youtube-t-00-20-06) | 5 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-org-youtube-t-01-15-50) | 10 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-youtube-t-00-47-50) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-youtube-t-01-20-47) | 1 |
@@ -686,7 +688,7 @@ Source: [About YouTube](https://about.youtube/)
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (5 mentions)</summary>
 
-**[00:20:11](/episodes/ep-NIEbqsLAK8g.md#ent-org-youtube-t-00-19-45)**
+**[00:20:11](/episodes/ep-NIEbqsLAK8g.md#ent-org-youtube-t-00-20-06)**
 > "someone has made the brilliant decision to send a cease and desist letter to a relatively small YouTube channel who's made interesting videos regarding the finances of Turning Point USA."
 
 **[00:21:15](/episodes/ep-NIEbqsLAK8g.md#ent-org-youtube-t-00-20-51)**
@@ -698,13 +700,13 @@ Source: [About YouTube](https://about.youtube/)
 **[00:22:11](/episodes/ep-NIEbqsLAK8g.md#ent-org-youtube-t-00-22-09)**
 > "...about it's like my teeny tiny YouTube channel."
 
-**[00:33:54](/episodes/ep-NIEbqsLAK8g.md#ent-org-youtube-t-00-33-48)**
+**[00:33:54](/episodes/ep-NIEbqsLAK8g.md#ent-org-youtube-t-00-33-38)**
 > "...in China don't have access to YouTube."
 
 </details>
 
 <details>
-<summary>Myron Gaines x Candace Owens (7 mentions)</summary>
+<summary>Myron Gaines x Candace Owens (6 mentions)</summary>
 
 **[00:31:13](/episodes/ep-2T39-oADLj0.md#ent-org-youtube-t-00-31-13)**
 > "even YouTube demonetized us"
@@ -718,9 +720,6 @@ Source: [About YouTube](https://about.youtube/)
 **[00:40:30](/episodes/ep-2T39-oADLj0.md#ent-org-youtube-t-00-40-23)**
 > "... to all strikes overnight and YouTube demonetized us we were demonetized for six months..."
 
-**[00:40:52](/episodes/ep-2T39-oADLj0.md#ent-org-youtube-t-00-40-23)**
-> "can't make any money on youtube so we had to"
-
 **[00:40:55](/episodes/ep-2T39-oADLj0.md#ent-org-youtube-t-00-40-55)**
 > "...o they yeah they attack us on youtube they obviously got"
 
@@ -730,12 +729,20 @@ Source: [About YouTube](https://about.youtube/)
 </details>
 
 <details>
+<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (1 mentions)</summary>
+
+**[00:59:24](/episodes/ep-X92MllIHDzw.md#ent-org-youtube-t-00-59-24)**
+> "been making youtube videos for 10 years"
+
+</details>
+
+<details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (2 mentions)</summary>
 
 **[00:06:54](/episodes/ep-BKcOm32ZEGk.md#ent-org-youtube-t-00-06-54)**
 > "clips from a YouTube channel called Be Inspired"
 
-**[00:50:38](/episodes/ep-BKcOm32ZEGk.md#ent-org-youtube-t-00-50-21)**
+**[00:50:38](/episodes/ep-BKcOm32ZEGk.md#ent-org-youtube-t-00-50-38)**
 > "...ked us they demonetized us on youtube they were throttling us i was being i'm literally..."
 
 </details>
@@ -1072,7 +1079,7 @@ _No relationships extracted yet._
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1)</summary>
 
-- [00:50:38](/episodes/ep-BKcOm32ZEGk.md#t-00-50-21) (Claim) **Candace Owens**: ["In 2024, YouTube demonetized Candace Owens."](/statements/statement-4fa9721c2695.md)
+- [00:50:38](/episodes/ep-BKcOm32ZEGk.md#t-00-50-38) (Claim) **Candace Owens**: ["In 2024, YouTube demonetized Candace Owens."](/statements/statement-4fa9721c2695.md)
   - Also about: [Candace Owens](/entities/person-candace-owens.md)
 
 </details>

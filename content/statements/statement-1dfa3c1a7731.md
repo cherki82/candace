@@ -21,7 +21,6 @@ veracity: "false"
 
 ## About
 
-- [Federal Bureau of Investigation](/entities/org-federal-bureau-of-investigation.md) (org)
 - [Charlie Kirk](/entities/person-charlie-kirk.md) (person)
 
 ## Source

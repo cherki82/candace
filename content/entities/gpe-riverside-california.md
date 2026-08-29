@@ -21,8 +21,8 @@ _Type: Places_
 Source: [About Riverside | riversideca.gov](https://www.riversideca.gov/about-riverside)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-riverside-california-t-00-33-28">2026-01-13 · 00:33:54</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-riverside-california-t-00-33-28">2026-01-13 · 00:33:54</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-riverside-california-t-00-33-28">2026-01-13 · 00:33:46</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-riverside-california-t-00-33-28">2026-01-13 · 00:33:46</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>1</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -54,7 +54,7 @@ Source: [About Riverside | riversideca.gov](https://www.riversideca.gov/about-ri
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:33:54](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-riverside-california-t-00-33-28)**
+**[00:33:46](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-riverside-california-t-00-33-28)**
 > "...rvest Christian Fellowship in Riverside, California."
 
 </details>

@@ -1,6 +1,6 @@
 ---
 title: "Losee Center for Student Success"
-description: "Losee Center for Student Success (Organizations) - 17 mentions"
+description: "Losee Center for Student Success (Organizations) - 19 mentions"
 id: "org-losee-center-for-student-success"
 type: "ORG"
 aliases:
@@ -25,10 +25,10 @@ _Type: Organizations_
 Source: [School of Education Contact Info | Utah Valley University](https://www.uvu.edu/school-of-ed/about/location.html)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-N4uM8Jdr410.md#ent-org-losee-center-for-student-success-t-00-03-22">2026-07-20 · 00:03:22</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-org-losee-center-for-student-success-t-01-03-01">2026-01-16 · 01:03:01</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-AH1KVKkweUE.md#ent-org-losee-center-for-student-success-t-00-47-27">2026-08-03 · 00:47:47</a></strong></div>
-<div><span>Episodes</span><strong>3</strong></div>
-<div><span>Mentions</span><strong>17</strong></div>
+<div><span>Episodes</span><strong>4</strong></div>
+<div><span>Mentions</span><strong>19</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>10</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -39,6 +39,7 @@ Source: [School of Education Contact Info | Utah Valley University](https://www.
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
 <p>Highest activity: <a href="/episodes/ep-AH1KVKkweUE.md#ent-org-losee-center-for-student-success-t-00-10-33">Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370</a> (9 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-2T39-oADLj0.md#ent-org-losee-center-for-student-success-t-01-03-01" style="--pulse-height:22%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-N4uM8Jdr410.md#ent-org-losee-center-for-student-success-t-00-03-22" style="--pulse-height:33%" aria-label="UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362: 3 mentions" title="2026-07-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-iB-YtO3UZOg.md#ent-org-losee-center-for-student-success-t-00-40-10" style="--pulse-height:44%" aria-label="An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369: 4 mentions" title="2026-07-31 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-AH1KVKkweUE.md#ent-org-losee-center-for-student-success-t-00-10-33" style="--pulse-height:100%" aria-label="Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370: 9 mentions" title="2026-08-03 · 9 mentions"><span></span></a>
@@ -47,6 +48,7 @@ Source: [School of Education Contact Info | Utah Valley University](https://www.
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-losee-center-for-student-success-t-01-03-01) | 2 |
 | 2026-07-20 | [UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362](/episodes/ep-N4uM8Jdr410.md#ent-org-losee-center-for-student-success-t-00-03-22) | 3 |
 | 2026-07-31 | [An Eyewitness At Timpanogos. A Shocking Discovery About The Medical Examiner… | Ep 369](/episodes/ep-iB-YtO3UZOg.md#ent-org-losee-center-for-student-success-t-00-40-10) | 4 |
 | 2026-08-03 | [Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370](/episodes/ep-AH1KVKkweUE.md#ent-org-losee-center-for-student-success-t-00-10-33) | 9 |
@@ -57,7 +59,7 @@ Source: [School of Education Contact Info | Utah Valley University](https://www.
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (17)</strong></summary>
+<summary><strong class="section-title">Raw mentions (19)</strong></summary>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (9 mentions)</summary>
@@ -119,6 +121,17 @@ Source: [School of Education Contact Info | Utah Valley University](https://www.
 
 **[00:14:15](/episodes/ep-N4uM8Jdr410.md#ent-org-losee-center-for-student-success-t-00-14-15)**
 > "...o recorded the rooftop guy on Losee, is likely telling the truth about the tactical c..."
+
+</details>
+
+<details>
+<summary>Myron Gaines x Candace Owens (2 mentions)</summary>
+
+**[01:03:01](/episodes/ep-2T39-oADLj0.md#ent-org-losee-center-for-student-success-t-01-03-01)**
+> "...ave it released. And also the Losee building, where the shot definitely did not"
+
+**[01:03:17](/episodes/ep-2T39-oADLj0.md#ent-org-losee-center-for-student-success-t-01-03-01)**
+> "... military—something is in the Losee building. So there's a lot happening. All of that..."
 
 </details>
 

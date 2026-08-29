@@ -17,7 +17,7 @@ _Type: People_
 Source: [The History & Impact of Planned Parenthood](https://www.plannedparenthood.org/about-us/who-we-are/our-history)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-person-margaret-sanger-t-00-05-13">2026-01-16 · 00:05:41</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-person-margaret-sanger-t-00-05-00">2026-01-16 · 00:05:41</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-margaret-sanger-t-00-07-56">2026-03-10 · 00:07:56</a></strong></div>
 <div><span>Episodes</span><strong>3</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
@@ -29,9 +29,9 @@ Source: [The History & Impact of Planned Parenthood](https://www.plannedparentho
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-2T39-oADLj0.md#ent-person-margaret-sanger-t-00-05-13">Myron Gaines x Candace Owens</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-2T39-oADLj0.md#ent-person-margaret-sanger-t-00-05-00">Myron Gaines x Candace Owens</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
-<a href="/episodes/ep-2T39-oADLj0.md#ent-person-margaret-sanger-t-00-05-13" style="--pulse-height:100%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-person-margaret-sanger-t-00-05-00" style="--pulse-height:100%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-jTj9Ip46r4w.md#ent-person-margaret-sanger-t-00-32-39" style="--pulse-height:100%" aria-label="Bride Of Charlie: The Ties That Bind | Episode 4: 1 mentions" title="2026-03-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZzAT2xijKGQ.md#ent-person-margaret-sanger-t-00-07-56" style="--pulse-height:100%" aria-label="Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309: 1 mentions" title="2026-03-10 · 1 mentions"><span></span></a>
 </div>
@@ -39,7 +39,7 @@ Source: [The History & Impact of Planned Parenthood](https://www.plannedparentho
 
 | Source date | Source | Mentions |
 |---|---|---:|
-| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-margaret-sanger-t-00-05-13) | 1 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-margaret-sanger-t-00-05-00) | 1 |
 | 2026-03-02 | [Bride Of Charlie: The Ties That Bind | Episode 4](/episodes/ep-jTj9Ip46r4w.md#ent-person-margaret-sanger-t-00-32-39) | 1 |
 | 2026-03-10 | [Did Erika Kirk Know Jeffrey Epstein? | Candace Ep 309](/episodes/ep-ZzAT2xijKGQ.md#ent-person-margaret-sanger-t-00-07-56) | 1 |
 
@@ -70,7 +70,7 @@ Source: [The History & Impact of Planned Parenthood](https://www.plannedparentho
 <details>
 <summary>Myron Gaines x Candace Owens (1 mentions)</summary>
 
-**[00:05:41](/episodes/ep-2T39-oADLj0.md#ent-person-margaret-sanger-t-00-05-13)**
+**[00:05:41](/episodes/ep-2T39-oADLj0.md#ent-person-margaret-sanger-t-00-05-00)**
 > "I was going to say Margaret Sanger."
 
 </details>
@@ -86,7 +86,7 @@ Source: [The History & Impact of Planned Parenthood](https://www.plannedparentho
 - **[Emma Goldman](/entities/person-emma-goldman.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Myron Gaines x Candace Owens @ 00:05:25](/episodes/ep-2T39-oADLj0.md#t-00-05-13): “Emma Goldman was the mentor to, what's her face, from Planned Parenthood. I'm blanking on her name for a moment. I was going to say Margaret Sanger. That was her mentor.”
+- [Myron Gaines x Candace Owens @ 00:05:25](/episodes/ep-2T39-oADLj0.md#t-00-05-00): “Emma Goldman was the mentor to, what's her face, from Planned Parenthood. I'm blanking on her name for a moment. I was going to say Margaret Sanger. That was her mentor.”
 
 </details>
 
@@ -98,7 +98,7 @@ Source: [The History & Impact of Planned Parenthood](https://www.plannedparentho
 - **[Emma Goldman](/entities/person-emma-goldman.md)** mentored this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [Myron Gaines x Candace Owens @ 00:05:25](/episodes/ep-2T39-oADLj0.md#t-00-05-13): “Emma Goldman was the mentor to, what's her face, from Planned Parenthood. I'm blanking on her name for a moment. I was going to say Margaret Sanger. That was her mentor.”
+- [Myron Gaines x Candace Owens @ 00:05:25](/episodes/ep-2T39-oADLj0.md#t-00-05-00): “Emma Goldman was the mentor to, what's her face, from Planned Parenthood. I'm blanking on her name for a moment. I was going to say Margaret Sanger. That was her mentor.”
 
 </details>
 
@@ -120,7 +120,7 @@ Source: [The History & Impact of Planned Parenthood](https://www.plannedparentho
 <details>
 <summary>Myron Gaines x Candace Owens (1)</summary>
 
-- [00:05:41](/episodes/ep-2T39-oADLj0.md#t-00-05-13) (Claim) **Candace Owens**: ["Emma Goldman was Margaret Sanger's mentor."](/statements/statement-d4c9228da759.md)
+- [00:05:41](/episodes/ep-2T39-oADLj0.md#t-00-05-00) (Claim) **Candace Owens**: ["Emma Goldman was Margaret Sanger's mentor."](/statements/statement-d4c9228da759.md)
   - Also about: [Emma Goldman](/entities/person-emma-goldman.md)
 
 </details>

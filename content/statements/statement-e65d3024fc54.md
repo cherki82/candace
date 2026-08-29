@@ -1,8 +1,8 @@
 ---
-title: "People from sub-Saharan Africa do not have a high IQ."
-description: "\"People from sub-Saharan Africa do not have a high IQ.\" — Nick Fuentes"
+title: "Candace Owens says Nick Fuentes told her that people from su..."
+description: "\"Candace Owens says Nick Fuentes told her that people from sub-Saharan Africa do not have a high IQ.\" — Candace Owens"
 statement_id: "statement-e65d3024fc54"
-speaker: "Nick Fuentes"
+speaker: "Candace Owens"
 type: "opinion"
 ---
 
@@ -10,15 +10,17 @@ type: "opinion"
 
 ## Statement
 
-> People from sub-Saharan Africa do not have a high IQ.
+> Candace Owens says Nick Fuentes told her that people from sub-Saharan Africa do not have a high IQ.
 
 ## Attribution
 
-**Speaker:** [Nick Fuentes](/entities/person-nick-fuentes.md) (Quoted)
+**Speaker:** [Candace Owens](/entities/person-candace-owens.md) (Host)
 
-**Delivery:** Quoted from speech/interview
-**Read/Quoted by:** [Candace Owens](/entities/person-candace-owens.md)
-**Original Source:** Prior conversation
+**Delivery:** Paraphrased
+
+## About
+
+- [Nick Fuentes](/entities/person-nick-fuentes.md) (person)
 
 ## Source
 

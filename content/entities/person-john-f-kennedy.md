@@ -1,6 +1,6 @@
 ---
 title: "John F. Kennedy"
-description: "John F. Kennedy (People) - 107 mentions"
+description: "John F. Kennedy (People) - 106 mentions"
 id: "person-john-f-kennedy"
 type: "PERSON"
 aliases:
@@ -27,7 +27,7 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-aDlhjfW6hz8.md#ent-person-john-f-kennedy-t-00-00-55">2025-09-19 · 00:01:25</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-E7P2ShoYDUA.md#ent-person-john-f-kennedy-t-01-06-38">2026-08-17 · 01:06:38</a></strong></div>
 <div><span>Episodes</span><strong>59</strong></div>
-<div><span>Mentions</span><strong>107</strong></div>
+<div><span>Mentions</span><strong>106</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>14</strong></div>
 <div><span>Relationships</span><strong>2</strong></div>
@@ -63,9 +63,9 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 <a href="/episodes/ep-9k2xrAC0H88.md#ent-person-john-f-kennedy-t-00-55-37" style="--pulse-height:43%" aria-label="BREAKING NEWS! We Received Photos Of Charlie&#x27;s Car After The Assassination. | Candace Ep 281: 6 mentions" title="2025-12-17 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-person-john-f-kennedy-t-00-36-43" style="--pulse-height:8%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-john-f-kennedy-t-00-57-56" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-john-f-kennedy-t-00-52-31" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-john-f-kennedy-t-00-52-34" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-john-f-kennedy-t-00-53-21" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-john-f-kennedy-t-00-01-25" style="--pulse-height:29%" aria-label="A Legal Turning Point? | Candace Ep 292: 4 mentions" title="2026-01-19 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-john-f-kennedy-t-00-01-54" style="--pulse-height:21%" aria-label="A Legal Turning Point? | Candace Ep 292: 3 mentions" title="2026-01-19 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-john-f-kennedy-t-00-18-46" style="--pulse-height:14%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 2 mentions" title="2026-01-20 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-person-john-f-kennedy-t-00-43-34" style="--pulse-height:8%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 1 mentions" title="2026-01-27 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-person-john-f-kennedy-t-00-12-00" style="--pulse-height:29%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 4 mentions" title="2026-01-29 · 4 mentions"><span></span></a>
@@ -127,9 +127,9 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 | 2025-12-17 | [BREAKING NEWS! We Received Photos Of Charlie's Car After The Assassination. | Candace Ep 281](/episodes/ep-9k2xrAC0H88.md#ent-person-john-f-kennedy-t-00-55-37) | 6 |
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-person-john-f-kennedy-t-00-36-43) | 1 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-john-f-kennedy-t-00-57-56) | 1 |
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-john-f-kennedy-t-00-52-31) | 1 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-john-f-kennedy-t-00-52-34) | 1 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-john-f-kennedy-t-00-53-21) | 1 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-john-f-kennedy-t-00-01-25) | 4 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-john-f-kennedy-t-00-01-54) | 3 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-john-f-kennedy-t-00-18-46) | 2 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-person-john-f-kennedy-t-00-43-34) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-person-john-f-kennedy-t-00-12-00) | 4 |
@@ -168,7 +168,7 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (107)</strong></summary>
+<summary><strong class="section-title">Raw mentions (106)</strong></summary>
 
 <details>
 <summary>Behind The Scenes Of The Great Debate: TPUSA Is The Biggest Loser. | Ep 376 (2 mentions)</summary>
@@ -473,18 +473,15 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 </details>
 
 <details>
-<summary>A Legal Turning Point? | Candace Ep 292 (4 mentions)</summary>
+<summary>A Legal Turning Point? | Candace Ep 292 (3 mentions)</summary>
 
-**[00:01:57](/episodes/ep-NIEbqsLAK8g.md#ent-person-john-f-kennedy-t-00-01-25)**
+**[00:01:57](/episodes/ep-NIEbqsLAK8g.md#ent-person-john-f-kennedy-t-00-01-54)**
 > "Obviously, for example, he said that he knew who killed JFK."
 
-**[00:02:01](/episodes/ep-NIEbqsLAK8g.md#ent-person-john-f-kennedy-t-00-01-25)**
-> "...up of people, he said, killed JFK."
-
-**[00:02:06](/episodes/ep-NIEbqsLAK8g.md#ent-person-john-f-kennedy-t-00-02-06)**
+**[00:02:06](/episodes/ep-NIEbqsLAK8g.md#ent-person-john-f-kennedy-t-00-01-54)**
 > "...ad orchestrated the murder of JFK,"
 
-**[00:02:57](/episodes/ep-NIEbqsLAK8g.md#ent-person-john-f-kennedy-t-00-02-49)**
+**[00:02:57](/episodes/ep-NIEbqsLAK8g.md#ent-person-john-f-kennedy-t-00-02-39)**
 > "...lready think he's involved in JFK's assassination."
 
 </details>
@@ -492,7 +489,7 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 <details>
 <summary>Myron Gaines x Candace Owens (1 mentions)</summary>
 
-**[00:53:24](/episodes/ep-2T39-oADLj0.md#ent-person-john-f-kennedy-t-00-53-21)**
+**[00:53:21](/episodes/ep-2T39-oADLj0.md#ent-person-john-f-kennedy-t-00-53-21)**
 > "since JFK was assassinated"
 
 </details>
@@ -500,7 +497,7 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
 
-**[00:52:37](/episodes/ep-BKcOm32ZEGk.md#ent-person-john-f-kennedy-t-00-52-31)**
+**[00:52:37](/episodes/ep-BKcOm32ZEGk.md#ent-person-john-f-kennedy-t-00-52-34)**
 > "since they killed JFK"
 
 </details>
@@ -868,7 +865,7 @@ Source: [The White House — John F. Kennedy](https://www.whitehouse.gov/about-t
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1)</summary>
 
-- [00:02:06](/episodes/ep-NIEbqsLAK8g.md#t-00-02-06) (Accusation) **Anonymous Source #1 (Ep NIEbqsLAK8g)** (via read message): ["The email source claimed the families of corrupt police officers and m..."](/statements/statement-87a17771b303.md)
+- [00:02:06](/episodes/ep-NIEbqsLAK8g.md#t-00-01-54) (Accusation) **Anonymous Source #1 (Ep NIEbqsLAK8g)** (via read message): ["The email source claimed the families of corrupt police officers and m..."](/statements/statement-87a17771b303.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Texas](/entities/gpe-texas.md)
 
 </details>

@@ -44,7 +44,7 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 <a href="/episodes/ep-a-e7HC6SeK8.md#t-00-05-38" style="--pulse-height:40%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 2 mentions" title="2025-12-02 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-work-becoming-brigitte-t-00-44-43" style="--pulse-height:20%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 1 mentions" title="2026-01-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-work-becoming-brigitte-t-00-00-00" style="--pulse-height:40%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 2 mentions" title="2026-01-13 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-work-becoming-brigitte-t-00-35-55" style="--pulse-height:20%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-work-becoming-brigitte-t-00-35-53" style="--pulse-height:20%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-work-becoming-brigitte-t-00-20-53" style="--pulse-height:20%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-AoYZel7_cGQ.md#ent-work-becoming-brigitte-t-00-41-31" style="--pulse-height:40%" aria-label="A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368: 2 mentions" title="2026-07-30 · 2 mentions"><span></span></a>
 </div>
@@ -61,7 +61,7 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#t-00-05-38) | 2 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-work-becoming-brigitte-t-00-44-43) | 1 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-work-becoming-brigitte-t-00-00-00) | 2 |
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-work-becoming-brigitte-t-00-35-55) | 1 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-work-becoming-brigitte-t-00-35-53) | 1 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-work-becoming-brigitte-t-00-20-53) | 1 |
 | 2026-07-30 | [A Strange Thing Happened At Charlie’s Funeral... Plus, A Shocking Medical Examiner Report. | Ep 368](/episodes/ep-AoYZel7_cGQ.md#ent-work-becoming-brigitte-t-00-41-31) | 2 |
 
@@ -95,7 +95,7 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
 
-**[00:36:05](/episodes/ep-BKcOm32ZEGk.md#ent-work-becoming-brigitte-t-00-35-55)**
+**[00:36:05](/episodes/ep-BKcOm32ZEGk.md#ent-work-becoming-brigitte-t-00-35-53)**
 > "Becoming Brigitte series"
 
 </details>
@@ -103,10 +103,10 @@ Source: [Candace Owens | Official Site](https://candaceowens.com/)
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2 mentions)</summary>
 
-**[00:00:01](/episodes/ep-ZZGWo6oDscc.md#ent-work-becoming-brigitte-t-00-00-00)**
+**[00:00:00](/episodes/ep-ZZGWo6oDscc.md#ent-work-becoming-brigitte-t-00-00-00)**
 > "...ions that was raised with our Becoming Brigitte series was,"
 
-**[00:26:31](/episodes/ep-ZZGWo6oDscc.md#ent-work-becoming-brigitte-t-00-25-58)**
+**[00:26:31](/episodes/ep-ZZGWo6oDscc.md#ent-work-becoming-brigitte-t-00-26-31)**
 > "...s whether we're talking about becoming Brigitte, we're talking about Jeffrey Epstein,"
 
 </details>

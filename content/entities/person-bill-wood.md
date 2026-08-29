@@ -18,7 +18,7 @@ Source: [Bill Wood: Project Looking Glass | Project Camelot](https://projectcame
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-bill-wood-t-00-13-05">2026-01-14 · 00:13:07</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-bill-wood-t-00-14-28">2026-01-14 · 00:14:57</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-bill-wood-t-00-14-57">2026-01-14 · 00:14:57</a></strong></div>
 <div><span>Episodes</span><strong>1</strong></div>
 <div><span>Mentions</span><strong>2</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -53,7 +53,7 @@ Source: [Bill Wood: Project Looking Glass | Project Camelot](https://projectcame
 **[00:13:07](/episodes/ep-BKcOm32ZEGk.md#ent-person-bill-wood-t-00-13-05)**
 > "according to Bill Wood"
 
-**[00:14:57](/episodes/ep-BKcOm32ZEGk.md#ent-person-bill-wood-t-00-14-28)**
+**[00:14:57](/episodes/ep-BKcOm32ZEGk.md#ent-person-bill-wood-t-00-14-57)**
 > "...ple whistleblowers, including Bill Wood and other interviewed by Project Camelot,"
 
 </details>
@@ -81,7 +81,7 @@ Source: [Bill Wood: Project Looking Glass | Project Camelot](https://projectcame
 - **[Project Camelot](/entities/org-project-camelot.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:14:57](/episodes/ep-BKcOm32ZEGk.md#t-00-14-28): “According to multiple whistleblowers, including Bill Wood and other interviewed by Project Camelot,”
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:14:57](/episodes/ep-BKcOm32ZEGk.md#t-00-14-57): “According to multiple whistleblowers, including Bill Wood and other interviewed by Project Camelot,”
 
 </details>
 
@@ -100,7 +100,7 @@ Source: [Bill Wood: Project Looking Glass | Project Camelot](https://projectcame
 - **[Project Camelot](/entities/org-project-camelot.md)** interviewed this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:14:57](/episodes/ep-BKcOm32ZEGk.md#t-00-14-28): “According to multiple whistleblowers, including Bill Wood and other interviewed by Project Camelot,”
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:14:57](/episodes/ep-BKcOm32ZEGk.md#t-00-14-57): “According to multiple whistleblowers, including Bill Wood and other interviewed by Project Camelot,”
 
 </details>
 

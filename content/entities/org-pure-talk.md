@@ -1,6 +1,6 @@
 ---
 title: "Pure Talk"
-description: "Pure Talk (Organizations) - 204 mentions"
+description: "Pure Talk (Organizations) - 202 mentions"
 id: "org-pure-talk"
 type: "ORG"
 aliases:
@@ -26,7 +26,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-org-pure-talk-t-00-55-47">2025-09-15 · 00:55:47</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-org-pure-talk-t-00-57-01">2026-08-21 · 00:57:05</a></strong></div>
 <div><span>Episodes</span><strong>40</strong></div>
-<div><span>Mentions</span><strong>204</strong></div>
+<div><span>Mentions</span><strong>202</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>8</strong></div>
@@ -47,7 +47,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 <a href="/episodes/ep-6DhWawD4ZiM.md#ent-org-pure-talk-t-00-49-45" style="--pulse-height:86%" aria-label="UH-OH! Erika Kirk Goes Off On &quot;Conspiracy Theorists&quot;. | Candace Ep 278: 6 mentions" title="2025-12-10 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-w1oqQbR_bYs.md#ent-org-pure-talk-t-00-47-24" style="--pulse-height:71%" aria-label="What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283: 5 mentions" title="2025-12-20 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-org-pure-talk-t-00-52-58" style="--pulse-height:29%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 2 mentions" title="2026-01-07 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-org-pure-talk-t-00-25-05" style="--pulse-height:57%" aria-label="Myron Gaines x Candace Owens: 4 mentions" title="2026-01-16 · 4 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-org-pure-talk-t-00-25-05" style="--pulse-height:29%" aria-label="Myron Gaines x Candace Owens: 2 mentions" title="2026-01-16 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-A39g5oqB_eM.md#ent-org-pure-talk-t-00-35-11" style="--pulse-height:86%" aria-label="EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296: 6 mentions" title="2026-01-27 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-pure-talk-t-01-19-22" style="--pulse-height:100%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 7 mentions" title="2026-01-29 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-pure-talk-t-00-52-00" style="--pulse-height:71%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 5 mentions" title="2026-02-02 · 5 mentions"><span></span></a>
@@ -92,7 +92,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 | 2025-12-10 | [UH-OH! Erika Kirk Goes Off On "Conspiracy Theorists". | Candace Ep 278](/episodes/ep-6DhWawD4ZiM.md#ent-org-pure-talk-t-00-49-45) | 6 |
 | 2025-12-20 | [What Does Ben Shapiro Know About Erika Kirk And Fort Huachuca? | Candace Ep 283](/episodes/ep-w1oqQbR_bYs.md#ent-org-pure-talk-t-00-47-24) | 5 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-org-pure-talk-t-00-52-58) | 2 |
-| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-pure-talk-t-00-25-05) | 4 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-pure-talk-t-00-25-05) | 2 |
 | 2026-01-27 | [EXCLUSIVE: Leaked TPUSA Audio | Candace EP 296](/episodes/ep-A39g5oqB_eM.md#ent-org-pure-talk-t-00-35-11) | 6 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-pure-talk-t-01-19-22) | 7 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-pure-talk-t-00-52-00) | 5 |
@@ -129,7 +129,7 @@ Source: [PureTalk](https://www.puretalk.com/)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (204)</strong></summary>
+<summary><strong class="section-title">Raw mentions (202)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (4 mentions)</summary>
@@ -718,18 +718,12 @@ Source: [PureTalk](https://www.puretalk.com/)
 </details>
 
 <details>
-<summary>Myron Gaines x Candace Owens (4 mentions)</summary>
+<summary>Myron Gaines x Candace Owens (2 mentions)</summary>
 
 **[00:25:12](/episodes/ep-2T39-oADLj0.md#ent-org-pure-talk-t-00-25-05)**
-> "switching to PureTalk's saver plan"
-
-**[00:25:18](/episodes/ep-2T39-oADLj0.md#ent-org-pure-talk-t-00-25-05)**
 > "...ee gigs of high speed data on PureTalk's super fast nationwide 5G network."
 
-**[00:25:41](/episodes/ep-2T39-oADLj0.md#ent-org-pure-talk-t-00-25-05)**
-> "Head to puretalk.com slash Owens and make the switch today in as l..."
-
-**[00:25:47](/episodes/ep-2T39-oADLj0.md#ent-org-pure-talk-t-00-25-47)**
+**[00:25:41](/episodes/ep-2T39-oADLj0.md#ent-org-pure-talk-t-00-25-41)**
 > "... for just $20 a month. That's puretalk.com slash Owens and you'll save an additional."
 
 </details>

@@ -180,13 +180,13 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 **[00:05:05](/episodes/ep-ZZGWo6oDscc.md#ent-person-lindsey-graham-t-00-04-53)**
 > "Here is Lindsey Graham."
 
-**[00:06:19](/episodes/ep-ZZGWo6oDscc.md#ent-person-lindsey-graham-t-00-05-37)**
+**[00:06:09](/episodes/ep-ZZGWo6oDscc.md#ent-person-lindsey-graham-t-00-05-34)**
 > "Lindsey Graham?"
 
-**[00:07:11](/episodes/ep-ZZGWo6oDscc.md#ent-person-lindsey-graham-t-00-07-08)**
+**[00:07:11](/episodes/ep-ZZGWo6oDscc.md#ent-person-lindsey-graham-t-00-07-06)**
 > "...larly echoed this at the time lindsey graham was just doing what lindsey graham does he's i th..."
 
-**[00:07:39](/episodes/ep-ZZGWo6oDscc.md#ent-person-lindsey-graham-t-00-07-08)**
+**[00:07:38](/episodes/ep-ZZGWo6oDscc.md#ent-person-lindsey-graham-t-00-07-06)**
 > "...nctly when he said this about Lindsey Graham. Take a listen."
 
 **[00:07:56](/episodes/ep-ZZGWo6oDscc.md#ent-person-lindsey-graham-t-00-07-43)**
@@ -382,10 +382,10 @@ Source: [Biography - United States Senator Lindsey Graham](https://www.lgraham.s
 - [00:04:53](/episodes/ep-ZZGWo6oDscc.md#t-00-04-53) (Opinion) **Charlie Kirk** (via quoted speech): ["Calls by Lindsey Graham and John Bolton for regime change in Iran are ..."](/statements/statement-a8987db34ae3.md)
   - Also about: [John Bolton](/entities/person-john-bolton.md), [Iran](/entities/gpe-iran.md), [Neoconservatism](/entities/concept-neoconservatism.md)
 
-- [00:07:11](/episodes/ep-ZZGWo6oDscc.md#t-00-07-08) (Accusation) **Candace Owens**: ["I think personally he's got the largest blackmail file, whatever Israe..."](/statements/statement-7c2487d3cfc3.md)
+- [00:07:11](/episodes/ep-ZZGWo6oDscc.md#t-00-07-06) (Accusation) **Candace Owens**: ["I think personally he's got the largest blackmail file, whatever Israe..."](/statements/statement-7c2487d3cfc3.md)
   - Also about: [Israel](/entities/gpe-israel.md), [Washington, D.C.](/entities/gpe-washington-d-c.md)
 
-- [00:07:43](/episodes/ep-ZZGWo6oDscc.md#t-00-07-08) (Accusation) **Tucker Carlson** (via quoted speech): ["What you don't want are flighty, emotionally incontinent, silly people..."](/statements/statement-b3c35b55e3f1.md)
+- [00:07:43](/episodes/ep-ZZGWo6oDscc.md#t-00-07-06) (Accusation) **Tucker Carlson** (via quoted speech): ["What you don't want are flighty, emotionally incontinent, silly people..."](/statements/statement-b3c35b55e3f1.md)
 
 - [00:08:31](/episodes/ep-ZZGWo6oDscc.md#t-00-08-23) (Opinion) **Tucker Carlson** (via quoted speech): ["Lindsey Graham is like a drunk girlfriend picking fights he will never..."](/statements/statement-f66c9d0d8748.md)
 

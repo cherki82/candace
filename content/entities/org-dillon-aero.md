@@ -70,7 +70,7 @@ Source: [Dillon Aero](https://dillonaero.com/)
 - **[Clayton Haugen](/entities/person-clayton-haugen.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:05:23](/episodes/ep-X92MllIHDzw.md#t-00-04-49): “And he does marketing.”
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:05:23](/episodes/ep-X92MllIHDzw.md#t-00-04-49): “And he does marketing. For the defense contracting firm, Dillon Aerospace,”
 
 </details>
 
@@ -82,7 +82,7 @@ Source: [Dillon Aero](https://dillonaero.com/)
 - **[Clayton Haugen](/entities/person-clayton-haugen.md)** works for this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:05:23](/episodes/ep-X92MllIHDzw.md#t-00-04-49): “And he does marketing.”
+- [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 @ 00:05:23](/episodes/ep-X92MllIHDzw.md#t-00-04-49): “And he does marketing. For the defense contracting firm, Dillon Aerospace,”
 
 </details>
 

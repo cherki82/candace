@@ -1,6 +1,6 @@
 ---
 title: "Fort Huachuca"
-description: "Fort Huachuca (Places) - 244 mentions"
+description: "Fort Huachuca (Places) - 240 mentions"
 id: "gpe-fort-huachuca"
 type: "GPE"
 aliases:
@@ -26,9 +26,9 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t4U7NjnUEgc.md#ent-gpe-fort-huachuca-t-00-12-36">2025-12-09 · 00:01:50</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-gpe-fort-huachuca-t-00-31-13">2026-08-21 · 00:31:41</a></strong></div>
 <div><span>Episodes</span><strong>48</strong></div>
-<div><span>Mentions</span><strong>244</strong></div>
+<div><span>Mentions</span><strong>240</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
-<div><span>Statements about</span><strong>110</strong></div>
+<div><span>Statements about</span><strong>111</strong></div>
 <div><span>Relationships</span><strong>12</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -46,9 +46,9 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-gpe-fort-huachuca-t-00-16-07" style="--pulse-height:48%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 10 mentions" title="2026-01-06 · 10 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-gpe-fort-huachuca-t-00-14-55" style="--pulse-height:14%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-gpe-fort-huachuca-t-00-01-26" style="--pulse-height:8%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-fort-huachuca-t-00-28-05" style="--pulse-height:33%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 7 mentions" title="2026-01-13 · 7 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-gpe-fort-huachuca-t-00-28-26" style="--pulse-height:14%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-gpe-fort-huachuca-t-00-00-00" style="--pulse-height:100%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 21 mentions" title="2026-01-16 · 21 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-fort-huachuca-t-00-05-42" style="--pulse-height:10%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-gpe-fort-huachuca-t-00-05-25" style="--pulse-height:10%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-gpe-fort-huachuca-t-00-04-42" style="--pulse-height:24%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 5 mentions" title="2026-01-20 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-gpe-fort-huachuca-t-00-13-34" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-gpe-fort-huachuca-t-00-05-15" style="--pulse-height:8%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
@@ -99,9 +99,9 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-gpe-fort-huachuca-t-00-16-07) | 10 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-gpe-fort-huachuca-t-00-14-55) | 3 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-gpe-fort-huachuca-t-00-01-26) | 1 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-fort-huachuca-t-00-28-05) | 7 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-fort-huachuca-t-00-28-26) | 3 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-gpe-fort-huachuca-t-00-00-00) | 21 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-fort-huachuca-t-00-05-42) | 2 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-fort-huachuca-t-00-05-25) | 2 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-gpe-fort-huachuca-t-00-04-42) | 5 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-gpe-fort-huachuca-t-00-13-34) | 1 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-gpe-fort-huachuca-t-00-05-15) | 1 |
@@ -145,7 +145,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (244)</strong></summary>
+<summary><strong class="section-title">Raw mentions (240)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (1 mentions)</summary>
@@ -762,10 +762,10 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (2 mentions)</summary>
 
-**[00:05:42](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-fort-huachuca-t-00-05-42)**
+**[00:05:42](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-fort-huachuca-t-00-05-25)**
 > "Again, paraphrasing, but he kept going on with, you're obsessed with Fort Huachuca. You think Charlie has been tracked for a while, right?"
 
-**[00:47:50](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-fort-huachuca-t-00-47-30)**
+**[00:47:50](/episodes/ep-NIEbqsLAK8g.md#ent-gpe-fort-huachuca-t-00-47-50)**
 > "...nything you have to say about Fort Huachuca and he was like let me explain to you how rationa..."
 
 </details>
@@ -839,28 +839,16 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details>
-<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (7 mentions)</summary>
+<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (3 mentions)</summary>
 
-**[00:28:26](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-fort-huachuca-t-00-28-05)**
-> "...Michael Aquino was trained at Fort Huachuca."
+**[00:28:26](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-fort-huachuca-t-00-28-26)**
+> "Now, it's worth noting that Michael Aquino was trained at Fort Huachuca. Trained at Fort Huachuca. Yeah, Fort Huachuca, as we've now established, is the hub for intel operations and there have been a lot of scandals that have happened at Fort Huachuca. And man, did we all endure and survive."
 
-**[00:28:30](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-fort-huachuca-t-00-28-05)**
-> "Reigned at Fort Huachuca."
-
-**[00:28:33](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-fort-huachuca-t-00-28-05)**
-> "Fort Huachuca, as we've now established,"
-
-**[00:28:36](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-fort-huachuca-t-00-28-05)**
-> "...candals that have happened at Fort Huachuca. And man,"
-
-**[00:28:47](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-fort-huachuca-t-00-28-47)**
+**[00:28:47](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-fort-huachuca-t-00-28-26)**
 > "A psychological operation when Mitch Snow came and told us that he saw Brian Harpole and he saw Erika Kirk at Fort Huachuca in the days leading up to Charlie's assassination."
 
-**[00:49:17](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-fort-huachuca-t-00-28-47)**
+**[00:49:17](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-fort-huachuca-t-00-28-26)**
 > "What goes on at Fort Wachuca?"
-
-**[00:49:20](/episodes/ep-ZZGWo6oDscc.md#ent-gpe-fort-huachuca-t-00-28-47)**
-> "At Fort Wachuka."
 
 </details>
 
@@ -1236,7 +1224,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Fort Huachuca (110)</strong></summary>
+<summary><strong class="section-title">Statements about Fort Huachuca (111)</strong></summary>
 
 <details>
 <summary>UH-OH! Navy Seal Sniper Says The Feds Are Lying. State Witness Has A TV Past… | Ep 362 (2)</summary>
@@ -1463,7 +1451,7 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1)</summary>
 
-- [00:05:42](/episodes/ep-NIEbqsLAK8g.md#t-00-05-42) (Accusation) **Anonymous Source #1 (Ep NIEbqsLAK8g)** (via read message): ["The email source claimed Dan Flood connected Charlie Kirk's alleged mo..."](/statements/statement-5af4e3a94351.md)
+- [00:05:42](/episodes/ep-NIEbqsLAK8g.md#t-00-05-25) (Accusation) **Anonymous Source #1 (Ep NIEbqsLAK8g)** (via read message): ["The email source claimed Dan Flood connected Charlie Kirk's alleged mo..."](/statements/statement-5af4e3a94351.md)
   - Also about: [Dan Flood](/entities/person-dan-flood.md), [Robert Eugene Flood](/entities/person-robert-eugene-flood.md), [Charlie Kirk](/entities/person-charlie-kirk.md)
 
 </details>
@@ -1510,10 +1498,13 @@ Source: [Home | U.S. Army Fort Huachuca](https://home.army.mil/huachuca/index.ph
 </details>
 
 <details>
-<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
+<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2)</summary>
 
-- [00:28:26](/episodes/ep-ZZGWo6oDscc.md#t-00-28-05) (Claim) **Candace Owens**: ["Fort Huachuca is a hub for Army intelligence and psychological operati..."](/statements/statement-5b5e6a75a4ae.md)
+- [00:28:26](/episodes/ep-ZZGWo6oDscc.md#t-00-28-26) (Claim) **Candace Owens**: ["Fort Huachuca is a hub for Army intelligence and psychological operati..."](/statements/statement-5b5e6a75a4ae.md)
   - Also about: [United States Army](/entities/org-united-states-army.md), [Psychological operations](/entities/concept-psychological-operations.md)
+
+- [00:28:47](/episodes/ep-ZZGWo6oDscc.md#t-00-28-26) (Accusation) **Mitch Snow** (via quoted speech): ["Mitch Snow told Candace Owens that he saw Brian Harpole and Erika Kirk..."](/statements/statement-457a08a3d576.md)
+  - Also about: [Brian Harpole](/entities/person-brian-harpole.md), [Erika Kirk](/entities/person-erika-kirk.md)
 
 </details>
 

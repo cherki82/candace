@@ -5,6 +5,22 @@ Each deployment records changes to episodes, entities, events, claims, and relat
 
 ---
 
+## 2026-08-29 06:53:54
+
+**Added 6 new entity/entities**
+**Added 1 new event(s)**
+**Added 3 new statement(s)**
+**Added 31 new relationship(s)**
+
+**Totals:**
+- Episodes: 159
+- Entities: 4029
+- Events: 1704
+- Statements: 6906
+- Relationships: 4450
+
+---
+
 ## 2026-08-28 22:19:00
 
 **Added 1 episode(s):**

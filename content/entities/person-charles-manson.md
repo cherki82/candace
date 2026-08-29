@@ -1,6 +1,6 @@
 ---
 title: "Charles Manson"
-description: "Charles Manson (People) - 4 mentions"
+description: "Charles Manson (People) - 5 mentions"
 id: "person-charles-manson"
 type: "PERSON"
 aliases:
@@ -21,10 +21,10 @@ _Type: People_
 Source: [Charles Manson — Encyclopaedia Britannica](https://www.britannica.com/biography/Charles-Manson)
 
 <div class="entity-summary-grid">
-<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-charles-manson-t-00-13-33">2026-02-25 · 00:13:38</a></strong></div>
+<div><span>First on-channel mention</span><strong><a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-charles-manson-t-00-21-58">2026-01-13 · 00:22:08</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-Ux1kzgQxkws.md#ent-person-charles-manson-t-01-18-04">2026-05-21 · 01:18:04</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -33,8 +33,9 @@ Source: [Charles Manson — Encyclopaedia Britannica](https://www.britannica.com
 
 <section class="entity-pulse-section" aria-labelledby="mention-pulse-title">
 <div class="entity-section-heading"><div><span class="research-kicker">Corpus recurrence</span><h2 id="mention-pulse-title">Mention pulse</h2></div>
-<p>Highest activity: <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-charles-manson-t-00-13-33">Bride Of Charlie: A Wrinkle In Time | Episode 1</a> (1 mentions)</p></div>
+<p>Highest activity: <a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-charles-manson-t-00-21-58">CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289</a> (1 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-charles-manson-t-00-21-58" style="--pulse-height:100%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-charles-manson-t-00-13-33" style="--pulse-height:100%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-I0OaY6Gryqk.md#ent-person-charles-manson-t-00-37-25" style="--pulse-height:100%" aria-label="HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-rupRLXmSndU.md#ent-person-charles-manson-t-00-48-20" style="--pulse-height:100%" aria-label="Friends In High Temples: Charlie&#x27;s Final Call With Bibi... | Candace Ep 320: 1 mentions" title="2026-04-01 · 1 mentions"><span></span></a>
@@ -44,6 +45,7 @@ Source: [Charles Manson — Encyclopaedia Britannica](https://www.britannica.com
 
 | Source date | Source | Mentions |
 |---|---|---:|
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-charles-manson-t-00-21-58) | 1 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-charles-manson-t-00-13-33) | 1 |
 | 2026-03-17 | [HUMILIATING! Trump Loses A War Hero. Erika Kirk Loses Arkansas. | Candace Ep 313](/episodes/ep-I0OaY6Gryqk.md#ent-person-charles-manson-t-00-37-25) | 1 |
 | 2026-04-01 | [Friends In High Temples: Charlie's Final Call With Bibi... | Candace Ep 320](/episodes/ep-rupRLXmSndU.md#ent-person-charles-manson-t-00-48-20) | 1 |
@@ -55,7 +57,7 @@ Source: [Charles Manson — Encyclopaedia Britannica](https://www.britannica.com
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
 
 <details>
 <summary>Candace x Hunter Biden: The Interview (1 mentions)</summary>
@@ -86,6 +88,14 @@ Source: [Charles Manson — Encyclopaedia Britannica](https://www.britannica.com
 
 **[00:13:38](/episodes/ep-ZAsV0fHGBiM.md#ent-person-charles-manson-t-00-13-33)**
 > "The Manson murders,"
+
+</details>
+
+<details>
+<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
+
+**[00:22:08](/episodes/ep-ZZGWo6oDscc.md#ent-person-charles-manson-t-00-21-58)**
+> "...g, whenever you're ready, the Manson murders, whenever you're ready, all military. Any..."
 
 </details>
 

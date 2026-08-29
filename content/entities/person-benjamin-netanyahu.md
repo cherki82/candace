@@ -1,6 +1,6 @@
 ---
 title: "Benjamin Netanyahu"
-description: "Benjamin Netanyahu (People) - 398 mentions"
+description: "Benjamin Netanyahu (People) - 400 mentions"
 id: "person-benjamin-netanyahu"
 type: "PERSON"
 aliases:
@@ -30,7 +30,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-czVBmqZP6Ss.md#ent-person-benjamin-netanyahu-t-00-06-16">2025-09-15 · 00:01:28</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-_cNtgris8Ik.md#ent-person-benjamin-netanyahu-t-00-51-43">2026-08-21 · 00:52:19</a></strong></div>
 <div><span>Episodes</span><strong>96</strong></div>
-<div><span>Mentions</span><strong>398</strong></div>
+<div><span>Mentions</span><strong>400</strong></div>
 <div><span>Statements by</span><strong>25</strong></div>
 <div><span>Statements about</span><strong>127</strong></div>
 <div><span>Relationships</span><strong>59</strong></div>
@@ -78,7 +78,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-benjamin-netanyahu-t-00-37-54" style="--pulse-height:8%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 2 mentions" title="2026-01-07 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-benjamin-netanyahu-t-00-47-30" style="--pulse-height:8%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 2 mentions" title="2026-01-09 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-person-benjamin-netanyahu-t-00-05-33" style="--pulse-height:14%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 4 mentions" title="2026-01-12 · 4 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-benjamin-netanyahu-t-00-02-32" style="--pulse-height:11%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-benjamin-netanyahu-t-00-02-28" style="--pulse-height:18%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 5 mentions" title="2026-01-13 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-2T39-oADLj0.md#ent-person-benjamin-netanyahu-t-00-42-40" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-benjamin-netanyahu-t-00-25-07" style="--pulse-height:11%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 3 mentions" title="2026-01-20 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-person-benjamin-netanyahu-t-00-03-36" style="--pulse-height:18%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 5 mentions" title="2026-01-28 · 5 mentions"><span></span></a>
@@ -179,7 +179,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-benjamin-netanyahu-t-00-37-54) | 2 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-benjamin-netanyahu-t-00-47-30) | 2 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-person-benjamin-netanyahu-t-00-05-33) | 4 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-benjamin-netanyahu-t-00-02-32) | 3 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-benjamin-netanyahu-t-00-02-28) | 5 |
 | 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-person-benjamin-netanyahu-t-00-42-40) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-benjamin-netanyahu-t-00-25-07) | 3 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-person-benjamin-netanyahu-t-00-03-36) | 5 |
@@ -245,7 +245,7 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (398)</strong></summary>
+<summary><strong class="section-title">Raw mentions (400)</strong></summary>
 
 <details>
 <summary>Honey, I Shrunk The Footage! More Exclusive TPUSA Shenanigans. | Ep 379 (5 mentions)</summary>
@@ -1186,16 +1186,22 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 </details>
 
 <details>
-<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (3 mentions)</summary>
+<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (5 mentions)</summary>
 
-**[00:02:32](/episodes/ep-ZZGWo6oDscc.md#ent-person-benjamin-netanyahu-t-00-02-32)**
+**[00:02:28](/episodes/ep-ZZGWo6oDscc.md#ent-person-benjamin-netanyahu-t-00-02-28)**
 > "...ust seems to be that whatever bibi netanyahu's around the corner like hey i want tha..."
 
-**[00:03:41](/episodes/ep-ZZGWo6oDscc.md#ent-person-benjamin-netanyahu-t-00-03-11)**
+**[00:03:39](/episodes/ep-ZZGWo6oDscc.md#ent-person-benjamin-netanyahu-t-00-03-04)**
 > "...harlie goes head to head with Bibi Netanyahu."
 
-**[00:14:15](/episodes/ep-ZZGWo6oDscc.md#ent-person-benjamin-netanyahu-t-00-13-49)**
+**[00:14:12](/episodes/ep-ZZGWo6oDscc.md#ent-person-benjamin-netanyahu-t-00-14-12)**
 > "...as obviously a good thing for Bibi Netanyahu, his war ambitions in Iran,"
+
+**[00:03:04](/episodes/ep-ZZGWo6oDscc.md#ent-person-benjamin-netanyahu-t-00-03-04)**
+> "Bibi (Benjamin Netanyahu) is over here like, oh, land. Oh, no, really? It'..."
+
+**[00:08:58](/episodes/ep-ZZGWo6oDscc.md#ent-person-benjamin-netanyahu-t-00-08-58)**
+> "...arlie going head to head with Bibi Netanyahu because june is when things start to lo..."
 
 </details>
 
@@ -2846,10 +2852,10 @@ Source: [Binyamin (Bibi) Netanyahu - Biography](https://www.gov.il/apps/election
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (2)</summary>
 
-- [00:03:30](/episodes/ep-ZZGWo6oDscc.md#t-00-03-11) (Claim) **Candace Owens** (via paraphrase): ["According to Tucker Carlson and others, Charlie Kirk went head-to-head..."](/statements/statement-b2921bff7c51.md)
+- [00:03:30](/episodes/ep-ZZGWo6oDscc.md#t-00-03-04) (Claim) **Candace Owens** (via paraphrase): ["According to Tucker Carlson and others, Charlie Kirk went head-to-head..."](/statements/statement-b2921bff7c51.md)
   - Also about: [Tucker Carlson](/entities/person-tucker-carlson.md), [Charlie Kirk](/entities/person-charlie-kirk.md), [Donald J. Trump](/entities/person-donald-trump.md)
 
-- [00:14:12](/episodes/ep-ZZGWo6oDscc.md#t-00-13-49) (Accusation) **Candace Owens**: ["Charlie Kirk's assassination was good for Benjamin Netanyahu's war amb..."](/statements/statement-ba3417f20e97.md)
+- [00:14:12](/episodes/ep-ZZGWo6oDscc.md#t-00-13-31) (Accusation) **Candace Owens**: ["Charlie Kirk's assassination was good for Benjamin Netanyahu's war amb..."](/statements/statement-ba3417f20e97.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Iran](/entities/gpe-iran.md), [Israel](/entities/gpe-israel.md)
 
 </details>

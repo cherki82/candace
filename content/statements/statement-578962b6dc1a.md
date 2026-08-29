@@ -26,7 +26,7 @@ type: "opinion"
 ## Source
 
 **Episode:** [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md)
-**Timestamp:** [00:04:44](/episodes/ep-BKcOm32ZEGk.md#t-00-04-10) 
+**Timestamp:** [00:04:44](/episodes/ep-BKcOm32ZEGk.md#t-00-04-21) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(284);return false;">Play</a>
 
 > And I am of the opinion, it's an opinion, I'm allowed to have it, it's obviously not a fact, but I am of the opinion based on the discussions I had with him that he's been monitored since.

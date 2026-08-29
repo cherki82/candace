@@ -1,6 +1,6 @@
 ---
 title: "Catholicism"
-description: "Catholicism (Concepts) - 235 mentions"
+description: "Catholicism (Concepts) - 234 mentions"
 id: "concept-catholicism"
 type: "CONCEPT"
 aliases:
@@ -23,7 +23,7 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-t1YtLS1n8Vs.md#ent-concept-catholicism-t-00-03-31">2025-10-02 · 00:03:54</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-4JxgOclKzqg.md#ent-concept-catholicism-t-00-42-32">2026-08-18 · 00:43:02</a></strong></div>
 <div><span>Episodes</span><strong>61</strong></div>
-<div><span>Mentions</span><strong>235</strong></div>
+<div><span>Mentions</span><strong>234</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>17</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -42,7 +42,7 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-catholicism-t-00-02-03" style="--pulse-height:8%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-catholicism-t-00-48-21" style="--pulse-height:12%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-X92MllIHDzw.md#ent-concept-catholicism-t-00-46-23" style="--pulse-height:8%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-concept-catholicism-t-00-38-39" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 2 mentions" title="2026-01-19 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-concept-catholicism-t-00-38-33" style="--pulse-height:8%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-concept-catholicism-t-00-44-18" style="--pulse-height:8%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 1 mentions" title="2026-01-20 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-concept-catholicism-t-00-23-33" style="--pulse-height:12%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 3 mentions" title="2026-01-21 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-concept-catholicism-t-00-19-12" style="--pulse-height:12%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 3 mentions" title="2026-01-22 · 3 mentions"><span></span></a>
@@ -108,7 +108,7 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-catholicism-t-00-02-03) | 2 |
 | 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-catholicism-t-00-48-21) | 3 |
 | 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-concept-catholicism-t-00-46-23) | 1 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-concept-catholicism-t-00-38-39) | 2 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-concept-catholicism-t-00-38-33) | 1 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-concept-catholicism-t-00-44-18) | 1 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-concept-catholicism-t-00-23-33) | 3 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-concept-catholicism-t-00-19-12) | 3 |
@@ -168,7 +168,7 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (235)</strong></summary>
+<summary><strong class="section-title">Raw mentions (234)</strong></summary>
 
 <details>
 <summary>Liar, Liar, TPUSA On Fire? More Exclusive Footage From 9/10. | Ep 377 (1 mentions)</summary>
@@ -1076,12 +1076,9 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 </details>
 
 <details>
-<summary>A Legal Turning Point? | Candace Ep 292 (2 mentions)</summary>
+<summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
 
-**[00:38:51](/episodes/ep-NIEbqsLAK8g.md#ent-concept-catholicism-t-00-38-39)**
-> "the peace that I have found in the Catholic faith"
-
-**[00:38:46](/episodes/ep-NIEbqsLAK8g.md#ent-concept-catholicism-t-00-38-39)**
+**[00:38:46](/episodes/ep-NIEbqsLAK8g.md#ent-concept-catholicism-t-00-38-33)**
 > "It's the number one Catholic answer engine in the world, and there's a reason ..."
 
 </details>
@@ -1100,10 +1097,10 @@ Source: [The Catechism of the Catholic Church](https://www.vatican.va/content/ca
 **[00:48:55](/episodes/ep-ZZGWo6oDscc.md#ent-concept-catholicism-t-00-48-21)**
 > "...nnis, I just started going to Catholic Mass for the first time ever. I originally grew u..."
 
-**[00:50:32](/episodes/ep-ZZGWo6oDscc.md#ent-concept-catholicism-t-00-50-30)**
+**[00:50:27](/episodes/ep-ZZGWo6oDscc.md#ent-concept-catholicism-t-00-50-22)**
 > "...tand against pornography as a Catholic and you should,"
 
-**[00:51:34](/episodes/ep-ZZGWo6oDscc.md#ent-concept-catholicism-t-00-51-34)**
+**[00:51:30](/episodes/ep-ZZGWo6oDscc.md#ent-concept-catholicism-t-00-51-30)**
 > "... they have to i pretend to be catholic do i pretend to be jewish do i pretend to be musl..."
 
 </details>
@@ -1299,7 +1296,7 @@ _No relationships extracted yet._
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
 
-- [00:50:32](/episodes/ep-ZZGWo6oDscc.md#t-00-50-30) (Claim) **Candace Owens**: ["Pornography is part of a psychological operation and renders men weake..."](/statements/statement-e501a3b4e04d.md)
+- [00:50:32](/episodes/ep-ZZGWo6oDscc.md#t-00-50-22) (Claim) **Candace Owens**: ["Pornography is part of a psychological operation and renders men weake..."](/statements/statement-e501a3b4e04d.md)
   - Also about: [Pornography](/entities/concept-pornography.md), [Psychological operations](/entities/concept-psychological-operations.md)
 
 </details>

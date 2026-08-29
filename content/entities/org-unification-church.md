@@ -41,7 +41,7 @@ Source: [What is the Unification Church and why did a Japanese court order it di
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-unification-church-t-00-49-36" style="--pulse-height:73%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 8 mentions" title="2026-01-09 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-org-unification-church-t-00-13-06" style="--pulse-height:100%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 11 mentions" title="2026-01-12 · 11 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-unification-church-t-00-14-32" style="--pulse-height:27%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-unification-church-t-00-14-12" style="--pulse-height:27%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 3 mentions" title="2026-01-13 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-QdM9jLwjwLw.md#ent-org-unification-church-t-00-22-10" style="--pulse-height:9%" aria-label="Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297: 1 mentions" title="2026-01-28 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -50,7 +50,7 @@ Source: [What is the Unification Church and why did a Japanese court order it di
 |---|---|---:|
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-unification-church-t-00-49-36) | 8 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-unification-church-t-00-13-06) | 11 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-unification-church-t-00-14-32) | 3 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-unification-church-t-00-14-12) | 3 |
 | 2026-01-28 | [Loose Lips Sink Ships: ANOTHER Zoom Call Leaks…  | Candace Ep 297](/episodes/ep-QdM9jLwjwLw.md#ent-org-unification-church-t-00-22-10) | 1 |
 
 </details>
@@ -72,13 +72,13 @@ Source: [What is the Unification Church and why did a Japanese court order it di
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (3 mentions)</summary>
 
-**[00:14:34](/episodes/ep-ZZGWo6oDscc.md#ent-org-unification-church-t-00-14-32)**
+**[00:14:32](/episodes/ep-ZZGWo6oDscc.md#ent-org-unification-church-t-00-14-12)**
 > "..., created in the image of the Moonies cults, a Korean cult."
 
-**[00:15:39](/episodes/ep-ZZGWo6oDscc.md#ent-org-unification-church-t-00-15-13)**
+**[00:15:39](/episodes/ep-ZZGWo6oDscc.md#ent-org-unification-church-t-00-15-12)**
 > "The Unification Church."
 
-**[00:18:09](/episodes/ep-ZZGWo6oDscc.md#ent-org-unification-church-t-00-17-27)**
+**[00:18:02](/episodes/ep-ZZGWo6oDscc.md#ent-org-unification-church-t-00-17-43)**
 > "the Moonies cult just opened everything."
 
 </details>

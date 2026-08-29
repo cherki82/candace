@@ -18,7 +18,7 @@ Source: [Conservative US influencer Candace Owens is barred from New Zealand wee
 
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-vwG1juDCQZQ.md#ent-person-tony-burke-t-00-03-35">2025-11-06 · 00:04:13</a></strong></div>
-<div><span>Most recent mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-person-tony-burke-t-00-39-37">2026-01-16 · 00:39:42</a></strong></div>
+<div><span>Most recent mention</span><strong><a href="/episodes/ep-2T39-oADLj0.md#ent-person-tony-burke-t-00-39-37">2026-01-16 · 00:39:37</a></strong></div>
 <div><span>Episodes</span><strong>2</strong></div>
 <div><span>Mentions</span><strong>3</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
@@ -52,7 +52,7 @@ Source: [Conservative US influencer Candace Owens is barred from New Zealand wee
 <details>
 <summary>Myron Gaines x Candace Owens (1 mentions)</summary>
 
-**[00:39:42](/episodes/ep-2T39-oADLj0.md#ent-person-tony-burke-t-00-39-37)**
+**[00:39:37](/episodes/ep-2T39-oADLj0.md#ent-person-tony-burke-t-00-39-37)**
 > "Tony Burke in Australia banned me"
 
 </details>

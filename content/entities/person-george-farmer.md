@@ -41,7 +41,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 <a href="/episodes/ep-iHav0PPzUz8.md#ent-person-george-farmer-t-00-57-17" style="--pulse-height:18%" aria-label="BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255: 4 mentions" title="2025-10-30 · 4 mentions"><span></span></a>
 <a href="/episodes/ep-DqGNvi36ol8.md#ent-person-george-farmer-t-00-15-21" style="--pulse-height:9%" aria-label="Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275: 2 mentions" title="2025-12-05 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-02-04" style="--pulse-height:27%" aria-label="Erika And I Sat Down. Here’s What Happened. | Candace Ep 280: 6 mentions" title="2025-12-16 · 6 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-george-farmer-t-00-06-16" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-george-farmer-t-00-06-23" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-george-farmer-t-00-45-47" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 1 mentions" title="2026-01-21 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-2tFYJf1klgY.md#ent-person-george-farmer-t-00-44-06" style="--pulse-height:8%" aria-label="Bride Of Charlie: The Lost Years... | Episode 5: 1 mentions" title="2026-03-03 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-george-farmer-t-00-27-35" style="--pulse-height:9%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 2 mentions" title="2026-03-12 · 2 mentions"><span></span></a>
@@ -76,7 +76,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 | 2025-10-30 | [BREAKING NEWS! The Egyptian Military Was In Provo On 9/10. | Candace Ep 255](/episodes/ep-iHav0PPzUz8.md#ent-person-george-farmer-t-00-57-17) | 4 |
 | 2025-12-05 | [Woah: It Was Erika Kirk Who Called For TPUSA To Invite Me!? | Candace Ep 275](/episodes/ep-DqGNvi36ol8.md#ent-person-george-farmer-t-00-15-21) | 2 |
 | 2025-12-16 | [Erika And I Sat Down. Here’s What Happened. | Candace Ep 280](/episodes/ep-es7PWdFGoFI.md#ent-person-george-farmer-t-00-02-04) | 6 |
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-george-farmer-t-00-06-16) | 1 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-george-farmer-t-00-06-23) | 1 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-george-farmer-t-00-45-47) | 1 |
 | 2026-03-03 | [Bride Of Charlie: The Lost Years... | Episode 5](/episodes/ep-2tFYJf1klgY.md#ent-person-george-farmer-t-00-44-06) | 1 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-george-farmer-t-00-27-35) | 2 |
@@ -431,7 +431,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
 
-**[00:06:33](/episodes/ep-BKcOm32ZEGk.md#ent-person-george-farmer-t-00-06-16)**
+**[00:06:33](/episodes/ep-BKcOm32ZEGk.md#ent-person-george-farmer-t-00-06-23)**
 > "I already knew George"
 
 </details>
@@ -694,7 +694,7 @@ Source: [Meet My Husband, George Farmer | Candace Ep 119](https://www.youtube.co
 - **[Candace Owens](/entities/person-candace-owens.md)** married to this
 <details class="relationship-evidence"><summary>Show all evidence (15)</summary>
 
-- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:06:24](/episodes/ep-BKcOm32ZEGk.md#t-00-06-16): “The story had my husband. I've told it many times how I got engaged 18 days later... But I already knew George... I looked at my husband's face and I already knew him.”
+- [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 @ 00:06:24](/episodes/ep-BKcOm32ZEGk.md#t-00-06-23): “The story had my husband. I've told it many times how I got engaged 18 days later... But I already knew George... I looked at my husband's face and I already knew him.”
 - [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294 @ 00:46:12](/episodes/ep-GY6GWceEqtQ.md#t-00-45-47): “I could bake cookies with any of George (George Farmer)'s exes. I just don't care. He's my husband.”
 - [Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast @ 01:32:35](/episodes/ep-nPhCKwJ6ye8.md#t-01-32-20): “George could be sending text messages right now. We are married. He has every login that I have.”
 - [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311 @ 00:27:51](/episodes/ep-5-HUyv9LyMg.md#t-00-27-35): “my husband George Farmer”

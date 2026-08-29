@@ -1,6 +1,6 @@
 ---
 title: "Emmanuel Macron"
-description: "Emmanuel Macron (People) - 117 mentions"
+description: "Emmanuel Macron (People) - 118 mentions"
 id: "person-emmanuel-macron"
 type: "PERSON"
 aliases:
@@ -24,7 +24,7 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-sreYYcID-QY.md#t-00-45-49">2025-09-18 · 00:46:01</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-nPhCKwJ6ye8.md#ent-person-emmanuel-macron-t-02-21-59">2026-08-14 · 02:22:25</a></strong></div>
 <div><span>Episodes</span><strong>32</strong></div>
-<div><span>Mentions</span><strong>117</strong></div>
+<div><span>Mentions</span><strong>118</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>15</strong></div>
 <div><span>Relationships</span><strong>5</strong></div>
@@ -51,7 +51,7 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 <a href="/episodes/ep-his-JBjlkh8.md#ent-person-emmanuel-macron-t-00-49-40" style="--pulse-height:25%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 6 mentions" title="2025-12-03 · 6 mentions"><span></span></a>
 <a href="/episodes/ep-Kmt6HgRjckU.md#t-00-06-27" style="--pulse-height:8%" aria-label="Who Stood To Benefit From Charlie Kirk&#x27;s Assassination? | Candace Ep 276: 2 mentions" title="2025-12-08 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-emmanuel-macron-t-00-53-08" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 1 mentions" title="2026-01-06 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-emmanuel-macron-t-00-35-55" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-person-emmanuel-macron-t-00-35-53" style="--pulse-height:8%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-person-emmanuel-macron-t-00-00-00" style="--pulse-height:29%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 7 mentions" title="2026-02-04 · 7 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-person-emmanuel-macron-t-00-43-01" style="--pulse-height:8%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-person-emmanuel-macron-t-00-14-13" style="--pulse-height:8%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
@@ -88,7 +88,7 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-person-emmanuel-macron-t-00-49-40) | 6 |
 | 2025-12-08 | [Who Stood To Benefit From Charlie Kirk's Assassination? | Candace Ep 276](/episodes/ep-Kmt6HgRjckU.md#t-00-06-27) | 2 |
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-emmanuel-macron-t-00-53-08) | 1 |
-| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-emmanuel-macron-t-00-35-55) | 1 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-person-emmanuel-macron-t-00-35-53) | 1 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-person-emmanuel-macron-t-00-00-00) | 7 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-person-emmanuel-macron-t-00-43-01) | 1 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-person-emmanuel-macron-t-00-14-13) | 1 |
@@ -111,7 +111,7 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (117)</strong></summary>
+<summary><strong class="section-title">Raw mentions (118)</strong></summary>
 
 <details>
 <summary>Candace Owens vs. Andrew Wilson: The Charlie Kirk Debate | PBD Podcast (1 mentions)</summary>
@@ -260,7 +260,7 @@ Source: [Élysée — Emmanuel Macron](https://www.elysee.fr/en/emmanuel-macron)
 <details>
 <summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
 
-**[00:36:16](/episodes/ep-BKcOm32ZEGk.md#ent-person-emmanuel-macron-t-00-35-55)**
+**[00:36:16](/episodes/ep-BKcOm32ZEGk.md#ent-person-emmanuel-macron-t-00-35-53)**
 > "where both Brigitte and Emmanuel are from"
 
 </details>

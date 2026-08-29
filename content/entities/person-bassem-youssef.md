@@ -180,9 +180,10 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 <summary>Interviewed By (2)</summary>
 
 - **[Piers Morgan](/entities/person-piers-morgan.md)**
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:04:25](/episodes/ep-xjzb_t5Tk9o.md#t-01-04-24): “psychopath are genuinely sick people. The world revolves around them. They can do no wrong. They will gaslight you into denying what's in front of you. They will not engage in conversation except to wear you down and piss you off. In one of the interviews I did with Piers Morgan, they brought someone called Jonathan Conricus, who was the ex-IDF”
+- [Myron Gaines x Candace Owens @ 00:33:19](/episodes/ep-2T39-oADLj0.md#t-00-33-05): “I watched Basim Youssef. This was truly the mental turning point for me. He went on to Piers Morgan and it went viral and he held up this paper where he showed how many deaths there were every year of Palestinians versus Israelis.”
 
 </details>
 
@@ -235,9 +236,10 @@ Source: [About | Bassem Youssef](https://www.bassemyoussef.xyz/about/)
 </details>
 
 - **[Piers Morgan](/entities/person-piers-morgan.md)** interviewed this
-<details class="relationship-evidence"><summary>Show all evidence (1)</summary>
+<details class="relationship-evidence"><summary>Show all evidence (2)</summary>
 
 - [Candace x Bassem Youssef | Candace Ep 298 @ 01:04:25](/episodes/ep-xjzb_t5Tk9o.md#t-01-04-24): “psychopath are genuinely sick people. The world revolves around them. They can do no wrong. They will gaslight you into denying what's in front of you. They will not engage in conversation except to wear you down and piss you off. In one of the interviews I did with Piers Morgan, they brought someone called Jonathan Conricus, who was the ex-IDF”
+- [Myron Gaines x Candace Owens @ 00:33:19](/episodes/ep-2T39-oADLj0.md#t-00-33-05): “I watched Basim Youssef. This was truly the mental turning point for me. He went on to Piers Morgan and it went viral and he held up this paper where he showed how many deaths there were every year of Palestinians versus Israelis.”
 
 </details>
 

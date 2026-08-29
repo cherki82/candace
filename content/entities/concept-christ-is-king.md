@@ -1,6 +1,6 @@
 ---
 title: "Christ Is King"
-description: "Christ Is King (Concepts) - 41 mentions"
+description: "Christ Is King (Concepts) - 45 mentions"
 id: "concept-christ-is-king"
 type: "CONCEPT"
 aliases:
@@ -22,8 +22,8 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-christ-is-king-t-00-20-32">2026-01-12 · 00:20:43</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-1CFDtD0IgEg.md#ent-concept-christ-is-king-t-00-51-45">2026-08-04 · 00:52:11</a></strong></div>
-<div><span>Episodes</span><strong>21</strong></div>
-<div><span>Mentions</span><strong>41</strong></div>
+<div><span>Episodes</span><strong>24</strong></div>
+<div><span>Mentions</span><strong>45</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -35,7 +35,10 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 <p>Highest activity: <a href="/episodes/ep-uC_GjKU8rs8.md#ent-concept-christ-is-king-t-00-07-54">Daily Wire COLLAPSES! Ben Shapiro Wants REVENGE. | Candace Ep 332</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-concept-christ-is-king-t-00-20-32" style="--pulse-height:40%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 2 mentions" title="2026-01-12 · 2 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-christ-is-king-t-00-45-20" style="--pulse-height:20%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-concept-christ-is-king-t-00-45-48" style="--pulse-height:20%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-christ-is-king-t-00-26-32" style="--pulse-height:40%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 2 mentions" title="2026-01-14 · 2 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-concept-christ-is-king-t-00-56-14" style="--pulse-height:20%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-X92MllIHDzw.md#ent-concept-christ-is-king-t-00-59-24" style="--pulse-height:20%" aria-label="OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-concept-christ-is-king-t-00-57-33" style="--pulse-height:20%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-concept-christ-is-king-t-00-34-40" style="--pulse-height:40%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 2 mentions" title="2026-02-11 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-concept-christ-is-king-t-00-58-16" style="--pulse-height:40%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 2 mentions" title="2026-02-25 · 2 mentions"><span></span></a>
@@ -61,7 +64,10 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-concept-christ-is-king-t-00-20-32) | 2 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-christ-is-king-t-00-45-20) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-concept-christ-is-king-t-00-45-48) | 1 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-christ-is-king-t-00-26-32) | 2 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-concept-christ-is-king-t-00-56-14) | 1 |
+| 2026-01-16 | [OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291](/episodes/ep-X92MllIHDzw.md#ent-concept-christ-is-king-t-00-59-24) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-concept-christ-is-king-t-00-57-33) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-concept-christ-is-king-t-00-34-40) | 2 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-concept-christ-is-king-t-00-58-16) | 2 |
@@ -88,7 +94,7 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (41)</strong></summary>
+<summary><strong class="section-title">Raw mentions (45)</strong></summary>
 
 <details>
 <summary>VIRAL! Frank Turek Wants Me Struck Down?! Another Hole In The Story Revealed… | Ep 371 (3 mentions)</summary>
@@ -300,9 +306,36 @@ Source: [Quas Primas – On the Feast of Christ the King](https://www.vatican.va
 </details>
 
 <details>
+<summary>Myron Gaines x Candace Owens (1 mentions)</summary>
+
+**[00:56:34](/episodes/ep-2T39-oADLj0.md#ent-concept-christ-is-king-t-00-56-14)**
+> "...ou how the Bible works, okay? Christ is king. What that means is truth is king."
+
+</details>
+
+<details>
+<summary>OH SNAP! We Were Right About Fort Huachuca. | Candace Ep 291 (1 mentions)</summary>
+
+**[00:59:56](/episodes/ep-X92MllIHDzw.md#ent-concept-christ-is-king-t-00-59-24)**
+> "Christ is king."
+
+</details>
+
+<details>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (2 mentions)</summary>
+
+**[00:26:32](/episodes/ep-BKcOm32ZEGk.md#ent-concept-christ-is-king-t-00-26-32)**
+> "...ver the last couple of years, Christ is king is hateful. He shouldn't even be saying that."
+
+**[00:26:55](/episodes/ep-BKcOm32ZEGk.md#ent-concept-christ-is-king-t-00-26-55)**
+> "...ught in doctors to assert why christ is king is wrong that's weird guys and that's a triggerin..."
+
+</details>
+
+<details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:45:52](/episodes/ep-ZZGWo6oDscc.md#ent-concept-christ-is-king-t-00-45-20)**
+**[00:45:48](/episodes/ep-ZZGWo6oDscc.md#ent-concept-christ-is-king-t-00-45-48)**
 > "... because the truth is Christ. Christ is king."
 
 </details>

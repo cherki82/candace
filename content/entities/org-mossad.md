@@ -52,7 +52,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <a href="/episodes/ep-OEAHy3SsIiI.md#ent-org-mossad-t-01-06-13" style="--pulse-height:10%" aria-label="You Won&#x27;t Believe What Happened While We Were Off Air... | Candace Ep 284: 1 mentions" title="2026-01-05 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-mossad-t-00-48-07" style="--pulse-height:30%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
 <a href="/episodes/ep-CMcktj3Egfo.md#ent-org-mossad-t-00-31-47" style="--pulse-height:10%" aria-label="American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288: 1 mentions" title="2026-01-12 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-mossad-t-00-13-05" style="--pulse-height:10%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-org-mossad-t-00-13-31" style="--pulse-height:10%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-gG4ZoYUjUc8.md#ent-org-mossad-t-00-04-06" style="--pulse-height:10%" aria-label="Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295: 1 mentions" title="2026-01-22 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-mossad-t-00-13-07" style="--pulse-height:80%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 8 mentions" title="2026-01-29 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-Wjul6YV6izo.md#ent-org-mossad-t-00-50-31" style="--pulse-height:10%" aria-label="AND ANOTHER ONE: Charlie&#x27;s Text On September 9th. | Candace Ep 299: 1 mentions" title="2026-01-30 · 1 mentions"><span></span></a>
@@ -97,7 +97,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 | 2026-01-05 | [You Won't Believe What Happened While We Were Off Air... | Candace Ep 284](/episodes/ep-OEAHy3SsIiI.md#ent-org-mossad-t-01-06-13) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-mossad-t-00-48-07) | 3 |
 | 2026-01-12 | [American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288](/episodes/ep-CMcktj3Egfo.md#ent-org-mossad-t-00-31-47) | 1 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-mossad-t-00-13-05) | 1 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-org-mossad-t-00-13-31) | 1 |
 | 2026-01-22 | [Erika’s Inquisition: TPUSA Employees FIRED For…What?! | Candace Ep 295](/episodes/ep-gG4ZoYUjUc8.md#ent-org-mossad-t-00-04-06) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-mossad-t-00-13-07) | 8 |
 | 2026-01-30 | [AND ANOTHER ONE: Charlie's Text On September 9th. | Candace Ep 299](/episodes/ep-Wjul6YV6izo.md#ent-org-mossad-t-00-50-31) | 1 |
@@ -395,7 +395,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:13:38](/episodes/ep-ZZGWo6oDscc.md#ent-org-mossad-t-00-13-05)**
+**[00:13:38](/episodes/ep-ZZGWo6oDscc.md#ent-org-mossad-t-00-13-31)**
 > "Really, CIA and Mossad, if you haven't done this literally in every coun..."
 
 </details>
@@ -779,7 +779,7 @@ Source: [Mossad | Home](https://www.mossad.gov.il/en)
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
 
-- [00:13:31](/episodes/ep-ZZGWo6oDscc.md#t-00-13-05) (Accusation) **Candace Owens**: ["The CIA and Mossad are manufacturing a color revolution in Iran and pr..."](/statements/statement-7735fd0be3a8.md)
+- [00:13:31](/episodes/ep-ZZGWo6oDscc.md#t-00-12-51) (Accusation) **Candace Owens**: ["I might actually believe Iran's protests were organic if the CIA and M..."](/statements/statement-7735fd0be3a8.md)
   - Also about: [Central Intelligence Agency](/entities/org-central-intelligence-agency.md), [Iran](/entities/gpe-iran.md), [Color revolution](/entities/concept-color-revolution.md)
 
 </details>

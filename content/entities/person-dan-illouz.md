@@ -116,10 +116,10 @@ _No mentions recorded._
 <details>
 <summary>American Horror Story: Charlie Kirk’s “Shining” Disciples. | Candace Ep 288 (2)</summary>
 
-- [00:35:06](/episodes/ep-CMcktj3Egfo.md#t-00-34-41) [○] (Opinion) ["Dan Illouz called Tucker Carlson and Candace Owens intellectual vandals and an i..."](/statements/statement-27edd2ed7766.md)
+- [00:35:06](/episodes/ep-CMcktj3Egfo.md#t-00-34-41) [✓] (Opinion) ["Dan Illouz called Tucker Carlson and Candace Owens intellectual vandals and an i..."](/statements/statement-27edd2ed7766.md)
   - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Candace Owens](/entities/person-candace-owens.md), [Knesset](/entities/org-knesset.md)
 
-- [00:35:22](/episodes/ep-CMcktj3Egfo.md#t-00-35-18) [○] (Opinion) ["Dan Illouz said Tucker Carlson and Candace Owens resembled the woke left, attack..."](/statements/statement-070429465919.md)
+- [00:35:22](/episodes/ep-CMcktj3Egfo.md#t-00-35-18) [✓] (Opinion) ["Dan Illouz said Tucker Carlson and Candace Owens resembled the woke left, attack..."](/statements/statement-070429465919.md)
   - About: [Tucker Carlson](/entities/person-tucker-carlson.md), [Candace Owens](/entities/person-candace-owens.md)
 
 </details>

@@ -32,7 +32,7 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 <p>Highest activity: <a href="/episodes/ep-KpxIBWkNsSs.md#ent-org-linkedin-t-00-18-00">Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336</a> (5 mentions)</p></div>
 <div class="entity-pulse" role="img" aria-label="Mentions per source in publication order">
 <a href="/episodes/ep-adJ4LNGp84I.md#ent-org-linkedin-t-00-07-42" style="--pulse-height:20%" aria-label="BREAKING NEWS: A Woman Was Seen With Charlie Kirk&#x27;s Shooter | Candace Ep 246: 1 mentions" title="2025-10-01 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-linkedin-t-00-07-01" style="--pulse-height:20%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-org-linkedin-t-00-06-46" style="--pulse-height:20%" aria-label="A Legal Turning Point? | Candace Ep 292: 1 mentions" title="2026-01-19 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-CEF7gQRWYCE.md#ent-org-linkedin-t-00-27-20" style="--pulse-height:20%" aria-label="BAAL SO HARD: The Epstein Files | Candace Ep 300: 1 mentions" title="2026-02-02 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-4YgrOhhy708.md#ent-org-linkedin-t-00-20-41" style="--pulse-height:20%" aria-label="Halftime Wars: TPUSA vs The NFL | Candace Ep 304: 1 mentions" title="2026-02-09 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-ZAsV0fHGBiM.md#ent-org-linkedin-t-00-17-08" style="--pulse-height:20%" aria-label="Bride Of Charlie: A Wrinkle In Time | Episode 1: 1 mentions" title="2026-02-25 · 1 mentions"><span></span></a>
@@ -52,7 +52,7 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 | Source date | Source | Mentions |
 |---|---|---:|
 | 2025-10-01 | [BREAKING NEWS: A Woman Was Seen With Charlie Kirk's Shooter | Candace Ep 246](/episodes/ep-adJ4LNGp84I.md#ent-org-linkedin-t-00-07-42) | 1 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-linkedin-t-00-07-01) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-org-linkedin-t-00-06-46) | 1 |
 | 2026-02-02 | [BAAL SO HARD: The Epstein Files | Candace Ep 300](/episodes/ep-CEF7gQRWYCE.md#ent-org-linkedin-t-00-27-20) | 1 |
 | 2026-02-09 | [Halftime Wars: TPUSA vs The NFL | Candace Ep 304](/episodes/ep-4YgrOhhy708.md#ent-org-linkedin-t-00-20-41) | 1 |
 | 2026-02-25 | [Bride Of Charlie: A Wrinkle In Time | Episode 1](/episodes/ep-ZAsV0fHGBiM.md#ent-org-linkedin-t-00-17-08) | 1 |
@@ -206,7 +206,7 @@ Source: [About LinkedIn](https://about.linkedin.com/)
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (1 mentions)</summary>
 
-**[00:07:01](/episodes/ep-NIEbqsLAK8g.md#ent-org-linkedin-t-00-07-01)**
+**[00:07:01](/episodes/ep-NIEbqsLAK8g.md#ent-org-linkedin-t-00-06-46)**
 > "Now we're going to pull up his LinkedIn because it's a bit of a journey."
 
 </details>

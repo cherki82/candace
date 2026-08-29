@@ -30,7 +30,7 @@ type: "citation"
 ## Source
 
 **Episode:** [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md)
-**Timestamp:** [00:06:38](/episodes/ep-NIEbqsLAK8g.md#t-00-06-17) 
+**Timestamp:** [00:06:38](/episodes/ep-NIEbqsLAK8g.md#t-00-06-03) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(398);return false;">Play</a>
 
 > 33. Always got to see it. 33 years with the Texas A&M University Police Department Chief Deputy Robert Flood. It tells us the 232nd session retired after 35 years of law enforcement in Illinois and Texas. I want you to remember that Illinois and Texas. His last assignment was with the Bosque County, Texas Sheriff's Office.

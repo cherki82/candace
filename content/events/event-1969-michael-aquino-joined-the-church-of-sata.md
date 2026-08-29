@@ -14,7 +14,7 @@ date: "1969"
 ## Mentioned In
 
 **Episode:** [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md)
-**Timestamp:** [00:22:19](/episodes/ep-ZZGWo6oDscc.md#event-event-1969-michael-aquino-joined-the-church-of-sata-t-00-22-07) 
+**Timestamp:** [00:22:19](/episodes/ep-ZZGWo6oDscc.md#event-event-1969-michael-aquino-joined-the-church-of-sata-t-00-21-58) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1339);return false;">▶️ Play</a>
 
 > all military. Anyways, in 1969, this guy Aquino joined the Church of Satan.

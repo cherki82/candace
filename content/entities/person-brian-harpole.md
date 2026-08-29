@@ -26,7 +26,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <div><span>Episodes</span><strong>51</strong></div>
 <div><span>Mentions</span><strong>340</strong></div>
 <div><span>Statements by</span><strong>25</strong></div>
-<div><span>Statements about</span><strong>113</strong></div>
+<div><span>Statements about</span><strong>114</strong></div>
 <div><span>Relationships</span><strong>36</strong></div>
 <div><span>Threads</span><strong>0</strong></div>
 </div>
@@ -49,8 +49,8 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <a href="/episodes/ep-HYn0P-P1wUw.md#ent-person-brian-harpole-t-00-19-25" style="--pulse-height:8%" aria-label="BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285: 2 mentions" title="2026-01-06 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-zSKrxIUMNqw.md#ent-person-brian-harpole-t-00-41-57" style="--pulse-height:8%" aria-label="DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286: 1 mentions" title="2026-01-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-person-brian-harpole-t-00-00-00" style="--pulse-height:12%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 5 mentions" title="2026-01-09 · 5 mentions"><span></span></a>
-<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-brian-harpole-t-00-28-47" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
-<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-brian-harpole-t-00-11-11" style="--pulse-height:20%" aria-label="A Legal Turning Point? | Candace Ep 292: 8 mentions" title="2026-01-19 · 8 mentions"><span></span></a>
+<a href="/episodes/ep-ZZGWo6oDscc.md#ent-person-brian-harpole-t-00-28-26" style="--pulse-height:8%" aria-label="CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289: 1 mentions" title="2026-01-13 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-NIEbqsLAK8g.md#ent-person-brian-harpole-t-00-11-05" style="--pulse-height:20%" aria-label="A Legal Turning Point? | Candace Ep 292: 8 mentions" title="2026-01-19 · 8 mentions"><span></span></a>
 <a href="/episodes/ep-9naMwS0kMBE.md#ent-person-brian-harpole-t-00-07-06" style="--pulse-height:12%" aria-label="Candace x Baron Coleman LIVE!! | Candace Ep 293: 5 mentions" title="2026-01-20 · 5 mentions"><span></span></a>
 <a href="/episodes/ep-GY6GWceEqtQ.md#ent-person-brian-harpole-t-00-09-13" style="--pulse-height:8%" aria-label="IN MY LAWSUIT ERA: Our First &#x27;Cease And Desist&#x27; Of 2026. | Candace Ep 294: 2 mentions" title="2026-01-21 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-5-HUyv9LyMg.md#ent-person-brian-harpole-t-00-31-03" style="--pulse-height:8%" aria-label="EXCLUSIVE VIDEO: The Footage Behind Charlie&#x27;s Head | Candace Ep 311: 2 mentions" title="2026-03-12 · 2 mentions"><span></span></a>
@@ -105,8 +105,8 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 | 2026-01-06 | [BREAKING NEWS: Where Tyler Robinson Went On The Night Of 9/10. | Candace Ep 285](/episodes/ep-HYn0P-P1wUw.md#ent-person-brian-harpole-t-00-19-25) | 2 |
 | 2026-01-07 | [DEFCON 3: Ben Shapiro’s Legacy Of No-Nos | Candace Ep 286](/episodes/ep-zSKrxIUMNqw.md#ent-person-brian-harpole-t-00-41-57) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-person-brian-harpole-t-00-00-00) | 5 |
-| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-brian-harpole-t-00-28-47) | 1 |
-| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-brian-harpole-t-00-11-11) | 8 |
+| 2026-01-13 | [CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289](/episodes/ep-ZZGWo6oDscc.md#ent-person-brian-harpole-t-00-28-26) | 1 |
+| 2026-01-19 | [A Legal Turning Point? | Candace Ep 292](/episodes/ep-NIEbqsLAK8g.md#ent-person-brian-harpole-t-00-11-05) | 8 |
 | 2026-01-20 | [Candace x Baron Coleman LIVE!! | Candace Ep 293](/episodes/ep-9naMwS0kMBE.md#ent-person-brian-harpole-t-00-07-06) | 5 |
 | 2026-01-21 | [IN MY LAWSUIT ERA: Our First 'Cease And Desist' Of 2026. | Candace Ep 294](/episodes/ep-GY6GWceEqtQ.md#ent-person-brian-harpole-t-00-09-13) | 2 |
 | 2026-03-12 | [EXCLUSIVE VIDEO: The Footage Behind Charlie's Head | Candace Ep 311](/episodes/ep-5-HUyv9LyMg.md#ent-person-brian-harpole-t-00-31-03) | 2 |
@@ -1121,25 +1121,25 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (8 mentions)</summary>
 
-**[00:11:31](/episodes/ep-NIEbqsLAK8g.md#ent-person-brian-harpole-t-00-11-11)**
+**[00:11:31](/episodes/ep-NIEbqsLAK8g.md#ent-person-brian-harpole-t-00-11-05)**
 > "And working under Greg Shaffer was Dan Flood and Brian Harpole."
 
-**[00:12:12](/episodes/ep-NIEbqsLAK8g.md#ent-person-brian-harpole-t-00-11-56)**
+**[00:12:12](/episodes/ep-NIEbqsLAK8g.md#ent-person-brian-harpole-t-00-12-12)**
 > "Brian Harpole."
 
-**[00:14:09](/episodes/ep-NIEbqsLAK8g.md#ent-person-brian-harpole-t-00-14-04)**
+**[00:14:09](/episodes/ep-NIEbqsLAK8g.md#ent-person-brian-harpole-t-00-13-35)**
 > "...ick Cutler to Dan Flood, even Brian Harpole."
 
-**[00:14:16](/episodes/ep-NIEbqsLAK8g.md#ent-person-brian-harpole-t-00-14-04)**
+**[00:14:16](/episodes/ep-NIEbqsLAK8g.md#ent-person-brian-harpole-t-00-14-16)**
 > "Brian Harpole, you should know, was also born in Dallas,"
 
-**[00:16:01](/episodes/ep-NIEbqsLAK8g.md#ent-person-brian-harpole-t-00-15-28)**
+**[00:16:01](/episodes/ep-NIEbqsLAK8g.md#ent-person-brian-harpole-t-00-15-32)**
 > "if Dan Flood and Brian Harpole were actually guilty of organizing Charlie Kirk's..."
 
-**[00:24:39](/episodes/ep-NIEbqsLAK8g.md#ent-person-brian-harpole-t-00-24-18)**
+**[00:24:39](/episodes/ep-NIEbqsLAK8g.md#ent-person-brian-harpole-t-00-24-14)**
 > "Then Brian Harpole, apparently unaware that Frank Turek had already ..."
 
-**[00:26:03](/episodes/ep-NIEbqsLAK8g.md#ent-person-brian-harpole-t-00-25-53)**
+**[00:26:03](/episodes/ep-NIEbqsLAK8g.md#ent-person-brian-harpole-t-00-25-49)**
 > "Brian Harpole specifically saying, like,"
 
 **[00:29:35](/episodes/ep-NIEbqsLAK8g.md#ent-person-brian-harpole-t-00-29-00)**
@@ -1150,7 +1150,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <details>
 <summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1 mentions)</summary>
 
-**[00:28:47](/episodes/ep-ZZGWo6oDscc.md#ent-person-brian-harpole-t-00-28-47)**
+**[00:28:47](/episodes/ep-ZZGWo6oDscc.md#ent-person-brian-harpole-t-00-28-26)**
 > "A psychological operation when Mitch Snow came and told us that he saw Brian Harpole and he saw Erika Kirk at Fort Huachuca in the days leading up to Charlie's assassination."
 
 </details>
@@ -1458,7 +1458,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - **[Dallas, Texas](/entities/gpe-dallas-texas.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [A Legal Turning Point? | Candace Ep 292 @ 00:14:16](/episodes/ep-NIEbqsLAK8g.md#t-00-14-04): “Brian Harpole, you should know, was also born in Dallas, Texas”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:14:16](/episodes/ep-NIEbqsLAK8g.md#t-00-14-16): “Brian Harpole, you should know, was also born in Dallas, Texas”
 
 </details>
 
@@ -1470,7 +1470,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - **[Bobby Harpole](/entities/person-bobby-harpole.md)**
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [A Legal Turning Point? | Candace Ep 292 @ 00:14:07](/episodes/ep-NIEbqsLAK8g.md#t-00-14-04): “all of Charlie's security that day was from Texas, from Rick Cutler to Dan Flood, even Brian Harpole. Brian Harpole, you should know, was also born in Dallas, Texas, and similar to Dan, his father, Bobby Harpole”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:14:07](/episodes/ep-NIEbqsLAK8g.md#t-00-13-35): “all of Charlie's security that day was from Texas, from Rick Cutler to Dan Flood, even Brian Harpole. Brian Harpole, you should know, was also born in Dallas, Texas, and similar to Dan, his father, Bobby Harpole”
 
 </details>
 
@@ -1675,7 +1675,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - **[Dallas, Texas](/entities/gpe-dallas-texas.md)** birthplace of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [A Legal Turning Point? | Candace Ep 292 @ 00:14:16](/episodes/ep-NIEbqsLAK8g.md#t-00-14-04): “Brian Harpole, you should know, was also born in Dallas, Texas”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:14:16](/episodes/ep-NIEbqsLAK8g.md#t-00-14-16): “Brian Harpole, you should know, was also born in Dallas, Texas”
 
 </details>
 
@@ -1770,7 +1770,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 - **[Bobby Harpole](/entities/person-bobby-harpole.md)** parent of this
 <details class="relationship-evidence"><summary>Show all evidence (1)</summary>
 
-- [A Legal Turning Point? | Candace Ep 292 @ 00:14:07](/episodes/ep-NIEbqsLAK8g.md#t-00-14-04): “all of Charlie's security that day was from Texas, from Rick Cutler to Dan Flood, even Brian Harpole. Brian Harpole, you should know, was also born in Dallas, Texas, and similar to Dan, his father, Bobby Harpole”
+- [A Legal Turning Point? | Candace Ep 292 @ 00:14:07](/episodes/ep-NIEbqsLAK8g.md#t-00-13-35): “all of Charlie's security that day was from Texas, from Rick Cutler to Dan Flood, even Brian Harpole. Brian Harpole, you should know, was also born in Dallas, Texas, and similar to Dan, his father, Bobby Harpole”
 
 </details>
 
@@ -1955,7 +1955,7 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 </details>
 
 <details open>
-<summary><strong class="section-title">Statements about Brian Harpole (113)</strong></summary>
+<summary><strong class="section-title">Statements about Brian Harpole (114)</strong></summary>
 
 <details>
 <summary>Amnesia Or Perjury? Exclusive Footage Of The OTHER Man On The Rooftop. | Ep 370 (1)</summary>
@@ -2310,11 +2310,19 @@ Source: [Security chief recounts moments after Charlie Kirk was shot](https://ww
 <details>
 <summary>A Legal Turning Point? | Candace Ep 292 (2)</summary>
 
-- [00:14:09](/episodes/ep-NIEbqsLAK8g.md#t-00-14-04) (Claim) **Candace Owens**: ["All of Charlie Kirk's security personnel on the day of his assassinati..."](/statements/statement-cb561dcf34d6.md)
+- [00:14:09](/episodes/ep-NIEbqsLAK8g.md#t-00-13-35) (Claim) **Candace Owens**: ["All of Charlie Kirk's security personnel on the day of his assassinati..."](/statements/statement-cb561dcf34d6.md)
   - Also about: [Charlie Kirk](/entities/person-charlie-kirk.md), [Rick Cutler](/entities/person-rick-cutler.md), [Dan Flood](/entities/person-dan-flood.md)
 
-- [00:29:45](/episodes/ep-NIEbqsLAK8g.md#t-00-29-00) (Accusation) **Candace Owens**: ["Turning Point USA and its security representatives are lying about the..."](/statements/statement-73e35afd8842.md)
+- [00:29:45](/episodes/ep-NIEbqsLAK8g.md#t-00-29-42) (Accusation) **Candace Owens**: ["Turning Point USA and its security representatives are lying about the..."](/statements/statement-73e35afd8842.md)
   - Also about: [Turning Point USA](/entities/org-turning-point-usa.md), [Andrew Kolvet](/entities/person-andrew-kolvet.md), [Paramount Tactical Solutions](/entities/org-paramount-tactical-solutions.md)
+
+</details>
+
+<details>
+<summary>CODE RED: Another TPUSA Trafficking Scandal?! | Candace Ep 289 (1)</summary>
+
+- [00:28:47](/episodes/ep-ZZGWo6oDscc.md#t-00-28-26) (Accusation) **Mitch Snow** (via quoted speech): ["Mitch Snow told Candace Owens that he saw Brian Harpole and Erika Kirk..."](/statements/statement-457a08a3d576.md)
+  - Also about: [Erika Kirk](/entities/person-erika-kirk.md), [Fort Huachuca](/entities/gpe-fort-huachuca.md)
 
 </details>
 

@@ -1,17 +1,21 @@
 ---
 title: "Lawfare"
-description: "Lawfare (Concepts) - 4 mentions"
+description: "Lawfare (Concepts) - 5 mentions"
 id: "concept-lawfare"
 type: "CONCEPT"
+categories:
+  - "legal and political strategy"
 ---
 
 _Type: Concepts_
 
+**Categories:** legal and political strategy
+
 <div class="entity-summary-grid">
 <div><span>First on-channel mention</span><strong><a href="/episodes/ep-5autG89PW6w.md#ent-concept-lawfare-t-01-04-00">2025-10-07 · 01:04:11</a></strong></div>
 <div><span>Most recent mention</span><strong><a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-lawfare-t-00-38-19">2026-03-17 · 00:38:49</a></strong></div>
-<div><span>Episodes</span><strong>4</strong></div>
-<div><span>Mentions</span><strong>4</strong></div>
+<div><span>Episodes</span><strong>5</strong></div>
+<div><span>Mentions</span><strong>5</strong></div>
 <div><span>Statements by</span><strong>0</strong></div>
 <div><span>Statements about</span><strong>1</strong></div>
 <div><span>Relationships</span><strong>0</strong></div>
@@ -25,6 +29,7 @@ _Type: Concepts_
 <a href="/episodes/ep-5autG89PW6w.md#ent-concept-lawfare-t-01-04-00" style="--pulse-height:100%" aria-label="TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249: 1 mentions" title="2025-10-07 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-7RLtGgkTh9o.md#ent-concept-lawfare-t-00-23-14" style="--pulse-height:100%" aria-label="From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265: 1 mentions" title="2025-11-15 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-a-e7HC6SeK8.md#ent-concept-lawfare-t-00-55-43" style="--pulse-height:100%" aria-label="Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272: 1 mentions" title="2025-12-02 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-BKcOm32ZEGk.md#ent-concept-lawfare-t-00-24-41" style="--pulse-height:100%" aria-label="PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290: 1 mentions" title="2026-01-14 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-k8ueJdPFel4.md#ent-concept-lawfare-t-00-38-19" style="--pulse-height:100%" aria-label="WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312: 1 mentions" title="2026-03-17 · 1 mentions"><span></span></a>
 </div>
 <details class="chart-table"><summary>View mention activity as a table</summary>
@@ -34,6 +39,7 @@ _Type: Concepts_
 | 2025-10-07 | [TPUSA RESPONDS: Yes, The Text Messages Are Real. | Candace Ep 249](/episodes/ep-5autG89PW6w.md#ent-concept-lawfare-t-01-04-00) | 1 |
 | 2025-11-15 | [From Britney To Charlie. With Pastors Like These, Who Needs Enemies? | Candace Ep 265](/episodes/ep-7RLtGgkTh9o.md#ent-concept-lawfare-t-00-23-14) | 1 |
 | 2025-12-02 | [Turning Point Has Been Keeping A BIG Secret. Did Charlie Know About It? | Candace Ep 272](/episodes/ep-a-e7HC6SeK8.md#ent-concept-lawfare-t-00-55-43) | 1 |
+| 2026-01-14 | [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md#ent-concept-lawfare-t-00-24-41) | 1 |
 | 2026-03-17 | [WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312](/episodes/ep-k8ueJdPFel4.md#ent-concept-lawfare-t-00-38-19) | 1 |
 
 </details>
@@ -42,13 +48,21 @@ _Type: Concepts_
 > **Note:** Entities are extracted automatically using AI/NLP. Some identifications may be incorrect or incomplete.
 
 <details>
-<summary><strong class="section-title">Raw mentions (4)</strong></summary>
+<summary><strong class="section-title">Raw mentions (5)</strong></summary>
 
 <details>
 <summary>WORLD WAR BIBI: Trump Betrays America (And Charlie Kirk) For Israel. | Candace Ep 312 (1 mentions)</summary>
 
 **[00:38:49](/episodes/ep-k8ueJdPFel4.md#ent-concept-lawfare-t-00-38-19)**
 > "...actics of slander, deception, lawfare, and yes, murder to force their perspectives."
+
+</details>
+
+<details>
+<summary>PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290 (1 mentions)</summary>
+
+**[00:24:52](/episodes/ep-BKcOm32ZEGk.md#ent-concept-lawfare-t-00-24-41)**
+> "...inevitability with ill-guided lawfare and warfare and what I think is that our collecti..."
 
 </details>
 

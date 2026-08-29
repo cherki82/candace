@@ -27,7 +27,7 @@ veracity: "mixed"
 ## Source
 
 **Episode:** [PROJECT LOOKING GLASS: How Did Charlie Know He Was Going To Die? | Candace Ep 290](/episodes/ep-BKcOm32ZEGk.md)
-**Timestamp:** [00:32:19](/episodes/ep-BKcOm32ZEGk.md#t-00-31-40) 
+**Timestamp:** [00:32:19](/episodes/ep-BKcOm32ZEGk.md#t-00-32-19) 
 <a href="#" onclick="if(parent.seekTo)parent.seekTo(1939);return false;">Play</a>
 
 > I mean, it had, there was actually a really good article on the spectrum. In the Spectator UK regarding how they tried to establish COVID to mirror a religion.

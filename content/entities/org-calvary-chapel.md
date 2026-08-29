@@ -47,7 +47,7 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 <a href="/episodes/ep-his-JBjlkh8.md#ent-org-calvary-chapel-t-00-11-15" style="--pulse-height:10%" aria-label="BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273: 2 mentions" title="2025-12-03 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-ewBzjVe3LNQ.md#t-00-09-04" style="--pulse-height:8%" aria-label="EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282: 1 mentions" title="2025-12-18 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-wcD2khO3rOA.md#ent-org-calvary-chapel-t-00-16-42" style="--pulse-height:15%" aria-label="The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287: 3 mentions" title="2026-01-09 · 3 mentions"><span></span></a>
-<a href="/episodes/ep-2T39-oADLj0.md#ent-org-calvary-chapel-t-00-53-48" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
+<a href="/episodes/ep-2T39-oADLj0.md#ent-org-calvary-chapel-t-00-54-16" style="--pulse-height:8%" aria-label="Myron Gaines x Candace Owens: 1 mentions" title="2026-01-16 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-xjzb_t5Tk9o.md#ent-org-calvary-chapel-t-00-22-52" style="--pulse-height:10%" aria-label="Candace x Bassem Youssef | Candace Ep 298: 2 mentions" title="2026-01-29 · 2 mentions"><span></span></a>
 <a href="/episodes/ep-DYD_QHMPwqM.md#ent-org-calvary-chapel-t-00-31-36" style="--pulse-height:8%" aria-label="REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302: 1 mentions" title="2026-02-04 · 1 mentions"><span></span></a>
 <a href="/episodes/ep-hWTdXHGQ8R4.md#ent-org-calvary-chapel-t-00-35-12" style="--pulse-height:8%" aria-label="VIRAL: Who Removed Charlie&#x27;s Wedding Photo, And Why? | Candace Ep 306: 1 mentions" title="2026-02-11 · 1 mentions"><span></span></a>
@@ -75,7 +75,7 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 | 2025-12-03 | [BREAKING: TPUSA Throws Down The Gauntlet! Publicly Invites Me To Ask Questions. | Candace Ep 273](/episodes/ep-his-JBjlkh8.md#ent-org-calvary-chapel-t-00-11-15) | 2 |
 | 2025-12-18 | [EXCLUSIVE INTERVIEW: What He Saw On Fort Huachuca The Day Before Charlie Died. | Candace Ep 282](/episodes/ep-ewBzjVe3LNQ.md#t-00-09-04) | 1 |
 | 2026-01-09 | [The Past Is Prologue: Why Charlie Kirk Was Murdered | Candace Ep 287](/episodes/ep-wcD2khO3rOA.md#ent-org-calvary-chapel-t-00-16-42) | 3 |
-| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-calvary-chapel-t-00-53-48) | 1 |
+| 2026-01-16 | [Myron Gaines x Candace Owens](/episodes/ep-2T39-oADLj0.md#ent-org-calvary-chapel-t-00-54-16) | 1 |
 | 2026-01-29 | [Candace x Bassem Youssef | Candace Ep 298](/episodes/ep-xjzb_t5Tk9o.md#ent-org-calvary-chapel-t-00-22-52) | 2 |
 | 2026-02-04 | [REVELATIONS: Macron’s Boyfriend. Erika’s Girlfriend. | Candace Ep 302](/episodes/ep-DYD_QHMPwqM.md#ent-org-calvary-chapel-t-00-31-36) | 1 |
 | 2026-02-11 | [VIRAL: Who Removed Charlie's Wedding Photo, And Why? | Candace Ep 306](/episodes/ep-hWTdXHGQ8R4.md#ent-org-calvary-chapel-t-00-35-12) | 1 |
@@ -214,7 +214,7 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 <details>
 <summary>Myron Gaines x Candace Owens (1 mentions)</summary>
 
-**[00:54:16](/episodes/ep-2T39-oADLj0.md#ent-org-calvary-chapel-t-00-53-48)**
+**[00:54:16](/episodes/ep-2T39-oADLj0.md#ent-org-calvary-chapel-t-00-54-16)**
 > "at that Calvary Chapel"
 
 </details>
@@ -605,7 +605,7 @@ Source: [Calvary Chapel Association](https://calvarycca.org/)
 <details>
 <summary>Myron Gaines x Candace Owens (1)</summary>
 
-- [00:54:16](/episodes/ep-2T39-oADLj0.md#t-00-53-48) (Accusation) **Candace Owens**: ["Calvary Chapel has repeatedly been accused of hostile takeovers of fai..."](/statements/statement-069dad6c023a.md)
+- [00:54:16](/episodes/ep-2T39-oADLj0.md#t-00-53-48) (Accusation) **Candace Owens**: ["Owens said it looked like Calvary Chapel had previously been accused o..."](/statements/statement-069dad6c023a.md)
   - Also about: [Rob McCoy](/entities/person-rob-mccoy.md), [Turning Point USA](/entities/org-turning-point-usa.md)
 
 </details>
